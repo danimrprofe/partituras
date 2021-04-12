@@ -2,9 +2,9 @@ LEIVA
 POLVORA
 
 
-=======================
-Canción 1. Los cantantes
-=======================
+
+# 1. Los cantantes
+
 Tonalidad: Mi b Mayor
 Capo  1
 118 bpm
