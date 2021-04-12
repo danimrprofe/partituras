@@ -468,51 +468,51 @@ Que salga del hueso una flor,  Y me salve y que no,
 que no puedo aguantar tu mirada
 Repite coro +1 tono
  
-=======================
-7. Vértigo
-=======================
+
+# 7. Vértigo
+
 Tonalidad: Si bemol mayor
 Capo: 1
 108 bpm
 
-Estrofa 
-*******
+## Estrofa 
+```
 A        C#m   F#m     D
 Luces, vértigos, pequeña agonía,
 A         E      F#m          C#m
  no dejes de soñar, escucho una vez más
             D
 y no termino de verlo.
-
-Puente 
-*******
+```
+## Pre-coro
+```
 A                E/
 Se ha roto algo por dentro,
 D          A            Bm
 soy una historia mas en la ciudad
      E      F#m     E    D     A
 y yo se que tu también estas así.
- 
-Estrofa
-*******
+``` 
+## Estrofa
+```
 A        C#m           F#m       D
 Crisis, vértigos, se comen el día,
  A           E            F#m          C#m
 no dejan de golpear, mi parte de verdad
             D
 y no consigo vencerlo.
-
-Puente 
-*******
+```
+## Pre-coro
+```
 A              E
 Se ha roto algo por dentro,
 D          A            Bm
 soy una historia más en la ciudad
         E      F#m     E        D   A
 y yo se que tu también estas así.
- 
-Coro 
-****
+```
+## Coro 
+```
          D            E              F#m         D
 No volveré a ser como antes, no volveré a ser igual,
    D                       A       E               F#m
@@ -528,15 +528,16 @@ porque la vida nos parte y yo me quiero soltar,
 no encuentro ni un instante de paz.
       Bm                      E        D        A
 no encuentro ni un instaaanteee de paaaz.
- 
-=======================
-8. Hermosa taquicardia
-=======================
+``` 
+
+# 8. Hermosa taquicardia
+
 Tonalidad: Mi mayor
 Capo 4
 78 bpm
 
-Estrofa
+## Estrofa
+``` 
 D        F#m    Bm            G            D
 Fue un momento aquella vez estábamos tan bien
           F#7        Bm      A
@@ -547,14 +548,18 @@ Cuerpo a cuerpo aprietas con saliva y sin querer
 Se bloquea todo dentro
 Em        D           A
 Échame la culpa otra vez
+``` 
 
 Puente
+``` 
          G          D              Em         G
 Y una hermosa taquicardia, Me sorprende de camino 
         D            Bm     A                 G       
 Y ahora que nos lamentamos, Saca lo que quieras de miiiiii
+``` 
 
 Coro
+``` 
             G
 Será una extraña confusión
              D
@@ -565,8 +570,9 @@ Seremos carne de cañón de madrugada
 Y es esa estúpida traición la que me trajo esta canción
           Em          A            D
 Porque me clavas el arpón con la mirada
-
+``` 
 Estrofa
+``` 
 D      F#m     Bm             G           D
 Se mezclaba la magia y una extraña decepción
 F#7              Bm      A
@@ -577,25 +583,28 @@ No era cierto, que lo necesitabas más que yo
 Y eso me hizo andar despierto
 Em        D           A
 Échame la culpa otra vez
-
+``` 
 Repite puente
 Repite coro
 Instrumental
+``` 
 E B/D# C#m C#m/B
 E Am
 E B/D# C#m C#m/B
 C Bm C Bm B C B E
+``` 
 
 Repite coro
 Final
+``` 
           Em          A            D
 Porque me clavas el arpón con la mirada
           Em          A            D
 Porque me clavas el arpón y luego nadaa 
+``` 
 
-=======================
-9. Mirada perdida
-=======================
+# 9. Mirada perdida
+
 Tonalidad: Mi mayor
 Capo 4
 148 bpm
