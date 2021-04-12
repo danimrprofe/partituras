@@ -747,9 +747,9 @@ Am G F G
 
 Repite coro  
 
-=======================
- 11. Mi mejor versión
-======================= 
+
+ # 11. Mi mejor versión
+
 Tonalidad: Mi mayor
 Tempo: 117
 Capo 2
