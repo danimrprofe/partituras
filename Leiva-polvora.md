@@ -68,9 +68,7 @@ Fmaj7inal
     Am  C/G   Fmaj7        C/G
 Uooooh  ooh oooh ooh ooh 
 
-==============================
-Canción 2. Terriblemente cruel
-==============================
+# 2. Terriblemente cruel
 
 Tonalidad: Do mayor
 Capo:  No
