@@ -15,7 +15,7 @@ Fmaj7   C/G   G   Am G
 Fmaj7   C/G   E7  Am
  ```
 [Estrofa]
-
+```
 Fmaj7                  C/G   G                  Am        G
   Las luces se hacen grandes,  El viento del presente nos da
     Fmaj7             C/G      E7           Am-G
@@ -24,7 +24,7 @@ Fmaj7               C/G     G                 Am         G
   Nada es tranquilizante,     el miedo nos descubre y se va
     Fmaj7                C/G   E7             Am
 Así son los días del cantante,      Deja que sea
- 
+```
 [Pre-coro]
         E                          Fmaj7  G
 No hay más, Si todo lo que viene se va, A golpe de volante
