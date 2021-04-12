@@ -80,17 +80,17 @@ Tonalidad: Do mayor
 Capo:  No
 126 bpm
 
-Am
 Intro
 *****
+```
 Am               E7 
 uoooooh oooh ooh ooooooooh
              F          C         G
 uoooooh uooh ooh oooooh ooooh ooh oooh
-
+```
 Estrofa 
 *******
-
+```
         Am                             F
 Si me está fallando la meditación, A menudo estallo y tengo vértigos
     C                           Em
@@ -99,9 +99,10 @@ Y lo intento y tú nunca recibes la señal
 Voy guardando bajo mi reputación, me salió muy claro perdonártelo
      C                        E7                   Dm    G
 Mentiré porque tú me lo pides de verdad, aunque te sepa mal
-
+```
 Coro 
 ****
+```
                     F                 C                  E7           Am
 Sabes que yo puedo ser terriblemente cruel, Para que no pierda la tensión
       F                   C            G
@@ -110,9 +111,10 @@ Tal vez la historia se me fue de las manos
 Voy a ser terriblemente fiel, Cuando se te pase la emoción
     F                C        G
 Ya sé, te puede parecer demasiado
- 
+```
 Estrofa 
 *******
+```
       Am                               F
 Se me está secando la imaginación, me pase de largo, puse corazón
       C                        E7
@@ -125,27 +127,31 @@ Me rozo un disparo de insatisfacción
 Al final te lo hiciste de cine
        E7                    Dm         G
 Pero duele igual... eso es universaaaaaaaal
- 
+ ```
 Repetición coro
  
 Solo
 ****
+```
 Am E7 F C G
 Am E7 F Fm C Fm C G
-
+```
 Final 
 *****
+```
 G                  F                  C
 Sabes que yo puedo ser terriblemente cruel
               E7         Am
 Cuando se te pase la emoción
    F                C        G
 Ya sé, te puede parecer demasiado complicado
- 
+``` 
 Repite intro con variación
 Repetición coro
+```
 Am Am Am Am 
 G-Am 
+```
 
 =======================
 3. Palomas
@@ -156,10 +162,13 @@ Tonalidad: Mi bemol mayor
 
 Intro
 *****
+```
 F G/B F G
+```
  
 Estrofa
 *******
+```
       C                            Em                  Am
 Hay miles de palomas volando en círculo, alrededor del sol
                    Em
@@ -177,14 +186,16 @@ Lo tienes que intentar
 Hay días para pedírtelo, semanas para dudar
    Dm              G
 Veranos en vilo hasta el final
- 
+``` 
 Puente 
 ******
+```
    F   G   Am      G
 No es más que un grito
- 
+``` 
 Coro 
 ****
+```
 C                              G
 Déjalo ya, déjalo ya. Se quedó frío
 Am                               F
@@ -195,9 +206,11 @@ Am                       F
 Es un aviso más del huracán
 
 C
+```
 
 Estrofa 
 *******
+```
      C                               Em                 Am
 Hay luces de farolas de barrio mítico, perfume de ciudad
                  Em
@@ -206,37 +219,39 @@ Espinas que se caen
 Hay vicios que son magníficos, semanas para frenar
   Dm              G
 Veranos que sufro de verdad
- 
+ ```
 Repite puente
 Repite coro
  
 Solo 
 ****
+```
 Am Am/G D/F#
 Am Am/G D/F#
 Am Am/G D/F#
 Am Am/G D A C D
- 
+``` 
 Repite puente
 Repite coro 
 
 Final 
-
+```
 G A Bm C#m D 
+```
 
-=======================
-4. Cerca
-=======================
+
+# 4. Cerca
+
 Tonalidad: Re mayor
 Capo 2
 
 Intro
-*****
+```
 C F C G
 C F C G
- 
+ ```
 Estrofa 
-*******
+```
 C           G        Am           F
 Es una decisión fatal, es el universo
        Dm               Am
@@ -250,9 +265,9 @@ No estábamos para forzar, y yo soy un intenso
 La culpa no se puede remontar
    F             G
 En este invierno cruel
- 
+``` 
 Coro
-****
+```
                        F
 Que cerca estuve de llevarlo bien
 G                      C
@@ -263,9 +278,9 @@ No seas estúpida y ven
 Volvamos a intentarlo
  
 C F C G
- 
+``` 
 Estrofa
-******* 
+```
 C               G                Am            F
 Chispazos en la gran ciudad, La suerte y el incienso
      Dm              Am
@@ -279,21 +294,22 @@ No ha vuelto a responder jamás, Y vuelco en cada intento
 La veo en posters de publicidad
   F          G
 Posando para mí
- 
+``` 
 Repite coro
 Repite coro
  
 Instrumental 
-************
+```
 F G C Dm
 F G Dm Em F G
- 
+``` 
 Repite coro
  
 Final 
-*****
+```
 C F C G
 C F C G C
+```
  
 =======================
 5. Afuera en la ciudad
@@ -302,10 +318,12 @@ Tonalidad: Fa # mayor
 Capo 3
 79 bpm
 
-Intro 
+Intro
+```
 D     Dsus4     D     Dsus4 
-
+```
 Estrofa 
+```
 D     Dsus4       D           Dsus4
 No sé cómo será cuando no disparas
 D     Dsus4        D       Dsus4
@@ -323,14 +341,16 @@ Em                            A
 Cada vez que me lo pides vuelco
 G              Em       D
 Cada vez que escupes lava
- 
+``` 
 Puente
+```
         G              D          Em            A
 Cuánto tiempo va a llevarnos, reponernos de los golpes
      G          D        Em          A
 Y seguir disimulando que aún no me conoces
-  
+``` 
 Coro 
+```
             G                    A
 Y afuera en la ciudad sigue lloviendo
            D        A            Bm       A
@@ -339,8 +359,9 @@ G         A
 Vamos a salir perdiendo / Vamos a matar muriendo ooh / Vamos a seguir durmiendo
  
 D     Dsus4
-  
+```  
 Estrofa 
+```
 D     Dsus4      D              Dsus4
 No sé cómo será cuando no haya ranas
 D     Dsus4         D       Dsus4
@@ -349,21 +370,23 @@ Em                            A
 Cada vez que me lo pide el cuerpo
 G          Em         D
 Cada vez estás más rara
- 
+``` 
 Repite puente
 Repite coro
 
 Solo 
+```
 D  C Bm A# x2 
 G Em D
+```
 
 Repite coro
  
 Final
- 
+``` 
 D     Dsus4
 D     Dsus4
-
+```
 
 =======================
 6. Del hueso una flor
