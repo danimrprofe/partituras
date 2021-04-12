@@ -9,10 +9,11 @@ Tonalidad: Mi b Mayor
 Capo  1
 118 bpm
 
+```
 Intro
 Fmaj7   C/G   G   Am G
 Fmaj7   C/G   E7  Am
- 
+ ```
 [Estrofa]
 
 Fmaj7                  C/G   G                  Am        G
