@@ -25,12 +25,13 @@ Fmaj7               C/G     G                 Am         G
     Fmaj7                C/G   E7             Am
 Así son los días del cantante,      Deja que sea
 ```
-[Pre-coro]
+## Pre-coro
+```
         E                          Fmaj7  G
 No hay más, Si todo lo que viene se va, A golpe de volante
-
-[Coro]
-
+```
+## Coro
+```
 C/G          Em          Am         G                    Fmaj7
 Tengo que volver a mi planeta,  colgado de la luna en soledad
      Em                    Dm            G
@@ -39,8 +40,9 @@ C/G              Em            Am       G                     Fmaj7
     Tengo que grabarlo en mi cabeza, Subir al escenario principal
 Em                          Dm        G
 Es todo lo que quise conquistar en la vida
- 
-Estrofa
+``` 
+## Estrofa
+```
 Fmaj7              C/G    G                Am         G
    Los ídolos del parque,    los dandis y poetas de bar
       Fmaj7                  C/G   E7             Am-G
@@ -49,25 +51,29 @@ Fmaj7              C/G     G                   Am         G
 Los versos que nos parten,   Los lazos que nos van a marcar
         Fmaj7               C/G    E7            Am
 Que no mueran nunca los cantantes,     Deja que sea
-
+```
 Puente
+```
         E7                        Fmaj7    G
 No hay más, Si todo lo que viene se va, A golpe de volante
+```
 
-Repetición coro
+## Repetición coro
  
-Segundo puente
+## Segundo puente
+```
     Am      C/G        Fmaj7
 Uooooh  ooh oooh ooh ooh
     Am  C/G        Fmaj7       G
 Uooooh  ooh oooh ooh ooh oooh
-
+```
 Repetición coro
 
-Fmaj7inal
+## Final
+```
     Am  C/G   Fmaj7        C/G
 Uooooh  ooh oooh ooh ooh 
-
+```
 # 2. Terriblemente cruel
 
 Tonalidad: Do mayor
