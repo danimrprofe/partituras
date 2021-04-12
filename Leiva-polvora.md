@@ -311,18 +311,17 @@ C F C G
 C F C G C
 ```
  
-=======================
-5. Afuera en la ciudad
-=======================
-Tonalidad: Fa # mayor
-Capo 3
-79 bpm
+# 5. Afuera en la ciudad
 
-Intro
+- Tonalidad: Fa # mayor
+- Capo 3
+- 79 bpm
+
+## Intro
 ```
 D     Dsus4     D     Dsus4 
 ```
-Estrofa 
+## Estrofa 
 ```
 D     Dsus4       D           Dsus4
 No sé cómo será cuando no disparas
@@ -342,7 +341,7 @@ Cada vez que me lo pides vuelco
 G              Em       D
 Cada vez que escupes lava
 ``` 
-Puente
+## Puente
 ```
         G              D          Em            A
 Cuánto tiempo va a llevarnos, reponernos de los golpes
@@ -388,21 +387,18 @@ D     Dsus4
 D     Dsus4
 ```
 
-=======================
-6. Del hueso una flor
-=======================
-Tonalidad: Mi bemol mayor
-Capo 3
-100 bpm
+# 6. Del hueso una flor
+
+- Tonalidad: Mi bemol mayor
+- Capo 3
+- 100 bpm
 
 Intro arpegiada
-***************
-
+```
 C / F // C / F
- 
+``` 
 Estrofa 
-***************
-
+```
          C       			  F
 Abre un poco y afloja la marcha, basta de tanta intensidad,
           Dm                     G
@@ -413,10 +409,9 @@ Di que sí, no le pongo más raza, vas a dejarme descansar.
 Cómo cambias de coraza, de las chispas a la nada.
        Am           F        G
 Me da que no lo queremos asumir...
-
+```
 Puente 
-******
-
+```
                 Am  F             C
 Que solo es un poco, que no pasa nada.
                  Am   F         C
@@ -427,16 +422,14 @@ Que me lleve el viento que nos da en la cara.
 Que salga del hueso una flor, Y me salve y que no,
         F                  G
 que no puedo aguantar tu mirada
- 
+``` 
 Coro
-****
-
+```
           C   F                                    C             G
 Má-ma-ma-maaaaás.Má-ma-ma-maaaaás. (x2)
-  
+```  
 Estrofa 
-*******
-
+```
           C                                   F
 Hoy lo intento y me tiro a la plaza, Voy a quemarla sin piedad,
     Dm                      G / G7
@@ -447,13 +440,12 @@ Quiero miles de drogas y drogas, Quiero hacerlo en el portal.
 Cómo cambiaron las cosas, de los versos a las balas.
        Am          F       G
 Me da que no lo podemos asumir.
- 
+``` 
 Repite puente 
 Repite coro
  
 Puente
-******
-
+```
 F              Dm
 Uoooh oooh ooh Uoooh ooh ooh
 C              E     E7
@@ -466,14 +458,16 @@ Oooooooooooooh Ooooooooooooh
 Que salga del hueso una flor,  Y me salve y que no,
         G                  A
 que no puedo aguantar tu mirada
+```
+
 Repite coro +1 tono
  
 
 # 7. Vértigo
 
-Tonalidad: Si bemol mayor
-Capo: 1
-108 bpm
+- Tonalidad: Si bemol mayor
+- Capo: 1
+- 108 bpm
 
 ## Estrofa 
 ```
