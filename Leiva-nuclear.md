@@ -42,9 +42,10 @@
 
 # 🎸 1. Expertos
 
-- 🎼 Tonalidad: La mayor
-- 🎼 Capo: No
-- 🎼 Tempo: 126 bpm
+
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| La mayor  | 126 bpm | 4/4    | No   |
 
 ## Intro
 
@@ -198,10 +199,11 @@ A  D        A  D  A
 
 # 🎸 2. Superpoderes
 
-- Tonalidad: Re Mayor
-- Tempo: 88 BPM
-- Compás: 4/4
-- Capo: No
+| Tonalidad                   | Tempo  | Compás | Capo |
+| --------------------------- | ------ | ------ | ---- |
+| Re mayor (disco)            | 88 bpm | 4/4    | No   |
+| Re# mayor (directo nuclear) | 88 bpm | 4/4    | 1    |
+
 
 ## Estrofa
 
@@ -216,7 +218,7 @@ Em                        G         A
 Se derrumba en un segundo, o desaparece
 ```
 
-# # Pre-estribillo
+## Pre-estribillo
 
 ```
   G         Bm   D                   Em
@@ -314,9 +316,10 @@ Siempre, siempre, siempre, siempre
 
 # 🎸 3. No te preocupes por mi
 
-- Tonalidad:	Sol mayor
-- Tempo:		77 bpm
-- Capo:		No
+
+| Tonalidad | Tempo  | Compás | Capo |
+| --------- | ------ | ------ | ---- |
+| Sol mayor | 77 bpm | 4/4    | No   |
 
 ## Estrofa
 
@@ -429,10 +432,10 @@ nadie entiende el movimiento de sus alas...
 
 # 🎸 4. Maniobras suicidas
 
-- Tonalidad: 
-- Tempo: 
-- Compás:
-- Capo: No
+| Tonalidad | Tempo  | Compás | Capo |
+| --------- | ------ | ------ | ---- |
+| Fa# mayor | 90 bpm | 4/4    | No   |
+
 
 ## Estrofa
 
@@ -552,9 +555,11 @@ C A# F G# A# C
 
 # 🎸 5. Lobos
 
-- Tonalidad: Si menor
-- Tempo: 128 bpm
-- Capo:	2
+| Tonalidad                  | Tempo   | Compás | Capo |
+| -------------------------- | ------- | ------ | ---- |
+| Si menor                   | 128 bpm | 4/4    | 2    |
+
+
 
 
 B-B-A-A
@@ -697,6 +702,10 @@ X
 ```
 
 #  🎸 6. Nuclear
+
+| Tonalidad | Tempo | Compás | Capo |
+| --------- | ----- | ------ | ---- |
+| Do mayor  | bpm   | 4/4    | No   |
 
 ## Estrofa
 
@@ -869,6 +878,11 @@ La zona nuclear
 
 # 🎸 7. En el espacio
 
+
+| Tonalidad | Tempo | Compás | Capo |
+| --------- | ----- | ------ | ---- |
+| Do mayor  | bpm   | 4/4    | No   |
+
 ## Intro
 
 ```
@@ -978,8 +992,11 @@ C F C
 
 # 🎸 8. Como si fueras a morir mañana
 
-- Capo 1
+| Tonalidad | Tempo | Compás | Capo |
+| --------- | ----- | ------ | ---- |
+|           | bpm   | 4/4    | 1    |
 
+## Intro punteo
 ```
 [Punteo de la intro]
    D               Dsus4       Bm                        G                         A
@@ -1134,7 +1151,11 @@ Como si fueras a morir mañana
 
 # 🎸 9. Costa de Oaxaca
 
-- Afinación -1
+| Tonalidad | Tempo | Compás | Capo |
+| --------- | ----- | ------ | ---- |
+|           | bpm   | 6/8    | No   |
+
+- Afinación -1 o bajar medio tono
 
 ## Estrofa
 
@@ -1199,7 +1220,12 @@ Aquí todo aunque no lo parezca, avanza.
 
 # 🎸 10. Godzilla
 
-- Capo: 5
+| Tonalidad                   | Tempo  | Compás | Capo |
+| --------------------------- | ------ | ------ | ---- |
+| Fa mayor (disco)            | 75 bpm | 4/4    | 5    |
+| Fa# mayor (directo nuclear) | 75 bpm | 4/4    | 6    |
+
+
 
 ## Intro
 
@@ -1341,10 +1367,11 @@ Am F C Cadd9 C
 
 # 🎸 11. A ti te ocurre algo
 
-- Tonalidad: 	Sol Mayor
-- Tempo: 		130
-- Compás: 	4/4
-- Capo: 		No
+| Tonalidad         | Tempo   | Compás | Capo |
+| ----------------- | ------- | ------ | ---- |
+| Sol mayor (disco) | 130 bpm | 4/4    | No   |
+
+
 
 ## Intro
 ```
@@ -1536,9 +1563,9 @@ D       G   C G
 
 # 🎸 12. El gigante de big fish
 
-| Tonalidad  |  Tempo |  Compás  |  Capo  | 
-|---|---|---|---|
-| Fa menor  |  85 bpm  |   | 1  |
+| Tonalidad | Tempo  | Compás | Capo |
+| --------- | ------ | ------ | ---- |
+| Fa menor  | 85 bpm |        | 1    |
 
 
 ## Intro
