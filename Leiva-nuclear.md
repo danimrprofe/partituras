@@ -1407,20 +1407,16 @@ Para seducirte
 ## Estribillo
 
 ```
-               C     
-A ti te ocurre algo
-D                Em    
- Son demasiadas veces
-D               C
-Resucitando y nunca
-D            G      C G
-Es lo que parece
+               C     D                Em
+A ti te ocurre algo,   son demasiadas veces
+D               C   D            G    C-G
+Resucitando y nunca es lo que parece
 ``` 
 
 ## Puente
 
 ```
-            Bm   Em   C
+           D/F#   Em   C
 Quiero que sepas algo
                           G
 Nadie me puede hacer más daño que yo
@@ -1435,11 +1431,7 @@ Oh, oh-oh, oh-oh
 ## Instrumental
 
 ```
-  G     D C
- 
-D G     D C
- 
-D G     D C
+G  D-C D x2  
 ```
  
 ## Estrofa
@@ -1462,24 +1454,20 @@ C                            D
    A veces siento que algo suena crack
 C                          D
    Ya ves que nada es imposible
-           C            Bm    Am
+           C            G/B   Am
    Y esto sólo es un intento más
-             D     G D
+        Am/G D     G-D
    Para seducirte
 ```
 
 ## Estribillo
 
 ```
-               C     D
-A ti te ocurre algo
-                Em    D
-Son demasiadas veces
-               C
-Resucitando y nunca
-D            G      C G
-Es lo que parece
-```
+               C     D                Em
+A ti te ocurre algo,   son demasiadas veces
+D               C   D            G    C-G
+Resucitando y nunca es lo que parece
+``` 
 
 ## Puente
 
@@ -1598,7 +1586,7 @@ Te mueres de vergüenza, como el gigante de big fish
 ```
          Em                      A
 Te haces bicho bola, Cuando hay gente nueva y no controlas
-Bm            A          G
+Bm            F#m          G
 Y no ves el momento de salir
               Em                          D
 Te conozco tantísimo, Que me ha parecido oír
@@ -1633,7 +1621,7 @@ Te cambias por cualquiera, Como el gigante de big fish
 ```
          Em                      A
 Te haces bicho bola, Cuando hay gente nueva y no controlas
-Bm            A          G
+Bm            F#m          G
 Y no ves el momento de salir
      Em                                   D 
 Te conozco tantísimo, Que me ha parecido oír
