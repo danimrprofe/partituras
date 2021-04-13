@@ -1,5 +1,10 @@
+# Canciones
+
+- [Canciones](#canciones)
+- [Brave](#brave)
+  - [Volaré](#volaré)
 - [Vaiana](#vaiana)
-  - [Que hay más allá](#que-hay-más-allá)
+  - [🎸 Que hay más allá](#-que-hay-más-allá)
   - [Un nuevo hogar](#un-nuevo-hogar)
   - [De nada](#de-nada)
   - [Brillante](#brillante)
@@ -12,12 +17,113 @@
   - [Muéstrate](#muéstrate)
   - [Por primera vez en años](#por-primera-vez-en-años)
   - [Hazme un muñeco de nieve](#hazme-un-muñeco-de-nieve)
+  - [Mucho más allá](#mucho-más-allá)
+- [Toy story](#toy-story)
+  - [Hay un amigo en mi](#hay-un-amigo-en-mi)
+
+# Brave
+
+## Volaré
+
+**Intro Violín**
+
+``` 
+| D   | D   | D   | C C C |
+| D   | D   | D   | C C C |
+| D   | D   | D   | C C C |
+| Am  | Am  | Am  | Am    |
+``` 
+ 
+[Verse]
+
+```
+     D               G            D           G
+Allá donde el viento habla y el cielo es más azul
+     Bm    A     G              D            A
+allá donde las estrellas te iluminan con su luz
+```
+
+**Estribillo**
+
+``` 
+    Bm7       G          D      A      Bm7
+Correré, volaré, con el viento cabalgaré
+     G           D     A     D
+Volaré, con el viento cabalgaré
+``` 
+
+
+``` 
+   D          G             D             A
+Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
+   D          G             D             A
+Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
+``` 
+``` 
+Bm (mantener) | A
+``` 
+ 
+[Verse]
+``` 
+  D                    G
+Allá donde el bosque esconde
+   D                   G
+secretos que nunca sabrás
+       Bm     A       G
+las montañas se hacen eco
+       D                 A
+de historias de tiempo atrás
+ 
+     D          G
+Cruzaré ríos y valles
+         D          G
+y a las cumbres subiré
+      Bm    A        G
+seré fuerte como las rocas
+        A        D
+y orgullosa gritaré
+``` 
+ 
+**Estribillo**
+
+``` 
+    Bm7       G          D      A      Bm7
+Correré, volaré, con el viento cabalgaré
+     G           D     A     D
+Volaré, con el viento cabalgaré
+``` 
+ 
+[Instrumental]
+``` 
+   D          G             D             A
+Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
+   D          G             D             A
+Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
+   D          G             D             A
+Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
+``` 
+ 
+[Outro]
+``` 
+D   G   D    G
+D   G   D
+```
 
 # Vaiana
 
-## Que hay más allá
-****
-[Verse]
+![](img/2021-04-13-14-55-12.png)
+
+## 🎸 Que hay más allá
+
+ 
+
+ | Tonalidad | Tempo  | Compás | Capo |
+ | --------- | ------ | ------ | ---- |
+ | Mi mayor  | 84 bpm | 4/4    | No   |
+
+
+
+**Estrofa**
 ``` 
 E                               B/F#                     C#m
 He buscado siempre aquí una respuesta, Esperando en la orilla
@@ -37,7 +143,7 @@ Cada amanecer, cada sensación, Cada atardecer, al caer el sol,
            E                                 Am6
 Vuelvo a imaginar que hay algún lugar donde debo ir...
 ``` 
-[Chorus]
+**Estribillo**
  ``` 
        E                                B/D#
 Veo la línea entre el cielo y el mar en frente,
@@ -54,7 +160,7 @@ Si me voy un mundo nuevo descubriré.
 ```  
 B C#m A
 ```  
-[Verse]
+**Estrofa**
 ``` 
                            B/D#                       C#m
 Ya sé que aquí todos en la isla piensan que son muy felices,
@@ -78,7 +184,7 @@ Pero esa voz canta otra canción,
         Am        Am6
 ¿que me pasa a mí?
 ```  
-[Chorus]
+**Estribillo**
 ```  
        E                                B/D#
 Hoy la línea entre el cielo y el mar me ciega,
@@ -100,7 +206,11 @@ Sabré al final yo que hay más alláa
 ``` 
 ## Un nuevo hogar
 
-[Verse]
+ | Tonalidad | Tempo   | Compás | Capo |
+ | --------- | ------- | ------ | ---- |
+ | La mayor  | 101 bpm | 4/4    | No   |
+
+**Estrofa**
 ```  
 A
 Tatou o tagata folau e vala'auina
@@ -111,7 +221,7 @@ Ia ava'e le lu'itau e lelei
 E        A
 Tapenapena
 ```  
-[Chorus]
+**Estribillo**
 ```  
 D
 Aue, aue
@@ -127,7 +237,7 @@ Te fenua, te malie,
 E
 Nae ko hakilia mo kaiga e
 ```  
-[Verse]
+**Estrofa**
  ``` 
 A
 Sabemos el viento leer Con gran nitidez,
@@ -138,7 +248,7 @@ Y cada estrella ahí está Justo en su lugar,
 A
 Sabemos mirar de verdad
  ``` 
-[Chorus]
+**Estribillo**
 ```  
 D
 Aue, aue,
@@ -174,6 +284,10 @@ Un nuevo hogar
 ``` 
 ## De nada
 
+ | Tonalidad | Tempo   | Compás | Capo |
+ | --------- | ------- | ------ | ---- |
+ | Fa mayor  | 135 bpm | 4/4    | No   |
+
 **Verse**
  
 ```  
@@ -195,7 +309,7 @@ Admírame bien -qué bueno estoy-,
         A#              C
 estás justo frente a un semidios.
 ```  
-[Chorus]
+**Estribillo**
 ```  
 Am            F            C
 ¿Qué puedo decir? Solo «de nada»
@@ -207,7 +321,7 @@ No hay de qué, está bien, de nada;
 soy sólo un tipo cachas muy normal.
  ``` 
  
-[Verse]
+**Estrofa**
  ``` 
 C                                F/C
 ¡Hey! ¿Quién levantó el cielo con su pulgar
@@ -230,7 +344,7 @@ El viento también domé –¡de nada!-
 y así los barcos impulsé.
 ```  
  
-[Chorus]
+**Estribillo**
 ```  
 Am            F            C
 ¿Qué puedo decir? Solo «de nada»
@@ -273,7 +387,7 @@ Mira, aquí hay un mini-Mauí bailando claqué.
  
 Ja, ja, ja, ja, ja, ja. ¡Ey!
 ```  
-[Chorus]
+**Estribillo**
 ```  
 Am          F              C
 Deja que diga otra vez «de nada» (de nada)
@@ -304,7 +418,11 @@ Y gracias!
 ``` 
 ## Brillante
 
-[Verse]
+ | Tonalidad | Tempo  | Compás | Capo |
+ | --------- | ------ | ------ | ---- |
+ | Do mayor  | 73 bpm | 4/4    | No   |
+
+**Estrofa**
 ``` 
 Em        Am
    Hace tiempo no tenía este
@@ -324,7 +442,7 @@ Em         Am
     Cm            Am7b5
 desmontar, Ella mintió. Mejor ser:
 ```  
-[Chorus]
+**Estribillo**
 ``` 
      G            C
 ¡Brillante! Cual tesoro de un navío que se
@@ -375,7 +493,7 @@ Em           Am
   Cm            Am7b5
 creé. ¿O no lo ves? Yo soy muy
 ``` 
-[Chorus]
+**Estribillo**
 ```
  
       G           C
@@ -413,7 +531,7 @@ Bb
               G#
 ¡Ahora voy a patearte! ¿Viste a alguien tan...
 ``` 
-[Chorus]
+**Estribillo**
 ``` 
        G          C
 ...Brillante? Lo último que tú verás será a
@@ -437,13 +555,19 @@ G
 
 # Coco
 
+![](img/2021-04-13-15-00-07.png)
+
 ## Un poco loco
 
-[Intro]
+ | Tonalidad | Tempo   | Compás | Capo |
+ | --------- | ------- | ------ | ---- |
+ | Sol mayor | 126 bpm | 3/4    | No   |
+
+**Intro**
 ```
 G    C  G  D G
 ``` 
-[Verse]
+**Estrofa**
 ```
  D                   G
 Que el cielo no es azul
@@ -520,13 +644,16 @@ Un poquitititi titi titi titi tititito loco
 
 ## El latido de mi corazón
 
-Capo 3
+ | Tonalidad | Tempo   | Compás | Capo |
+ | --------- | ------- | ------ | ---- |
+ | Fa mayor  | 174 bpm | 3/4    | 3    |
 
-[Intro]
+
+**Intro**
 ```
 D C G D
 ``` 
-[Verse]
+**Estrofa**
 ```
 D            C
 Dirás que es raro
@@ -545,7 +672,7 @@ versos que tuyo son
 G                  A       
 Y el recuerdo nos dio
  ```
-[Verse]
+**Estrofa**
 ```
      D      G            A       D
 Una melodía bella que el alma tocó
@@ -564,7 +691,7 @@ En el latido de mi corazón
 ```
 B7
 ``` 
-[Chorus]
+**Estribillo**
 ```
 E        A
 Ay, mi familia
@@ -578,7 +705,7 @@ Amor verdadero nos une por siempre
 En el latido de mi corazón
 ``` 
  
-[Chorus]
+**Estribillo**
 ```
 E        A
 Ay, mi familia
@@ -594,6 +721,13 @@ En el latido de mi corazón
 
 
 ## Recuérdame
+
+ | Tonalidad  | Tempo  | Compás | Capo |
+ | ---------- | ------ | ------ | ---- |
+ | Fa # mayor | 80 bpm | 4/4    | No   |
+
+
+**Intro**
 
 B  | Bb Ebm | D | Db
 
@@ -654,7 +788,13 @@ Re     cuérdameee
 
 # Frozen
 
+![](img/2021-04-13-15-06-31.png)
+
 ## Suéltalo
+
+ | Tonalidad  | Tempo  | Compás | Capo |
+ | ---------- | ------ | ------ | ---- |
+ | La b mayor | 80 bpm | 4/4    | 1    |
 
 **Intro**
 
@@ -764,6 +904,11 @@ el frío a mi nunca me molestó
 ```
 
 ## Muéstrate
+
+ | Tonalidad  | Tempo   | Compás | Capo |
+ | ---------- | ------- | ------ | ---- |
+ | Fa # Mayor | 123 bpm | 4/4    | No   |
+
 
 **Intro**
 ```
@@ -889,6 +1034,10 @@ Ah-ah, ah-ah
 ```
 
 ## Por primera vez en años
+
+ | Tonalidad | Tempo  | Compás | Capo |
+ | --------- | ------ | ------ | ---- |
+ |           | 95 bpm | 4/4    | No   |
 
 **Verse**
 ``` 
@@ -1026,7 +1175,11 @@ F                 C
 ``` 
 ## Hazme un muñeco de nieve
 
-Capo 3
+ | Tonalidad      | Tempo  | Compás | Capo |
+ | -------------- | ------ | ------ | ---- |
+ | Mi bemol Mayor | 76 bpm | 4/4    | 3    |
+
+**Introduccion**
 
 ```
 Ana:¿Elsa?
@@ -1098,9 +1251,12 @@ G | Am F
 F Am | F/A | -
 ```
 
-``` 
 ## Mucho más allá
- 
+
+ | Tonalidad      | Tempo   | Compás | Capo |
+ | -------------- | ------- | ------ | ---- |
+ | Re bemol Mayor | 148 bpm | 4/4    | No   |
+
 **Intro**
 ```
 D#m         G#    D#m         G# 
@@ -1172,7 +1328,7 @@ G#sus4            G#            A#m
 Algo hay en mi interior que quiere ir
 ``` 
  
-[Chorus]
+**Estribillo**
 ```
            D#               G#              Cm
 Mucho más allá, Mucho más allá, Mucho más allá
@@ -1204,4 +1360,66 @@ C#        C#m
 ¿Cómo te sigo a ti
            C
 Mucho más allá
+```
+
+# Toy story
+
+Capo 3
+
+## Hay un amigo en mi
+
+```
+C         Gaug     C C9
+Hay un amigo en mí
+F         F#dim    C  C7
+hay un amigo en mí
+F      C/E       E7 Am
+Cuando eches a volar
+F          C/E       E7     Am
+Y tal vez añores tu dulce hogar
+F  B/F#    C/G  E/G#     F  E   Am
+Lo que  te digo debes    re-cor-dar
+       D7     G7       C   A7
+Porque hay un amigo en mí
+   D7      G7       C
+Sí hay un amigo en mí
+ 
+C         Gaug     C C9
+Hay un amigo en mí
+F         F#dim    C  C7
+Hay un amigo en mí
+F              C        E7                Am
+Y cuando sufras aquí me tendrás
+F           C                    E7    Am
+No dejaré de estar contigo ya verás
+F            C        E7     Am
+No necesitas a nadie más
+D7             G7                 C
+Porque hay un amigo en mí
+D7    G7                 C C7
+Hay un amigo en mí
+```
+**Puente**
+
+```
+F                   B
+Otros habrá tal vez mucho más listos que yo
+C6    B7  C6
+Eso puede ser tal vez
+B7                    Ddim7 B/F#
+Mas nunca habrá quien pueda ser
+   Em    A7     Dm7   G7
+Un amigo fiel y tú lo sabes
+C         Gaug C C7add9
+El tiempo pasará
+F              F#dim    C
+lo nuestro no morirá
+F          F#dim C    E7   A7
+Lo vas a ver es mejor saber
+D7                 G7         C A7
+Que hay un amigo en mí
+D7           G7         C A7
+Hay un amigo en mí
+D7          G7         C
+Hay un amigo en mí
 ```
