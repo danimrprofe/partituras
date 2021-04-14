@@ -24,23 +24,38 @@
 
 # 1. El camino
 
+
+**Intro**
+
+| 1   | 2   | 3   | 4   |
+| --- | --- | --- | --- |
+| C   | Fm7 | C/E | Fm  |
+| Dm7 | Eb  | Fm  | G   |
+
+| 1   | 2   | 3   | 4   |
+| --- | --- | --- | --- |
+| Ab  | Fm  | C/E | C   |
+| Ab  | Fm  | C/E | C   |
+
+
+
 **Estrofa**
  
 ```
-Ab                    F                    C
+     Ab                      Fm                C
 He llegado hasta aquí porque nunca dejé de buscarte
-Ab                    F                    C
+      Ab                   Fm                    C
 He aprendido a vivir el camino y no quiero volver
-Am               Ab            C            Ab
+     Am          Abdim         C/G           Abdim
 Y tampoco quiero que me duelan los finales, las miserias,
-F
+F/A                    Fm/Ab
 los idiotas enfadados, los abrazos de cartón
 ```
 
 **Bridge**
 
 ``` 
-D    Am     C   D           Am           G
+   C Am      G   C           Am           G
 De lejos te vi, de lejos me has hecho feliz.
 ```
 
@@ -49,24 +64,25 @@ De lejos te vi, de lejos me has hecho feliz.
 ``` 
 F                                      Am
 Y no quiero dejar de buscarte por este camino
-F                                              Am
-Te he contado que no te conozco y te quiero de lejos
+F                                              Am    G
+Te he contado que no te conozco y te quiero de leeejooos
 ```
 
-```
-Ab F E C
-Ab F C
-``` 
+| 1   | 2   | 3   | 4   |
+| --- | --- | --- | --- |
+| Ab  | Fm  | C/E | C   |
+| Ab  | Fm  | C   | -   |
+
 **Verse 2**
 
 ``` 
-Ab                    F                    C
+     Ab                F              C       C/E
 Y te juro que vale la pena caer y romperse la cara
-Ab                    F                    C
+     Ab                     F                 C/E
 Que regalo tan grande aprender de lo que nos dolió
-Am                  Abm           C          D
+     Am             Abdim     C/G        D/F#
 Que regalo estar en este viaje de románticos salvajes
-F                     Ab
+F                     Fm/Ab
 Soñadores desterrados caminantes del amor
 ``` 
 **Bridge**
@@ -74,6 +90,9 @@ Soñadores desterrados caminantes del amor
 C     Am    G      C            Am    G
 De lejos te vi, de lejos me has hecho feliz
 ``` 
+
+
+
 **Estribillo**
 ``` 
 F                                       Am
@@ -82,32 +101,36 @@ F                                           Am         G
 Te he contado que no te conozco y te quiero de lejos, de lejos
 ```
 ``` 
-C Am G
-C Am G
+
+C       Am        G
+Oooooooooooooooooooooooooooooooh
+C       Am        G
+Oooooooooooooooooooooooooooooooh (o algo así)
 ```
 ``` 
-F                                      Am
+        F                          Am
 Yo no quiero dejar de buscarte por este camino
-F                                              Am        Em
+         F                                  Am        G/B
 Te he contado que no te conozco y te quiero de lejos, de lejos
 ``` 
 **Outro**
-``` 
-Ab Fm C
-Ab Fm Em
+
+| 1   | 2   | 3   | 4   |
+| --- | --- | --- | --- |
+| Ab  | Fm  | C/E | C   |
+| Ab  | Fm  | Em  | -   |
+
+```
+    Ab         Fm              C/E           C
+Te buscaré sin descansar, no dejaré de caminar
+    Ab         Fm              C/E           C
+Te buscaré sin descansar, no dejaré de caminar
+    Ab         Fm              C/E           C
+Te buscaré sin descansar, no dejaré de caminar
 ```
 
 ```
-Ab             F              C
-Te buscaré sin descansar, no dejaré de caminar
-Ab             F              C
-Te buscaré sin descansar, no dejaré de caminar
-Ab             F              Em       C
-Te buscaré sin descansar, no dejaré de caminar
-```
-
-```
-Ab                                 Bb
+Ab                                 Bb            C/G
 He llegado hasta aquí porque nunca dejé ... de buscarte
 ```
 # 2. El niño
@@ -129,7 +152,7 @@ Ayer por la mañana apareciste por mi casa, Te lo llevaste todo
 **Pre-estribillo**
 
 ```
-G                       Em                      F
+G               Dm7      Em                      F
 Sabias que no estaba. Sabi­as que era Martes, Sabi­as que Septiembre
 ```
 **Estribillo**
