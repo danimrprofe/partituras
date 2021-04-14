@@ -4,6 +4,10 @@
 - 🎧 NUCLEAR
 - 🎶 Lanzamiento: 22 de marzo de 2019
 
+![](img/2021-04-14-09-01-37.png)
+
+Álbum completo en youtube:
+https://music.youtube.com/playlist?list=OLAK5uy_kF9EfyI4t7KiBHj2DYT9RiEsIQz0A6ilA
 
 
 # Indice
@@ -555,9 +559,9 @@ C A# F G# A# C
 
 # 🎸 5. Lobos
 
-| Tonalidad                  | Tempo   | Compás | Capo |
-| -------------------------- | ------- | ------ | ---- |
-| Si menor                   | 128 bpm | 4/4    | 2    |
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Si menor  | 128 bpm | 4/4    | 2    |
 
 
 
