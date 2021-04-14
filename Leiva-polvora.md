@@ -1,20 +1,45 @@
-LEIVA 
-POLVORA
+![](img/2021-04-14-09-08-37.png)
 
+- 🎤 LEIVA 
+- 🎧 PÓLVORA
+- 🎶 Lanzamiento: 2014
+- Producido por Carlos Raya y Leiva
+- Discográfica: Sony music
+
+
+
+Álbum completo en youtube:
+https://music.youtube.com/playlist?list=OLAK5uy_nlBm2fYNiTi2kGleNfuXrnmHF5HdT2XbQ&feature=gws_kp_album&feature=gws_kp_artist
+
+**Lista de canciones**
+
+- [1. Los cantantes](#1-los-cantantes)
+- [2. Terriblemente cruel](#2-terriblemente-cruel)
+- [3. Palomas](#3-palomas)
+- [4. Cerca](#4-cerca)
+- [5. Afuera en la ciudad](#5-afuera-en-la-ciudad)
+- [6. Del hueso una flor](#6-del-hueso-una-flor)
+- [7. Vértigo](#7-vértigo)
+- [8. Hermosa taquicardia](#8-hermosa-taquicardia)
+- [9. Mirada perdida](#9-mirada-perdida)
+- [10. Ciencia ficción](#10-ciencia-ficción)
+- [11. Mi mejor versión](#11-mi-mejor-versión)
+- [12. La francesita](#12-la-francesita)
+- [13. Pólvora](#13-pólvora)
 
 
 # 1. Los cantantes
 
-Tonalidad: Mi b Mayor
-Capo  1
-118 bpm
+| Tonalidad  | Tempo   | Compás | Capo |
+| ---------- | ------- | ------ | ---- |
+| Mi b Mayor | 118 bpm | 4/4    | 1    |
 
-## Intro
+**Intro**
 ```
 Fmaj7   C/G   G   Am G
 Fmaj7   C/G   E7  Am
  ```
-## Estrofa
+**Estrofa**
 ```
 Fmaj7                  C/G   G                  Am        G
   Las luces se hacen grandes,  El viento del presente nos da
@@ -25,12 +50,12 @@ Fmaj7               C/G     G                 Am         G
     Fmaj7                C/G   E7             Am
 Así son los días del cantante,      Deja que sea
 ```
-## Pre-coro
+**Pre-coro**
 ```
         E                          Fmaj7  G
 No hay más, Si todo lo que viene se va, A golpe de volante
 ```
-## Coro
+**Coro**
 ```
 C/G          Em          Am         G                    Fmaj7
 Tengo que volver a mi planeta,  colgado de la luna en soledad
@@ -41,7 +66,7 @@ C/G              Em            Am       G                     Fmaj7
 Em                          Dm        G
 Es todo lo que quise conquistar en la vida
 ``` 
-## Estrofa
+**Estrofa**
 ```
 Fmaj7              C/G    G                Am         G
    Los ídolos del parque,    los dandis y poetas de bar
@@ -58,9 +83,9 @@ Puente
 No hay más, Si todo lo que viene se va, A golpe de volante
 ```
 
-## Repetición coro
+**Repetición coro
  
-## Segundo puente
+**Segundo puente
 ```
     Am      C/G        Fmaj7
 Uooooh  ooh oooh ooh ooh
@@ -69,16 +94,18 @@ Uooooh  ooh oooh ooh ooh oooh
 ```
 Repetición coro
 
-## Final
+**Final
 ```
     Am  C/G   Fmaj7        C/G
 Uooooh  ooh oooh ooh ooh 
 ```
 # 2. Terriblemente cruel
 
-- Tonalidad: Do mayor
-- Capo:  No
-- 126 bpm
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Do Mayor  | 126 bpm | 4/4    | No   |
+
+
 
 Intro
 *****
@@ -100,7 +127,7 @@ Voy guardando bajo mi reputación, me salió muy claro perdonártelo
      C                        E7                   Dm    G
 Mentiré porque tú me lo pides de verdad, aunque te sepa mal
 ```
-## Coro 
+**Coro** 
 
 ```
                     F                 C                  E7           Am
@@ -112,7 +139,7 @@ Voy a ser terriblemente fiel, Cuando se te pase la emoción
     F                C        G
 Ya sé, te puede parecer demasiado
 ```
-## Estrofa 
+**Estrofa** 
 
 ```
       Am                               F
@@ -130,13 +157,13 @@ Pero duele igual... eso es universaaaaaaaal
  ```
 Repetición coro
  
-## Solo
+**Solo
 
 ```
 Am E7 F C G
 Am E7 F Fm C Fm C G
 ```
-## Final 
+**Final 
 
 ```
 G                  F                  C
@@ -155,16 +182,18 @@ G-Am 
 
 # 3. Palomas
 
-- Capo 1
-- Tonalidad: Mi bemol mayor
-- 81 bpm
+| Tonalidad      | Tempo  | Compás | Capo |
+| -------------- | ------ | ------ | ---- |
+| Mi bemol Mayor | 81 bpm | 4/4    | 1    |
 
-## Intro
+
+
+**Intro**
 ```
 F G/B F G
 ```
  
-## Estrofa
+**Estrofa**
 
 ```
       C                            Em                  Am
@@ -185,13 +214,13 @@ Hay días para pedírtelo, semanas para dudar
    Dm              G
 Veranos en vilo hasta el final
 ``` 
-## Puente 
+**Puente 
 
 ```
    F   G   Am      G
 No es más que un grito
 ``` 
-## Coro 
+**Coro** 
 
 ```
 C                              G
@@ -206,7 +235,7 @@ Es un aviso más del huracán
 C
 ```
 
-# Estrofa 
+**Estrofa** 
 
 ```
      C                               Em                 Am
@@ -237,18 +266,19 @@ Final
 G A Bm C#m D 
 ```
 
-
 # 4. Cerca
 
-- Tonalidad: Re mayor
-- Capo 2
+| Tonalidad | Tempo | Compás | Capo |
+| --------- | ----- | ------ | ---- |
+| Re Mayor  | bpm   | 4/4    | 2    |
 
-## Intro
+
+**Intro**
 ```
 C F C G
 C F C G
 ```
-## Estrofa 
+**Estrofa** 
 ```
 C           G        Am           F
 Es una decisión fatal, es el universo
@@ -264,7 +294,7 @@ La culpa no se puede remontar
    F             G
 En este invierno cruel
 ``` 
-## Coro
+**Coro**
 ```
                        F
 Que cerca estuve de llevarlo bien
@@ -277,7 +307,7 @@ Volvamos a intentarlo
  
 C F C G
 ``` 
-## Estrofa
+**Estrofa**
 ```
 C               G                Am            F
 Chispazos en la gran ciudad, La suerte y el incienso
@@ -296,14 +326,14 @@ Posando para mí
 Repite coro
 Repite coro
  
-## Instrumental 
+**Instrumental 
 ```
 F G C Dm
 F G Dm Em F G
 ``` 
 Repite coro
  
-## Final 
+**Final 
 ```
 C F C G
 C F C G C
@@ -311,15 +341,20 @@ C F C G C
  
 # 5. Afuera en la ciudad
 
-- Tonalidad: Fa # mayor
-- Capo 3
-- 79 bpm
+| Tonalidad  | Tempo  | Compás | Capo |
+| ---------- | ------ | ------ | ---- |
+| Fa # Mayor | 79 bpm | 4/4    | 3    |
 
-## Intro
-```
-D     Dsus4     D     Dsus4 
-```
-## Estrofa 
+
+**Intro**
+
+
+| 1   | 2     | 3   | 4      |
+| --- | ----- | --- | ------ |
+| D   | Dsus4 | D   | Dsus 4 |
+
+
+**Estrofa** 
 ```
 D     Dsus4       D           Dsus4
 No sé cómo será cuando no disparas
@@ -339,14 +374,14 @@ Cada vez que me lo pides vuelco
 G              Em       D
 Cada vez que escupes lava
 ``` 
-## Puente
+**Puente
 ```
         G              D          Em            A
 Cuánto tiempo va a llevarnos, reponernos de los golpes
      G          D        Em          A
 Y seguir disimulando que aún no me conoces
 ``` 
-## Coro 
+**Coro** 
 ```
             G                    A
 Y afuera en la ciudad sigue lloviendo
@@ -357,7 +392,7 @@ Vamos a salir perdiendo / Vamos a matar muriendo ooh / Vamos a seguir durmiendo
  
 D     Dsus4
 ```  
-## Estrofa 
+**Estrofa** 
 ```
 D     Dsus4      D              Dsus4
 No sé cómo será cuando no haya ranas
@@ -371,7 +406,7 @@ Cada vez estás más rara
 Repite puente
 Repite coro
 
-## Solo 
+**Solo 
 ```
 D  C Bm A# x2 
 G Em D
@@ -379,7 +414,7 @@ G Em D
 
 Repite coro
  
-## Final
+**Final
 ``` 
 D     Dsus4
 D     Dsus4
@@ -387,15 +422,16 @@ D     Dsus4
 
 # 6. Del hueso una flor
 
-- Tonalidad: Mi bemol mayor
-- Capo 3
-- 100 bpm
+| Tonalidad  | Tempo   | Compás | Capo |
+| ---------- | ------- | ------ | ---- |
+| Mi ♭ Mayor | 100 bpm | 3/4    | 3    |
 
-## Intro arpegiada
+
+**Intro** arpegiada
 ```
 C / F // C / F
 ``` 
-## Estrofa 
+**Estrofa** 
 ```
          C       			  F
 Abre un poco y afloja la marcha, basta de tanta intensidad,
@@ -408,7 +444,7 @@ Cómo cambias de coraza, de las chispas a la nada.
        Am           F        G
 Me da que no lo queremos asumir...
 ```
-## Pre-coro 
+**Pre-coro** 
 ```
                 Am  F             C
 Que solo es un poco, que no pasa nada.
@@ -416,17 +452,17 @@ Que solo es un poco, que no pasa nada.
 Que duele en el centro y nunca para.
                  Am   F                  C
 Que me lleve el viento que nos da en la cara.
-               Dm                                        Em
+               Dm                   Em
 Que salga del hueso una flor, Y me salve y que no,
         F                  G
 que no puedo aguantar tu mirada
 ``` 
-## Coro
+**Coro**
 ```
-          C   F                                    C             G
+          C   F           C    G
 Má-ma-ma-maaaaás.Má-ma-ma-maaaaás. (x2)
 ```  
-## Estrofa 
+**Estrofa** 
 ```
           C                                   F
 Hoy lo intento y me tiro a la plaza, Voy a quemarla sin piedad,
@@ -442,7 +478,7 @@ Me da que no lo podemos asumir.
 Repite puente 
 Repite coro
  
-## Puente
+**Puente
 ```
 F              Dm
 Uoooh oooh ooh Uoooh ooh ooh
@@ -462,11 +498,12 @@ Repite coro +1 tono
  
 # 7. Vértigo
 
-- Tonalidad: Si bemol mayor
-- Capo: 1
-- 108 bpm
+| Tonalidad  | Tempo   | Compás | Capo |
+| ---------- | ------- | ------ | ---- |
+| Si ♭ Mayor | 108 bpm | 4/4    | 1    |
 
-## Estrofa 
+
+**Estrofa** 
 ```
 A        C#m   F#m     D
 Luces, vértigos, pequeña agonía,
@@ -475,7 +512,7 @@ A         E      F#m          C#m
             D
 y no termino de verlo.
 ```
-## Pre-coro
+**Pre-coro**
 ```
 A                E/
 Se ha roto algo por dentro,
@@ -484,7 +521,7 @@ soy una historia mas en la ciudad
      E      F#m     E    D     A
 y yo se que tu también estas así.
 ``` 
-## Estrofa
+**Estrofa**
 ```
 A        C#m           F#m       D
 Crisis, vértigos, se comen el día,
@@ -493,7 +530,7 @@ no dejan de golpear, mi parte de verdad
             D
 y no consigo vencerlo.
 ```
-## Pre-coro
+**Pre-coro**
 ```
 A              E
 Se ha roto algo por dentro,
@@ -502,7 +539,7 @@ soy una historia más en la ciudad
         E      F#m     E        D   A
 y yo se que tu también estas así.
 ``` 
-## Coro 
+**Coro** 
 ```
          D            E              F#m         D
 No volveré a ser como antes, no volveré a ser igual,
@@ -523,11 +560,13 @@ no encuentro ni un instaaanteee de paaaz.
 
 # 8. Hermosa taquicardia
 
-- Tonalidad: Mi mayor
-- Capo 4
-- 78 bpm
+| Tonalidad | Tempo  | Compás | Capo |
+| --------- | ------ | ------ | ---- |
+| Mi Mayor  | 78 bpm | 4/4    | 4    |
 
-## Estrofa
+
+
+**Estrofa**
 ``` 
 D        F#m    Bm            G            D
 Fue un momento aquella vez estábamos tan bien
@@ -540,14 +579,14 @@ Se bloquea todo dentro
 Em        D           A
 Échame la culpa otra vez
 ```
-## Puente
+**Puente
 ``` 
          G          D              Em         G
 Y una hermosa taquicardia, Me sorprende de camino 
         D            Bm     A                 G       
 Y ahora que nos lamentamos, Saca lo que quieras de miiiiii
 ```
-## Coro
+**Coro**
 ```
             G
 Será una extraña confusión
@@ -560,7 +599,7 @@ Y es esa estúpida traición la que me trajo esta canción
           Em          A            D
 Porque me clavas el arpón con la mirada
 ```
-## Estrofa
+**Estrofa**
 ``` 
 D      F#m     Bm             G           D
 Se mezclaba la magia y una extraña decepción
@@ -594,16 +633,17 @@ Porque me clavas el arpón y luego nadaa 
 
 # 9. Mirada perdida
 
-Tonalidad: Mi mayor
-Capo 4
-148 bpm
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Mi Mayor  | 148 bpm | 4/4    | 4    |
 
-Intro 
+
+**Intro** 
 ```
 C F C F G x3
 Am G F
 ``` 
-Estrofa 
+**Estrofa** 
 ```
 C                           G                   Am
 No es más que una perdición, no es más que un capricho
@@ -614,7 +654,7 @@ La mecha de su cañón, mi cara de vicio
     F                 C              G
 Las ganas me pueden, basta de condiciones
 ```
-Puente 
+**Pre-estribillo** 
 ```
    Am   G       F     Am        G   F
 Lo siento pero no, no puedes hacerlo
@@ -623,7 +663,7 @@ No pierdas el tiempo, ya va a venir la hora de los leones
 Dm                G
 No hay porqué seguir
 ``` 
-Coro
+**Estribillo**
 ```
                  C      F              C
 Con los ojos en llamas y la mirada perdida
@@ -642,7 +682,7 @@ Solo
 ```
 C F C F G x2 
 ```
-Estrofa 
+**Estrofa** 
 ```
 C                           G                  Am
 No es más que una rendición, no es más que un suplicio
@@ -656,13 +696,13 @@ Las horas se mueren, basta de confesiones
 Repite puente 
 Repite coro
  
-Instrumental 
+**Instrumental** 
 ```
 Am F C
 Am C
 F G# C
 ```
-## Coro 2 
+**Estribillo 2**
 ```
 F               C     F               C
 Con los ojos en llamas y la mirada perdida
@@ -678,16 +718,16 @@ F G C
 ```
 
 # 10. Ciencia ficción
- 
-Tonalidad: Do mayor
-Sin capo
-94 bpm
 
-## Intro
+| Tonalidad | Tempo  | Compás | Capo |
+| --------- | ------ | ------ | ---- |
+| Do Mayor  | 94 bpm | 4/4    | No   |
+
+**Intro**
 
 F-C F x2
 
-## Estrofa
+**Estrofa**
 
 ```
      C
@@ -703,7 +743,7 @@ Se me escapa algún suspiro no me centro ni un instante
       C        					          F
 Estás loca y no me fío me llevaste por delante y me da igual
 ```
-Puente
+**Pre-estribillo**
 ```
 G                 F
 Súbete la falda y vamos a tontear
@@ -712,7 +752,7 @@ Aquí mismo en la esquina de este bar
 Dm       G        Dm          G 
 Es fácil perderse, pero qué bueno verte
 ```
-## Coro
+**Coro**
 ```
   C                       F
 Y me convencerás de cosas que no creo
@@ -723,7 +763,7 @@ Y te sorprenderás soy tan peliculero
                 C                        G
 Y cada día lo soy más pero ahí estoy, dejándome llevar 
 ```
-## Estrofa
+**Estrofa**
 ```
      C
 Eres de ciencia ficción tienes las piernas gigantes
@@ -738,25 +778,26 @@ Nos irritan nos convierten en dos narcotraficantes
       C                                                      F                                 F
 De delirios y en instantes nos matamos y volvemos siempre igual
 ```
-Repite puente
-Repite coro
 
-Instrumental
+**Repite Pre-estribillo**
+
+**Repite Estribillo**
+
+**Instrumental**
 ```
 F C/E Dm C
 F C/E Dm C
 Am G F G
 ```
-Repite coro  
-
+**Repite Estribillo**
 
  # 11. Mi mejor versión
 
-- Tonalidad: Mi mayor
-- Tempo: 117
-- Capo 2
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Mi Mayor  | 117 bpm | 4/4    | 2    |
 
-## Estrofa
+**Estrofa**
 ```
 D                  G        D
 Puedo hacerte un oscuro ritual,
@@ -771,12 +812,12 @@ Volar en un salto mortal
         G                    D
 Nunca igual, nunca igual que tú
 ```
-## Pre-coro
+**Pre-coro**
 ```
       A                     G               D
 Y no puedo soportarlo, no puedo soportarlo más
 ```
-## Coro
+**Coro**
 ```
 D                G                      D/F#
 No será fácil decírnoslo, escupe mi contestador
@@ -806,19 +847,21 @@ Repite puente
 
 Repite coro
 
-=======================
- 12. La francesita
-=======================
-- Tonalidad: Sol mayor
-- Capo: No
-- Compás: 6/8
 
-## Intro
+# 12. La francesita
+
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Sol Mayor | 117 bpm | 6/8    | No   |
+
+
+
+**Intro**
 ```
 G D/F# Em
 G D
 ```
-## Estrofa
+**Estrofa**
 ```
 G                D     Em                 B7 
  Ella mira demasiado,    me regala su perfil
@@ -829,7 +872,7 @@ G                D    Em                   B
 C                     G                D                G
  Cada noche en los tejados, Quiero olvidar, quiero olvidar
 ```
-## Coro
+**Coro**
 ```
       G                                     C
 Y no sé, no sé, no sé si esto es lo que quiero
@@ -852,7 +895,7 @@ G                  D   E               B
 C                 G                 D               G
  Chica léeme los labios. Quiero olvidar, quiero olvidar
 ```
-## Coro
+**Coro**
 ```
      G                                     C
 Y no sé, no sé, no sé si esto es lo que quiero
@@ -863,7 +906,7 @@ Y no sé, no sé, no sé si estoy ardiendo
 C               G                 Em     D/F#     C
  No me sale la voz y quiero pediiiiiir   teeeee tiempo
 ```
-## Pre-coro
+**Pre-coro**
 ```
 G              D    Em            C
   Voy a apartarte,     lo he decidido
@@ -882,28 +925,35 @@ Y no sé, no sé, no sé, si esto es lo que quiero
 ``` 
 # 13. Pólvora
 
-- Tonalidad: Sol mayor
-- Capo: No
+| Tonalidad | Tempo | Compás | Capo |
+| --------- | ----- | ------ | ---- |
+| Sol Mayor | bpm   | 4/4    | No   |
 
-## Intro
-```
-C | Em | F | G
-C | Em | F | G
-```
-## Estrofa
-```
+
+
+**Intro**
+
+| 1   | 2   | 3   | 4   |
+| --- | --- | --- | --- |
+| C   | Em  | F   | G   |
+| C   | Em  | F   | G   |
+
+**Estrofa**
+
 De los 
-| C                       	| Em          			| F                        	| G				|
-| cielos a la pólvora mo    	| jada, de la 			| magia a la oscura esclavi 	| tud. Hace			|
-| C                             | Em         			| F				| G				|
-| tiempo que no pienso en tu cor| nada, Hace 			| tiempo que lo echo a cara o 	| cruz, y ahora			|
-| F				| G              		| Am				| Em 				|
-| sé que cual			| quiera llorará más que 	| tú, en mi e-			| terna despedida y		|
-| D                     	| C             		| Dm           			| Dm				|
-| no me res			| bala tu acti			| tud				| -            esto		|
-| F             | G		|         	
-| se que no te 	| va a gus 	|
-```
+|                                |                        |                             |                   |
+| ------------------------------ | ---------------------- | --------------------------- | ----------------- |
+| C                              | Em                     | F                           | G                 |
+| cielos a la pólvora mo         | jada, de la            | magia a la oscura esclavi   | tud. Hace         |
+| C                              | Em                     | F                           | G                 |
+| tiempo que no pienso en tu cor | nada, Hace             | tiempo que lo echo a cara o | cruz, y ahora     |
+| F                              | G                      | Am                          | Em                |
+| sé que cual                    | quiera llorará más que | tú, en mi e-                | terna despedida y |
+| D                              | C                      | Dm                          | Dm                |
+| no me res                      | bala tu acti           | tud                         | -            esto |
+| F                              | G                      |
+| se que no te                   | va a gus               |
+
 Instrumental
 ```
 | C				| Em 				|F 				| G				|		
