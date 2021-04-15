@@ -34,6 +34,10 @@ https://music.youtube.com/playlist?list=OLAK5uy_nlBm2fYNiTi2kGleNfuXrnmHF5HdT2Xb
 | ---------- | ------- | ------ | ---- |
 | Mi b Mayor | 118 bpm | 4/4    | 1    |
 
+Actuación en acústico:
+
+https://www.youtube.com/watch?v=L07ECa44nhQ
+
 **Intro**
 ```
 Fmaj7   C/G   G   Am G
@@ -105,7 +109,9 @@ Uooooh  ooh oooh ooh ooh 
 | --------- | ------- | ------ | ---- |
 | Do Mayor  | 126 bpm | 4/4    | No   |
 
+Actuación en acústico:
 
+https://www.youtube.com/watch?v=I_3JWgVJA8A
 
 Intro
 *****
@@ -345,6 +351,10 @@ C F C G C
 | ---------- | ------ | ------ | ---- |
 | Fa # Mayor | 79 bpm | 4/4    | 3    |
 
+Versión acústica:
+
+https://www.youtube.com/watch?v=2rzPSpmqaiU
+
 
 **Intro**
 
@@ -502,6 +512,11 @@ Repite coro +1 tono
 | ---------- | ------- | ------ | ---- |
 | Si ♭ Mayor | 108 bpm | 4/4    | 1    |
 
+Versión acústica:
+
+https://www.youtube.com/watch?v=w8Yakp5fh1E
+
+
 
 **Estrofa** 
 ```
@@ -514,7 +529,7 @@ y no termino de verlo.
 ```
 **Pre-coro**
 ```
-A                E/
+A                E/G#
 Se ha roto algo por dentro,
 D          A            Bm
 soy una historia mas en la ciudad

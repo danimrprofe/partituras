@@ -4,9 +4,9 @@
 
 - 🎤 Pablo López 
 - 🎧 Camino, fuego y libertad
-- 🎶 Lanzamiento: 
-- Producido por:
-- Discográfica: 
+- 🎶 Lanzamiento: 15 diciembre 2017 
+- Discográfica: Universal Music Spain
+- Productor: Kim Fanlo
 
 **Lista de canciones (tracklist)**
 

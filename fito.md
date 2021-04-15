@@ -23,7 +23,7 @@
   - [Whisky Barato	3:18](#whisky-barato318)
   - [Siempre Estoy Soñando	4:16](#siempre-estoy-soñando416)
 - [Por la boca vive el pez (2006)](#por-la-boca-vive-el-pez-2006)
-  - [Por La Boca Vive El Pez	4:28](#por-la-boca-vive-el-pez428)
+  - [01. Por La Boca Vive El Pez	4:28](#01-por-la-boca-vive-el-pez428)
   - [Me Equivocaría Otra Vez	5:05](#me-equivocaría-otra-vez505)
   - [Como Pollo Sin Cabeza	4:10](#como-pollo-sin-cabeza410)
   - [Sobra La Luz	3:35](#sobra-la-luz335)
@@ -54,59 +54,57 @@
 ## Entre La Espada Y La Pared
 
 
-INTRO:
-Fmaj7  C  x2
+**Intro**
+```
+Fmaj7  | Fmaj7  | C |  C | x2
  
            F
-Entre lo amargo del cafe
-Quedó el aroma y el calor
+Entre lo amargo del café, quedó el aroma y el calor
            C
-Lo que me dio, me lo dejó
-Cuando se fue
+Lo que me dio, me lo dejó, cuando se fue
           G
-Con la certeza y la razón
-De sabe Dios quién sabe qué
+Con la certeza y la razón, de sabe Dios quién sabe qué
            Am
 Que lo invisible existe sólo porque no se ve
            F
-No soy la foto del carnet
-No soy la luz en el balcón
+No soy la foto del carnet, no soy la luz en el balcón
          C
-Yo solo soy el que llegó
-Y el que se fue
+Yo solo soy el que llegó y el que se fue
  
            G
-No sé muy bien a dónde voy
-Para encontrarme búscame
+No sé muy bien a dónde voy, para encontrarme búscame
          Am
 En algún sitio entre la espada y la pared
      F                   C                 G
 Las nubes con el viento siempre están cambiando
      F                 C                 G
 Quizás podamos ver el sol de vez en cuando
- 
-INSTRUMENTAL:
-F - C F
- 
-Puede ser que todo vuelva a ser
-                             C
-Cuando es tarde para responder
-Que nunca más
+``` 
+**Intrumental**
+```
+Fmaj7  | Fmaj7  | C |  
+        F                                                 C
+Puede ser que todo vuelva a ser, cuando es tarde para responder
+Que nunca más, 
           G
-Voy a quedarme en este mar
-Aunque me estrelle entre las rocas
+Voy a quedarme en este mar aunque me estrelle entre las rocas
          Am
-Aunque me pise el mismo pie
-Que antes beso mi boca
+Aunque me pise el mismo pie que antes beso mi boca
           F          C           G
 No encontrar el equilibro Y agarrarse
           F        C             G
 Lo contrario de vivir es no arriesgarse
  
-                   F C
+                   F 
 O quien sabe qué
- 
-Oh no no no        F - Am G
+
+F | F | F | F
+
+C
+        Oh no no no no no nono
+
+F 
+Am | Am | G | G       
  
           Am
 Maldita noche que pasé
@@ -138,18 +136,505 @@ Las cosas que no pueden ser
 Son todas las que he sido yo
                          F
 Las mezclas no me salen bien
-G                           F C
+G                      F 
 Sexo, drogas, rock & roll
- 
-Sexo, drogas, rock & roll
- 
-F - Am G   Dm - F G  Am
+C 
+   Sexo, drogas, rock & roll
+```
+**Final**
+```
+F 
+Am | Am | G | G 
+Dm | - | F | G
+Am
+```
 
 ## Lo Que Sobra De Mí	
+
+Capo 1
+
+```
+C        D
+Aaaaaaah, aaaaaaah, aaaaaaaaaaah!
+ 
+(Suena G#M.)
+ 
+G
+Tuve que aprender de nuevo a respirar,
+de nuevo tuve que aprender.
+Em
+Hice agujeros en la capa del disfraz de Superman
+que nunca me he querido poner.
+ 
+C
+Me jugué a una carta la felicidad,
+nunca pensé que la pudiera perder.
+G
+Toda la vida era un cuento
+y yo era Peter Pan, por eso no he podido crecer.
+ 
+    D
+Ya llega la tormenta, ya la oigo venir,
+viene derechita hacia aquí.
+           Em
+haciendo: “bom... bom... bom... bom”
+```
+**Estribillo**
+```
+C                      D                Em
+Si me concedieras un deseo para hacerme feliz,
+         G          D               Em
+me gustaría cortar todo lo que sobra de mí.
+C                      D                Em
+Ahora sé que el cielo no está lejos, nosotros sí.
+C                  D             C
+Demasiado tiempo huyendo conmigo de mí.
+ 
+D                        G
+Aaaaaaah, aaaa  aaah,  aaaaaaaaaah!
+
+ 
+```
+**Estrofa**
+``` 
+G
+No era la más fea y me sacó a bailar, ella me sacó a bailar.
+Em
+Y movía las caderas para despistar, solo para despistar.
+C
+Fue tan larga la condena, solo un día más, solo un día más...
+G
+Como un suspiro que debió durar lo mismo que la eternidad.
+``` 
+** **
+``` 
+    D
+Ya llega la tormenta, ya la oigo venir, viene derechita hacia aquí.
+           Em
+haciendo: “bom... bom... bom... bom”
+``` 
+**Estribillo**
+```
+C                      D                Em
+Si me concedieras un deseo para hacerme feliz,
+         G          D               Em
+me gustaría cortar todo lo que sobra de mí.
+C                      D                Em
+Ahora sé que el cielo no está lejos, nosotros sí.
+C                  D             G
+Demasiado tiempo huyendo conmigo de mí.
+```
+**Puente**
+``` 
+          D                            Em
+Sé que la próxima estación de nuevo me despido,
+          C            G         D
+Y sé que nunca dije “adiós” convencido
+C                  D          Em
+Y complicarme me resulta muy sencillo
+          D
+Igual que respirar...
+ 
+```
+**Solo**
+``` 
+C  |  D  | Em | - |
+G  |  D  |  Em | - |
+
+``` 
+**Estribillo**
+```
+C                      D                Em
+Ahora sé que el cielo no está lejos, nosotros sí.
+C                  D             C
+Demasiado tiempo huyendo conmigo de mí.
+D
+Aaaaaaah, aaaaaaah, aaaaaaaaaaah!
+G
+Aaaaaaaaaaah!
+```
+
 ## Pájaros Disecados	
+
+```
+INTRO:
+Bb  C   Dm
+Bb  G   F C     Dm...
+ 
+        Dm
+Yo no sabía lo que sucedía
+      F
+me sentía triste y agobiado,
+          C
+tan deprimido que tenía la cabeza
+         G
+llena de pájaros disecados.
+          Dm
+Tengo algo amargo para cada día,
+            F
+tengo un final para cada verano,
+            C
+Tengo una esquina junto a mi rodilla
+             G                 Dm
+Tengo el problema para el resultado
+ 
+ESTRIBILLO:
+         Bb
+Soy el autor de mis heridas,
+           C
+que me importa si es mentira
+      Dm
+la verdad es que me hacen daño
+          F
+si el corazón se te hace migas,
+       C              G
+la tristeza cada día, viene y come de tu mano.
+ 
+Bb            C           Dm
+Se que tengo que olvidar este frío mes de enero,
+Bb            G            Dm
+luego volveré a brillar de nuevo.
+ 
+Bb  C   Dm
+Bb  G ...
+ 
+          Dm
+no estoy seguro de tener la certeza
+         F
+que la moneda cae del otro lado
+             C
+mientras las luces giran en mi cabeza
+           G
+de igual manera que si fueran dados
+ 
+         Dm
+son los restos que quedan de mi,
+       F
+lo que pude salvar del incendio,
+        C                      G
+son las huellas que dejo al cruzar
+                 Dm
+por mi propio desierto
+ 
+ESTRIBILLO:
+         Bb
+Soy el autor de mis heridas,
+          C
+que me importa si es mentira
+      Dm
+la verdad es que me hacen daño
+          F
+si el corazón se te hace migas,
+       C              G
+la tristeza cada día, viene y come de tu mano.
+ 
+Bb            C           Dm
+Se que tengo que olvidar este frío mes de enero,
+Bb            G            Dm
+luego volveré a brillar de nuevo.
+ 
+SOLO:
+( F   C   Bb G Dm ) x2
+ 
+ESTRIBILLO:
+         Bb
+Soy el autor de mis heridas,
+          C
+que me importa si es mentira
+      Dm
+la verdad es que me hacen daño
+          F
+si el corazón se te hace migas,
+       C              G
+la tristeza cada día, viene y come de tu mano.
+ 
+Bb            C           Dm
+Se que tengo que olvidar este frío mes de enero,
+Bb            G            Dm
+luego volveré a brillar de nuevo.
+ 
+OUTRO:
+( F   C   Bb G Dm ) x2   Dm hasta el final...
+```
 ## Nos Ocupamos Del Mar	
+
+Capo 2
+
+[Intro piano]
+ 
+G D
+G C
+Em D C G
+ 
+[Intro guitars]
+ 
+G D
+G C
+Em D C G
+ 
+[Verse 1]
+ 
+G                 D
+Nos ocupamos del mar
+B                      C
+Y tenemos dividida la tarea
+                    G
+Ella cuida de las olas
+              D
+Yo vigilo la marea
+ 
+[Chorus]
+ 
+B
+Es cansado
+C         D         G
+Por eso al llegar la noche
+                   Em
+Ella descansa a mi lado
+    G      D          C
+Y mis ojos en su costado
+ 
+[Verse 2]
+ 
+G                      D
+También cuidamos la tierra
+B                          C
+Y también con el trabajo dividido
+                         G
+Yo troncos, frutos y flores
+               D
+Ella riega lo escondido
+ 
+[Chorus]
+ 
+B
+Es cansado
+C         D         G
+Por eso al llegar la noche
+                   Em
+Ella descansa a mi lado
+    G       D          C
+Y mis manos en su costado
+ 
+[Solo]
+ 
+C Em
+G D
+C Em
+G D G
+ 
+[Verse 3]
+ 
+G                    D
+Todas las cosas cuidamos
+B                          C
+Cada uno según el nuestro talante
+                       G
+Yo lo que tiene importancia,
+               D
+Ella todo lo importante
+ 
+[Chorus]
+ 
+B
+Es cansado
+C         D         G
+Por eso al llegar la noche
+                   Em
+Ella descansa a mi lado
+   G      D         C
+Y mi voz en su costado
+   G      D         C
+Y mi voz en su costado
+ 
+[Solo]
+ 
+G D
+G C
+Em D G
+ 
+G D
+G C
+Em D G
+ 
+G D
+G C
+Em D G
+ 
+G D
+G C
+Em D (largo)
+G
+
 ## Nada De Nada	
+
+C
+       C
+No hay nada por lo que brindar
+   G
+Y queda tanto por beber
+   F
+La gente deja de fumar
+          C                      G
+Porque no tiene tiempo de toser
+       C
+Cuando pase ya la tempestad
+      G
+Habrá tiempo para hacerlo bien
+       F
+Nos vendieron tanto bienestar
+             C                   G
+Que no hay manera de poder estar bien
+ 
+F                                           C
+Mientras todos dicen "nadie es culpable de nada"
+Am                                 G
+Dime si sonrío con la gravedad adecuada
+F                  E                  Am      D
+Tiempo de ladrones, de cerrar las persianas
+      C            G        C
+De lo que me digas, nada de nada
+ 
+ C
+¿Cómo voy a entrar en razón?
+          G
+Si nunca salgo de mi asombro
+         F
+Si cada vez que buscas la solución
+           C                    G
+Es para cargarla sobre nuestros hombros
+           C
+Conozco un perro que no dice mentiras
+       G
+Hay un juez que está aprendiendo a ladrar
+          F                   G#
+Cuando la boca se te llena de ruido
+        C                 G
+Luego está condenada a gritar
+ 
+ 
+F                                           C
+Mientras todos dicen "nadie es culpable de nada"
+Am                                 G
+Dime si sonrío con la gravedad adecuada
+F                  E                 Am      D
+Tiempo de ladrones, de cerrar las persianas
+      C            G        F     G#
+De lo que me digas, nada de nada
+ 
+Instumental:   C     G     F     C  G
+               C     G     F  G#   C
+ 
+F                                           C
+Mientras todos dicen "nadie es culpable de nada"
+Am                                 G
+Dime si sonrío con la gravedad adecuada
+F                  E                 Am      D
+Tiempo de ladrones, de cerrar las persianas
+      C            G        F     G#
+De lo que me digas, nada de nada
+        C
+Nada de nada
+      F           G#        C
+De lo que me digas, nada de nada
+        F    G#    C
+Nada de nada
+        F    G#    C
+Nada de nada
+
 ## El Vencido	
+
+Original poniendo capo en traste 3
+ 
+https://www.youtube.com/watch?v=WzHpnutt5O8
+ 
+[Verse 1]
+ 
+G    D               Em
+Cada vez que estoy perdido
+G     D      Em
+      en la noche oscura,
+C      D            Em
+se que todo lo que escribo
+  Am               B7
+a veces me mata y a veces me cura.
+G          D           Em
+Y aunque a veces quema
+G     D             Em
+el calor siempre te ayuda.
+C     D               Em
+Cada vez que llega el frío
+B             B7
+a mi verdad desnuda.
+ 
+ 
+[Chorus]
+ 
+           Am
+Dice que estoy perdiendo el tiempo
+     Em
+en vivir deprisa.
+        B
+Mi vida pasa como el viento
+       Em
+pero jamás sentí la brisa.
+           Am               C      D
+Dice que estoy perdiendo el tiempo
+           G
+en vivir deprisa.
+ 
+[Instrumental]
+ 
+G D Em
+G Em
+ 
+[Verse 2]
+ 
+                   G
+Soy el gran triunfador,
+D          Em
+soy el vencido.
+                   G
+Tengo un diente de oro
+D          Em
+y otro partido.
+             G                D
+Mi sentido común, nunca lleva razón
+   Em
+es mi enemigo.
+               C                B7
+Si lo pienso mejor, si sucede otra vez,
+         C    C/B  Am
+sé que estoy perdido.
+ 
+[Instrumental]
+ 
+G B
+Em A
+G B C D#
+G D Em
+ 
+[Chorus]
+ 
+           Am
+Dice que estoy perdiendo el tiempo
+     Em
+en vivir deprisa.
+        SI7
+Mi vida pasa como el viento
+       Em
+pero jamás sentí la brisa.
+           Am         C        D
+Dice que estoy perdiendo el tiempo
+           G
+en vivir deprisa.
+ 
+[Outro]
+ 
+G D Em
+G D Em
+G D Em
+
 ## Garabatos	
 ## Lo Que Siempre Quise Hacer	
 ## Umore Ona	
@@ -247,7 +732,7 @@ G A | Bm | G A | Bm (hasta el final)
 
 # Por la boca vive el pez (2006)
 
-## Por La Boca Vive El Pez	4:28
+## 01. Por La Boca Vive El Pez	4:28
 
 Capo on 1st fret.
  
