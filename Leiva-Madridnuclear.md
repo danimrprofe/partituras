@@ -1118,7 +1118,14 @@ Que no tienen solución
 Am C Am C E Am
 ```
 
-# Lady madrid
+# Lady Madrid
+
+En el disco original sin capo (Do mayor)
+
+- Artista: Pereza
+- Álbum: Aviones
+- Año de publicación: 2009
+
 
 | Tonalidad  | Tempo | Compás | Capo |
 | ---------- | ----- | ------ | ---- |
