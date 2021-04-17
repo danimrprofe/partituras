@@ -1229,7 +1229,10 @@ Aquí todo aunque no lo parezca, avanza.
 | Fa mayor (disco)            | 75 bpm | 4/4    | 5    |
 | Fa# mayor (directo nuclear) | 75 bpm | 4/4    | 6    |
 
+**Notas**
 
+- Leiva pone capo en 6
+- Juancho pone capo en 2 y sube dos tonos
 
 ## Intro
 

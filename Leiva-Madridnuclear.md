@@ -31,20 +31,16 @@ Recopilación de partituras de las canciones del disco. Las que no aparecen aqu�
 - [Mi pequeño Chernóbil](#mi-pequeño-chernóbil)
 - [No te preocupes por mí](#no-te-preocupes-por-mí)
 - [Como lo tienes tu](#como-lo-tienes-tu)
-- [Terriblemente cruel](#terriblemente-cruel)
-- [Estrella Polar](#estrella-polar)
-- [Mirada perdida](#mirada-perdida)
-- [Sincericidio](#sincericidio)
-- [Lady madrid](#lady-madrid)
 
 
 
 
 # La lluvia en los zapatos
 
-| Tonalidad | Tempo   | Compás | Capo |
-| --------- | ------- | ------ | ---- |
-| Do Menor  | 127 bpm | 4/4    | 1    |
+| Tonalidad                  | Tempo   | Compás | Capo |
+| -------------------------- | ------- | ------ | ---- |
+| Do Menor  (Madrid Nuclear) | 127 bpm | 4/4    | 1    |
+| Si Menor  (Disco)          | 127 bpm | 4/4    | No   |
 
 
 Se puede hacer más fácil con capo 3 y bajando un tono
@@ -71,36 +67,25 @@ D           F#m   Bm  G
 Todos lo vieron venir.
  
  
-[Pre-Chorus]
-Em
-Había magia,
-       G
-Pero a veces se partía,
-D                 C#m           Bm   A
-Y te dejabas lo mejor para el final;
-G      F#m      A
-Nunca lo vi llegar.
- 
- 
-[Chorus]
-                      G
-Y a ti te saldrán las alas;
-              D
-Yo seguiré rodando;
-                   A
-No entiendo esas miradas;
-           Bm      A Bm
-Teníamos un trato.
- 
-                 G
-Y mientras te regalas,
-            D
-Yo seguiré notando
-                Em      G  A
-El universo en llamas;
-                   Bm
-La lluvia en los zapatos.
- 
+``` 
+**Pre-estribillo**
+```
+Em                   G
+Había magia, Pero a veces se partía,
+D                 C#m           Bm   A   G      F#m      A
+Y te dejabas lo mejor para el final;    Nunca lo vi llegar.
+``` 
+**Estribillo**
+```
+                      G                   D
+Y a ti te saldrán las alas; Yo seguiré rodando; 
+                   A     Bm             A Bm
+No entiendo esas miradas; Teníamos un trato. 
+                 G                   D
+Y mientras te regalas, Yo seguiré notando
+                Em      G  A                    Bm
+El universo en llamas;       La lluvia en los zapatos.
+
  
 [Instrumental]
 Bm G D A Asus (x2)
@@ -139,27 +124,20 @@ La lluvia en los zapatos.
 F#m Bm D G Em A Em Em G D A
  
  
-[Chorus]
-                      G
-Y a ti te saldrán las alas;
-              D
-Yo seguiré rodando;
-                   A
-No entiendo esas miradas;
-           Bm      A Bm
-Teníamos un trato.
- 
-                 G
-Y mientras te regalas,
-            D
-Yo seguiré notando
-                Em       G  A
-El universo en llamas;
-                     Bm
-La lluvia en los zapatos.
- 
- 
-[Outro]
+``` 
+**Estribillo**
+```
+                      G                   D
+Y a ti te saldrán las alas; Yo seguiré rodando; 
+                   A     Bm             A Bm
+No entiendo esas miradas; Teníamos un trato. 
+                 G                   D
+Y mientras te regalas, Yo seguiré notando
+                Em      G  A                    Bm
+El universo en llamas;       La lluvia en los zapatos. 
+``` 
+**Final**
+```
 Bm G D A Asus
          Ohhh.
 Bm G D              A
@@ -214,9 +192,9 @@ Cógeme, no tengas miedo, no te voy a morder
    Am      C        D
 Atarte, mojarte y luego chulearte
  
- 
-[Chorus]
- 
+``` 
+**Estribillo**
+```
 Am            C        D
     Como si fuéramos unos animales
 Am                C             D
@@ -225,9 +203,9 @@ Am              C             D
   Que estamos solos y no hay nada que nos pare
 Am       C      D
 Nada que nos separe
- 
-[Outro]
- 
+``` 
+**Final**
+```
 Am          C     D
    Ah ah ah ah ah Ah ah ah ah ah
 Am          C     D
@@ -248,16 +226,7 @@ Eh, ¿Cómo vas, cómo lo ves?…
 Sin capo
 ```
 
-G/F#    200033
-C/B     x20010
-Ebdim7  xx1212
-C       x3x05x
-Bm      x2x03x
-Bbm6    x1x02x
-Dsus2   xx0230
-Cm7     x35343
- 
- 
+
 [Intro]
 G G/F# C D# D
 G G/F# C D# D G
@@ -296,7 +265,9 @@ Am
 Sácame de esta oscuridad 
  
  
-[Chorus]
+``` 
+**Estribillo**
+```
                    C
 Solo pretendo ser yo
                            G
@@ -348,7 +319,9 @@ Am
 Sácame de esta oscuridad 
  
  
-[Chorus]
+``` 
+**Estribillo**
+```
                    C
 Solo pretendo ser yo
                            G
@@ -412,7 +385,9 @@ No va a desbloquearme la certeza de que esa ola ya rompió
 Y muere en el océano.
  
  
-[Puente]
+``` 
+**Pre-estribillo**
+```
  G
 Sólo te deseo
       D
@@ -427,7 +402,9 @@ Que me dabas cuando naufragaba
 En tu pecho enfermo de miedo.
  
  
-[Estribillo]
+``` 
+**Estribillo**
+```
 G5
 Toda esa puta electricidad
                                 Bm
@@ -440,7 +417,9 @@ De lo que fuimos.
 Oh oh oh oh, oh oh ohhhhhh.
  
  
-[Estrofa]
+``` 
+**Estrofa**
+```
 D                  A           Bm
 ¿Quién va a desempolvarme la tristeza?
    G5
@@ -565,7 +544,9 @@ Volaremos sin movernos, y donde halla que firmar,
              C/B      Am            D                    C   D
 me haré una pequeña herida, con sangre que abarca a el mar.
  
-[Chorus]
+``` 
+**Estribillo**
+```
                  G          D            C
 Para dejar por escrito, que no voy a abandonar,
              D        G              D                C
@@ -596,7 +577,9 @@ de tu quejido y el mio, en vis a vis quincenal,
    D              G      D              G         D
 en vis a vis quincenal, en vis a vis quincenal
  
-[Chorus]
+``` 
+**Estribillo**
+```
                     G            D            C
 Para dejar por escrito, que no voy a abandonar,
         D               G              D                C
@@ -615,6 +598,12 @@ de los que aman sin poder amar.
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
 | Mib Mayor | 118 bpm | 4/4    | 3    |
+
+**Notas**
+
+- Leiva la toca con capo 3 
+- Juancho con capo 1 (subida un tono)
+
 
 
 ```
@@ -652,16 +641,17 @@ Y Tu voz pausada
              Am
 Y tu voz pausada
  
- 
-         Am F         C G
-Hoy he sentido la llamada
-     Am F      C G
-Con toda la fuerza
-     Am F      C G
-Las luces apagadas
-        F       G  C
-Y las piernas abiertas
- 
+``` 
+**Estribillo**
+``` 
+         Am F         C G      Am F      C G
+Hoy he sentido la llamada, Con toda la fuerza
+     Am F      C G         F       G  C
+Las luces apagadas, Y las piernas abiertas
+
+``` 
+**Estrofa**
+``` 
         C                   Em
 Cuando nos pasamos la electricidad
        F           G  C
@@ -680,7 +670,9 @@ Cuando tiemblas por nada
    F                  G
 Entonces echamos a andar
  
- 
+``` 
+**Pre-estribillo**
+```  
   F                    C
 Sueño con estar por encima de todo
        Am      G      D
@@ -690,37 +682,38 @@ Con la noche llena de luz
              G G7
 Y Tu voz pausada
              Am
-Y tu voz pausada
- 
- 
-          Am F        C G
-Hoy he sentido la llamada
-     Am F     C G
-Con toda la fuerza
-     Am F      C G
-Las luces apagadas
-        F       G  C
-Y las piernas abiertas
- 
+Y tu voz pausada 
+``` 
+**Estribillo**
+``` 
+         Am F         C G      Am F      C G
+Hoy he sentido la llamada, Con toda la fuerza
+     Am F      C G         F       G  C
+Las luces apagadas, Y las piernas abiertas
+``` 
+**Final**
+``` 
+
 F G
-Dm Am Gm A7
-Dm Am Gm A7
+
+Dm Am Gm A7 X2
  
-Dm A# F C
-Dm A# F C
-Dm A# F C
-A# C F
-A# C F
+Dm A# F C x3
+
+A# C F X2
+
 ```
 # Mi pequeño Chernóbil
 
+**Intro**
 ```
 G Bm Em
 G Bm Em
  
  
-[Verso 1]
-G           Bm              Em
+``` 
+**Estrofa**
+``` G           Bm              Em
 Soñaba con dar un bocado al mundo
 G              Bm         Em
 Quitarme el escudo y alumbrar la vida de alguien
@@ -810,19 +803,14 @@ Ya no me deslumbra el efecto
 Solo pretendo aprender a vivir con ello
                             D      G     Bm  Em
 Solo pretendo aprender a vivir con ello
- 
-G        Bm     Em
-¿Qué vendrá después?
-       C
-De los años muertos
-G        Bm     Em
-¿Que vendrá después?
-G        Bm     Em
-¿Que vendrá después?
-       C
-De los años muertos
-G        Bm     Em
-¿Qué vendrá después?
+
+```
+**Final**
+``` 
+G        Bm     Em           C           G        Bm     Em
+¿Qué vendrá después? De los años muertos ¿Que vendrá después?
+G        Bm     Em           C           G        Bm     Em
+¿Qué vendrá después? De los años muertos ¿Que vendrá después?
 ```
 
 
@@ -830,50 +818,46 @@ G        Bm     Em
 
 # Como lo tienes tu
 
+Esta es la versión de Pereza
+
 ```
 G C G D
  
-G
-Soy como tú estás, soy como te sientas,
-C
-soy Satanás, soy la Cenicienta.
-G
-Soy una bala, soy un tirano,
-D
-soy malo malo
+G                                       C
+Soy como tú estás, soy como te sientas, soy Satanás, soy la Cenicienta.
+G                               D
+Soy una bala, soy un tirano, soy malo malo 
+G                                         C
+Soy un aprensivo, me sigue la enfermedad, soy un tío vivo, soy un tipo de verdad.
+    Am                         D
+Soy caro cuando hay vicio, soy igual desde el principio
+```
+**Pre-estribillo**
+```  
+             C    Em                        B        C
+y hasta el finaaaaaaal, es lo que tengo, es lo que hay,
+                   C     Em                        D
+tengo una paja mentaaaaaaaal, que ya no sé de qué va.
+```
+**Estribillo**
+```  
  
-G
-Soy un aprensivo, me sigue la enfermedad,
-C
-soy un tío vivo, soy un tipo de verdad.
-Am
-Soy caro cuando hay vicio,
-D
-soy igual desde el principio
- 
-           C    Em
-y hasta el final
-        B            C
-es lo que tengo, es lo que hay,
- C            Em
-tengo una paja mental,
-    D
-que ya no sé de qué va.
- 
-G
+        G
 Un día quiero dejar el mundo entero por tí,
-C
+          C
 la misma noche me aburro y no eres para mí,
-G                                          D
+        G                                 D
 como quisiera tenerlo tan claro como lo tienes tú.
-G
+        G
 Un día quiero dejar el mundo entero por ti,
-C
+          C
 la misma noche me aburro y no eres para mí,
-G                                            D
+        G                                 D
 como quisiera tenerlo tan claro como lo tienes tú.
- 
-G, C, G, D
+ ```
+**Solo**
+```
+| G | C | G | D
  
 G
 Soy el capitán de mis cosas, vivo
@@ -892,37 +876,69 @@ Am
 Soy fácil y lo admito,
 D
 soy igual pero distinto
- 
-           C    Em
-y hasta el final
-        B            C
-es lo que tengo, es lo que hay,
- C            Em
-tengo una paja mental,
-    D
-que ya no sé de qué va.
+ ```
+**Pre-estribillo**
+```  
+             C    Em                        B        C
+y hasta el finaaaaaaal, es lo que tengo, es lo que hay,
+                   C     Em                        D
+tengo una paja mentaaaaaaaal, que ya no sé de qué va.
  
  
-G
+```
+**Estribillo**
+```  
+ 
+        G
 Un día quiero dejar el mundo entero por tí,
-C
+          C
 la misma noche me aburro y no eres para mí,
-G                                          D
+        G                                 D
 como quisiera tenerlo tan claro como lo tienes tú.
+        G
+Un día quiero dejar el mundo entero por ti,
+          C
+la misma noche me aburro y no eres para mí,
+        G                                 D
+como quisiera tenerlo tan claro como lo tienes tú.
+
  
- 
-Punteo:
- 
+```
+**Solo**
+```   
 | A |C | D | F G |  x2
  
- 
+```
+**Estribillo**
+```  
+
+        C
+Un día quiero dejar el mundo entero por ti,
+           F
+la misma noche me aburro y no eres para mi
+          C                               G
+como quisiera tenerlo tan claro como lo tienes tú
+        C
+Un día quiero dejar el mundo entero por ti,
+           Bb
+la misma noche me aburro y no eres para mi
+          F                               G
+como quisiera tenerlo tan claro como lo tienes tú
 C
 Un día quiero dejar el mundo entero por ti,
-F
+           Bb
 la misma noche me aburro y no eres para mi
-C                                           D
+          F                               G
 como quisiera tenerlo tan claro como lo tienes tú
 ```
+**Final**
+```
+          C                  Bb               F                                G
+Como lo tienes tu, como lo tienes tu, como quisiera tenerlo tan claro como lo tienes tu
+          C                  Bb               F                  G
+Como lo tienes tu, como lo tienes tu, como quisiera tenerlo tan claro
+          C       
+Como lo tienes tuuuuuuuuuuu
 
 # Terriblemente cruel
 

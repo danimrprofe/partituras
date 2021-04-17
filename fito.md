@@ -1,3 +1,14 @@
+- [Los sueños locos](#los-sueños-locos)
+  - [01. Al mar (6:11)](#01-al-mar-611)
+  - [02. Para toda la vida](#02-para-toda-la-vida)
+  - [03. Perro viejo (4:31)](#03-perro-viejo-431)
+  - [04. Cerca de las vías (3:10)](#04-cerca-de-las-vías-310)
+  - [05. A la luna se le ve el ombligo (4:51)](#05-a-la-luna-se-le-ve-el-ombligo-451)
+  - [06. Ni negro ni blanco (Con Roberto Iniesta de Extremoduro) (3:45)](#06-ni-negro-ni-blanco-con-roberto-iniesta-de-extremoduro-345)
+  - [07. Sevilla de Bilbao (instrumental) (4:00)](#07-sevilla-de-bilbao-instrumental-400)
+  - [08. Mientras tanto (Versión de Leño). Interpretada por Rosendo Mercado (3:54)](#08-mientras-tanto-versión-de-leño-interpretada-por-rosendo-mercado-354)
+  - [09. Alegría (instrumental) (5:50)](#09-alegría-instrumental-550)
+  - [10. A mil kilómetros (3:04)](#10-a-mil-kilómetros-304)
 - [Huyendo conmigo de mi (2014)](#huyendo-conmigo-de-mi-2014)
   - [Entre La Espada Y La Pared](#entre-la-espada-y-la-pared)
   - [Lo Que Sobra De Mí](#lo-que-sobra-de-mí)
@@ -48,8 +59,218 @@
   - [Conozco Un Lugar	4:03](#conozco-un-lugar403)
   - [La Cuisine De Bernard](#la-cuisine-de-bernard)
 
+# Los sueños locos
+
+![](img/2021-04-17-17-32-51.png)
+
+## 01. Al mar (6:11)
+
+
+
+## 02. Para toda la vida
+```
+G
+Cuando estuviste conmigo,
+C
+jamás te dije mentira,
+G
+quería tenerte en mis brazos.
+C
+pero por toda la vida.
+ 
+F
+Y tú querías aventura,
+C
+tomaste muy mal camino,
+G
+ibas buscando basura
+C
+en un terreno barrido.
+ 
+ 
+F
+Yo le doy mi querer al querer
+C
+y lo doy para toda la vida.
+G
+Si quisiera vivir de placer
+C
+me buscaba un amor de cantina.
+F
+Yo le doy mi querer al querer
+C                         G C
+y lo doy para toda la vida.
+ 
+G
+Cuando estuviste conmigo,
+C
+Tenías un mal pensamiento.
+G
+Si yo lo hubiera sabido
+C
+no hubiera perdido el tiempo.
+ 
+F
+Tendrás el mundo en tus manos,
+C
+tendrás montones de besos
+G
+si a todos tienes llorando
+C
+conmigo tocaste hueso.
+ 
+F
+Yo le doy mi querer al querer
+C
+y lo doy para toda la vida.
+G
+Si quisiera vivir de placer
+C
+me buscaba un amor de cantina.
+F
+Yo le doy mi querer al querer
+C                         G C
+Y lo doy para toda la vida.
+ 
+parte rápida: SOL DO x 8
+ 
+F
+Yo le doy mi querer al querer
+C
+y lo doy para toda la vida.
+ 
+G
+Si quisiera vivir de placer
+C
+me buscaba un amor de cantina.  x 2
+G
+Si quisiera vivir de placer
+hay para toda la vida... SOL FA DO
+```
+
+## 03. Perro viejo (4:31)
+## 04. Cerca de las vías (3:10)
+
+```
+D               C                       G           D                      C
+Hay días que parece que nunca se va a apagar el sol, y otros son más tristes
+                        G        C              B7
+que una despedida en la estación. es igual que nuestra vida 
+                     Em  D               C                        G
+que cuando todo va bien,  un día tuerces una esquina y te tuerces tu también.
+``` 
+``` 
+D        C
+Esa telaraña
+                    G
+que cuelga en mi habitación
+D                C
+no la quito, no hace nada,
+            G
+solo ocupa su rincón.
+```
+**Estribillo**
+```
+C              B7                     Em
+Yo he crecido cerca de las vías y por eso sé,
+D                  C                        G
+que la tristeza y la alegría, viajan en el mismo tren
+D(sorda)                                  G
+¿Quieres ver el mundo? Mira, esta debajo de tus pies.
+```
+**Estrofa**
+``` 
+D            C                        G
+Con el paso de los años  nada es como yo soñé.
+D               C                         G
+Si no cierras bien los ojos, muchas cosas no se ven.
+C              B7                           Em 
+No le tengo miedo al diablo ¿no ves que no puedo arder?
+D               C                                  G
+No hay mas fuego en el infierno del que hay dentro de mi piel.
+ 
+D          C                         G
+Todo lo malo y lo bueno caben dentro de un papel.
+D(sorda)                                 G
+¿Quieres ver el mundo? Mira, está debajo de tus pies.
+
+```
+## 05. A la luna se le ve el ombligo (4:51)
+
+**Estrofa**
+``` 
+Am              Dm       Em    Am    Dm    Em
+    No se cuanto tiempo habré perdido
+    Am                     Dm    Em    Am     Dm    Em
+    vivo tan deprisa que se cae de los bolsillos
+Am            Dm     Em   Am    Dm    Em
+    a pesar de todo he aprendido
+    Am                      Dm      Em         Am    Dm    Em
+    si la noche es clara a la luna se le ve el ombligo 
+ 
+    Em
+    mira que a luna se le ve el ombligo
+```
+**Estribillo**
+```
+ 
+C             Dm     Em       Am    Dm    Em
+    Ojalá me hubiera dado cuenta antes
+Dm                 C    Em        Am    Dm    Em
+    no siempre lo urgente es lo importante
+Dm                 C      Em           Am    Dm    Em
+    tal vez son las brujas, tal vez el destino
+Dm                C          Em     Am
+    yo siempre me pierdo en el mismo camino
+    Dm           C      Em
+    siempre en el mismo camino
+ 
+ 
+Am            Dm      Em    Am    Dm    Em
+    Ahora sólo quiero estar contigo
+    Am                     Dm  Em     Am    Dm    Em
+    todo mi universo está debajo de tu ombligo
+Am                Dm  Em  Am    Dm    Em
+    Por tus huesos loco de remate
+    Am                     Dm    Em   Am    Dm    Em
+    todos los molinos se convierten en gigantes.
+ 
+       Am                 Dm    Em
+    Quisiera ser tan alto como la luna
+      Am                        Dm     Em
+    mirar por tu ventana cuando estás desnuda.
+     Am                 Dm        Em
+    Al pasar la barca me dijo el barquero
+     Am                      Dm      Em
+    de Africa a Tarifa cuesta mucho más dinero
+ 
+    C                      Em         Dm                     C        Em
+ 
+    Mucho más dinero, mucho más dinero, mucho más dinero, mucho más dinero.
+ 
+ 
+C             Dm     Em       Am    Dm    Em
+    Ojalá me hubiera dado cuenta antes
+Dm                 C    Em        Am    Dm    Em
+    no siempre lo urgente es lo importante
+Dm                 C      Em           Am    Dm    Em
+    tal vez son las brujas, tal vez el destino
+Dm                C          Em     Am
+    yo siempre me pierdo en el mismo camino
+    Dm           C      Em
+    siempre en el mismo camino
+```
+
+
+## 06. Ni negro ni blanco (Con Roberto Iniesta de Extremoduro) (3:45)
+## 07. Sevilla de Bilbao (instrumental) (4:00)
+## 08. Mientras tanto (Versión de Leño). Interpretada por Rosendo Mercado (3:54)
+## 09. Alegría (instrumental) (5:50)
+## 10. A mil kilómetros (3:04)
 
 # Huyendo conmigo de mi (2014)
+
+![](img/2021-04-17-17-33-27.png)
 
 ## Entre La Espada Y La Pared
 
@@ -57,7 +278,9 @@
 **Intro**
 ```
 Fmaj7  | Fmaj7  | C |  C | x2
- 
+```
+**Estrofa**
+``` 
            F
 Entre lo amargo del café, quedó el aroma y el calor
            C
@@ -97,7 +320,9 @@ Lo contrario de vivir es no arriesgarse
  
                    F 
 O quien sabe qué
-
+```
+**Estrofa**
+``` 
 F | F | F | F
 
 C
@@ -105,7 +330,9 @@ C
 
 F 
 Am | Am | G | G       
- 
+```
+**Estrofa**
+``` 
           Am
 Maldita noche que pasé
            Dm
@@ -122,6 +349,9 @@ Que me recuerda tu sabor
 Y fue la voz que no escuché
             F
 Y fue el silencio el que me despertó
+```
+**Estrofa**
+``` 
                C
 Toda la culpa fue del aire que rozó mi piel
        Dm                      G
@@ -160,22 +390,17 @@ Aaaaaaah, aaaaaaah, aaaaaaaaaaah!
 (Suena G#M.)
  
 G
-Tuve que aprender de nuevo a respirar,
-de nuevo tuve que aprender.
+Tuve que aprender de nuevo a respirar, de nuevo tuve que aprender.
 Em
 Hice agujeros en la capa del disfraz de Superman
 que nunca me he querido poner.
  
 C
-Me jugué a una carta la felicidad,
-nunca pensé que la pudiera perder.
+Me jugué a una carta la felicidad, nunca pensé que la pudiera perder.
 G
-Toda la vida era un cuento
-y yo era Peter Pan, por eso no he podido crecer.
- 
+Toda la vida era un cuento y yo era Peter Pan, por eso no he podido crecer. 
     D
-Ya llega la tormenta, ya la oigo venir,
-viene derechita hacia aquí.
+Ya llega la tormenta, ya la oigo venir, viene derechita hacia aquí.
            Em
 haciendo: “bom... bom... bom... bom”
 ```
@@ -192,8 +417,6 @@ Demasiado tiempo huyendo conmigo de mí.
  
 D                        G
 Aaaaaaah, aaaa  aaah,  aaaaaaaaaah!
-
- 
 ```
 **Estrofa**
 ``` 
@@ -240,7 +463,6 @@ Igual que respirar...
 ``` 
 C  |  D  | Em | - |
 G  |  D  |  Em | - |
-
 ``` 
 **Estribillo**
 ```
@@ -256,11 +478,14 @@ Aaaaaaaaaaah!
 
 ## Pájaros Disecados	
 
-```
-INTRO:
+
+**Intro**
+``` 
 Bb  C   Dm
 Bb  G   F C     Dm...
- 
+```
+**Estrofa**
+```  
         Dm
 Yo no sabía lo que sucedía
       F
@@ -278,7 +503,9 @@ Tengo una esquina junto a mi rodilla
              G                 Dm
 Tengo el problema para el resultado
  
-ESTRIBILLO:
+```
+**Estribillo**
+``` 
          Bb
 Soy el autor de mis heridas,
            C
@@ -294,10 +521,14 @@ Bb            C           Dm
 Se que tengo que olvidar este frío mes de enero,
 Bb            G            Dm
 luego volveré a brillar de nuevo.
- 
+```
+**Solo**
+```  
 Bb  C   Dm
 Bb  G ...
- 
+```
+**Estrofa**
+```  
           Dm
 no estoy seguro de tener la certeza
          F
@@ -316,7 +547,9 @@ son las huellas que dejo al cruzar
                  Dm
 por mi propio desierto
  
-ESTRIBILLO:
+```
+**Estribillo**
+``` 
          Bb
 Soy el autor de mis heridas,
           C
@@ -333,10 +566,13 @@ Se que tengo que olvidar este frío mes de enero,
 Bb            G            Dm
 luego volveré a brillar de nuevo.
  
-SOLO:
+```
+**Solo**
+``` 
 ( F   C   Bb G Dm ) x2
- 
-ESTRIBILLO:
+```
+**Estrofa**
+``` 
          Bb
 Soy el autor de mis heridas,
           C
@@ -360,19 +596,23 @@ OUTRO:
 
 Capo 2
 
-[Intro piano]
+**Intro piano**
+``` 
+ 
+G D G C
+Em D C G
+ 
+```
+**Intro guitarras**
+```
  
 G D
 G C
 Em D C G
  
-[Intro guitars]
- 
-G D
-G C
-Em D C G
- 
-[Verse 1]
+```
+**Estrofa**
+```
  
 G                 D
 Nos ocupamos del mar
@@ -383,7 +623,9 @@ Ella cuida de las olas
               D
 Yo vigilo la marea
  
-[Chorus]
+```
+**Estrofa**
+``` 
  
 B
 Es cansado
@@ -394,7 +636,9 @@ Ella descansa a mi lado
     G      D          C
 Y mis ojos en su costado
  
-[Verse 2]
+```
+**Estrofa**
+```
  
 G                      D
 También cuidamos la tierra
@@ -405,7 +649,9 @@ Yo troncos, frutos y flores
                D
 Ella riega lo escondido
  
-[Chorus]
+```
+**Estrofa**
+```
  
 B
 Es cansado
@@ -416,14 +662,18 @@ Ella descansa a mi lado
     G       D          C
 Y mis manos en su costado
  
-[Solo]
+```
+**Estrofa**
+``` 
  
 C Em
 G D
 C Em
 G D G
  
-[Verse 3]
+```
+**Estrofa**
+``` 
  
 G                    D
 Todas las cosas cuidamos
@@ -434,7 +684,9 @@ Yo lo que tiene importancia,
                D
 Ella todo lo importante
  
-[Chorus]
+```
+**Estrofa**
+``` 
  
 B
 Es cansado
@@ -447,7 +699,9 @@ Y mi voz en su costado
    G      D         C
 Y mi voz en su costado
  
-[Solo]
+```
+**Estrofa**
+``` 
  
 G D
 G C
@@ -465,9 +719,11 @@ G D
 G C
 Em D (largo)
 G
-
+```
 ## Nada De Nada	
 
+**Estrofa**
+```
 C
        C
 No hay nada por lo que brindar
@@ -511,7 +767,9 @@ Hay un juez que está aprendiendo a ladrar
 Cuando la boca se te llena de ruido
         C                 G
 Luego está condenada a gritar
- 
+ ```
+**Estrofa**
+```
  
 F                                           C
 Mientras todos dicen "nadie es culpable de nada"
@@ -521,10 +779,14 @@ F                  E                 Am      D
 Tiempo de ladrones, de cerrar las persianas
       C            G        F     G#
 De lo que me digas, nada de nada
- 
+ ```
+**Estrofa**
+```
 Instumental:   C     G     F     C  G
                C     G     F  G#   C
- 
+ ```
+**Estrofa**
+```
 F                                           C
 Mientras todos dicen "nadie es culpable de nada"
 Am                                 G
@@ -541,14 +803,15 @@ De lo que me digas, nada de nada
 Nada de nada
         F    G#    C
 Nada de nada
-
+```
 ## El Vencido	
 
 Original poniendo capo en traste 3
  
 https://www.youtube.com/watch?v=WzHpnutt5O8
- 
-[Verse 1]
+
+**Estrofa**
+``` 
  
 G    D               Em
 Cada vez que estoy perdido
@@ -566,7 +829,9 @@ C     D               Em
 Cada vez que llega el frío
 B             B7
 a mi verdad desnuda.
- 
+ ```
+**Estrofa**
+```
  
 [Chorus]
  
@@ -583,12 +848,16 @@ Dice que estoy perdiendo el tiempo
            G
 en vivir deprisa.
  
-[Instrumental]
+```
+**Estrofa**
+```
  
 G D Em
 G Em
- 
-[Verse 2]
+ ```
+**Estrofa**
+```
+
  
                    G
 Soy el gran triunfador,
@@ -607,14 +876,18 @@ Si lo pienso mejor, si sucede otra vez,
          C    C/B  Am
 sé que estoy perdido.
  
-[Instrumental]
+```
+**Estrofa**
+```
  
 G B
 Em A
 G B C D#
 G D Em
  
-[Chorus]
+```
+**Estrofa**
+```
  
            Am
 Dice que estoy perdiendo el tiempo
@@ -629,11 +902,14 @@ Dice que estoy perdiendo el tiempo
            G
 en vivir deprisa.
  
-[Outro]
+```
+**Estrofa**
+```
  
 G D Em
 G D Em
 G D Em
+```
 
 ## Garabatos	
 ## Lo Que Siempre Quise Hacer	
@@ -642,17 +918,118 @@ G D Em
 
 # Lo más lejos a tu lado (2003)
 
+![](img/2021-04-17-17-34-32.png)
+
 ## La Casa Por El Tejado	4:26
 
+
+**Estrofa**
+```
+Gm F
+ 
+```
+**Estrofa**
+```
+      Gm7   F                          Gm7
+Ahora sí, parece que ya empiezo a entender
+    F                  Gm
+las cosas importantes aquí
+    F                          Gm7     F
+son las que están detrás de la piel.
+ 
+            Gm7
+Y todo lo demás
+  F5           Cm7       Gm7
+empieza donde acaban mis pies.
+   F5            Cm7         Gm7
+Después de mucho tiempo aprendí
+        F5          Cm7         Gm7     F5      Cm7   Cm7 Bb   Cm
+que hay cosas que mejor no aprender.
+ 
+```
+**Estrofa**
+```
+Cm         Bb        F
+El colegio poco me enseñó.
+          Eb         Bb               F   F#dim7
+Si es por esos libros nunca aprendo
+Gm      F         Eb
+ a coger el cielo con las manos,
+Gm        F           Eb
+ a reír y a llorar lo que te canto,
+Gm      F        Eb5
+ a coser mi alma rota,
+Gm                     F            Eb5
+a perder el miedo a quedar como un idiota,
+ 
+        Gm     Eb       Bb     F
+y a empezar la casa por el tejado,
+           Gm  Eb             Bb         F
+a poder dormir cuando tú no estás a mi lado.
+              Gm  Eb Bb        F
+Menos mal que fui un poco granuja,
+            Gm Eb        Bb     F
+todo lo que sé me lo enseñó una bruja
+ 
+```
+**Estrofa**
+```
+Gm B7 F F7
+```
+**Estrofa**
+```
+Gm7        F5             Cm7             Gm7
+Ruinas... ¿no ves que por dentro estoy en ruinas?
+F5               Cm7      Gm7
+Mi cigarro va quemando el tiempo,
+F5            Cm7          Gm7         F5  Cm7
+tiempo que se convirtió en cenizas
+ 
+Gm7           F5       Cm7        Gm7
+Raro!! ... no digo diferente digo raro!!
+F5             Cm7             Gm7
+Ya no sé si el mundo está al revés
+      F5          Cm7        Gm7      F5      Cm7   Cm7 Bb   Cm
+o soy yo el que está cabeza abajo
+```
+**Estrofa**
+```
+Cm         Bb        F
+El colegio poco me enseñó.
+          Eb         Bb               F   F#dim7
+Si es por el maestro nunca aprendo
+Gm      F         Eb
+ a coger el cielo con las manos,
+Gm        F           Eb
+ a reír y a llorar lo que te canto,
+Gm      F        Eb5
+ a coser mi alma rota,
+Gm                     F            Eb5
+a perder el miedo a quedar como un idiota,
+ 
+        Gm     Eb       Bb     F
+y a empezar la casa por el tejado,
+           Gm  Eb             Bb         F
+a poder dormir cuando tú no estás a mi lado.
+              Gm  Eb Bb        F
+Menos mal que fui un poco granuja,
+            Gm Eb        Bb     F
+todo lo que sé me lo enseñó una bruja
+ 
+```
+**Estrofa**
+```
+Gm B7 F F7
+```
 ## Un Buen Castigo	4:38
 
+
+**Estrofa**
 ```
-INTRO
- 
 Bm A Bm A Bm
- 
- 
-VERSE 1
+```
+**Estrofa**
+``` 
 Bm                                                  A
 Lo he intentado muchas veces pero nunca me ha salido                   
 A                                               Bm
@@ -663,7 +1040,9 @@ A                                                      Bm
 la verdad es que me interesa solo porque esta prohibido 
  
  
-CHORUS 1
+```
+**Estrofa**
+```
 Em                       G             A   Bm
 el mejor de los pecados el de haberte conocido 
 D                                 A
@@ -672,9 +1051,9 @@ Em                        A            F#/Bb    Bm
 y cuidar de las estrellas puede ser un buen castigo
 G   D   A   Bm
 aah ahh aah ahh
- 
- 
-VERSE 2
+```
+**Estrofa**
+```
 Bm                                              A
 A traves de mis orejas discutiendo a pleno grito                        
 A                                                   Bm
@@ -684,9 +1063,9 @@ Bm                                            A
 demasiado acelerado nunca encuentro mi destino                         
 A                                             Bm
 yo no se si mis zapatos duraran todo el camino
- 
- 
-CHORUS 2
+```
+**Estrofa**
+```
 Em                        G           A          Bm
 nunca pido nada a cambio eso es algo que he aprendido
 D                                                   A
@@ -696,12 +1075,14 @@ y cuidar de las estrellas puede ser un buen castigo
 G   D   A   Bm    A
 aah ahh aah ahh                       
 
-
+```
+**Estrofa**
+```
 Bm | A | A | Bm
 Bm | A | A | Bm
- 
- 
-CHORUS 3
+```
+**Estrofa**
+```
 Em                       G             A          Bm
 Que te metes Don Quijote pa flipar con los molinos
     D                                        A
@@ -712,11 +1093,10 @@ G   D  A   Bm
 aah ahh aah ahh
 G   D  A   Bm
 aah ahh aah ahh
-
-**Final**
-
+```
+**Estrofa**
+```
 G A | Bm | G A | Bm (hasta el final)
-
 ``` 
 
 ## Feo	4:54
@@ -732,18 +1112,18 @@ G A | Bm | G A | Bm (hasta el final)
 
 # Por la boca vive el pez (2006)
 
+![](img/2021-04-17-17-49-19.png)
+
 ## 01. Por La Boca Vive El Pez	4:28
 
-Capo on 1st fret.
- 
-``` 
-[Intro]
- 
+Capo 1
+
+**Estrofa**
+```
 G A Bm (x2)
- 
- 
-[Verse 1]
- 
+```
+**Estrofa**
+```
                  G
 Algo, lo que me invade,
 A              Bm
@@ -752,10 +1132,9 @@ A              Bm
 nunca lo que me sacie,
          A              Bm
 siempre quiero, lobo hambriento.
- 
- 
-[Chorus]
- 
+```
+**Estrofa**
+```
               G
 Todo me queda grande
 A               Bm
@@ -764,10 +1143,9 @@ A               Bm
 sabes?, quisiera amarte
                   A             Bm
 siempre un poco mas de lo que te pido.
- 
- 
-[Chorus]
- 
+```
+**Estrofa**
+```
              A
 Sabes que soñare
         G                   Bm
@@ -778,10 +1156,9 @@ sabes que quiero mas,
 no se vivir solo con cinco sentidos.
      G      A                    Bm      G  A  Bm
 este mar cada vez guarda mas barcos hundidos
- 
- 
-[Verse 2]
- 
+```
+**Estrofa**
+```
              G
 Tu eres aire. yo, papel.
            Bm
@@ -799,15 +1176,13 @@ Alguien dijo alguna vez
 y yo lo estoy diciendo,
         F#                Bm
 te lo estoy diciendo, otra vez...
- 
- 
-[Solo]
- 
+```
+**Estrofa**
+```
 Bm G  A Bm (x2)
- 
- 
-[Verse 3]
- 
+```
+**Estrofa**
+```
                G
 Dime porque preguntas
 A               Bm
@@ -825,10 +1200,9 @@ no quiero ver la aurora
 quiero mirar tus ojos
 A               Bm
 del color de la coca-cola
- 
- 
-[Chorus]
- 
+```
+**Estrofa**
+```
              A
 Sabes que soñare
         G                   Bm
@@ -839,10 +1213,9 @@ sabes que quiero mas,
 no se vivir solo con cinco sentidos.
      G      A                    Bm      G  A  Bm
 este mar cada vez guarda mas barcos hundidos
- 
- 
-[Verse 4]
- 
+```
+**Estrofa**
+```
             Em
 No estas conmigo siempre que te canto
            Bm
@@ -869,10 +1242,9 @@ y es lo que tengo para estar contigo
 para decirte lo que nunca canto
         Bm
 para cantarte lo que nunca digo
- 
- 
-[Solo]
- 
+```
+**Estrofa**
+```
 Em Bm G  F# Bm (x2)
 Em A  Bm G  F# Bm (x2)
 G  F# Bm (x2)
@@ -896,11 +1268,13 @@ G  F# Bm (x2)
 
 ## 01. Antes de que cuente diez
 
+
+**Intro**
 ```
-[Intro]
 F#m  A  Bm  D  E
- 
-[Verse]
+```
+**Estrofa**
+```
           F#m
 Puedo escribir y no disimular
          E
@@ -918,11 +1292,15 @@ y en mi ventana sopla en el cristal
        A               E
 mira a ver si estoy despierto.
  
-[Interlude]
+```
+**Estrofa**
+```
 F#m A E
 F#m A E
  
-[Verse]
+```
+**Estrofa**
+```
                 F#m
 Me perdí en un cruce de palabras
              A
@@ -942,13 +1320,17 @@ déjame el timón
                          E
 y alguien dijo no, no, no
  
-[Interlude]
+```
+**Estrofa**
+```
 F#m  D  Bm  D
 F#m  D  Bm  D
 F#m  E  Bm  D
 F#m  E  Bm  D  E
  
-[Verse]
+```
+**Estrofa**
+```
            F#m
 Lo que me llevará al final
            A
@@ -966,7 +1348,9 @@ no es porque digas la verdad
           D
 es porque nunca me has mentido.
  
-[Chorus]
+```
+**Estrofa**
+```
              A
 No voy a sentirme mal
               E
@@ -1000,17 +1384,20 @@ y entre tanto barro me encontré
 algo de calor sin tus abrazos
              D                        E  Bm
 ahora sé que nunca volveré.
- 
-[Outro]
+ ```
+**Final**
+```
 F#m  D  Bm  D    (repite)
 ```
 
 ## Me acordé de tí
+
+**Intro**
 ```
-Intro:
 Bm
- 
- 
+ ```
+**Estrofa**
+```  
                    G
 Puede que sea esta la canción
                        Bm
@@ -1038,11 +1425,13 @@ y yo solo me perdí.
 Hay un niño que se esconde
                     Bm
 siempre detrás de mí.
- 
- 
+ ```
+**Estrofa**
+```   
 D  A  Bm  (x2)
- 
- 
+```
+**Estrofa**
+```   
      G
 Todo cambia y sigue igual
          A
@@ -1055,13 +1444,18 @@ todo cambia y sigue igual
 y la vida te dará
                         Bm
 los besos que tu puedes dar.
+```
+**Estrofa**
+```  
  
  
 G  A  Bm  (x2)
  
 D  A  Bm
  
- 
+```
+**Estrofa**
+```   
        Em
 Todo y nada que explicar
         G            A
@@ -1090,18 +1484,19 @@ tu acuérdate también de mí
          Bm
 nunca se para de crecer
 nunca se deja de morir.
- 
- 
+```
+**Estrofa**
+```   
 D  A  Bm   (repite)
 ```
 ## Tarde o temprano
 
-
-
-Intro:
+**Intro**
+```
 Am  G  F  C      (x4)
- 
- 
+```
+**Estrofa**
+```
              G
 Igual que un faro por la noche
                           C
@@ -1110,8 +1505,9 @@ yo vi la luz de un whisky bar
 y en cuanto me bajé del coche
                      C
 yo supe que era mi lugar.
- 
- 
+```
+**Estrofa**
+``` 
      Am
 Y es bueno saber
                           F
@@ -1137,22 +1533,21 @@ tarde o temprano
 G               Am  G  F  C
 sé que voy a volver.
  
- 
+```
+**Estrofa**
+``` 
 Am  G  F  C
- 
- 
+```
+**Estrofa**
+```
           G
-El tiempo pasa tan despacio
-en el club del gato negro
+El tiempo pasa tan despacio en el club del gato negro
              C
-que hasta el whisky 12 años
-aparenta alguno menos.
+que hasta el whisky 12 años aparenta alguno menos.
         G
-Hay policías y ladrones
-compartiendo cenicero
+Hay policías y ladrones compartiendo cenicero
       C
-y una lámpara más rota
-que la voz del camarero.
+y una lámpara más rota que la voz del camarero.
  
  
    Am
@@ -1180,10 +1575,14 @@ tarde o temprano
 G               Am
 sé que voy a volver.
  
- 
+```
+**Estrofa**
+``` 
 C  F Am  C  F
 C  G  Am  F  G
- 
+```
+**Estrofa**
+``` 
  
            F
 Tarde o temprano
@@ -1194,21 +1593,23 @@ de vez en cuando
                 C
 cada cuando una vez.     [x2]
  
- 
+```
+**Estrofa**
+``` 
 F           C
 Ohhh, ohhohhohh        [repite]
-
-
-
-
+```
 ## 14 vidas son dos gatos
 
+**Estrofa**
+```
       Bm         D
 Ahhahhahh, ahhahhahh
       Bm   A     D
 Ahhahhahh, ahhh, ahhh       [x2]
- 
- 
+```
+**Estrofa**
+``` 
 A            G          D
 Cuanto se gritó diciendo nada
 A          G            D
@@ -1217,8 +1618,9 @@ A             G            D
 yo buscaba el cielo en tu mirada
 A         G                     D
 y nunca sabré lo que encontraste tu.
- 
- 
+```
+**Estrofa**
+``` 
 A              G           D
 Que te traigan flores las mañanas
 A            G            D
@@ -1227,7 +1629,9 @@ A               G             D
 que el sueño se pose en tus pestañas
 A               G                    D
 que uno de esos sueños que me sueñe a mí.
- 
+```
+**Estrofa**
+``` 
  
            Bm
 Detrás del viento un huracán
@@ -1246,13 +1650,17 @@ no guarda nada que no veas
 solo un pequeño resplandor
              D
 de nuestra hoguera.
- 
+```
+**Estrofa**
+``` 
  
       Bm         D
 Ahhahhahh, ahhahhahh
       Bm   A     D
 Ahhahhahh, ahhh, ahhh
- 
+```
+**Estrofa**
+``` 
  
 A              G          D
 Mi canción que nace del fracaso
@@ -1262,7 +1670,9 @@ A           G           D
 algo que se besa y sabe amargo
 A          G               D
 es mi boca seca, nada que beber.
- 
+ ```
+**Estrofa**
+```
  
 A
 Ohh pobre corazón que no sabe que decir
@@ -1286,12 +1696,16 @@ siempre habrá una estrella para ti
 si catorce vidas son dos gatos
           G
 aun queda mucho por vivir.
- 
+ ```
+**Estrofa**
+```
  
 D  A  G  D  A    (x2)
 D
  
- 
+ ```
+**Estrofa**
+```
 A
 Ohh pobre corazón que no sabe que decir
       G
@@ -1314,22 +1728,30 @@ siempre habrá una estrella para ti
 si catorce vidas son dos gatos
           G
 aun queda mucho por vivir.
- 
+ ```
+**Estrofa**
+```
  
 D  A  G  D A    (x4)
- 
+```
+**Estrofa**
+``` 
  
       Bm         D
 Ahhahhahh, ahhahhahh
       Bm   A     D
 Ahhahhahh, ahhh, ahhhh
+```
 
 
 ## Todo a cien
 
+**Estrofa**
+```
 Gm  D#  F  Gm
- 
- 
+```
+**Estrofa**
+```
 Gm
 Puedes pedirme la luna que locura
 fijo que te traigo un queso
@@ -1338,14 +1760,16 @@ puedes pedirme amore que dolor
 al precio que está la carne
 Gm
 me conformo con un beso.
- 
- 
+```
+**Estrofa**
+```
       D#
 Ni tu eres la princesa de este cuento
            F                           Gm
 ni a besos vas a convertirme en rana.
- 
- 
+```
+**Estrofa**
+```
                Cm                  Gm
 Es poco lo que tengo, el oro de mi tiempo
                   D5                      Gm
@@ -1354,8 +1778,9 @@ la flor de mis neuronas y por supuesto la luna,
 es poco lo que tengo, el oro de mi tiempo
                   D5    F                 Gm
 la flor de mis neuronas y por supuesto la luna.
- 
- 
+```
+**Estrofa**
+```
 D#  A#  F  Gm      (x2)
         Cm
 Ya hace tiempo que se
@@ -1371,8 +1796,9 @@ Si la vida es una orgía
 yo voy de paja mental
     D
 tiriti traun traun traun.
- 
- 
+```
+**Estrofa**
+```
                Cm                  Gm
 Es poco lo que tengo, el oro de mi tiempo
                   D5                      Gm
@@ -1381,8 +1807,9 @@ la flor de mis neuronas y por supuesto la luna,
 es poco lo que tengo, el oro de mi tiempo
                   D5    F                 Gm
 la flor de mis neuronas y por supuesto la luna.
- 
- 
+```
+**Estrofa**
+```
                D#
 Es poco lo que tengo
              A#
@@ -1391,11 +1818,13 @@ el oro de mi tiempo
 la flor de mis neuronas
                   Gm
 y por supuesto la luna.       [x2]
- 
- 
+```
+**Estrofa**
+```
 D#  A#  F  Gm       (x2)
- 
- 
+```
+**Estrofa**
+```
                D#
 Es poco lo que tengo
              A#
@@ -1404,13 +1833,207 @@ el oro de mi tiempo
 la flor de mis neuronas
                   Gm
 y por supuesto la luna.
- 
- 
+```
+**Estrofa**
+```
 D#  A#  F  Gm
-
-
+```
 ## Los Huesos De Los Besos	4:30
+
+Sin capo
+
+
+**Estrofa**
+```
+Am  Bm  E    (x4)
+```
+**Estrofa**
+```
+Am               Bm
+Para, para, para,  para
+E           Am         Bm  E
+para que quererte tanto
+Am             Bm
+si después, después
+E     Am         Bm  E
+si después te vas.
+ 
+ 
+Am               Bm
+Para, para, para,  para
+E            Am         Bm  E
+para que quererte tanto
+Am             Bm
+si después, después
+E     Am          Bm
+si después te vas.
+```
+**Estrofa**
+```
+E          Dm
+Y a tu corazón que se ha olvidado
+            C
+dile que recuerde lo que soy
+                G
+que tengo el querer, que tengo el llanto
+            Am
+y que te canté la negra flor.
+ 
+ 
+              Dm
+Huesos de los besos enterrados
+            C
+toda la tristeza en un montón
+              G
+y entre tanto amor desordenado
+             E
+se confunden penas y perdón.
+```
+**Estrofa**
+```
+Am               Bm
+Para, para, para,  para
+E           Am         Bm  E
+para que quererte tanto
+Am             Bm
+si después, después
+E     Am         Bm  E
+si después te vas.
+ 
+ 
+Am               Bm
+Para, para, para,  para
+E            Am         Bm  E
+para que quererte tanto
+Am             Bm
+si después, después
+E     Am          Bm  E  F
+si después te vas.
+```
+**Estrofa**
+```
+G       G              Am
+Soy un sueño que te sueña
+             F            G
+en mis sueños tu eres una flor
+                  Am    Dm
+entre mis ramas secas
+                              Am
+pero el demonio siempre me despierta
+      E
+y te alejas otra vez.
+```
+**Estrofa**
+```
+Am  Bm  E  (x3)
+ 
+F  G  Am  (x2)
+ 
+Dm  G  Am  E
+```
+**Estrofa**
+```
+Am               Bm
+Para, para, para,  para
+E           Am         Bm  E
+para que quererte tanto
+Am             Bm
+si después, después
+E     Am         Bm  E
+si después te vas.          [x2]
+ 
+ 
+Am             Bm
+Si después, después
+      Am          Bm  E
+si después te vas.
+ 
+ 
+Am  Bm  E        (repite)
+
+```
 ## Que Me Arrastre El Viento	4:27
+
+
+**Estrofa**
+```
+Gm  Cm  Gm  Dm  Cm  (F) Gm (Dm)
+ ```
+**Estrofa**
+```
+ 
+Gm
+Quiero que me arrastre el viento
+        A#
+como un trozo de papel
+     Gm                            Cm
+revolcarme por el cielo y no caer.
+                      F            Gm
+Y no pensar, tan solo quiero no pensar
+    Dm                 Cm
+y copiar el movimiento
+            F        Gm
+irrepetible azul del mar.
+```
+**Estrofa**
+``` 
+(Dm) Gm
+Arrancarme los recuerdos
+      A#
+no volver a repasar
+   Gm                          Cm
+adelante solo quiero y no caer.
+                      F            Gm
+Y no pensar, tan solo quiero no pensar
+   Dm              Cm
+imitar el parpadeo
+         F             Gm   (A#  Gm)
+de las estrellas al brillar.
+ ```
+**Estrofa**
+``` 
+D              D#
+Algo tiene ese bar
+ 
+                   A#
+que está cerca de aquí
+                   D
+que es más fácil entrar
+                 Gm  Am  A#
+que aprender a salir sin ti.
+                    D#
+Y aunque nada es verdad
+              A#
+las verdades aquí
+       D
+tienen forma de puñal.
+ ```
+**Estrofa**
+```
+Gm  Cm  Gm  Dm  Cm  F  Gm  (A# Gm)
+```
+**Estrofa**
+```
+D              D#
+Algo tiene ese bar
+                   A#
+que está cerca de aquí
+                   D
+que es más fácil entrar
+                 Gm  Am  A#
+que aprender a salir sin ti.
+                    D#
+Y aunque nada es verdad
+              A#
+las verdades aquí
+       D
+tienen forma de puñal.
+ ```
+**Estrofa**
+```
+Gm      (hasta el final)
+```
+
 ## Qué Necesario Es Rock & Roll	5:28
 ## Conozco Un Lugar	4:03
 ## La Cuisine De Bernard
