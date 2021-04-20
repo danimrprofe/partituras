@@ -21,6 +21,13 @@
 - [El Futuro](#el-futuro)
 - [La Libertad](#la-libertad)
 - [Las 17:00](#las-1700)
+- [Otros discos](#otros-discos)
+  - [Vi](#vi)
+  - [Hijos del verbo amar](#hijos-del-verbo-amar)
+  - [Te espero aquí](#te-espero-aquí)
+  - [La mejor noche de mi vida](#la-mejor-noche-de-mi-vida)
+  - [Lo saben mis zapatos](#lo-saben-mis-zapatos)
+  - [Dos palabras](#dos-palabras)
 
 # 1. El camino
 
@@ -80,7 +87,7 @@ Te he contado que no te conozco y te quiero de leeejooos
 Y te juro que vale la pena caer y romperse la cara
      Ab                     F                 C/E
 Que regalo tan grande aprender de lo que nos dolió
-     Am             Abdim     C/G        D/F#
+     Am             Abdim/G#     C/G        D/F#
 Que regalo estar en este viaje de románticos salvajes
 F                     Fm/Ab
 Soñadores desterrados caminantes del amor
@@ -1042,4 +1049,649 @@ Yo no quiero que me cuentes el final.
 **Outro**
  ```
 C#m A Cm Em B E
+```
+
+# Otros discos
+
+## Vi
+
+**Intro (arpegiando)**
+```
+ G  Eb (Bis)
+ ```
+**Estrofa**
+```
+Gm                      F                        Eb     Eb-F
+Reza en este verso todo lo que en esta vida he guardado
+Gm                      F                     Eb
+sirva como humilde testamento de un hermoso legado.
+```
+**Pre-coro**
+```
+Gm        Eb      Bb     F     Gm       Eb      Bb          F
+Dejé el amor detrás de ti, dejé el valor perdido en escenarios
+```
+**Estrofa**
+```
+Gm           F         Eb           Eb-F
+Vi morir mi sueño, vi como resucitaba,
+       Gm             F            Eb
+vi los ojos de la envidia, vi canciones, vi palabras.
+     Gm                 F/A      Cm
+Dime si hoy se acaba el mundo corazón,
+                  E     F
+dime qué vas a llevarte, dime que me llevo yo.
+```
+**Estrofa**
+```
+Gm | F |  Eb7 | - x2
+  ```
+**Estrofa**
+```
+Gm                         F             Eb        Eb-F
+Tengo la tranquilidad de haber vivido días y noches,
+Gm                      F              Eb
+he bañado en vino madrugadas, he besado el derroche.
+Gm       Eb      Bb     D7/Gb      Gm     Eb       Bb       F
+Me emocioné cantando al sooool, perdí, gané, crecí con la batalla.
+Gm            F              Eb                Eb-F
+Vi el engaño, vi algunas verdades, vi que estamos solos,
+Gm            F          Eb
+vi fortunas, vi necesidades, vi quemarse todo.
+
+ ```
+**Estrofa**
+```
+Gm               F/A        Cm                  Eb        F
+Si hoy se acaba el mundo corazón, dime qué vas a llevarte, dime que me llevo...
+```
+**Estribillo**
+```
+Gm             F          Eb                   Eb-F
+Vi llorar a un alma inconsolable, vi reír al miedo,
+Gm             F                Eb
+vi besar, yo he visto amar, he visto cuanto debo.
+     Gm                 F/A      Cm
+Dime si hoy se acaba el mundo corazón,
+            Dm     Eb   F
+dime qué vas a llevarte, dime que me llevo yo.
+ ```
+Final 1 
+```
+Gm | - | Eb | - x2
+```
+Final 2 (arpegiando)
+```
+Gm | - | Eb | - x2
+``` 
+
+
+## Hijos del verbo amar
+```
+[Intro]
+ 
+G#m E C#   x2
+ 
+[Verse]
+ 
+G#m                      F#                 G#m                            C#
+Dos animales de verbo salvaje, de abrazo mortal, de brillante y maldito linaje
+C#m          G#m             B               F#                  C#m
+Bajo la lluvia van caminando, están tan vivos, han renovado su piel
+              G#m          E                   B                     D#
+Y en este mundo envenenado, van engañando al dios que hay bajo sus pies
+ 
+[Chorus]
+ 
+E                   B   F#                G#m         E
+Nadie les calla la boca, nadie conoce de sus heridas,
+                  B        F#
+maleta y rumbo directo al sol
+E                   B  F#                     G#m      F#
+Han incendiado la ropa, ya han aprendido a bailar la vida
+E                    B     C#      D#              G#m
+Que no les roben su libertad, son hijos del verbo amar
+ 
+[Solo]
+ 
+G#m E C#   x2
+ 
+[Verse]
+ 
+G#m                                               F#
+Carne bendecida por la tierra, larga vida a los amantes locos
+G#m                                                    D#m
+Grita el pecho su canción de guerra, viva esta revolución
+                A                G#m            B
+Y que viva el amor de los que besan desesperados
+                F#                 C#m                 G#m              E
+Por si esta luna fuera la ultima vez, que sobre el libro de los pecados
+             B                 D#
+Juraron olvidar al miedo a perder
+ 
+[Chorus]
+ 
+E                   B  F#                 G#m         E
+Nadie les calla la boca, nadie conoce de sus heridas,
+                  B        F#
+maleta y rumbo directo al sol
+E                  B   F#                     G#m     F#
+Han incendiado la ropa, ya han aprendido a bailar la vida
+E                    B    C#       D#               C#
+Que no les roben su libertad, son hijos del verbo amar
+ 
+[Solo]
+ 
+C#   G#m   B   F#   
+A   G#m   G#m/D#   D#
+ 
+[Chorus]
+ 
+E                   B   F#               G#m       F#
+Nadie les calla la boca, nadie conoce de sus heridas,
+E                 B        F#
+maleta y rumbo directo al sol
+E                  B  D#/G                      G#m      F#
+Han incendiado la ropa, y han aprendido a bailar la vida
+E                    B    C#      D#               G#m
+Que no les roben su libertad, son hijos del verbo amar
+ ```
+**Final**
+``` 
+G#m | E | C#/G#  |-
+G#m | E/G# | C#7/G# | - 
+G#m
+```
+
+## Te espero aquí
+
+**Guitarra**
+- Subiéndola un semitono es más fácil de tocar, y se puede desafinar la guitarra medio tono para coincidir con la canción
+
+
+Arpegiar Intro -
+ 
+**Intro**
+```
+F# Bm/F# F# Bm/F#
+ 
+[Verse]
+G#m                Ebm
+No entiendo como fue
+                    A#m
+Como llegue hasta aquella habitación
+B          G#m               Ebm   C#
+Caminando fui besando tus palabras
+  B                 C#
+Mirando al suelo, no te esperaba...
+G#m                Ebm
+  Extraña la emoción
+             A#m
+Extraña la manera de sentir
+B             G#m
+Dos extraños mas
+              Ebm       C#
+Comiendose hasta el alma
+B                   C#
+Mordiendo el aire me he despertado y...
+ 
+```
+**Estribillo**
+```
+              Gb   Abm   Gb/Bb             B 
+Tengo que decirte,   que nunca pierdo el sueño por 
+       Gb   Abm   Gb/Bb           B                Db
+cualquiera,   que se quedo en mi pecho lo que hiciste
+    Bbm7                  Ebm    Db   B        Db   
+Que no debi­ bajar esa escalera. Solo quiero volver a
+ Gb   Abm   Gb/Bb        B 
+ verte, Y despejar las dudas que me
+ Gb    Abm  Gb/Bb        B            Db
+ quedan, No se si te abrace lo suficiente
+  Bbm                       Ebm
+O nos ganó la prisa traicionera
+  Db     B    Bm/D    Gb
+Vuelve, yo te espero aqui...
+```
+**Instrumental (arpegiar)**
+``` 
+ 
+F# Bm/D F# Bm/D
+
+ 
+[Verse]
+G#m                 Ebm
+   No se si fuiste tu
+              A#m
+Probablemente fueramos los dos
+B        G#m                      Ebm C#
+Olvidamos que el mundo sigue ahi fuera
+ B               C#
+Amenazando nuestra cancion...
+ 
+G#m               Ebm
+   Esclavo de reloj
+              A#m
+Tuve que separarme de tu piel
+B           G#m
+Aunque mi calor
+               Ebm C#
+Nunca dejo esa cama
+    B                 C#
+Yo sigo en ella, sigo abrazando y...
+ 
+```
+**Estribillo**
+```
+              Gb   Abm   Gb/Bb             B 
+Tengo que decirte,   que nunca pierdo el sueño por 
+       Gb   Abm   Gb/Bb           B                Db
+cualquiera,   que se quedo en mi pecho lo que hiciste
+    Bbm7                  Ebm    Db   B        Db   
+Que no debi­ bajar esa escalera. Solo quiero volver a
+ Gb   Abm   Gb/Bb        B 
+ verte, Y despejar las dudas que me
+ Gb    Abm  Gb/Bb        B            Db
+ quedan, No se si te abrace lo suficiente
+  Bbm                       Ebm
+O nos ganó la prisa traicionera
+  Db     B        
+Vuelve, yo 
+ 
+```
+**Estribillo**
+```
+ Bm/D        Gb   Abm   Gb/Bb             B 
+Tengo que decirte,   que nunca pierdo el sueño por 
+       Gb   Abm   Gb/Bb           B                Db
+cualquiera,   que se quedo en mi pecho lo que hiciste
+    Bbm7                  Ebm    Db   B        Db   
+Que no debi­ bajar esa escalera. Solo quiero volver a
+ Gb   Abm   Gb/Bb        B 
+ verte, Y despejar las dudas que me
+ Gb    Abm  Gb/Bb        B            Db
+ quedan, No se si te abrace lo suficiente
+  Bbm                       Ebm
+O nos ganó la prisa traicionera
+  Db     B    Bm/D    Gb
+Vuelve, yo te espero aqui...
+ 
+B       C#        F#
+yo te espero aqui...
+ 
+[Outro] (Arpegiar)
+F# Bm/D
+F# Bm/D
+```
+
+## La mejor noche de mi vida
+
+**Intro** 
+
+| 1    | 2      | 3   | 4      |
+| ---- | ------ | --- | ------ |
+| A    | F#m    | C#m | F#m    |
+| A    | F#m Bm | F#m | E      |
+| A    | B      | F#m | E      |
+| A/C# | D      | F#m | C#m/G# |
+ 
+
+**Estrofa** 
+``` 
+Bm               A
+Entre la felicidad
+                 F#m
+Y la desesperación
+                       E
+La carretera es muy corta
+D            F#m
+Necesitaba salir
+                    A
+Romper con todo y vivir
+                        E
+Que lo demás ya no importa
+ 
+Bm               A
+Como unos locos sin fe
+               F#m
+Salimos a pelear
+                  E
+Contra la melancolía
+D            F#m
+Besamos la libertad
+                    A
+Nos abrazamos a todo
+                 E
+lo que nos sonreía
+```
+
+**Pre-estribillo**
+ ```
+     Bm    F#m     E     D           Bm    F#m     E
+Como niños sin preocupación, Como el ave que escapó...
+```
+**Estribillo** 
+``` 
+A                Bm                   A/C#                   D
+Creo que por una vez, Conseguimos no ser los esclavos de nadie
+         A/E                 C#/F      F#m           E/G#
+Nos perdonamos las viejas heridas. Así fue, la mejor noche de mi vida
+       A                Bm                 A/C#          D
+Sin palabras, Fuimos al mar y abrazamos el alba Nos olvidamos
+               A/E            C#/F   F#m           E/G#
+de lo que nos falta. Hoy juraría que fue, La mejor noche de mi vida...
+```
+**Instrumental** 
+``` 
+Bm F#m | E D | Bm F#m | E
+```
+**Estrofa** 
+``` 
+Bm               A
+Que te podría contar
+                 F#m
+No entiendo como pasó
+                 E
+Pero tocamos la gloria
+D                 F#m
+Nos escondimos de Dios
+                  A
+Nos regalamos al sol
+                    E
+Todo quedó en la memoria
+ 
+Bm               A
+La noche se terminó
+                 F#m
+Pero yo sigo luchando
+               E
+Por comerme el mundo
+D                   F#m
+Quién sabe cuando podré
+                       A
+Cantarle a cielo otra vez
+                  E
+Con ese grito profundo
+ 
+```
+**Pre-estribillo**
+ ```
+     Bm    F#m     E     D           Bm    F#m     E
+Como niños sin preocupación, Como el ave que escapó...
+```
+**Estribillo** 
+``` 
+A                Bm                   A/C#                   D
+Creo que por una vez, Conseguimos no ser los esclavos de nadie
+         A/E                 C#/F      F#m           E/G#
+Nos perdonamos las viejas heridas. Así fue, la mejor noche de mi vida
+       A                Bm                 A/C#          D
+Sin palabras, Fuimos al mar y abrazamos el alba Nos olvidamos
+               A/E            C#/F   F#m           E/G#
+de lo que nos falta. Hoy juraría que fue, La mejor noche de mi vida...
+A                Bm                   A/C#                   D
+Creo que por una vez, Conseguimos no ser los esclavos de nadie
+         A/E                 C#/F      F#m           E/G#
+Nos perdonamos las viejas heridas. Así fue, la mejor noche de mi vida
+       A                Bm                 A/C#          D
+Sin palabras, Fuimos al mar y abrazamos el alba Nos olvidamos
+               A/E            C#/F   F#m           E/G#
+de lo que nos falta. Hoy juraría que fue, La mejor noche de mi vida...
+ 
+[Outro]
+ 
+A    D     A/C#  D
+A/E  C#/F  F#m   E/G#
+```
+## Lo saben mis zapatos
+```
+Intro]
+C Bm/F# Em Bm
+C Bm/F# Em7
+ 
+[Verse]
+C/E           Bm/F#        C/E         Bm/D
+ No quiero correr, lo saben mis zapatos
+C/E           Bm/F#        C/E         Bm/D
+ No quiero pedir, lo saben los ingratos
+Em              Bm7       C          G   D/F#
+  Quiero que aparezcas,    quiero verte cerca,
+Em            G/B      Dsus4     D
+  Quiero merendarte al sol.
+ 
+[Verse]
+C/E           Bm/F#        C/E         Bm/D
+ Quiero pelear,   lo saben los cobardes
+C/E           Bm/F#        C/E         Bm/D
+ Quiero celebrar, lo saben los que arden
+Em               Bm7   C             G   D/F#
+ No quiero olvidarme,   no quiero escaparme,
+Em             Bm7     Dsus4         D
+ No quiero pensar que fue un delirio,
+ 
+[Chorus]
+G      Cm/G    G
+Yooooooooooooooo   te quiero
+   D                 Em    C            G
+matar, y no lo sabe nadie, no lo sabe nadie
+            D        Em    C
+Te quiero matar de amor y no,
+            G      Am7     G/B     C        Em   D    G
+No lo sabe nadie, nadie, naaadie puede imaginár  se   lo.
+ 
+[Instrumental]
+C Bm/F# Em Bm
+C Bm/F# Em7
+ 
+[Verse]
+C/E           Bm/F#        C/E         Bm/D
+ No quiero volar,   lo saben mis amigos
+C/E           Bm/F#        C/E         Bm/D
+ No quiero bailar,  lo saben los testigos
+Em              Bm7     C             G   D/F#
+ Quiero que me abras,    quiero tus palabras
+Em              Bm      Dsus4      D
+ Quiero que lo quieras hoy.
+ 
+[Verse]
+C/E           Bm/F#        C/E         Bm/D
+Quiero hacer sentir,  lo saben estas manos
+C/E         Bm/F#      C/E         Bm/D
+Quiero repartir,   lo saben los humanos
+         Em            D      C           G
+No quiero perderte, no quiero soñarte
+         Em              Bm      D      D
+No quiero escribirte   más historias.
+ 
+[Chorus]
+G      Cm/G    G
+Yooooooooooooooo   te quiero
+   D                 Em    C            G
+matar, y no lo sabe nadie, no lo sabe nadie
+            D        Em    C
+Te quiero matar de amor y no,
+            G      Am7     G/B     C        Em   D    G
+No lo sabe nadie, nadie, naaadie puede imaginár  se   lo.
+ 
+[Instrumental]
+C Bm/F# Em Bm
+C Bm/F# Em7
+ 
+[Chorus]
+G      Cm/G    G
+Yooooooooooooooo   te quiero
+   D                 Em    C            G
+matar, y no lo sabe nadie, no lo sabe nadie
+            D        Em    C
+Te quiero matar de amor y no,
+            G      Am7     G/B     C        Em   D    G
+No lo sabe nadie, nadie, naaadie puede imaginár  se   lo.
+ 
+[Outro]
+C Bm/F# Em Bm
+C Bm/F# Em7
+```
+## Dos palabras
+```
+[Intro]
+ 
+A A7  A6 A7
+A A7  A6 A7
+ 
+ 
+[Verse 1]
+ 
+A          A7            A          A7
+Todo acabó deprisa, se congeló la brisa
+Bm             E7
+Fueron dos palabras
+Bm             E7
+Fueron dos palabras
+ 
+A          A7
+No dijo nada extraño
+A          A7
+No quiso hacerme daño
+Bm             E7     Bm             E7
+Pero el miedo pesa, más que la razón
+ 
+[Chorus]
+ 
+D          E7      F#m     C#m
+Y yo, que soy un perro que no tiene dueño
+D          E7      F#m     C#m
+Me escapé, corrí como un niño pequeño
+D          E7      F#m     C#m
+Recordé que a veces el mundo va en serio
+D
+Fueron dos palabras
+Dm            A
+Fueron dos palabras
+
+A | A 
+ 
+[Verse 2]
+ 
+A          A7            A          A7
+Quisimos evitarlo, quizás disimularlo
+Bm           E7  Bm             E7
+Éramos cobardes, solo dos cobardes
+ 
+A          A7
+Culpables e inocentes
+A          A7
+De sueños diferentes
+Bm           E7  Bm             E7
+Pero se perdonaban hasta la verdad
+ 
+ 
+[Chorus]
+ 
+D          E7      F#m     C#m
+Tú jamás pensaste que me lo dirías
+D          E7      F#m     C#m
+Pero yo callé más de lo que debía
+D          E7      F#m     C#m
+Nos cegó la luz de aquel último día
+D
+Fueron dos palabras
+D            E
+Fueron dos palabras
+ ```
+| 1   | 2   | 3   | 4      |
+| --- | --- | --- | ------ |
+| Bm7 | F#m | A/E | B7     |
+| Bm7 | F#m | A/E | E A/C# |
+ ```
+[Chorus]
+ 
+D          E7      F#m     C#m
+Y yo, que soy un perro que no tiene dueño
+D          E7      F#m     C#m
+Me escapé, corrí como un niño pequeño
+D          E7      F#m     C#m
+Recordé que a veces el mundo va en serio
+D
+Fueron dos palabras
+Dm               A
+Fueron dos palabras
+ 
+[Outro]
+ 
+A A7  A6 A7
+A A7  A6 A7
+```
+## Tu enemigo
+```
+[Intro]
+D# Cm Gm A#  Cm A# F
+ 
+[Verse]
+Gm
+Bajo sombra he visto otra montaña bebiendo sin permiso de otro río
+A#                             F   Cm       Gm
+Alimentando al monstruo de la rabia. Tu enemigo
+Gm
+Quién viene a tu país a profanarte, quién pisa la ciudad sin tu permiso
+A#                            F   Cm       Gm
+Quién sacará tus cosas de la calle. Tu enemigo
+ 
+[Chorus]
+           D#                             Gm
+Si estos idiotas supieran que yo soy el hombre
+                    A#                      F
+más rico del mundo así, viviendo de tus abrazos
+     Cm                                  Gm
+Olvidaron que el hombre no es más que un hombre
+    A#                   F           D7                        Gm
+Que tus manos son mi bandera y que tengo de frontera una canción
+ 
+Gm
+No me preguntes para qué he venido, pregúntate mejor cómo has llegado
+A#                               F Cm          Gm
+Puede que seas el hijo de algún hijo de un esclavo
+Gm                              D#
+Ven y háblame da frente a tu enemigo
+                   F            Gm
+(ven y háblame de frente a tu enemigo)
+Gm                            D#
+Culpable del amor trabajo y tierra
+                F              A#
+(culpable del amor trabajo y tierra)
+A#                         F  Cm        D#      F
+Culpable de vivir en el camino por tu guerra  aaah
+ 
+[Chorus]
+            D#                            Gm
+Si estos idiotas supieran que yo soy el hombre
+                   A#                      F
+más rico del mundo así, viviendo de tus abrazos
+     Cm                                  Gm
+Olvidaron que el hombre no es más que un hombre
+    A#                   F           D7                        D#
+Que tus manos son mi bandera y que tengo de frontera una canción
+ 
+[Interlude]
+D#  Cm  Gm
+Dm D#
+Cm  A#  F
+Cm  A#  F
+ 
+[Chorus]
+           D#                             Gm
+Si estos idiotas supieran que yo soy el hombre
+                    A#                      F
+más rico del mundo así, viviendo de tus abrazos
+     Cm                                  Gm
+Olvidaron que el hombre no es más que un hombre
+    A#                   F           D7                        Gm
+Que tus manos son mi bandera y que tengo de frontera una canción
+ 
+[Outro]
+ D#       F           Gm
+She le le le le le ...  una canción
+ D#       F      Gm
+   No no no no no no no no ...
+ D#       F      Gm
+Te le le le le le...  una canción
 ```

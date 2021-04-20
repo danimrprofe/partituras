@@ -25,6 +25,11 @@
 
 ## Volaré
 
+- Artista: Russian Red
+- Álbum: Brave
+- Fecha de lanzamiento: 2012
+- Video: https://www.youtube.com/watch?v=Vy0VoyyxHEU
+
 **Intro Violín**
 
 ``` 
@@ -115,7 +120,9 @@ D   G   D
 
 ## 🎸 Que hay más allá
 
- 
+- Artista: María Parrado
+- Película musical: Vaiana
+- Fecha de lanzamiento: 2016
 
  | Tonalidad | Tempo  | Compás | Capo |
  | --------- | ------ | ------ | ---- |
@@ -735,20 +742,20 @@ B  | Bb Ebm | D | Db
 ```
   F#               Bm
 Recuérdame hoy me tengo que ir mi amor
-  F#             E           A#7
+  F#             E9           A#7
 Recuérdame, no llores por favor
-   D#m                   E            F#
+   D#m                   E            F#7
 Te llevo en mi corazón y cerca me tendrás
   B                     D             C#7
 A solas yo te cantaré soñando en regresar
 ``` 
 **Estrofa**
 ```
-  F#                Bm
+  F#                Bm/D#
 Recuérdame, aunque tenga que emigrar
-  F#                  C#m          F
+  F#                  C#m7          F7
 Recuérdame, si mi guitarra oyes llorar
-B                        Bbm   Bb7  Ebm
+B                        Bbm   B/D  Ebm
 Ella con su triste canto te acompañará
 D                       C#sus4
 Hasta que en mis brazos estés
@@ -1041,46 +1048,46 @@ Ah-ah, ah-ah
 
 **Verse**
 ``` 
-    F                   A#
+    F                   Bb/F
 La luz está entrando en el salón
-    Dm                 C
+    Fmaj7                 Bb/F
 Por fin, se ilumina cada rincón
-     F                   A#           Dm      C
+     F              F/A     C
 Y ahora sacan la vajilla real
  
-     F              A#
+     F              Bb/F
 Por estos salones deambulé
-   Dm                C
+Fmaj7            Bb/F
 Sola vagué una y otra vez
-F                 A#           Dm     C
-Hoy por fin las puertas se abrirán
+Dm               Dm/C           Bbm7b5  G7
+Hoy por fin las puertas se abriráaaaaaaaaan
  
      Dm              Am
 Y vendrán de todas partes
      C                 A#
 Qué raro se me va a hacer
-     Eb                         C
+     Eb                         Csus2/4
 Hay tantas cosas que quiero emprender
  ```
 **Chorus**
 ``` 
-           F            A#
+           F/A          Bbadd2
 Hoy por primera vez en años
-      C         F
+      C/E       Fadd2
 Habrá luz y música
        Dm          Am
 Por primera vez en años
-     Eb                 C
+     Eb                 A7
 Bailaré hasta no poder más
  
-            F         Am
+            Dm         Dm/C
 No sé si es emoción o gases
-         C              A#
+         Bbmaj7          G9/B
 Pero hay algo en mi interior
-             F           A#
+             F5/Ab       Bbsus2
 Pues por primera vez en años
-C                 F
-  Me late el corazón
+C7sus                 F
+      Me late el corazón
 ``` 
 **Interlude**
  ```
@@ -1091,7 +1098,7 @@ N.C.
  ```
 **Verse**
  ```
-F#               B
+F#               B/F#
 Vestido de gala llevaré
     D#m               C#
 Con pose estudiada esperaré
@@ -1190,14 +1197,14 @@ Ana:¿Elsa?
 Hazme un muñeco de nieve! Venga vamos a jugaaar
 G                F            Am                             Gm   C/E
 Ahora ya no te puedo ver, no sé muy bien lo qué ha podido pasaaaaaaaar!
-            F            C             F        E      Am    Dm
+            F            C             F        E      Am    D
 Eramos inseparables, y ahora ya no, no lo logro comprendeeeeeer!
-                    Dm                          Fm
+                    Dm                          Fm/G#
 Hazme un muñeco de nieve! O lo que sea me da igual!
  
  
 Elsa: Déjame Ana
-             C
+     Fm       C
 Ana: Vale, adiós
 
 Ab C | Ab C | C | 
@@ -1211,7 +1218,7 @@ Ab G
 Hazme un muñeco de nieve! O ven en bici a montar
                   F                   Am                              Gm   C
 Que necesito compañía ya,, que a los cuadros ya les he empezado a hablar! (Ánimo Juana)
-                  F          Em           E               Am    D
+                  F          Em           E7               Am    D
 Me siento un poco sola, me aburro ya, mirando las horas pasaaaaar! (Tic-Tock, Tic-Tock)
                        C                        F
 Hazme un muñeco de nieve! O lo que sea me da igual!
@@ -1239,8 +1246,8 @@ Ana: ¿Elsa?
 Sé que estás ahí dentro. Siempre preguntan donde estás
                      F                     Am                  Em  
 Dicen que intenté tener valor, Pero ya no puedo más, déjame entrar
-                 F       G        C       G              Am      D
-Ya no nos queda nadie, solo tú y yo, ¿Y ahora qué va a pasa   aaaar?
+                 F       G        C       E7             Am   Em/B  D7
+Ya no nos queda nadie, solo tú y yo, ¿Y ahora qué va a pasa aaaar?
                        C
 Hazme un muñeco de nieve!
 ```
@@ -1288,7 +1295,7 @@ No habla una voz, eres un ruido en mi interior
 Y aunque te oyera -y es que no- no hay más que hablar, adiós
 F#                           C#/F#
 Todo aquel que he querido está en este lugar
-   G#                   A#
+   G#                   A#7
 Perdóname sirena no te voy a escuchar
 ```
 **Pre-coro**
@@ -1388,13 +1395,13 @@ C         Gaug     C C9
 Hay un amigo en mí
 F         F#dim    C  C7
 Hay un amigo en mí
-F              C        E7                Am
+F        C        E7        Am
 Y cuando sufras aquí me tendrás
-F           C                    E7    Am
+F       C             E7    Am
 No dejaré de estar contigo ya verás
-F            C        E7     Am
+F       C      E7     Am
 No necesitas a nadie más
-D7             G7                 C
+D7      G7             C
 Porque hay un amigo en mí
 D7    G7                 C C7
 Hay un amigo en mí

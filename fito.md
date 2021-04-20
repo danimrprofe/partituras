@@ -25,7 +25,7 @@
   - [Un Buen Castigo	4:38](#un-buen-castigo438)
   - [Feo	4:54](#feo454)
   - [El Ojo Que Me Mira	3:07](#el-ojo-que-me-mira307)
-  - [Soldadito Marinero	4:14](#soldadito-marinero414)
+  - [Soldadito Marinero](#soldadito-marinero)
   - [Corazón Oxidado	4:01](#corazón-oxidado401)
   - [Quiero Ser Una Estrella	3:21](#quiero-ser-una-estrella321)
   - [Nada Que Decir	3:00](#nada-que-decir300)
@@ -912,10 +912,182 @@ G D Em
 ```
 
 ## Garabatos	
+
+[Verse 1]
+ 
+A#                       Cm
+Todo llega y todo pasa como un espejismo.
+       G#            A#       Cm
+Todos fuimos garabatos de nosotros mismos.
+A#                          Cm
+Lo que queda en la mirada no es que est  escondido.
+         G#                 A#                  Cm
+Pero hay cosas que solo se ven si pasas cerca del abismo.
+ 
+[Bridge]
+ 
+          Fm                        G
+Y en las puertas de mi barrio descubr  la vida.
+ 
+[Chorus]
+ 
+              D#    A#                   Cm
+Y la quise besar      y ella quería morderme.
+                    D#         A#             Cm
+toda mi vida es un gesto que solo tus ojos entienden.
+                D#    A#                   Cm
+Yo la quería besar      y ella quería morderme.
+ 
+ 
+D#  A#  Cm
+ 
+[Verse 2]
+ 
+     A#                         G#
+Ordenando mis recuerdos he pensao que todo fue
+Cm
+hace mucho tiempo ya
+          A#                     G#
+Y cada ma ana en el espejo le saludo siempre al viejo
+       Cm
+que llegó  cuando se fue  el chaval.
+A#                       Cm
+Casi como un accidente me envolvi  el sonido.
+         G#                   A#                  Cm
+Hay canciones que te dan de frente y te se alan el camino.
+ 
+[Bridge]
+ 
+          Fm                        G
+Y en las puertas de mi barrio descubr  la vida.
+ 
+[Chorus]
+ 
+              D#    A#                   Cm
+Y la quise besar      y ella quería morderme.
+                    D#         A#             Cm
+toda mi vida es un gesto que solo tus ojos entienden.
+                D#    A#                   Cm
+Yo la quería besar      y ella quería morderme.
+                    D#         A#             Cm
+toda mi vida es un gesto que solo tus ojos entienden.
+ 
+ 
+Fm D#  A#  Cm - x2
+ 
+[Verse 3]
+ 
+         Fm                    D#
+Abrió  la boca y me tragó  y no dejó  de repetir
+         A#               Cm
+ven a mi lado y te daré  todo lo que pidas.
+             Fm                      D#
+Y ahora que sé  que me engañó   solo me queda por decir
+         A#                Cm
+que cada vez que me perdí  me encontré  la vida.
+ 
+ 
+[Chorus]
+ 
+              D#    A#                   Cm
+Y la quise besar      y ella quería morderme.
+                    D#         A#             Cm
+toda mi vida es un gesto que solo tus ojos entienden.
+                D#    A#                   Cm
+Yo la quería besar      y ella quería morderme.
+                    D#         A#             Cm
+toda mi vida es un gesto que solo tus ojos entienden.
+ 
+[Outro]
+ 
+Fm  D#   A#  Cm
+Fm  D#  A#  Cm
+Fm Cm D# A# Cm
+Fm D# A# C
+Fm D# G# Cm
+Fm D# A# Cm
+
 ## Lo Que Siempre Quise Hacer	
 ## Umore Ona	
 ## Después Del Naufragio
+```
+[Intro]
+G C | G | G   | D 
+C D | G | G D | G
 
+ 
+ 
+[Verse]
+G                      D
+Desperté y salí de la sombra
+C             D           G
+Me curé cada hueso y empecé
+G                               D
+A olvidar noche a noche los recuerdos
+C                  D          G
+Los abismos donde nunca volveré
+ 
+ 
+   Bm              Am          G
+Y escuchando en oscuros callejones
+       F                C              G
+Las canciones que se pierden en la cara b
+ F                   C             G
+Fui mirando y revolviendo los cajones
+      D
+Y desperté...
+ 
+ 
+    G                      D
+Me cansé de las horas infelices
+    C         D            G
+Me acabe la botella y escuche
+              G 
+Que no hay dolor mas insoportable
+              D
+Que el que admites
+    C          G           D
+Que no sea lo que tenga que ser...
+ 
+[Chorus]
+                    C
+Y después del naufragio
+                       G
+De que sirve estar tan triste
+       Bm            Am          G
+Nunca jurare que no vuelva a suceder
+                    C
+Sabes que cuando canto
+                     G
+Nunca piso tierra firme
+   Bm              Am          G
+Ven rescátame, ven rescátame otra vez...
+ 
+[Solo]
+G | D | C D | G
+G | D | C D | G
+
+ 
+[Chorus]
+               C
+Y después del naufragio
+         G
+De que sirve estar tan triste
+   Bm              Am          G
+Nunca jurare que no vuelva a suceder
+                    C
+Sabes que cuando canto
+                     G
+Nunca piso tierra firme
+   Bm              Am          G
+Ven rescátame, ven rescátame otra vez...
+ 
+ 
+         Bm   Am                 G
+Ven rescátame aunque vuelva a suceder
+Bm        Am                    G
+Ven rescátame y abandóname después
+```
 # Lo más lejos a tu lado (2003)
 
 ![](img/2021-04-17-17-34-32.png)
@@ -1101,15 +1273,274 @@ G A | Bm | G A | Bm (hasta el final)
 
 ## Feo	4:54
 ## El Ojo Que Me Mira	3:07
-## Soldadito Marinero	4:14
+## Soldadito Marinero
+
+
+**Estrofa**
+```
+ 
+G | D | D | A | 
+G | D | D | A D |
+ ```
+**Estrofa**
+```
+A                    G                       D
+Él camina despacito que las prisas no son buenas
+                                         A
+En su brazo dobladita con cuidado la chaqueta
+G                                             D
+Luego pasa por las calles donde los chavales juegan
+                          A                 D
+Él también quiso ser niño pero le pilló la guerra
+ ```
+**Estrofa**
+```
+
+G                                  D
+Soldadito marinero conociste a una sirena
+Bm                                              A
+De esas que dicen “te quiero” si ven la cartera llena
+G                                      D
+Escogiste a la más guapa y a la menos buena
+                         A                  D
+Sin saber como ha venido te ha cogido la tormenta
+```
+**Estrofa**
+```
+G D D A D
+```
+**Estrofa**
+```
+A                   G                       D
+Él quería cruzar los mares y olvidar a su sirena
+                                              A
+La verdad no fue difícil cuando conoció a Mariela
+G                                                 D
+Que tenía los ojos verdes y un negocio entre las piernas
+                         A                   D
+Hay que ver que puntería no te arrimas a una buena
+```
+**Estrofa**
+```
+G                                  D
+Soldadito marinero conociste a una sirena
+Bm                                              A
+De esas que dicen “te quiero” si ven la cartera llena
+G                                      D
+Escogiste a la más guapa y a la menos buena
+                         A                  D
+Sin saber como ha venido te ha cogido la tormenta
+```
+**Estrofa**
+```
+G D A B G D D A D
+```
+**Estrofa**
+```
+G                      D                    A 
+Después de un invierno malo, Una mala primavera
+                     Bm                         G
+Dime por que estás buscando Una lágrima en la arena
+G                      D                    A 
+Después de un invierno malo, Una mala primavera
+                     Bm                         G
+Dime por que estás buscando Una lágrima en la arena
+G                      D                    A 
+Después de un invierno malo, Una mala primavera
+                     Bm                         G
+Dime por que estás buscando Una lágrima en la arena 
+G                      D
+Después de un invierno malo
+```
+
 ## Corazón Oxidado	4:01
+```
+Bm             A           Em
+   Todo se derrumba y es tan fácil
+Bm             A          Em
+  Todos mis castilllos son de arena
+Bm             A          Em
+Todo lo que sueño es tan frágil
+Bm             A          Em
+Todo lo que bebo es tu ausencia
+ 
+EST.
+G             A         Bm
+   Y mi pobre corazón de hierro
+G             A         Bm
+   Se me fue oxidando con las penas
+D                A            Bm
+   Y es que tengo sueño y no me duermo
+G              A         Bm
+   Este fuego que ya no calienta
+ 
+Bm            A            Em
+   Todo lo que canto es tan estéril
+Bm            A            Em
+   Todas las canciones son la misma
+Bm             A              Em
+   Muy pocas personas demasiada gente
+Bm           A                  Em
+   Diferente sangre de una misma herida
+ 
+ESTRIBILLO
+ 
+Solo de saxo: Sim La Mim(x4)
+ 
+Guitarra: La Sol Re (jugando con La6, Sol6 y Re6)
+   A            G
+mi pobre corazon oxidado
+   D
+mi pobre corazon encogido
+   A             G
+Mi pobre corazon todo el daño
+   D
+mi pobre corazon todo lo bueno vivido
+   A            G
+mi pobre corazon lo más malo
+   D
+mi pobre corazon lo divino
+   A            G
+lo valiente lo cobarde lo esperado
+   D
+mi virtud y mi defecto mi barranco y mi camino
+   A            G
+mi pobre corazon no importa q sea pequeño
+   D
+mi pobre corazon siempre te echa de menos
+   A            G
+mi pobre corazon que no le caben ya las penas
+   D
+siempre que me duele me lo llevo de verbena
+   A            G
+mi pobre corazon que me mantiene con vida
+   D
+mi pobre corazon siempre la luz encendida
+   A            G
+mi pobre corazon que aveces quiere salir
+   D
+mi pobre corazon que esta enganchado al speed
+   A             G
+mi pobre corazon en directo
+   D
+mi pobre corazon en domingo
+   A                 G
+mi pobre corazon en pelotas
+   D               F#
+mi pobre corazon en fa sostenido
+ 
+```
 ## Quiero Ser Una Estrella	3:21
+```
+D                         G                      D
+He firmado un buen contrato con una multinacional
+G                                                  D
+Me he comprado un traje nuevo y un flamante Cadillac
+A                     G                      D
+Quiero ser una estrella y nada me puede parar
+
+ESTRIBILLO
+
+D                   G                        D
+Ay ahí voy, en el camino de la fama ya estoy
+G                                          D
+Ay ahí voy, en el camino de la fama ya estoy
+A                       G                      D
+Quiero ser una estrella la más brillante de hoy
+
+D                              G
+He cobrado mucha pasta con los discos que he llegado a
+      D
+vender
+G                                                   D
+Me he ligado a una queli con una rubia de un buen ver
+A                              G                         D
+Y salgo en las revistas y en la tele treinta veces al mes
+
+ESTRIBILLO
+
+D                      G                        D
+De la noche a la mañana me he quedado sin un real
+G                                         D
+Llamo a mi manager y en su oficina no está
+A                       G                          D
+No sé qué es lo que pasa pero esto me huele muy mal
+
+D                      G                        D
+Se ha fugado con la pasta nadie sabe donde ha ido a parar
+G                                         D
+La rubia se ha pirado y se llevó el Cadillac
+A                       G                          D
+Mi contrato está anulado, ya no volveré a cantar
+
+ESTRIBILLO x2
+```
 ## Nada Que Decir	3:00
 ## Vamonó	3:30
 ## Las Nubes De Tu Pelo	5:09
 ## Whisky Barato	3:18
 ## Siempre Estoy Soñando	4:16
-
+**Estrofa**
+```
+ C  x4
+ ```
+**Estrofa**
+```
+C                                                  G 
+Mientras me aguanten los huesos yo quiero seguir cantando
+                                                C 
+quiero estar cerca de tí, lo mas lejos... a tu lado 
+F                              G        C 
+Tu mirada es un balcón, tu te asomas yo te canto
+                                         G 
+He pintao mi corazón con el rojo de tus labios
+   F                        G                  C 
+   Se que no puedo dormir... porque siempre estoy soñando
+                      G 
+   En invierno con el sol...
+ 
+   ... con las nubes en verano.
+ ```
+**Estrofa**
+```
+   C
+   La luna era una farola y a ella me abrazé borracho
+                                             G
+   y acabé buscando versos en el fondo de mi vaso
+   F                          G                   C
+   todo lo que no aprendí... nunca se me ha olvidado
+                                                 G
+   No he perdidio la razon ni tampoco la he encontrado
+   F                                           G       C
+   Sé que no puedo dormir... porque siempre estoy soñando
+   Am                   G   F        G          C
+   en invierno con el sol, con las nubes en verano!!
+ ```
+**Solo (por revisar)** 
+```
+C | C G | G | G C
+F | F C | C G | G C 
+```
+**Estrofa**
+```
+   F                          G                   C
+   todo lo que no aprendí... nunca se me ha olvidado
+                                                 G
+   No he perdidio la razon ni tampoco la he encontrado
+   F                                           G       C
+   Sé que no puedo dormir... porque siempre estoy soñando
+   Am                   G  F        G          C
+   en invierno con el sol, con las nubes en verano!!
+      Am                   G  F        G          C
+   en invierno con el sol, con las nubes en verano!!
+```
+**Estrofa**
+```
+  C                           G                               C
+  mientras me aguanten los huesos... mientras me aguantes los huesos.
+ 
+  (y aqui disminuyes poco a poco el sonido hasta acabar)
+```
 # Por la boca vive el pez (2006)
 
 ![](img/2021-04-17-17-49-19.png)
@@ -1271,7 +1702,7 @@ G  F# Bm (x2)
 
 **Intro**
 ```
-F#m  A  Bm  D  E
+F#m | E  | Bm |  A  E
 ```
 **Estrofa**
 ```
@@ -1295,8 +1726,8 @@ mira a ver si estoy despierto.
 ```
 **Estrofa**
 ```
-F#m A E
-F#m A E
+F#m A | E | F#m A | E
+
  
 ```
 **Estrofa**
@@ -1317,7 +1748,7 @@ y alguien dijo no, no, no, no, no
 que ahora viene el viento de otro lado
              Bm
 déjame el timón
-                         E
+  E
 y alguien dijo no, no, no
  
 ```
