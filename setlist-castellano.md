@@ -50,9 +50,10 @@ y disimula recogiendo su amor propio destrozado.
 Mi amor dejó el colegio porque dijo que era caro,
    A           E/G#          F#m        E
 "nada he aprendido y ya me estaban fastidiando".
-      A              E/G#          F#m              E
+
+       F#m             E             D
 "Empezaré cualquier empresa y cuidaré de que estés bien,
-    A         E/G#       F#m             E
+       F#m             E             D
 tú quédate conmigo sólo tienes que aprender"
 
 A         E/G#        D
@@ -114,9 +115,151 @@ pero nunca pasa nada y nunca más seremos dos.
 ## Eso de saber
 
 ## La carretera
+```
+Asus2                                B*
+Calla, duerme, piensa aun queda mucho por andar,
+    G                     C9           D
+la carretera es tensa y llueve sin parar
+Asus2                              B*
+curvas, baches, bares, perros muertos sin collar
+      G          D        G              D
+y la música que tú has traído para recordar
+     G            C9           D
+aquella niña que sabe dios donde estará.
+ 
+G                   Em
+Me paso la vida marcando un nueve uno,
+   C9            D            C9              D
+cambiando de comida, con mi ropa oliendo a humo,
+          G                   Em
+y tú estarás dormida, en tú cuarto lleno de fotos,
+      C9             D             C9          D
+y yo jugando mi partida, con mis pantalones rotos,
+      C9            D                  Em
+intentando que la voz me aguante hasta el final,
+           C9              D
+donde tocaremos: sufre mamón.
+ 
+  
+ 
+Asus2                      B*                   G
+Ya en el camerino bebe agua y relájate la toalla
+                            C9            D
+robada de un hotel y los autógrafos que das
+        Asus2                    B*
+que no sabes su valor y los das ¿por qué no darlos?
+       G          D  G              D
+y quisieras irte ya, te duele la espalda,
+    G           C9           D
+te miras aun espejo y ves sudor y whisky y agua y mientras.
+ 
+G                            Em
+Tú estas en casa, donde el tiempo no pasa,
+     C9           D                 C9              D
+y no paro de pensar en  ti, sueño con las calles de Madrid.
+ 
+       G                         Em
+Y los técnicos recogen, todo el mundo se ha ido ya,
+       C9          D           C9            D
+ya no quedan ilusiones, sólo cajas que cargar
+         C9              D                  Em
+y un camión que espera para llevarte a otro lugar,
+          C9               D       C9             G
+donde tocaremos: sufre mamón, devuélveme a mi chica
+```
 
 ## 23 de junio
 
+```
+Am
+```
+**Intro**
+```
+Dm E7 Am (x2)
+```
+**Estrofa**
+```
+           Dm      E         Am                 Dm         E         Am
+Antes del frío, levanta las velas. Guarda en tu falda los granos de arroz
+          Dm         E     Am              Dm    E     Am
+Y haz ceremonias de luna llena. Antes del frío, lánzamelos. 
+           Dm         E         Am             Dm         E         Am
+Cuida este vals que tenemos en vena. Cuida del baile y riega el salón
+          Dm          E      Am             Dm      E       F
+Lleva la barca hasta la albufera Y pon el verano en un mostrador.
+```
+**Pre-coro**
+```
+           C                         F               C               G
+Y que San Juan no nos queme en su hoguera Cuando descubra quién la saltó.
+```
+**Estribillo**
+```
+ Dm                        G          C                        Am
+Deja el equipaje en la ribera. Para verte como quieres que te vea
+Dm                        G          Am
+Deja el equipaje en la ribera Y quémalo.
+
+[Instrumental]
+Dm E Am (x4)
+ 
+ 
+[Verse 2]
+              Dm      E        Am
+Haz que este baile merezca la pena
+             Dm        E      Am
+Yo haré lo propio con esta canción
+          F           E         Am
+Y si al final no hay más que comedia
+            Dm        E          F
+Deja que el río nos lleve a los dos.
+```
+**Pre-coro**
+```
+           C                         F               C                  F
+Y que San Juan no nos queme en su hoguera Ni haga de esto un negocio menor
+            C             Dm                       C                        G
+Cruza los dedos por mí. Y antes de que vuelva a mirar, Busca el viento a favor.
+```
+**Estribillo**
+```
+ Dm                        G          C                        Am
+Deja el equipaje en la ribera. Para verte como quieres que te vea
+           Dm         G             C    C7
+Sabes que todo está bien. No hay erroooooooor. 
+ Dm                        G          C                        Am
+Deja el equipaje en la ribera. Para verte como quieres que te vea
+           Dm         G               Am
+Lánzate al agua otra vez. Aquí espero yo. 
+ 
+[Instrumental]
+Dm E Am (x4)
+Aaaaah Aaaah Aaah
+Aaaaah La la la laaa ra raaa
+Aaaaah La laaa La la
+La la la laaa ra raaa
+
+ 
+ 
+[Chorus]
+Dm                       G
+Deja el equipaje en la ribera
+       C                        Am
+No te sirve cuando cruzas la frontera
+              Dm         G
+Todo está en regla esta vez
+          C    C7
+No hay error.
+ 
+```
+**Estribillo**
+```
+ Dm                        G          C                        Am
+Deja el equipaje en la ribera. Para verte como quieres que te vea
+Dm                        G          Am
+Deja el equipaje en la ribera Y quémalo.
+
+```
 ## Lo niego todo
 ```
 Intro: E E/G# A C#m G#m/B Amaj7 / B Cdimm C#m F# / A Bsus B E Bsus7/E E
