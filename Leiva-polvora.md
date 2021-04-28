@@ -594,11 +594,11 @@ Se bloquea todo dentro
 Em        D           A
 Échame la culpa otra vez
 ```
-**Puente
+**Puente**
 ``` 
-         G          D              Em         G
+         G          D              Em         A 
 Y una hermosa taquicardia, Me sorprende de camino 
-        D            Bm     A                 G       
+        G             D     Bm           A          G       
 Y ahora que nos lamentamos, Saca lo que quieras de miiiiii
 ```
 **Coro**
@@ -773,7 +773,7 @@ Es fácil perderse, pero qué bueno verte
 Y me convencerás de cosas que no creo
           C                              G
 Y dije no creer jamás pero ahí estoy, dejándome enredar
-  C                                     F
+  C                          F
 Y te sorprenderás soy tan peliculero
                 C                        G
 Y cada día lo soy más pero ahí estoy, dejándome llevar 
@@ -927,13 +927,13 @@ G              D    Em            C
   Voy a apartarte,     lo he decidido
        G                  D
 Y pagaré después, por quererlo hacer
-        Em                    C
+        Em           D        C
 con las manos que abrieron camino
 G           D      Em          C
  Dejar que lance,     un pergamino
             G              D
 No quiero amanecer, sin hacerlo bien
-     Em          C
+     Em          D        C
 Cómo pude haber sido tan frío
      G              C                       G
 Y no sé, no sé, no sé, si esto es lo que quiero 
@@ -956,66 +956,63 @@ Y no sé, no sé, no sé, si esto es lo que quiero
 **Estrofa**
 
 De los 
-|                                |                        |                             |                   |
-| ------------------------------ | ---------------------- | --------------------------- | ----------------- |
-| C                              | Em                     | F                           | G                 |
-| cielos a la pólvora mo         | jada, de la            | magia a la oscura esclavi   | tud. Hace         |
-| C                              | Em                     | F                           | G                 |
-| tiempo que no pienso en tu cor | nada, Hace             | tiempo que lo echo a cara o | cruz, y ahora     |
-| F                              | G                      | Am                          | Em                |
-| sé que cual                    | quiera llorará más que | tú, en mi e-                | terna despedida y |
-| D                              | C                      | Dm                          | Dm                |
-| no me res                      | bala tu acti           | tud                         | -            esto |
+|                                |                        |                                |                      |
+| ------------------------------ | ---------------------- | ------------------------------ | -------------------- |
+| C                              | Em                     | F                              | G                    |
+| cielos a la pólvora mo         | jada, de la            | magia a la oscura esclavi      | tud. Hace            |
+| C                              | Em                     | F                              | G                    |
+| tiempo que no pienso en tu cor | nada, Hace             | tiempo que lo echo a cara o    | cruz, y ahora        |
+| F                              | G                      | Am                             | Em                   |
+| sé que cual                    | quiera llorará más que | tú, en mi e-                   | terna despedida y    |
+| F                              | C                      | Dm                             | Dm                   |
+| no me res                      | bala tu acti           | tud                            | -            esto    |
 | F                              | G                      |
 | se que no te                   | va a gus               |
-
-Instrumental
-```
-| C				| Em 				|F 				| G				|		
-| tar				| -				|- 				| -				|
-| C				| Em 				|F 				| G				|
-| -				| 				|-				|           		Prisio- |
-```
-Estrofa
-```
-C	 			| Em                       	| F				| G				|
-neros de las drogas deli	| cadas, atra-			| pados en un plano a contra	| luz, hace			|
-C                             	| Em				| F                            	| G				|
-tiempo que no siento una pun    | zada, hace			| tiempo que me estrello a tu sa| lud, y ahora			|
-``` 
-Coro 2
-``` 
-| F				| G              		| Am				| Em
-| sé que 			| quiera llorará más que 	| tú, en mi e-			| terna despedida y
-| D                     	| C             		| Dm           			| G
-| no me res			| bala tu acti			| tud				| uooooh y ahora
-| F				| G              		| Am				| Em
-| sé que la 			| guerra durará más que 	| tú, peli			| grosa a doble vida y
-| D                     	| C             		| Dm           			| Dm
-| no me de-			| sarma tu acti			| tud				| - esto
-| F              		| G          	
-| sé que no te 			| va a gus-	
+| C                              | Em                     | F                              | G                    |
+| tar                            | -                      | -                              | -                    |
+| C                              | Em                     | F                              | G                    |
+| -                              |                        | -                              | Prisio-              |
+| C                              | Em                     | F                              | G                    |
+| neros de las drogas deli       | cadas, atra-           | pados en un plano a contra     | luz, hace            |
+| C                              | Em                     | F                              | G                    |
+| tiempo que no siento una pun   | zada, hace             | tiempo que me estrello a tu sa | lud, y ahora         |
+| F                              | G                      | Am                             | Em                   |
+| sé que                         | quiera llorará más que | tú, en mi e-                   | terna despedida y    |
+| D                              | C                      | Dm                             | G                    |
+| no me res                      | bala tu acti           | tud                            | uooooh y ahora       |
+| F                              | G                      | Am                             | Em                   |
+| sé que la                      | guerra durará más que  | tú, peli                       | grosa a doble vida y |
+| F                              | C                      | Dm                             | Dm                   |
+| no me de-                      | sarma tu acti          | tud                            | - esto               |
+| F                              | G                      |
+| sé que no te                   | va a gus-              |
 ```
 
 Instrumental
 ```
-| C				| E 				|Am 				| G
-| tar				| -				|- 				| -
-| C				| E 				|F 				| F7
-| -				| 				|-				| -
+|     |     |     |     |
+| --- | --- | --- | --- |
+| C   | E   | Am  | G   |
+| tar | -   | -   | -   |
+| C   | E   | F   | F7  |
+| -   |     | -   | -   |
  ```
 Puente
 ```
-G                   		| Am          			| F           			| C    
-  No llega el día, 		|    quiero sentir  		| otra veloci			| dad
-G                           	| Am         			| F             		| C             
-  Tramando alguna a		| trocidad y 			| si me da 			| miedo mi acti
-Dm				|				| G	  C
-tud				| 		- esto		| sé que no se va a aca-
+|                   |               |                        |               |
+| ----------------- | ------------- | ---------------------- | ------------- |
+| G                 | Am            | F                      | C             |
+| No llega el día,  | quiero sentir | otra veloci            | dad           |
+| G                 | Am            | F                      | C             |
+| Tramando alguna a | trocidad y    | si me da               | miedo mi acti |
+| Dm                |               | G	  C                  |
+| tud               | - esto        | sé que no se va a aca- |
 ```
 Instrumental
 ```
-C				| Em				|F 				| G    | F
+|     |     |     |     |
+| --- | --- | --- | --- |
+| C   | Em  | F   | G   | F |
 bar
 C
 ```
