@@ -69,83 +69,58 @@
 
 ## 02. Para toda la vida
 ```
-G
-Cuando estuviste conmigo,
-C
-jamás te dije mentira,
-G
-quería tenerte en mis brazos.
-C
-pero por toda la vida.
+G                           C
+Cuando estuviste conmigo, jamás te dije mentira,
+G                              C
+quería tenerte en mis brazos. pero por toda la vida.
+F                         C
+Y tú querías aventura, tomaste muy mal camino,
+G                    C
+ibas buscando basura en un terreno barrido.
+
+```
+**Estribillo**
+```
+      F                             C
+Yo le doy mi querer al querer y lo doy para toda la vida.
+      G                            C
+Si quisiera vivir de placer me buscaba un amor de cantina.
+      F                             C                     G C
+Yo le doy mi querer al querer y lo doy para toda la vida.
+
  
-F
-Y tú querías aventura,
-C
-tomaste muy mal camino,
-G
-ibas buscando basura
-C
-en un terreno barrido.
- 
- 
-F
-Yo le doy mi querer al querer
-C
-y lo doy para toda la vida.
-G
-Si quisiera vivir de placer
-C
-me buscaba un amor de cantina.
-F
-Yo le doy mi querer al querer
-C                         G C
-y lo doy para toda la vida.
- 
-G
-Cuando estuviste conmigo,
-C
-Tenías un mal pensamiento.
-G
-Si yo lo hubiera sabido
-C
-no hubiera perdido el tiempo.
- 
-F
-Tendrás el mundo en tus manos,
-C
-tendrás montones de besos
-G
-si a todos tienes llorando
-C
-conmigo tocaste hueso.
- 
-F
-Yo le doy mi querer al querer
-C
-y lo doy para toda la vida.
-G
-Si quisiera vivir de placer
-C
-me buscaba un amor de cantina.
-F
-Yo le doy mi querer al querer
-C                         G C
-Y lo doy para toda la vida.
+ G                           C
+Cuando estuviste conmigo, Tenías un mal pensamiento.
+   G                     C
+Si yo lo hubiera sabido no hubiera perdido el tiempo.
+    F                               C
+Tendrás el mundo en tus manos, tendrás montones de besos
+           G                 C
+si a todos tienes llorando, conmigo tocaste hueso.
+```
+**Estribillo**
+```
+      F                             C
+Yo le doy mi querer al querer y lo doy para toda la vida.
+      G                            C
+Si quisiera vivir de placer me buscaba un amor de cantina.
+      F                             C                     G C
+Yo le doy mi querer al querer y lo doy para toda la vida.
  
 parte rápida: SOL DO x 8
  
-F
-Yo le doy mi querer al querer
-C
-y lo doy para toda la vida.
- 
-G
+```
+**Estribillo**
+```
+      F                             C
+Yo le doy mi querer al querer y lo doy para toda la vida.
+      G                            C
+Si quisiera vivir de placer me buscaba un amor de cantina.
+      F                             C                     G C
+Yo le doy mi querer al querer y lo doy para toda la vida.
+    G
 Si quisiera vivir de placer
-C
-me buscaba un amor de cantina.  x 2
-G
-Si quisiera vivir de placer
-hay para toda la vida... SOL FA DO
+hay para toda la vida... G F C
 ```
 
 ## 03. Perro viejo (4:31)
@@ -177,6 +152,8 @@ D                  C                        G
 que la tristeza y la alegría, viajan en el mismo tren
 D(sorda)                                  G
 ¿Quieres ver el mundo? Mira, esta debajo de tus pies.
+
+D C G x 4
 ```
 **Estrofa**
 ``` 
@@ -208,7 +185,7 @@ Am            Dm     Em   Am    Dm    Em
     Am                      Dm      Em         Am    Dm    Em
     si la noche es clara a la luna se le ve el ombligo 
  
-    Em
+    E
     mira que a luna se le ve el ombligo
 ```
 **Estribillo**
@@ -218,7 +195,7 @@ C             Dm     Em       Am    Dm    Em
     Ojalá me hubiera dado cuenta antes
 Dm                 C    Em        Am    Dm    Em
     no siempre lo urgente es lo importante
-Dm                 C      Em           Am    Dm    Em
+F                   C        Em          G    Dm    Em
     tal vez son las brujas, tal vez el destino
 Dm                C          Em     Am
     yo siempre me pierdo en el mismo camino
@@ -244,8 +221,7 @@ Am                Dm  Em  Am    Dm    Em
      Am                      Dm      Em
     de Africa a Tarifa cuesta mucho más dinero
  
-    C                      Em         Dm                     C        Em
- 
+    F                       G            F                      Em          
     Mucho más dinero, mucho más dinero, mucho más dinero, mucho más dinero.
  
  
@@ -260,7 +236,7 @@ Dm                C          Em     Am
     Dm           C      Em
     siempre en el mismo camino
 ```
-
+Am E Am E
 
 ## 06. Ni negro ni blanco (Con Roberto Iniesta de Extremoduro) (3:45)
 ## 07. Sevilla de Bilbao (instrumental) (4:00)
@@ -392,17 +368,15 @@ Aaaaaaah, aaaaaaah, aaaaaaaaaaah!
 G
 Tuve que aprender de nuevo a respirar, de nuevo tuve que aprender.
 Em
-Hice agujeros en la capa del disfraz de Superman
-que nunca me he querido poner.
- 
-C
+Hice agujeros en la capa del disfraz de Superman que nunca me he querido poner. 
+      C
 Me jugué a una carta la felicidad, nunca pensé que la pudiera perder.
-G
+        G
 Toda la vida era un cuento y yo era Peter Pan, por eso no he podido crecer. 
     D
 Ya llega la tormenta, ya la oigo venir, viene derechita hacia aquí.
            Em
-haciendo: “bom... bom... bom... bom”
+haciendo: “bom... bom... bom... bom... bom”
 ```
 **Estribillo**
 ```
@@ -1018,15 +992,11 @@ C D | G | G D | G
  
  
 [Verse]
-G                      D
-Desperté y salí de la sombra
-C             D           G
-Me curé cada hueso y empecé
-G                               D
-A olvidar noche a noche los recuerdos
-C                  D          G
-Los abismos donde nunca volveré
- 
+G                      D           C        D          G
+Desperté y salí de la sombra Me curé cada hueso y empecé
+G                               D            C             D         G
+A olvidar noche a noche los recuerdos, Los abismos donde nunca volveré
+
  
    Bm              Am          G
 Y escuchando en oscuros callejones
@@ -1682,15 +1652,683 @@ G  F# Bm (x2)
 ```
 
 ## Me Equivocaría Otra Vez	5:05
+
+Nota: bajar 3 semitonos para tocar más cómodo
+
+Gm
+Gm                                              Bb
+Se torció el camino tú ya sabes que no puedo volver.
+Dm                    F                      Gm
+  Son cosas del destino, siempre me quiere morder.
+Gm                                      Bb
+El horizonte se confunde con un negro telón
+            Dm         F                     Gm
+y puede ser... como decir que se acabó la función.
+
+
+Cm                F               Gm
+Ha sido divertido me equivocaría otra vez,
+Bb                                            F
+quisiera haber querido lo que no he sabido querer.
+Eb                                           Bb
+Quieres bailar conmigo,puede que te pise los pies.
+F                                   Eb
+Soñaré solo porque me he quedado dormido.
+
+
+Bb                                   F
+No voy a despertarme porque salga el sol;
+Eb           F                        Gm
+ya sé llorar una vez por cada vez que río,
+         Cm       Eb         F                 Gm
+no sé restar...no se restar  tu mitad a mi corazón.
+
+
+Gm                                                Bb
+Puede ser que la respuesta sea no preguntarse ¿Por qué?
+Dm                 F                       Gm
+  perderse por los bares donde se bebe sin sed.
+Gm                                       Bb
+Virgen de la locura nunca más te voy a rezar
+                   Dm       F                       Gm
+que me he enterado´de los pecados que me quieres quitar.
+Cm                 F                     Gm
+Será mas divertido cuando no me toque perder,
+Bb                                      F
+sigo apostando al 5 y cada 2 por 3 sale 6.
+Eb                                                Bb
+Yo bailaría contigo pero es que estoy sordo de un pie.
+F                                   Eb
+Soñaré solo porque me he quedado dormido.
+
+
+Bb                                   F
+No voy a despertarme porque salga el sol;
+Eb               F                    Gm
+ya sé llorar una vez por cada vez que río,
+         Cm       Eb         F                 Gm
+no sé restar...no se restar  tu mitad a mi corazón.
+
+Gm Bb Cm F Gm
+
+Cm                F               Gm
+Ha sido divertido me equivocaría otra vez,
+Bb                                            F
+quisiera haber querido lo que no he sabido querer.
+Eb                                           Bb
+Quieres bailar conmigo puede que te pise los pies.
+F                                   Eb
+Soñaré solo porque me he quedado dormido.
+
+
+Bb                                   F
+No voy a despertarme porque salga el sol;
+Eb           F                        Gm
+ya sé llorar una vez por cada vez que río,
+         Cm       Eb         F                 Gm
+no sé restar...no se restar  tu mitad a mi corazón...
+         Eb     F                 Gm
+no sé restar... tu mitad a mi corazón,
+          Eb  F                Gm
+no se restar tu mitad a mi corazón.
+
+
+Bb (X13331)
+Eb (X6888X)
+
+-----------------------------------------------------------------------
+La transcripción está sacada del libro de tablaturas que viene con
+el cd, si hay algún error en todo caso es mío.
+
+
 ## Como Pollo Sin Cabeza	4:10
+```
+Intro: A
+
+A                       E
+En una chabola lejos del asfalto
+D                       A
+vive hace tiempo un señor muy raro,
+A                       E
+es extravagante y huele a butano.
+D                       A
+Si alguien le desprecia, él le da la mano.
+A                       C#m
+No hablará contigo más de media hora
+D                       A
+siempre hay mucha gente cuando no está a solas.
+A                       E
+Dicen que el demonio de la mala suerte
+D                       A
+un día con sus garras lo cogió muy fuerte.
+
+A                       E
+Tiene el pelo oscuro, los ojos claros
+D                       A
+y los dientes negros de mascar tabaco.
+A                       E
+Su mano derecha repleta de anillos
+D                       A
+en la izquierda un vaso guarda el equilibrio.
+A                       C#m
+Hay quien esta vida se la toma a broma
+D                       A
+y hay quien se suicida con balas de goma.
+A                       E
+No hay por qué pasar el tiempo pensando en lo perdido
+D                       A
+ni llorando lágrimas de cocodrilo.
+
+                        D
+Si le duelen los recuerdos,
+                        A
+se los cura con ginebra.
+                        E
+Él quiere enterrar el tiempo,
+                        A
+dentro de un reloj de arena.
+                        D
+Como nunca tiene sueño,
+                        A
+se pasa la noche entera
+                        E
+con su viejo catalejo,
+                        A
+que le acerca a las estrellas.
+```
+
 ## Sobra La Luz	3:35
+
+```
+Am                            Dm
+Como venganza de la buena suerte
+E                         Am
+O recompensa de la mala vida
+Am                       Dm
+De la cabeza me arrancaron cables
+     E                     Am
+Pa meter las cosas que antes no me cabia
+Am              Dm         E               Am
+Y se me acercan las paredes y se me aleja la salida
+Am                   Dm          E         Am
+Y poco a poco se hace de repente yo tropezo con lo dias
+
+
+Chorus:
+C        F               E   Am
+Sobra la luz que me hace ver todo lo que escondia
+Dm        Am          E
+No se seguir no se volver
+C        F                E            Am
+Sobra la luz cuando en la piel nunca se siente el dia
+Dm       Am           E
+Dime que tu, tu si me ves
+
+
+Am                Dm
+Una partida que juge tan fuerte
+          E                   Am
+Que ahora es la vida la que esta partida
+Am                      Dm
+Una pared siempre te quiero verte
+          E                     Am
+Y ahora estoy p'abajo y ahora estoy p'arriba
+Am                      Dm        E                         Am
+Todas las cosas que al mar tiramos nos las devuelve siempre la marea
+Am               Dm              E           Am
+Cuando mas tratas de olvidarlo con mas fuerza lo recuerdas
+
+
+Chorus:
+C        F               E   Am
+Sobra la luz que me hace ver todo lo que escondia
+Dm        Am          E
+No se seguir no se volver
+C        F                E             Am
+Sobra la luz cuando en la piel nunca se siente el dia
+Dm       Am           E
+Dime que tu, tu si me vez
+
+
+Solos: Am Dm E Am F Am E
+
+
+```
+
 ## Viene Y Va	4:34
+```
+C
+Que pena estar siempre pegado al suelo
+G
+ el cielo queda demasiado lejos
+F              G                C
+ tendré que soñar que puedo volar
+C                                    G
+No es nada facil cuando estas perdido buscar la musica entre tanto ruido
+F                          G            C
+no puedo escuchar, no puedo escuchar...
+
+F
+Un dia la suerte entro por mi ventana
+Am
+Vino una noche se fue una mañana
+G              F                 C
+ Quizas solamente me vino a enseñar
+
+           G
+Que viene y va, como las olas con el mar se mueven.
+    F      C
+Que viene y va, como la luna como el rayo verde.
+    Am     G
+Que viene y va, como una idea como el estribillo...
+    F      C
+Que viene y va, como un recuerdo como un espejismo.
+    Am     G
+Que viene y va, igual que los problemas por la noche.
+    F      C
+Que viene y va, como un famoso que nadie conoce,
+G                     F                   Am
+ que todos pueden tener y nadie puede guardar.
+           G        C
+Que viene y va...
+
+C
+De tanto hacerlo sin parar
+G                       F
+me acostumbre a respirar y a
+        G              C
+derrochar el aire fresco.
+C
+Y pienso si te vas las veces que te tengo
+G
+y cada vez que estas que te echaré de menos
+F                    G                  C
+ y vuelvo a respirar, vuelvo a respirar.
+
+F
+Un dia la suerte entro por mi ventana.
+C                  Am
+Vino una noche se fue una mañana.
+G             F                 C
+Quizas solamente me vino a enseñar.
+
+           G
+Que viene y va, como las olas con el mar se mueven.
+    F      C
+Que viene y va, como la luna como el rayo verde.
+    Am     G
+Que viene y va, como una idea como el estribillo...
+    F      C
+Que viene y va, como un recuerdo como un espejismo.
+    Am     G
+Que viene y va, igual que los problemas por la noche.
+    F      C
+Que viene y va, como un famoso que nadie conoce,
+G                     F                   Am
+ que todos pueden tener y nadie puede guardar.
+           G        C
+Que viene y va...
+
+G C G C 
+G C G C
+
+F
+Un dia la suerte entro por mi ventana
+Am
+Vino una noche se fue una mañana
+G              F                 C
+ Quizas solamente me vino a enseñar
+
+
+           G
+Que viene y va, como las olas con el mar se mueven.
+    F      C
+Que viene y va, como la luna como el rayo verde.
+    Am     G
+Que viene y va, como una idea como el estribillo...
+    F      C
+Que viene y va, como un recuerdo como un espejismo.
+    Am     G
+Que viene y va, igual que los problemas por la noche.
+    F      C
+Que viene y va, como un famoso que nadie conoce,
+G                     F                   Am
+ que todos pueden tener y nadie puede guardar.
+           G        C
+Que viene y va...
+
+G C G C
+G C G C
+
+```
 ## 214 Sullivan Street	2:14
 ## Donde Todo Empieza	5:32
+
+```
+Hola esta es la primera trascripción que hago y se
+la dedico a la mejor chica que hay, Laura te quiero.
+
+Acordes:
+   F     Eb    A#   Gm
+|--1--|--6--|--6--|--3--|
+|--3--|--8--|--6--|--5--|
+|--3--|--8--|--7--|--5--|
+|--2--|--8--|--8--|--4--|
+|--1--|--6--|--8--|--3--|
+|--1--|--X--|--6--|--3--|
+
+Intro
+            F  Eb           A#           F
+E-------------|----------------|------------------------|
+B---6-3-------|---6--3---------|-------3h4b3------------|
+G-3-----5-3-5-|-3------5-3-5h7-|-----3-------5-2h3------|
+D-------------|----------------|-0h3---------------5b3--|
+A-------------|----------------|------------------------|
+E-------------|----------------|------------------------|
+            F  Eb           A#            F
+E-------------|----------------|------------------------|
+B---6-3-------|---6-3----------|-------3h4b3---6-3h4----|
+G-3-----5-3-5-|-3-----5-3-5h7--|------3------5----------|
+D-------------|----------------|---0h3---------------5b3|
+A-------------|----------------|------------------------|
+E-------------|----------------|------------------------|
+
+
+A#                 F                 Eb
+Puede que no valga la pena escribir,
+                    A#
+tan lejos de la poesía
+          A#            F             Eb
+todas las palabras que te quiero decir
+        A#
+se me rompen enseguida
+         Gm           F                    Eb
+No me quedan flores, me arrancaron la raiz
+            A#
+Se pisaron las semillas
+          A#            F        Eb
+Me di cuenta tarde que te perdí
+                 A#
+por pensar que te tenía...
+            F  Eb          A#              F
+E-------------|----------------|--------------------------|
+B---6-3-------|---6-3----------|-----3h4b3------3---------|
+G-3-----5-3-5-|-3-----5-3-5h7--|----3------5---5-5-3--8b7-|
+D-------------|----------------|-0h3----------------------|
+A-------------|----------------|--------------------------|
+E-------------|----------------|--------------------------|
+
+A#                   F            Eb
+Creo que los bares se deben abrir
+                   A#
+para cerrar las heridas
+             A#         F             Eb
+y todas las noches, me acuerdo de ti
+         A#
+y te olvido cada día
+Gm                   F
+Y vuelvo a ser un loco
+               Eb          A#
+para sobrevivir, a la locura de la vida
+A#                    F                   Eb
+Muchas veces la cabeza, y a menudo la nariz
+              A#
+Y una voz que me decía
+
+          Gm
+Dejate llevar
+F             Eb
+ Si el alma te lleva
+Eb             A#
+ Duele el corazón
+A#             F
+ Cuando te lo dejas
+ F          Gm
+Cerca del final
+    Eb         A#   A#
+Donde todo empieza
+
+ (solo de saxo: F-F-Eb-Eb-A#-A#-F-F)
+
+Solo:
+               Eb                             A#
+E--------------------------------|-----------------------|
+B--13h15-13---------------13h15--|--13h15-13-------------|
+G-----------15-12----12-15-------|----------15---15------|
+D--------------------------------|------------15---13h12-|
+A--------------------------------|-----------------------|
+E--------------------------------|-----------------------|
+            F                   Gm
+E-------------------------------------------------------|
+B-------------13----------------------------------------|
+G-----12h13h14---14b12--14b12-14h15--15-15-15--15-15-15-|
+D--15-----------------15--------------------------------|
+A-------------------------------------------------------|
+E-------------------------------------------------------|
+               Eb                             A#
+E--------------------------------|-----------------------|
+B--13h15-13---------------13h15--|--13h15-13-------------|
+G-----------15-12----12-15-------|----------15--15-------|
+D--------------------------------|------------15--13h12--|
+A--------------------------------|-----------------------|
+E--------------------------------|-----------------------|
+             F                        A#
+E-------------------------------------------|
+B-------------------------------------------|
+G-----12h13-14----14b12---------------------|
+D--15-------------------15--10h12-10--8-----|
+A-------------------------------------------|
+E-------------------------------------------|
+
+                  F
+Donde todo empiezaaaaa
+                    Gm
+Donde todo todo empieza
+                  F
+Donde todo empiezaaaaa
+                    Gm
+Donde todo todo empieza
+                  F
+Donde todo empiezaaaaa
+                              Gm
+No me sale bien la cuenta de la vida
+                  F
+Donde todo empiezaaaaa
+                              Gm
+O me sobran noches o me faltan dias
+                  F
+Donde todo empiezaaaaa
+                                 Gm
+Todos los minutos que no he estao contigo
+                  F
+Donde todo empiezaaaaa
+                               Gm
+Ahora son demonios que viven conmigo
+                  F
+Donde todo empiezaaaaa
+                               Gm
+Puedes encontrarme cerca del final
+                  F
+Donde todo empiezaaaaa
+                                Gm
+Por que todo empieza cerca del final
+                  F
+Donde todo empiezaaaaa
+                               Gm
+Puedes encontrarme cerca del final
+                  F
+Donde todo empiezaaaaa
+                                Gm       F
+Por que todo empieza cerca del final...
+                                  Gm
+Por que todo empieza cerca del final.......
+
+Y repite F-Gm hasta el final.
+
+Si tiene fallos por favor envienmelos a mi coreo indicado
+arriva.
+```
 ## Deltoya	2:25
 ## Acabo De Llegar	6:15
+
+**Estribillo**
+```
+F                              C
+Que te voy a decir si yo acabo de llegar
+                   G                          Am
+si esto es como el mar quien conoce alguna esquina
+  F                                C
+Dejadme nacer que me tengo que inventar
+              G                    Am
+para hacerme pez empece por las espinas.
+```
+**Estrofa**
+```
+Dm                        Am                           C
+Nunca lo escribi en un papel y nunca me ha encantado mi voz
+                            G
+y tu ahora me preguntas que hacer
+ Dm                               Am
+Y yo que siempre voy detras del error
+                              C
+que canto a lo que nunca tendre
+                            G
+al beso que ella nunca me dio
+F                      C
+ Dime tu que puede saber
+ G 
+alguien que ha pasado la vida buscando la melodia
+```
+**Estribillo**
+```
+       F                              C
+Que te voy a decir si yo acabo de llegar
+                   G                          Am
+si esto es como el mar quien conoce alguna esquina
+  F                                C
+Dejadme nacer que me tengo que inventar
+              G                    Am
+para hacerme pez empece por las espinas.
+```
+**Estrofa**
+```
+F                               C                             G
+La vida es algo que hay que morder y en cada boca tiene un sabor
+                            Am                           F
+tus huesos no los tapa mi piel por eso siempre digo que no
+                         C                           G
+ahora tengo cosas que hacer que aun me queda media vida para encontrar la melodia...
+```
+**Estribillo**
+```
+        Dm                            Am
+Que te voy a decir si yo acabo de llegar
+                    C                          G
+si esto es como el mar quien conoce alguna esquina
+         F                           C     G
+Dejadme nacer que me tengo que inventar....
+
+       F                              C
+Que te voy a decir si yo acabo de llegar
+                   G                          Am
+si esto es como el mar quien conoce alguna esquina
+  F                                C                  G                    Am
+Dejadme nacer que me tengo que inventar para hacerme pez empece por las espinas.
+```
+**Final**
+```
+F | C | G | Am
+
+
+```
+
 ## No Soy Bo Diddley	3:49
 ## Medalla De Cartón	5:18
+
+```
+Video de la canción: https://www.youtube.com/watch?time_continue=339&v=4OkH263VugQ
+Capo 3 para tonalidad original
+
+
+[Intro]
+
+Em D C (x8)
+
+
+[Verse 1]
+
+Em                D   C        Em D C
+  Nunca se empieza una batalla tarde,
+Em                 D    C     Em D C
+  las penas siempre llegan enseguida.
+Em                D   C      Em D C
+   Tú siempre pides para nunca darme,
+Em           D       C       Em D C
+  yo sólo pido lo que tú me quitas.
+
+
+[Bridge]
+
+G                D          Em
+  Y el cielo que revienta de repente
+G                C    D (agudo)   D (grave)
+  como un infierno que llegó         deprisa,
+C               D            Em
+  guerra cobarde, ya a nadie defiendes,
+           G           B7
+pero no lo saben... pero no lo saben.
+
+
+[Saxophone Solo]
+
+Em  D C
+Em  D C
+
+
+[Verse 2]
+
+Em                D   C        Em D C
+Esa bandera siempre huele a sanre.
+Em                D   C        Em D C
+Triste paisaje, todo de ceniza.
+Em                D   C        Em D C
+Distintas guerras, distintas ciudades
+Em                D   C        Em D C
+y el mismo fuego que quemó guernika.
+
+
+[Bridge]
+
+G                D          Em
+Tú crees que estoy cantando en el desierto
+G                C    D (agudo)   D (grave)
+yo sé que sólo muere lo que olvidas.
+C               D            Em
+Corazones llenos de agujeros
+           G           B7
+pero no lo saben... pero no lo saben.
+
+
+[Chorus]
+
+           Em                    G
+todo lo que no se ve, lo que nadie nos contó,
+             D                       C
+lo que se quedó en la piel la memoria del dolor.
+              Em               G
+que le den al general la medalla de cartón,
+            D                      C
+se la tiene que clavar en mitad del corazón.
+
+
+[Solo]
+
+Em G D C
+Em G D C
+
+
+[Chorus]
+
+           Em                    G
+todo lo que no se ve, lo que nadie nos contó,
+             D                       C
+lo que se quedó en la piel la memoria del dolor.
+              Em               G
+que le den al general la medalla de cartón,
+            D                      C
+se la tiene que clavar en mitad del corazón.
+
+
+[Chorus]
+
+           Em                    G
+todo lo que no se ve, lo que nadie nos contó,
+             D                       C
+lo que se quedó en la piel la memoria del dolor.
+              Em               G
+que le den al general la medalla de cartón,
+            D                      C
+se la tiene que clavar en mitad del corazón.
+             Em               G
+todo lo que no. todo lo que no.
+             D               C
+todo lo que no. todo lo que no.
+             Em               G
+todo lo que no. todo lo que no.
+             D               C
+todo lo que no. todo lo que no.
+
+
+[Outro]
+
+Em G D C
+Em G D C (alargando) ...... Em
+
+
+```
+
+
+
 ## Esta Noche	4:03
 ## Abrazado A La Tristeza
 
@@ -1823,39 +2461,28 @@ F#m  D  Bm  D    (repite)
 
 ## Me acordé de tí
 
+Notas: Yo aquí alterno tocar Am con cuerdas al aire
+
 **Intro**
 ```
 Bm
  ```
 **Estrofa**
 ```  
-                   G
-Puede que sea esta la canción
-                       Bm
-la que nunca te escribí
-            G
-tal vez te alegre el corazón
-no hay mas motivo ni razón
-                 Bm
-que me acorde de ti.
- 
- 
-      D                     A
-He buscado en lo que fuimos
-                 Bm
-en que será de ti
-        G
-yo me fui no se hacia donde
-                    Bm
-solo sé que me perdí.
-        G
-Yo me fui no se hacia donde
-                  Bm
-y yo solo me perdí.
-       A                   G
-Hay un niño que se esconde
-                    Bm
-siempre detrás de mí.
+                   G                               Bm
+Puede que sea esta la canción la que nunca te escribí
+            G                                                            Bm
+tal vez te alegre el corazón no hay mas motivo ni razón que me acorde de ti.
+      D                     A              Bm
+He buscado en lo que fuimos en que será de ti
+        G                                     Bm
+yo me fui no se hacia donde solo sé que me perdí.
+        G                                   Bm
+Yo me fui no se hacia donde y yo solo me perdí.
+       A                   G                 Bm
+Hay un niño que se esconde siempre detrás de mí.
+
+
  ```
 **Estrofa**
 ```   
@@ -2032,6 +2659,10 @@ Ohhh, ohhohhohh        [repite]
 ```
 ## 14 vidas son dos gatos
 
+capo 3
+
+Nota: Pega más con capo 1 y subiendo un tono. Los acordes pasan a ser C#m, E, A y B
+
 **Estrofa**
 ```
       Bm         D
@@ -2071,7 +2702,7 @@ que se fue formando en la cabeza
           Bm          A
 cuando te cansas de sufrir
            D
-siempre me debes.
+siempre me dejas.
        Bm
 Mi corazón es de cristal
           D

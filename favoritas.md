@@ -70,9 +70,12 @@ Em                     G              D        Dsus4 D
 No one knows what it's like to be the bad man
           Cadd9      A
 To be the sad man, behind blue eyes
-
+```
 # I Will Follow You into the Dark
+
 Capo 5th fret
+
+```
 
 Intro: Am C F C C/B
        Am C G
