@@ -34,8 +34,8 @@
   - [Whisky Barato	3:18](#whisky-barato318)
   - [Siempre Estoy Soñando	4:16](#siempre-estoy-soñando416)
 - [Por la boca vive el pez (2006)](#por-la-boca-vive-el-pez-2006)
-  - [01. Por La Boca Vive El Pez	4:28](#01-por-la-boca-vive-el-pez428)
-  - [Me Equivocaría Otra Vez	5:05](#me-equivocaría-otra-vez505)
+  - [01. Por La Boca Vive El Pez](#01-por-la-boca-vive-el-pez)
+  - [02. Me Equivocaría Otra Vez](#02-me-equivocaría-otra-vez)
   - [Como Pollo Sin Cabeza	4:10](#como-pollo-sin-cabeza410)
   - [Sobra La Luz	3:35](#sobra-la-luz335)
   - [Viene Y Va	4:34](#viene-y-va434)
@@ -248,7 +248,7 @@ Am E Am E
 
 ![](img/2021-04-17-17-33-27.png)
 
-## Entre La Espada Y La Pared
+## 01. Entre La Espada Y La Pared
 
 
 **Intro**
@@ -355,7 +355,7 @@ Dm | - | F | G
 Am
 ```
 
-## Lo Que Sobra De Mí	
+## 02. Lo Que Sobra De Mí	
 
 Capo 1
 
@@ -1180,8 +1180,6 @@ Bm                                              A
 y mirando en mi cabeza no encontre ningun motivo                        
 A                                                      Bm
 la verdad es que me interesa solo porque esta prohibido 
- 
- 
 ```
 **Estrofa**
 ```
@@ -1242,7 +1240,47 @@ G A | Bm | G A | Bm (hasta el final)
 ``` 
 
 ## Feo	4:54
-## El Ojo Que Me Mira	3:07
+## El Ojo Que Me Mira
+
+```
+Am         C         G     F
+Veo el ojo que me mira
+Am        C            G    F
+no sé que esperáis de mí
+Am         C        G      F
+yo que muero cada día
+Am        C           G     
+que tú te olvidas de mí.
+Am         C          G     F 
+Soy un pez en una jaula
+Am           C          G    F
+lo que quiero y lo que no
+Am        C             G     F
+¡¡soy todo lo que me pasa!!
+Am                         G
+tú me ves.................yo no!!
+Am   C   G  F
+Además      estoy cansado
+Am   C   G     F
+además
+Am      C   G   F
+sé que tú       de lo que dices
+Am     C   G   F
+la mitad
+Am      C  G   F       
+menos mal      que está a mi lado
+Am       C      G    F
+siempre el mar
+Am      C     G     F
+todo lo demás       me hace daño.
+
+```
+**Instrumental**
+```
+
+
+```
+
 ## Soldadito Marinero
 
 
@@ -1401,6 +1439,8 @@ mi pobre corazon en fa sostenido
  
 ```
 ## Quiero Ser Una Estrella	3:21
+
+**Estrofa**
 ```
 D                         G                      D
 He firmado un buen contrato con una multinacional
@@ -1408,16 +1448,18 @@ G                                                  D
 Me he comprado un traje nuevo y un flamante Cadillac
 A                     G                      D
 Quiero ser una estrella y nada me puede parar
-
-ESTRIBILLO
-
+```
+**Estribillo**
+``` 
 D                   G                        D
 Ay ahí voy, en el camino de la fama ya estoy
 G                                          D
 Ay ahí voy, en el camino de la fama ya estoy
 A                       G                      D
 Quiero ser una estrella la más brillante de hoy
-
+```
+**Estrofa**
+```
 D                              G
 He cobrado mucha pasta con los discos que he llegado a
       D
@@ -1427,15 +1469,24 @@ Me he ligado a una queli con una rubia de un buen ver
 A                              G                         D
 Y salgo en las revistas y en la tele treinta veces al mes
 
-ESTRIBILLO
-
+```
+**Estribillo**
+``` 
+D                   G                        D
+Ay ahí voy, en el camino de la fama ya estoy
+G                                          D
+Ay ahí voy, en el camino de la fama ya estoy
+A                       G                      D
+Quiero ser una estrella la más brillante de hoy
+```
+**Estrofa**
+```
 D                      G                        D
 De la noche a la mañana me he quedado sin un real
 G                                         D
 Llamo a mi manager y en su oficina no está
 A                       G                          D
 No sé qué es lo que pasa pero esto me huele muy mal
-
 D                      G                        D
 Se ha fugado con la pasta nadie sabe donde ha ido a parar
 G                                         D
@@ -1443,7 +1494,21 @@ La rubia se ha pirado y se llevó el Cadillac
 A                       G                          D
 Mi contrato está anulado, ya no volveré a cantar
 
-ESTRIBILLO x2
+```
+**Estribillo**
+``` 
+D                   G                        D
+Ay ahí voy, en el camino de la fama ya estoy
+G                                          D
+Ay ahí voy, en el camino de la fama ya estoy
+A                       G                      D
+Quiero ser una estrella la más brillante de hoy
+D                   G                        D
+Ay ahí voy, en el camino de la fama ya estoy
+G                                          D
+Ay ahí voy, en el camino de la fama ya estoy
+A                       G                      D
+Quiero ser una estrella la más brillante de hoy
 ```
 ## Nada Que Decir	3:00
 ## Vamonó	3:30
@@ -1464,13 +1529,11 @@ F                              G        C
 Tu mirada es un balcón, tu te asomas yo te canto
                                          G 
 He pintao mi corazón con el rojo de tus labios
-   F                        G                  C 
-   Se que no puedo dormir... porque siempre estoy soñando
-                      G 
-   En invierno con el sol...
- 
-   ... con las nubes en verano.
- ```
+F                         G                       C 
+Se que no puedo dormir... porque siempre estoy soñando
+                    G 
+En invierno con el sol... con las nubes en verano.
+```
 **Estrofa**
 ```
    C
@@ -1515,7 +1578,7 @@ F | F C | C G | G C
 
 ![](img/2021-04-17-17-49-19.png)
 
-## 01. Por La Boca Vive El Pez	4:28
+## 01. Por La Boca Vive El Pez
 
 Capo 1
 
@@ -1525,37 +1588,22 @@ G A Bm (x2)
 ```
 **Estrofa**
 ```
-                 G
-Algo, lo que me invade,
-A              Bm
-  todo viene de dentro.
-                G
-nunca lo que me sacie,
-         A              Bm
-siempre quiero, lobo hambriento.
+                 G      A              Bm
+Algo, lo que me invade,  todo viene de dentro.
+                G                 A              Bm
+nunca lo que me sacie, siempre quiero, lobo hambriento.
+              G       A               Bm
+Todo me queda grande, para no estar contigo
+                 G                        A              Bm
+¿sabes? Quisiera amarte siempre un poco mas de lo que te pido.
 ```
 **Estrofa**
 ```
-              G
-Todo me queda grande
-A               Bm
-  para no estar contigo
-                 G
-sabes?, quisiera amarte
-                  A             Bm
-siempre un poco mas de lo que te pido.
-```
-**Estrofa**
-```
-             A
-Sabes que soñare
-        G                   Bm
-si no estas, que me despierto contigo
-                 A
-sabes que quiero mas,
-        G                Bm
-no se vivir solo con cinco sentidos.
-     G      A                    Bm      G  A  Bm
+             A             G                       Bm
+Sabes que soñaré, si no estás, que me despierto contigo.
+                 A            G                     Bm
+sabes que quiero mas, no se vivir solo con cinco sentidos.
+     G         A                        Bm      G  A  Bm
 este mar cada vez guarda mas barcos hundidos
 ```
 **Estrofa**
@@ -1651,10 +1699,10 @@ Em A  Bm G  F# Bm (x2)
 G  F# Bm (x2)
 ```
 
-## Me Equivocaría Otra Vez	5:05
+## 02. Me Equivocaría Otra Vez	
 
 Nota: bajar 3 semitonos para tocar más cómodo
-
+```
 Gm
 Gm                                              Bb
 Se torció el camino tú ya sabes que no puedo volver.
@@ -1680,8 +1728,8 @@ Bb                                   F
 No voy a despertarme porque salga el sol;
 Eb           F                        Gm
 ya sé llorar una vez por cada vez que río,
-         Cm       Eb         F                 Gm
-no sé restar...no se restar  tu mitad a mi corazón.
+         Cm       Eb        F                 Gm
+no sé restar...no se restar tu mitad a mi corazón.
 
 
 Gm                                                Bb
@@ -1733,12 +1781,7 @@ no sé restar... tu mitad a mi corazón,
 no se restar tu mitad a mi corazón.
 
 
-Bb (X13331)
-Eb (X6888X)
-
------------------------------------------------------------------------
-La transcripción está sacada del libro de tablaturas que viene con
-el cd, si hay algún error en todo caso es mío.
+```
 
 
 ## Como Pollo Sin Cabeza	4:10
@@ -2205,11 +2248,11 @@ F | C | G | Am
 ## No Soy Bo Diddley	3:49
 ## Medalla De Cartón	5:18
 
-```
+
 Video de la canción: https://www.youtube.com/watch?time_continue=339&v=4OkH263VugQ
 Capo 3 para tonalidad original
 
-
+```
 [Intro]
 
 Em D C (x8)
@@ -2326,7 +2369,6 @@ Em G D C (alargando) ...... Em
 
 
 ```
-
 
 
 ## Esta Noche	4:03
@@ -2815,11 +2857,9 @@ Gm  D#  F  Gm
 **Estrofa**
 ```
 Gm
-Puedes pedirme la luna que locura
-fijo que te traigo un queso
+Puedes pedirme la luna que locura fijo que te traigo un queso
                 Cm
-puedes pedirme amore que dolor
-al precio que está la carne
+puedes pedirme amore que dolor al precio que está la carne
 Gm
 me conformo con un beso.
 ```
