@@ -551,6 +551,7 @@ F#m   C#m  D  E
 ```
 # El Incendio
 
+Notas del comienzo: C A C A C# (mano derecha)
 
 **Intro**
 ``` 
@@ -558,91 +559,45 @@ F | C# | F | C#
  ```
 **Verse**
  ```
-Fm        A#            Fm
-Tengo tu mano en la espalda
-   A#           C#
-Tu abrazo que salva
-   D#         Fm
-Tu acorde mayor
- 
-Fm          A#         Fm
-Fiel, Vengador, Homicida
-    A#         C#
-Brillante asesino
-    Cm      A#
-De tanto dolor
+Fm        A#            Fm       A#        C#        D#      Fm
+Tengo tu mano en la espalda Tu abrazo que salva. Tu acorde mayor 
+Fm          A#/F       Fm     A#/D         C#    Eb     Fm
+Fiel, vengador, Homicida, brillante asesino de tanto dolor
+
 ``` 
-**Bridge**
-``` 
-F                 Gm
-Hoy he quemado mi ropa y mi cama
-                               Dm  
-Que bonito el incendio cuando ardem en las almas
-```
 **Estribillo**
- ```
-   F         Am
-Bendito el fuego
-   A#      Dm  C    F
-De mis hermaaa aaa  nooos
- ```
+```
+F                 Gm7                   Bb                       Dm7
+Hoy he quemado mi ropa y mi cama. Que bonito el incendio cuando arden en las almas
+   F         Am     Bb      Dm7  C    F
+Bendito el fuego De mis hermaaa aaa  nooos
+```
 **Verse**
  ```
-Fm        A#         Fm
-Nos encontraron bailando
-    A#        C#
-Sobre las cenizas
-   D#         Fm
-De la discreción
- 
-Fm        A#         Fm
-Ruido calla a la sonrisa
-    A#        C#
-Que baila, Mis amigos
-    Cm      A#
-Respiran canción
+Fm        Bb/F       Fm     Bb/F     Db/F     Eb/F       Fm           
+Nos encontraron bailando sobre las cenizas de la discreción 
+Fm        Bb         Fm      Bb/D        Db       Cm7       Bb
+Ruido calla a la sonrisa Que baila, Mis amigos Respiran canción
 ``` 
 **Bridge**
  ```
-F
-Hoy me han echado
-   A#
-De todos los bares
-Y que poco me importa
-    Dm
-Nos quedan mil calles
- ```
-**Estribillo**
- ```
-    F         Am
-Que viva el fuego
-   A#      Dm  C    F
-De mis hermaaa aaa  nooos
+F                    Gm7                    Bb                  Dm7
+Hoy me han echado de todos los bares. Y que poco me importa nos quedan mil calles
+   F         Am     Bb     Dm7  C/E    F
+Bendito el fuego De mis hermaaa aaa  nooos
  
 G# C#
-```
- 
-**Bridge**
- ```
-F
-Hoy he perdido
-    Gm
-100 años de vida
-         A#
-Y que hermoso el dolor
-        B
-De las dulces heridas
- ```
+``` 
 **Estribillo**
  ```
-    F       Am
-No mueras nunca
-    A#
-extraño humano
-Dm           F                Bm
-Que bonito es este incendio el mar
-    F  C#
-El manto
+F                  Gm7                    Bb                   Dm7
+Hoy he perdido 100 años de vida. Y que hermoso el dolor de las dulces heridas
+    F       Am      Bb    Bb/D
+No mueras nunca extraño humano    
+Dm           F                Bm           F  C#
+Que bonito es este incendio el mar. El manto
+
+
  ```
 **Outro**
  ```
