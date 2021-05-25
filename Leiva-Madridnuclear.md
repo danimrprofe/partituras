@@ -1,3 +1,4 @@
+# Nadrid Nuclear 
 
 - 🎤 LEIVA 
 - 🎧 Madrid Nuclear
@@ -12,30 +13,9 @@ Recopilación de partituras de las canciones del disco. Las que no aparecen aqu�
 **Álbum completo en youtube**
 
 
-**Lista de canciones**
-
-- [La lluvia en los zapatos](#la-lluvia-en-los-zapatos)
-- [Animales](#animales)
-- [Guerra mundial](#guerra-mundial)
-- [Lobos](#lobos)
-- [Superpoderes](#superpoderes)
-- [Breaking bad](#breaking-bad)
-- [A tí te ocurre algo](#a-tí-te-ocurre-algo)
-- [En el espacio](#en-el-espacio)
-- [Nuclear](#nuclear)
-- [Electricidad](#electricidad)
-- [Como si fueras a morir mañana](#como-si-fueras-a-morir-mañana)
-- [Godzilla](#godzilla)
-- [Vis a vis](#vis-a-vis)
-- [La llamada](#la-llamada)
-- [Mi pequeño Chernóbil](#mi-pequeño-chernóbil)
-- [No te preocupes por mí](#no-te-preocupes-por-mí)
-- [Como lo tienes tu](#como-lo-tienes-tu)
 
 
-
-
-# La lluvia en los zapatos
+##  La lluvia en los zapatos
 
 | Tonalidad                  | Tempo   | Compás | Capo |
 | -------------------------- | ------- | ------ | ---- |
@@ -54,16 +34,16 @@ Bm G D A Asus (x4)
 [Verse]
 Bm                    G                   D
 Yo me aburría de la chica que tenía entonces;
-                       F#m
+                       F## m
 Tú te vengabas de tu novio de siempre;
-Bm       G      F#m  A
+Bm       G      F## m  A
 Todo te hacía reír.
  
 Bm                     G                        D
 Yo te alumbraba con la luz que desprendía entonces,
-                    F#m
+                    F## m
 Y me mataba que no fueras más fuerte;
-D           F#m   Bm  G
+D           F## m   Bm  G
 Todos lo vieron venir.
  
  
@@ -72,7 +52,7 @@ Todos lo vieron venir.
 ```
 Em                   G
 Había magia, Pero a veces se partía,
-D                 C#m           Bm   A   G      F#m      A
+D                 C## m           Bm   A   G      F## m      A
 Y te dejabas lo mejor para el final;    Nunca lo vi llegar.
 ``` 
 **Estribillo**
@@ -94,9 +74,9 @@ Bm G D A Asus (x2)
 [Verse]
 Bm                     G                     D
 Yo me engañaba con la prisa que tenía entonces
-                         F#m
+                         F## m
 Y me enganchaba que no fueras de frente,
-D           F#m        A
+D           F## m        A
 Aunque lo hicieras por mí.
  
  
@@ -121,7 +101,7 @@ La lluvia en los zapatos.
  
  
 [Solo]
-F#m Bm D G Em A Em Em G D A
+F## m Bm D G Em A Em Em G D A
  
  
 ``` 
@@ -147,7 +127,7 @@ Bm G D A Asus
 Bm G D A D
 ``` 
 
-# Animales
+##  Animales
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
@@ -215,25 +195,25 @@ Am
 Eh, ¿Cómo vas, cómo lo ves?…
 ```
 
-# Guerra mundial
+##  Guerra mundial
 
-# Lobos
+##  Lobos
 
-# Superpoderes
+##  Superpoderes
 
-# Breaking bad
+##  Breaking bad
 
 Sin capo
 ```
 
 
 [Intro]
-G G/F# C D# D
-G G/F# C D# D G
+G G/F##  C D##  D
+G G/F##  C D##  D G
  
  
 [Verse]
-G                G/F#                   Em
+G                G/F##                    Em
 La vida me ha cambiado en un segundo extraño
 C         C/B              Am
 Demasiado brillo, demasiado impacto
@@ -242,7 +222,7 @@ Me ha venido grande para ser exacto
 G            D7          G
 Ya sé que no es para tanto
  
-G                  G/F#                   Em
+G                  G/F##                    Em
 La gloria me ha tumbado en el segundo asalto
 C         C/B              A
 Demasiado humo, demasiados pactos
@@ -293,7 +273,7 @@ Creeremos un ratito en Dios
 Estuve unos segundos muerto
     D                  G
 Es demasiado grande mi amor
-G/F#             Em
+G/F##              Em
 Es demasiado grande
 D                         C
 Es demasiado grande, mi amor
@@ -302,8 +282,8 @@ Es demasiado grande
  
  
 [Instrumental]
-G G/F# C D# D
-G G/F# C Am D
+G G/F##  C D##  D
+G G/F##  C Am D
  
  
 [Pre-Chorus]
@@ -347,7 +327,7 @@ Creeremos un ratito en Dios
 Estuve unos segundos muerto
     D                  G
 Es demasiado grande mi amor
-G/F#             Em
+G/F##              Em
 Es demasiado grande
 D                         C
 Es demasiado grande, mi amor
@@ -356,13 +336,13 @@ Es demasiado grande
 
 ```
 
-# A tí te ocurre algo
+##  A tí te ocurre algo
 
-# En el espacio
+##  En el espacio
 
-# Nuclear
+##  Nuclear
 
-# Electricidad
+##  Electricidad
 
 Capo 1
 
@@ -498,13 +478,13 @@ De lo que fuimos.
 Oh oh oh oh, oh oh ohhhhhh.
 ```
 
-# Como si fueras a morir mañana
+##  Como si fueras a morir mañana
 
-# Godzilla
+##  Godzilla
 
 
 
-# Vis a vis
+##  Vis a vis
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
@@ -593,7 +573,7 @@ de los que aman sin poder amar.
 
 ```
 
-# La llamada
+##  La llamada
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
@@ -698,12 +678,12 @@ F G
 
 Dm Am Gm A7 X2
  
-Dm A# F C x3
+Dm A##  F C x3
 
-A# C F X2
+A##  C F X2
 
 ```
-# Mi pequeño Chernóbil
+##  Mi pequeño Chernóbil
 
 **Intro**
 ```
@@ -814,9 +794,9 @@ G        Bm     Em           C           G        Bm     Em
 ```
 
 
-# No te preocupes por mí
+##  No te preocupes por mí
 
-# Como lo tienes tu
+##  Como lo tienes tu
 
 Esta es la versión de Pereza
 
@@ -940,9 +920,9 @@ Como lo tienes tu, como lo tienes tu, como quisiera tenerlo tan claro
           C       
 Como lo tienes tuuuuuuuuuuu
 
-# Terriblemente cruel
+##  Terriblemente cruel
 
-# Estrella Polar
+##  Estrella Polar
 
 
 | Tonalidad | Tempo   | Compás | Capo |
@@ -970,7 +950,7 @@ antes de asesinar esta ciudad, fui yo, fueron ellos
 ``` 
 **Pre-estribillo**
 ``` 
-Em          A            G   A  D    Em           F#m          A
+Em          A            G   A  D    Em           F## m          A
 Con los pies fríos no se piensa bien, si es un castigo, yo me lo busqué
 ``` 
 **Estribillo**
@@ -1009,7 +989,7 @@ te convencía de aquello
  
 Em          A            G   A  D
 Con los pies fríos no se piensa bien
-Em      F#m             A
+Em      F## m             A
 algún delirio nos hará volver
  
 [Chorus]
@@ -1054,9 +1034,9 @@ no hay sitio para los dos
 ```
 
 
-# Mirada perdida
+##  Mirada perdida
 
-# Sincericidio
+##  Sincericidio
 
 ```
 [Intro]
@@ -1134,7 +1114,7 @@ Que no tienen solución
 Am C Am C E Am
 ```
 
-# Lady Madrid
+##  Lady Madrid
 
 En el disco original sin capo (Do mayor)
 
@@ -1143,9 +1123,9 @@ En el disco original sin capo (Do mayor)
 - Año de publicación: 2009
 
 
-| Tonalidad  | Tempo | Compás | Capo |
-| ---------- | ----- | ------ | ---- |
-| Do # Mayor | bpm   | 4/4    | 1    |
+| Tonalidad    | Tempo | Compás | Capo |
+| ------------ | ----- | ------ | ---- |
+| Do ##  Mayor | bpm   | 4/4    | 1    |
 
 
 ```

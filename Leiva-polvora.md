@@ -1,3 +1,5 @@
+# Pólvora (2014)
+
 ![](img/2021-04-14-09-08-37.png)
 
 - 🎤 LEIVA 
@@ -11,24 +13,8 @@
 Álbum completo en youtube:
 https://music.youtube.com/playlist?list=OLAK5uy_nlBm2fYNiTi2kGleNfuXrnmHF5HdT2XbQ&feature=gws_kp_album&feature=gws_kp_artist
 
-**Lista de canciones**
 
-- [1. Los cantantes](#1-los-cantantes)
-- [2. Terriblemente cruel](#2-terriblemente-cruel)
-- [3. Palomas](#3-palomas)
-- [4. Cerca](#4-cerca)
-- [5. Afuera en la ciudad](#5-afuera-en-la-ciudad)
-- [6. Del hueso una flor](#6-del-hueso-una-flor)
-- [7. Vértigo](#7-vértigo)
-- [8. Hermosa taquicardia](#8-hermosa-taquicardia)
-- [9. Mirada perdida](#9-mirada-perdida)
-- [10. Ciencia ficción](#10-ciencia-ficción)
-- [11. Mi mejor versión](#11-mi-mejor-versión)
-- [12. La francesita](#12-la-francesita)
-- [13. Pólvora](#13-pólvora)
-
-
-# 1. Los cantantes
+## 1. Los cantantes
 
 | Tonalidad  | Tempo   | Compás | Capo |
 | ---------- | ------- | ------ | ---- |
@@ -103,7 +89,7 @@ Repetición coro
     Am  C/G   Fmaj7        C/G
 Uooooh  ooh oooh ooh ooh 
 ```
-# 2. Terriblemente cruel
+## 2. Terriblemente cruel
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
@@ -186,7 +172,7 @@ Am Am Am Am
 G-Am 
 ```
 
-# 3. Palomas
+## 3. Palomas
 
 | Tonalidad      | Tempo  | Compás | Capo |
 | -------------- | ------ | ------ | ---- |
@@ -272,7 +258,7 @@ Final
 G A Bm C#m D 
 ```
 
-# 4. Cerca
+## 4. Cerca
 
 | Tonalidad | Tempo | Compás | Capo |
 | --------- | ----- | ------ | ---- |
@@ -345,11 +331,11 @@ C F C G
 C F C G C
 ```
  
-# 5. Afuera en la ciudad
+## 5. Afuera en la ciudad
 
-| Tonalidad  | Tempo  | Compás | Capo |
-| ---------- | ------ | ------ | ---- |
-| Fa # Mayor | 79 bpm | 4/4    | 3    |
+| Tonalidad   | Tempo  | Compás | Capo |
+| ----------- | ------ | ------ | ---- |
+| Fa ## Mayor | 79 bpm | 4/4    | 3    |
 
 Versión acústica:
 
@@ -418,7 +404,7 @@ Repite coro
 
 **Solo 
 ```
-D  C Bm A# x2 
+D  C Bm A## x2 
 G Em D
 ```
 
@@ -430,7 +416,7 @@ D     Dsus4
 D     Dsus4
 ```
 
-# 6. Del hueso una flor
+## 6. Del hueso una flor
 
 | Tonalidad  | Tempo   | Compás | Capo |
 | ---------- | ------- | ------ | ---- |
@@ -506,7 +492,7 @@ que no puedo aguantar tu mirada
 
 Repite coro +1 tono
  
-# 7. Vértigo
+## 7. Vértigo
 
 | Tonalidad  | Tempo   | Compás | Capo |
 | ---------- | ------- | ------ | ---- |
@@ -573,7 +559,7 @@ no encuentro ni un instante de paz.
 no encuentro ni un instaaanteee de paaaz.
 ```
 
-# 8. Hermosa taquicardia
+## 8. Hermosa taquicardia
 
 | Tonalidad | Tempo  | Compás | Capo |
 | --------- | ------ | ------ | ---- |
@@ -631,9 +617,9 @@ Repite puente
 Repite coro
 Instrumental
 ```
-E B/D# C#m C#m/B
+E B/D## C#m C#m/B
 E Am
-E B/D# C#m C#m/B
+E B/D## C#m C#m/B
 C Bm C Bm B C B E
 ```
 
@@ -646,7 +632,7 @@ Porque me clavas el arpón con la mirada
 Porque me clavas el arpón y luego nadaa 
 ```
 
-# 9. Mirada perdida
+## 9. Mirada perdida
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
@@ -715,7 +701,7 @@ Repite coro
 ```
 Am F C
 Am C
-F G# C
+F G## C
 ```
 **Estribillo 2**
 ```
@@ -732,7 +718,7 @@ C F C F G
 F G C
 ```
 
-# 10. Ciencia ficción
+## 10. Ciencia ficción
 
 | Tonalidad | Tempo  | Compás | Capo |
 | --------- | ------ | ------ | ---- |
@@ -806,7 +792,7 @@ Am G F G
 ```
 **Repite Estribillo**
 
- # 11. Mi mejor versión
+ ## 11. Mi mejor versión
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
@@ -840,7 +826,7 @@ No será fácil decírnoslo, escupe mi contestador
 La furia de nuestra adicción se la ha llevado el aire
 D                    G                               D/F#
 Y en los días de autodestrucción no hay perro que me ladre
-D/F#             Em        A                    D
+D/F##             Em        A                    D
 No busques mi mejor versión se la ha llevado el aire
 ```
 (E)
@@ -863,7 +849,7 @@ Repite puente
 Repite coro
 
 
-# 12. La francesita
+## 12. La francesita
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
@@ -873,7 +859,7 @@ Repite coro
 
 **Intro**
 ```
-G D/F# Em
+G D/F## Em
 G D
 ```
 **Estrofa**
@@ -895,7 +881,7 @@ Y no sé, no sé, no sé si esto es lo que quiero
 Y no sé, no sé, no sé si lo voy a levantar
      B                             Em-D
 Y no sé, no sé, no sé si estoy ardiendo
-C               G                 Em     D/F#     C
+C               G                 Em     D/F##     C
  No me sale la voz y quiero pediiiiiir   teeeee tiempo
 ```
 
@@ -918,7 +904,7 @@ Y no sé, no sé, no sé si esto es lo que quiero
 Y no sé, no sé, no sé si lo voy a levantar
      B                             Em
 Y no sé, no sé, no sé si estoy ardiendo
-C               G                 Em     D/F#     C
+C               G                 Em     D/F##     C
  No me sale la voz y quiero pediiiiiir   teeeee tiempo
 ```
 **Pre-coro**
@@ -938,7 +924,7 @@ Cómo pude haber sido tan frío
      G              C                       G
 Y no sé, no sé, no sé, si esto es lo que quiero 
 ``` 
-# 13. Pólvora
+## 13. Pólvora
 
 | Tonalidad | Tempo | Compás | Capo |
 | --------- | ----- | ------ | ---- |
