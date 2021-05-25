@@ -179,7 +179,9 @@ voy a destruirlo borrarme
 G7                  Am
 la señal de tus comillos
 
-ESTRIBILLO
+```
+**Estribillo**
+```
 
 F                      C
 Me dejaste el cuerpo fuera
@@ -206,9 +208,9 @@ cuando cometa un crimen
 Dm         G7            Am
 Cuando nos queme la ambición
 
-
-[ESTRIBILLO]
-
+```
+**Estribillo**
+```
 F                     C
 Me dejaste el cuerpo fuera
 E            Am
@@ -244,9 +246,9 @@ F G7 Am
 E | Am | E  | Am
 F | C  | G7 | -
 
-
-[ESTRIBILLO]
-
+```
+**Estribillo**
+```
 F                      C
 Me dejaste el cuerpo fuera
 E            Am
@@ -260,12 +262,14 @@ ey te espero fuera
 ## 03. 92 
 
 ## 04. Miedo 
+**Intro**
 ```
-[Intro]
 C F C Am
 C F C Am
 
-[Verse]
+```
+**Estrofa**
+```
       C
 No me dejes pasar,
       C
@@ -293,18 +297,22 @@ no te agarres a mi cuerpo
        G
 que te crece la nariz.
 
-[Chorus]
+```
+**Estribillo**
+```
        C                      C
 Tengo miedo, miedo, miedo, miedo,
       F                           C
 no me gusta pensar que te tengo miedo,
         G          F             C
 pero tú por favor...no me tengas miedo.
-
-[Solo]
+```
+**Solo**
+```
 C Am7 G
-
-[Verse]
+```
+**Estrofa**
+```
       C
 No me dejes hablar,
       C
@@ -332,7 +340,10 @@ no te agarres a mi cuerpo
         G
 que te crece la nariz.
 
-[Chorus]
+
+```
+**Estribillo**
+```
        C                      C
 Tengo miedo, miedo, miedo, miedo,
       F                           C
@@ -356,7 +367,10 @@ Pararara pararara, Pararara pararara
 F
 Pa pa pa parabara, paaa......
 
-[Chorus]
+
+```
+**Estribillo**
+```
        C                      C
 Tengo miedo, miedo, miedo, miedo,
       F                        C
@@ -376,7 +390,7 @@ F             C
 ## 05. Aunque sea un rato
 
 ```
-[Intro]
+**Intro**
 | C   | Em  | F   | C   |
 | Dm  | Am  | F   | G   |
 | C   | Em  | F   | C   |
@@ -1352,7 +1366,7 @@ No será fácil decírnoslo, escupe mi contestador
 La furia de nuestra adicción se la ha llevado el aire
 D                    G                               D/F#
 Y en los días de autodestrucción no hay perro que me ladre
-D/F##             Em        A                    D
+D/F#             Em        A                    D
 No busques mi mejor versión se la ha llevado el aire
 ```
 **Estrofa**
@@ -1385,7 +1399,7 @@ Repite coro
 
 **Intro**
 ```
-G D/F## Em
+G D/F# Em
 G D
 ```
 **Estrofa**
@@ -1407,7 +1421,7 @@ Y no sé, no sé, no sé si esto es lo que quiero
 Y no sé, no sé, no sé si lo voy a levantar
      B                             Em-D
 Y no sé, no sé, no sé si estoy ardiendo
-C               G                 Em     D/F##     C
+C               G                 Em     D/F#     C
  No me sale la voz y quiero pediiiiiir   teeeee tiempo
 ```
 
@@ -1430,7 +1444,7 @@ Y no sé, no sé, no sé si esto es lo que quiero
 Y no sé, no sé, no sé si lo voy a levantar
      B                             Em
 Y no sé, no sé, no sé si estoy ardiendo
-C               G                 Em     D/F##     C
+C               G                 Em     D/F#     C
  No me sale la voz y quiero pediiiiiir   teeeee tiempo
 ```
 **Pre-estribillo**
@@ -2712,14 +2726,14 @@ E|-----------------3----------------------------|
 ```
  C                      G/B          Am7                Am7/G
 Puedo imaginarme lo que hay detrás, Puedo esnifarme el espacio
-       D9/F##           Dm            Dm/C                   G/B
+       D9/F#           Dm            Dm/C                   G/B
 Puedo beberme el mar, Puedo ver un arcoiris en los ojos del mal
       Fm                       C
 Pero nunca, nunca te llego a olvidar
  
  C                   G/B      Am7                 Am/G
 Puedo dedicarme a disimular, Puedo destruirme despacio
-       D/F##           Dm                  Dm/C               G/B
+       D/F#           Dm                  Dm/C               G/B
 Puedo dejarte en paz,Puedo conquistar un planeta y hacerlo explotar
       Fm                        C
 Pero nunca, nunca te llego a olvidar
@@ -2875,7 +2889,7 @@ Resucitando y nunca es lo que parece
 **Puente**
 
 ```
-           D/F##   Em   C
+           D/F#   Em   C
 Quiero que sepas algo
                           G
 Nadie me puede hacer más daño que yo
@@ -3103,23 +3117,23 @@ Se puede hacer más fácil con capo 3 y bajando un tono
 
 ```
 
-[Intro]
+**Intro**
 Bm G D A Asus (x4)
  
  
 [Verse]
 Bm                    G                   D
 Yo me aburría de la chica que tenía entonces;
-                       F## m
+                       F# m
 Tú te vengabas de tu novio de siempre;
-Bm       G      F## m  A
+Bm       G      F# m  A
 Todo te hacía reír.
  
 Bm                     G                        D
 Yo te alumbraba con la luz que desprendía entonces,
-                    F## m
+                    F# m
 Y me mataba que no fueras más fuerte;
-D           F## m   Bm  G
+D           F# m   Bm  G
 Todos lo vieron venir.
  
  
@@ -3128,7 +3142,7 @@ Todos lo vieron venir.
 ```
 Em                   G
 Había magia, Pero a veces se partía,
-D                 C## m           Bm   A   G      F## m      A
+D                 C## m           Bm   A   G      F# m      A
 Y te dejabas lo mejor para el final;    Nunca lo vi llegar.
 ``` 
 **Estribillo**
@@ -3150,9 +3164,9 @@ Bm G D A Asus (x2)
 [Verse]
 Bm                     G                     D
 Yo me engañaba con la prisa que tenía entonces
-                         F## m
+                         F# m
 Y me enganchaba que no fueras de frente,
-D           F## m        A
+D           F# m        A
 Aunque lo hicieras por mí.
  
  
@@ -3177,7 +3191,7 @@ La lluvia en los zapatos.
  
  
 [Solo]
-F## m Bm D G Em A Em Em G D A
+F# m Bm D G Em A Em Em G D A
  
  
 ``` 
@@ -3210,7 +3224,7 @@ Bm G D A D
 | Ab Mayor  | 129 bpm | 4/4    | 1    |
 
 ```
-[Intro]
+**Intro**
  
 Am    C    D                  Am         C    D
 Eeeeeeeeh  eeeh  ¿Cómo vas, cómo lo ves?
@@ -3283,13 +3297,13 @@ Sin capo
 ```
 
 
-[Intro]
-G G/F##  C D##  D
-G G/F##  C D##  D G
+**Intro**
+G G/F#  C D##  D
+G G/F#  C D##  D G
  
  
 [Verse]
-G                G/F##                    Em
+G                G/F#                    Em
 La vida me ha cambiado en un segundo extraño
 C         C/B              Am
 Demasiado brillo, demasiado impacto
@@ -3298,7 +3312,7 @@ Me ha venido grande para ser exacto
 G            D7          G
 Ya sé que no es para tanto
  
-G                  G/F##                    Em
+G                  G/F#                    Em
 La gloria me ha tumbado en el segundo asalto
 C         C/B              A
 Demasiado humo, demasiados pactos
@@ -3349,7 +3363,7 @@ Creeremos un ratito en Dios
 Estuve unos segundos muerto
     D                  G
 Es demasiado grande mi amor
-G/F##              Em
+G/F#              Em
 Es demasiado grande
 D                         C
 Es demasiado grande, mi amor
@@ -3358,8 +3372,8 @@ Es demasiado grande
  
  
 [Instrumental]
-G G/F##  C D##  D
-G G/F##  C Am D
+G G/F#  C D##  D
+G G/F#  C Am D
  
  
 [Pre-Chorus]
@@ -3403,7 +3417,7 @@ Creeremos un ratito en Dios
 Estuve unos segundos muerto
     D                  G
 Es demasiado grande mi amor
-G/F##              Em
+G/F#              Em
 Es demasiado grande
 D                         C
 Es demasiado grande, mi amor
@@ -3423,7 +3437,7 @@ Es demasiado grande
 Capo 1
 
 ```
-[Intro]
+**Intro**
 D
  
  
@@ -3508,7 +3522,7 @@ En tu pecho enfermo de miedo.
 Bm
  
  
-[Estribillo]
+**Estribillo**
 G5
 Toda esa puta electricidad
                                Bm
@@ -3537,7 +3551,7 @@ Na, naaa, naaaa, naa, naaa, naaa, naaaaaa, naaaaaaa,
 Naaaaaaaaaaaaaaaaa.
  
  
-[Estribillo]
+**Estribillo**
 G5
 Toda esa puta electricidad
 A5
@@ -3577,7 +3591,7 @@ release the finger and let the four strings sound in the air. The same with the 
 Em7  020000
  
  
-[Intro]
+**Intro**
 Em C Bm Em D C Am D Em B7
  
 [Verse 1]
@@ -3842,7 +3856,7 @@ La gloria enferma de los que quieren reinar, reinar
 Reinar el cielo…
  
  
-[Estribillo]
+**Estribillo**
 G          D            Am          C
 Y no me da tregua mi Pequeño Chernóbil
 G          D             Am    C
@@ -4024,7 +4038,7 @@ antes de asesinar esta ciudad, fui yo, fueron ellos
 ``` 
 **Pre-estribillo**
 ``` 
-Em          A            G   A  D    Em           F## m          A
+Em          A            G   A  D    Em           F# m          A
 Con los pies fríos no se piensa bien, si es un castigo, yo me lo busqué
 ``` 
 **Estribillo**
@@ -4063,7 +4077,7 @@ te convencía de aquello
  
 Em          A            G   A  D
 Con los pies fríos no se piensa bien
-Em      F## m             A
+Em      F# m             A
 algún delirio nos hará volver
  
 [Chorus]
@@ -4113,7 +4127,7 @@ no hay sitio para los dos
 ##  CD2 - 10. Sincericidio
 
 ```
-[Intro]
+**Intro**
 
 Am            C             Am              C  
 Ooooh ooh ooh ooooh oh oooh oooh oooh ooooh ooh oooh  x2
@@ -4201,7 +4215,7 @@ En el disco original sin capo (Do mayor)
 | ------------ | ----- | ------ | ---- |
 | Do ##  Mayor | bpm   | 4/4    | 1    |
 
-[Intro]
+**Intro**
 ```
 C                 G                Am               F
 La estrella de los tejados, lo mas rock&roll de por aquí
