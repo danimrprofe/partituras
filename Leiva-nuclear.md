@@ -414,8 +414,9 @@ Dm          Am
 Maldigo mi suerte
 F           G
 Me quiero matar
-
-[Chorus]
+```
+**Estribillo**
+```
 Am       F             C            Em
   Las victorias nunca pasan por mi lado
 Am       F            C           G
@@ -445,8 +446,9 @@ Dm             Am
 Que no se te ocurra, ehhhhhh
 F           G
 Entenderlo mal
-
-[Chorus]
+```
+**Estribillo**
+```
 Am     F             C            Em
 Las victorias nunca pasan por mi lado
 Am      F            C           G
@@ -475,8 +477,239 @@ Aunque sea un rato
 | F G | C   |
 ```
 ## 06. Éxtasis
+```
+INTRO
+G  G  D  C  G
+
+G                   D         Am
+El universo es para mi un feo
+               C
+lugar para olvidarte,
+G                       D               Em
+me juego el todo por el todo al negro,
+   C           D         G
+prometí no volver a quebrar.
+
+               D               Am
+Miento desde pequeño y cada vez
+               C        
+lo hago con más arte,
+G             D           Em         BM      D
+ espíritu de los toreros,    con el toro delante.
+
+D                   G                    Am
+Palabras como en estocadas, caballos salvajes
+D                 C
+arrasan las madrugadas.
+       G/B              Am         D
+Aún recuerdo, cuando estábamooo oo oooos....
+C       D      Em   G        C
+en éxtasis, en éxtasis, aún recuerdo,
+         Cm        G
+cuando estábamos así.
+
+G G G D
+
+G                D             Am
+Sigo tocado y apagando fuegos
+          C
+en ninguna parte,
+G                     D           Em
+derribo todo y me hago tan pequeño,
+C              D         G
+prometí no volver a remar.
+
+                  D              Am
+Me quedo en el infierno y cada vez
+      C               G
+muero un poco antes,
+             D          Em
+espíritu de los toreros,
+       Bm       C
+con la fiera delante.
+
+D                   G                     Am
+Palabras como en estocadas, caballos salvajes,
+D                          C
+entrando en las madrugadas.
+
+G/B                Am          D
+Aún recuerdo, cuando estábamos...
+
+C        D   Em      G         C
+en éxtasis, en éxtasis, aún recuerdo,
+          Cm      D#
+cuando estábamos así,
+                  Dm
+cuando estábamos así,
+                   G
+cuando estábamos así.
+
+SOLO
+C  | Em  | F  G  | C 
+C  | Em  | F  Fm  | C 
+
+   Fm   Abdim   Am G    C           F
+En éxtasis, en éx  ta  sis, aún recuerdo,
+          Fm       C
+cuando estábamos así.
+
+C | C F | G C
+
+```
 ## 07. Penaltis
+```
+A E/G# | E  | B | C#m 
+A      | E  | B
+
+
+           E                      B
+No era la luz del Sol, no era mi fantasía.
+              A                      E
+No eran "los cuervos negros", ni la policía.
+
+         E                   B
+No había sensación de malestar aquel día.
+A                      E
+No era tu intención joderme la vida.
+ 
+
+E                      B
+Las cosas fáciles se vuelven tan difíciles
+A                     E
+La mierda casi muerde ya en la superficie
+E                     B
+Las sensaciones son claraaaaas,
+            A            E
+¡Mamá, me vuelvo a casa con los demás!
+ 
+
+C#m                A             E                  B
+Era el aliento lo único que cabía entre nosotros dos,
+C#m        A           E               B
+en los penaltis amor, va a decidirse todo.
+A    B       E              B               C#m
+Los malos momentos de hoy, las emociones salvajes,
+A            E        B                   E
+semáforo abierto y yo, vuelvo a dejar que pases.
+
+E | B | A |E 
+
+          E                    B
+No era la religión, no era la mercancía,
+            A                 E
+no eran mis calentones, ni tu medicina.
+          E                  B
+No me diste plantón, ni calidad de vida,
+A                 E
+fuimos portada a los pocos días.
+
+ 
+
+E                      B
+Las cosas fáciles se vuelven tan difíciles
+A                     E
+La mierda casi flota ya en la superficie
+E                    B
+Las previsiones son malas
+            A            E
+¡Mamá, me vuelvo a casa con los demás!
+
+ 
+REPETIR ESTRIBILLO
+
+
+```
 ## 08. Las cuentas
+```
+INTRO
+A      Asus  A     Asus  A
+
+ESTROFA 1
+A
+Ya sólo quedan los demonios,
+        D
+la propiedad y los escombros.
+        E
+Caemos como plumas,
+                 F#m        E       D
+olemos el fondo y nos quedamos cortos.
+        A
+Es tiempo de autodestrucción,
+        D
+de disparar sin adornos.
+        E
+Prenderé fuego al colchón,
+       F#m         E      D
+que reventó nuestros otoños.
+
+ESTRIBILLO
+           A          E          D   (D*)
+¿Por qué no existen tumbas de dos?,
+           A          E          D   (D*)
+¿Por qué el adiós se siente en vena?.
+C#                F#m
+Amamos lo que perdimos,
+D                     A
+queremos lo que envenena.
+         E                    A
+Y así nunca, nos salen las cuentas.
+
+SOLO 1
+A
+
+ESTROFA 2
+A
+Ya no nos saca nadie a hombros,
+         D
+la vanidad, los dobles fondos.
+         E
+Quemamos las alturas,
+                   F#m   E     D
+besamos el polvo y nos calamos hondo.
+         A
+Es tiempo de autodestrucción,
+         D
+de rematar sin adornos.
+         E
+Me agarré a la inspiración,
+         F#m     E       D
+que me dejó nuestros demonios.
+
+ESTRIBILLO
+           A          E          D   (D*)
+¿Por qué no existen tumbas de dos?,
+           A          E          D   (D*)
+¿Por qué el adiós se siente en vena?.
+C#                 F#m
+Amamos lo que perdimos,
+D                     A
+queremos lo que envenena.
+         E                    A
+Y así nunca, nos salen las cuentas.
+
+SOLO 2
+F       C       Bm       E
+
+ESTRIBILLO
+           A          E          D   (D*)
+¿Por qué no existen tumbas de dos?,
+           A          E          D   (D*)
+¿Por qué el adiós se siente en vena?.
+E                  F#m
+Amamos lo que perdimos,
+D                     A
+queremos lo que envenena.
+         E                     A
+Y así nunca, nos salen las cuentas,
+Dm              A
+nos salen las cuentas,
+Dm              A
+nos salen las cuentas.
+
+Dm     A
+
+```
 ## 09. Telediario
 ## 10. Todo Lo Que Tú Quieras
 
@@ -529,6 +762,63 @@ Uuuh! todo lo que tu quieras?
 
 ```
 ## 11. Hoy no me encuentro
+```
+Intro: G Bm F#m Em x2
+
+Bm    G           D            F#7
+ Amanecí con un millón de dudas,
+Bm         G           Em   F#7
+ no estaba para nadie, nooooo.
+Bm        G           D        F#7
+ Cada vez mas colgado de la luna,
+Bm       G           Em  F#7
+ rodeado de cristaes rotos.
+
+D
+ A veces se hace bola y noooo
+ G                 A
+ nada es como queremos,
+D                 Bm     F#m             Gm     A 
+ me busco en otra dimensión, quiero regalarme.
+
+     G      Bm
+ Hoy no me encuentro,
+     F#m        Em
+ hoy no me encuentro,
+    G       Bm
+ hoy no me encuentro,
+    F#m    F#7
+ hoy noooooo.
+
+G Bm F#m Em x2
+
+Bm    G             D       F#7
+ Aparecí dormido en la basura,
+Bm      G             Em   F#7
+ no necesito un cable nooooo.
+Bm         G          D         F#7
+ Cada vez más cansado de la bruma,
+Bm        G             Em  F#7
+ quise buscar cupables, noooo.
+
+D
+ A veces se hace bola y noooo
+ G                 A
+ nada es como queremos,
+D                 Bm     F#7           G      A
+ me busco en otra dimensión, quiero regalarme.
+
+REPITE ESTRIBILLO 
+
+Em | - | A | D
+Bm | G | Gm | A
+
+REPITE ESTRIBILLO 
+
+G Bm F#m Em x2
+
+Bm
+```
 ## 12. Vis a vis
 
 # Pólvora (2014)
