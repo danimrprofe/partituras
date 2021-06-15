@@ -1420,10 +1420,8 @@ y no termino de verlo.
 ```
 **Pre-estribillo**
 ```
-A                E/G#
-Se ha roto algo por dentro,
-D          A            Bm
-soy una historia mas en la ciudad
+A                E/G#      D            A           Bm
+Se ha roto algo por dentro, soy una historia mas en la ciudad
      E      F#m     E    D     A
 y yo se que tu también estas así
 ``` 
@@ -1436,15 +1434,8 @@ no dejan de golpear, mi parte de verdad
             D
 y no consigo vencerlo
 ```
-**Pre-estribillo**
-```
-A              E
-Se ha roto algo por dentro,
-D          A            Bm
-soy una historia más en la ciudad
-        E      F#m     E        D   A
-y yo se que tu también estas así
-``` 
+**Repite pre-estribillo**
+
 **Estribillo**
 ```
          D            E              F#m         D
@@ -2086,8 +2077,8 @@ A  D        A  D  A
 **Estrofa**
 ```
 D                        A
-Ella tiene superpoderes, Lo lleva en la frente
-Em			      G                 A
+Ella tiene superpoderes, lo lleva en la frente
+Em			                       G               A
 Ella quiere ser de este mundo, lo ha querido siempre
 D                          A
 Ella trepa por las paredes, como una serpiente
@@ -2114,32 +2105,22 @@ Siempre, siempre, siempre, siempre
 ```
 **Estrofa**
 ```
-D
-Ella baila sobre mi espalda
-A
-Para que despierte
-Em
-Ya no sueña tan profundo
-G             A
-Y aprieta los dientes
+D                           A
+Ella baila sobre mi espalda Para que despierte
+Em                       G                 A
+Ya no sueña tan profundo, y aprieta los dientes
 ```
 **Estrofa**
 ```
-D
-Ella deja discos en casa
-A
-Para estar presente
-Em
-Ella daba por seguro
-G             A
-Que estaría siempre
+D                       A
+Ella deja discos en casa para estar presente
+Em                   G             A
+Ella daba por seguro que estaría siempre
 ```
 **Estrofa**
 ```
-G         Bm
-Y es lo que ves
-D                 Em
-Casi todo puede suceder
+G           Bm   D                   Em
+Y es lo que ves. Casi todo puede suceder
 G          A
 Y es difícil saber que
 ```
@@ -2224,24 +2205,9 @@ he vuelto a remontar de repente
 C | Am | Em | G 
 C | Am | G  | G
 ```
-**Pre-estribillo**
-``` 
-                    C
-No te preocupes por mí
+**REPITE PRE-ESTRIBILLO**
 
-por un momento crucé al otro lado
-                           G
-y luché con esas bestias gigantes...
-                C
-Sólo te quise decir que no dejé de creer,
-                                D            G
-pero era grande la sensación de vértigo constante.
-          D                                         C
-Tengo un plan, salir corriendo hasta que todo se arregle,
-       D                                             C
-me alejaba como el ruido de una ambulancia entre la gente.. 
-```
-**Estribillo**
+**Estribillo VARIADO**
 ```
             G                 D                    C
 Y aunque te pese, te juro que esto no es lo que parece,
@@ -2258,38 +2224,32 @@ De repente..
 ```
 **Final**
 ```
-Em
-Todo es tan perfecto
-          D                         G
-nadie entiende el movimiento de sus alas..
+Em                             D                         G
+Todo es tan perfecto nadie entiende el movimiento de sus alas..
 ```
 ## 04. Maniobras suicidas
 
 | 🎸Tonalidad | Tempo  | Compás | Capo |
 | ---------- | ------ | ------ | ---- |
-| Fa## mayor | 90 bpm | 4/4    | No   |
+| Fa# Mayor | 90 bpm | 4/4    | No   |
 
 
 **Estrofa**
 ```
-C
-Tú volverás
-    A#
-A salvarme la vida
-    F
-A hacerme consciente
-    Fm             G##        C
+C              A#                    F
+Tú volverás a salvarme la vida. A hacerme consciente
+    Fm             G#       C
 De que era una increíble señal
-       C        A##                 F                  G
-Plantearás Maniobras suicidas. Y quién te lo puede negar```
- 
+       C       A#                 F                  G
+Plantearás Maniobras suicidas. Y quién te lo puede negar
+``` 
  **Pre-estribillo**
 ```
                   F                      G
 Y te da un poco igual Cómo voy a reaccionar
-           Fm          G##          A##       C
-Tú sabes exactamente, Todo lo que puedo pensar```
-
+           Fm          G#           A#       C
+Tú sabes exactamente, Todo lo que puedo pensar
+```
 **Estribillo**
 ```
 C   F            Am    G             
@@ -2299,8 +2259,8 @@ C   F           Am      G
 C   F            Am    G          
  Dejarlo a la mitad Hacerme fuerte
 C   F               Am    G
- Saber que nada es para siempre```
-
+ Saber que nada es para siempre
+```
 **Estrofa**
 ```
 C
@@ -2334,21 +2294,21 @@ C   F           Am      G
 C   F            Am    G          
  Dejarlo a la mitad Hacerme fuerte
 C   F               Am    G
- Saber que nada es para siempre```
-
+ Saber que nada es para siempre
+```
 **Instrumental**
 ```
 Dm Db C G
 Dm Db C G
-A## C G```
- 
+A# C G
+``` 
 **Estrofa**
 ```
-C                 A##                F
+C                 A#                F
 Tú volverás a salvarme la vida, a hacerme consciente
-    Fm             G##        C
-De que era una increíble señal```
-
+    Fm             G#        C
+De que era una increíble señal
+```
 **Estribillo**
 ```
 C   F            Am    G             
@@ -2360,11 +2320,12 @@ C   F            Am    G
 C   F               Am    G
  Saber que nada es para siempre
   Fm              G##       C
-Saber que nada es para siempre```
-
+Saber que nada es para siempre
+```
 **Final**
 ```
-C A## F G## A## C```
+C A# F G# A# C
+```
 
 <div style="page-break-after: always;"></div>
 
@@ -2723,22 +2684,14 @@ D  Dsus4  x2
 ```
 **Estrofa**
 ```
-D
-Tú sabes que te va a alcanzar
-       Bm
-Y que a veces lo mereces
-G
-Y nunca es para tanto
-A
-Lo harías otros veinte años más
-D
-Ya se ha dormido la ciudad
-     Bm
-Y quedamos los de siempre
-G
-Sólo un sobresalto
-A
-Me recuerda que soy de verdad
+D                                     Bm
+Tú sabes que te va a alcanzar y que a veces lo mereces
+  G                   A                     
+Y nunca es para tanto. Lo harías otros veinte años más
+D                               Bm
+Ya se ha dormido la ciudad y quedamos los de siempre
+G                  A
+Sólo un sobresalto, me recuerda que soy de verdad
  
      Bm
 Me salgo de mi propio cuerpo
@@ -3412,9 +3365,9 @@ Bm G D A D
 
 **Intro**
 ``` 
-Am    C    D                  Am         C    D
+Am         C     D              Am         C    D
 Eeeeeeeeh  eeeh  ¿Cómo vas, cómo lo ves?
-Am    C    D                  Am         C    D
+Am         C     D              Am         C    D
 Eeeeeeeeh  eeeh  ¿Cómo vas, cómo lo ves?
 ``` 
 **Estrofa**
@@ -3511,9 +3464,9 @@ D             Ebdim7           Em
 Fue una rara pérdida el anonimato
 G            D7         G
 Ya sé que no es para tanto 
- 
- 
-[Pre-Chorus]
+``` 
+**Pre-estribillo**
+```
 C                    Bm
 A veces miro atrás y no
                   Bbm6
@@ -3565,8 +3518,9 @@ Es demasiado grande
 ```
 G G/F#  C D##  D
 G G/F#  C Am D
-  
-[Pre-Chorus]
+``` 
+**Pre-estribillo**
+```
 C                    Bm
 A veces miro atrás y no
                   Bbm6
@@ -3636,7 +3590,7 @@ Capo 1
 ```
 D
 ``` 
-[Estrofa]
+**Estrofa**
 ```
 D                      A            Bm
 ¿Quién va a salvarme a mí de mi cabeza?
@@ -3780,21 +3734,18 @@ Oh oh oh oh, oh oh ohhhhhh
 | --------- | ------- | ------ | ---- |
 | Si Mayor  | 107 bpm | 4/4    | 4    |
 ```
-
 En el acorde Em7 hacer un descenso del bajo en la cuarta cuerda sonando el B y al final
 soltar el dedo y dejar sonar las cuatro cuerdas al aire. Lo mismo con la transición C C/B Am.
- 
-In the Em7 chord, make a lowering of the bass on the fourth string playing the B and finally
-release the finger and let the four strings sound in the air. The same with the C C/B Am.
- 
+
 Em7  020000
  
 ``` 
 **Intro**
 ```
 Em C Bm Em D C Am D Em B7
- 
-[Verse 1]
+``` 
+**Estrofa**
+```
              Em                             C
 Que bonito mirar, la sombra que hacen las rejas,
                      G                          D
@@ -3803,8 +3754,6 @@ mientras meto las orejas, en el centro de tu andar,
 si el mundo está del revés, habrá que buscar cordura,
          C/B        Am       D                C   D
 y una pizca de locura, para saber quererte más.
- 
-[Verse 2]
                        Em                            C
 Ayer te escribí una carta, hoy te escribo esta canción,
                  G                               D
@@ -3828,7 +3777,9 @@ y ponerle sangre al grito, de los que aman sin poder amar.
 [Interlude]
 Em C Bm Em D C Am D Em B7
  
-[Verse 3]
+``` 
+**Estrofa**
+```
                          Em                            C
 Esta voz no hay quien la calle, ni la pared ni el cristal,
                        G                              D
@@ -3837,8 +3788,9 @@ fuera se te echa de menos, anda llorando la libertad,
 y después nos dejaremos, si nos queremos dejar,
            C/B        Am        D                C   D
 a ellos nunca les dejamos, sus cadenas son de sal.
- 
-[Bridge]
+ ``` 
+**Puente**
+```
                       G                D        C
 Y una sal que se deshace, con más lágrimas de sal,
              D     G      D             G
@@ -3873,98 +3825,55 @@ de los que aman sin poder amar.
 - Leiva la toca con capo 3 
 - Juancho con capo 1 (subida un tono)
 
-**Estrofa**
+**Intro**
 ```
 C
- 
-        C                   Em
-Cuando no encontramos la velocidad
-        F        G    C
-Y las piernas se clavan
-        G          Am
-Cuando no dices nada
-   F                     G
-Entonces empiezo a escuchar
- 
- 
-        C                    Em
-Cuando no has tenido la oportunidad
-       F          G  C
-Y las gafas se empañan
-        G         Am
-Cuando vamos de cara
-   F                  G
-Entonces echamos a andar
- 
- 
-  F                    C
-Sueño con estar por encima de todo
-       Am      G      D
-Por debajo de tu falda
-        Dm             F
-Con la noche llena de luz
-             G G7
-Y Tu voz pausada
-             Am
-Y tu voz pausada
- ``` 
-**Estribillo**
-``` 
-         Am F         C G      Am F      C G
-Hoy he sentido la llamada, Con toda la fuerza
-     Am F      C G         F       G  C
-Las luces apagadas, Y las piernas abiertas
-``` 
+```
 **Estrofa**
-``` 
-        C                   Em
-Cuando nos pasamos la electricidad
-       F           G  C
-De tú dedo a mi espalda
-          G        Am
-Cuando estas devorada
-         F               G
-No hay miedo a la oscuridad
- 
-        C                Em
-Cuando no temamos a lo que vendrá
-     F          G  C
-Y bajemos la espada
-         G            Am
-Cuando tiemblas por nada
-   F                  G
-Entonces echamos a andar
+```
+        C                   Em             F        G   C
+Cuando no encontramos la velocidad Y las piernas se clavan
+        G          Am    F                    G
+Cuando no dices nada Entonces empiezo a escuchar 
+        C                    Em             F          G  C
+Cuando no has tenido la oportunidad, Y las gafas se empañan
+        G         Am     F                 G
+Cuando vamos de cara Entonces echamos a andar
  ``` 
 **Pre-estribillo**
 ```  
-  F                    C
-Sueño con estar por encima de todo
-       Am      G      D
-Por debajo de tu falda
-        Dm             F
-Con la noche llena de luz
-             G G7
-Y Tu voz pausada
-             Am
-Y tu voz pausada 
+  F                    C                  Am      G      D
+Sueño con estar por encima de todo. Por debajo de tu falda
+        Dm             F               G    G7            Am
+Con la noche llena de luz, Y Tu voz pausadaa, Y tu voz pausada
 ``` 
 **Estribillo**
 ``` 
-         Am F         C G      Am F      C G
+          Am  F         C G     Am      F   C G
 Hoy he sentido la llamada, Con toda la fuerza
      Am F      C G         F       G  C
 Las luces apagadas, Y las piernas abiertas
 ``` 
+**Estrofa**
+``` 
+        C                   Em             F           G  C
+Cuando nos pasamos la electricidad, de tú dedo a mi espalda
+          G        Am           F               G
+Cuando estas devorada, no hay miedo a la oscuridad 
+        C                Em             F          G  C
+Cuando no temamos a lo que vendrá, y bajemos la espada
+         G            Am     F                  G
+Cuando tiemblas por nada, Entonces echamos a andar
+``` 
+**REPITE Pre-estribillo**
+**REPITE Estribillo**
+
 **Final**
 ``` 
-
 F G
-
-Dm Am Gm A7 X2
- 
-Dm A##  F C x3
-
-A##  C F X2
+Dm Am Gm A7 X2 
+Dm A#  F C x3
+A#  C F X2
 ```
 
 <div style="page-break-after: always;"></div>
@@ -4204,6 +4113,7 @@ Como lo tienes tuuuuuuuuuuu
 
 ##  CD2 - 08. Estrella Polar
 
+Canción original del grupo Pereza.
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
@@ -4233,8 +4143,7 @@ Em          A            G   A  D    Em           F#m          A
 Con los pies fríos no se piensa bien, si es un castigo, yo me lo busqué
 ``` 
 **Estribillo**
-``` 
- 
+```  
 D   A     G       A      D
 Hoy cielo, vienes a por mí
 A        G
@@ -4243,9 +4152,9 @@ G   A          D         G
 no dejo de pensar que aquí
 A                    D     G D A A7  A
 no hay sitio para los dos
- 
-[Verse 2]
- 
+``` 
+**Estrofa**
+``` 
          D           G     D
 En la Avenida de la Estrella Polar
           A A7 A      D G D A  A7  A
@@ -4263,16 +4172,16 @@ ardieron en el infierno
 una cogida en la plaza central
         A A7 A      D G D A  A7  A
 te convencía de aquello
- 
-[Bridge]
- 
+```  
+**Puente**
+``` 
 Em          A            G   A  D
 Con los pies fríos no se piensa bien
 Em      F#m             A
 algún delirio nos hará volver
- 
+ ``` 
 **Estribillo**
- 
+```  
 D   A     G       A      D
 Hoy cielo, vienes a por mí
 A        G
@@ -4287,15 +4196,15 @@ A        G
 pero por dios
 G   A          D         G   A
 no dejo de pensar que aquí
- 
-[Solo]
- 
+ ``` 
+**Solo**
+ ``` 
 F G D
 F G D
 F G A
- 
+``` 
 **Estribillo**
- 
+``` 
 D   A     G       A      D
 Hoy cielo, vienes a por mí
 A        G
@@ -4323,8 +4232,8 @@ no hay sitio para los dos
 Am            C             Am              C  
 Ooooh ooh ooh ooooh oh oooh oooh oooh ooooh ooh oooh  x2
 ```
+**Estrofa**
 ``` 
-[Verse 1]
 Am             E         F                C
 No, no, no lo voy decir, si me lo pides tanto
 Am                E      F                 C
@@ -4393,7 +4302,7 @@ Te quiero como tantas cosas ,que no tienen solución
 F                G
 Que no tienen solución
  ```
-[Outro]
+**Final**
 ```
 Am C Am C E Am
 ```
@@ -4504,6 +4413,7 @@ Finaliza con F-C
 B
 ```
 **Estrofa**
+```
       E                        B
 Llevo horas desvelado con el azul de las sirenas
      E                     B
@@ -4512,14 +4422,16 @@ tarareando una canción de mierda.
 tengo un bulto en el costado, y  una crísis de las buenas
   E                      B
 anoche se me salió la cadena.
-
+```
 **Estribillo**
+```
      F#                       E                            B
 mis amigos más bravos, siguen arreglando el mundo ahí fuera.
       C#m             E   F#             E     F#
 qué extrano cumpleaños. cuarenta en cuarentena.
-
+```
 **Estrofa**
+```
      E                          B
 He peinado el extrarradio con mi bici de carreras,
        E                          B
@@ -4528,19 +4440,22 @@ y unas mallas cortas vieja escuela.
 echo en falta a mis hermanos, en la furgoneta negra.
     E                   B
 los tiburones de la carretera.
-
+```
 **Estribillo**
+```
         F#                  E                  B
 escucho por la radio: muere mi comentarista estrella.
       C#m             E   F#             E   F#
 qué extraño cumpleaños, cuarenta en cuarentena.
                   E    F#
 cuarenta en cuarentena.
-
+```
 **Instrumental**
+```
 B E B E B E B E
-
+```
 **Estrofa**
+```
        B                             E
 Dando vueltas a las vueltas, llevo una semana entera,
      B                         E
@@ -4557,15 +4472,10 @@ dinamito mi penúltima oportunidad.
 Con la máscara de guerra, y un resguardo en la guantera,
        B                           E
 bajo a ver si veo a alguien de verdad.
-
-[Outro]
+```
+**Final**
+```
        B    E
-de verdad...
-       B    E
-de verdad...
-       B    E
-de verdad...
-       B    E
-de verdad...
-
-B ``` 
+de verdad...     (x4)
+B 
+``` 
