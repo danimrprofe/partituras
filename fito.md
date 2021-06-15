@@ -300,31 +300,21 @@ O quien sabe qué
 **Estrofa**
 ``` 
 F | F | F | F
-
 C
         Oh no no no no no nono
-
 F 
 Am | Am | G | G       
 ```
 **Estrofa**
-``` 
-          Am
-Maldita noche que pasé
-           Dm
-No sé muy bien por qué razón
-              G
-Que sin dormirme te soñé
-          F
-Me pareció escuchar tu voz
-         Am
-Toda la culpa es del café
-           Dm
-Que me recuerda tu sabor
-          G
-Y fue la voz que no escuché
-            F
-Y fue el silencio el que me despertó
+```  
+          Am                      Dm
+Maldita noche que pasé. No sé muy bien por qué razón
+              G                    F
+Que sin dormirme te soñé. Me pareció escuchar tu voz       
+         Am                          Dm
+Toda la culpa es del café. Que me recuerda tu sabor
+          G                              F
+Y fue la voz que no escuché. Y fue el silencio el que me despertó
 ```
 **Estrofa**
 ``` 
@@ -467,37 +457,23 @@ Bb  G   F C     Dm...
 ```
 **Estrofa**
 ```  
-        Dm
-Yo no sabía lo que sucedía
-      F
-me sentía triste y agobiado,
-          C
-tan deprimido que tenía la cabeza
-         G
-llena de pájaros disecados.
-          Dm
-Tengo algo amargo para cada día,
-            F
-tengo un final para cada verano,
-            C
-Tengo una esquina junto a mi rodilla
-             G                 Dm
-Tengo el problema para el resultado
- 
+        Dm                        F
+Yo no sabía lo que sucedía, me sentía triste y agobiado,
+          C                                 G
+tan deprimido que tenía la cabeza llena de pájaros disecados.
+          Dm                                 F
+Tengo algo amargo para cada día, tengo un final para cada verano,
+             G                                     Dm                 C                               
+Tengo una esquina junto a mi rodilla, Tengo el problema para el resultado 
 ```
 **Estribillo**
 ``` 
-         Bb
-Soy el autor de mis heridas,
-           C
-que me importa si es mentira
+         Bb                            C
+Soy el autor de mis heridas, que me importa si es mentira
       Dm
 la verdad es que me hacen daño
-          F
-si el corazón se te hace migas,
-       C              G
-la tristeza cada día, viene y come de tu mano.
- 
+          F                              C              G
+si el corazón se te hace migas, la tristeza cada día, viene y come de tu mano. 
 Bb            C           Dm
 Se que tengo que olvidar este frío mes de enero,
 Bb            G            Dm
@@ -529,25 +505,8 @@ son las huellas que dejo al cruzar
 por mi propio desierto
  
 ```
-**Estribillo**
-``` 
-         Bb
-Soy el autor de mis heridas,
-          C
-que me importa si es mentira
-      Dm
-la verdad es que me hacen daño
-          F
-si el corazón se te hace migas,
-       C              G
-la tristeza cada día, viene y come de tu mano.
- 
-Bb            C           Dm
-Se que tengo que olvidar este frío mes de enero,
-Bb            G            Dm
-luego volveré a brillar de nuevo.
- 
-```
+**REPITE ESTRIBILLO**
+
 **Solo**
 ``` 
 ( F   C   Bb G Dm ) x2
@@ -592,107 +551,52 @@ Em D C G
 ```
 **Estrofa**
 ```
+G                 D       B                   C
+Nos ocupamos del mar y tenemos dividida la tarea
+C                    G                 D
+Ella cuida de las olas, Yo vigilo la marea
+      B           C         D         G
+Es cansado,  Por eso al llegar la noche
+      G             Em         G   D          C
+Ella descansa a mi lado. Y mis ojos en su costado 
+G                      D           B                       C
+También cuidamos la tierra, Y también con el trabajo dividido
+C                      G                         D
+Yo troncos, frutos y flores, Ella riega lo escondido
+      B           C         D         G
+Es cansado,  Por eso al llegar la noche
+      G             Em         G   D          C
+Ella descansa a mi lado. Y mis ojos en su costado 
  
-G                 D
-Nos ocupamos del mar
-B                      C
-Y tenemos dividida la tarea
-                    G
-Ella cuida de las olas
-              D
-Yo vigilo la marea
- 
+```
+**Solo**
+``` 
+C Em G D
+C Em G D G 
+```
+**Estrofa**
+```  
+G                    D          B                       C
+Todas las cosas cuidamos,  Cada uno según el nuestro talante
+C                     G                         D
+Yo lo que tiene importancia, Ella todo lo importante
 ```
 **Estrofa**
 ``` 
- 
-B
-Es cansado
-C         D         G
-Por eso al llegar la noche
-                   Em
-Ella descansa a mi lado
-    G      D          C
-Y mis ojos en su costado
- 
-```
-**Estrofa**
-```
- 
-G                      D
-También cuidamos la tierra
-B                          C
-Y también con el trabajo dividido
-                         G
-Yo troncos, frutos y flores
-               D
-Ella riega lo escondido
- 
-```
-**Estrofa**
-```
- 
-B
-Es cansado
-C         D         G
-Por eso al llegar la noche
-                   Em
-Ella descansa a mi lado
-    G       D          C
-Y mis manos en su costado
- 
+      B           C         D         G
+Es cansado,  Por eso al llegar la noche
+      G             Em         G   D          C       G   D          C
+Ella descansa a mi lado. Y mi voz en su costado. Y mi voz en su costado 
 ```
 **Estrofa**
 ``` 
- 
-C Em
-G D
-C Em
-G D G
- 
-```
-**Estrofa**
-``` 
- 
-G                    D
-Todas las cosas cuidamos
-B                          C
-Cada uno según el nuestro talante
-                       G
-Yo lo que tiene importancia,
-               D
-Ella todo lo importante
- 
-```
-**Estrofa**
-``` 
- 
-B
-Es cansado
-C         D         G
-Por eso al llegar la noche
-                   Em
-Ella descansa a mi lado
-   G      D         C
-Y mi voz en su costado
-   G      D         C
-Y mi voz en su costado
- 
-```
-**Estrofa**
-``` 
- 
+Repetir x3
+
 G D
 G C
 Em D G
- 
-G D
-G C
-Em D G
- 
-G D
-G C
-Em D G
+
+El cuarto:
  
 G D
 G C
@@ -797,77 +701,51 @@ Nada de nada
 https://www.youtube.com/watch?v=WzHpnutt5O8
 
 **Estrofa**
-``` 
- 
-G    D               Em
-Cada vez que estoy perdido
-G     D      Em
-      en la noche oscura,
-C      D            Em
-se que todo lo que escribo
-  Am               B7
-a veces me mata y a veces me cura.
-G          D           Em
-Y aunque a veces quema
-G     D             Em
-el calor siempre te ayuda.
-C     D               Em
-Cada vez que llega el frío
-B             B7
-a mi verdad desnuda.
+```  
+G    D               Em    G     D      Em
+Cada vez que estoy perdido en la noche oscura,
+C      D            Em           Am               B7
+se que todo lo que escribo, a veces me mata y a veces me cura.
+G          D      Em    G      D               Em
+Y aunque a veces quema,   el calor siempre te ayuda.
+C     D               Em             B            B7
+Cada vez que llega el frío, a mi verdad desnuda.
  ```
 **Estrofa**
 ``` 
-           Am
-Dice que estoy perdiendo el tiempo
-     Em
-en vivir deprisa.
-        B
-Mi vida pasa como el viento
-       Em
-pero jamás sentí la brisa.
-           Am               C      D
-Dice que estoy perdiendo el tiempo
-           G
-en vivir deprisa. 
+           Am                           Em
+Dice que estoy perdiendo el tiempo en vivir deprisa.
+        B                            Em
+Mi vida pasa como el viento, pero jamás sentí la brisa.
+           Am               C      D             G
+Dice que estoy perdiendo el tiempo,  en vivir deprisa. 
 ```
 **Estrofa**
 ```
 G D Em
 G Em
  ```
-**Estrofa**
+**Estribillo**
 ```
-                   G
-Soy el gran triunfador,
-D          Em
-soy el vencido.
-                   G
-Tengo un diente de oro
-D          Em
-y otro partido.
-             G                D
-Mi sentido común, nunca lleva razón
-   Em
-es mi enemigo.
-               C                B7
-Si lo pienso mejor, si sucede otra vez,
-         C    C/B  Am
-sé que estoy perdido.
+                   G    D          Em
+Soy el gran triunfador,  soy el vencido.
+                   G   D        Em
+Tengo un diente de oro, y otro partido.
+             G                D         Em
+Mi sentido común, nunca lleva razón, es mi enemigo. 
+               C                B7               C    C/B  Am
+Si lo pienso mejor, si sucede otra vez, sé que estoy peeerdido.
  
 ```
 **Estrofa**
-```
- 
+``` 
 G B
 Em A
 G B C D#
-G D Em
- 
+G D Em 
 ```
 **Estrofa**
-```
- 
+``` 
            Am
 Dice que estoy perdiendo el tiempo
      Em
@@ -954,12 +832,13 @@ toda mi vida es un gesto que solo tus ojos entienden.
 Yo la quería besar      y ella quería morderme.
                     D#         A#             Cm
 toda mi vida es un gesto que solo tus ojos entienden.
- 
- 
-Fm D#  A#  Cm - x2
- 
-[Verse 3]
- 
+```
+**Solo**
+```  
+Fm D#  A#  Cm - x2 
+```
+**Puente**
+``` 
          Fm                    D#
 Abrió  la boca y me tragó  y no dejó  de repetir
          A#               Cm
@@ -1109,17 +988,13 @@ Que no sea lo que tenga que ser...
 ```
 **Estribillo**
 ```  
-                    C
-Y después del naufragio
-                       G
-De que sirve estar tan triste
+                    C                             G
+Y después del naufragio, de que sirve estar tan triste
        Bm            Am          G
 Nunca jurare que no vuelva a suceder
-                    C
-Sabes que cuando canto
-                     G
-Nunca piso tierra firme
-   Bm              Am          G
+                    C                      G
+Sabes que cuando canto, nunca piso tierra firme
+       Bm              Am          G
 Ven rescátame, ven rescátame otra vez...
 ```
 **Solo**
@@ -1128,18 +1003,9 @@ G | D | C D | G
 G | D | C D | G
 ```
 **Estribillo**
-```                C
-Y después del naufragio
-         G
-De que sirve estar tan triste
-   Bm              Am          G
-Nunca jurare que no vuelva a suceder
-                    C
-Sabes que cuando canto
-                     G
-Nunca piso tierra firme
-   Bm              Am          G
-Ven rescátame, ven rescátame otra vez... 
+
+**Variación estribillo**
+```
          Bm   Am                 G
 Ven rescátame aunque vuelva a suceder
 Bm        Am                    G
@@ -1426,18 +1292,13 @@ G D A B G D D A D
 ```
 **Estrofa**
 ```
+REPETIR X3
+
 G                      D                    A 
 Después de un invierno malo, Una mala primavera
                      Bm                         G
 Dime por que estás buscando Una lágrima en la arena
-G                      D                    A 
-Después de un invierno malo, Una mala primavera
-                     Bm                         G
-Dime por que estás buscando Una lágrima en la arena
-G                      D                    A 
-Después de un invierno malo, Una mala primavera
-                     Bm                         G
-Dime por que estás buscando Una lágrima en la arena 
+
 G                      D
 Después de un invierno malo
 ```
@@ -1596,6 +1457,7 @@ Quiero ser una estrella la más brillante de hoy
 ## Las Nubes De Tu Pelo	5:09
 ## Whisky Barato	3:18
 ## Siempre Estoy Soñando	4:16
+
 **Estrofa**
 ```
  C  x4
@@ -1689,23 +1551,14 @@ este mar cada vez guarda mas barcos hundidos
 ```
 **Estrofa**
 ```
-             G
-Tu eres aire. yo, papel.
-           Bm
-donde vayas yo me ire
-                G
-si me quedo a oscuras
-            F#               Bm
-luz de la locura, ven y alumbrame.
- 
-             G
-Alguien dijo alguna vez
-           Bm
-"por la boca vive el pez"
-         G
-y yo lo estoy diciendo,
-        F#                Bm
-te lo estoy diciendo, otra vez...
+             G                      Bm
+Tu eres aire. yo, papel. donde vayas yo me ire
+                G                   F#               Bm
+si me quedo a oscuras, luz de la locura, ven y alumbrame. 
+             G                        Bm
+Alguien dijo alguna vez, "por la boca vive el pez"
+           G                    F#                Bm
+y yo lo estoy diciendo, te lo estoy diciendo, otra vez...
 ```
 **Estrofa**
 ```
