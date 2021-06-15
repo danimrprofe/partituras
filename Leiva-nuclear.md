@@ -81,7 +81,8 @@ Está más o menos actualizada hasta 2021. Si alguna canción aparece en un álb
 
 <div style="page-break-after: always;"></div>
 
-## 01. Nunca nadie 
+## 01. Nunca nadie
+
 ```
 D         A         D
 Hoy voy a ser quien quieres
@@ -104,8 +105,10 @@ G                    D
 aun sigo viendote brillar
             A          D
 nunca nadie supo la verdad.
-``` 
+```
+
 **Estribillo**
+
 ```
 G
 Que los vientos no traigan
@@ -173,26 +176,17 @@ Terminar con un D
 
 Capo 2
 ```
-C                    G
-Eme cuando se ponga el sol
-Dm        Am          F
-voy a despedirme será como
-G7                   Am
-un collage lo que tuvimos
+C                    G     Dm         Am       F            G7             Am
+Eme cuando se ponga el sol voy a despedirme. Será como un collage lo que tuvimos 
+C                   G      Dm         Am         F         G7          Am
+Eme cuando se ponga el sol voy a destruirlo. Borrarme la señal de tus comillos
 
-C                   G
-Eme cuando se ponga el sol
-Dm        Am           F
-voy a destruirlo borrarme
-G7                  Am
-la señal de tus comillos
+
 ```
 **Estribillo**
 ```
-F                      C
-Me dejaste el cuerpo fuera
-E            Am
-y la cabeza entera
+F                      C   E               Am
+Me dejaste el cuerpo fuera, y la cabeza entera
          F            C                 G7
 guardada seca entre tus trofeos y tus medias
 F       G     C
@@ -206,21 +200,16 @@ Dm             Am
 voy a ser un "killer"
 F               G7           Am
 que todo el Calderón me lo chille
-
-C                              G
-Ooooh Eme Cuando se acabe este rock,
-Am               F
-cuando cometa un crimen
+      C               G             Am                 F
+Ooooh Eme Cuando se acabe este rock, cuando cometa un crimen
 Dm         G7            Am
 Cuando nos queme la ambición
 ```
 **Estribillo**
 ```
-F                     C
-Me dejaste el cuerpo fuera
-E            Am
-y la cabeza entera
-         F          C               G7
+F                      C   E               Am
+Me dejaste el cuerpo fuera, y la cabeza entera
+         F            C                 G7
 guardada seca entre tus trofeos y tus medias
 
 
@@ -232,15 +221,13 @@ F             C              G7
 entre tus palabras y mis letras,
 F        G      C
 eyy, te espero fuera
-
-F                    (G7)
-ya sé que todo esta demás
-Em                 Am
-y sé cómo es de grande
-   G7               F
-la culpa pesa un kilo más
-                C
-para el que parte
+```
+**Puente**
+```
+F                     G7    Em              G7
+ya sé que todo esta demás, y sé cómo es de grande
+   G7               F                   C
+la culpa pesa un kilo más, para el que parte 
 ```
 **Solo**
 ```
@@ -251,17 +238,8 @@ F G7 Am
 E | Am | E  | Am
 F | C  | G7 | -
 ```
-**Estribillo**
-```
-F                      C
-Me dejaste el cuerpo fuera
-E            Am
-y la cabeza entera
-         F            C                 G7
-guardada seca entre tus trofeos y tus medias
-F       G     C
-ey te espero fuera
-```
+**REPITE Estribillo**
+
 <div style="page-break-after: always;"></div>
 
 ## 03. 92 
@@ -2231,7 +2209,7 @@ Todo es tan perfecto nadie entiende el movimiento de sus alas..
 
 | 🎸Tonalidad | Tempo  | Compás | Capo |
 | ---------- | ------ | ------ | ---- |
-| Fa# Mayor | 90 bpm | 4/4    | No   |
+| Fa# Mayor  | 90 bpm | 4/4    | No   |
 
 
 **Estrofa**
