@@ -1529,11 +1529,14 @@ No hay porqué seguir
 Con los ojos en llamas y la mirada perdida
 Am                  F          Em            G
  Llueven besos de esos que van y te quitan la vida
- ```
-Am F C
-A, C Fm C
 ```
-                C     F               C
+**Solo**
+```
+Am F C
+A C Fm C
+```
+**Estribillo**
+```                C     F               C
 Con los ojos en llamas y la mirada perdida
 Am                  F         G                              F
  Llueven besos de esos que van y te quitan la vida
@@ -1553,9 +1556,8 @@ No existe solución para este ratito
     F                Em      G    C
 Las horas se mueren, basta de confesiones
 ``` 
-Repite puente
-
-Repite coro
+**Repite puente**
+**Repite coro**
  
 **Instrumental** 
 ```
