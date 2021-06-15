@@ -611,7 +611,7 @@ Las previsiones son malas
 ¡Mamá, me vuelvo a casa con los demás!
 
 ``` 
-REPETIR **Estribillo**
+**Repite estribillo**
 ```
 <div style="page-break-after: always;"></div>
 ```
@@ -857,6 +857,88 @@ Bm
 <div style="page-break-after: always;"></div>
 
 ## 12. Vis a vis
+
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Si Mayor  | 107 bpm | 4/4    | 4    |
+```
+En el acorde Em7 hacer un descenso del bajo en la cuarta cuerda sonando el B y al final
+soltar el dedo y dejar sonar las cuatro cuerdas al aire. Lo mismo con la transición C C/B Am.
+
+Em7  020000
+ 
+``` 
+**Intro**
+```
+Em C Bm Em D C Am D Em B7
+``` 
+**Estrofa**
+```
+             Em                             C
+Que bonito mirar, la sombra que hacen las rejas,
+                     G                          D
+mientras meto las orejas, en el centro de tu andar,
+                       Em            Em7          C
+si el mundo está del revés, habrá que buscar cordura,
+         C/B        Am       D                C   D
+y una pizca de locura, para saber quererte más.
+                       Em                            C
+Ayer te escribí una carta, hoy te escribo esta canción,
+                 G                               D
+mañana tenemos cita, donde le roban tiempo al amor.
+                    Em                Em7      C
+Volaremos sin movernos, y donde halla que firmar,
+             C/B      Am            D                    C   D
+me haré una pequeña herida, con sangre que abarca a el mar.
+ ``` 
+**Estribillo**
+```
+                 G          D            C
+Para dejar por escrito, que no voy a abandonar,
+             D        G              D                C
+y ponerle sangre al grito, de los que aman sin poder amar.
+       D           G       D                C
+Para dejar por escrito, que no voy a abandonar,
+            D        G             Bm                       C
+y ponerle sangre al grito, de los que aman sin poder amar.
+ 
+[Interlude]
+Em C Bm Em D C Am D Em B7
+ 
+``` 
+**Estrofa**
+```
+                         Em                            C
+Esta voz no hay quien la calle, ni la pared ni el cristal,
+                       G                              D
+fuera se te echa de menos, anda llorando la libertad,
+                    Em               Em7     C
+y después nos dejaremos, si nos queremos dejar,
+           C/B        Am        D                C   D
+a ellos nunca les dejamos, sus cadenas son de sal.
+ ``` 
+**Puente**
+```
+                      G                D        C
+Y una sal que se deshace, con más lágrimas de sal,
+             D     G      D             G
+de tu quejido y el mio, en vis a vis quincenal,
+   D              G      D              G         D
+en vis a vis quincenal, en vis a vis quincenal
+ ``` 
+**Estribillo**
+```
+                    G            D            C
+Para dejar por escrito, que no voy a abandonar,
+        D               G              D                C
+y ponerle sangre al grito, de los que aman sin poder amar.
+          D       G         D               C
+Para dejar por escrito, que no voy a abandonar,
+             D        G             Bm                C
+y ponerle sangre al grito, de los que aman sin poder amar.
+            Bm               Am     D    G
+de los que aman sin poder amar.
+```
 
 <div style="page-break-after: always;"></div>
 
@@ -1705,7 +1787,7 @@ Nunca igual, nunca igual que tú
 **Repite coro**
 
 <div style="page-break-after: always;"></div>
- 
+
 ## 12. La francesita
 
 | Tonalidad | Tempo   | Compás | Capo |
@@ -1787,14 +1869,14 @@ Y no sé, no sé, no sé, si esto es lo que quiero
 | Sol Mayor | bpm   | 4/4    | No   |
 
 **Intro**
-
+ ``` 
 | 1   | 2   | 3   | 4   |
 | --- | --- | --- | --- |
 | C   | Em  | F   | G   |
 | C   | Em  | F   | G   |
-
+ ``` 
 **Estrofa**
-
+ ``` 
 De los 
 |                                |                        |                                |                      |
 | ------------------------------ | ---------------------- | ------------------------------ | -------------------- |
@@ -1826,8 +1908,9 @@ De los
 | no me de-                      | sarma tu acti          | tud                            | - esto               |
 | F                              | G                      |
 | sé que no te                   | va a gus-              | ```                            |
-
-Instrumental```
+```
+**Instrumental**
+```
 |     |     |     |     |
 | --- | --- | --- | --- |
 | C   | E   | Am  | G   |
@@ -1835,7 +1918,8 @@ Instrumental```
 | C   | E   | F   | F7  |
 | -   |     | -   | -   |
  ```
-Puente```
+**Puente**
+```
 |                   |               |                        |               |
 | ----------------- | ------------- | ---------------------- | ------------- |
 | G                 | Am            | F                      | C             |
@@ -1851,6 +1935,754 @@ Instrumental
 | C   | Em  | F   | G   | F |
 bar
 C
+
+# Monstruos (2016)
+
+Información del disco:
+
+- 🎤 LEIVA 
+- 🎧 Monstruos
+- 🎶 Lanzamiento: 2016
+
+
+## 01. El Último Incendio	
+
+En la parte de "quizá pueda despegar...":
+Para el acorde Am, jugar a levantar el dedo 3.
+Para el acorde D, jugar a poner el dedo 4 en traste 3 de primera cuerda.
+
+**Intro**
+```
+G Cadd9 G
+```
+**Estrofa**
+```
+           G                      Cadd9
+cuando el fuego se ahogue en unas lagrimas
+        G                  Cadd9
+cuando ocurra nada será casualidad
+        C                   G
+cuando todo explote y ya no pidas nada
+      Am                    D
+quizá pueda despegar, pueda despegar
+
+       G                Cadd9
+cuando olvidamos en las madrugadas
+      G                  Cadd9
+para siempre doblada una pagina
+       C                    G
+cuando ya no esté esperando nunca nada
+      Am                    D
+quizá pueda despegar, pueda despegar
+
+```
+**Estribillo**
+```
+           Em                      G
+cuando el tiempo se clava en mi garganta
+        C      D      G
+quedan diez segundos mas
+ C      G        D
+para dejarnos quemar
+      Em       D
+en el último incendio
+ C          G        D          C     D       G
+septiembre puede esperar por nosotros una vez mas
+```
+**Solo**
+```
+G (Cadd9) G
+```
+**Estrofa**
+```
+       G                   Cadd9
+cuando solo me saques mil zancadas
+         G                    Cadd9
+cuando este hecho mierda solo dios dirá
+       C                   G
+si con todas las cartas marcadas
+      Am                    D
+quizá pueda despegar, pueda despegar
+```
+**Estribillo**
+```
+           Em                      G
+cuando el tiempo se clava en mi garganta
+        C      D      G
+quedan diez segundos mas
+ C      G        D
+para dejarnos quemar
+      Em       D
+en el último incendio
+ C          G        D          C     D       G
+septiembre puede esperar por nosotros una vez mas
+
+```
+**Solo**
+```
+G (Cadd9) G      (Cadd9) Em      C    G
+    Oh, ohhh oh... Oh, ohhh oh... Oh, ohhh oh
+
+(Golpes secos en cada acorde:)
+Em  Em  Em      C   C   C     G  G G   G  G  G
+Uhh Uhh Uhhh... Uhh Uhh Uh... Uh...    Uh Uh Uhh
+
+Em  Em  Em      C   C   C     G  G G   G  G  G
+Uhh Uhh Uhhh... Uhh Uhh Uh... Uh...
+
+```
+**Coda**
+```
+          C                  G
+nuestra revolución era una ensoñación
+             D     Em
+fin de la historia oh oh oh oh oh ohhh
+           C                   G
+volando en círculos me hablaba la presión
+            D     Em
+fin dela historia oh oh oh oh oh ohhh
+          C                  G
+nuestra revolución era una ensoñación
+            D     Em
+fin dela historia oh oh oh oh oh oh oh
+
+    C              G              D
+Oh, ohhh oh... Oh, ohhh oh... Oh, ohhh oh
+
+Em D G
+```
+## 02. Guerra Mundial	
+
+Capo 1
+
+**Intro**
+```
+D
+```
+**Estrofa**
+```
+D
+  Después de tu Guerra Mundial,
+Fmaj7
+  yo nunca volví a hablar,
+     C
+y tú no lo sabes,
+     G/B
+y tú no lo sabes.
+
+D
+  Después de tu Guerra Mundial
+Fmaj7
+  a mi me volvió a pasar,
+     C
+y tú no lo sabes,
+     G/B
+y tú no lo sabes.
+```
+**Pre-estribillo**
+```
+A#
+  Moviendo el avispero,
+Fmaj7
+  me siento tan estúpido,
+A
+  acariciando el fuego,
+Dm              C                     A#
+Evitando reaccionar, he aprendido a estar, durmiendo bajo cero,
+Fmaj7
+  rascando algún estímulo.
+A
+  Te veo en el infierno.
+A7                      D
+  Ya sé que suena muy metal.
+```
+**Estribillo**
+```
+              A
+No fue un brillante estreno
+Bm       A         G
+  pero ganamos títulos.
+          D/F#             Em
+Mientras rugía el miedo, ehh,
+A                     D
+alguien te volvía a besar.
+
+        A
+Algunas noches muero
+Bm        A          G
+  y me despierto rígido,
+          D/F#             Em
+creo que aún lo llevo, ehh,
+A                           D
+creo que he aprendido a esperar.
+
+```
+**Solo**
+```
+D  Fmaj7  C  G
+```
+**Estrofa**
+```
+D                              Fmaj7
+  Después de tu Guerra Mundial los chicos acabaron mal,
+    C               G/B
+eso ya lo sabes, eso ya lo sabes.
+D                                 Fmaj7
+  Después de bombardear por aire, por tierra y mar,
+         C                   G/B
+no ha quedado nadie,no ha quedado nadie.
+```
+**Pre-estribillo**
+```
+A#
+  Moviendo el avispero,
+Fmaj7
+  disparo sin escrúpulos,
+A
+  acariciando el fuego,
+Dm              C                     A#
+evitando reaccionar, he aprendido a estar, durmiendo bajo cero,
+Fmaj7
+  rascando algún estímulo.
+A                     A7
+  Te veo en el infierno.
+```
+**Estribillo**
+```
+D  A        Bm     A         G
+  Guerra Mundial, Guerra Mundial,
+             D/F#          Em
+mientras rugía el miedo, ehh,
+A                     D
+alguien te volvía a besar.
+
+ A           Bm     A         G
+Guerra Mundial, Guerra Mundial,
+             D/F#          Em
+creo que aún lo llevo, ehh,
+A                           Fmaj7
+creo que he aprendido a esperar.
+
+Fmaj7 G Dm C A#
+            Creo que he aprendido a esperar.
+
+```
+**Solo**
+```
+Fmaj7 G
+Dm  C  A#
+Dm  C  A#
+C# C  B  C  D
+
+```
+**Estrofa**
+```
+D                               Fmaj7
+  Después de tu Guerra Mundial,  yo nunca volví a hablar
+     C                 G/B 
+y tú no lo sabes, Y tú no lo sabes.  
+```
+**Estribillo**
+```
+D  A        Bm     A         G
+  Guerra Mundial, Guerra Mundial,
+           D/F#            Em
+mientras rugía el miedo, ehh,
+A                     D
+alguien te volvía a besar.
+
+ A        Bm     A         G
+Guerra Mundial, Guerra Mundial,
+          D/F#            Em
+creo que aún lo llevo, ehh,
+A                           D
+creo que he aprendido a esperar.
+
+A           Bm  A                     G          D
+                Creo que he aprendido a esperar.
+```
+**Final**
+```
+G  A
+D  A  Bm  A
+E  G  D
+D
+```
+
+<div style="page-break-after: always;"></div>
+
+## 03.Sincericidio	
+
+**Intro**
+```
+Am            C             Am              C  
+Ooooh ooh ooh ooooh oh oooh oooh oooh ooooh ooh oooh  x2
+```
+**Estrofa**
+``` 
+Am             E         F                C
+No, no, no lo voy decir, si me lo pides tanto
+Am                E      F                 C
+No voy a hacerlo por ti, no quiero darte tanto
+G              Am    F               C
+Sólo me sale a mí, nunca lo dije en alto
+Dm              G
+Pero basta de fingir
+ 
+[Bridge]
+Dm             F  G
+Te quiero, te quiero
+ ```
+**Estribillo**
+```
+C                              Em
+Te quiero cuando me destrozas, te quiero con indecisión
+Am                              G
+Te quiero con las alas rotas, aunque no haya explicación
+C                             E
+Te quiero a reventar la boca, te quiero aunque no vuelvas hoy
+Am                                   G
+Te quiero como tantas cosas ,que no tienen solución
+```
+**Instrumental**
+```
+Am            C             Am              C  
+Ooooh ooh ooh ooooh oh oooh oooh oooh ooooh ooh oooh  x2
+ 
+[Verse 2]
+Am             E            F               C
+No, no, no te voy a mentir, te va a salir barato
+Am                 E    F                C
+No voy a hacerte feliz, no puedo darte tanto
+G              Am     F                C
+Quiero dejarlo así, nunca lo dije en alto
+Dm              G
+Pero basta de fingir
+ 
+[Bridge]
+Dm             F  G
+Te quiero, te quiero
+``` 
+**Estribillo**
+```
+C                              Em
+Te quiero cuando me destrozas, te quiero con indecisión
+Am                              G
+Te quiero con las alas rotas, aunque no haya explicación
+C                              E
+Te quiero a reventar la boca, te quiero aunque no vuelvas hoy
+Am                            G
+Te quiero como tantas cosas ,que no tienen solución
+``` 
+**Instrumental**
+```
+F Dm Am G F
+Dm F G
+ ```
+**Estribillo**
+```
+C                             E
+Te quiero a reventar la boca, te quiero aunque no vuelvas hoy
+Am                            G
+Te quiero como tantas cosas ,que no tienen solución
+F                G
+Que no tienen solución
+ ```
+**Final**
+```
+Am C Am C E Am
+```
+
+<div style="page-break-after: always;"></div>
+
+
+## 04. Breaking Bad	
+
+
+Sin capo
+
+**Intro**
+```
+G G/F#  C D##  D
+G G/F#  C D##  D G
+``` 
+**Estrofa**
+```
+G                G/F#                    Em
+La vida me ha cambiado en un segundo extraño
+C         C/B              Am
+Demasiado brillo, demasiado impacto
+D            Ebdim7            Em
+Me ha venido grande para ser exacto
+G            D7          G
+Ya sé que no es para tanto
+ 
+G                  G/F#                    Em
+La gloria me ha tumbado en el segundo asalto
+C         C/B              A
+Demasiado humo, demasiados pactos
+D             Ebdim7           Em
+Fue una rara pérdida el anonimato
+G            D7         G
+Ya sé que no es para tanto 
+``` 
+**Pre-estribillo**
+```
+C                    Bm
+A veces miro atrás y no
+                  Bbm6
+Consigo descifrar voy
+ 
+A otra velocidad
+Am
+Ábreme los ojos, lánzame a las vías
+                      D
+Sácame de esta oscuridad 
+ 
+``` 
+**Estribillo**
+```
+                   C
+Solo pretendo ser yo
+                           G
+Lo haré por una vez en la vida
+                Bm
+Estuve repitiéndomelo
+                           Em
+Hasta sentirme un puto suicida 
+       Dsus2   C
+Nadie tenía razón
+                         G
+Amante de las causas perdidas
+                       Bm
+Creías que sería el mejor
+                       Em
+Cuidado con las expectativas
+ 
+     Dsus2      C
+Cocinaremos cristal en el desierto
+                G
+Creeremos un ratito en Dios
+             Am
+Estuve unos segundos muerto
+    D                  G
+Es demasiado grande mi amor
+G/F#              Em
+Es demasiado grande
+D                         C
+Es demasiado grande, mi amor
+   Cm7             G
+Es demasiado grande
+ 
+``` 
+**Instrumental**
+```
+G G/F#  C D##  D
+G G/F#  C Am D
+``` 
+**Pre-estribillo**
+```
+C                    Bm
+A veces miro atrás y no
+                  Bbm6
+Consigo descifrar voy
+ 
+A otra velocidad
+Am
+Ábreme los ojos, lánzame a las vías
+                      D
+Sácame de esta oscuridad 
+ 
+ ``` 
+**Estribillo**
+```
+                   C
+Solo pretendo ser yo
+                           G
+Lo haré por una vez en la vida
+                 Bm
+Estuve repitiéndomelo
+                           Em
+Hasta sentirme un puto suicida 
+       Dsus2   C
+Nadie tenía razón
+                         G
+Amante de las causas perdidas
+                       Bm
+Creías que sería el mejor
+                       Em
+Cuidado con las expectativas
+ 
+     Dsus2      C
+Cocinaremos cristal en el desierto
+                G
+Creeremos un ratito en Dios
+             Am
+Estuve unos segundos muerto
+    D                  G
+Es demasiado grande mi amor
+G/F#              Em
+Es demasiado grande
+D                         C
+Es demasiado grande, mi amor
+   Cm7             G
+Es demasiado grande
+```
+
+<div style="page-break-after: always;"></div>
+
+## 05. Dejandome Caer	
+## 06. La LLuvia En Los Zapatos	
+
+
+| Tonalidad                  | Tempo   | Compás | Capo |
+| -------------------------- | ------- | ------ | ---- |
+| Do Menor  (Madrid Nuclear) | 127 bpm | 4/4    | 1    |
+| Si Menor  (Disco)          | 127 bpm | 4/4    | No   |
+
+Se puede hacer más fácil con capo 3 y bajando un tono
+
+**Intro**
+```
+Bm G D A Asus (x4)
+```  
+**Estrofa**
+```
+Bm                    G                   D
+Yo me aburría de la chica que tenía entonces;
+                       F#m
+Tú te vengabas de tu novio de siempre;
+Bm       G      F#m  A
+Todo te hacía reír.
+ 
+Bm                     G                        D
+Yo te alumbraba con la luz que desprendía entonces,
+                    F#m
+Y me mataba que no fueras más fuerte;
+D           F#m   Bm  G
+Todos lo vieron venir. 
+ ``` 
+**Pre-estribillo**
+```
+Em                   G
+Había magia, Pero a veces se partía,
+D                 C## m           Bm   A   G      F#m      A
+Y te dejabas lo mejor para el final;    Nunca lo vi llegar
+``` 
+**Estribillo**
+```
+                      G                   D
+Y a ti te saldrán las alas; Yo seguiré rodando; 
+                   A     Bm             A Bm
+No entiendo esas miradas; Teníamos un trato. 
+                 G                   D
+Y mientras te regalas, Yo seguiré notando
+                Em      G  A                    Bm
+El universo en llamas;       La lluvia en los zapatos
+``` 
+**Instrumental**
+```
+Bm G D A Asus (x2)
+``` 
+**Estrofa**
+```
+Bm                     G                     D
+Yo me engañaba con la prisa que tenía entonces
+                         F#m
+Y me enganchaba que no fueras de frente,
+D           F#m        A
+Aunque lo hicieras por mí
+``` 
+**Estribillo**
+```
+                      G
+Y a ti te saldrán las alas;
+              D
+Yo seguiré rodando;
+                   A
+No entiendo esas miradas;
+           Bm      A Bm
+Teníamos un trato.
+ 
+                 G
+Y mientras te regalas,
+            D
+Yo seguiré notando
+                Em   G   A
+El universo en llamas;
+                    D
+La lluvia en los zapatos
+``` 
+**Solo**
+```
+F#m Bm D G Em A Em Em G D A 
+``` 
+**Estribillo**
+```
+                      G                   D
+Y a ti te saldrán las alas; Yo seguiré rodando; 
+                   A     Bm             A Bm
+No entiendo esas miradas; Teníamos un trato. 
+                 G                   D
+Y mientras te regalas, Yo seguiré notando
+                Em      G  A                    Bm
+El universo en llamas;       La lluvia en los zapatos. 
+``` 
+**Final**
+```
+Bm G D A Asus
+         Ohhh.
+Bm G D              A
+      La lluvia en los zapatos.
+Bm G D A Asus
+ 
+Bm G D A D
+``` 
+
+<div style="page-break-after: always;"></div>
+
+
+## 07. Hoy Tus Ojos	
+## 08. Monstruos	
+## 09. Electricidad	
+
+Capo 1
+
+**Intro**
+```
+D
+``` 
+**Estrofa**
+```
+D                      A            Bm
+¿Quién va a salvarme a mí de mi cabeza?
+    G5
+Me quedo como sin presión
+   A5
+Y vuelo en otra dimensión.
+ 
+ D               A         Bm              G5
+No va a desbloquearme la certeza de que esa ola ya rompió
+    A5
+Y muere en el océano.
+ 
+ ``` 
+**Pre-estribillo**
+```
+ G
+Sólo te deseo
+      D
+Que tu mierda cobre vida
+           A
+Y te de un beso;
+             A5 Bm
+Un beso de ésos
+     G                D
+Que me dabas cuando naufragaba
+                 A        A5  Bm
+En tu pecho enfermo de miedo.
+ 
+ ``` 
+**Estribillo**
+```
+G5
+Toda esa puta electricidad
+                                Bm
+Era una mentira más de lo que fuimos.
+       A5            G5
+Oh oh oh oh, oh oh ohhhhhh.
+           Bm
+De lo que fuimos.
+       A5            G5        Bm
+Oh oh oh oh, oh oh ohhhhhh.
+ 
+ ``` 
+**Estrofa**
+```
+D                  A           Bm
+¿Quién va a desempolvarme la tristeza?
+   G5
+En una extraña posición,
+    A5
+Devoro Informe Robinson.
+ 
+D         A              Bm
+Sobre el alambre y sin destreza,
+  G5
+Flotando como en suspensión;
+ A5
+Ya huelo la caída.
+ 
+``` 
+[Puente]
+```
+ G
+Sólo te deseo
+       D
+Que tu mierda cobre vida
+            A
+Y te de un beso;
+             A5  Bm
+Un beso de ésos
+      G               D
+Que me dabas cuando naufragaba
+                 A        A5  Bm
+En tu pecho enfermo de miedo.
+ 
+Bm
+```
+**Estribillo**
+```
+G5
+Toda esa puta electricidad
+                               Bm
+Era una mentira más de lo que fuimos.
+       A5            G5
+Oh oh oh oh, oh oh ohhhhhh.
+ G5
+Toda esa puta electricidad
+ A5
+Era una mentira más.
+ G5
+Toda esa puta electricidad
+ A5                            Bm
+Era una mentira más de lo que fuimos.
+       A5            G5
+Oh oh oh oh, oh oh ohhhhhh.
+           Bm
+De lo que fuimos.
+      A5              G5
+Oh oh oh oh, oh oh ohhhhhh.
+ 
+ 
+Em
+Na, naaa, naaaa, naa, naaa, naaa, naaaaaa, naaaaaaa,
+ 
+Naaaaaaaaaaaaaaaaa.
+ ``` 
+**Estribillo**
+```
+G5
+Toda esa puta electricidad
+A5
+Era una mentira más.
+G5
+Solo esa puta electricidad
+A5                             Bm
+Era una mentira más de lo que fuimos.
+      A5              G5
+Oh oh oh oh, oh oh ohhhhhh.
+            Bm
+De lo que fuimos.
+      A5                Em
+Oh oh oh oh, oh oh ohhhhhh
+```
+
+<div style="page-break-after: always;"></div>
+
+## 10. Medicina	
+## 11. San Sebastian-Madrid	
+## 12. Palermo No Es Hollywood
 
 #  Nuclear (2019)
 
@@ -3180,111 +4012,6 @@ Recopilación de partituras de las canciones del disco. Las que no aparecen aqu�
 <div style="page-break-after: always;"></div>
 
 ##  01. La lluvia en los zapatos
-
-| Tonalidad                  | Tempo   | Compás | Capo |
-| -------------------------- | ------- | ------ | ---- |
-| Do Menor  (Madrid Nuclear) | 127 bpm | 4/4    | 1    |
-| Si Menor  (Disco)          | 127 bpm | 4/4    | No   |
-
-Se puede hacer más fácil con capo 3 y bajando un tono
-
-**Intro**
-```
-Bm G D A Asus (x4)
-```  
-**Estrofa**
-```
-Bm                    G                   D
-Yo me aburría de la chica que tenía entonces;
-                       F#m
-Tú te vengabas de tu novio de siempre;
-Bm       G      F#m  A
-Todo te hacía reír.
- 
-Bm                     G                        D
-Yo te alumbraba con la luz que desprendía entonces,
-                    F#m
-Y me mataba que no fueras más fuerte;
-D           F#m   Bm  G
-Todos lo vieron venir. 
- ``` 
-**Pre-estribillo**
-```
-Em                   G
-Había magia, Pero a veces se partía,
-D                 C## m           Bm   A   G      F#m      A
-Y te dejabas lo mejor para el final;    Nunca lo vi llegar
-``` 
-**Estribillo**
-```
-                      G                   D
-Y a ti te saldrán las alas; Yo seguiré rodando; 
-                   A     Bm             A Bm
-No entiendo esas miradas; Teníamos un trato. 
-                 G                   D
-Y mientras te regalas, Yo seguiré notando
-                Em      G  A                    Bm
-El universo en llamas;       La lluvia en los zapatos
-``` 
-**Instrumental**
-```
-Bm G D A Asus (x2)
-``` 
-**Estrofa**
-```
-Bm                     G                     D
-Yo me engañaba con la prisa que tenía entonces
-                         F#m
-Y me enganchaba que no fueras de frente,
-D           F#m        A
-Aunque lo hicieras por mí
-``` 
-**Estribillo**
-```
-                      G
-Y a ti te saldrán las alas;
-              D
-Yo seguiré rodando;
-                   A
-No entiendo esas miradas;
-           Bm      A Bm
-Teníamos un trato.
- 
-                 G
-Y mientras te regalas,
-            D
-Yo seguiré notando
-                Em   G   A
-El universo en llamas;
-                    D
-La lluvia en los zapatos
-``` 
-**Solo**
-```
-F#m Bm D G Em A Em Em G D A 
-``` 
-**Estribillo**
-```
-                      G                   D
-Y a ti te saldrán las alas; Yo seguiré rodando; 
-                   A     Bm             A Bm
-No entiendo esas miradas; Teníamos un trato. 
-                 G                   D
-Y mientras te regalas, Yo seguiré notando
-                Em      G  A                    Bm
-El universo en llamas;       La lluvia en los zapatos. 
-``` 
-**Final**
-```
-Bm G D A Asus
-         Ohhh.
-Bm G D              A
-      La lluvia en los zapatos.
-Bm G D A Asus
- 
-Bm G D A D
-``` 
-
 <div style="page-break-after: always;"></div>
 
 ##  Animales
@@ -3368,135 +4095,7 @@ Eh, ¿Cómo vas, cómo lo ves?…
 
 ##  Breaking bad
 
-Sin capo
 
-**Intro**
-```
-G G/F#  C D##  D
-G G/F#  C D##  D G
-``` 
-**Estrofa**
-```
-G                G/F#                    Em
-La vida me ha cambiado en un segundo extraño
-C         C/B              Am
-Demasiado brillo, demasiado impacto
-D            Ebdim7            Em
-Me ha venido grande para ser exacto
-G            D7          G
-Ya sé que no es para tanto
- 
-G                  G/F#                    Em
-La gloria me ha tumbado en el segundo asalto
-C         C/B              A
-Demasiado humo, demasiados pactos
-D             Ebdim7           Em
-Fue una rara pérdida el anonimato
-G            D7         G
-Ya sé que no es para tanto 
-``` 
-**Pre-estribillo**
-```
-C                    Bm
-A veces miro atrás y no
-                  Bbm6
-Consigo descifrar voy
- 
-A otra velocidad
-Am
-Ábreme los ojos, lánzame a las vías
-                      D
-Sácame de esta oscuridad 
- 
-``` 
-**Estribillo**
-```
-                   C
-Solo pretendo ser yo
-                           G
-Lo haré por una vez en la vida
-                Bm
-Estuve repitiéndomelo
-                           Em
-Hasta sentirme un puto suicida 
-       Dsus2   C
-Nadie tenía razón
-                         G
-Amante de las causas perdidas
-                       Bm
-Creías que sería el mejor
-                       Em
-Cuidado con las expectativas
- 
-     Dsus2      C
-Cocinaremos cristal en el desierto
-                G
-Creeremos un ratito en Dios
-             Am
-Estuve unos segundos muerto
-    D                  G
-Es demasiado grande mi amor
-G/F#              Em
-Es demasiado grande
-D                         C
-Es demasiado grande, mi amor
-   Cm7             G
-Es demasiado grande
- 
-``` 
-**Instrumental**
-```
-G G/F#  C D##  D
-G G/F#  C Am D
-``` 
-**Pre-estribillo**
-```
-C                    Bm
-A veces miro atrás y no
-                  Bbm6
-Consigo descifrar voy
- 
-A otra velocidad
-Am
-Ábreme los ojos, lánzame a las vías
-                      D
-Sácame de esta oscuridad 
- 
- ``` 
-**Estribillo**
-```
-                   C
-Solo pretendo ser yo
-                           G
-Lo haré por una vez en la vida
-                 Bm
-Estuve repitiéndomelo
-                           Em
-Hasta sentirme un puto suicida 
-       Dsus2   C
-Nadie tenía razón
-                         G
-Amante de las causas perdidas
-                       Bm
-Creías que sería el mejor
-                       Em
-Cuidado con las expectativas
- 
-     Dsus2      C
-Cocinaremos cristal en el desierto
-                G
-Creeremos un ratito en Dios
-             Am
-Estuve unos segundos muerto
-    D                  G
-Es demasiado grande mi amor
-G/F#              Em
-Es demasiado grande
-D                         C
-Es demasiado grande, mi amor
-   Cm7             G
-Es demasiado grande
-```
 
 <div style="page-break-after: always;"></div>
 
@@ -3514,141 +4113,6 @@ Es demasiado grande
 
 ##  Electricidad
 
-Capo 1
-
-**Intro**
-```
-D
-``` 
-**Estrofa**
-```
-D                      A            Bm
-¿Quién va a salvarme a mí de mi cabeza?
-    G5
-Me quedo como sin presión
-   A5
-Y vuelo en otra dimensión.
- 
- D               A         Bm              G5
-No va a desbloquearme la certeza de que esa ola ya rompió
-    A5
-Y muere en el océano.
- 
- ``` 
-**Pre-estribillo**
-```
- G
-Sólo te deseo
-      D
-Que tu mierda cobre vida
-           A
-Y te de un beso;
-             A5 Bm
-Un beso de ésos
-     G                D
-Que me dabas cuando naufragaba
-                 A        A5  Bm
-En tu pecho enfermo de miedo.
- 
- ``` 
-**Estribillo**
-```
-G5
-Toda esa puta electricidad
-                                Bm
-Era una mentira más de lo que fuimos.
-       A5            G5
-Oh oh oh oh, oh oh ohhhhhh.
-           Bm
-De lo que fuimos.
-       A5            G5        Bm
-Oh oh oh oh, oh oh ohhhhhh.
- 
- ``` 
-**Estrofa**
-```
-D                  A           Bm
-¿Quién va a desempolvarme la tristeza?
-   G5
-En una extraña posición,
-    A5
-Devoro Informe Robinson.
- 
-D         A              Bm
-Sobre el alambre y sin destreza,
-  G5
-Flotando como en suspensión;
- A5
-Ya huelo la caída.
- 
-``` 
-[Puente]
-```
- G
-Sólo te deseo
-       D
-Que tu mierda cobre vida
-            A
-Y te de un beso;
-             A5  Bm
-Un beso de ésos
-      G               D
-Que me dabas cuando naufragaba
-                 A        A5  Bm
-En tu pecho enfermo de miedo.
- 
-Bm
-```
-**Estribillo**
-```
-G5
-Toda esa puta electricidad
-                               Bm
-Era una mentira más de lo que fuimos.
-       A5            G5
-Oh oh oh oh, oh oh ohhhhhh.
- G5
-Toda esa puta electricidad
- A5
-Era una mentira más.
- G5
-Toda esa puta electricidad
- A5                            Bm
-Era una mentira más de lo que fuimos.
-       A5            G5
-Oh oh oh oh, oh oh ohhhhhh.
-           Bm
-De lo que fuimos.
-      A5              G5
-Oh oh oh oh, oh oh ohhhhhh.
- 
- 
-Em
-Na, naaa, naaaa, naa, naaa, naaa, naaaaaa, naaaaaaa,
- 
-Naaaaaaaaaaaaaaaaa.
- ``` 
-**Estribillo**
-```
-G5
-Toda esa puta electricidad
-A5
-Era una mentira más.
-G5
-Solo esa puta electricidad
-A5                             Bm
-Era una mentira más de lo que fuimos.
-      A5              G5
-Oh oh oh oh, oh oh ohhhhhh.
-            Bm
-De lo que fuimos.
-      A5                Em
-Oh oh oh oh, oh oh ohhhhhh
-```
-
-<div style="page-break-after: always;"></div>
-
-
 ##  Como si fueras a morir mañana
 
 <div style="page-break-after: always;"></div>
@@ -3660,89 +4124,7 @@ Oh oh oh oh, oh oh ohhhhhh
 
 ##  Vis a vis
 
-| Tonalidad | Tempo   | Compás | Capo |
-| --------- | ------- | ------ | ---- |
-| Si Mayor  | 107 bpm | 4/4    | 4    |
-```
-En el acorde Em7 hacer un descenso del bajo en la cuarta cuerda sonando el B y al final
-soltar el dedo y dejar sonar las cuatro cuerdas al aire. Lo mismo con la transición C C/B Am.
 
-Em7  020000
- 
-``` 
-**Intro**
-```
-Em C Bm Em D C Am D Em B7
-``` 
-**Estrofa**
-```
-             Em                             C
-Que bonito mirar, la sombra que hacen las rejas,
-                     G                          D
-mientras meto las orejas, en el centro de tu andar,
-                       Em            Em7          C
-si el mundo está del revés, habrá que buscar cordura,
-         C/B        Am       D                C   D
-y una pizca de locura, para saber quererte más.
-                       Em                            C
-Ayer te escribí una carta, hoy te escribo esta canción,
-                 G                               D
-mañana tenemos cita, donde le roban tiempo al amor.
-                    Em                Em7      C
-Volaremos sin movernos, y donde halla que firmar,
-             C/B      Am            D                    C   D
-me haré una pequeña herida, con sangre que abarca a el mar.
- ``` 
-**Estribillo**
-```
-                 G          D            C
-Para dejar por escrito, que no voy a abandonar,
-             D        G              D                C
-y ponerle sangre al grito, de los que aman sin poder amar.
-       D           G       D                C
-Para dejar por escrito, que no voy a abandonar,
-            D        G             Bm                       C
-y ponerle sangre al grito, de los que aman sin poder amar.
- 
-[Interlude]
-Em C Bm Em D C Am D Em B7
- 
-``` 
-**Estrofa**
-```
-                         Em                            C
-Esta voz no hay quien la calle, ni la pared ni el cristal,
-                       G                              D
-fuera se te echa de menos, anda llorando la libertad,
-                    Em               Em7     C
-y después nos dejaremos, si nos queremos dejar,
-           C/B        Am        D                C   D
-a ellos nunca les dejamos, sus cadenas son de sal.
- ``` 
-**Puente**
-```
-                      G                D        C
-Y una sal que se deshace, con más lágrimas de sal,
-             D     G      D             G
-de tu quejido y el mio, en vis a vis quincenal,
-   D              G      D              G         D
-en vis a vis quincenal, en vis a vis quincenal
- ``` 
-**Estribillo**
-```
-                    G            D            C
-Para dejar por escrito, que no voy a abandonar,
-        D               G              D                C
-y ponerle sangre al grito, de los que aman sin poder amar.
-          D       G         D               C
-Para dejar por escrito, que no voy a abandonar,
-             D        G             Bm                C
-y ponerle sangre al grito, de los que aman sin poder amar.
-            Bm               Am     D    G
-de los que aman sin poder amar.
-```
-
-<div style="page-break-after: always;"></div>
 
 ##  La llamada
 
@@ -4157,85 +4539,7 @@ no hay sitio para los dos
 
 ##  CD2 - 10. Sincericidio
 
-**Intro**
-```
-Am            C             Am              C  
-Ooooh ooh ooh ooooh oh oooh oooh oooh ooooh ooh oooh  x2
-```
-**Estrofa**
-``` 
-Am             E         F                C
-No, no, no lo voy decir, si me lo pides tanto
-Am                E      F                 C
-No voy a hacerlo por ti, no quiero darte tanto
-G              Am    F               C
-Sólo me sale a mí, nunca lo dije en alto
-Dm              G
-Pero basta de fingir
- 
-[Bridge]
-Dm             F  G
-Te quiero, te quiero
- ```
-**Estribillo**
-```
-C                              Em
-Te quiero cuando me destrozas, te quiero con indecisión
-Am                              G
-Te quiero con las alas rotas, aunque no haya explicación
-C                             E
-Te quiero a reventar la boca, te quiero aunque no vuelvas hoy
-Am                                   G
-Te quiero como tantas cosas ,que no tienen solución
-```
-**Instrumental**
-```
-Am            C             Am              C  
-Ooooh ooh ooh ooooh oh oooh oooh oooh ooooh ooh oooh  x2
- 
-[Verse 2]
-Am             E            F               C
-No, no, no te voy a mentir, te va a salir barato
-Am                 E    F                C
-No voy a hacerte feliz, no puedo darte tanto
-G              Am     F                C
-Quiero dejarlo así, nunca lo dije en alto
-Dm              G
-Pero basta de fingir
- 
-[Bridge]
-Dm             F  G
-Te quiero, te quiero
-``` 
-**Estribillo**
-```
-C                              Em
-Te quiero cuando me destrozas, te quiero con indecisión
-Am                              G
-Te quiero con las alas rotas, aunque no haya explicación
-C                              E
-Te quiero a reventar la boca, te quiero aunque no vuelvas hoy
-Am                            G
-Te quiero como tantas cosas ,que no tienen solución
-``` 
-**Instrumental**
-```
-F Dm Am G F
-Dm F G
- ```
-**Estribillo**
-```
-C                             E
-Te quiero a reventar la boca, te quiero aunque no vuelvas hoy
-Am                            G
-Te quiero como tantas cosas ,que no tienen solución
-F                G
-Que no tienen solución
- ```
-**Final**
-```
-Am C Am C E Am
-```
+
 
 <div style="page-break-after: always;"></div>
 
