@@ -28,6 +28,19 @@
   - [11. Mi mejor versión](#11-mi-mejor-versión)
   - [12. La francesita](#12-la-francesita)
   - [13. Pólvora](#13-pólvora)
+- [Monstruos (2016)](#monstruos-2016)
+  - [01. El Último Incendio](#01-el-último-incendio)
+  - [02. Guerra Mundial](#02-guerra-mundial)
+  - [03.Sincericidio](#03sincericidio)
+  - [04. Breaking Bad](#04-breaking-bad)
+  - [05. Dejándose Caer](#05-dejándose-caer)
+  - [06. La LLuvia En Los Zapatos](#06-la-lluvia-en-los-zapatos)
+  - [07. Hoy Tus Ojos](#07-hoy-tus-ojos)
+  - [08. Monstruos](#08-monstruos)
+  - [09. Electricidad](#09-electricidad)
+  - [10. Medicina](#10-medicina)
+  - [11. San Sebastian-Madrid](#11-san-sebastian-madrid)
+  - [12. Palermo No Es Hollywood](#12-palermo-no-es-hollywood)
 - [Nuclear (2019)](#nuclear-2019)
   - [Lista de canciones](#lista-de-canciones)
   - [01. Expertos](#01-expertos)
@@ -612,9 +625,9 @@ Las previsiones son malas
 
 ``` 
 **Repite estribillo**
-```
+
 <div style="page-break-after: always;"></div>
-```
+
 ## 08. Las cuentas
 
 
@@ -1271,7 +1284,7 @@ C F C G C
 ```
 
 <div style="page-break-after: always;"></div>
- 
+
 ## 05. Afuera en la ciudad
 
 | Tonalidad | Tempo  | Compás | Capo |
@@ -1936,6 +1949,8 @@ Instrumental
 bar
 C
 
+<div style="page-break-after: always;"></div>
+
 # Monstruos (2016)
 
 Información del disco:
@@ -1944,6 +1959,9 @@ Información del disco:
 - 🎧 Monstruos
 - 🎶 Lanzamiento: 2016
 
+![](img/2021-06-15-15-33-31.png)
+
+<div style="page-break-after: always;"></div>
 
 ## 01. El Último Incendio	
 
@@ -2051,6 +2069,9 @@ Oh, ohhh oh... Oh, ohhh oh... Oh, ohhh oh
 
 Em D G
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## 02. Guerra Mundial	
 
 Capo 1
@@ -2431,7 +2452,116 @@ Es demasiado grande
 
 <div style="page-break-after: always;"></div>
 
-## 05. Dejandome Caer	
+## 05. Dejándose Caer	
+
+Capo 1
+
+```
+[Intro]
+e|------------------------|---------------------------|
+B|------------------------|---------------------------|
+G|-----13-13--------------|-13-13---------------13-10-|
+D|------------11-13-13-11-|--------11-13-13-11--------|
+A|------------------------|---------------------------|
+E|------------------------|---------------------------|  (X4)
+
+Am - F - C - C (x4)
+
+[Verse 1]
+G
+Me he creí­do
+F               C
+todas mis mentiras
+                     Am
+Hace poco tiempo me vi
+F            C
+atrapado sin aire
+
+G         F            C
+Era solo pura adrenalina
+                   Am
+Hace poco tiempo caí­
+      F        C
+Lo tenia delante
+
+[Pre-chorus]
+Dm             G
+Bajo el aguacero
+Dm             G
+Vuelve a parecer
+       F
+Y asi­ pasa su tiempo
+
+[Chorus]
+    C        F
+Dejándose caer
+ Am          F
+Dejándose caer
+ C           F
+Dejándose caer
+
+[Instrumental]
+Am - F - C - C (x2)
+
+[Verse 2]
+G            F           C
+Cuando me pasaba por encima
+                  Am
+Ella me dejaba coger
+       F           C
+Su cuerpito, de alambre
+
+[Pre-chorus]
+Dm          G
+Bajo el aguacero
+ Dm         G
+Vuelve a parecer
+        F
+Y así­ pasa su tiempo
+
+[Chorus]
+   C         F
+Dejándose caer
+  Am         F
+Dejándose caer
+  C          F
+Dejándose caer
+
+[Outro]
+  Dm
+Mientras todo se prendía
+
+Tu estabas allì­ mismo
+       G
+Y escuche como decías
+   Fm                 C
+Abrázame, todo vuelve a ser fácil
+
+
+[Solo]
+F |  C  | G  | Am
+F |  C  | G  | -
+F |  C  | G  | Am
+F |  C  | G  | -
+
+[Chorus]
+        C       F          Am      F
+Dejándose caeeeeer, dejándose caeeeer  
+        C       F          Am      F
+Dejándose caeeeeer, dejándose caeeeer  
+        C       F          Am      F
+Dejándose caeeeeer, dejándose caeeeer  
+        C       F          Am      F
+Dejándose caeeeeer, dejándose caeeeer  
+
+Am | F | C | C 
+Am | F | C  
+
+```
+
+
+<div style="page-break-after: always;"></div>
+
 ## 06. La LLuvia En Los Zapatos	
 
 
@@ -2543,7 +2673,235 @@ Bm G D A D
 
 
 ## 07. Hoy Tus Ojos	
+
+```
+[Intro]
+C  Am  F  C  Am  F  G x2
+
+
+[Verse 1]
+  C
+Sentado con las piernas cruzadas
+    Em
+queriendo desaparecer
+   Am
+ojalá lo consiguiera
+   G
+alguna vez.
+
+   C
+Las pocas estrellas que quedan
+      Em
+están todas de alquiler.
+       Am
+Hoy me desperté con ella
+       G
+no lo puedo creer.
+
+
+[Pre-Chorus]
+    C
+Vámonos a los tejados
+        Em/B
+con los gatos, amor.
+        Am
+Hoy tus ojos mañana el mundo,
+       F                  G
+algún día los dos, algún día los dos.
+
+
+[Chorus]
+ F         C    G     C     F
+¡Va a explotar, salta rápido!
+  G        C      G         C
+Fuerza la máquina, sonrisa mágica,
+     F           G    C
+un poco más, un poco más
+
+
+[Bridge]
+C Am  F  C  
+Am  F  G
+
+
+[Verse 2]
+  C
+Andando por la arena mojada
+    Em
+queriéndote sin querer,
+   Am
+ojalá lo descubrieras
+   G
+alguna vez
+
+      C
+Las viejas secuelas que llevas
+       Em
+en el fondo de la piel
+        Am
+ya se fueron a la mierda,
+      G
+no lo puedo creer
+
+
+[Pre-Chorus]
+    C
+Vámonos a los tejados
+        Em/B
+con los gatos, amor.
+        Am
+Hoy tus ojos mañana el mundo,
+       F                  G
+algún día los dos, algún día los dos.
+
+
+[Chorus]
+ F         C    G     C    F
+¡Va a explotar, salta rápido!
+  G        C      G         C
+Fuerza la máquina, sonrisa mágica,
+     F           G    Am
+un poco más, un poco más
+
+
+[Outro]
+C       F            Am
+ Oooooooooh un poco más.
+C        F  G
+ Oooooooooh
+
+C  Am  F  C  Am  F  G  C
+```
+
+<div style="page-break-after: always;"></div>
+
 ## 08. Monstruos	
+
+```
+
+Capo 2
+
+[Intro]
+C Am G Gsus G
+C Am G Gsus G
+
+
+[Verse 1]
+            C
+Mira que el tiempo no para,
+          Am                           G     Gsus  G
+y que los monstruos solo están en tu cabeza.
+         C
+Mira las luces del alba
+        Am                       G     Gsus  G
+como iluminan y nos brindan su belleza.
+
+
+[Pre-Chorus]
+              C
+Mira hacia el cielo;
+        F
+baja la guardia;
+            G        Gsus  G
+que pase la tormenta;
+             C
+que no estás solo;
+               F
+que estás de espaldas
+               G      Gsus  G
+y no te das ni cuenta.
+
+
+[Chorus]
+               F
+Que todos esos monstruos
+  C
+debajo de la cama
+   G
+se cuelan en tus sueños
+    Am
+tan rápido.
+   F
+Impúlsate en mis hombros;
+ C
+apóyate en mi espalda;
+G                 F    C
+perdona si no llega la calma.
+
+
+[Instrumental]
+C Am G Gsus G
+C Am G Gsus G
+
+
+[Verse 2]
+           C
+Cuando te acuestes, el miedo
+         Am                   G   Gsus  G
+y los fantasmas ondean tu bandera.
+         C
+Y grites en el desierto
+          Am
+y busques un enemigo
+                G      Gsus  G
+al que ganar la guerra.
+
+
+[Pre-Chorus]
+              C
+Mira hacia el cielo;
+        F
+baja la guardia;
+            G        Gsus  G
+que pase la tormenta;
+             C
+que no estás solo;
+               F
+que estás de espaldas
+               G      Gsus  G
+y no te das ni cuenta.
+
+
+[Chorus]
+               F
+Que todos esos monstruos
+  C
+debajo de la cama
+   G
+se cuelan en tus sueños
+    Am
+tan rápido.
+   F
+Impúlsate en mis hombros;
+ C
+apóyate en mi espalda;
+G                 F    C
+perdona si no llega la calma.
+
+
+[Instrumental]
+Em F G C Em F G E Am G D
+
+
+[Chorus]
+               F
+Que todos esos monstruos
+  C
+debajo de la cama
+   G
+se cuelan en tus sueños
+    Am
+tan rápido.
+   F
+Impúlsate en mis hombros;
+ C
+apóyate en mi espalda;
+G                 F    C
+perdona si no llega la calma.
+```
+
+<div style="page-break-after: always;"></div>
+
 ## 09. Electricidad	
 
 Capo 1
@@ -2680,7 +3038,118 @@ Oh oh oh oh, oh oh ohhhhhh
 
 <div style="page-break-after: always;"></div>
 
-## 10. Medicina	
+## 10. Medicina
+
+```
+[Verse 1]
+D          F#m
+Quería contarte
+          Bm                 F#m
+que todo fue una gran inspiración
+G
+los arboles ardían
+A                 D
+y tu ibas a callártelo
+
+
+[Verse 2]
+D           F#m
+quería avanzarte
+Bm              F#m
+que yo ya estoy contando mi versión
+G
+no eras lo que vendías
+A                D
+y voy a recordártelo
+
+
+[Chorus]
+G               D
+y hoy , hoy vas a despertar
+A              Bm
+teniendo pesadillas
+G               D
+monstruos te retorcerán
+A                 Bm
+en la noche más temida
+G             D
+cuando vas a probar
+A   G  D
+tu medicina
+
+D
+
+
+[Verse 3]
+D          F#m
+quería aclararte
+         Bm                F#m
+que sigo con la misma sensación
+G
+había expectativas
+A           D
+y te venia grande
+
+
+[Chorus]
+G                 D
+y hoy , hoy vas a despertar
+A          Bm
+teniendo pesadillas
+G               D
+monstruos te retorcerán
+A         Bm
+en la noche más temida
+G             D
+cuando vas a probar
+A    G   D
+tu medicina
+
+G               D
+monstruos te retorcerán
+A         Bm
+en la noche más jodida
+G             D
+cuando vas a probar
+A   G   D
+tu medicina
+
+
+[Verse 4]
+D          F#m
+quería aclararte
+         Bm                F#m
+que sigo con la misma sensación
+G
+había expectativas
+A             D
+y te venia grande
+
+
+[Chorus]
+G                 D
+y hoy , hoy vas a despertar
+A          Bm
+cargado de pastillas
+G               D
+monstruos te retorcerán
+A         Bm
+en la noche más temida
+G             D
+cuando vas a probar
+G    A  D
+tu medicina
+
+G               D
+monstruos te retorcerán
+A            Bm
+en la noche más jodida
+G          D
+cuando te va alcanzar
+A   G   D
+tu medicina
+```
+
 ## 11. San Sebastian-Madrid	
 ## 12. Palermo No Es Hollywood
 
@@ -2827,6 +3296,7 @@ Bm              E            A      D
 A  D        A  D  A
    Oh uh oh oh 
 ```
+<div style="page-break-after: always;"></div>
 
 ## 02. Superpoderes
 
@@ -2900,6 +3370,8 @@ AA  AA AAAAH    AA  AA AAAAH
 ```
 
 **REPETIR ESTRIBILLO**
+
+<div style="page-break-after: always;"></div>
 
 ## 03. No te preocupes por mi
 
@@ -2989,6 +3461,9 @@ De repente..
 Em                             D                         G
 Todo es tan perfecto nadie entiende el movimiento de sus alas..
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## 04. Maniobras suicidas
 
 | 🎸Tonalidad | Tempo  | Compás | Capo |
@@ -3038,15 +3513,15 @@ Lograrás
       A#
 Que me muera de envidia
    F                 G
-De verte dejarme escapar``` 
- 
+De verte dejarme escapar
+```  
 **Pre-estribillo**
 ```
                   F                      G
 Y te da un poco igual Cómo voy a reaccionar
            Fm          G##          A##       C
-Tú sabes exactamente, Todo lo que puedo pensar```
-
+Tú sabes exactamente, Todo lo que puedo pensar
+```
 **Estribillo**
 ```
 C   F            Am    G             

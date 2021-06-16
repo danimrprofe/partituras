@@ -23,6 +23,9 @@
 
 # Brave
 
+
+<div style="page-break-after: always;"></div>
+
 ## Volaré
 
 - Artista: Russian Red
@@ -114,9 +117,13 @@ D   G   D    G
 D   G   D
 ```
 
+<div style="page-break-after: always;"></div>
+
 # Vaiana
 
 ![](img/2021-04-13-14-55-12.png)
+
+<div style="page-break-after: always;"></div>
 
 ## 🎸 Que hay más allá
 
@@ -211,6 +218,9 @@ Y si el viento que sopla de cola me lleva,
             Dm   Dm/C            G#
 Sabré al final yo que hay más alláa
 ``` 
+
+<div style="page-break-after: always;"></div>
+
 ## Un nuevo hogar
 
  | Tonalidad | Tempo   | Compás | Capo |
@@ -289,6 +299,9 @@ Nā heko hakilia
 E               A
 Un nuevo hogar
 ``` 
+
+<div style="page-break-after: always;"></div>
+
 ## De nada
 
  | Tonalidad | Tempo   | Compás | Capo |
@@ -423,6 +436,9 @@ todo menos flotar puedo hacer yo.
              C
 Y gracias!
 ``` 
+
+<div style="page-break-after: always;"></div>
+
 ## Brillante
 
  | Tonalidad | Tempo  | Compás | Capo |
@@ -558,11 +574,13 @@ Jamás serás tan
 G
 ¡brillante!
 ```
-
+<div style="page-break-after: always;"></div>
 
 # Coco
 
 ![](img/2021-04-13-15-00-07.png)
+
+<div style="page-break-after: always;"></div>
 
 ## Un poco loco
 
@@ -649,6 +667,8 @@ Con mi cabeza juegas
 Un poquitititi titi titi titi tititito loco
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## El latido de mi corazón
 
  | Tonalidad | Tempo   | Compás | Capo |
@@ -726,6 +746,7 @@ Amor verdadero nos une por siempre
 En el latido de mi corazón
 ```
 
+<div style="page-break-after: always;"></div>
 
 ## Recuérdame
 
@@ -793,9 +814,13 @@ Gbm/Db   D  E  F#
 Re     cuérdameee
 ```
 
+<div style="page-break-after: always;"></div>
+
 # Frozen
 
 ![](img/2021-04-13-15-06-31.png)
+
+<div style="page-break-after: always;"></div>
 
 ## Suéltalo
 
@@ -909,6 +934,8 @@ Que la luz     salga otra vez
    C
 el frío a mi nunca me molestó
 ```
+
+<div style="page-break-after: always;"></div>
 
 ## Muéstrate
 
@@ -1039,6 +1066,8 @@ Ah-ah, ah-ah-ah
           Ab
 Ah-ah, ah-ah
 ```
+
+<div style="page-break-after: always;"></div>
 
 ## Por primera vez en años
 
@@ -1180,6 +1209,9 @@ Por primera vez en años
 F                 C
   Me late el corazón
 ``` 
+
+<div style="page-break-after: always;"></div>
+
 ## Hazme un muñeco de nieve
 
  | Tonalidad      | Tempo  | Compás | Capo |
@@ -1257,6 +1289,8 @@ C F | C G
 G | Am F
 F Am | F/A | -
 ```
+
+<div style="page-break-after: always;"></div>
 
 ## Mucho más allá
 
@@ -1369,11 +1403,15 @@ C#        C#m
 Mucho más allá
 ```
 
+<div style="page-break-after: always;"></div>
+
 # Toy story
 
-Capo 3
+<div style="page-break-after: always;"></div>
 
 ## Hay un amigo en mi
+
+Capo 3
 
 ```
 C         Gaug     C C9

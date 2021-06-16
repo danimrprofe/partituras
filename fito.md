@@ -2,7 +2,7 @@
   - [01. Al mar (6:11)](#01-al-mar-611)
   - [02. Para toda la vida](#02-para-toda-la-vida)
   - [03. Perro viejo (4:31)](#03-perro-viejo-431)
-  - [04. Cerca de las vías (3:10)](#04-cerca-de-las-vías-310)
+  - [04. Cerca de las vías](#04-cerca-de-las-vías)
   - [05. A la luna se le ve el ombligo (4:51)](#05-a-la-luna-se-le-ve-el-ombligo-451)
   - [06. Ni negro ni blanco (Con Roberto Iniesta de Extremoduro) (3:45)](#06-ni-negro-ni-blanco-con-roberto-iniesta-de-extremoduro-345)
   - [07. Sevilla de Bilbao (instrumental) (4:00)](#07-sevilla-de-bilbao-instrumental-400)
@@ -63,9 +63,11 @@
 
 ![](img/2021-04-17-17-32-51.png)
 
+<div style="page-break-after: always;"></div>
+
 ## 01. Al mar (6:11)
 
-
+<div style="page-break-after: always;"></div>
 
 ## 02. Para toda la vida
 ```
@@ -122,9 +124,13 @@ Yo le doy mi querer al querer y lo doy para toda la vida.
 Si quisiera vivir de placer
 hay para toda la vida... G F C
 ```
+<div style="page-break-after: always;"></div>
 
 ## 03. Perro viejo (4:31)
-## 04. Cerca de las vías (3:10)
+
+<div style="page-break-after: always;"></div>
+
+## 04. Cerca de las vías
 
 ```
 D               C                       G           D                      C
@@ -172,6 +178,9 @@ D(sorda)                                 G
 ¿Quieres ver el mundo? Mira, está debajo de tus pies.
 
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## 05. A la luna se le ve el ombligo (4:51)
 
 **Estrofa**
@@ -238,15 +247,21 @@ Dm                C          Em     Am
 ```
 Am E Am E
 
+<div style="page-break-after: always;"></div>
+
 ## 06. Ni negro ni blanco (Con Roberto Iniesta de Extremoduro) (3:45)
 ## 07. Sevilla de Bilbao (instrumental) (4:00)
 ## 08. Mientras tanto (Versión de Leño). Interpretada por Rosendo Mercado (3:54)
 ## 09. Alegría (instrumental) (5:50)
 ## 10. A mil kilómetros (3:04)
 
+<div style="page-break-after: always;"></div>
+
 # Huyendo conmigo de mi (2014)
 
 ![](img/2021-04-17-17-33-27.png)
+
+<div style="page-break-after: always;"></div>
 
 ## 01. Entre La Espada Y La Pared
 
@@ -345,19 +360,21 @@ Dm | - | F | G
 Am
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## 02. Lo que sobra de mí
 
 | 🎸  Tonalidad | Tempo  | Compás | Capo |
 | ------------ | ------ | ------ | ---- |
 | Fa menor     | 71 bpm |        | 1    |
 
-
+**Intro**
 ```
 C        D
 Aaaaaaah, aaaaaaah, aaaaaaaaaaah!
- 
-(Suena G#M.)
- 
+```
+**Estrofa**
+```
 G
 Tuve que aprender de nuevo a respirar, de nuevo tuve que aprender.
 Em
@@ -396,7 +413,7 @@ Fue tan larga la condena, solo un día más, solo un día más...
 G
 Como un suspiro que debió durar lo mismo que la eternidad.
 ``` 
-** **
+**Pre-estribillo**
 ``` 
     D
 Ya llega la tormenta, ya la oigo venir, viene derechita hacia aquí.
@@ -442,6 +459,8 @@ Aaaaaaah, aaaaaaah, aaaaaaaaaaah!
 G
 Aaaaaaaaaaah!
 ```
+
+<div style="page-break-after: always;"></div>
 
 ## 03. Pájaros disecados
 
@@ -532,6 +551,8 @@ luego volveré a brillar de nuevo.
 OUTRO:
 ( F   C   Bb G Dm ) x2   Dm hasta el final...
 ```
+<div style="page-break-after: always;"></div>
+
 ## 04. Nos Ocupamos Del Mar	
 
 | Tonalidad | Tempo | Compás | Capo |
@@ -603,13 +624,17 @@ G C
 Em D (largo)
 G
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## 05. Nada De Nada	
 
 | 🎸  Tonalidad | Tempo  | Compás | Capo |
 | ------------ | ------ | ------ | ---- |
 | Do mayor     | 63 bpm |        | No   |
 
-**Estrofa**
+<p style="color:red">Estrofa</p>
+
 ```
 C
        C
