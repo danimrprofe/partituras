@@ -482,7 +482,7 @@ Yo no sabía lo que sucedía, me sentía triste y agobiado,
 tan deprimido que tenía la cabeza llena de pájaros disecados.
           Dm                                 F
 Tengo algo amargo para cada día, tengo un final para cada verano,
-             G                                     Dm                 C                               
+             C                                    G                 Dm                                              
 Tengo una esquina junto a mi rodilla, Tengo el problema para el resultado 
 ```
 **Estribillo**
@@ -528,7 +528,7 @@ por mi propio desierto
 
 **Solo**
 ``` 
-( F   C   Bb G Dm ) x2
+F | C | Bb G | Dm  x2
 ```
 **Estrofa**
 ``` 
@@ -549,7 +549,7 @@ Bb            G            Dm
 luego volveré a brillar de nuevo.
  
 OUTRO:
-( F   C   Bb G Dm ) x2   Dm hasta el final...
+F | C | Bb G | Dm  x2
 ```
 <div style="page-break-after: always;"></div>
 
