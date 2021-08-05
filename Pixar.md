@@ -267,28 +267,15 @@ Sabemos mirar de verdad
  ``` 
 **Estribillo**
 ```  
-D
-Aue, aue,
-A
-Vamos a donde hay
-E                    A
-Una isla nueva donde enraizar,
- 
-D
-Aue, aue,
-A
-En nuestra mente la isla está,
-E
-Sabemos que está cerca
-E
-un nuevo hogar
+D          A                  E                    A
+Aue, aue, Vamos a donde hay, una isla nueva donde enraizar,
+D              A                         E
+Aue, aue, en nuestra mente la isla está. Sabemos que está cerca, un nuevo hogar
  
 D                      F#m
 Aue, aue, No dejaremos nunca de explorar,
-E
-Las tradiciones transmitimos
-E
-En un ciclo sin final,
+E                                   E
+Las tradiciones transmitimos en un ciclo sin final,
  
 D
 Aue, aue,
@@ -537,7 +524,7 @@ Em              C
                   Am           D
 Yo te sacaré con precisión Tu corazón.
 ``` 
-[Bridge]
+**Puente**
 ```
  
 Eb         Bb                  Eb

@@ -8,29 +8,6 @@
 - Discográfica: Universal Music Spain
 - Productor: Kim Fanlo
 
-**Lista de canciones (tracklist)**
-
-- [1. El camino](#1-el-camino)
-- [2. El niño](#2-el-niño)
-- [3. El gato](#3-el-gato)
-- [El Patio](#el-patio)
-- [La Dobleuve](#la-dobleuve)
-- [El Incendio](#el-incendio)
-- [El Teléfono](#el-teléfono)
-- [Lo Imposible](#lo-imposible)
-- [El Futuro](#el-futuro)
-- [La Libertad](#la-libertad)
-- [Las 17:00](#las-1700)
-- [Otros discos](#otros-discos)
-  - [Vi](#vi)
-  - [Hijos del verbo amar](#hijos-del-verbo-amar)
-  - [Te espero aquí](#te-espero-aquí)
-  - [La mejor noche de mi vida](#la-mejor-noche-de-mi-vida)
-  - [Lo saben mis zapatos](#lo-saben-mis-zapatos)
-  - [Dos palabras](#dos-palabras)
-  - [Tu enemigo](#tu-enemigo)
-  - [El mundo](#el-mundo)
-  - [Ven](#ven)
 
 # 1. El camino
 
@@ -1405,8 +1382,8 @@ A/E  C#/F  F#m   E/G#
 
 **Intro**
 ```  
-C Bm/F# Em Bm
-C Bm/F# Em7
+C | Bm/F# | Em | Bm/F#
+C | Bm/F# | Em7
 ```
 **Estrofa**
 ```  

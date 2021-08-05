@@ -1,63 +1,3 @@
-- [Los sueños locos](#los-sueños-locos)
-  - [01. Al mar (6:11)](#01-al-mar-611)
-  - [02. Para toda la vida](#02-para-toda-la-vida)
-  - [03. Perro viejo (4:31)](#03-perro-viejo-431)
-  - [04. Cerca de las vías](#04-cerca-de-las-vías)
-  - [05. A la luna se le ve el ombligo (4:51)](#05-a-la-luna-se-le-ve-el-ombligo-451)
-  - [06. Ni negro ni blanco (Con Roberto Iniesta de Extremoduro) (3:45)](#06-ni-negro-ni-blanco-con-roberto-iniesta-de-extremoduro-345)
-  - [07. Sevilla de Bilbao (instrumental) (4:00)](#07-sevilla-de-bilbao-instrumental-400)
-  - [08. Mientras tanto (Versión de Leño). Interpretada por Rosendo Mercado (3:54)](#08-mientras-tanto-versión-de-leño-interpretada-por-rosendo-mercado-354)
-  - [09. Alegría (instrumental) (5:50)](#09-alegría-instrumental-550)
-  - [10. A mil kilómetros (3:04)](#10-a-mil-kilómetros-304)
-- [Huyendo conmigo de mi (2014)](#huyendo-conmigo-de-mi-2014)
-  - [01. Entre La Espada Y La Pared](#01-entre-la-espada-y-la-pared)
-  - [02. Lo que sobra de mí](#02-lo-que-sobra-de-mí)
-  - [03. Pájaros disecados](#03-pájaros-disecados)
-  - [04. Nos Ocupamos Del Mar](#04-nos-ocupamos-del-mar)
-  - [05. Nada De Nada](#05-nada-de-nada)
-  - [06. El Vencido](#06-el-vencido)
-  - [Garabatos](#garabatos)
-  - [Lo Que Siempre Quise Hacer](#lo-que-siempre-quise-hacer)
-  - [Umore Ona](#umore-ona)
-  - [Después Del Naufragio](#después-del-naufragio)
-- [Lo más lejos a tu lado (2003)](#lo-más-lejos-a-tu-lado-2003)
-  - [La Casa Por El Tejado](#la-casa-por-el-tejado)
-  - [Un Buen Castigo](#un-buen-castigo)
-  - [Feo](#feo)
-  - [El Ojo Que Me Mira](#el-ojo-que-me-mira)
-  - [Soldadito Marinero](#soldadito-marinero)
-  - [Corazón Oxidado	4:01](#corazón-oxidado401)
-  - [Quiero Ser Una Estrella	3:21](#quiero-ser-una-estrella321)
-  - [Nada Que Decir	3:00](#nada-que-decir300)
-  - [Vamonó	3:30](#vamonó330)
-  - [Las Nubes De Tu Pelo	5:09](#las-nubes-de-tu-pelo509)
-  - [Whisky Barato	3:18](#whisky-barato318)
-  - [Siempre Estoy Soñando	4:16](#siempre-estoy-soñando416)
-- [Por la boca vive el pez (2006)](#por-la-boca-vive-el-pez-2006)
-  - [01. Por La Boca Vive El Pez](#01-por-la-boca-vive-el-pez)
-  - [02. Me Equivocaría Otra Vez](#02-me-equivocaría-otra-vez)
-  - [Como Pollo Sin Cabeza	4:10](#como-pollo-sin-cabeza410)
-  - [Sobra La Luz	3:35](#sobra-la-luz335)
-  - [Viene Y Va	4:34](#viene-y-va434)
-  - [214 Sullivan Street	2:14](#214-sullivan-street214)
-  - [Donde Todo Empieza	5:32](#donde-todo-empieza532)
-  - [Deltoya	2:25](#deltoya225)
-  - [Acabo De Llegar	6:15](#acabo-de-llegar615)
-  - [No Soy Bo Diddley	3:49](#no-soy-bo-diddley349)
-  - [Medalla De Cartón	5:18](#medalla-de-cartón518)
-  - [Esta Noche	4:03](#esta-noche403)
-  - [Abrazado A La Tristeza](#abrazado-a-la-tristeza)
-- [Antes de que cuente diez (2009)](#antes-de-que-cuente-diez-2009)
-  - [01. Antes de que cuente diez](#01-antes-de-que-cuente-diez)
-  - [Me acordé de tí](#me-acordé-de-tí)
-  - [Tarde o temprano](#tarde-o-temprano)
-  - [14 vidas son dos gatos](#14-vidas-son-dos-gatos)
-  - [Todo a cien](#todo-a-cien)
-  - [Los Huesos De Los Besos	4:30](#los-huesos-de-los-besos430)
-  - [Que Me Arrastre El Viento	4:27](#que-me-arrastre-el-viento427)
-  - [Qué Necesario Es Rock & Roll	5:28](#qué-necesario-es-rock--roll528)
-  - [Conozco Un Lugar	4:03](#conozco-un-lugar403)
-  - [La Cuisine De Bernard](#la-cuisine-de-bernard)
 
 # Los sueños locos
 
@@ -2343,29 +2283,18 @@ F#m | E  | Bm |  A  E
 ```
 **Estrofa**
 ```
-          F#m
-Puedo escribir y no disimular
-         E
-es la ventaja de irse haciendo viejo
-         Bm
-no tengo nada para impresionar
-         A           E
-ni por fuera ni por dentro.
-             F#m
-La noche en vela va cruzando el mar
-             E
-porque los sueños viajan con el viento
-            Bm
-y en mi ventana sopla en el cristal
-       A               E
-mira a ver si estoy despierto.
- 
+          F#m                            E
+Puedo escribir y no disimular, es la ventaja de irse haciendo viejo
+         Bm                             A           E
+no tengo nada para impresionar ni por fuera ni por dentro.
+             F#m                                 E
+La noche en vela va cruzando el mar porque los sueños viajan con el viento
+            Bm                              A               E
+y en mi ventana sopla en el cristal, mira a ver si estoy despierto.
 ```
 **Estrofa**
 ```
 F#m A | E | F#m A | E
-
- 
 ```
 **Estrofa**
 ```
@@ -2399,59 +2328,41 @@ F#m  E  Bm  D  E
 ```
 **Estrofa**
 ```
-           F#m
-Lo que me llevará al final
-           A
-serán mis pasos, no el camino...
-             E
-No ves que siempre vas detrás
-           D
-cuando persigues al destino.
-              F#m
-Siempre es la mano y no el puñal
-            A
-nunca es lo que pudo haber sido
-             E
-no es porque digas la verdad
-          D
-es porque nunca me has mentido.
+           F#m                        A
+Lo que me llevará al final serán mis pasos, no el camino...
+             E                           D
+No ves que siempre vas detrás cuando persigues al destino.
+              F#m                               A
+Siempre es la mano y no el puñal, nunca es lo que pudo haber sido
+             E                           D
+no es porque digas la verdad, es porque nunca me has mentido.
  
 ```
-**Estrofa**
+**Estribillo**
 ```
-             A
-No voy a sentirme mal
-              E
-si algo no me sale bien
-               F#m
-he aprendido a derrapar
-               D
-y a chocar con la pared.
-            A
-Que la vida se nos va
-                E
-como el humo de ese tren
-                F#m
-como un beso en un portal
-             D
-antes de que cuente 10.
- 
-           A
-Y no volveré a sentirme extraño
-               E
-aunque no me llegue a conocer
-          F#m
-y no volveré a quererte tanto
-                  D
-y no volveré a dejarte de querer
-           A
-dejé de volar me hundí en el barro
-              E
-y entre tanto barro me encontré
-           F#m
-algo de calor sin tus abrazos
-             D                        E  Bm
-ahora sé que nunca volveré.
+             A                     E
+No voy a sentirme mal si algo no me sale bien
+               F#m                      D
+he aprendido a derrapar y a chocar con la pared.
+            A                         E
+Que la vida se nos va como el humo de ese tren
+                F#m                      D
+como un beso en un portal antes de que cuente 10.
+
+```
+**Puente**
+```
+
+           A                                   E
+Y no volveré a sentirme extraño aunque no me llegue a conocer
+          F#m                                   D
+y no volveré a quererte tanto y no volveré a dejarte de querer
+           A                                      E
+dejé de volar me hundí en el barro, y entre tanto barro me encontré
+           F#m                              D               E  Bm
+algo de calor sin tus abrazos ahora sé que nunca volveré.
+
+
  ```
 **Final**
 ```
@@ -2487,27 +2398,16 @@ Hay un niño que se esconde siempre detrás de mí.
 ```   
 D  A  Bm  (x2)
 ```
-**Estrofa**
+**Estribillo**
 ```   
-     G
-Todo cambia y sigue igual
-         A
-y aunque siempre es diferente
-                 Bm
-siempre el mismo mal
-     G
-todo cambia y sigue igual
-     A
-y la vida te dará
-                        Bm
-los besos que tu puedes dar.
+     G                                A                                    Bm                     
+Todo cambia y sigue igual, y aunque siempre es diferente siempre el mismo mal
+     G                           A                                   Bm
+todo cambia y sigue igual, y la vida te dará los besos que tu puedes dar.     
 ```
 **Estrofa**
 ```  
- 
- 
 G  A  Bm  (x2)
- 
 D  A  Bm
  
 ```
@@ -2694,23 +2594,14 @@ que uno de esos sueños que me sueñe a mí.
 **Estrofa**
 ``` 
  
-           Bm
-Detrás del viento un huracán
-           D
-que se fue formando en la cabeza
-          Bm          A
-cuando te cansas de sufrir
-           D
-siempre me dejas.
-       Bm
-Mi corazón es de cristal
-          D
-no guarda nada que no veas
- 
-          Bm           A
-solo un pequeño resplandor
-             D
-de nuestra hoguera.
+           Bm                            D
+Detrás del viento un huracán, se fue formando en la cabeza
+          Bm          A                D
+cuando te cansas de sufrir siempre me dejas.
+       Bm                            D
+Mi corazón es de cristal, no guarda nada que no veas
+          Bm           A                  D
+solo un pequeño resplandor de nuestra hoguera.
 ```
 **Estrofa**
 ``` 
@@ -2733,9 +2624,8 @@ A          G               D
 es mi boca seca, nada que beber.
  ```
 **Estrofa**
-```
- 
-A
+``` 
+     A
 Ohh pobre corazón que no sabe que decir
       G
 si te vas por lo que soy o por lo que nunca fui.
@@ -2771,7 +2661,6 @@ A
 Ohh pobre corazón que no sabe que decir
       G
 si te vas por lo que soy o por lo que nunca fui.
- 
  
                   Bm
 Y hay caminos que hay que andar descalzo
@@ -2837,10 +2726,11 @@ la flor de mis neuronas y por supuesto la luna,
 es poco lo que tengo, el oro de mi tiempo
                   D5    F                 Gm
 la flor de mis neuronas y por supuesto la luna.
+
 ```
 **Estrofa**
 ```
-D#  A#  F  Gm      (x2)
+
         Cm
 Ya hace tiempo que se
                                Gm
@@ -2853,7 +2743,7 @@ de turismo sexual.
 Si la vida es una orgía
                   A#
 yo voy de paja mental
-    D
+        D#
 tiriti traun traun traun.
 ```
 **Estrofa**

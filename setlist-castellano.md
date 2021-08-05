@@ -34,18 +34,22 @@
   - [Aunque tú no lo sepas](#aunque-tú-no-lo-sepas)
 
 ## Balada del despertador
-```
-Introducción: SolM, DoM, ReM
 
+**Intro**
+```
+G | C D | G  | C D
+```
+**Estrofa**
+```
 G                   Em                               D
 Después de tanto tropezar, Dando tumbos he llegado aquí
-C                   G
+C                   
   Y no se esta tan mal
-               Em                           D
+G              Em                           D
 No sabia donde ir, Habia cerrado el ultimo bar
-       C                  G
+       C                  
 Y tu oferta no la pude rechazar
-                     D                          C
+G                     D                          C
 Y deja q yo apague la luz Tu deja de mira el reloj 
       D
 Sera mejor
@@ -53,8 +57,14 @@ G                     D                             C
 Y yo dando patadas al sol, y tú enfadada con el despertador 
 D
 Enemigo del calor
-G, C, D
+```
+**Instrumental**
+```
+G | C D | G  | C D
+```
 
+**Estrofa**
+```
 G             Em                 D
 Solitario corazon vaga sin rumbo por aquí
 C                          G
@@ -109,9 +119,9 @@ Am |Em | Am | Dm
 Estrbillo (Bis)
 ```
 ## De haberlo sabido
-```
 
-[Intro]
+**Intro**
+```
 Em7 - B7/E - Em* - B7/E (x3)
 Em7 - B7/E - Em* - D
 
