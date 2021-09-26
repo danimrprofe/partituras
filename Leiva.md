@@ -33,7 +33,7 @@ https://www.youtube.com/playlist?list=PL7007E8A139699221
 | Re Mayor  | X bpm | 4/4    | No   |
 
 
-
+**Estrofa**
 
 ```
 D         A         D
@@ -62,10 +62,8 @@ nunca nadie supo la verdad.
 **Estribillo**
 
 ```
-          G
-Que los vientos no traigan
-           A
-siempre un nudo en la garganta
+          G                           A
+Que los vientos no traigan siempre un nudo en la garganta 
      Bm              D
 para ya, ya, ya, ya, ya
 G                      D
@@ -79,7 +77,9 @@ pidelo bien.
 
 D                   D
 uooh oooh oooh  ooh uooh oooh oooh  ooh  
-
+```
+**Estrofa**
+```
 D          A        D
 No voy a soplar las velas
           G                 D
@@ -90,7 +90,9 @@ G                  D
 me salvan otro año más
             A          D
 nunca nadie supo la verdad.
-
+```
+**Puente**
+```
 Bm        G             D
 Todos tus pasos son mis alas
 Bm         G         A      D
@@ -102,10 +104,8 @@ cogela al vuelo
 ``` 
 **Estribillo**
 ```
-G
-Que los vientos no traigan
-           A
-siempre un nudo en la garganta
+          G                           A
+Que los vientos no traigan siempre un nudo en la garganta 
      Bm              D
 para ya, ya, ya, ya, ya
 G                      D
@@ -117,11 +117,11 @@ que te vas a quedar sin nada
        A
 pidelo bien.
 
-
-(Repetir **Estribillo**)
+```
+**Repetir Estribillo**
 
 Terminar con un D
-```
+
 <div style="page-break-after: always;"></div>
 
 ## 02 Eme
@@ -291,6 +291,9 @@ pero tú por favor...no me tengas miedo
 ```
 C Am7 G
 ```
+
+<div style="page-break-after: always;"></div>
+
 **Estrofa**
 ```
       C                   C                  Am                            G
@@ -358,6 +361,9 @@ Am             Em  F        G      C
 | C   | Em  | F   | C   |
 | Dm  | Am  | F   | G   |
 ```
+
+<div style="page-break-after: always;"></div>
+
 **Estrofa**
 ```
 C           Em      F                     C
@@ -606,6 +612,9 @@ queremos lo que envenena.
 Y así nunca, nos salen las cuentas.
 
 ```
+
+<div style="page-break-after: always;"></div>
+
 **Solo**
 ```
 A
@@ -767,6 +776,9 @@ D                 Bm     F#m             Gm     A
 ```
 G Bm F#m Em x2
 ```
+
+<div style="page-break-after: always;"></div>
+
 **Estrofa**
 ```
 Bm    G             D       F#7
@@ -944,6 +956,9 @@ C/G              Em            Am       G                     Fmaj7
 Em                          Dm        G
 Es todo lo que quise conquistar en la vida
 ``` 
+
+<div style="page-break-after: always;"></div>
+
 **Estrofa**
 ```
 Fmaj7              C/G    G                Am         G
@@ -1019,6 +1034,9 @@ Voy a ser terriblemente fiel, Cuando se te pase la emoción
     F                C        G
 Ya sé, te puede parecer demasiado
 ```
+
+<div style="page-break-after: always;"></div>
+
 **Estrofa**
 ```
       Am                               F
@@ -1184,6 +1202,9 @@ Volvamos a intentarlo
  
 C F C G
 ``` 
+
+<div style="page-break-after: always;"></div>
+
 **Estrofa**
 ```
 C               G                Am            F
@@ -1260,6 +1281,9 @@ Cuánto tiempo va a llevarnos, reponernos de los golpes
      G          D        Em          A
 Y seguir disimulando que aún no me conoces
 ``` 
+
+<div style="page-break-after: always;"></div>
+
 **Estribillo**
 ```
             G                    A
@@ -1301,7 +1325,7 @@ D     Dsus4
 ```
 
 <div style="page-break-after: always;"></div>
- 
+
 ## 06 Del hueso una flor
 
 | Tonalidad  | Tempo   | Compás | Capo |
@@ -1347,6 +1371,9 @@ que no puedo aguantar tu mirada
           C   F           C    G
 Má-ma-ma-maaaaás.Má-ma-ma-maaaaás (x2)
 ```  
+
+<div style="page-break-after: always;"></div>
+
 **Estrofa** 
 ```
           C                                   F
@@ -1419,7 +1446,15 @@ no dejan de golpear, mi parte de verdad
             D
 y no consigo vencerlo
 ```
-**Repite pre-estribillo**
+**Pre-estribillo**
+```
+A                E/G#      D            A           Bm
+Se ha roto algo por dentro, soy una historia mas en la ciudad
+     E      F#m     E    D     A
+y yo se que tu también estas así
+``` 
+
+<div style="page-break-after: always;"></div>
 
 **Estribillo**
 ```
@@ -1845,6 +1880,9 @@ Prisioneros de las drogas delicadas, atrapados en un plano a contraluz
        C                         Em           F                            G                   
 Hace tiempo que no siento una punzada, hace tiempo que me estrello a tu salud, y ahora         
 ```
+
+<div style="page-break-after: always;"></div>
+
 **Estribillo**
 ```
          F            G                   Am          Em                 
@@ -1884,6 +1922,21 @@ Información del disco:
 - 🎤 LEIVA 
 - 🎧 Monstruos
 - 🎶 Lanzamiento: 2016
+
+Lista de canciones:
+
+1. El Último Incendio - 4:00
+2. Guerra Mundial - 4:06
+3. Sincericidio - 4:13
+4. Breaking Bad - 4:20
+5. Dejándose Caer - 4:10
+6. La Lluvia en los Zapatos - 3:41
+7. Hoy Tus Ojos - 3:50
+8. Monstruos - 4:05
+9. Electricidad - 4:05
+10. Medicina - 4:06
+11. San Sebastián – Madrid - 4:13
+12. Palermo No Es Hollywood - 3:10 
 
 ![](img/2021-06-15-15-33-31.png)
 
@@ -2008,47 +2061,33 @@ D
 ```
 **Estrofa**
 ```
-D
-  Después de tu Guerra Mundial,
-Fmaj7
-  yo nunca volví a hablar,
-     C
-y tú no lo sabes,
-     G/B
-y tú no lo sabes.
-
-D
-  Después de tu Guerra Mundial
-Fmaj7
-  a mi me volvió a pasar,
-     C
-y tú no lo sabes,
-     G/B
-y tú no lo sabes.
+D                             Fmaj7
+Después de tu Guerra Mundial,  yo nunca volví a hablar,
+     C                  G/B
+y tú no lo sabes, y tú no lo sabes.
+D                             Fmaj7
+  Después de tu Guerra Mundial, a mi me volvió a pasar,
+     C                 G/B
+y tú no lo sabes, y tú no lo sabes.
 ```
 **Pre-estribillo**
 ```
-A#
-  Moviendo el avispero,
-Fmaj7
-  me siento tan estúpido,
+A#                    Fmaj7
+Moviendo el avispero, me siento tan estúpido,
 A
-  acariciando el fuego,
-Dm              C                     A#
-Evitando reaccionar, he aprendido a estar, durmiendo bajo cero,
-Fmaj7
-  rascando algún estímulo.
-A
-  Te veo en el infierno.
-A7                      D
-  Ya sé que suena muy metal.
+acariciando el fuego, 
+Dm              C                      A#
+Evitando reaccionar, he aprendido a estar, 
+                    Fmaj7
+durmiendo bajo cero, rascando algún estímulo.
+A                     A7                      D
+Te veo en el infierno. Ya sé que suena muy metal.
+  
 ```
 **Estribillo**
 ```
-              A
-No fue un brillante estreno
-Bm       A         G
-  pero ganamos títulos.
+              A             Bm        A         G
+No fue un brillante estreno,   pero ganamos títulos.
           D/F#             Em
 Mientras rugía el miedo, ehh,
 A                     D
@@ -2192,6 +2231,9 @@ Te quiero a reventar la boca, te quiero aunque no vuelvas hoy
 Am                                   G
 Te quiero como tantas cosas ,que no tienen solución
 ```
+
+<div style="page-break-after: always;"></div>
+
 **Instrumental**
 ```
 Am            C             Am              C  
@@ -2269,117 +2311,83 @@ Me ha venido grande para ser exacto
 G            D7          G
 Ya sé que no es para tanto
  
-G                  G/F#                    Em
+G                   Bm                 Em
 La gloria me ha tumbado en el segundo asalto
-C         C/B              A
+C         C/B              Am
 Demasiado humo, demasiados pactos
 D             Ebdim7           Em
 Fue una rara pérdida el anonimato
-G            D7         G
+G            D         G
 Ya sé que no es para tanto 
 ``` 
 **Pre-estribillo**
 ```
-C                    Bm
-A veces miro atrás y no
-                  Bbm6
-Consigo descifrar voy
- 
-A otra velocidad
-Am
-Ábreme los ojos, lánzame a las vías
-                      D
-Sácame de esta oscuridad 
- 
+C                    G/B                   Bbm6
+A veces miro atrás y no. Consigo descifrar voy a otra velocidad
+Am                                                         D
+Ábreme los ojos, lánzame a las vías, sácame de esta oscuridad 
+
+
 ``` 
+
+<div style="page-break-after: always;"></div>
+
 **Estribillo**
 ```
-                   C
-Solo pretendo ser yo
-                           G
-Lo haré por una vez en la vida
-                Bm
-Estuve repitiéndomelo
-                           Em
-Hasta sentirme un puto suicida 
-       Dsus2   C
-Nadie tenía razón
-                         G
-Amante de las causas perdidas
-                       Bm
-Creías que sería el mejor
-                       Em
-Cuidado con las expectativas
+                   C                            G
+Solo pretendo ser yo. Lo haré por una vez en la vida
+                Bm                               Em
+Estuve repitiéndomelo. Hasta sentirme un puto suicida 
+       Dsus2   C                            G
+Nadie tenía razón. Amante de las causas perdidas
+                       Bm                         Em
+Creías que sería el mejor, cuidado con las expectativas
  
-     Dsus2      C
-Cocinaremos cristal en el desierto
-                G
-Creeremos un ratito en Dios
-             Am
-Estuve unos segundos muerto
-    D                  G
-Es demasiado grande mi amor
-G/F#              Em
-Es demasiado grande
-D                         C
-Es demasiado grande, mi amor
+                C                                  G/B
+Cocinaremos cristal en el desierto. Creeremos un ratito en Dios
+             Am                 D                    G
+Estuve unos segundos muerto. Es demasiado grande mi amor
+   D/F#             Em    D                     C   
+Es demasiado grande.  Es demasiado grande, mi amor
    Cm7             G
 Es demasiado grande
  
 ``` 
 **Instrumental**
 ```
-G G/F#  C D##  D
-G G/F#  C Am D
+G | Bm | C  | D# D
+G | Bm | Am | D
 ``` 
 **Pre-estribillo**
 ```
-C                    Bm
-A veces miro atrás y no
-                  Bbm6
-Consigo descifrar voy
- 
-A otra velocidad
-Am
-Ábreme los ojos, lánzame a las vías
-                      D
-Sácame de esta oscuridad 
- 
- ``` 
+C                    G/B                   Bbm6
+A veces miro atrás y no. Consigo descifrar voy a otra velocidad
+Am                                                         D
+Ábreme los ojos, lánzame a las vías, sácame de esta oscuridad 
+
+
+``` 
 **Estribillo**
 ```
-                   C
-Solo pretendo ser yo
-                           G
-Lo haré por una vez en la vida
-                 Bm
-Estuve repitiéndomelo
-                           Em
-Hasta sentirme un puto suicida 
-       Dsus2   C
-Nadie tenía razón
-                         G
-Amante de las causas perdidas
-                       Bm
-Creías que sería el mejor
-                       Em
-Cuidado con las expectativas
+                   C                            G
+Solo pretendo ser yo. Lo haré por una vez en la vida
+                Bm                               Em
+Estuve repitiéndomelo. Hasta sentirme un puto suicida 
+       Dsus2   C                            G
+Nadie tenía razón. Amante de las causas perdidas
+                       Bm                         Em
+Creías que sería el mejor, cuidado con las expectativas
  
-     Dsus2      C
-Cocinaremos cristal en el desierto
-                G
-Creeremos un ratito en Dios
-             Am
-Estuve unos segundos muerto
-    D                  G
-Es demasiado grande mi amor
-G/F#              Em
-Es demasiado grande
-D                         C
-Es demasiado grande, mi amor
+                C                                  G/B
+Cocinaremos cristal en el desierto. Creeremos un ratito en Dios
+             Am                 D                    G
+Estuve unos segundos muerto. Es demasiado grande mi amor
+   D/F#             Em    D                     C   
+Es demasiado grande.  Es demasiado grande, mi amor
    Cm7             G
 Es demasiado grande
-```
+ 
+``` 
 
 <div style="page-break-after: always;"></div>
 

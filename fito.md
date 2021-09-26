@@ -1,15 +1,183 @@
+![](img/2021-08-29-14-09-14.png)
+
+<div style="page-break-after: always;"></div>
+
+- [Los sueños locos](#los-sueños-locos)
+  - [01. Al mar](#01-al-mar)
+  - [02. Para toda la vida](#02-para-toda-la-vida)
+  - [03. Perro viejo](#03-perro-viejo)
+  - [04. Cerca de las vías](#04-cerca-de-las-vías)
+  - [05. A la luna se le ve el ombligo (4:51)](#05-a-la-luna-se-le-ve-el-ombligo-451)
+- [A puerta cerrada (2014)](#a-puerta-cerrada-2014)
+  - [01. Rojitas las orejas](#01-rojitas-las-orejas)
+  - [02. Trozos de cristal](#02-trozos-de-cristal)
+- [Huyendo conmigo de mi (2014)](#huyendo-conmigo-de-mi-2014)
+  - [01. Entre La Espada Y La Pared](#01-entre-la-espada-y-la-pared)
+  - [02. Lo que sobra de mí](#02-lo-que-sobra-de-mí)
+  - [03. Pájaros disecados](#03-pájaros-disecados)
+  - [04. Nos Ocupamos Del Mar](#04-nos-ocupamos-del-mar)
+  - [05. Nada De Nada](#05-nada-de-nada)
+  - [06. El Vencido](#06-el-vencido)
+  - [Garabatos](#garabatos)
+  - [Lo Que Siempre Quise Hacer](#lo-que-siempre-quise-hacer)
+  - [Umore Ona](#umore-ona)
+  - [Después Del Naufragio](#después-del-naufragio)
+- [Lo más lejos a tu lado (2003)](#lo-más-lejos-a-tu-lado-2003)
+  - [La Casa Por El Tejado](#la-casa-por-el-tejado)
+  - [Un Buen Castigo](#un-buen-castigo)
+  - [Feo](#feo)
+  - [El Ojo Que Me Mira](#el-ojo-que-me-mira)
+  - [Soldadito Marinero](#soldadito-marinero)
+  - [Corazón Oxidado	4:01](#corazón-oxidado401)
+  - [Quiero Ser Una Estrella	3:21](#quiero-ser-una-estrella321)
+  - [Nada Que Decir	3:00](#nada-que-decir300)
+  - [Vamonó	3:30](#vamonó330)
+  - [Las Nubes De Tu Pelo	5:09](#las-nubes-de-tu-pelo509)
+  - [Whisky Barato	3:18](#whisky-barato318)
+  - [Siempre Estoy Soñando	4:16](#siempre-estoy-soñando416)
+- [Por la boca vive el pez (2006)](#por-la-boca-vive-el-pez-2006)
+  - [01. Por La Boca Vive El Pez](#01-por-la-boca-vive-el-pez)
+  - [02. Me Equivocaría Otra Vez](#02-me-equivocaría-otra-vez)
+  - [Como Pollo Sin Cabeza	4:10](#como-pollo-sin-cabeza410)
+  - [Sobra La Luz	3:35](#sobra-la-luz335)
+  - [Viene Y Va	4:34](#viene-y-va434)
+  - [214 Sullivan Street](#214-sullivan-street)
+  - [Donde Todo Empieza](#donde-todo-empieza)
+  - [Deltoya	2:25](#deltoya225)
+  - [Acabo De Llegar	6:15](#acabo-de-llegar615)
+  - [No Soy Bob Diddley	3:49](#no-soy-bob-diddley349)
+  - [Medalla De Cartón	5:18](#medalla-de-cartón518)
+  - [Esta Noche	4:03](#esta-noche403)
+  - [Abrazado A La Tristeza](#abrazado-a-la-tristeza)
+- [Antes de que cuente diez (2009)](#antes-de-que-cuente-diez-2009)
+  - [01. Antes de que cuente diez](#01-antes-de-que-cuente-diez)
+  - [Me acordé de tí](#me-acordé-de-tí)
+  - [Tarde o temprano](#tarde-o-temprano)
+  - [14 vidas son dos gatos](#14-vidas-son-dos-gatos)
+  - [Todo a cien](#todo-a-cien)
+  - [Los Huesos De Los Besos	4:30](#los-huesos-de-los-besos430)
+  - [Que Me Arrastre El Viento	4:27](#que-me-arrastre-el-viento427)
+  - [Qué Necesario Es Rock & Roll	5:28](#qué-necesario-es-rock--roll528)
+  - [Conozco Un Lugar	4:03](#conozco-un-lugar403)
+  - [La Cuisine De Bernard](#la-cuisine-de-bernard)
+
+Última modificación: Agosto 2021
 
 # Los sueños locos
+
+- Sello: DRO – 2564694069
+- Publicado: 2008
+- Género: Rock
+- Estilo: Pop Rock
 
 ![](img/2021-04-17-17-32-51.png)
 
 <div style="page-break-after: always;"></div>
 
-## 01. Al mar (6:11)
+## 01. Al mar
 
+**Estrofa**
+```
+Bueno, a disfrutarla.
+Por cierto, donde he puesto el D9 sería:
+ E |-x-|  pero no se como se llama.
+ B |-6-|
+ G |-5-|
+ D |-4-|
+ A |-5-|
+ E |-x-|
+
+
+E  |-----------------------------------3---|
+B  |-----------------------------------3---|
+G  |--2h3p2-------------5b(6)b5--3---------|
+D  |---------3--3/5--5--------------5------|
+A  |---------------------------------------|
+E  |---------------------------------------|
+
+
+E  |--------------------------------------------------|
+B  |--------------------------------------------------|
+G  |--2h3p2--------------------------------3----------|
+D  |---------3-----------------------5------5p3p0--5--|
+A  |------------3b(4)b3--1--------5-----5-------------|
+E  |------------------------3--3----------------------|
+
+
+F              Gm
+Estoy aquí otra vez
+F              Gm
+en la orillita del mar
+Cm         F        Gm
+mientras me mojo los pies
+F              Gm
+he empezado a imaginar.
+
+
+F              Gm
+Tú si que debes saber
+F              Gm
+que si pudieras hablar
+Cm       F         Gm
+tienes secretos que sé
+F              Gm
+nunca los vas a contar.
+
+
+Cm                     D9         Gm
+Guardas los suspiros de corazones rotos
+Cm                        F                      Gm
+y todas las miradas de los hombres que se sienten solos.
+Cm                      D9                Gm
+Dejas que la Luna por la noche te toque un poco
+Cm                      D9             Cm          D9
+con la lucecita que ilumina los sueños locos.
+
+
+F              Gm
+Mi barco es de papel
+F              Gm
+Pero saldré a navegar
+Cm         F       Gm
+En la isla donde tú estés
+F              Gm
+Allí quiero naufragar.
+
+
+F               Gm
+Y que me huela la piel
+F               Gm
+A roca, espuma y a sal
+Cm       F        Gm
+Dime qué tengo que hacer
+F              Gm
+Para ser tu capitán
+
+
+Cm                     D9         Gm
+Guardas los suspiros de corazones rotos
+Cm                        F                      Gm
+y todas las miradas de los hombres que se sienten solos.
+Cm                      D9                Gm
+Dejas que la Luna por la noche te toque un poco
+Cm                      D9             Cm          D9
+con la lucecita que ilumina los sueños locos.
+
+
+         Gm
+Los sueños locos...
+         Cm
+Los sueños locos...
+         D
+Los sueños locos...
+         F      D9
+Los sueños locos...
+```
 <div style="page-break-after: always;"></div>
 
 ## 02. Para toda la vida
+
+**Estrofa**
 ```
 G                           C
 Cuando estuviste conmigo, jamás te dije mentira,
@@ -29,8 +197,9 @@ Yo le doy mi querer al querer y lo doy para toda la vida.
 Si quisiera vivir de placer me buscaba un amor de cantina.
       F                             C                     G C
 Yo le doy mi querer al querer y lo doy para toda la vida.
-
- 
+```
+**Estrofa** 
+```
  G                           C
 Cuando estuviste conmigo, Tenías un mal pensamiento.
    G                     C
@@ -40,6 +209,8 @@ Tendrás el mundo en tus manos, tendrás montones de besos
            G                 C
 si a todos tienes llorando, conmigo tocaste hueso.
 ```
+<div style="page-break-after: always;"></div>
+
 **Estribillo**
 ```
       F                             C
@@ -48,8 +219,10 @@ Yo le doy mi querer al querer y lo doy para toda la vida.
 Si quisiera vivir de placer me buscaba un amor de cantina.
       F                             C                     G C
 Yo le doy mi querer al querer y lo doy para toda la vida.
- 
-parte rápida: SOL DO x 8
+ ```
+**Instrumental**
+```
+C G x 8
  
 ```
 **Estribillo**
@@ -66,7 +239,78 @@ hay para toda la vida... G F C
 ```
 <div style="page-break-after: always;"></div>
 
-## 03. Perro viejo (4:31)
+## 03. Perro viejo
+
+**Intro**
+```
+Dm-Gm-A y vuelve a Dm
+```
+**Estrofa**
+```
+Dm               Gm
+Hola amigo, ¿Qué haces por aquí?
+A              Dm     Dm               Gm
+¿vienes de muy lejos?   ¿estás sucio o es que eres así?
+A              Dm     Dm                 Gm
+sólo huesos y pellejos  tengo un trato para ti: 
+A                 Dm
+yo te doy comida y techo 
+Dm              Gm
+si me enseñas a vivir 
+A               Dm
+como vive un perro viejo
+``` 
+**Estribillo**
+```
+C            Dm7
+como vive un perro viejo
+A               Dm
+como perro viejo leerle
+C            Dm7          A  Dm
+como vive un perro viejo
+ 
+``` 
+**Estrofa**
+```
+
+
+¿sabes? yo también sentí que me ataban por el cuello
+
+la quería y la perdí la noche de aquel invierno
+
+no se si ahora soy feliz la verdad que no lo intento;
+
+si me apuras a decir soy igual que un perro viejo
+
+Estribillo
+
+ 
+
+Parte instrumental: Rem-Solm-La-Rem
+
+Solo
+
+ 
+
+Parte 3
+
+ 
+
+bebiendo para olvidar me olvidé que estaba bebiendo
+
+es reir por no llorar no se lo que estoy diciendo...
+
+que bebiendo para olvidar la verdad te estaba mintiendo
+
+es reir por no llorar, no sé lo que estoy diciendo
+
+ 
+
+Estribillo
+ 
+ ```
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -81,14 +325,10 @@ que una despedida en la estación. es igual que nuestra vida
 que cuando todo va bien,  un día tuerces una esquina y te tuerces tu también.
 ``` 
 ``` 
-D        C
-Esa telaraña
-                    G
-que cuelga en mi habitación
-D                C
-no la quito, no hace nada,
-            G
-solo ocupa su rincón.
+D        C                       G
+Esa telaraña que cuelga en mi habitación
+D                C                    G
+no la quito, no hace nada, solo ocupa su rincón.
 ```
 **Estribillo**
 ```
@@ -189,12 +429,153 @@ Am E Am E
 
 <div style="page-break-after: always;"></div>
 
-## 06. Ni negro ni blanco (Con Roberto Iniesta de Extremoduro) (3:45)
-## 07. Sevilla de Bilbao (instrumental) (4:00)
-## 08. Mientras tanto (Versión de Leño). Interpretada por Rosendo Mercado (3:54)
-## 09. Alegría (instrumental) (5:50)
-## 10. A mil kilómetros (3:04)
+# A puerta cerrada (2014)
 
+<div style="page-break-after: always;"></div>
+
+## 01. Rojitas las orejas
+
+**Intro**
+```
+Em C D
+Em C D
+```
+**Estrofa**
+```
+Em           C              D             C 
+pa parabaraba pa parabaraba pa parabaraba pa parabaraba
+Em           C              D             C 
+pa parabaraba pa parabaraba pa parabaraba pa parabaraba
+
+```
+**Instrumental**
+```
+Em C D
+Em C D
+```
+**Estrofa**
+```
+Em              C             D             C
+Que tiene tu veneno, que me quita la vida, solo con un beso
+Em              C             D             C
+Y me lleva a la luna y me ofrece la droga que todo lo cura
+Em              C         D                  C
+Dependencia bendita, invisible cadena que me ata a la vida
+Em              C            D                         C
+Y en momentos oscuros, palmadita en la espalda y ya estoy más seguro
+```
+
+<div style="page-break-after: always;"></div>
+
+**Estribillo**
+```
+Am  Asus4  Am  Asus4 Am  Asus4  Am  Asus2
+C                       D
+Se me ponen si me besas, rojitas las orejas
+```
+**Estrofa**
+```
+Em           C              D             C 
+pa parabaraba pa parabaraba pa parabaraba pa parabaraba
+Em           C              D             C 
+pa parabaraba pa parabaraba pa parabaraba pa parabaraba
+```
+**Estrofa**
+```
+Em              C           D                  C
+Pon carita de pena, que ya sabes que haré todo lo que tu quieras
+Em             C          D                     C
+Ojos de luna llena, tu mirada es de fuego y mi cuerpo de cera
+Em      C          D         C
+Tu eres, mi verso, pluma papel y sentimiento
+Em        C              D          C
+La noche yo y tu la luna. Tu la cerveza y yo la espuma
+```
+**Estribillo**
+```
+Am  Asus4  Am  Asus4 Am  Asus4  Am  Asus2
+C                       D
+Se me ponen si me besas, rojitas las orejas (X2)
+```
+**Final**
+```
+Em      C          Em          D
+Roooooojitas las orejas se me ponen si me besas (x4)
+```
+
+<div style="page-break-after: always;"></div>
+
+## 02. Trozos de cristal
+```
+[Intro]
+Dm7     Gm7      Dm7      Dm7
+Gm7     Gm7      Dm7      Dm7
+A7      Gm7      Dm7      A7
+x2
+
+[Verse 1]
+C                      Bb                    Dm
+Voy a ver si me encuentro dentro de mi piel
+C                  Bb                    Dm
+y comprendo porqué nada puedo entender.
+C                 Bb                 Dm
+Me resulta tan raro todo lo normal,
+C                Bb                   Dm
+me tropiezo, me caigo y vuelvo a tropezar.
+
+[Chorus]
+F
+Creí que me había equivocado,
+A
+luego pensé...
+Dm                      Bb
+que estoy bien aquí en mi nube azul.
+F         A7
+Todo es como yo lo he inventado
+Dm              Bb
+y la realidad trozos de cristal
+F                    A
+que al final hay que pasar descalzo... alzoo!!
+
+[Verse 2]
+C                       Bb            Dm
+Por favor no me empuje, me puedo caer
+C                               Bb             Dm
+Yo en mi nube estoy bien, no me va a convencer
+C                           Bb               Dm
+ya conozco unos cuantos que son como usted
+C                      Bb             Dm
+que me ofrecen veneno cuando tengo sed.
+
+[Chorus]
+F
+Creí que me había equivocado,
+A
+luego pensé...
+Dm                      Bb
+que estoy bien aquí en mi nube azul.
+F         A7
+Todo es como yo lo he inventado
+Dm              Bb
+y la realidad trozos de cristal
+F                    A
+que al final hay que pasar descalzo
+Dm
+   estoy bien aquí en mi nube azul.
+F         A7
+Todo es como yo lo he inventado
+Dm              Bb
+y la realidad trozos de cristal
+F                    A
+que al final hay que pasar descalzo
+
+[Outro]
+Dm7     Gm7      Dm7      Dm7
+Gm7     Gm7      Dm7      Dm7
+A7      Gm7      Dm7      A7
+x2
+
+```
 <div style="page-break-after: always;"></div>
 
 # Huyendo conmigo de mi (2014)
@@ -238,8 +619,7 @@ Quizás podamos ver el sol de vez en cuando
 ```
 Fmaj7  | Fmaj7  | C |  
         F                                                 C
-Puede ser que todo vuelva a ser, cuando es tarde para responder
-Que nunca más, 
+Puede ser que todo vuelva a ser, cuando es tarde para responder, que nunca más, 
           G
 Voy a quedarme en este mar aunque me estrelle entre las rocas
          Am
@@ -247,8 +627,7 @@ Aunque me pise el mismo pie que antes beso mi boca
           F          C           G
 No encontrar el equilibro Y agarrarse
           F        C             G
-Lo contrario de vivir es no arriesgarse
- 
+Lo contrario de vivir es no arriesgarse 
                    F 
 O quien sabe qué
 ```
@@ -304,9 +683,9 @@ Am
 
 ## 02. Lo que sobra de mí
 
-| 🎸  Tonalidad | Tempo  | Compás | Capo |
-| ------------ | ------ | ------ | ---- |
-| Fa menor     | 71 bpm |        | 1    |
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Fa menor  | 142 bpm |        | 1    |
 
 **Intro**
 ```
@@ -404,9 +783,9 @@ Aaaaaaaaaaah!
 
 ## 03. Pájaros disecados
 
-| 🎸  Tonalidad | Tempo  | Compás | Capo |
-| ------------ | ------ | ------ | ---- |
-| Re menor     | 65 bpm |        | 1    |
+| Tonalidad | Tempo  | Compás | Capo |
+| --------- | ------ | ------ | ---- |
+| Re menor  | 65 bpm |        | 1    |
 
 
 **Intro**
@@ -656,6 +1035,9 @@ Nada de nada
         F    G#    C
 Nada de nada
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## 06. El Vencido	
 
 | 🎸  Tonalidad | Tempo | Compás | Capo |
@@ -731,6 +1113,8 @@ G D Em
 G D Em
 G D Em
 ```
+
+<div style="page-break-after: always;"></div>
 
 ## Garabatos
 
@@ -834,6 +1218,9 @@ Fm D# A# C
 Fm D# G# Cm
 Fm D# A# Cm
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## Lo Que Siempre Quise Hacer	
 ```
 [Intro]
@@ -913,7 +1300,13 @@ Es mejor de lo que nunca soñé
 G  C  G  D  C  G  D (2x)
 G  C  G  D  C  G  D  G
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## Umore Ona	
+
+<div style="page-break-after: always;"></div>
+
 ## Después Del Naufragio
 
 
@@ -925,7 +1318,7 @@ C D | G | G D | G
 **Estrofa**
 ``` 
 G                      D           C        D          G
-Desperté y salí de la sombra Me curé cada hueso y empecé
+Desperté y salí de la sombra. Me curé cada hueso y empecé
 G                               D            C             D         G
 A olvidar noche a noche los recuerdos, Los abismos donde nunca volveré
 
@@ -1086,7 +1479,7 @@ Gm B7 F F7
 
 **Estrofa**
 ```
-Bm A Bm A Bm
+Bm | A | A | Bm  x2
 ```
 **Estrofa**
 ``` 
@@ -1197,6 +1590,10 @@ todo lo demás       me hace daño.
 ## Soldadito Marinero
 
 
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Re Mayor  | 140 bpm | 4/4    | No   |
+
 **Estrofa**
 ```
  
@@ -1269,6 +1666,16 @@ Después de un invierno malo
 ```
 
 ## Corazón Oxidado	4:01
+
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Re Mayor  | 175 bpm | 4/4    | No   |
+
+**Intro**
+```
+
+```
+**Estrofa**
 ```
 Bm             A           Em
    Todo se derrumba y es tan fácil
@@ -1421,6 +1828,49 @@ Quiero ser una estrella la más brillante de hoy
 ## Vamonó	3:30
 ## Las Nubes De Tu Pelo	5:09
 ## Whisky Barato	3:18
+
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Sol Mayor | 140 bpm | 4/4    | No   |
+
+**Estrofa**
+```
+             G             G                      G           D
+Cuando ya no sirven las palabras. Cuando se ha rajado la ilusión
+         D                  D                     D           G
+Me emborracho con whisky barato, a ver si me escuece el corazón.
+                G             G                 G            D
+Quiero ser tan duro como el hierro, pero me derrito con tu olor
+         D                     D                    D          G
+Quise hacer un cielo en el infierno,  a ver si acertaba por error.
+```
+**Estribillo**
+```
+C                            G                             D   G
+Ya no queda nada entre tú y yo, Ya no queda nada entre los dos
+C                            G                             D   G
+Ya no queda nada entre tú y yo, Ya no queda nada entre los dos
+```
+**Estrofa**
+```
+              G         G                    G           D
+Cada cual que siga su camino. Cada cual que baile su canción
+      D                     D                    D            G
+Tu destino dices ya está escrito. El mío tengo que escribirlo yo
+           G                          G                          G                 D
+Y de tu cariño, de tu amor, de tu alegría, De tu calor, de vida mía, de te quiero tanto
+      D                 D                    D                   G
+Al final de todo lo que me quedó, es la canción que te estoy cantando.
+
+```
+**Estribillo**
+```
+C                            G                             D   G
+Ya no queda nada entre tú y yo, Ya no queda nada entre los dos
+C                            G                             D   G
+Ya no queda nada entre tú y yo, Ya no queda nada entre los dos
+```
+
 ## Siempre Estoy Soñando	4:16
 
 **Estrofa**
@@ -1444,15 +1894,15 @@ En invierno con el sol... con las nubes en verano.
 ```
 **Estrofa**
 ```
-   C
+   C                                             G 
    La luna era una farola y a ella me abrazé borracho
-                                             G
+                                             C
    y acabé buscando versos en el fondo de mi vaso
    F                          G                   C
    todo lo que no aprendí... nunca se me ha olvidado
-                                                 G
-   No he perdidio la razon ni tampoco la he encontrado
-   F                                           G       C
+      Am         G     C                         G
+   No he perdido la razon ni tampoco la he encontrado
+   F                                  G       C
    Sé que no puedo dormir... porque siempre estoy soñando
    Am                   G   F        G          C
    en invierno con el sol, con las nubes en verano!!
@@ -1461,6 +1911,9 @@ En invierno con el sol... con las nubes en verano.
 ```
 C | C G | G | G C
 F | F C | C G | G C 
+C | C G | G | G C
+F | F | F G | C  
+C Am | G | G | C
 ```
 **Estrofa**
 ```
@@ -1472,13 +1925,13 @@ F | F C | C G | G C
    Sé que no puedo dormir... porque siempre estoy soñando
    Am                   G  F        G          C
    en invierno con el sol, con las nubes en verano!!
-      Am                   G  F        G          C
-   en invierno con el sol, con las nubes en verano!!
+      Am                   Dm            G          
+   en invierno con el sol, con las nubes eeeeeen .....
 ```
 **Estrofa**
 ```
-  C                           G                               C
-  mientras me aguanten los huesos... mientras me aguantes los huesos.
+  C                          G      C                             G
+  mientras me aguanten los huesos... mientras me aguanten los huesos.
  
   (y aqui disminuyes poco a poco el sonido hasta acabar)
 ```
@@ -1503,7 +1956,7 @@ nunca lo que me sacie, siempre quiero, lobo hambriento.
               G       A               Bm
 Todo me queda grande, para no estar contigo
                  G                        A              Bm
-¿sabes? Quisiera amarte siempre un poco mas de lo que te pido.
+¿sabes? Quisiera darte siempre un poco mas de lo que te pido.
 ```
 **Estrofa**
 ```
@@ -1564,23 +2017,17 @@ este mar cada vez guarda mas barcos hundidos
 ```
 **Estrofa**
 ```
-            Em
-No estas conmigo siempre que te canto
-           Bm
-yo hago canciones para estar contigo
+            Em                                     Bm
+No estas conmigo siempre que te canto yo hago canciones para estar contigo
          F#
 porque escribo igual que sangro
         Bm
 porque sangro todo lo que escribo
  
-            Em
-Me he dado cuenta, cada vez que canto,
-          Bm
-que si no canto no se lo que digo
-          F#
-la pena esta bailando con el llanto
-          Bm
-y cuando quiera bailara conmigo
+            Em                                    Bm
+Me he dado cuenta, cada vez que canto, que si no canto no se lo que digo
+          F#                                    Bm
+la pena esta bailando con el llanto. y cuando quiera bailara conmigo
  
          Em
 La vida eterna solo dura un rato
@@ -1794,20 +2241,23 @@ Solos: Am Dm E Am F Am E
 
 
 ```
+<div style="page-break-after: always;"></div>
 
 ## Viene Y Va	4:34
+
+**Estrofa**
 ```
-C
-Que pena estar siempre pegado al suelo
-G
- el cielo queda demasiado lejos
+C                                       G
+Que pena estar siempre pegado al suelo  el cielo queda demasiado lejos
 F              G                C
  tendré que soñar que puedo volar
 C                                    G
 No es nada facil cuando estas perdido buscar la musica entre tanto ruido
 F                          G            C
 no puedo escuchar, no puedo escuchar...
-
+```
+**Pre-estribillo**
+```
 F
 Un dia la suerte entro por mi ventana
 Am
@@ -1815,6 +2265,9 @@ Vino una noche se fue una mañana
 G              F                 C
  Quizas solamente me vino a enseñar
 
+```
+**Estribillo**
+```
            G
 Que viene y va, como las olas con el mar se mueven.
     F      C
@@ -1831,7 +2284,9 @@ G                     F                   Am
  que todos pueden tener y nadie puede guardar.
            G        C
 Que viene y va...
-
+```
+**Estrofa**
+```
 C
 De tanto hacerlo sin parar
 G                       F
@@ -1852,22 +2307,9 @@ Vino una noche se fue una mañana.
 G             F                 C
 Quizas solamente me vino a enseñar.
 
-           G
-Que viene y va, como las olas con el mar se mueven.
-    F      C
-Que viene y va, como la luna como el rayo verde.
-    Am     G
-Que viene y va, como una idea como el estribillo...
-    F      C
-Que viene y va, como un recuerdo como un espejismo.
-    Am     G
-Que viene y va, igual que los problemas por la noche.
-    F      C
-Que viene y va, como un famoso que nadie conoce,
-G                     F                   Am
- que todos pueden tener y nadie puede guardar.
-           G        C
-Que viene y va...
+```
+**REPITE Estribillo**
+```
 
 G C G C 
 G C G C
@@ -1880,29 +2322,21 @@ G              F                 C
  Quizas solamente me vino a enseñar
 
 
-           G
-Que viene y va, como las olas con el mar se mueven.
-    F      C
-Que viene y va, como la luna como el rayo verde.
-    Am     G
-Que viene y va, como una idea como el estribillo...
-    F      C
-Que viene y va, como un recuerdo como un espejismo.
-    Am     G
-Que viene y va, igual que los problemas por la noche.
-    F      C
-Que viene y va, como un famoso que nadie conoce,
-G                     F                   Am
- que todos pueden tener y nadie puede guardar.
-           G        C
-Que viene y va...
+```
+**REPITE Estribillo**
+```
 
 G C G C
 G C G C
 
 ```
-## 214 Sullivan Street	2:14
-## Donde Todo Empieza	5:32
+<div style="page-break-after: always;"></div>
+
+## 214 Sullivan Street	
+
+<div style="page-break-after: always;"></div>
+
+## Donde Todo Empieza	
 
 ```
 Hola esta es la primera trascripción que hago y se
@@ -2068,7 +2502,13 @@ Y repite F-Gm hasta el final.
 Si tiene fallos por favor envienmelos a mi coreo indicado
 arriva.
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## Deltoya	2:25
+
+<div style="page-break-after: always;"></div>
+
 ## Acabo De Llegar	6:15
 
 **Estribillo**
@@ -2138,11 +2578,12 @@ Dejadme nacer que me tengo que inventar para hacerme pez empece por las espinas.
 **Final**
 ```
 F | C | G | Am
-
-
 ```
 
-## No Soy Bo Diddley	3:49
+## No Soy Bob Diddley	3:49
+
+<div style="page-break-after: always;"></div>
+
 ## Medalla De Cartón	5:18
 
 
@@ -2267,14 +2708,79 @@ Em G D C (alargando) ...... Em
 
 ```
 
+<div style="page-break-after: always;"></div>
 
 ## Esta Noche	4:03
+
+Esta noche, vamos a parar
+Y esta noche sabes nena vamos a parar
+Llevo ya seis semanas sin dejar de rockanrollear
+Estoy harto, de oler a sudor
+Estoy harto sabes nena, de oler a sudor
+Solo quiero no hacer nada y sentarme en mi sillón
+
+Todo el dia de aqui para allá
+Sin comer, sin dormir y además sin dejar de fumar
+Yo no sé por qué el rock'and roll me quiere matar
+En el fondo, no quiero cambiar
+En el fondo sabes nena no quiero cambiar
+Porque todo se me olvida cuando empezamos a tocar
+
+<div style="page-break-after: always;"></div>
+
 ## Abrazado A La Tristeza
 
+**Intro**
+```
+Am Am Em Em
+Am Am Em Em
+C D Em Em
+```
+ 
+
+Am                   Am                     Em - Em
+He salido a la calle abrazado a la tristeza
+Am                        Am                         Em - Em
+y no quiero mirar a nadie y me dio vergüenza y pena.
+ 
+
+C                         D                             Em - Em
+Los llantos desconsolados que estrangulan las gargantas.
+C                         D                            Em - Em
+Los ancianos encorvados parece que la tierra les llama.
+Am                         Am                       Em - Em
+La justicia está arrestada por orden de la avaricia.
+Am                     Am                      Em - Em
+El dinero que te salva es el mismo que asesina.
+C                       D                       Em - Em
+No me des más esperanza sé que todo son mentiras.
+C                       D                      Em - Em
+Sacos llenos de agujeros para guardar alegrías.
+
+**Solo**
+```
+Am Am Em Em x2
+C D Em
+
+C                       D                       Em - Em
+Me da pena que se admire el valor en la batalla.
+C                            D                        Em - Em
+Menos mal que con los rifles no se matan las palabras.
+C                            D                        Em - Em
+Menos mal que con los rifles no se matan las palabras.
+```
+
+<div style="page-break-after: always;"></div>
 
 # Antes de que cuente diez (2009)
 
+<div style="page-break-after: always;"></div>
+
 ## 01. Antes de que cuente diez
+
+| Tonalidad  | Tempo   | Compás | Capo |
+| ---------- | ------- | ------ | ---- |
+| Fa # menor | 150 bpm | 4/4    | No   |
 
 
 **Intro**
@@ -2298,22 +2804,14 @@ F#m A | E | F#m A | E
 ```
 **Estrofa**
 ```
-                F#m
-Me perdí en un cruce de palabras
-             A
-me anotaron mal la dirección
-             E
-ya grabé mi nombre en una bala
-             Bm
-ya probé la carne de cañón.
-          F#m
-Ya lo tengo todo controlado
-              A
-y alguien dijo no, no, no, no, no
-                    E
-que ahora viene el viento de otro lado
-             Bm
-déjame el timón
+                F#m                            E
+Me perdí en un cruce de palabras. Me anotaron mal la dirección
+             E                               Bm
+ya grabé mi nombre en una bala, ya probé la carne de cañón.
+          F#m                                A
+Ya lo tengo todo controlado, y alguien dijo no, no, no, no, no
+                    E                             Bm
+e ahora viene el viento de otro lado, déjame el timón
   E
 y alguien dijo no, no, no
  
@@ -2368,6 +2866,8 @@ algo de calor sin tus abrazos ahora sé que nunca volveré.
 ```
 F#m  D  Bm  D    (repite)
 ```
+
+<div style="page-break-after: always;"></div>
 
 ## Me acordé de tí
 
@@ -2446,6 +2946,9 @@ nunca se deja de morir.
 ```   
 D  A  Bm   (repite)
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## Tarde o temprano
 
 **Intro**
@@ -2556,6 +3059,10 @@ cada cuando una vez.     [x2]
 F           C
 Ohhh, ohhohhohh        [repite]
 ```
+
+
+<div style="page-break-after: always;"></div>
+
 ## 14 vidas son dos gatos
 
 capo 3
@@ -2693,6 +3200,8 @@ Ahhahhahh, ahhahhahh
 Ahhahhahh, ahhh, ahhhh
 ```
 
+<div style="page-break-after: always;"></div>
+
 
 ## Todo a cien
 
@@ -2787,6 +3296,9 @@ y por supuesto la luna.
 ```
 D#  A#  F  Gm
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## Los Huesos De Los Besos	4:30
 
 Sin capo
@@ -2901,6 +3413,9 @@ si después te vas.
 Am  Bm  E        (repite)
 
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## Que Me Arrastre El Viento	4:27
 
 
