@@ -40,7 +40,7 @@
   - [02. Me Equivocaría Otra Vez](#02-me-equivocaría-otra-vez)
   - [Como Pollo Sin Cabeza	4:10](#como-pollo-sin-cabeza410)
   - [Sobra La Luz	3:35](#sobra-la-luz335)
-  - [Viene Y Va	4:34](#viene-y-va434)
+  - [Viene Y Va](#viene-y-va)
   - [214 Sullivan Street](#214-sullivan-street)
   - [Donde Todo Empieza](#donde-todo-empieza)
   - [Deltoya	2:25](#deltoya225)
@@ -60,6 +60,9 @@
   - [Qué Necesario Es Rock & Roll	5:28](#qué-necesario-es-rock--roll528)
   - [Conozco Un Lugar	4:03](#conozco-un-lugar403)
   - [La Cuisine De Bernard](#la-cuisine-de-bernard)
+- [Cada vez cadáver](#cada-vez-cadáver)
+  - [Si me ves así](#si-me-ves-así)
+  - [Cielo hermético](#cielo-hermético)
 
 Última modificación: Agosto 2021
 
@@ -582,6 +585,7 @@ x2
 
 ![](img/2021-04-17-17-33-27.png)
 
+<div style="page-break-after: always;"></div>
 <div style="page-break-after: always;"></div>
 
 ## 01. Entre La Espada Y La Pared
@@ -1369,9 +1373,13 @@ Ven rescátame aunque vuelva a suceder
 Bm        Am                    G
 Ven rescátame y abandóname después
 ```
+<div style="page-break-after: always;"></div>
+
 # Lo más lejos a tu lado (2003)
 
 ![](img/2021-04-17-17-34-32.png)
+
+<div style="page-break-after: always;"></div>
 
 ## La Casa Por El Tejado	
 
@@ -1474,6 +1482,9 @@ todo lo que sé me lo enseñó una bruja
 ```
 Gm B7 F F7
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## Un Buen Castigo
 
 
@@ -1586,6 +1597,7 @@ Am      C     G     F
 todo lo demás       me hace daño.
 
 ```
+<div style="page-break-after: always;"></div>
 
 ## Soldadito Marinero
 
@@ -1664,6 +1676,7 @@ Dime por que estás buscando Una lágrima en la arena
 G                      D
 Después de un invierno malo
 ```
+<div style="page-break-after: always;"></div>
 
 ## Corazón Oxidado	4:01
 
@@ -1671,10 +1684,7 @@ Después de un invierno malo
 | --------- | ------- | ------ | ---- |
 | Re Mayor  | 175 bpm | 4/4    | No   |
 
-**Intro**
-```
 
-```
 **Estrofa**
 ```
 Bm             A           Em
@@ -1752,6 +1762,9 @@ mi pobre corazon en pelotas
 mi pobre corazon en fa sostenido
  
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## Quiero Ser Una Estrella	3:21
 
 **Estrofa**
@@ -1824,9 +1837,14 @@ Ay ahí voy, en el camino de la fama ya estoy
 A                       G                      D
 Quiero ser una estrella la más brillante de hoy
 ```
+<div style="page-break-after: always;"></div>
+
 ## Nada Que Decir	3:00
 ## Vamonó	3:30
 ## Las Nubes De Tu Pelo	5:09
+
+<div style="page-break-after: always;"></div>
+
 ## Whisky Barato	3:18
 
 | Tonalidad | Tempo   | Compás | Capo |
@@ -1935,9 +1953,13 @@ C Am | G | G | C
  
   (y aqui disminuyes poco a poco el sonido hasta acabar)
 ```
+<div style="page-break-after: always;"></div>
+
 # Por la boca vive el pez (2006)
 
 ![](img/2021-04-17-17-49-19.png)
+
+<div style="page-break-after: always;"></div>
 
 ## 01. Por La Boca Vive El Pez
 
@@ -2045,6 +2067,8 @@ Em A  Bm G  F# Bm (x2)
 G  F# Bm (x2)
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## 02. Me Equivocaría Otra Vez	
 
 Nota: bajar 3 semitonos para tocar más cómodo
@@ -2126,7 +2150,7 @@ no sé restar... tu mitad a mi corazón,
           Eb  F                Gm
 no se restar tu mitad a mi corazón.
 ```
-
+<div style="page-break-after: always;"></div>
 
 ## Como Pollo Sin Cabeza	4:10
 ```
@@ -2183,6 +2207,8 @@ con su viejo catalejo,
                         A
 que le acerca a las estrellas.
 ```
+
+<div style="page-break-after: always;"></div>
 
 ## Sobra La Luz	3:35
 
@@ -2243,7 +2269,7 @@ Solos: Am Dm E Am F Am E
 ```
 <div style="page-break-after: always;"></div>
 
-## Viene Y Va	4:34
+## Viene Y Va
 
 **Estrofa**
 ```
@@ -2339,8 +2365,7 @@ G C G C
 ## Donde Todo Empieza	
 
 ```
-Hola esta es la primera trascripción que hago y se
-la dedico a la mejor chica que hay, Laura te quiero.
+
 
 Acordes:
    F     Eb    A#   Gm
@@ -2499,8 +2524,7 @@ Por que todo empieza cerca del final.......
 
 Y repite F-Gm hasta el final.
 
-Si tiene fallos por favor envienmelos a mi coreo indicado
-arriva.
+
 ```
 
 <div style="page-break-after: always;"></div>
@@ -2511,9 +2535,13 @@ arriva.
 
 ## Acabo De Llegar	6:15
 
+| Tonalidad | Tempo   | Compás | Capo |
+| --------- | ------- | ------ | ---- |
+| Do Mayor  | 145 bpm | 4/4    | No   |
+
 **Estribillo**
 ```
-F                              C
+       F                              C
 Que te voy a decir si yo acabo de llegar
                    G                          Am
 si esto es como el mar quien conoce alguna esquina
@@ -2579,6 +2607,8 @@ Dejadme nacer que me tengo que inventar para hacerme pez empece por las espinas.
 ```
 F | C | G | Am
 ```
+
+<div style="page-break-after: always;"></div>
 
 ## No Soy Bob Diddley	3:49
 
@@ -2735,9 +2765,9 @@ Porque todo se me olvida cuando empezamos a tocar
 Am Am Em Em
 Am Am Em Em
 C D Em Em
+``` 
+**Verse**
 ```
- 
-
 Am                   Am                     Em - Em
 He salido a la calle abrazado a la tristeza
 Am                        Am                         Em - Em
@@ -2756,7 +2786,7 @@ C                       D                       Em - Em
 No me des más esperanza sé que todo son mentiras.
 C                       D                      Em - Em
 Sacos llenos de agujeros para guardar alegrías.
-
+```
 **Solo**
 ```
 Am Am Em Em x2
@@ -2850,7 +2880,6 @@ como un beso en un portal antes de que cuente 10.
 ```
 **Puente**
 ```
-
            A                                   E
 Y no volveré a sentirme extraño aunque no me llegue a conocer
           F#m                                   D
@@ -2860,8 +2889,7 @@ dejé de volar me hundí en el barro, y entre tanto barro me encontré
            F#m                              D               E  Bm
 algo de calor sin tus abrazos ahora sé que nunca volveré.
 
-
- ```
+```
 **Final**
 ```
 F#m  D  Bm  D    (repite)
@@ -2900,7 +2928,7 @@ D  A  Bm  (x2)
 ```
 **Estribillo**
 ```   
-     G                                A                                    Bm                     
+     G                               A                                  Bm                     
 Todo cambia y sigue igual, y aunque siempre es diferente siempre el mismo mal
      G                           A                                   Bm
 todo cambia y sigue igual, y la vida te dará los besos que tu puedes dar.     
@@ -3501,3 +3529,163 @@ Gm      (hasta el final)
 ## Qué Necesario Es Rock & Roll	5:28
 ## Conozco Un Lugar	4:03
 ## La Cuisine De Bernard
+
+# Cada vez cadáver
+
+<div style="page-break-after: always;"></div>
+
+## Si me ves así
+
+
+| Tonalidad  | Tempo   | Compás | Capo |
+| ---------- | ------- | ------ | ---- |
+| Mi b Mayor | 175 bpm | 4/4    | 3    |
+
+
+```
+C                            G
+Pensé que me daría igual que no necesitaba verte
+F                       G      Am
+Que basta solo con decir Nunca más
+
+G - C
+Maldita sea mi voluntad
+G
+Que sé que no me pertenece
+             F          G                 Am
+Cada vez que necesito de ti Es cuando no estás
+
+            A#                   F               C
+Busco la distancia que hay que poner entre tú y yo
+         Dm            G               C
+Que nos separe para evitar Otra explosión
+                G            F
+Vuelvo a aquel bar Donde te vi
+         C
+Para cantar el pobre de mi
+            G                F
+Ese es mi lugar. Allí soy feliz
+          C
+Qué pensarías si me ves
+         G
+Si me ves así
+C   G
+Oh-Oh
+
+           C
+Nada funcionaba y me dejaba llevar
+                  G
+Siempre que el demonio me obligaba a rezar
+                       F
+Algo que suena y se arrastra
+       G                Am
+Debo llevar colgando ilusión
+
+          F
+Ríe todo lo que puedo no llorar
+             C
+Porque nada acaba, solo vuelve a empezar
+              G
+Y no puedes parar, no te puedes parar
+                  Am
+Tú tranquila que yo volveré a preguntar
+
+
+Solo Saxo:
+
+A# - F - C - C
+Dm - G - C
+
+```
+
+<div style="page-break-after: always;"></div>
+
+## Cielo hermético
+
+| Tonalidad  | Tempo   | Compás | Capo |
+| ---------- | ------- | ------ | ---- |
+| Fa # Mayor | 175 bpm | 4/4    | 4    |
+
+
+IMPORTANTE: EL D7 QUE ESTA EN EL CORO, NO ES COMO EL QUE CONOCEMOS.
+            ES COMO UN DO MAYOR EN EL TERCER TRASTE
+            PERO CON EL DEDO MEÑIQUE EN EL TRASTE 5 DE LA TERCERA CUERDA ;)
+
+```
+
+Am
+
+[Intro] (X2) (esta intro se repite en toda la cancion, como Am(menos en el coro))
+e|-----------0---0---------------------------------|
+B|-------------3---3p1-----------------------------|
+G|----2-0-2------------------2-0-2---2-2--0h2--0h2-|
+D|----2-0-2------------------2-0-2---2-2--0h2--0h2-|
+A|-0----------------------0------------------------|
+E|-------------------------------------------------|
+
+
+Am
+Suelo confundirme con facilidad, lo que siento y lo que escribo,
+Am
+A veces pienso que soy un sueño tan real que casi me siento vivo
+F
+Y te lo juro que no puedo saber, y te lo juro todo estaba oscuro
+
+Am
+Aquellos años pasaron tan rapido
+Am
+A dos gramos por segundo
+
+               F       G      Am
+La vida se nos va, tan rápido
+                   C       G       Am
+No hay tiempo de sentir, el vértigo
+               F         G     Am
+A veces duele mas que un látigo
+                D7      E7     Am
+Vivimos bajo un cielo hermético
+
+
+Am
+Sabes, si quieres que te adore como un santo
+Am                                 F
+Contágiame la risa y curame el espanto
+    E7                    Am
+No quiero recordarlo otra vez
+
+Am
+Tarde, quizas para empezar ya sea tarde
+Am                              D7
+Quiza desde el principio fuera tarde
+  E7                  Am
+Y solo lo supimos después
+
+               F       G      Am
+La vida se nos va, tan rápido
+                   C       G       Am
+No hay tiempo de sentir, el vértigo
+               F         G     Am
+A veces duele mas que un látigo
+                D7      E7     Am
+Vivimos bajo un cielo hermético
+
+                   F   G                 Am 
+Yo te escribí la frase, mas triste de mi vida
+                 F              G         Am
+Tu nunca la recuerdas y es mas triste todavía
+               F    G                 Am
+No dejo de buscarte. No duermo sin pastillas
+                F              G           Am
+Disparo a mis verdades con pistolas de mentira
+
+
+               F       G      Am
+La vida se nos va, tan rápido
+                   C       G       Am
+No hay tiempo de sentir, el vértigo
+               F         G     Am
+A veces duele mas que un látigo
+                D7      E7     Am
+Vivimos bajo un cielo hermético
+                F       E7    Am
+Vivimos bajo un cielo hermético
