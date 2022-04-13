@@ -1,5 +1,6 @@
 
 
+
 # Huyendo conmigo de mi (2014)
 
 ![](img/2022-04-13-09-39-41.png)
@@ -50,10 +51,8 @@ Voy a quedarme en este mar aunque me estrelle entre las rocas
 Aunque me pise el mismo pie que antes beso mi boca
           F          C           G
 No encontrar el equilibro Y agarrarse
-          F        C             G
-Lo contrario de vivir es no arriesgarse 
-                   F 
-O quien sabe qué
+          F        C             G                     F
+Lo contrario de vivir es no arriesgarse O quien sabe qué
 ```
 **Estrofa**
 ``` 
@@ -202,6 +201,10 @@ Aaaaaaah, aaaaaaah, aaaaaaaaaaah!
 G
 Aaaaaaaaaaah!
 ```
+
+<div style="page-break-after: always;"></div>
+
+Ajuste
 
 <div style="page-break-after: always;"></div>
 

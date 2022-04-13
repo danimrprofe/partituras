@@ -1,4 +1,6 @@
+![](img/2022-04-13-12-39-24.png)
 
+<div style="page-break-after: always;"></div>
 
 ## 01. Por La Boca Vive El Pez
 
@@ -45,59 +47,39 @@ Bm G  A Bm (x2)
 ```
 **Estrofa**
 ```
-               G
-Dime porque preguntas
-A               Bm
-cuanto te he echado de menos
-                G
-si en cada cancion que escribo,
-A               Bm
-corazon, eres tu el acento
- 
-                   G
-No quiero estrella errante
-A               Bm
-no quiero ver la aurora
-                 G
-quiero mirar tus ojos
-A               Bm
-del color de la coca-cola
+               G       A                     Bm
+Dime porque preguntas cuanto te he echado de menos
+                G                    A               Bm
+si en cada cancion que escribo, corazon, eres tu el acento 
+                      G     A                  Bm
+No quiero estrella errante, no quiero ver la aurora
+                 G           A              Bm
+quiero mirar tus ojos del color de la coca-cola
 ```
 **Estrofa**
 ```
-             A
-Sabes que soñare
-        G                   Bm
-si no estas, que me despierto contigo
-                 A
-sabes que quiero mas,
-        G                Bm
-no se vivir solo con cinco sentidos.
-     G      A                    Bm      G  A  Bm
+             A             G                       Bm
+Sabes que soñaré, si no estás, que me despierto contigo.
+                 A            G                     Bm
+sabes que quiero mas, no se vivir solo con cinco sentidos.
+     G         A                        Bm      G  A  Bm
 este mar cada vez guarda mas barcos hundidos
 ```
 **Estrofa**
 ```
             Em                                     Bm
 No estas conmigo siempre que te canto yo hago canciones para estar contigo
-         F#
-porque escribo igual que sangro
-        Bm
-porque sangro todo lo que escribo
- 
+         F#                             Bm
+porque escribo igual que sangro. porque sangro todo lo que escribo 
             Em                                    Bm
 Me he dado cuenta, cada vez que canto, que si no canto no se lo que digo
           F#                                    Bm
 la pena esta bailando con el llanto. y cuando quiera bailara conmigo
  
-         Em
-La vida eterna solo dura un rato
-            Bm
-y es lo que tengo para estar contigo
-       F#
-para decirte lo que nunca canto
-        Bm
-para cantarte lo que nunca digo
+         Em                                   Bm
+La vida eterna solo dura un rato y es lo que tengo para estar contigo
+       F#                               Bm
+para decirte lo que nunca canto para cantarte lo que nunca digo
 ```
 **Estrofa**
 ```

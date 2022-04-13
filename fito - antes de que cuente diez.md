@@ -1,5 +1,9 @@
 
 
+![](img/2022-04-13-12-27-20.png)
+
+<div style="page-break-after: always;"></div>
+
 ## 01. Antes de que cuente diez
 
 | Tonalidad  | Tempo   | Compás | Capo |
@@ -190,28 +194,18 @@ yo supe que era mi lugar.
 ```
 **Estrofa**
 ``` 
-     Am
-Y es bueno saber
-                          F
-que igual que dinero al cajón
-    Am
-las damas que ves
-   F       G           C
-te llevan allá a su rincón.
+     Am                                     F
+Y es bueno saber que igual que dinero al cajón
+    Am                F       G           C
+las damas que ves te llevan allá a su rincón.
  
- 
-           F
-Tarde o temprano
-                C
-sé que voy a volver
-          F
-de vez en cuando
-                C
-cada cuando una vez.
-        G
-Sin esperarlo
-           F
-tarde o temprano
+
+           F                      C
+Tarde o temprano sé que voy a volver
+           F                      C
+de vez en cuando cada cuando una vez.
+        G                  F
+Sin esperarlo tarde o temprano
 G               Am  G  F  C
 sé que voy a volver.
  
@@ -242,18 +236,12 @@ F        G        C
 con tu dinero su amor.
  
  
-           F
-Tarde o temprano
-                C
-sé que voy a volver
-          F
-de vez en cuando
-                C
-cada cuando una vez.
-        G
-Sin esperarlo
-           F
-tarde o temprano
+           F                      C
+Tarde o temprano sé que voy a volver
+           F                      C
+de vez en cuando cada cuando una vez.
+        G                  F
+Sin esperarlo tarde o temprano
 G               Am
 sé que voy a volver.
  
@@ -265,15 +253,10 @@ C  G  Am  F  G
 ```
 **Estrofa**
 ``` 
- 
-           F
-Tarde o temprano
-                C
-sé que voy a volver
-          F
-de vez en cuando
-                C
-cada cuando una vez.     [x2]
+           F                      C
+Tarde o temprano sé que voy a volver
+           F                      C
+de vez en cuando cada cuando una vez.  [x2]
  
 ```
 **Estrofa**
