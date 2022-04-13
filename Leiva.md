@@ -1,5 +1,3 @@
- 
-<div style="page-break-after: always;"></div>
 
 # Introducción
 
@@ -898,6 +896,8 @@ de los que aman sin poder amar.
 ```
 
 <div style="page-break-after: always;"></div>
+---
+<div style="page-break-after: always;"></div>
 
 # Pólvora (2014)
 
@@ -909,8 +909,11 @@ de los que aman sin poder amar.
 - Producido por Carlos Raya y Leiva
 - Discográfica: Sony music
 
+<div style="page-break-after: always;"></div>
+
 Álbum completo en youtube:
 https://music.youtube.com/playlist?list=OLAK5uy_nlBm2fYNiTi2kGleNfuXrnmHF5HdT2XbQ&feature=gws_kp_album&feature=gws_kp_artist
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1642,6 +1645,9 @@ Am                  F         G               F    G
 C F C F G
 F G C
 ```
+
+<div style="page-break-after: always;"></div>
+ajuste
 
 <div style="page-break-after: always;"></div>
 
@@ -3018,6 +3024,8 @@ tu medicina
 
 ## 11 San Sebastian-Madrid	
 ## 12 Palermo No Es Hollywood
+
+<div style="page-break-after: always;"></div>
 
 #  Nuclear (2019)
 
@@ -4703,6 +4711,8 @@ Como lo tienes tu, como lo tienes tu, como quisiera tenerlo tan claro
 Como lo tienes tuuuuuuuuuuu
 ```
 
+<div style="page-break-after: always;"></div>
+
 ##  Estrella Polar
 
 Canción original del grupo **Pereza**.
@@ -4983,6 +4993,101 @@ bajo a ver si veo a alguien de verdad.
 de verdad..     (x4)
 B 
 ``` 
+
+<div style="page-break-after: always;"></div>
+
+## Histéricos
+
+
+```
+  C                             F
+Histéricos de felicidad, nos adoraba la cámara
+       Am                       G
+Publicabas toda nuestra intensidad
+                F           Em
+Te llovían las marcas. Era tan "Black Mirror"
+      G                      C
+Yo sabía que no ibas a aguantar
+ 
+      C                             F
+Yonqui de la velocidad. Se te afilaban las garras
+          Am                     G
+Cuando estábamos a punto de avanzar
+             F           Em
+Me moría de ganas De clavarte un cuchillo
+          G                C  G
+Y abrazarte a todo lo que da
+ 
+ 
+ [Chorus]
+           Am                 F
+No me das miedo. Lánzame hacia ti
+           C   Em   G
+Dame de lleno
+             Am            F
+Haz el esfuerzo. Déjalo fluir
+            C   G   G7
+Hazte con ello 
+ 
+ 
+[Verse]
+   C                                 F
+Esclavos de la fragilidad. Se nos ahogaba la máquina
+          Am                       G
+Cuando había algún ostión de realidad
+                F        Em
+Me arañabas la cara. Empapados en vino
+      G                     C    G
+Yo sabía que no ibas a aguantar
+ 
+ 
+ [Chorus]
+           Am                 F
+No me das miedo. Lánzame hacia ti
+           C   Em   G
+Dame de lleno
+             Am            F
+Haz el esfuerzo. Déjalo fluir
+            C   G   G7
+Hazte con ello
+ 
+ 
+[Verse]
+        G
+Y ya verás cómo se encienden
+         Am
+Algunas luces del puerto
+     F
+A nuestro paso suceden
+                 C
+Extraños movimientos
+                 Dm
+Que tú no puedes ver
+              Em
+Estamos totalmente hipnotizados
+       G
+Otra vez
+ 
+ 
+[Instrumental]
+G7   F   G
+ 
+ 
+ [Chorus]
+            Am
+No me das miedo
+               F
+Lánzame hacia ti
+           C   Em   G
+Dame de lleno
+             Am
+Haz el esfuerzo
+         F
+Déjalo fluir
+            C   G   G7
+Hazte con ello
+
+```
 
 **Estilos**
 
