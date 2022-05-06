@@ -4998,7 +4998,6 @@ B
 
 ## Histéricos
 
-
 ```
   C                             F
 Histéricos de felicidad, nos adoraba la cámara
@@ -5053,20 +5052,14 @@ Hazte con ello
  
  
 [Verse]
-        G
-Y ya verás cómo se encienden
-         Am
-Algunas luces del puerto
-     F
-A nuestro paso suceden
-                 C
-Extraños movimientos
+        G                            Am  
+Y ya verás cómo se encienden algunas luces del puerto
+     F                    C
+A nuestro paso suceden extraños movimientos
                  Dm
 Que tú no puedes ver
-              Em
-Estamos totalmente hipnotizados
-       G
-Otra vez
+              Em                     G
+Estamos totalmente hipnotizados Otra vez
  
  
 [Instrumental]
@@ -5074,20 +5067,724 @@ G7   F   G
  
  
  [Chorus]
-            Am
-No me das miedo
-               F
-Lánzame hacia ti
+           Am                 F
+No me das miedo. Lánzame hacia ti
            C   Em   G
 Dame de lleno
-             Am
-Haz el esfuerzo
-         F
-Déjalo fluir
+             Am            F
+Haz el esfuerzo. Déjalo fluir
             C   G   G7
 Hazte con ello
 
 ```
+
+<div style="page-break-after: always;"></div>
+
+## Amelie
+
+```
+[Verse 1]
+
+Am              F                      C
+Yo sólo busco ooh oooh que me tiemblen las piernas
+G         Am  E7          Am
+que seas de esas que nadie recomienda
+Am              F                      C
+Yo sólo busco ooh oooh que nadie lo entienda
+G                     Am
+que nos rajen por la espalda al pasar
+E7           Am
+y nos siga la prensa
+
+
+[Pre-chorus]
+
+F          C           G            Am
+Encendernos con las manos fue más de la cuenta
+F          C          G
+y yo que creía que estaba
+                        G7
+... que estaba de vueltaaaaah
+
+
+[Chorus]
+
+F                    C    E7          Am
+Aviones a punto de salir, pasiones de gitanos
+F                     C
+pequeña sonrisa de Amelie
+E7           Am
+me tienes calado
+
+
+[Verse 2]
+
+Am                F                      C
+Yo sólo busco ooh oooh que me tiemblen las piernas
+G         Am     E7           Am
+que seas de esas que nadie recomienda
+Am                F                     C
+Yo sólo busco ooh oooh que nadie lo entienda
+     G                    Am
+Pero cuando este roto a escuchar
+E7           Am
+Que merece la pena
+
+
+[Pre-chorus]
+
+F           C           G             Am
+Encendernos con las manos fue más de la cuenta
+F                     G
+y yo que creía que estaba
+                         G7
+... que estaba de vueltaaaah
+
+
+[Chorus]
+
+F                     C     E7           Am
+Aviones a punto de salir, pasiones de gitanos
+F                     C
+pequeña sonrisa de Amelie
+E7           Am
+me tienes ganado
+
+F                     C     E7           Am
+Canciones a punto de parir, nacieron un verano
+F                     C
+pequeña sonrisa de Amelie
+E7         Am
+me tienes cagado
+
+
+[Instrumental]
+
+C F C E7
+Am E7 Am E7
+
+
+[Chorus]
+
+F                     C     E7           Am
+Aviones a punto de salir, pasiones de gitanos
+F                     C
+pequeña sonrisa de Amelie
+E7           Am
+me tienes ganado
+F                     C
+pequeña sonrisa de Amelie
+E7           Am
+```
+
+<div style="page-break-after: always;"></div>
+
+## Aproximación
+
+
+```
+[Verse]
+  C     G  C       F          C
+Somos dos, para que queremos más.
+     G   Em      F
+Pensamos antes de matarnos.
+ C   G  C      F               C
+Íbamos hacia el cielo y al compás.
+       G   Em     F             Fm
+Sabe Dios, que pudo soltarnos...o no soltarnos.
+
+[Pre-chorus]
+Am  Em         F    C      Dm
+Ardió el colchón donde tu y yo
+                 G
+mojamos nuestros flacos, huesos, secos
+
+tiritando de un amor tan prieto
+     Am      Em               F
+y dulce como no pensé que habría
+ D              G
+algo tan dulce como tu.
+
+[Chorus]
+           F
+Y esto es solo una aproximación,
+ Em
+solo una aproximación,
+ Dm          G       C
+solo una aproximación.
+           F
+Y esto es solo una aproximación,
+ Em
+solo una aproximación,
+ Dm          G       C
+solo una aproximación.
+
+[Verse]
+ C      G  C      F          C
+Quiérenos, al destino quiérenos.
+     G   Em     F
+Déjanos antes de acostarnos.
+ C    G   C       F        C
+Júntanos, al destino júntanos.
+      G  Em      F
+Otra vez antes de matarnos.
+
+[Pre-chorus]
+Am  Em         F    C      Dm
+Ardió el colchón donde tu y yo
+                 G
+empapamos nuestros flacos, huesos, secos
+
+tiritando de un amor tan prieto
+     Am      Em               F
+y dulce como no pensé que habría
+  D              G
+algo tan dulce como tu.
+
+[Chorus]
+           F
+Y esto es solo una aproximación,
+ Em
+solo una aproximación,
+ Dm          G       C
+solo una aproximación.
+           F
+Y esto es solo una aproximación,
+ Em
+solo una aproximación,
+ Dm          G       C
+solo una aproximación.
+
+[Solo]
+Am Em F Em 
+F G 
+Am Em F Em 
+G
+
+[Chorus]
+           F
+Y esto es solo una aproximación,
+ Em
+solo una aproximación,
+ Dm          G       C
+solo una aproximación.
+           F
+Y esto es solo una aproximación,
+ Em
+solo una aproximación,
+ Dm          G       C
+solo una aproximación.
+
+[Outro]
+C G C F
+C G Am F
+C G C F
+C G Am F
+C G C F
+C G Am F
+```
+
+<div style="page-break-after: always;"></div>
+
+## Pienso en aquella tarde
+
+```
+[Intro]
+e|----------3---------------------|
+B|----3-5-3-----------------------|
+G|-/4----------0--2/4\2--0------0-|
+D|-------------------------0h2----|
+A|--------------------------------|
+E|--------------------------------|
+
+[Estrofa]
+G               Cadd9                    Em7
+Yo que soy un animal, que no entiendo de nada
+            D   Cadd9  G
+que todo me sa - le   mal.
+G           Cadd9              Em7
+Te tuve cien días dentro de mi cama
+               D   Cadd9   G
+y no te supe apro - ve - char.
+
+G      Cadd9                Em7
+Ando perdido pensando que estás sola
+              D           G
+y pude haber sido tu abrigo.
+G           Cadd9                Em7
+Cuelgo de un hilo, rebaño las sobras
+               D         D
+que aún quedan de tu cariño.
+
+[Estrofa]
+Bm                    Em7
+Yo, que me quiero aliviar
+                 Cadd9            G  D/F#  Em7
+escribiéndote un tema, diciéndote la ver - dad.
+
+Em7       Bm               Cadd9
+Cumplo condena por ese mal día
+          D               D
+haberte dejao marchar...
+
+[Estribillo]
+G                    Cadd9       Em7               D
+Yo pienso en aquella tarde cuando me arrepentí de todo.
+G               Cadd9             Em7                 D
+Daría, todo lo daría por estar contigo y no sentirme solo...
+
+[Intro]
+e|----------3---------------------|
+B|----3-5-3-----------------------|
+G|-/4----------0--2/4\2--0------0-|
+D|-------------------------0h2----|
+A|--------------------------------|
+E|--------------------------------|
+
+[Estrofa]
+   G                  Cadd9
+A ti, que te supo tan mal
+                Em7             D  Cadd9  G
+que yo me encariñara con esa faci – li - dad,
+
+G            Cadd9
+y me emborrachara los días
+    Em7               D   Cadd9  G
+que tú no tenías que tra – ba - jar...
+
+G          Cadd9
+Era un domingo,
+            Em7                  D              G
+llegaba después de tres días comiéndome el mundo.
+
+G        Cadd9            Em7
+Todo se acaba, dijiste mirándome,
+             D         Cadd9   D
+que ya no estábamos juntos...
+
+[Estribillo]
+G                    Cadd9       Em7               D
+Yo pienso en aquella tarde cuando me arrepentí de todo.
+G               Cadd9             Em7                 D
+Daría, todo lo daría por estar contigo y no sentirme solo...
+
+[Solo]
+e|-------------------------------------------------------|
+B|-3----3h5-5-3-3----------------------------------------|
+G|--0-0-----------0--0-0-2-4-4-4-4-4-5-4-7-5-4-4h5-4-2-0-|
+D|-------------------------------------------------------|
+A|-------------------------------------------------------|
+E|-------------------------------------------------------|
+
+e|-3-3-3-3-2-0-0h2-0-------------------------------------|
+B|-------------------3-3h5-3-1-1h3-1-0-------------------|
+G|-------------------------------------0h2-0----0----0---|
+D|-------------------------------------------0h2--0h2----|
+A|-------------------------------------------------------|
+E|-------------------------------------------------------|
+
+e|---------------------------------------------------------------------------|
+B|-12-12-12-12-12-12-12-12--13-13-13-13-13-13-13-13--15-15-15-15-15-15-15-15-|
+G|-12-12-12-12-12-12-12-12--12-12-12-12-12-12-12-12--12-12-12-12-12-12-12-12-|
+D|-12-12-12-12-12-12-12-12--12-12-12-12-12-12-12-12--12-12-12-12-12-12-12-12-|
+A|---------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|
+
+e|---------------------------------------3------------------------------3---------------------|
+B|----15-13-12-12h13-12------------3-5-3--------------------------3-5-3-----------------------|
+G|---x------------------14-12---/4----------0--2/4\2--0------0-/4----------0--2/4\2--0------0-|
+D|--x---------------------------------------------------0h2----------------------------0h2----|
+A|-x------------------------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------------------------|
+
+[Estribillo a redondas]
+G                    Cadd9       Em7               D
+Yo pienso en aquella tarde cuando me arrepentí de todo.
+G               Cadd9             Em7                 D
+Daría, todo lo daría por estar contigo y no sentirme solo...
+
+[Estribillo]
+G                    Cadd9       Em7               D
+Yo pienso en aquella tarde cuando me arrepentí de todo.
+G                    Cadd9       Em7               D   G
+Yo pienso en aquella tarde cuando me arrepentí de todo.
+
+```
+<div style="page-break-after: always;"></div>
+
+vacio
+<div style="page-break-after: always;"></div>
+
+## Princesas
+
+```
+[Intro]
+G
+ 
+ 
+[Verso 1]
+        G
+Sigo buscando una sonrisa de repente en un bar,
+G                                        D/F#
+una calada de algo que me pueda colocar,
+       Em                     C                 G
+una película que consiga hacerme llorar, ahá...
+G
+Cambiar un “no me creo nada” por “te quiero, chaval”,
+G                                                    D/F#
+cualquier excusa, una chorrada, es buena para brindar
+          Em                    C                       G
+soltar en una carcajada todo el aire y después respirar.
+ 
+ 
+[Pre-estribillo]
+         C                    D      Em
+Sentirme como una colilla entre unos labios al fumar,
+    C                  D          Em
+colgarme de cualquiera que le guste trasnochar,
+          D
+qué inoportuno fue decirte “me tengo que largar”,
+         C                D                     G
+pero qué bien estoy ahora, no quiero volver a hablar
+ 
+ 
+[Estribillo]
+       C     D      G         Am    C     G
+De princesas que buscan tipos que coleccionar
+      C    D     Em         F               C    G
+a los pies de su cama, eres algo que he olvidado ya
+ 
+ 
+[Verso 2]
+G
+Ando silbando me paro con la gente a charlar,
+G                                           D/F#
+me tomo algo, sonrío y me lo vuelvo a tomar,
+        Em    C                     G
+escucho música y me pongo a bailar.
+G
+Sigo flipando cuando veo mi cara en el As,
+G                                          D/F#
+últimamente las cosas cambian cada vez más,
+        Em         C                       G
+a veces pienso que algo malo viene detrás.
+ 
+ 
+[Pre-estribillo]
+          C                    D      Em
+Me siento como una colilla entre unos labios al fumar,
+    C                   D      Em
+Me cuelgo de cualquiera que le guste trasnochar,
+          D
+qué inoportuno fue decirte “me tengo que largar”,
+         C                D                     G
+pero qué bien estoy ahora, no quiero volver a hablar
+ 
+ 
+[Estribillo]
+       C     D      G         Am    C     G
+de princesas que buscan tipos que coleccionar
+      C    D     Em         F               C        G
+a los pies de su cama, eres algo, no quiero volver a hablar
+       C     D       G        Am    C     G
+de princesas que buscan tipos que coleccionar
+      C     D    Em         F               C    G
+a los pies de su cama, eres algo que he olvidado ya
+ 
+ 
+[Verso 3]
+        G
+Sigo buscando una sonrisa de repente en un bar,
+G                                       D/F#
+una calada de algo que me pueda colocar,
+       Em                     C         G
+una película que consiga hacerme llorar…
+ 
+ 
+[Estribillo]
+       C     D       G        Am    C     G
+de princesas que buscan tipos que coleccionar
+      C     D    Em         F               C        G
+a los pies de su cama, eres algo, no quiero volver a hablar
+       C     D      G         Am    C     G
+de princesas que buscan tipos que coleccionar
+      C    D     Em         F               C    G
+a los pies de su cama, eres algo que he olvidado ya
+ 
+ 
+[Outro]
+G
+```
+
+<div style="page-break-after: always;"></div>
+
+## Si quieres bailamos
+```
+
+
+   A                      E                     F#m                 F#m
+
+||---------------------|----------------5----|-5/7/5--5----------|
+||--2-2-0--0-0-0-2/5---|-5-2--2-5/7--7-------|----------7-5------|
+||---------------------|---------------------|---------------6-4-|
+||---------------------|---------------------|-------------------|
+||---------------------|---------------------|-------------------|
+||---------------------|---------------------|-------------------|
+
+
+A                      E                           F#m
+Estaba pensando en escribirte una canción y no me sale
+A                 E                 F#m
+estaba yo solo sentado tratando de entonar mmmm
+A                           E                  F#m
+no sé que contarte que no me hayas dicho tú primero
+A                    E               F#m
+tiro el cenicero y me sale todo del revés.
+
+F#m    E         D     A           Bm     D
+Ya no sé qué contarte, que no te haya contado ya
+F#m    E         D     A          Bm     D
+ya no sé qué besarte, que no te haya besado ya
+
+D                        E                     F#m
+"Si quieres bailamos me pongo los zapatos y me llevas,
+y me llevas contigo,
+D                      E               A
+por ese mundo oscuro y desconocido del compás
+E                     F#m
+olvidarnos del tiempo perdido despertar y ver que aún estás"
+
+(repite intro)
+
+A                      E                     F#m
+¿Sabes? No es lo mío hacer de florero por la vida
+A                    E                      F#m
+pues no es mi parada en la que tengo que bajar
+A                        E                      F#m
+nos quedan dos paradas hagamos el amor en un instante
+A                        E                      F#m
+hacer que nos queremos enamorarnos dentro del vagón
+
+F#m    E         D     A           Bm     D
+Ya no sé qué contarte, que no te haya contado ya
+F#m    E         D     A          Bm     D
+ya no sé qué besarte, que no te haya besado ya
+
+D                        E                     F#m
+"Si quieres bailamos me pongo los zapatos y me llevas,
+y me llevas contigo,
+D                      E               A
+por ese mundo oscuro y desconocido del compás
+E                     F#m
+olvidarnos del tiempo perdido despertar y ver que aún estás"
+
+A        E      F#m
+Donde me kieras llevar  x3
+```
+
+<div style="page-break-after: always;"></div>
+
+## Todo
+```
+Intro: Cmaj7 Fmaj7
+ 
+Cmaj7                        Fmaj7
+Vuela, vuela, vuela conmigo, cuélate dentro dime “chico”,
+Cmaj7                      Fmaj7
+dame calor, sácame brillo, hazme el amor en nuestro nido.
+ Dm7  G                           Dm7  G
+        No quiero nada, nada más,        me sobra respirar.
+ 
+Cmaj7                        Fmaj7
+Sube, sube, sube conmigo, déjalo todo, yo te cuido,
+Cmaj7                         Fmaj7
+ven a Madrid, ten un descuido, haz cosas mientras yo te miro. 
+Dm7                G
+  No tengo miedos, no tengo dudas, lo tengo muy claro ya.
+Dm7  G         G7
+       Todo es tan de verdad
+       
+Em7                          Am7
+que me acojono cuando pienso en tus pequeñas dudas, y eso
+F                            G
+que si no te tengo reviento, quiero hacértelo muy lento.
+
+ 
+Am         F            C          E
+Todo, todo, todo, todo, yo quiero contigo todo.
+Am               F          C              E
+Poco, muy poco a poco, poco, que venga la magia y estemos
+Am               F          C             E
+solos, solos, solos, solos, yo quiero contigo sólo,
+
+Dm7                              Em7
+solos rozándonos todo, sudando, cachondos,
+                                 F
+volviéndonos locos, teniendo cachorros,
+                               G
+clavarnos los ojos, bebernos a morro.
+ 
+Cmaj7                           Fmaj7
+Sueña, sueña, sueña conmigo, escríbeme luego un mensajito,
+Cmja7                       Fmaj7
+dime hacia donde yo te sigo, si tu te tiras yo me tiro.
+ 
+Dm7                G
+    No tengo miedos, no tengo dudas, lo tengo muy claro ya.
+Dm7  G
+    Todo es tan de verdad
+ 
+Em7                          Am7
+que me acojono cuando pienso en tus pequeñas dudas, y eso
+F                            G
+que si no te tengo reviento, quiero hacértelo muy lento.
+
+
+Am         F            C          E
+Todo, todo, todo, todo, yo quiero contigo todo.
+Am               F          C              E
+Poco, muy poco a poco, poco, que venga la magia y estemos
+Am               F          C             E
+solos, solos, solos, solos, yo quiero contigo sólo,
+
+Dm7                             Em7
+solos rozándonos todo, sudando, cachondos,
+                                 Fm
+volviéndonos locos, teniendo cachorros,
+                               D7\F#
+clavarnos los ojos, bebernos a morro.
+ 
+G#                       Cm
+Dame, que aún te queda, dame un poco más,
+         D#          Bb
+dame que lo quiero todo.
+           Cm          G#        D#       Bb
+Siento que cada vez más, tengo celos de todo.
+ 
+G#                       Cm
+Dame, que aún te llega y todo llegará,
+       D#       Bb
+dámelo sólo a mi solo.
+           Cm    G#         E
+Siento que cada vez quiero más.
+ 
+Am         F            C          E
+Todo, todo, todo, todo, yo quiero contigo todo.
+Am               F          C              E
+Poco, muy poco a poco, poco, que venga la magia y estemos
+Am               F          C             E
+solos, solos, solos, solos, yo quiero contigo sólo,
+Dm7                              Em7
+solos rozándonos todo, sudando, cachondos,
+                                 F
+volviéndonos locos, teniendo cachorros,
+                               G
+clavarnos los ojos, bebernos a morro.
+ 
+Cmaj7                       Fmaj7
+Vuela, vuela, vuela conmigo, cuélate dentro dime “chico”,
+Cmaj7                      Fmaj7
+dame calor, sácame brillo, hazme el amor en nuestro nido.
+```
+
+<div style="page-break-after: always;"></div>
+
+## Violento amor
+
+```
+[Verse 1]
+G         D   C
+   Violento amor,
+        G     D   C
+semanas rotas en dos,
+G          D  C
+   cielo y sudor,
+   G       D        C
+trocito de rock and roll.
+G            D  C
+   Fuiste un putón,
+     G     D C
+pero eras my love,
+G        D  C
+   de lo mejor,
+      Am        D
+que había visto ooh.
+
+[Pre-chorus 1]
+G
+Abrió las piernas,
+D
+fuego en mis venas,
+Em
+es una estrella,
+  Em        C              D    G D D
+¿Qué has venido a hacer aquí?.
+
+[Chorus]
+   Em   C     G   D
+No sigo tu velocidad
+     Em     D/F#      G         D
+siempre me quedo atrá aaha aaaha.
+
+[Instrumental]
+G D C
+G D C
+
+[Verse 2]
+G        D   C
+  Violento amor
+            G       D   C
+champagne, anfetas y adiós
+G           D  C
+  fue de un tirón
+     Am           D
+no estaba listo ooh.
+
+[Pre-chorus 2]
+G
+Cerró las piernas,
+D
+suenan sirenas,
+Em
+era una estrella,
+Em        C         D     G D D
+ya se largaba de aquí.
+
+[Chorus]
+   Em   C     G   D
+No sigo tu velocidad
+     Em    A5       G         D
+siempre me quedo atrá aaha aaahas.
+   Em    C     G        D
+A veces voy a ver si estás
+     Em    D/F#     G             D
+siempre me da por aaah aaaha aahaahi.
+
+[Bridge]
+Am                C
+    Apretó el detonador,
+  G          D
+volamos alto ooh
+Am                  C
+    se coló en mi habitación,
+ Em       D    C         Cm
+amor de verano     oooh
+
+[Instrumental]
+G
+Em C D G D
+
+[Chorus]
+  Em     C     G   D
+Estoy bastante regular
+   Em        D/F#   G    D
+me duermo en el portal,
+  Em     C     G        D
+A veces voy a ver si estás
+    Em     C      G             D
+siempre me da por aaah aaaha aahaahi.
+```
+
 
 **Estilos**
 
