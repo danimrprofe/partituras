@@ -32,7 +32,7 @@ F#m A | E | F#m A | E
 ```
 **Estrofa**
 ```
-                F#m                            E
+                F#m                            A
 Me perdí en un cruce de palabras. Me anotaron mal la dirección
              E                               Bm
 ya grabé mi nombre en una bala, ya probé la carne de cañón.
@@ -662,8 +662,7 @@ de las estrellas al brillar.
 **Estrofa**
 ``` 
 D              D#
-Algo tiene ese bar
- 
+Algo tiene ese bar 
                    A#
 que está cerca de aquí
                    D

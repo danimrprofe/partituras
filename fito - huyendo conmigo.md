@@ -1,5 +1,15 @@
 
-
+- [Huyendo conmigo de mi (2014)](#huyendo-conmigo-de-mi-2014)
+  - [01. Entre La Espada Y La Pared](#01-entre-la-espada-y-la-pared)
+  - [02. Lo que sobra de mí](#02-lo-que-sobra-de-mí)
+  - [03. Pájaros disecados](#03-pájaros-disecados)
+  - [04. Nos Ocupamos Del Mar](#04-nos-ocupamos-del-mar)
+  - [05. Nada De Nada](#05-nada-de-nada)
+  - [06. El Vencido](#06-el-vencido)
+  - [Garabatos](#garabatos)
+  - [Lo Que Siempre Quise Hacer](#lo-que-siempre-quise-hacer)
+  - [Umore Ona](#umore-ona)
+  - [Después Del Naufragio](#después-del-naufragio)
 
 # Huyendo conmigo de mi (2014)
 
@@ -730,11 +740,11 @@ G  C  G  D  C  G  D  G
 
 <div style="page-break-after: always;"></div>
 
-## Umore Ona	
+## 9. Umore Ona	
 
 <div style="page-break-after: always;"></div>
 
-## Después Del Naufragio
+## 10. Después Del Naufragio
 
 
 **Intro**
@@ -744,17 +754,17 @@ C D | G | G D | G
 ```
 **Estrofa**
 ``` 
-G                      D           C        D          G
+      G       G/B       D           C        D          G
 Desperté y salí de la sombra. Me curé cada hueso y empecé
-G                               D            C             D         G
+       G          G/B           D            C            D         G
 A olvidar noche a noche los recuerdos, Los abismos donde nunca volveré
 
  
    Bm              Am          G
 Y escuchando en oscuros callejones
-       F                C              G
+       F               C              G
 Las canciones que se pierden en la cara b
- F                   C             G
+ F                   D           G
 Fui mirando y revolviendo los cajones
       D
 Y desperté...
