@@ -20,8 +20,7 @@ Seré el ultimo en salir
 Déjame acabar este tatuaje asi
  
 A                      Bm
-Quemame solo quiero arder y arder
- 
+Quemame solo quiero arder y arde 
                 D                          A
 Luciérnaga al anochecer en un concierto salvaje
 A                         Bm
