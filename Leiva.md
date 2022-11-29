@@ -64,7 +64,15 @@
   - [Lady Madrid](#lady-madrid)
 - [Sueltas](#sueltas)
   - [La estación eterna](#la-estación-eterna)
+- [Cuando te muerdes el labio (2022)](#cuando-te-muerdes-el-labio-2022)
   - [Histéricos](#histéricos)
+  - [Amelie](#amelie)
+  - [Aproximación](#aproximación)
+  - [Pienso en aquella tarde](#pienso-en-aquella-tarde)
+  - [Princesas](#princesas)
+  - [Si quieres bailamos](#si-quieres-bailamos)
+  - [Todo](#todo)
+  - [Violento amor](#violento-amor)
 # Introducción
 
 En este documento resumo partituras de **Leiva** de diferentes discos, para tenerlos todos en un mismo lugar y poderlos consultar Ni las partituras son 100% correctas y las voy corrigiendo y completando sobre la marcha.
