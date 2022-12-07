@@ -1,6 +1,4 @@
-![](img/2022-04-13-12-39-24.png)
-
-<div style="page-break-after: always;"></div>
+# Por la boca vive el pez
 
 ## 01. Por La Boca Vive El Pez
 

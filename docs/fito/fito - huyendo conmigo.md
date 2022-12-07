@@ -1,23 +1,4 @@
-
-- [Huyendo conmigo de mi (2014)](#huyendo-conmigo-de-mi-2014)
-  - [01. Entre La Espada Y La Pared](#01-entre-la-espada-y-la-pared)
-  - [02. Lo que sobra de mí](#02-lo-que-sobra-de-mí)
-  - [03. Pájaros disecados](#03-pájaros-disecados)
-  - [04. Nos Ocupamos Del Mar](#04-nos-ocupamos-del-mar)
-  - [05. Nada De Nada](#05-nada-de-nada)
-  - [06. El Vencido](#06-el-vencido)
-  - [Garabatos](#garabatos)
-  - [Lo Que Siempre Quise Hacer](#lo-que-siempre-quise-hacer)
-  - [Umore Ona](#umore-ona)
-  - [Después Del Naufragio](#después-del-naufragio)
-
-# Huyendo conmigo de mi (2014)
-
-![](img/2022-04-13-09-39-41.png)
-![](img/2022-04-13-09-38-55.png)
-
-<div style="page-break-after: always;"></div>
-<div style="page-break-after: always;"></div>
+# Huyendo conmigo de mi
 
 ## 01. Entre La Espada Y La Pared
 

@@ -1,10 +1,4 @@
-
-
-![](img/2022-04-13-12-27-20.png)
-
-<div style="page-break-after: always;"></div>
-
-## 01. Antes de que cuente diez
+# 01. Antes de que cuente diez
 
 | Tonalidad  | Tempo   | Compás | Capo |
 | ---------- | ------- | ------ | ---- |

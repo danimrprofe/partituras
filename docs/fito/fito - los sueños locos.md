@@ -1,22 +1,3 @@
-![](img/2021-08-29-14-09-14.png)
-
-<div style="page-break-after: always;"></div>
-
-- [Los sueños locos](#los-sueños-locos)
-  - [01. Al mar](#01-al-mar)
-  - [02. Para toda la vida](#02-para-toda-la-vida)
-  - [03. Perro viejo](#03-perro-viejo)
-  - [04. Cerca de las vías](#04-cerca-de-las-vías)
-  - [05. A la luna se le ve el ombligo (4:51)](#05-a-la-luna-se-le-ve-el-ombligo-451)
-- [A puerta cerrada (2014)](#a-puerta-cerrada-2014)
-  - [01. Rojitas las orejas](#01-rojitas-las-orejas)
-  - [02. Trozos de cristal](#02-trozos-de-cristal)
-- [Cada vez cadáver](#cada-vez-cadáver)
-  - [Si me ves así](#si-me-ves-así)
-  - [Cielo hermético](#cielo-hermético)
-
-Última modificación: Agosto 2021
-
 # Los sueños locos
 
 - Sello: DRO – 2564694069

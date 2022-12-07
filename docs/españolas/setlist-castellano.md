@@ -1,38 +1,5 @@
 # Setlist Castellano
 
-- [Setlist Castellano](#setlist-castellano)
-  - [Balada del despertador](#balada-del-despertador)
-  - [De haberlo sabido](#de-haberlo-sabido)
-  - ["M"](#m)
-  - [Cada día](#cada-día)
-  - [Vis a vis](#vis-a-vis)
-  - [Es mejor caminar](#es-mejor-caminar)
-  - [Desordenada habitación](#desordenada-habitación)
-  - [Eso de saber](#eso-de-saber)
-  - [La carretera](#la-carretera)
-  - [23 de junio](#23-de-junio)
-  - [Lo niego todo](#lo-niego-todo)
-  - [Tan solo](#tan-solo)
-  - [Cojo el saco y me retiro](#cojo-el-saco-y-me-retiro)
-  - [Al cantar](#al-cantar)
-  - [No me importa nada](#no-me-importa-nada)
-  - [Pongamos que hablo de Madrid](#pongamos-que-hablo-de-madrid)
-  - [Pólvora](#pólvora)
-  - [A la orilla de la chimenea](#a-la-orilla-de-la-chimenea)
-  - [Sentimiento de Caoba](#sentimiento-de-caoba)
-  - [Cuando duermes](#cuando-duermes)
-  - [El vencido](#el-vencido)
-  - [Después del naufragio](#después-del-naufragio)
-  - [Los cantantes](#los-cantantes)
-  - [Mujer contra mujer](#mujer-contra-mujer)
-  - [Allí donde solíamos gritar](#allí-donde-solíamos-gritar)
-  - [Miedo](#miedo)
-  - [Si quieres bailamos](#si-quieres-bailamos)
-  - [Si tu no estás aquí](#si-tu-no-estás-aquí)
-  - [Sargento de hierro](#sargento-de-hierro)
-  - [Lucha de gigantes](#lucha-de-gigantes)
-  - [Aunque tú no lo sepas](#aunque-tú-no-lo-sepas)
-
 ## Balada del despertador
 
 **Intro**
