@@ -1,6 +1,6 @@
 # Balsera
 
-``
+```
 
 [Intro]
 D/F#   G   D/F#   A
@@ -100,4 +100,4 @@ se marchó buscando el sol
 y encontró un apagón
      A            D
 sin luna en Nueva York.
-``
+```
