@@ -25,11 +25,11 @@ C            G
 Y busqué en el fondo del mar,
     Am                 F
 en las montañas y en el cielo,
-C             G      F      C
+C               G        F        C
 la manera de hacer realidad mis sueños.
-C          G           Am              F
+C           G             Am                 F
 Encontré en el corazón el mapa de los sentimientos,
-C        G    F     C
+C          G      F      C
 ya lo ves, no estaba tan lejos.
 ``` 
 **Estribillo** 

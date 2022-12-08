@@ -1,6 +1,8 @@
 # Cada día
 
+Bajar tono y medio y capo 3 con la guitarra
 
+```
    A#              F/A     C/G
 Recuerdo cuando solíamos reir
     A#          F           C
@@ -64,6 +66,7 @@ Sin ti...
 
  A#  F  C(repitiendo intro)
 
-...
 
  A# (dejando sonar)
+
+ ```

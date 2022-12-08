@@ -1,4 +1,4 @@
-# 03 No te preocupes por mi
+# No te preocupes por mi
 
 
 | Tonalidad | Tempo  | Compás | Capo |

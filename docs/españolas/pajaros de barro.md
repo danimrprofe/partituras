@@ -23,23 +23,23 @@ a playas desiertas,
              Am7      G
 de las horas muertas.
 
-      D         Am7      G
+G      D         Am7      
  Hago pájaros de barro,
-      D          Am7                   Em
+G      D          Am7                   Em
  hago pájaros de barro  y los hecho a volar.
 
 
 Em                      D
 Por si el tiempo me arrastra
-             Am7    Em
+             Am7   
 a playas desiertas
-                 D
+Em                 D
 hoy rechazo la bajeza
-             Am7      G
+                  Am7    
 del abandono y la pena.
-      D         Am7      G
+G       D         Am7      
 Ni una página en blanco más.
-      D          Am7                   Em
+G           D                Am7          Em
 Siento el asombro de un transeúnte solitario.
 
 
@@ -54,13 +54,13 @@ cuando el mar  quedó lejos hace tiempo.
 
 Em             D
 Ya no subo la cuesta
-       Am7
+                  Am7
 que me lleva a tu casa,
 Em              D
 Ya no duerme mi perro
-              Am7     G
+              Am7     
 junto a tu candela.
-       D            Am7                      G
+G       D            Am7                      G
 En los vértices del tiempo anidan los sentimientos.
         D          Am7                 Em
 Hoy son pájaros de barro que quieren volar.
