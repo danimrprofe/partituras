@@ -7,9 +7,9 @@ Tonalidad: Re mayor
 ``` 
 A# G D
 A# G D
- ```
+```
 **Verse**
- ```
+```
         Bm           F#m         G
 Quiero dejar de perdonarme cada día
         A                         D
@@ -28,7 +28,7 @@ No quiero más abrazos de tecnología
 Ni tu silencio atragantado de color
 ``` 
 **Estribillo**
- ```
+```
        F#m    G
 Esa noche   juré
              D
@@ -41,12 +41,12 @@ Soy más simple de lo que me creía
 Esta es la historia de
  
 De un teléfono apagado
- ```
+```
 **Interludio**
- ```
+```
 A# G D
 A# G D A
- ```
+```
 **Verse**
 ``` 
             Bm
@@ -73,10 +73,10 @@ Quiero que escuches
 A este idiota equivocado
            G                      A
 Y a su derrota de pantalla y cargador
- ```
+```
  
 **Estribillo**
- ```
+```
        F#m    G
 Esa noche   juré
              D
@@ -89,12 +89,12 @@ Soy más simple de lo que me creía
 Esta es la historia de
  
 De un teléfono apagado
- ```
+```
 **Interlude**
- ```
+```
 A# G Bm D
 A# G A D
- ```
+```
 **Estribillo**
 ```
            G

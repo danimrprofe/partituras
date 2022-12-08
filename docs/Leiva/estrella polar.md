@@ -66,7 +66,7 @@ Em          A            G   A  D
 Con los pies fríos no se piensa bien
 Em      F#m             A
 algún delirio nos hará volver
- ``` 
+```
 **Estribillo**
 ```  
 D   A     G       A      D
@@ -83,9 +83,9 @@ A        G
 pero por dios
 G   A          D         G   A
 no dejo de pensar que aquí
- ``` 
+``` 
 **Solo**
- ``` 
+``` 
 F G D
 F G D
 F G A

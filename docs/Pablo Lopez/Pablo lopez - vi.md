@@ -3,7 +3,7 @@
 **Intro (arpegiando)**
 ```
  G  Eb (Bis)
- ```
+```
 **Estrofa**
 ```
 Gm                      F                        Eb     Eb-F
@@ -30,7 +30,7 @@ dime qué vas a llevarte, dime que me llevo yo.
 **Estrofa**
 ```
 Gm | F |  Eb7 | - x2
-  ```
+ ```
 **Estrofa**
 ```
 Gm                         F             Eb        Eb-F
@@ -44,7 +44,7 @@ Vi el engaño, vi algunas verdades, vi que estamos solos,
 Gm            F          Eb
 vi fortunas, vi necesidades, vi quemarse todo.
 
- ```
+```
 **Estrofa**
 ```
 Gm               F/A        Cm                  Eb        F
@@ -60,7 +60,7 @@ vi besar, yo he visto amar, he visto cuanto debo.
 Dime si hoy se acaba el mundo corazón,
             Dm     Eb   F
 dime qué vas a llevarte, dime que me llevo yo.
- ```
+```
 Final 1 
 ```
 Gm | - | Eb | - x2

@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=L07ECa44nhQ
 ```
 Fmaj7   C/G   G   Am G
 Fmaj7   C/G   E7  Am
- ```
+```
 **Estrofa**
 ```
 Fmaj7                  C/G   G                  Am        G

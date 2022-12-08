@@ -38,7 +38,7 @@ Un día quiero dejar el mundo entero por ti,
 la misma noche me aburro y no eres para mí,
         G                                 D
 como quisiera tenerlo tan claro como lo tienes tú.
- ```
+```
 **Solo**
 ```
 | G | C | G | D
@@ -53,7 +53,7 @@ G                                       C
 Soy un torbellino, nada me puede parar, soy un fugitivo, todos me quieren cazar  
     Am                       D
 Soy fácil y lo admito, soy igual pero distinto
- ```
+```
 **Pre-estribillo**
 ```  
              C    Em                        B        C
@@ -61,7 +61,7 @@ y hasta el finaaaaaaal, es lo que tengo, es lo que hay,
                    C     Em                        D
 tengo una paja mentaaaaaaaal, que ya no sé de qué va.
  
- ```
+```
 **Estribillo**
 ```  
  
@@ -78,11 +78,11 @@ la misma noche me aburro y no eres para mí,
         G                                 D
 como quisiera tenerlo tan claro como lo tienes tú.
 
- ```
+```
 **Solo**
 ```   
 | A |C | D | F G |  x2
- ```
+```
 **Estribillo**
 ```  
 

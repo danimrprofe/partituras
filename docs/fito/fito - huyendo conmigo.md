@@ -416,7 +416,7 @@ Hay un juez que está aprendiendo a ladrar
 Cuando la boca se te llena de ruido
         C                 G
 Luego está condenada a gritar
- ```
+```
 **Estrofa**
 ```
  
@@ -428,12 +428,12 @@ F                  E                 Am      D
 Tiempo de ladrones, de cerrar las persianas
       C            G        F     G#
 De lo que me digas, nada de nada
- ```
+```
 **Instrumental**
 ```
 C     G     F     C  G
 C     G     F  G#   C
- ```
+```
 **Estrofa**
 ```
 F                                           C
@@ -475,7 +475,7 @@ G          D      Em    G      D               Em
 Y aunque a veces quema,   el calor siempre te ayuda.
 C     D               Em             B            B7
 Cada vez que llega el frío, a mi verdad desnuda.
- ```
+```
 **Estrofa**
 ``` 
            Am                           Em
@@ -489,7 +489,7 @@ Dice que estoy perdiendo el tiempo,  en vivir deprisa.
 ```
 G D Em
 G Em
- ```
+```
 **Estribillo**
 ```
                    G    D          Em

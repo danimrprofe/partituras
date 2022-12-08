@@ -38,7 +38,7 @@ lo que nos sonreía
 ```
 
 **Pre-estribillo**
- ```
+```
      Bm    F#m     E     D           Bm    F#m     E
 Como niños sin preocupación, Como el ave que escapó...
 ```
@@ -87,7 +87,7 @@ Con ese grito profundo
  
 ```
 **Pre-estribillo**
- ```
+```
      Bm    F#m     E     D           Bm    F#m     E
 Como niños sin preocupación, Como el ave que escapó...
 ```

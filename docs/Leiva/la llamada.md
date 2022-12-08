@@ -23,8 +23,10 @@ Cuando no dices nada Entonces empiezo a escuchar
 Cuando no has tenido la oportunidad, Y las gafas se empañan
         G         Am     F                 G
 Cuando vamos de cara Entonces echamos a andar
- ``` 
+``` 
+
 **Pre-estribillo**
+
 ```  
   F                    C                  Am      G      D
 Sueño con estar por encima de todo Por debajo de tu falda

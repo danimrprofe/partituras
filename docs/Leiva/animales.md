@@ -21,9 +21,9 @@ Cómeme hasta que no me quede carne ni piel
 ¡Cómo quisiera tenerte, besarte entre la frente!
    Am       C        D
 Amarte, en parte, porque eres todo arte
- ```
+```
 **Estribillo**
- ```
+```
 Am            C        D
     Como si fuéramos unos animales
 Am                C             D
@@ -41,7 +41,7 @@ Cógeme, no tengas miedo, no te voy a morder
 ¡Cómo quisiera roerte y luego socorrerte!
    Am      C        D
 Atarte, mojarte y luego chulearte
- ``` 
+``` 
 **Estribillo**
 ```
 Am            C        D

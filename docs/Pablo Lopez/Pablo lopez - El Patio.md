@@ -25,7 +25,7 @@ Solo quiero que te vayas,
 solo quiero que se acabe,
                    E  F#  E  F#
 solo quiero que me de-jes so-lo.
- ```
+```
 **Estribillo**
 ```
 B5     B5/A#      B5/G#  B5/F#        E5
@@ -36,9 +36,9 @@ no soy mas que un niño, con los pies descal-zos
 Y yo sigo jugando qué más da,sigo jugando so-lo.
 ``` 
 **Instrumental**
- ```
+```
 B - E - B - E
- ```
+```
 **Estrofa**
 ```
 B                               D#m
@@ -47,7 +47,7 @@ Nada,ya no queda nada,solo tu delirio,
 tu ruido insoportable en el salón,
                             B5
 no queda nada más que tu fantasma.
- ```
+```
 **Puente**
 ```
                    B5/A#
@@ -56,9 +56,9 @@ Solo quiero que te vayas,
 solo quiero que se acabe,
                    E  F#  E  F#
 solo quiero que me de-jes so-lo.
- ```
+```
 **Estribillo**
- ```
+```
 B5     B5/A#      B5/G#  B5/F#        E5
 Fuera! Vete de mi casa,  suéltame las manos,
 E5/D#             E5/C# E5/B           F#   E
@@ -71,7 +71,7 @@ B                E
 Yo sigo jugando, qué más da,
 B             F# B      B*
  sigo jugando so-lo...
- ```
+```
 **Final**
 ```
 E

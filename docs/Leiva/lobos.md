@@ -29,7 +29,7 @@ No tienes nombre ni pasado, Nunca te hubieramos cazado
 ``` 
  
 SOLO VARIANTE sobre: Am Em D Am
- ``` 
+``` 
 Am           Em
 Ya ves todo puede fallar
 D                   Am
@@ -84,7 +84,7 @@ C G Am [x2] C G G  E7
 Pero tuviste que joderlo todo
 ``` 
 **Final**
- ```
+```
 D#: Am Em D Am  (x2)
  
 e|--------------------------------------------------|

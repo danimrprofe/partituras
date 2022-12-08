@@ -53,7 +53,7 @@ C           G         F                    C
 Probaste fortuna con héroes de barrio y conmigo también,
 G                Am        F           G  G7
 algunos todavía dudan, si vas a volver..
- ```
+```
 **Estribillo**
 ```
 C                    G              Am                F
@@ -69,7 +69,7 @@ y nunca hablaron los diarios de Lady Madrid..
 ```
 Dm G Dm G G7 G7sus4 G7 
 G
- ```
+```
 **Estribillo**
 ```
 C                    G              Am                F
@@ -80,7 +80,7 @@ C            G               Am                      F
 Pitillos ajustados, era The Burning, Ronaldos y Lou Reed,
 C                     G                 C       F
 y nunca hablaron los diarios de Lady Madriiiiiiiiiid...
- ```
+```
 **Final**
 ```
 C    F      C     F      C

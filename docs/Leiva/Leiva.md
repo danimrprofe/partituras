@@ -261,7 +261,7 @@ mañana tenemos cita, donde le roban tiempo al amor.
 Volaremos sin movernos, y donde halla que firmar,
              C/B      Am            D                    C   D
 me haré una pequeña herida, con sangre que abarca a el mar.
- ``` 
+``` 
 **Estribillo**
 ```
                  G          D            C
@@ -287,7 +287,7 @@ fuera se te echa de menos, anda llorando la libertad,
 y después nos dejaremos, si nos queremos dejar,
            C/B        Am        D                C   D
 a ellos nunca les dejamos, sus cadenas son de sal.
- ``` 
+``` 
 **Puente**
 ```
                       G                D        C
@@ -296,7 +296,7 @@ Y una sal que se deshace, con más lágrimas de sal,
 de tu quejido y el mio, en vis a vis quincenal,
    D              G      D              G         D
 en vis a vis quincenal, en vis a vis quincenal
- ``` 
+``` 
 **Estribillo**
 ```
                     G            D            C
@@ -398,7 +398,7 @@ Espinas que se caen
 Hay vicios que son magníficos, semanas para frenar
   Dm              G
 Veranos que sufro de verdad
- ```
+```
 
 **Pre-estribillo**
 
@@ -649,7 +649,7 @@ A C Fm C
 Con los ojos en llamas y la mirada perdida
 Am                  F         G                              F
  Llueven besos de esos que van y te quitan la vida
- ```
+```
 **Solo** 
 ```
 C F C F G x2 
@@ -720,7 +720,7 @@ G                D    Em                   B
  Colmillitos afilados, Cuéntales lo que te di
 C                     G                D                G
  Cada noche en los tejados, Quiero olvidar, quiero olvidar
- ```
+```
 **Estribillo**
 ```
       G                                     C
@@ -731,7 +731,7 @@ Y no sé, no sé, no sé si lo voy a levantar
 Y no sé, no sé, no sé si estoy ardiendo
 C               G                 Em     D/F#     C
  No me sale la voz y quiero pediiiiiir   teeeee tiempo
- ```
+```
 ```
 G Ebdim Em A
 D C    C-D
@@ -827,7 +827,7 @@ no me desarma tu actitud. Esto sé que no te va a gustar
 ```
  C   | E   | Am  | G   
  C   | E   | F   | F7 
- ```
+```
 **Puente**
 ```
 G                Am              F           C  
@@ -1524,7 +1524,7 @@ No va a desbloquearme la certeza de que esa ola ya rompió
     A5
 Y muere en el océano.
  
- ``` 
+``` 
 **Pre-estribillo**
 ```
  G
@@ -1540,7 +1540,7 @@ Que me dabas cuando naufragaba
                  A        A5  Bm
 En tu pecho enfermo de miedo.
  
- ``` 
+``` 
 **Estribillo**
 ```
 G5
@@ -1554,7 +1554,7 @@ De lo que fuimos.
        A5            G5        Bm
 Oh oh oh oh, oh oh ohhhhhh.
  
- ``` 
+``` 
 **Estrofa**
 ```
 D                  A           Bm
@@ -1617,7 +1617,7 @@ Em
 Na, naaa, naaaa, naa, naaa, naaa, naaaaaa, naaaaaaa,
  
 Naaaaaaaaaaaaaaaaa.
- ``` 
+``` 
 **Estribillo**
 ```
 G5
@@ -1959,7 +1959,7 @@ Lo que soñamos ahora da igual
 Abandonaste como las águilas
              C
 La zona nuclear
- ```
+```
  
 **Estrofa**
 ```
@@ -1980,7 +1980,7 @@ Vieras más allá
 No habrí­a nada
     G             C
 Que nos pudiera parar
- ```
+```
  
  **Pre-estribillo**
 ```

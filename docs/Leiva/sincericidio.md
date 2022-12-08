@@ -20,7 +20,7 @@ Pero basta de fingir
 ``` 
 Dm             F  G
 Te quiero, te quiero
- ```
+```
 **Estribillo**
 ```
 C                              Em
@@ -72,7 +72,7 @@ Te quiero como tantas cosas ,que no tienen solución
 ```
 F Dm Am G
 F Dm F G
- ```
+```
 **Estribillo**
 ```
 C                             E
@@ -81,7 +81,7 @@ Am                                    G
 Te quiero como tantas cosas ,que no tienen solución
          F     G
 Que no tienen solución
- ```
+```
 **Final**
 ```
 Am C Am C E

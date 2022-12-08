@@ -77,7 +77,7 @@ E                  B  D#/G                      G#m      F#
 Han incendiado la ropa, y han aprendido a bailar la vida
 E                    B    C#      D#               G#m
 Que no les roben su libertad, son hijos del verbo amar
- ```
+```
 **Final**
 ``` 
 G#m | E | C#/G#  |-

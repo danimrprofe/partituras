@@ -235,7 +235,7 @@ todo lo demás       me hace daño.
  
 G | D | D | A | 
 G | D | D | A D |
- ```
+```
 **Estrofa**
 ```
 A                    G                       D
@@ -246,7 +246,7 @@ G                                             D
 Luego pasa por las calles donde los chavales juegan
                           A                 D
 Él también quiso ser niño pero le pilló la guerra
- ```
+```
 **Estrofa**
 ```
 G                                     D
@@ -518,7 +518,7 @@ Ya no queda nada entre tú y yo, Ya no queda nada entre los dos
 **Estrofa**
 ```
  C  x4
- ```
+```
 **Estrofa**
 ```
 C                                                  G 
@@ -548,7 +548,7 @@ En invierno con el sol... con las nubes en verano.
    Sé que no puedo dormir... porque siempre estoy soñando
    Am                   G   F        G          C
    en invierno con el sol, con las nubes en verano!!
- ```
+```
 **Solo (por revisar)** 
 ```
 C | C G | G | G C

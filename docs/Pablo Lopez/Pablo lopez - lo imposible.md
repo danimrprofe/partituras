@@ -2,7 +2,7 @@
 
 
 **Estrofa**
- ```
+```
 D       Dsus4       D       Dsus4    D       Dsus4   D       Dsus4 
 Fue tan improbable, tan imposible, tan difícil de explicar 
 G       Gsus4       G      Gsus4    G         D               Em   A  
@@ -10,9 +10,9 @@ Donde esta el culpable, donde el pecado, la mentira, me da iguaaaaaal
           D     Dsus4   D           G           D/F#           Em    A
 Es una historia despeinada, Una derrota en el teléfono, en la caaamaaa
     
- ```
+```
 **Bridge**
- ```
+```
 D              A/C#
 Yo no sé disimular
 E                      G
@@ -21,10 +21,10 @@ Gm             Bm
 Tú pareces tan valiente
 G              D
 Tan cansada de esperar
- ```
+```
  
 **Estribillo**
- ```
+```
 Bm           A         G
 Diles que se vayan por favor
 D                  A/C#
@@ -35,9 +35,9 @@ Gm
 Hace rato ya que estamos
 Bm A D
 Solos
- ```
+```
 **Verse 2**
- ```
+```
 D       Dsus4   D
 Falta de coraje
 Dsus4   D
@@ -71,7 +71,7 @@ Gm             Bm
 Tú pareces tan valiente
 G              D
 Tan cansada de esperar
- ```
+```
  
 **Estribillo**
 ``` 
@@ -83,14 +83,14 @@ C                    G
 Y si no te escuchan, déjalos
 Gm
 Hace rato ya que estamos
- ```
+```
 **Solo**
 ```
 Bm A D
- ```
+```
  
 **Estribillo**
- ```
+```
 Bm           A         G
 Diles que se vayan por favor
 D                  A/C#

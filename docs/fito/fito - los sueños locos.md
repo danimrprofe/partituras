@@ -154,7 +154,7 @@ Yo le doy mi querer al querer y lo doy para toda la vida.
 Si quisiera vivir de placer me buscaba un amor de cantina.
       F                             C                     G C
 Yo le doy mi querer al querer y lo doy para toda la vida.
- ```
+```
 **Instrumental**
 ```
 C G x 8
@@ -243,7 +243,7 @@ es reir por no llorar, no sé lo que estoy diciendo
 
 Estribillo
  
- ```
+```
 
 
 

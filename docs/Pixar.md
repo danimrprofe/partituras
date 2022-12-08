@@ -158,7 +158,7 @@ Cada amanecer, cada sensación, Cada atardecer, al caer el sol,
 Vuelvo a imaginar que hay algún lugar donde debo ir...
 ``` 
 **Estribillo**
- ``` 
+``` 
        E                                B/D#
 Veo la línea entre el cielo y el mar en frente,
        C#m                 A
@@ -255,7 +255,7 @@ E
 Nae ko hakilia mo kaiga e
 ```  
 **Estrofa**
- ``` 
+``` 
 A
 Sabemos el viento leer Con gran nitidez,
 A
@@ -264,7 +264,7 @@ D                     E                  A
 Y cada estrella ahí está Justo en su lugar,
 A
 Sabemos mirar de verdad
- ``` 
+``` 
 **Estribillo**
 ```  
 D          A                  E                    A
@@ -326,10 +326,10 @@ por el cielo, el mar y el sol.
 No hay de qué, está bien, de nada;
      E7                    C
 soy sólo un tipo cachas muy normal.
- ``` 
+``` 
  
 **Estrofa**
- ``` 
+``` 
 C                                F/C
 ¡Hey! ¿Quién levantó el cielo con su pulgar
                         A#
@@ -365,9 +365,9 @@ para que podáis vivir –de nada-. ¡Ja
 ¡De nada! De nada.
     C
 de nada
- ``` 
+``` 
 [Rap]
- ``` 
+``` 
 Bien, piénsalo un poco...
 C
 Oye, puedo seguir y seguir aún más;
@@ -685,7 +685,7 @@ D        A
 versos que tuyo son
 G                  A       
 Y el recuerdo nos dio
- ```
+```
 **Estrofa**
 ```
      D      G            A       D
@@ -700,7 +700,7 @@ En el latido de mi corazón
 Amor verdadero nos une por siempre
    D    G       A       D
 En el latido de mi corazón
- ```
+```
 [Instrumental]
 ```
 B7
@@ -769,7 +769,7 @@ D                       C#sus4
 Hasta que en mis brazos estés
 C#sus4   D  E  F#
 Re-----cuérdameee
- ```
+```
 [Interlude]
 ```
 F#  | Bm/D | F#  | Bm Bb
@@ -1084,7 +1084,7 @@ Y vendrán de todas partes
 Qué raro se me va a hacer
      Eb                         Csus2/4
 Hay tantas cosas que quiero emprender
- ```
+```
 **Chorus**
 ``` 
            F/A          Bbadd2
@@ -1106,14 +1106,14 @@ C7sus                 F
       Me late el corazón
 ``` 
 **Interlude**
- ```
+```
 N.C.
 Voy a conocer a muchas personas
 N.C.
 ¿Y si encuentro hoy la persona?
- ```
+```
 **Verse**
- ```
+```
 F#               B/F#
 Vestido de gala llevaré
     D#m               C#
@@ -1157,7 +1157,7 @@ C#                F#
    Me late el corazón
 ```
 **Interlude**
- ```
+```
           D#m               A#m
 (Elsa) No dejes que sepan de ti
 C#                    G#
@@ -1173,7 +1173,7 @@ Elsa: Pero pronto pasará (Pronto pasará)
 Anna: Qué duro es esperar (Qué duro es esperar)
 ``` 
 **Verse**
- ```
+```
        Em              Bm       C     F
 Que abran el portón de par en par (En par)
        G           C
@@ -1230,7 +1230,7 @@ Ab C | Ab C | C |
 Ab G
 
 
- ```
+```
 **Verse 2**
 ```
                        C                    G/B
@@ -1241,7 +1241,7 @@ Que necesito compañía ya,, que a los cuadros ya les he empezado a hablar! (Án
 Me siento un poco sola, me aburro ya, mirando las horas pasaaaaar! (Tic-Tock, Tic-Tock)
                        C                        F
 Hazme un muñeco de nieve! O lo que sea me da igual!
- ```
+```
 
 **Interludio**
 ```

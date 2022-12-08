@@ -26,7 +26,7 @@ Yo te alumbraba con la luz que desprendía entonces,
 Y me mataba que no fueras más fuerte;
 D           F#m   Bm  G
 Todos lo vieron venir 
- ``` 
+``` 
 **Pre-estribillo**
 ```
 Em                   G

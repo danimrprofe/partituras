@@ -96,7 +96,7 @@ Notas: Yo aquí alterno tocar Am con cuerdas al aire
 **Intro**
 ```
 Bm
- ```
+```
 **Estrofa**
 ```  
                    G                               Bm
@@ -113,7 +113,7 @@ Yo me fui no se hacia donde y yo solo me perdí.
 Hay un niño que se esconde siempre detrás de mí.
 
 
- ```
+```
 **Estrofa**
 ```   
 D  A  Bm  (x2)
@@ -328,7 +328,7 @@ A           G           D
 algo que se besa y sabe amargo
 A          G               D
 es mi boca seca, nada que beber.
- ```
+```
 **Estrofa**
 ``` 
      A
@@ -353,14 +353,14 @@ siempre habrá una estrella para ti
 si catorce vidas son dos gatos
           G
 aun queda mucho por vivir.
- ```
+```
 **Estrofa**
 ```
  
 D  A  G  D  A    (x2)
 D
  
- ```
+```
 **Estrofa**
 ```
 A
@@ -384,7 +384,7 @@ siempre habrá una estrella para ti
 si catorce vidas son dos gatos
           G
 aun queda mucho por vivir.
- ```
+```
 **Estrofa**
 ```
  
@@ -621,7 +621,7 @@ Am  Bm  E        (repite)
 **Estrofa**
 ```
 Gm  Cm  Gm  Dm  Cm  (F) Gm (Dm)
- ```
+```
 **Estrofa**
 ```
  
@@ -652,7 +652,7 @@ Y no pensar, tan solo quiero no pensar
 imitar el parpadeo
          F             Gm   (A#  Gm)
 de las estrellas al brillar.
- ```
+```
 **Estrofa**
 ``` 
 D              D#
@@ -669,7 +669,7 @@ Y aunque nada es verdad
 las verdades aquí
        D
 tienen forma de puñal.
- ```
+```
 **Estrofa**
 ```
 Gm  Cm  Gm  Dm  Cm  F  Gm  (A# Gm)
@@ -690,7 +690,7 @@ Y aunque nada es verdad
 las verdades aquí
        D
 tienen forma de puñal.
- ```
+```
 **Estrofa**
 ```
 Gm      (hasta el final)

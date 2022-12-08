@@ -349,7 +349,7 @@ Solo quiero que te vayas,
 solo quiero que se acabe,
                    E  F#  E  F#
 solo quiero que me de-jes so-lo.
- ```
+```
 **Estribillo**
 ```
 B5     B5/A#      B5/G#  B5/F#        E5
@@ -360,9 +360,9 @@ no soy mas que un niño, con los pies descal-zos
 Y yo sigo jugando qué más da,sigo jugando so-lo.
 ``` 
 **Instrumental**
- ```
+```
 B - E - B - E
- ```
+```
 **Estrofa**
 ```
 B                               D#m
@@ -371,7 +371,7 @@ Nada,ya no queda nada,solo tu delirio,
 tu ruido insoportable en el salón,
                             B5
 no queda nada más que tu fantasma.
- ```
+```
 **Puente**
 ```
                    B5/A#
@@ -380,9 +380,9 @@ Solo quiero que te vayas,
 solo quiero que se acabe,
                    E  F#  E  F#
 solo quiero que me de-jes so-lo.
- ```
+```
 **Estribillo**
- ```
+```
 B5     B5/A#      B5/G#  B5/F#        E5
 Fuera! Vete de mi casa,  suéltame las manos,
 E5/D#             E5/C# E5/B           F#   E
@@ -395,7 +395,7 @@ B                E
 Yo sigo jugando, qué más da,
 B             F# B      B*
  sigo jugando so-lo...
- ```
+```
 **Final**
 ```
 E
@@ -415,16 +415,16 @@ F#m       C#     F#m
 Se va, se va, se va
   C#m        D
 Se va y no vuelve
- ```
+```
 **Estribillo**
- ```
+```
 F#m   C#m        D    E
 uoooh ooooh uoooooh ooooh
 F#m   C#m       D    E
 uoooh ooooh uoooooh ooooh
- ```
+```
 **Verse**
- ```
+```
 Bm                      D
 Sigo perdiendo las llaves
                  F#m
@@ -448,9 +448,9 @@ Bm                   D
 Ahora que no creo en nada
               E
 Que no me atormenta despertar mañana
- ```
+```
 **Bridge**
- ```
+```
 F#m
 Me dijiste
 Bm                 F#m
@@ -459,9 +459,9 @@ Bm                F#m
 Que lo que se va, se va
 Bm                 F#m
 Se va y no vuelve no
- ```
+```
 **Estribillo**
- ```
+```
 Bm    D              F#m         C#m
 uoooh ooooh uoooo No vuelve, no vuelve
 Bm    D              F#m         C#m
@@ -471,9 +471,9 @@ F#m C#m D E
  
 F#m C#m D E
 oooh oooh oooh oooh
- ```
+```
 **Verse**
- ```
+```
 Bm               D
 Resucito cada viernes
              F#m      C#m
@@ -490,7 +490,7 @@ Bm    D          A       E
 Uoooh Solo suena tu verdad
 ``` 
 **Bridge**
- ```
+```
 F#m
 Me dijiste
 Bm                    F#m
@@ -510,9 +510,9 @@ F#m                    C#
 Alma, tiempo y vida que se va
 F#m
 No vuelve
- ```
+```
 **Estribillo**
- ```
+```
 Bm    D              F#m         C#m
 uoooh ooooh uoooo No vuelve, no vuelve
 Bm    D              F#m         C#m
@@ -521,9 +521,9 @@ Bm    D              F#m         C#m
 uoooh ooooh uoooo No vuelve, no vuelve
 Bm    D              F#m         C#m
 uoooh ooooh
- ```
+```
 **Outro**
- ```
+```
 F#m   C#m  D  E
 ```
 # El Incendio
@@ -533,9 +533,9 @@ Notas del comienzo: C A C A C# (mano derecha)
 **Intro**
 ``` 
 F | C# | F | C#
- ```
+```
 **Verse**
- ```
+```
 Fm        A#            Fm       A#        C#        D#      Fm
 Tengo tu mano en la espalda Tu abrazo que salva. Tu acorde mayor 
 Fm          A#/F       Fm     A#/D         C#    Eb     Fm
@@ -550,14 +550,14 @@ Hoy he quemado mi ropa y mi cama. Que bonito el incendio cuando arden en las alm
 Bendito el fuego De mis hermaaa aaa  nooos
 ```
 **Verse**
- ```
+```
 Fm        Bb/F       Fm     Bb/F     Db/F     Eb/F       Fm           
 Nos encontraron bailando sobre las cenizas de la discreción 
 Fm        Bb         Fm      Bb/D        Db       Cm7       Bb
 Ruido calla a la sonrisa Que baila, Mis amigos Respiran canción
 ``` 
 **Bridge**
- ```
+```
 F                    Gm7                    Bb                  Dm7
 Hoy me han echado de todos los bares. Y que poco me importa nos quedan mil calles
    F         Am     Bb     Dm7  C/E    F
@@ -566,7 +566,7 @@ Bendito el fuego De mis hermaaa aaa  nooos
 G# C#
 ``` 
 **Estribillo**
- ```
+```
 F                  Gm7                    Bb                   Dm7
 Hoy he perdido 100 años de vida. Y que hermoso el dolor de las dulces heridas
     F       Am      Bb    Bb/D
@@ -575,9 +575,9 @@ Dm           F                Bm           F  C#
 Que bonito es este incendio el mar. El manto
 
 
- ```
+```
 **Outro**
- ```
+```
 F C# F C#
 ```
 
@@ -589,9 +589,9 @@ Tonalidad: Re mayor
 ``` 
 A# G D
 A# G D
- ```
+```
 **Verse**
- ```
+```
         Bm           F#m         G
 Quiero dejar de perdonarme cada día
         A                         D
@@ -610,7 +610,7 @@ No quiero más abrazos de tecnología
 Ni tu silencio atragantado de color
 ``` 
 **Estribillo**
- ```
+```
        F#m    G
 Esa noche   juré
              D
@@ -623,12 +623,12 @@ Soy más simple de lo que me creía
 Esta es la historia de
  
 De un teléfono apagado
- ```
+```
 **Interlude**
- ```
+```
 A# G D
 A# G D A
- ```
+```
 **Verse**
 ``` 
             Bm
@@ -655,10 +655,10 @@ Quiero que escuches
 A este idiota equivocado
            G                      A
 Y a su derrota de pantalla y cargador
- ```
+```
  
 **Estribillo**
- ```
+```
        F#m    G
 Esa noche   juré
              D
@@ -671,12 +671,12 @@ Soy más simple de lo que me creía
 Esta es la historia de
  
 De un teléfono apagado
- ```
+```
 **Interlude**
- ```
+```
 A# G Bm D
 A# G A D
- ```
+```
 **Estribillo**
 ```
            G
@@ -702,7 +702,7 @@ A# A G A
 
 
 **Estrofa**
- ```
+```
 D       Dsus4       D       Dsus4    D       Dsus4   D       Dsus4 
 Fue tan improbable, tan imposible, tan difícil de explicar 
 G       Gsus4       G      Gsus4    G         D               Em   A  
@@ -710,9 +710,9 @@ Donde esta el culpable, donde el pecado, la mentira, me da iguaaaaaal
           D     Dsus4   D           G           D/F#           Em    A
 Es una historia despeinada, Una derrota en el teléfono, en la caaamaaa
     
- ```
+```
 **Bridge**
- ```
+```
 D              A/C#
 Yo no sé disimular
 E                      G
@@ -721,10 +721,10 @@ Gm             Bm
 Tú pareces tan valiente
 G              D
 Tan cansada de esperar
- ```
+```
  
 **Estribillo**
- ```
+```
 Bm           A         G
 Diles que se vayan por favor
 D                  A/C#
@@ -735,9 +735,9 @@ Gm
 Hace rato ya que estamos
 Bm A D
 Solos
- ```
+```
 **Verse 2**
- ```
+```
 D       Dsus4   D
 Falta de coraje
 Dsus4   D
@@ -771,7 +771,7 @@ Gm             Bm
 Tú pareces tan valiente
 G              D
 Tan cansada de esperar
- ```
+```
  
 **Estribillo**
 ``` 
@@ -783,14 +783,14 @@ C                    G
 Y si no te escuchan, déjalos
 Gm
 Hace rato ya que estamos
- ```
+```
 **Solo**
 ```
 Bm A D
- ```
+```
  
 **Estribillo**
- ```
+```
 Bm           A         G
 Diles que se vayan por favor
 D                  A/C#
@@ -945,27 +945,27 @@ A                                    C#m
 y no tengo la intención de
 G#m                    B                    E C#m
 terminar. Yo no quiero que me cuenten el final.
- ```
+```
 **Verse 2**
- ```
+```
 E
 No podía dejar de buscar el piano de
                           G#
 aquella canción que jamás me cantaste
 ``` 
 **Estribillo**
- ```
+```
 A                                   C#m
 17 00 de un reloj desesperado. Son las 5 de la tarde y no tengo
                   C
 la intención de terminar
             E            B
 esta noche no. Yo no quiero que me cuenten el final.
- ```
+```
 **Bridge**
- ```
+```
 E Em C Em D# Gm D
- ```
+```
 **Estribillo**
 ``` 
 C                                   Em
@@ -976,9 +976,9 @@ y no tengo la intención de
 terminar.
  
 Yo no quiero que me cuentes el final.
- ```
+```
 **Outro**
- ```
+```
 C#m A Cm Em B E
 ```
 
@@ -989,7 +989,7 @@ C#m A Cm Em B E
 **Intro (arpegiando)**
 ```
  G  Eb (Bis)
- ```
+```
 **Estrofa**
 ```
 Gm                      F                        Eb     Eb-F
@@ -1016,7 +1016,7 @@ dime qué vas a llevarte, dime que me llevo yo.
 **Estrofa**
 ```
 Gm | F |  Eb7 | - x2
-  ```
+ ```
 **Estrofa**
 ```
 Gm                         F             Eb        Eb-F
@@ -1030,7 +1030,7 @@ Vi el engaño, vi algunas verdades, vi que estamos solos,
 Gm            F          Eb
 vi fortunas, vi necesidades, vi quemarse todo.
 
- ```
+```
 **Estrofa**
 ```
 Gm               F/A        Cm                  Eb        F
@@ -1046,7 +1046,7 @@ vi besar, yo he visto amar, he visto cuanto debo.
 Dime si hoy se acaba el mundo corazón,
             Dm     Eb   F
 dime qué vas a llevarte, dime que me llevo yo.
- ```
+```
 Final 1 
 ```
 Gm | - | Eb | - x2
@@ -1135,7 +1135,7 @@ E                  B  D#/G                      G#m      F#
 Han incendiado la ropa, y han aprendido a bailar la vida
 E                    B    C#      D#               G#m
 Que no les roben su libertad, son hijos del verbo amar
- ```
+```
 **Final**
 ``` 
 G#m | E | C#/G#  |-
@@ -1301,7 +1301,7 @@ lo que nos sonreía
 ```
 
 **Pre-estribillo**
- ```
+```
      Bm    F#m     E     D           Bm    F#m     E
 Como niños sin preocupación, Como el ave que escapó...
 ```
@@ -1350,7 +1350,7 @@ Con ese grito profundo
  
 ```
 **Pre-estribillo**
- ```
+```
      Bm    F#m     E     D           Bm    F#m     E
 Como niños sin preocupación, Como el ave que escapó...
 ```
