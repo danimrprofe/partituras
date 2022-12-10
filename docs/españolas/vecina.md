@@ -1,10 +1,13 @@
 # Vecina
 
+![](img/2022-12-10-11-54-37.png)
+
+**Intro**
 ```
-[Intro]
 G Bm Em C
- 
-[Verse]
+```
+**Estrofa**
+```
 C
 Sali al balcón una tarde y la descubrí
 D
@@ -18,11 +21,15 @@ Me saludo con la mano y se volvió a dormir
 G                                  C Bm Am D
 Me dedico una sonrisa y la sonreí  
  
-[Solo]
+``` 
+**Solo**
+```
 G Bm Em C
 G Bm Em C
  
-[Verse]
+```
+**Estrofa**
+```
 C
 Cada tarde al balcón yo volví a salir
 D
@@ -37,13 +44,16 @@ G
 Y le escribí una carta, que no le di
 C     Bm       Am      D
 Desde entonces nada es igual para mi
+``` 
+**Solo**
+```
+G Bm Em C
+G Bm Em C
+G Bm Em C  
  
-[Solo]
-G Bm Em C
-G Bm Em C
-G Bm Em C
- 
-[Verse]
+```
+**Estrofa**
+```
 Em
 Hola vecina no creo que te acuerdes de mi
 G

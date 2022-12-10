@@ -10,7 +10,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: white
+      primary: deep purple
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode

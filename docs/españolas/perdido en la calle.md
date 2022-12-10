@@ -1,9 +1,7 @@
 # Perdido en la calle
 
 ```
-Solo unos pequeños cambios a la version de Joanet, creo suena mas
-parecido a la cancion.
- 
+
 Ritmo: D DU UDU
  
  
@@ -31,9 +29,7 @@ Hoy he enterrado aquellos besos, que regalé
 D                      C
 Y ya no tengo que esperar?   Perdido en la calle
  
- 
 G D Em C
- 
  
 G            D              Em           C
 Por tus guiños, tus manías, y tu forma de mirar
