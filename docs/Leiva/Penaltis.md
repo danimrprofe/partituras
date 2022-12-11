@@ -1,4 +1,4 @@
-# 07 Penaltis
+# Penaltis
 
 
 **Información**
