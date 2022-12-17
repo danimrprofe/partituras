@@ -1,95 +1,110 @@
-# 06 Éxtasis
+# Las cuentas
+
 
 **Información**
 
 | Tonalidad | Tempo | Compás | Capo |
 | --------- | ----- | ------ | ---- |
-| Sol Mayor | X bpm | 4/4    | No   |
+| La Mayor  | X bpm | 4/4    | No   |
 
 **Intro**
 ```
-G  G  D  C  G
+A      Asus  A     Asus  A
 ```
 **Estrofa**
 ```
-G                   D         Am
-El universo es para mi un feo
-               C
-lugar para olvidarte,
-G                       D               Em
-me juego el todo por el todo al negro,
-   C           D         G
-prometí no volver a quebrar.
-
-               D               Am
-Miento desde pequeño y cada vez
-               C        
-lo hago con más arte,
-G             D           Em         BM      D
- espíritu de los toreros,    con el toro delante.
-
-D                   G                    Am
-Palabras como en estocadas, caballos salvajes
-D                 C
-arrasan las madrugadas.
-       G/B              Am         D
-Aún recuerdo, cuando estábamooo oo oooos....
-C       D      Em   G        C
-en éxtasis, en éxtasis, aún recuerdo,
-         Cm        G
-cuando estábamos así.
-
-G G G D
-
-G                D             Am
-Sigo tocado y apagando fuegos
-          C
-en ninguna parte,
-G                     D           Em
-derribo todo y me hago tan pequeño,
-C              D         G
-prometí no volver a remar.
-
-                  D              Am
-Me quedo en el infierno y cada vez
-      C               G
-muero un poco antes,
-             D          Em
-espíritu de los toreros,
-       Bm       C
-con la fiera delante.
-
-D                   G                     Am
-Palabras como en estocadas, caballos salvajes,
-D                          C
-entrando en las madrugadas.
-
-G/B                Am          D
-Aún recuerdo, cuando estábamos...
-
-C        D   Em      G         C
-en éxtasis, en éxtasis, aún recuerdo,
-          Cm      D#
-cuando estábamos así,
-                  Dm
-cuando estábamos así,
-                   G
-cuando estábamos así.
+A
+Ya sólo quedan los demonios,
+        D
+la propiedad y los escombros.
+        E
+Caemos como plumas,
+                 F#m        E       D
+olemos el fondo y nos quedamos cortos.
+        A
+Es tiempo de autodestrucción,
+        D
+de disparar sin adornos.
+        E
+Prenderé fuego al colchón,
+       F#m         E      D
+que reventó nuestros otoños.
+```
+**Estribillo**
+```
+           A          E          D   (D*)
+¿Por qué no existen tumbas de dos?,
+           A          E          D   (D*)
+¿Por qué el adiós se siente en vena?.
+C#                F#m
+Amamos lo que perdimos,
+D                     A
+queremos lo que envenena.
+         E                    A
+Y así nunca, nos salen las cuentas.
 
 ```
+
+<div style="page-break-after: always;"></div>
+
 **Solo**
 ```
-C  | Em  | F  G  | C 
-C  | Em  | F  Fm  | C 
+A
+```
+**Estrofa**
+```
+A
+Ya no nos saca nadie a hombros,
+         D
+la vanidad, los dobles fondos.
+         E
+Quemamos las alturas,
+                   F#m   E     D
+besamos el polvo y nos calamos hondo.
+         A
+Es tiempo de autodestrucción,
+         D
+de rematar sin adornos.
+         E
+Me agarré a la inspiración,
+         F#m     E       D
+que me dejó nuestros demonios.
+```
+**Estribillo**
+```
+           A          E          D   (D*)
+¿Por qué no existen tumbas de dos?,
+           A          E          D   (D*)
+¿Por qué el adiós se siente en vena?.
+C#                 F#m
+Amamos lo que perdimos,
+D                     A
+queremos lo que envenena.
+         E                    A
+Y así nunca, nos salen las cuentas.
 
-   Fm   Abdim   Am G    C           F
-En éxtasis, en éx  ta  sis, aún recuerdo,
-          Fm       C
-cuando estábamos así.
 
 ```
-**Final**
+**Solo 2**
 ```
-C | C F | G C
+F       C       Bm       E
 ```
-<div style="page-break-after: always;"></div>
+**Estribillo**
+```
+           A          E          D   (D*)
+¿Por qué no existen tumbas de dos?,
+           A          E          D   (D*)
+¿Por qué el adiós se siente en vena?.
+E                  F#m
+Amamos lo que perdimos,
+D                     A
+queremos lo que envenena.
+         E                     A
+Y así nunca, nos salen las cuentas,
+Dm              A
+nos salen las cuentas,
+Dm              A
+nos salen las cuentas.
+
+Dm     A
+```

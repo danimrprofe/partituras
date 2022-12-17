@@ -12,7 +12,7 @@ Dm E7 Am (x2)
            Dm      E         Am                 Dm         E         Am
 Antes del frío, levanta las velas. Guarda en tu falda los granos de arroz
           Dm         E     Am              Dm    E     Am
-Y haz ceremonias de luna llena. Antes del frío, lánzamelos. 
+Y haz ceremonias de luna llena. Antes del frío, lánzamelos.
            Dm         E         Am             Dm         E         Am
 Cuida este vals que tenemos en vena. Cuida del baile y riega el salón
           Dm          E      Am             Dm      E       F
@@ -32,8 +32,8 @@ Deja el equipaje en la ribera Y quémalo.
 
 [Instrumental]
 Dm E Am (x4)
- 
- 
+
+
 [Verse 2]
               Dm      E        Am
 Haz que este baile merezca la pena
@@ -56,12 +56,12 @@ Cruza los dedos por mí. Y antes de que vuelva a mirar, Busca el viento a favor.
  Dm                        G          C                        Am
 Deja el equipaje en la ribera. Para verte como quieres que te vea
            Dm         G             C    C7
-Sabes que todo está bien. No hay erroooooooor. 
+Sabes que todo está bien. No hay erroooooooor.
  Dm                        G          C                        Am
 Deja el equipaje en la ribera. Para verte como quieres que te vea
            Dm         G               Am
-Lánzate al agua otra vez. Aquí espero yo. 
- 
+Lánzate al agua otra vez. Aquí espero yo.
+
 ```
 **Instrumental**
 ```
@@ -82,7 +82,7 @@ No te sirve cuando cruzas la frontera
 Todo está en regla esta vez
           C    C7
 No hay error.
- 
+
 ```
 **Estribillo**
 ```

@@ -1,7 +1,7 @@
 # Flaca
 
-by: Andres Calamaro
-Album: Alta Suciedad
+- Autor: Andres Calamaro
+- Album: Alta Suciedad
 
 ```
 [Intro]

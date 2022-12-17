@@ -1,8 +1,11 @@
 # Cojo el saco y me retiro
+
+- Autor: Astola
+
 ```
 [Intro]
 Am F G Am G
- 
+
 [Verse]
         Am                  F
 En una nube doblando mi cielo
@@ -12,7 +15,7 @@ lo que antes era azul y ahora esta negro
 En una nube trayendo tormenta
 G                             Am   G
 y yo no estoy listo pa la guerra
- 
+
 [Chorus]
                    F                        G
 Si quieres que me quede, tendrás que prometerme
@@ -38,10 +41,10 @@ y te lo dije corazón que no iba a ser pa toa la vida   no nooo
 yo yo no puedo quererte pa siempre
    F      G       Am                     E
 yo yo no puedo prometerte que vaya a quererte
- 
+
 [Interlude]
 F G Am G
- 
+
 [Verse]
               Am                  F
 Eres un castillo con muros de piedra
@@ -51,7 +54,7 @@ y a veces me dejas en la puerta
 de tu fortaleza, pidiendo clemencia
 G                        Am G
 Ábreme o córtame la cabeza
- 
+
 [Chorus]
                     F                       G
 Si quieres que me quede, tendrás que prometerme
@@ -77,7 +80,7 @@ y te lo dije corazón que no iba a ser pa toa la vida   no nooo
 yo yo no puedo quererte pa siempre
    F       G       Am               E
 yo yo no puedo prometerte que vaya a quererte
- 
+
 [Outro]
 F G Am G
 F G Am G

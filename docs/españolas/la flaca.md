@@ -31,11 +31,11 @@ pero ella nunca engorda,     pero ella nunca engorda.
 
 
  F                     G                Am
-   Por un beso de la Flaca daria lo que fuera
+   Por un beso de la Flaca daría lo que fuera
              D                        F
 por un beso de ella aunque sólo uno fuera.
                     G                 Am
-Por un beso de la Flaca daria lo que fuera
+Por un beso de la Flaca daría lo que fuera
            D                          F   F# G
 por un beso de ella aunque solo uno fuera.
                    Am
@@ -52,11 +52,11 @@ Am               E7                     D7
 porque Dios que esta Flaca a mí me tiene loquito
 
 F                     G                  Am
-  Por un beso de la Flaca daria lo que fuera
+  Por un beso de la Flaca daría lo que fuera
              D                        F
 por un beso de ella aunque sólo uno fuera.
                     G                  Am
-Por un beso de la Flaca daria lo que fuera
+Por un beso de la Flaca daría lo que fuera
            D                          F   F# G
 por un beso de ella aunque solo uno fuera.
                   Am  D7

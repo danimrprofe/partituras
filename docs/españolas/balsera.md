@@ -1,5 +1,9 @@
 # Balsera
 
+- Álbum: Dos caras distintas
+- Fecha de lanzamiento: 1995
+- Artista: Los Secretos
+
 ```
 
 [Intro]

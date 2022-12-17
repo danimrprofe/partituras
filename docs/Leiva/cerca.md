@@ -1,4 +1,4 @@
-# 04 Cerca
+# Cerca
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
@@ -18,14 +18,14 @@ Es una decisión fatal, es el universo
 Las cosas nunca se nos dieron mal
      F            G
 El resto está por ver
- 
+
 C              G            Am           F
 No estábamos para forzar, y yo soy un intenso
    Dm                Am
 La culpa no se puede remontar
    F             G
 En este invierno cruel
-``` 
+```
 **Estribillo**
 ```
                        F
@@ -36,9 +36,9 @@ Em                 Am
 No seas estúpida y ven
    Dm    C       G
 Volvamos a intentarlo
- 
+
 C F C G
-``` 
+```
 
 <div style="page-break-after: always;"></div>
 
@@ -50,24 +50,24 @@ Chispazos en la gran ciudad, La suerte y el incienso
 La charla sobre la felicidad
 F                       G
 Uhhhh... la mierda de siempre
- 
+
 C                    G              Am               F
 No ha vuelto a responder jamás, Y vuelco en cada intento
    Dm                  Am
 La veo en posters de publicidad
   F          G
 Posando para mí
-``` 
-**Repite coro 2 veces** 
- 
+```
+**Repite coro 2 veces**
+
 **Instrumental**
 ```
 F G C Dm
 F G Dm Em F G
-``` 
+```
 **Repite coro**
- 
-**Final** 
+
+**Final**
 ```
 C F C G
 C F C G C

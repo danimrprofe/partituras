@@ -1,5 +1,9 @@
 # Si quieres bailamos
 
+- Fecha de lanzamiento: 2003
+- Artista: Pereza
+- Álbum: Algo para cantar
+
 ```
 A                      E                           F#m
 Estaba pensando en escribirte una canción y no me sale
@@ -12,11 +16,11 @@ tiro el cenicero y me sale todo del revés.
 
 F#m    E         D
 Ya no sé qué contarte
-A       SIm     D
+A       Bm     D
 que no te haya contado ya
 F#m     E       D
 ya no sé qué besarte
-A       SIm     D
+A       **Bm**     D
 que no te haya besado ya
 
 D                        E                     F#m

@@ -1,5 +1,9 @@
 # Berlín
 
+- Fecha de lanzamiento: 2009
+- Álbum: La hora de los gigantes
+- Artista: Coque Malla
+
 ```
 Cejilla en T6
 

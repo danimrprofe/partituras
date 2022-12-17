@@ -1,11 +1,11 @@
 # Soñe contigo
 
-```
-[Letra de "Soñé Contigo" (ft. Marco Mares)]
+
+ft. Marco Mares
 
 
 [Verso 1]
-
+```
 E                       E7             F#m7
 Vengo a explicarte que hoy soñé contigo
 B                           E

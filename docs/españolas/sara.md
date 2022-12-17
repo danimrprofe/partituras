@@ -3,8 +3,10 @@
 ```
 E1 E2 F#m A B
 E1 E2 F#m A B E A B
-       
- 
+
+```
+**Estrofa**
+```  
 E1
   Ella me dio cuanto se puede dar
 E2
@@ -23,8 +25,10 @@ F#m                     B B2 B
   si entre sus uñas yo también estoy
         E1        E3   C#m B       F#  B
   para que ahora regresar  años después.
- 
- 
+
+```
+**Estribillo**
+``` 
   E1   E2     C#m C#m2              A               E
   Sara,    Oh Sa  ra     qué es lo que viniste a buscar
            F#m                   B
@@ -105,5 +109,5 @@ F#m                     B B2 B
  
            A        B     E1  E2 F#m
   Sara ha vuelto a la ciudad.            x3
-                          [Riff rinal]
+                         
 ```

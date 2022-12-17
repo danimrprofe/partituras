@@ -8,18 +8,18 @@ G | C D | G  | C D
 ```
 G                   Em                               D
 Después de tanto tropezar, Dando tumbos he llegado aquí
-C                   
+C
   Y no se esta tan mal
 G              Em                           D
 No sabia donde ir, Habia cerrado el ultimo bar
-       C                  
+       C
 Y tu oferta no la pude rechazar
 G                     D                          C
-Y deja q yo apague la luz Tu deja de mira el reloj 
+Y deja q yo apague la luz Tu deja de mira el reloj
       D
 Sera mejor
 G                     D                             C
-Y yo dando patadas al sol, y tú enfadada con el despertador 
+Y yo dando patadas al sol, y tú enfadada con el despertador
 D
 Enemigo del calor
 ```

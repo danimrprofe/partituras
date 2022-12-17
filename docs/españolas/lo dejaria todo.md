@@ -2,6 +2,7 @@
 
 Capo traste 1
 
+**Estrofa**
 ```
 Am                                  D
  He intentado casi todo para convencerte,
@@ -25,8 +26,10 @@ G                                               C
           D
  Y yo te juro que...
 
+```
+**Estribillo**
+```
 
- (CORO)
              G
  Lo dejaría todo por que te quedaras,
                C
@@ -38,12 +41,14 @@ G                                               C
                    C
  Mi piel también la dejaría,
                                  G               D Em
- Mi nombre, mi fuerza hasta mi propia vida-a. 
+ Mi nombre, mi fuerza hasta mi propia vida-a.
                   Am                     D
- Y qué más da perde-er, si te llevas el todo, mi fe, ¿Qué no 
+ Y qué más da perder, si te llevas el todo, mi fe, ¿Qué no
       C     G
  dejaría?
-
+```
+**Estrofa**
+```
 Am                                           D
  Duelen más tus cosas buenas cuando estás ausente,
 G                                        C
@@ -70,5 +75,23 @@ G                                        C
  Sigo muriéndome.
 
 
- (SE REPITE EL CORO)
+```
+**Estribillo**
+```
+             G
+ Lo dejaría todo por que te quedaras,
+               C
+ Mi credo mi pasado mi religión.
+                   D
+ Después de todo estás rompiendo nuestros lazos,
+              G
+ Y dejas en pedazos este corazón.
+                   C
+ Mi piel también la dejaría,
+                                 G               D Em
+ Mi nombre, mi fuerza hasta mi propia vida-a.
+                  Am                     D
+ Y qué más da perder, si te llevas el todo, mi fe, ¿Qué no
+      C     G
+ dejaría?
 ```

@@ -15,22 +15,22 @@ A G D A
      A                     G
 Es el destino quien nos lleva y nos guÃ­a
        D                  A
-Nos separa y nos une a travÃ©s de la vida
+Nos separa y nos une a través de la vida
 
 A G D A
 
       A                 G
-Nos dijimos adiÃ³s y pasaron los aÃ±os
+Nos dijimos adiós y pasaron los años
      D                  A
-Volvimos a vernos una noche de sÃ¡bado
+Volvimos a vernos una noche de sábado
                     G
-Otro paÃ­s, otra ciudad, otra vida
+Otro país, otra ciudad, otra vida
 D             A
 Pero la misma mirada felina
 
 [Pre chorus]
         G          D                     A
-A veces te matarÃ­a, y otras en cambio te quiero comer
+A veces te mataría, y otras en cambio te quiero comer
            G
 Ojillos de aguamarina
 
