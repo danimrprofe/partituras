@@ -1,9 +1,9 @@
 # Godzilla
 
-| 🎸Tonalidad                   | Tempo  | Compás | Capo |
-| ---------------------------- | ------ | ------ | ---- |
-| Fa mayor (disco)             | 75 bpm | 4/4    | 5    |
-| Fa## mayor (directo nuclear) | 75 bpm | 4/4    | 6    |
+| 🎸Tonalidad                  | Tempo  | Compás | Capo |
+| --------------------------- | ------ | ------ | ---- |
+| Fa mayor (disco)            | 75 bpm | 4/4    | 5    |
+| Fa# mayor (directo nuclear) | 75 bpm | 4/4    | 6    |
 
 **Notas**
 

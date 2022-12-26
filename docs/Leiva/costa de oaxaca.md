@@ -2,7 +2,7 @@
 
 | 🎸Tonalidad | Tempo | Compás | Capo |
 | ---------- | ----- | ------ | ---- |
-|            | bpm   | 6/8    | No   |
+| Fa # Mayor | bpm   | 6/8    | No   |
 
 - Afinación -1 o bajar medio tono
 

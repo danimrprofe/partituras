@@ -7,9 +7,10 @@ En el disco original sin capo (Do mayor)
 - Año de publicación: 2009
 
 
-| Tonalidad    | Tempo | Compás | Capo |
-| ------------ | ----- | ------ | ---- |
-| Do ##  Mayor | bpm   | 4/4    | 1    |
+| Tonalidad                   | Tempo | Compás | Capo |
+| --------------------------- | ----- | ------ | ---- |
+| Do  Mayor (aviones)         | bpm   | 4/4    |      |
+| Do # Mayor (Madrid Nuclear) | bpm   | 4/4    | 1    |
 
 **Intro**
 ```
@@ -35,7 +36,7 @@ C         G         F   C
 Probaste fortuna en 1996,
 G                Am         F                    G
 de Málaga hasta La Coruña, durmiendo en la estación de tren.
-``` 
+```
 **Estribillo**
 ```
 C                    G              Am                F
@@ -67,7 +68,7 @@ y nunca hablaron los diarios de Lady Madrid..
 ```
 **Solo**
 ```
-Dm G Dm G G7 G7sus4 G7 
+Dm G Dm G G7 G7sus4 G7
 G
 ```
 **Estribillo**
@@ -85,7 +86,7 @@ y nunca hablaron los diarios de Lady Madriiiiiiiiiid...
 ```
 C    F      C     F      C
 Lady Madrid, Lady Madrid...
- 
+
 Vuelve a repetir el coro varias veces hasta terminar, a modo de bis
 
 Finaliza con F-C

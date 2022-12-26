@@ -1,8 +1,8 @@
 # Como si fueras a morir mañana
 
-| 🎸Tonalidad | Tempo | Compás | Capo |
-| ---------- | ----- | ------ | ---- |
-|            | bpm   | 4/4    | 1    |
+| 🎸Tonalidad | Tempo   | Compás | Capo |
+| ---------- | ------- | ------ | ---- |
+| Mib Mayor  | 144 bpm | 4/4    | 1    |
 
 
 **Intro**
