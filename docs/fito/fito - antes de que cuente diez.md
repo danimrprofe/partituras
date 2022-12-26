@@ -22,12 +22,12 @@ y en cuanto me bajé del coche
 yo supe que era mi lugar.
 ```
 **Estrofa**
-``` 
+```
      Am                                     F
 Y es bueno saber que igual que dinero al cajón
     Am                F       G           C
 las damas que ves te llevan allá a su rincón.
- 
+
 
            F                      C
 Tarde o temprano sé que voy a volver
@@ -37,10 +37,10 @@ de vez en cuando cada cuando una vez.
 Sin esperarlo tarde o temprano
 G               Am  G  F  C
 sé que voy a volver.
- 
+
 ```
 **Estrofa**
-``` 
+```
 Am  G  F  C
 ```
 **Estrofa**
@@ -53,8 +53,8 @@ que hasta el whisky 12 años aparenta alguno menos.
 Hay policías y ladrones compartiendo cenicero
       C
 y una lámpara más rota que la voz del camarero.
- 
- 
+
+
    Am
 No quieras querer
                      F
@@ -63,8 +63,8 @@ no te confundas, no, no
 no puedes comprar
 F        G        C
 con tu dinero su amor.
- 
- 
+
+
            F                      C
 Tarde o temprano sé que voy a volver
            F                      C
@@ -73,23 +73,23 @@ de vez en cuando cada cuando una vez.
 Sin esperarlo tarde o temprano
 G               Am
 sé que voy a volver.
- 
+
 ```
 **Estrofa**
-``` 
+```
 C  F Am  C  F
 C  G  Am  F  G
 ```
 **Estrofa**
-``` 
+```
            F                      C
 Tarde o temprano sé que voy a volver
            F                      C
 de vez en cuando cada cuando una vez.  [x2]
- 
+
 ```
 **Estrofa**
-``` 
+```
 F           C
 Ohhh, ohhohhohh        [repite]
 ```
@@ -111,7 +111,7 @@ Ahhahhahh, ahhahhahh
 Ahhahhahh, ahhh, ahhh       [x2]
 ```
 **Estrofa**
-``` 
+```
 A            G          D
 Cuanto se gritó diciendo nada
 A          G            D
@@ -122,7 +122,7 @@ A         G                     D
 y nunca sabré lo que encontraste tu.
 ```
 **Estrofa**
-``` 
+```
 A              G           D
 Que te traigan flores las mañanas
 A            G            D
@@ -133,8 +133,8 @@ A               G                    D
 que uno de esos sueños que me sueñe a mí.
 ```
 **Estrofa**
-``` 
- 
+```
+
            Bm                            D
 Detrás del viento un huracán, se fue formando en la cabeza
           Bm          A                D
@@ -145,16 +145,16 @@ Mi corazón es de cristal, no guarda nada que no veas
 solo un pequeño resplandor de nuestra hoguera.
 ```
 **Estrofa**
-``` 
- 
+```
+
       Bm         D
 Ahhahhahh, ahhahhahh
       Bm   A     D
 Ahhahhahh, ahhh, ahhh
 ```
 **Estrofa**
-``` 
- 
+```
+
 A              G          D
 Mi canción que nace del fracaso
 A           G              D
@@ -165,13 +165,13 @@ A          G               D
 es mi boca seca, nada que beber.
 ```
 **Estrofa**
-``` 
+```
      A
 Ohh pobre corazón que no sabe que decir
       G
 si te vas por lo que soy o por lo que nunca fui.
- 
- 
+
+
                 Bm
 Hay caminos que hay que andar descalzo
 D
@@ -191,10 +191,10 @@ aun queda mucho por vivir.
 ```
 **Estrofa**
 ```
- 
+
 D  A  G  D  A    (x2)
 D
- 
+
 ```
 **Estrofa**
 ```
@@ -202,7 +202,7 @@ A
 Ohh pobre corazón que no sabe que decir
       G
 si te vas por lo que soy o por lo que nunca fui.
- 
+
                   Bm
 Y hay caminos que hay que andar descalzo
              D
@@ -222,12 +222,12 @@ aun queda mucho por vivir.
 ```
 **Estrofa**
 ```
- 
+
 D  A  G  D A    (x4)
 ```
 **Estrofa**
-``` 
- 
+```
+
       Bm         D
 Ahhahhahh, ahhahhahh
       Bm   A     D
@@ -352,8 +352,8 @@ Am             Bm
 si después, después
 E     Am         Bm  E
 si después te vas.
- 
- 
+
+
 Am               Bm
 Para, para, para,  para
 E            Am         Bm  E
@@ -373,8 +373,8 @@ dile que recuerde lo que soy
 que tengo el querer, que tengo el llanto
             Am
 y que te canté la negra flor.
- 
- 
+
+
               Dm
 Huesos de los besos enterrados
             C
@@ -394,8 +394,8 @@ Am             Bm
 si después, después
 E     Am         Bm  E
 si después te vas.
- 
- 
+
+
 Am               Bm
 Para, para, para,  para
 E            Am         Bm  E
@@ -421,9 +421,9 @@ y te alejas otra vez.
 **Estrofa**
 ```
 Am  Bm  E  (x3)
- 
+
 F  G  Am  (x2)
- 
+
 Dm  G  Am  E
 ```
 **Estrofa**
@@ -436,14 +436,14 @@ Am             Bm
 si después, después
 E     Am         Bm  E
 si después te vas.          [x2]
- 
- 
+
+
 Am             Bm
 Si después, después
       Am          Bm  E
 si después te vas.
- 
- 
+
+
 Am  Bm  E        (repite)
 
 ```
@@ -459,7 +459,7 @@ Gm  Cm  Gm  Dm  Cm  (F) Gm (Dm)
 ```
 **Estrofa**
 ```
- 
+
 Gm
 Quiero que me arrastre el viento
         A#
@@ -474,7 +474,7 @@ y copiar el movimiento
 irrepetible azul del mar.
 ```
 **Estrofa**
-``` 
+```
 (Dm) Gm
 Arrancarme los recuerdos
       A#
@@ -489,9 +489,9 @@ imitar el parpadeo
 de las estrellas al brillar.
 ```
 **Estrofa**
-``` 
+```
 D              D#
-Algo tiene ese bar 
+Algo tiene ese bar
                    A#
 que está cerca de aquí
                    D

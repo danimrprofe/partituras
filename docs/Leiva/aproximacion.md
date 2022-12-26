@@ -1,5 +1,7 @@
 # Aproximación
 
+Capo 2
+
 ```
 [Verse]
   C     G  C       F          C
@@ -74,9 +76,9 @@ solo una aproximación,
 solo una aproximación.
 
 [Solo]
-Am Em F Em 
-F G 
-Am Em F Em 
+Am Em F Em
+F G
+Am Em F Em
 G
 
 [Chorus]

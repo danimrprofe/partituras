@@ -1,4 +1,4 @@
-# 02 Superpoderes
+# Superpoderes
 
 | Tonalidad                   | Tempo  | Compás | Capo |
 | --------------------------- | ------ | ------ | ---- |
