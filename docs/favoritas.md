@@ -5,7 +5,6 @@
 - [Tonight tonight](#tonight-tonight)
 - [Snuff](#snuff)
 - [Through the glass](#through-the-glass)
-- [Hero of war](#hero-of-war)
 - [Coldplay](#coldplay)
   - [Yellow](#yellow)
   - [Adventure of a lifetime](#adventure-of-a-lifetime)
@@ -71,74 +70,7 @@ No one knows what it's like to be the bad man
           Cadd9      A
 To be the sad man, behind blue eyes
 ```
-# I Will Follow You into the Dark
 
-Capo 5th fret
-
-```
-
-Intro: Am C F C C/B
-       Am C G
-       Am C E Am G F Fm C/G
-
-C/G                   Am/E                      F
-Love of mine, someday you will die, but I'll be close behind
-            C            G
-I'll follow you into the dark
-   C/G                          Am/E                           F
-No blinding light or tunnels to gates of white, just our hands clasped so tight
-        C                 G
-Waiting for the hint of a spark
-
-   Am                C              F             C   C/B
-If heaven and hell decide that they both are satisfied
-     Am            C             G
-And illuminate the no's on their vacancy signs
-   Am               C                  E      Am   G
-If there's no one beside you when your soul embarks
-     F           Fm           C/G
-Then I'll follow you into the dark
-
-   C/G                            Am/E                 F
-In Catholic school, as vicious as Roman rule, I got my knuckles bruised
-     C       G
-by a lady in black
-      C/G                   Am/E                       F
-And I held my tongue as she told me, "Son, fear is the heart of love"
-     C          G
-So I never went back
-
-   Am                C              F             C   C/B
-If heaven and hell decide that they both are satisfied
-     Am            C             G
-And illuminate the no's on their vacancy signs
-   Am               C                  E      Am   G
-If there's no one beside you when your soul embarks
-     F           Fm           C/G
-Then I'll follow you into the dark
-
-C/G                       Am/E                         F
-You and me have seen everything to see from Bangkok to Calgary
-        C             G
-And the soles of your shoes
-    C/G                         Am/E                          F
-Are all worn down, the time for sleep is now, it's nothing to cry about
-            C               G
-Cause we'll hold each other soon
-    Am          F
-The blackest of rooms
-
-       Am                C              F             C   C/B
-And if heaven and hell decide that they both are satisfied
-     Am            C             G
-And illuminate the no's on their vacancy signs
-   Am               C                  E      Am   G
-If there's no one beside you when your soul embarks
-     F           Fm           C  C/B  Am
-Then I'll follow you into the dark
-     F           Fm           C
-Then I'll follow you into the dark
-```
 # Brown eyed girl
 ```
 
@@ -266,34 +198,34 @@ C  Am  Fmaj7  C
  Db|---------------------------------|
  Ab|-3----3-----3----5-----5----5----|
  Eb|---------------------------------|
- 
- 
+
+
 [Fig. 2]
- 
+
  eb|---------------------------------|
  Bb|--0-----0---------0-----0--------|
  Gb|----0-----0---0-----0-----0---0--|
  Db|---------------------------------|
  Ab|-7----7-----7---10----10---10----|
  Eb|---------------------------------|
- 
- 
+
+
  [Intro]
- 
+
  G    (Quick down up down stroke followed by quick downstrokes for a few bars)
  Em  (Listen to it and you can easily hear what I mean)
  G
  Em
- 
+
  C  G  D
  C  G  D
  C  G  D  G
- 
+
  Fig. 1 x2 (before vox)
- 
- 
+
+
 [Verse]
- 
+
  Fig. 1                  Fig. 1
  Time is never time at all
                      Fig. 1                 Fig. 2
@@ -302,59 +234,59 @@ C  Am  Fmaj7  C
  And our lives are forever changed,
                      Fig. 1                          Fig. 2
  We will never be the same; The more you change the less you feel.
- 
+
  Fig. 1    Fig.1         Fig.1       G  D/F#    Em
  Believe, believe in me, believe (believe)
        Am                     C                    G   D/F#   Em
  That life can change, that you're not stuck in vain
        Am                    C        Cadd9 G/B  D     Cadd9 G/B  D
  We're not the same, we're different toniiiiiiiiiiiIIIight.
- 
- 
+
+
 [Chorus]
- 
+
  Cadd9 G/B D    Em           Am
  Toniiiiiiight, tonight, so bright
  Cadd9   G/B  D   Cadd9 G/B D     G
  ToniiiiiiiiiiiIIIight,        tonight
- 
- 
+
+
 [Instrumental]
- 
+
  G
  Em
- 
- 
+
+
 [Verse]
- 
+
  G
  And you know you're never sure
                               Em
  But you're sure you could be right
- 
+
  If you held yourself up to the light
  G                                               Em
  And the embers never fade in your city by the lake
- 
+
  The place where you were born.
- 
+
 Fig. 1    Fig.1         Fig.1       G  D/F#    Em
  Believe, believe in me, believe (believe)
         Am          C        G  D/F#  Em
  In the resolute urgency of now
          Am                  C           Cadd9  G/B   D     Cadd9  G/B  D
  And if you believe there's not a chance toniiiiiiiiiiiIIIight.
- 
- 
+
+
 [Chorus]
- 
+
  Cadd9 G/B D    Em           Am
  Toniiiiiiight, tonight, so bright
  Cadd9   G/B  D     G   D/F#   Em
  Toniiiiiiight,   tonight
- 
+
 [Bridge]
- 
+
        Am              C       G     D/F#  Em
  We'll crucify the insincere tonight (tonight)
         Am                       C             G     D/F#  Em
@@ -367,10 +299,10 @@ Fig. 1    Fig.1         Fig.1       G  D/F#    Em
  The impossible is possible tonight (tonight)
     Am (single strum) C (single strum)     Fig. 1
  Believe in me as I believe in you.... tonight.
- 
- 
+
+
 [Outro]
- 
+
  Fig. 1            Fig.1      G   D/F#   Em
  Tonight tonight, tonight, tonight.
 ```
@@ -382,10 +314,10 @@ Fig. 1    Fig.1         Fig.1       G  D/F#    Em
 Album: All Hope is Gone
 Track: Snuff
 Tune guitar down to: C#,F#,B,E,G#,C#
- 
+
 [Intro]
 Am Em F C
- 
+
 [Verse]
  Am                    Em   F   C
 Bury all your secrets in my skin
@@ -394,11 +326,11 @@ Come away with innocence, and leave me with my sins
  Am                         Em       F   C
 The air around me still feels like a cage
  Am                           Em   F                       C
-And love is just a camouflage for what resembles rage again… 
- 
+And love is just a camouflage for what resembles rage again…
+
 [Pre-Chorus]
 Am Em F C
- 
+
 [Chorus]
                         G                       Am
 So if you love me, let me go. And run away before I know.
@@ -410,10 +342,10 @@ Deliver me into my Fate - If I'm alone I cannot hate
 I don't deserve to have you…
     F                                                     Am
 My smile was taken long ago / If I can change I hope I never know
- 
+
 [Pre-Verse]
 Am Em F C
- 
+
 [Verse]
     Am                   Em      F   C
 I still press your letters to my lips
@@ -423,7 +355,7 @@ And cherish them in parts of me that savor every kiss
 I couldn't face a life without your light
     Am                            Em   F                   C
 But all of that was ripped apart… when you refused to fight
- 
+
 [Chorus]
                                 G                              Am
 So save your breath, I will not hear. I think I made it very clear.
@@ -435,10 +367,10 @@ I only wish you weren't my friend. Then I could hurt you in the end.
 I never claimed to be a Saint…
     F                                                            Am
 My own was banished long ago / It took the Death of Hope to let you go
- 
+
 [Solo]
 Am Em F C
- 
+
 [Chorus]
                               G
 So Break Yourself Against My Stones
@@ -454,7 +386,7 @@ And I Won't Listen To Your Shame
 You Ran Away - You're All The Same
                    G
 Angels Lie To Keep Control…
- 
+
 [Outro]
     F
 My Love Was Punished Long Ago
@@ -471,8 +403,8 @@ If you still care, don't ever let me know…
 ```
                            C
 I'm looking at you through the glass
- 
- 
+
+
 [Chorus]
                         D
 Don't know how much time  has passed
@@ -490,8 +422,8 @@ Don't know how much time  has passed
 AllI know is that it feels like forever
                                    C                    D                           Em
 When no one ever tells you that forever feels like home Sitting all alone inside your   head
- 
- 
+
+
 [Verse 1]
            C                     D
 How do you feel? That is the question
@@ -510,15 +442,15 @@ Describing what you see
 Remember what you're staring at is me
                                  C
 Cause I'm looking at you through the glass
- 
- 
+
+
 [Chorus]
                         D                                Em
 Don't know how much time  has passed AllI know is that it feels like forever
                                    C                    D                           Em
 When no one ever tells you that forever feels like home Sitting all alone inside your   head
- 
- 
+
+
 [Verse 2]
             C                    D
 How much is real? So much to question
@@ -533,8 +465,8 @@ C                             D
 Before you tell yourself It's just a different scene
   Em
 Remember it's just different from what you've seen
- 
- 
+
+
 [Chorus]
                            C                                 D
 I'm looking at you through the glass Don't know how much time  has passed
@@ -552,8 +484,8 @@ AllI know is that it feels like forever
 When no one ever tells you that forever feels like home Sitting all alone inside your   head
              C
 And it's the stars
- 
- 
+
+
 ```
 **Puente**
 ```
@@ -570,8 +502,8 @@ And it's the staaars, The staaaars that lie to yooou
 ```
                            C
 I'm looking at you through the glass
- 
- 
+
+
 [Interlude]
                         D
 Don't know how much time  has passed
@@ -588,8 +520,8 @@ AllI know is that it feels like forever
                                    C                    D                       Em
 When no one ever tells you that forever feels like home Sitting all alone inside your head
 
- 
- 
+
+
 ```
 **Puente**
 ```
@@ -601,8 +533,8 @@ And it's the staaars, The staaaars that lie to yooou
 And it's the staaars, The staaaars that shine for yooou
                C            D            Em
 And it's the staaars, The staaaars
- 
- 
+
+
 [Outro]
 C D Em        C
         Who are the stars
@@ -611,129 +543,7 @@ Who are the stars they
 
 ```
 
-# Hero of war
 
-**Intro**
-```
-Fsus2 G
-```
-
-**Estrofa**
-``` 
-
-         C                         Em                       Fmaj7
-He said "Son, have you seen the world? Well, what would you say
-                    C                    Fmaj7                      C
-if I said that you could? Just carry this gun and you'll even get paid"
-C                           G
- I said "That sounds pretty good"
-              C                      Em
-Black leather boots, spitshined so  bright
-                    Fsus2               C
-They cut off my hair     but it looks alright
-             
-We marched and we sang
-Fsus2
-     We all became friends
-C                     G
- As we learned how to fight
-
-```
-**Estribillo** 
-``` 
-           Am                       Fmaj7                   C
-A hero of war, Yeah that's what I'll be, and when I come home
-                          G                   Am                    Fmaj7
-They'll be damn proud of me. I'll carry this flag, to the grave if I must
-                          C                          G
-'cause it's a flag that I love, and a flag that I trust
-
-```
-**Estrofa** 
-``` 
- 
-[Verse 3]
-I kicked in the door
-C
- I yelled my commands
-Em
-   The children, they cried
-Fsus2            C
-     But I got my man
-We took him away
-Fsus2
-     A bag over his face
-C                        G
- From his family and his friends
-They took off his clothes
- 
- 
-[Verse 4]
-C                   Em                    Fmaj7                   C
- They pissed in his hands, I told them to stop, but then I joined in
-                 Fmaj7                       C                   G 
-We beat him with guns, and batons not just once, but again and again
- 
-
-```
-**Estribillo** 
-``` 
-           Am                       Fmaj7                   C
-A hero of war, Yeah that's what I'll be, and when I come home
-                          G                   Am                    Fmaj7
-They'll be damn proud of me. I'll carry this flag, to the grave if I must
-                          C                          G
-'cause it's a flag that I love, and a flag that I trust
- 
-Fmaj7 G
-```
-**Estrofa**
-``` 
-
-    Csus2                      Em
-She walked through bullets and haze
-I asked her to stop
-Fadd11                C
-      I begged her to stay
-But she pressed on
-Fadd11               C
-      So I lifted my gun
-             G
-And I fired away
- 
- 
-[Verse 6]
-              C
-And the shells jumped through the smoke
-Em
-   And into the sand
-Fsus2                       C
-     That the blood now had soaked
-             Fsus2                   C
-She collapsed     with a flag in her hand
-                G
-A flag white as snow
-A hero of war
-
-```
-**Estribillo** 
-``` 
-           Am                    Fmaj7                   C
-A hero of war, Is that what they see , Just medals and scars
-                   G                          Am                    Fmaj7
- So damn proud of me. And I brought home that flag, Now it gathers dust
-                        C                          G
-But it's a flag that I love, It's the only flag I trust
- 
- 
-```
-**Final**
-``` 
-         Am                        Em                       Fmaj7                
-He said, "Son, have you seen the world? Well what would you say,  
-                    C
-if I said that you could?"
-```
 
 
 How you remind me
@@ -757,7 +567,7 @@ Insurrección
 G C x4
 Bm D
 D C D C
-G C 
+G C
 Every breath you take
 G Em C D Em
 G C G
@@ -793,7 +603,7 @@ G D C C7 (x3)
 F D
 Stuck in the middle
 D
-G D 
+G D
 A C G
 Million reasons
 C Am F G
@@ -804,17 +614,15 @@ Am F C G x2
 F C G Am
 F
 
-
-
 Wicked game
 Am G D
 
 Accidentally in love
-G C G D 
+G C G D
 G C Em A
-G C G C 
+G C G C
 Em A C
-G C G C 
+G C G C
 Em A D C
 G Am7 C D x3
 Em7 A7 Csus2
@@ -825,7 +633,7 @@ Cadd9 D/F# G
 G Cadd9 D/F# G
 
 Times like these
-D Am-Am7 C 
+D Am-Am7 C
 Em Em7 D (x2)
 Cadd9 Em7 D Dsus4 x4
 
@@ -835,7 +643,7 @@ F G Em Am
 F G Em
 
 Hiding my heart away
-C Fmaj7 C Fmaj7 
+C Fmaj7 C Fmaj7
 C F Am G/B F C F G5
 C G/B Am C/G F C F G5
 Dm G C F
@@ -885,7 +693,7 @@ Em A Em A
 Em G D A
 Em A
 Learn to fly
-VC: 
+VC:
 
 | 1   | 2   | 3   | 4   |
 | --- | --- | --- | --- |
