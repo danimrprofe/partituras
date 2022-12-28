@@ -1,13 +1,19 @@
+# Carolina
+
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+| Sol Mayor | Estándar  | 4/4    | 4    |
+
 ```
 [Intro]
 Em C
 Em C
- 
+
 Em C G D
 Em C G D
 Em C G D
 Bb F G
- 
+
 [Verse]
 C             G
 La dulce niña Carolina,
@@ -25,13 +31,13 @@ C              G
 Después se mete en mi cama,
      D
 eso es mucho para mi.
- 
+
 [Pre-chorus]
 Am        D        Am      D
 Esa va a ser mi ruina, pequeña Carolina,
 C    G      D
 vete por favor.
- 
+
 [Chorus]
 Em    C   G       D       Em        C
 Carolina tratame bien, no te rias de mi,
@@ -41,13 +47,13 @@ Em   C    G      D
 Carolina tratame bien,
     Bb         F         G
 o al final te tendré que comer
- 
+
 [Solo]
 Em C G D
 Em C G D
 Em C G D
 Bb F G
- 
+
 [Verse]
 C               G
 No queda en la ciudad esquina,
@@ -65,13 +71,13 @@ C            G
 Vinagre para las heridas,
   D
 dulce azúcar al final.
- 
+
 [Pre-chorus]
 Am        D        Am      D
 Esa va a ser mi ruina, pequeña Carolina,
 C    G      D
 vete por favor.
- 
+
 [Chorus]
 Em    C   G       D       Em        C
 Carolina tratame bien, no te rias de mi,
@@ -81,19 +87,19 @@ Em   C    G      D
 Carolina tratame bien,
     Bb         F         G
 o al final te tendré que comer
- 
+
 [Solo]
 C G D Am
 C G D
 C G D Am
 C G D
- 
+
 [Pre-chorus]
 Am          D            Am         D
 El diablo está en mi vida, pequeña Carolina,
 C    G      D
 vete por favor.
- 
+
 [Chorus]
 Em    C   G       D       Em        C
 Carolina tratame bien, no te rias de mi,
@@ -103,7 +109,7 @@ Em   C    G      D
 Carolina tratame bien,
     Bb         F         G
 o al final te tendré que comer
- 
+
 Em    C   G       D       Em        C
 Carolina tratame bien, no te rias de mi,
     G           D
@@ -112,7 +118,7 @@ Em   C    G      D
 Carolina tratame bien,
     Bb         F         G
 o al final te tendré que comer
- 
+
 [Outro]
 Em C G D
 Em C G D

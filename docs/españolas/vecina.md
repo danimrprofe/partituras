@@ -1,5 +1,10 @@
 # Vecina
 
+
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
+
 ![](img/2022-12-10-11-54-37.png)
 
 **Intro**

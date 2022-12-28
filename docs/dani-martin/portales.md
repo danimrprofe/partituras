@@ -1,4 +1,4 @@
-## Portales
+# Portales
 
 | Tonalidad | Tempo | Compás | Capo |
 | --------- | ----- | ------ | ---- |
@@ -25,7 +25,7 @@ Que no acabe esto, que se quede así. Y que tengas tantas cosas que decir
 Y que queden tantas tardes de escondernos en portales
       Em                     C          D
 De comernos arrancándonos a besos las edades
-      G                          B7        
+      G                          B7
 Y volver a hacer las paces por semanas sin hablarme
      Em                      C            D
 Y acabar nuestro domingo follando como animales
@@ -33,7 +33,7 @@ Y acabar nuestro domingo follando como animales
 [Verse]
              G              D/F#             Em             B7
 Llenarnos de miedos Quererme morir ¿Qué es esto que siento? Strawberry Fields
-              C                  Cm 
+              C                  Cm
 Pegado aquí dentro tan dentro de mi
              G              D/F#             Em             B7
 Que no existan versos Para describir Portales eternos Que no tengan fin
@@ -45,7 +45,7 @@ Que precioso cuento Que no pare aquí Y que tenga tantas cosas Que decir
 Y que queden tantas tardes de escondernos en portales
       Em                     C          D
 De comernos arrancándonos a besos las edades
-      G                          B7        
+      G                          B7
 Y volver a hacer las paces por semanas sin hablarme
      Em                      C            D
 Y acabar nuestro domingo follando como animales
@@ -59,7 +59,7 @@ G   B7   Em  Cm
 Y que queden tantas tardes de escondernos en portales
       Em                     C          D
 De comernos arrancándonos a besos las edades
-      G                          B7        
+      G                          B7
 Y volver a hacer las paces por semanas sin hablarme
      Em                      C            D
 Y acabar nuestro domingo follando como animales

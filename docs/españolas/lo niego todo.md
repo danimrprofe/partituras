@@ -1,7 +1,18 @@
 # Lo niego todo
-```
-Intro: E E/G# A C#m G#m/B Amaj7 / B Cdimm C#m F# / A Bsus B E Bsus7/E E
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+| Mi mayor  | Estándar  | 4/4    | No   |
+
+**Intro**
+
+| 1         | 2      | 3         | 4           |
+| --------- | ------ | --------- | ----------- |
+| E E/G#    | A      | C#m G#m/B | Amaj7 / B   |
+| Cdimm C#m | F# / A | Bsus B    | E Bsus7/E E |
+
+**Estrofa**
+```
 E                        E/G#    A
  Ni ángel con alas negras,   ni profeta del vicio
 C#m                    G#m/B      A                 A6 A
@@ -20,6 +31,9 @@ B                     Cdimm C#m
 A                   Bsus     E
  Ni he quemado mis naves, ni sé pedir perdón
 
+```
+**Estribillo**
+```
           C#m A                   E
 Lo niego todo, aquellos polvos y estos lodos
    E/D#   C#m A              B
@@ -52,8 +66,14 @@ A              B   E
  y una venus latina me dio la extremaunción
 
 ESTRIBILLO
+```
+**Interludio**
 
-Interludio: E E/D C#m C / E E/D C#m B
+| 1   | 2   | 3   | 4     |
+| --- | --- | --- | ----- |
+| E   | E/D | C#m | C / E |
+| E/D | C#m | B   |       |
+```
 
 ESTRIBILLO
 

@@ -1,5 +1,8 @@
 # No puedo vivir sin ti
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
 
 ```
 [Intro]

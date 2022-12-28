@@ -1,5 +1,9 @@
 # La flaca
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
+
 ```
 [Intro]
 Am E7 D  C  F7

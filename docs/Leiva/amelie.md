@@ -1,8 +1,8 @@
 # Amelie
 
-| 🎸Tonalidad | Tempo  | Compás | Capo |
-| ---------- | ------ | ------ | ---- |
-| Si menor   | 85 bpm |        | 2    |
+| Tonalidad | Tempo  | Compás | Capo |
+| --------- | ------ | ------ | ---- |
+| Si menor  | 85 bpm |        | 2    |
 
 ```
 [Verse 1]

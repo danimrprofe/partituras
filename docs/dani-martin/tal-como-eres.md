@@ -1,4 +1,10 @@
-## Tal como eres
+# Tal como eres
+
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
+
+
 ```
 [Intro]
 Am  Dm  F   G  Am  G  Am

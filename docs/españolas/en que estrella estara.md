@@ -1,7 +1,11 @@
 # En que estrella estará
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 3    |
+
 ```
-Capo 3
+
 
 INTRO:
 

@@ -1,6 +1,8 @@
 # Aproximación
 
-Capo 2
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 2    |
 
 ```
 [Verse]

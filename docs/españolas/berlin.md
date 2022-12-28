@@ -4,9 +4,11 @@
 - Álbum: La hora de los gigantes
 - Artista: Coque Malla
 
-```
-Cejilla en T6
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 6    |
 
+```
 
 [Intro]
 G G/F# Em C G G/F# Em Em x2

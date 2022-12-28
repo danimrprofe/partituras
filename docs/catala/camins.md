@@ -1,6 +1,9 @@
 # Camins
 
-Capo 4
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 4    |
+
 
 ```
 (INTRO) | D | Dsus2 | D | Dsus2 |
@@ -44,4 +47,4 @@ D*                   Am*    G                       D*
  Camins que ara s'esvaeixen, camins que has de fer sol.
 D*                   Am*   G                   D
  Camins vora les estrelles, camins que ja són nous.
- ```
+```

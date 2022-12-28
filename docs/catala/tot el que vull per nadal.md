@@ -1,5 +1,9 @@
 # El que vull per nadal
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 4    |
+
 ```
 G
 no vull massa aquest nadal

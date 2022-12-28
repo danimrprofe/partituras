@@ -1,5 +1,9 @@
 # Mientes tan bien
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
+
 **Intro**
 ```
 G Gadd2  D/F#  (x2)

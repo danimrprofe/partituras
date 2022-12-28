@@ -4,6 +4,10 @@
 - Fecha de lanzamiento: 1995
 - Artista: Los Secretos
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 3    |
+
 ```
 
 [Intro]

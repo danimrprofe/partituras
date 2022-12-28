@@ -1,5 +1,11 @@
 # Quan somrius
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 4    |
+
+
+
 ```
 [Intro]
 C  FM7  C  (x2)

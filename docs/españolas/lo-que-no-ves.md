@@ -1,7 +1,9 @@
 # Lo que no ves
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 4    |
 
-Capo 4
 ```
 [Intro]
 

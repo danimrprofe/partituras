@@ -1,14 +1,16 @@
 # A quemarropa
 
-Capo 1
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 1    |
 
 ```
 [Intro]
- 
+
 Am F x3
- 
+
 [Verse 1]
- 
+
           Am
 Llegaste del mar
           F
@@ -21,20 +23,20 @@ brillando en tu pelo
 Como una señal
             G
 que a todo responde
- 
- 
+
+
 [Pre-chorus]
- 
+
 F          G                 Am
   Y sin dudar me fui a un lugar sin saber hacia donde
 Dm         G        Am
   Y se llenó de mariposas todo el horizonte
 F       G
   Ohhhhhhhhh
- 
- 
+
+
 [Chorus]
- 
+
                  Dm
 Quiero decirte que yo
 G                  Am
@@ -51,15 +53,15 @@ Siempre me salvas tú
 Si a quemarropa me disparan, me disparan, me disparan
                F            G          Am
 Y a quemarropa me disparan, me dispararán
- 
- 
+
+
 [Interlude]
- 
+
 Am F x2
- 
- 
+
+
 [Verse 2]
- 
+
            Am
 Como iba a pensar (ohhh)
              F
@@ -72,10 +74,10 @@ ya te echaba de menos  (ohhh)
 La vida es el mar
               G
 que todo lo esconde
- 
- 
+
+
 [Pre-chorus]
- 
+
 F                   G
   Y a veces navegar  y a veces naufragar
 Am
@@ -84,10 +86,10 @@ Dm          G              Am
   Y aprenderás a ser guardián de todo lo que importe
 F       G
   Ohhhhhhhhh
- 
- 
+
+
 [Chorus]
- 
+
                  Dm
 Quiero decirte que yo
 G                  Am
@@ -104,18 +106,18 @@ Siempre me salvas tú
 Si a quemarropa me disparan, me disparan, me disparan
                F            G          Am
 Y a quemarropa me disparan, me dispararán
- 
- 
+
+
 [Solo]
- 
+
 F  G Am Am
 C  C G  G
 Dm F Am Am
 F  G Am Am
- 
- 
+
+
 [Bridge]
- 
+
                     Am
 Y no hay consejos que dar
 Am
@@ -132,10 +134,10 @@ tampoco tan diferentes
 Y no te creas todo lo que piensas
 G             Am
 pero piensa todo siempre
- 
- 
+
+
 [Chorus]
- 
+
                  Dm
 Quiero decirte que yo
 G                  Am
@@ -152,9 +154,9 @@ Siempre me salvas tú
 Si a quemarropa me disparan, me disparan, me disparan
                F            G          Am
 Y a quemarropa me disparan, me dispararán
- 
+
 [Solo-Outro]
- 
+
 F  G Am Am
 C C G  G
 Dm F Am Am

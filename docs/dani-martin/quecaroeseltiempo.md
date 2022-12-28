@@ -1,9 +1,8 @@
+# Que caro es el tiempo
 
-## Que caro es el tiempo
-
-- Tuning:E A D G B E
-- Key:E
-- Capo: 4
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+| Mi mayor  | Estándar  | 4/4    | 4    |
 
 
 ```

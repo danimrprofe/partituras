@@ -1,5 +1,9 @@
 # Como hablar
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
+
 ```
 [Intro]
 A G D A
