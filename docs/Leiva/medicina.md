@@ -1,5 +1,9 @@
 # Medicina
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No    |
+
 ```
 [Verse 1]
 D          F#m

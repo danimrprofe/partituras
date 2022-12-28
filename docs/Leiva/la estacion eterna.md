@@ -1,5 +1,9 @@
 # La estación eterna
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No    |
+
 **Intro**
 ```
 B
@@ -69,5 +73,5 @@ bajo a ver si veo a alguien de verdad.
 ```
        B    E
 de verdad..     (x4)
-B 
-``` 
+B
+```

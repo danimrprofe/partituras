@@ -1,6 +1,8 @@
 # Guerra Mundial
 
-Capo 1
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 1    |
 
 **Intro**
 ```
