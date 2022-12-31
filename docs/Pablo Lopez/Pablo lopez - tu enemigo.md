@@ -1,11 +1,12 @@
-## Tu enemigo
+# Tu enemigo
+
 ```
 [Intro]
 D# Cm Gm A#  Cm A# F
- 
+
 ```
 **Estrofa**
-```  
+```
 Gm
 Bajo sombra he visto otra montaña bebiendo sin permiso de otro río
 A#                             F   Cm       Gm
@@ -14,7 +15,7 @@ Gm
 Quién viene a tu país a profanarte, quién pisa la ciudad sin tu permiso
 A#                            F   Cm       Gm
 Quién sacará tus cosas de la calle. Tu enemigo
- 
+
 ```
 **Estribillo**
 ```
@@ -28,7 +29,7 @@ Olvidaron que el hombre no es más que un hombre
 Que tus manos son mi bandera y que tengo de frontera una canción
 ```
 **Estrofa**
-```   
+```
 Gm
 No me preguntes para qué he venido, pregúntate mejor cómo has llegado
 A#                               F Cm          Gm
@@ -43,7 +44,7 @@ Culpable del amor trabajo y tierra
 (culpable del amor trabajo y tierra)
 A#                         F  Cm        D#      F
 Culpable de vivir en el camino por tu guerra  aaah
- 
+
 ```
 **Estribillo**
 ```
@@ -55,13 +56,13 @@ más rico del mundo así, viviendo de tus abrazos
 Olvidaron que el hombre no es más que un hombre
     A#                   F           D7                        D#
 Que tus manos son mi bandera y que tengo de frontera una canción
- 
+
 [Interlude]
 D#  Cm  Gm
 Dm D#
 Cm  A#  F
 Cm  A#  F
- 
+
 ```
 **Estribillo**
 ```
@@ -73,7 +74,7 @@ más rico del mundo así, viviendo de tus abrazos
 Olvidaron que el hombre no es más que un hombre
     A#                   F           D7                        Gm
 Que tus manos son mi bandera y que tengo de frontera una canción
- 
+
 [Outro]
  D#       F           Gm
 She le le le le le ...  una canción

@@ -1,6 +1,7 @@
-## Dos palabras
+# Dos palabras
+
 **Introducción**
-``` 
+```
 A A7  A6 A7
 A A7  A6 A7
 ```
@@ -16,7 +17,7 @@ Bm             E7     Bm             E7
 Pero el miedo pesa, más que la razón
 ```
 **Estribillo**
-``` 
+```
 D          E7      F#m     C#m
 Y yo, que soy un perro que no tiene dueño
 D          E7      F#m     C#m
@@ -26,21 +27,21 @@ Recordé que a veces el mundo va en serio
 D                    Dm             A
 Fueron dos palabras, Fueron dos palabras
 
-A | A 
+A | A
 ```
 **Estrofa**
 ```
 A          A7            A          A7
 Quisimos evitarlo, quizás disimularlo
 Bm           E7  Bm             E7
-Éramos cobardes, solo dos cobardes 
+Éramos cobardes, solo dos cobardes
 A          A7          A          A7
 Culpables e inocentes, De sueños diferentes
 Bm           E7  Bm             E7
 Pero se perdonaban hasta la verdad
 ```
 **Estribillo**
-``` 
+```
 D          E7      F#m     C#m
 Tú jamás pensaste que me lo dirías
 D          E7      F#m     C#m
@@ -52,12 +53,12 @@ Fueron dos palabras, Fueron dos palabras
 
 ```
 **Instrumental**
-``` 
-Bm7 | F#m | A/E | B7     
-Bm7 | F#m | A/E | E A/C# 
+```
+Bm7 | F#m | A/E | B7
+Bm7 | F#m | A/E | E A/C#
 ```
 **Estribillo**
-```  
+```
 D          E7      F#m     C#m
 Y yo, que soy un perro que no tiene dueño
 D          E7      F#m     C#m
@@ -68,7 +69,7 @@ D                    Dm             A
 Fueron dos palabras, Fueron dos palabras
 ```
 **Final (Igual que el comienzo)**
-```  
+```
 A A7  A6 A7
 A A7  A6 A7
 ```

@@ -1,12 +1,12 @@
-## Lo saben mis zapatos
+# Lo saben mis zapatos
 
 **Intro**
-```  
+```
 C | Bm/F# | Em | Bm/F#
 C | Bm/F# | Em7
 ```
 **Estrofa**
-```  
+```
 C/E           Bm/F#        C/E         Bm/D
  No quiero correr, lo saben mis zapatos
 C/E           Bm/F#        C/E         Bm/D
@@ -17,7 +17,7 @@ Em            G/B      Dsus4     D
   Quiero merendarte al sol.
 ```
 **Estrofa**
-```  
+```
 C/E           Bm/F#        C/E         Bm/D
  Quiero pelear,   lo saben los cobardes
 C/E           Bm/F#        C/E         Bm/D
@@ -44,7 +44,7 @@ C Bm/F# Em Bm
 C Bm/F# Em7
 ```
 **Estrofa**
-```  
+```
 C/E           Bm/F#        C/E         Bm/D
  No quiero volar,   lo saben mis amigos
 C/E           Bm/F#        C/E         Bm/D
@@ -55,7 +55,7 @@ Em              Bm      Dsus4      D
  Quiero que lo quieras hoy.
 ```
 **Estrofa**
-```  
+```
 C/E           Bm/F#        C/E         Bm/D
 Quiero hacer sentir,  lo saben estas manos
 C/E         Bm/F#      C/E         Bm/D
@@ -75,7 +75,7 @@ matar, y no lo sabe nadie, no lo sabe nadie
 Te quiero matar de amor y no,
             G      Am7     G/B     C        Em   D    G
 No lo sabe nadie, nadie, naaadie puede imaginár  se   lo.
- 
+
 ```
 **Instrumental**
 ```
