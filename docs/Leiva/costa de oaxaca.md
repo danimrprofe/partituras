@@ -27,9 +27,11 @@ Si me dejas te cuento un secreto, Me he pedido tu lado en la cama
 Y pinté media luna en el techo, Como hacía mi hermana
 C       D         G
 Como hacía mi hermana
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 Em      C                  G         Bm                Em
 Voy a tumbarme sobre la maleza, A mirar cómo las horas pasan
      D                  G
@@ -47,9 +49,11 @@ Si me dejas te cuento un secreto, No me atrevo a agarrar la guitarra
 La otra noche escribí una canción, Que no hablaba de nada
 C        D         G
 Que no hablaba de nada
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 Em      C                  G         Bm                Em
 Voy a tumbarme sobre la maleza, A mirar cómo las horas pasan
      D                  G

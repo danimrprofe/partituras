@@ -16,9 +16,11 @@ Quién viene a tu país a profanarte, quién pisa la ciudad sin tu permiso
 A#                            F   Cm       Gm
 Quién sacará tus cosas de la calle. Tu enemigo
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
            D#                             Gm
 Si estos idiotas supieran que yo soy el hombre
                     A#                      F
@@ -45,9 +47,11 @@ Culpable del amor trabajo y tierra
 A#                         F  Cm        D#      F
 Culpable de vivir en el camino por tu guerra  aaah
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
             D#                            Gm
 Si estos idiotas supieran que yo soy el hombre
                    A#                      F
@@ -63,9 +67,11 @@ Dm D#
 Cm  A#  F
 Cm  A#  F
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
            D#                             Gm
 Si estos idiotas supieran que yo soy el hombre
                     A#                      F

@@ -18,9 +18,11 @@ Tú solo mueve los brazos, Que yo te curo allá a fuera
 Ya no se sienten tus pasos Y se nos doblan las piernas
              G                         Am
 Ya que has subido bien alto, no te me caigas de vuelta
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
           F            G
 Eres lo único que veo entre la niebla
     F                 C
@@ -51,9 +53,11 @@ Yo estaba en la furgoneta
 Llegando al barrio con Juancho
             Am
 Después de días de guerra
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
           F            G
 Eres lo único que veo entre la niebla
     F                 C
@@ -70,7 +74,7 @@ Nanana na na na na na na na
 C            F
 Nanana na na na na na na na
 ```
-**Final**
+## Final
 ```
           C             F
 Eres lo único que veo entre la niebla

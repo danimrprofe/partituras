@@ -36,9 +36,11 @@ Que me dabas cuando naufragaba
                  A        A5  Bm
 En tu pecho enfermo de miedo.
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 G5
 Toda esa puta electricidad
                                 Bm
@@ -84,9 +86,11 @@ Que me dabas cuando naufragaba
 En tu pecho enfermo de miedo.
 
 Bm
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 G5
 Toda esa puta electricidad
                                Bm
@@ -113,9 +117,11 @@ Em
 Na, naaa, naaaa, naa, naaa, naaa, naaaaaa, naaaaaaa,
 
 Naaaaaaaaaaaaaaaaa.
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 G5
 Toda esa puta electricidad
 A5

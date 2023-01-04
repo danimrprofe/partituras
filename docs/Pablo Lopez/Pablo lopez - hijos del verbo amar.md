@@ -16,9 +16,11 @@ Bajo la lluvia van caminando, están tan vivos, han renovado su piel
               G#m          E                   B                     D#
 Y en este mundo envenenado, van engañando al dios que hay bajo sus pies
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 
 E                   B   F#                G#m         E
 Nadie les calla la boca, nadie conoce de sus heridas,
@@ -48,9 +50,11 @@ Por si esta luna fuera la ultima vez, que sobre el libro de los pecados
              B                 D#
 Juraron olvidar al miedo a perder
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 
 E                   B  F#                 G#m         E
 Nadie les calla la boca, nadie conoce de sus heridas,
@@ -66,9 +70,11 @@ Que no les roben su libertad, son hijos del verbo amar
 C#   G#m   B   F#
 A   G#m   G#m/D#   D#
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 E                   B   F#               G#m       F#
 Nadie les calla la boca, nadie conoce de sus heridas,
 E                 B        F#
@@ -78,7 +84,7 @@ Han incendiado la ropa, y han aprendido a bailar la vida
 E                    B    C#      D#               G#m
 Que no les roben su libertad, son hijos del verbo amar
 ```
-**Final**
+## Final
 ```
 G#m | E | C#/G#  |-
 G#m | E/G# | C#7/G# | -

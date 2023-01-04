@@ -5,8 +5,8 @@ theme:
   language: es
   features:
     - navigation.top
-    - navigation.tabs
-    - navigation.tabs.sticky
+    #- navig1ation.tabs
+    #- navigation.tabs.sticky
     - navigation.sections
     - toc.integrate
   palette:

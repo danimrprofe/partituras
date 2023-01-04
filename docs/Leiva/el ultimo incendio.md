@@ -29,9 +29,11 @@ cuando ya no esté esperando nunca nada
       Am                    D
 quizá pueda despegar, pueda despegar
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
            Em                      G
 cuando el tiempo se clava en mi garganta
         C      D      G
@@ -57,9 +59,11 @@ cuando este hecho mierda solo dios dirá
 si con todas las cartas marcadas
       Am                    D
 quizá pueda despegar, pueda despegar
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
            Em                      G
 cuando el tiempo se clava en mi garganta
         C      D      G

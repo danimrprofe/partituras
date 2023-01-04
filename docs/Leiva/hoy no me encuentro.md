@@ -25,7 +25,7 @@ D
  A veces se hace bola y noooo
  G                 A
  nada es como queremos,
-D                 Bm     F#m             Gm     A 
+D                 Bm     F#m             Gm     A
  me busco en otra dimensión, quiero regalarme.
 
      G      Bm
@@ -63,14 +63,14 @@ D                 Bm     F#7           G      A
  me busco en otra dimensión, quiero regalarme.
 
 ```
-**REPITE Estribillo** 
+**REPITE Estribillo**
 ```
 Em | - | A | D
 Bm | G | Gm | A
 ```
 **REPITE Estribillo**
 
-**Final**
+## Final
 ```
 G Bm F#m Em x2
 Bm

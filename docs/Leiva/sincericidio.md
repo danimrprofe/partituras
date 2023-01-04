@@ -24,9 +24,11 @@ Pero basta de fingir
 ```
 Dm             F  G
 Te quiero, te quiero
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C                              Em
 Te quiero cuando me destrozas, te quiero con indecisión
 Am                              G
@@ -60,9 +62,11 @@ Pero basta de fingir
 ```
 Dm             F  G
 Te quiero, te quiero
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C                              Em
 Te quiero cuando me destrozas, te quiero con indecisión
 Am                              G
@@ -76,9 +80,11 @@ Te quiero como tantas cosas ,que no tienen solución
 ```
 F Dm Am G
 F Dm F G
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C                             E
 Te quiero a reventar la boca, te quiero aunque no vuelvas hoy
 Am                                    G
@@ -86,7 +92,7 @@ Te quiero como tantas cosas ,que no tienen solución
          F     G
 Que no tienen solución
 ```
-**Final**
+## Final
 ```
 Am C Am C E
 Am

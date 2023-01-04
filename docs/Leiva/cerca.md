@@ -25,9 +25,11 @@ No estábamos para forzar, y yo soy un intenso
 La culpa no se puede remontar
    F             G
 En este invierno cruel
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                        F
 Que cerca estuve de llevarlo bien
 G                      C
@@ -67,7 +69,7 @@ F G Dm Em F G
 ```
 **Repite coro**
 
-**Final**
+## Final
 ```
 C F C G
 C F C G C

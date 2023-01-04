@@ -28,9 +28,11 @@ G                                               C
           D
  Y yo te juro que...
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 
              G
  Lo dejaría todo por que te quedaras,
@@ -77,9 +79,11 @@ G                                        C
  Sigo muriéndome.
 
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
              G
  Lo dejaría todo por que te quedaras,
                C

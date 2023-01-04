@@ -31,9 +31,11 @@ C                          D
 Y esto sólo es un intento más
 Am/G       D     G D
 Para seducirte
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                C     D                Em
 A ti te ocurre algo,   son demasiadas veces
 D               C   D            G    C-G
@@ -77,9 +79,11 @@ C                          D
    Y esto sólo es un intento más
         Am/G D     G-D
    Para seducirte
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                C     D                Em
 A ti te ocurre algo,   son demasiadas veces
 D               C   D            G    C-G
@@ -138,7 +142,7 @@ Oh, oh-oh, oh-oh
 C
 Oh, oh-oh, ohhh
 ```
-**Final**
+## Final
 ```
 D G     D C
                   D       G            D  C

@@ -15,9 +15,11 @@
 De los cielos a la pólvora mojada, de la magia a la oscura esclavitud
        C                           Em           F                          G
 Hace tiempo que no pienso en tu cornada. Hace tiempo que lo echo a cara o cruz.
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
          F            G                   Am          Em
 Y ahora sé que cualquiera llorará más que tú, en mi eterna despedida y
 F         C           Dm        F           G        C

@@ -31,9 +31,11 @@ B                     Cdimm C#m
 A                   Bsus     E
  Ni he quemado mis naves, ni sé pedir perdón
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
           C#m A                   E
 Lo niego todo, aquellos polvos y estos lodos
    E/D#   C#m A              B

@@ -26,9 +26,11 @@ Em               Bm7   C             G   D/F#
  No quiero olvidarme,   no quiero escaparme,
 Em             Bm7     Dsus4         D
  No quiero pensar que fue un delirio,
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 G      Cm/G    G
 Yooooooooooooooo   te quiero
    D                 Em    C            G
@@ -64,9 +66,11 @@ Quiero repartir,   lo saben los humanos
 No quiero perderte, no quiero soñarte
          Em              Bm      D      D
 No quiero escribirte   más historias.
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 G      Cm/G    G
 Yooooooooooooooo   te quiero
    D                 Em    C            G
@@ -81,9 +85,11 @@ No lo sabe nadie, nadie, naaadie puede imaginár  se   lo.
 ```
 C Bm/F# Em Bm
 C Bm/F# Em7
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 G      Cm/G    G
 Yooooooooooooooo   te quiero
    D                 Em    C            G
@@ -93,7 +99,7 @@ Te quiero matar de amor y no,
             G      Am7     G/B     C        Em   D    G
 No lo sabe nadie, nadie, naaadie puede imaginár  se   lo.
 ```
-**Final**
+## Final
 ```
 C Bm/F# Em Bm
 C Bm/F# Em7

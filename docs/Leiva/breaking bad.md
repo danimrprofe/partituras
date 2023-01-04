@@ -76,9 +76,11 @@ Am                                                         D
 Ábreme los ojos, lánzame a las vías, sácame de esta oscuridad
 
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                    C                            G
 Solo pretendo ser yo. Lo haré por una vez en la vida
                 Bm                               Em

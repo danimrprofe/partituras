@@ -2,7 +2,7 @@
 
 | Tonalidad | Afinación | Compás | Capo |
 | --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | No    |
+|           | Estándar  | 4/4    | No   |
 
 **Estrofa**
 ```
@@ -24,9 +24,11 @@ Mira hacia el cielo; baja la guardia; que pase la tormenta;
                D                   G                       A     Asus  A
 que no estás solo; que estás de espaldas  y no te das ni cuenta.
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                 G          D                   A                       Bm
 Que todos esos monstruos debajo de la cama se cuelan en tus sueños tan rápido.
    G                        D                         A              G   D
@@ -53,9 +55,11 @@ Mira hacia el cielo; baja la guardia; que pase la tormenta;
                D                   G                       A     Asus  A
 que no estás solo; que estás de espaldas  y no te das ni cuenta.
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                 G          D                   A                       Bm
 Que todos esos monstruos debajo de la cama se cuelan en tus sueños tan rápido.
    G                        D                         A             G   D
@@ -67,9 +71,11 @@ F#m | G | A | D F#m
 G | A | Bm |
 A | E | - | -
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                 G          D                   A                       Bm
 Que todos esos monstruos debajo de la cama se cuelan en tus sueños tan rápido.
    G                        D                         A             G     D

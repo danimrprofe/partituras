@@ -32,9 +32,11 @@ durmiendo bajo cero, rascando algún estímulo.
 A                     A7                      D
 Te veo en el infierno. Ya sé que suena muy metal.
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
               A             Bm        A         G
 No fue un brillante estreno,   pero ganamos títulos.
           D/F#             Em
@@ -81,9 +83,11 @@ Fmaj7
   rascando algún estímulo.
 A                     A7
   Te veo en el infierno.
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 D  A        Bm     A         G
   Guerra Mundial, Guerra Mundial,
              D/F#          Em
@@ -116,9 +120,11 @@ D                               Fmaj7
   Después de tu Guerra Mundial,  yo nunca volví a hablar
      C                 G/B
 y tú no lo sabes, Y tú no lo sabes
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 D  A        Bm     A         G
   Guerra Mundial, Guerra Mundial,
            D/F#            Em
@@ -136,7 +142,7 @@ creo que he aprendido a esperar.
 A           Bm  A                     G          D
                 Creo que he aprendido a esperar.
 ```
-**Final**
+## Final
 ```
 G  A
 D  A  Bm  A

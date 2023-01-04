@@ -41,9 +41,11 @@ lo que nos sonreía
 ```
      Bm    F#m     E     D           Bm    F#m     E
 Como niños sin preocupación, Como el ave que escapó...
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 A                Bm                   A/C#                   D
 Creo que por una vez, Conseguimos no ser los esclavos de nadie
          A/E                 C#/F      F#m           E/G#
@@ -90,9 +92,11 @@ Con ese grito profundo
 ```
      Bm    F#m     E     D           Bm    F#m     E
 Como niños sin preocupación, Como el ave que escapó...
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 A                Bm                   A/C#                   D
 Creo que por una vez, Conseguimos no ser los esclavos de nadie
          A/E                 C#/F      F#m           E/G#

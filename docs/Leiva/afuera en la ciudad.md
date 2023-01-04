@@ -78,7 +78,7 @@ G Em D
 
 Repite coro
 
-**Final**
+## Final
 ```
 D     Dsus4
 D     Dsus4

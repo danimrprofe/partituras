@@ -465,7 +465,7 @@ Ya no nos queda nadie, solo tú y yo, ¿Y ahora qué va a pasa aaaar?
                        C
 Hazme un muñeco de nieve!
 ```
-**Final**
+## Final
 ```
 C F | C G
 G | Am F
@@ -575,7 +575,7 @@ Ooh ooh  ooh ooh
 Ooh ooh ooh ooh
 ```
 
-**Final**
+## Final
 ```
 Dm
 ¿A dónde vas? No me dejes atrás

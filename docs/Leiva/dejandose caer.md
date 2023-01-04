@@ -93,13 +93,15 @@ F |  C  | G  | -
 F |  C  | G  | Am
 F |  C  | G  | -
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
         C       F          Am      F
 Dejándose caeeeeer, dejándose caeeeer  (X3)
 ```
-**Final**
+## Final
 ```
 Am | F | C | C
 Am | F | C

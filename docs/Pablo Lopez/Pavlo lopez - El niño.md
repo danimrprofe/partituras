@@ -19,9 +19,11 @@ Ayer por la mañana apareciste por mi casa, Te lo llevaste todo
 ```
 G               Dm7      Em                      F
 Sabias que no estaba. Sabi­as que era Martes, Sabi­as que Septiembre
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 G                Am     F        C            Am  F       C          G
 Sabi­as todo como siempre,  Pero nadie me pregunta,  Nadie sabe como duele
               A#                 Am    G
@@ -81,7 +83,7 @@ G     G#    C
 Tu no sabes nada
 ```
 
-**Final**
+## Final
 
 ```
 Am G# C F A# F C F

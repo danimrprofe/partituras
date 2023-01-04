@@ -33,9 +33,11 @@ Cuando vamos de cara Entonces echamos a andar
 Sueño con estar por encima de todo Por debajo de tu falda
         Dm             F               G    G7            Am
 Con la noche llena de luz, Y Tu voz pausadaa, Y tu voz pausada
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
           Am  F         C G     Am      F   C G
 Hoy he sentido la llamada, Con toda la fuerza
      Am F      C G         F       G  C
@@ -55,7 +57,7 @@ Cuando tiemblas por nada, Entonces echamos a andar
 **REPITE Pre-estribillo**
 **REPITE Estribillo**
 
-**Final**
+## Final
 ```
 F G
 Dm Am Gm A7 X2

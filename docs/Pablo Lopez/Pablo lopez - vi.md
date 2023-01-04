@@ -49,9 +49,11 @@ vi fortunas, vi necesidades, vi quemarse todo.
 ```
 Gm               F/A        Cm                  Eb        F
 Si hoy se acaba el mundo corazón, dime qué vas a llevarte, dime que me llevo...
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 Gm             F          Eb                   Eb-F
 Vi llorar a un alma inconsolable, vi reír al miedo,
 Gm             F                Eb

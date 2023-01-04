@@ -1,20 +1,15 @@
 # Despues del naufragio
 
-## 10. Después Del Naufragio
-
-
-**Intro**
-```
+```{title="Intro"}
 G C | G | G   | D
 C D | G | G D | G
 ```
-**Estrofa**
-```
+
+```{title="Estrofa"}
       G       G/B       D           C        D          G
 Desperté y salí de la sombra. Me curé cada hueso y empecé
        G          G/B           D            C            D         G
 A olvidar noche a noche los recuerdos, Los abismos donde nunca volveré
-
 
    Bm              Am          G
 Y escuchando en oscuros callejones
@@ -24,7 +19,6 @@ Las canciones que se pierden en la cara b
 Fui mirando y revolviendo los cajones
       D
 Y desperté...
-
 
     G                      D
 Me cansé de las horas infelices
@@ -37,8 +31,9 @@ Que el que admites
     C          G           D
 Que no sea lo que tenga que ser...
 ```
-**Estribillo**
-```
+
+```{.lilypond title="Estribillo"}
+
                     C                             G
 Y después del naufragio, de que sirve estar tan triste
        Bm            Am          G
@@ -48,15 +43,14 @@ Sabes que cuando canto, nunca piso tierra firme
        Bm              Am          G
 Ven rescátame, ven rescátame otra vez...
 ```
-**Solo**
-```
+
+```{title="Solo"}
 G | D | C D | G
 G | D | C D | G
 ```
 **Estribillo**
 
-**Variación estribillo**
-```
+```{title="Estribillo"}
          Bm   Am                 G
 Ven rescátame aunque vuelva a suceder
 Bm        Am                    G

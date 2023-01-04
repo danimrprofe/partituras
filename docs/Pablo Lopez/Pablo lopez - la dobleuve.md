@@ -2,14 +2,16 @@
 
 
 **Intro**
-``` 
+```
 F#m       C#     F#m
 Se va, se va, se va
   C#m        D
 Se va y no vuelve
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 F#m   C#m        D    E
 uoooh ooooh uoooooh ooooh
 F#m   C#m       D    E
@@ -23,13 +25,13 @@ Sigo perdiendo las llaves
 Perdiendo el teléfono
 C#m
 Perdiendome
- 
+
 Bm                 D
 Sigo acumulando vida
              E
 Huyendo del tiempo
 Y de las despedidas
- 
+
 Bm                      D
 Ahora q ya no me escuchas
              F#m
@@ -51,16 +53,18 @@ Bm                F#m
 Que lo que se va, se va
 Bm                 F#m
 Se va y no vuelve no
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 Bm    D              F#m         C#m
 uoooh ooooh uoooo No vuelve, no vuelve
 Bm    D              F#m         C#m
 uoooh ooooh uoooo No vuelve, no vuelve
- 
+
 F#m C#m D E
- 
+
 F#m C#m D E
 oooh oooh oooh oooh
 ```
@@ -75,12 +79,12 @@ Pobre fantasía loca
                  E
 No hay vida ni olor
 Debajo de tu ropa
- 
+
 Bm     F#m               E
 Noooo, ooooh Solo queda una mitad
 Bm    D          A       E
 Uoooh Solo suena tu verdad
-``` 
+```
 **Bridge**
 ```
 F#m
@@ -91,7 +95,7 @@ D                    F#m
 Que lo que se va, se va (me dijiste)
 Bm               F#m
 Se va y no vuelve no (que lo que se va)
- 
+
 F#m
 Me juraste
 C#
@@ -102,9 +106,11 @@ F#m                    C#
 Alma, tiempo y vida que se va
 F#m
 No vuelve
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 Bm    D              F#m         C#m
 uoooh ooooh uoooo No vuelve, no vuelve
 Bm    D              F#m         C#m

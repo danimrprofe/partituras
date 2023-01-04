@@ -22,9 +22,11 @@ con los gatos, amor.
 Hoy tus ojos mañana el mundo,
        F                  G
 algún día los dos, algún día los dos.
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
  F         C    G     C     F
 ¡Va a explotar, salta rápido!
   G        C      G         C
@@ -71,7 +73,7 @@ C       F            Am
 C        F  G
  Oooooooooh
 ```
-**Final**
+## Final
 ```
 C  | Am | F  | C
 Am | F  | G  | C

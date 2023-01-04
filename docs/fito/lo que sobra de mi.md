@@ -23,9 +23,11 @@ Toda la vida era un cuento y yo era Peter Pan, por eso no he podido crecer.
 Ya llega la tormenta, ya la oigo venir, viene derechita hacia aquí.
            Em
 haciendo: “bom... bom... bom... bom... bom”
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C                      D                Em
 Si me concedieras un deseo para hacerme feliz,
          G          D               Em
@@ -55,9 +57,11 @@ Como un suspiro que debió durar lo mismo que la eternidad.
 Ya llega la tormenta, ya la oigo venir, viene derechita hacia aquí.
            Em
 haciendo: “bom... bom... bom... bom”
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C                      D                Em
 Si me concedieras un deseo para hacerme feliz,
          G          D               Em
@@ -83,9 +87,11 @@ Igual que respirar...
 ```
 C  |  D  | Em | - |
 G  |  D  |  Em | - |
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C                      D                Em
 Ahora sé que el cielo no está lejos, nosotros sí.
 C                  D             C

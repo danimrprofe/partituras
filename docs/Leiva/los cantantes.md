@@ -28,9 +28,11 @@ Así son los días del cantante,      Deja que sea
 ```
         E                          Fmaj7  G
 No hay más, Si todo lo que viene se va, A golpe de volante
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C/G          Em          Am         G                    Fmaj7
 Tengo que volver a mi planeta,  colgado de la luna en soledad
      Em                    Dm            G
@@ -39,7 +41,7 @@ C/G              Em            Am       G                     Fmaj7
     Tengo que grabarlo en mi cabeza, Subir al escenario principal
 Em                          Dm        G
 Es todo lo que quise conquistar en la vida
-``` 
+```
 
 <div style="page-break-after: always;"></div>
 
@@ -70,7 +72,7 @@ Uooooh  ooh oooh ooh ooh oooh
 ```
 Repetición coro
 
-**Final**
+## Final
 ```
     Am  C/G   Fmaj7        C/G
 Uooooh  ooh oooh ooh ooh 

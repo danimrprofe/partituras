@@ -20,9 +20,11 @@ Plantearás Maniobras suicidas Y quién te lo puede negar
 Y te da un poco igual Cómo voy a reaccionar
            Fm          G#           A#       C
 Tú sabes exactamente, Todo lo que puedo pensar
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C   F            Am    G
  Soñarlo un día más Tenerte en frente
 C   F           Am      G
@@ -55,9 +57,11 @@ De verte dejarme escapar
 Y te da un poco igual Cómo voy a reaccionar
            Fm          G#          A#       C
 Tú sabes exactamente, Todo lo que puedo pensar
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C   F            Am    G
  Soñarlo un día más Tenerte en frente
 C   F           Am      G
@@ -79,9 +83,11 @@ C                 A#                F
 Tú volverás a salvarme la vida, a hacerme consciente
     Fm             G#        C
 De que era una increíble señal
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C   F            Am    G
  Soñarlo un día más Tenerte en frente
 C   F           Am      G
@@ -93,7 +99,7 @@ C   F               Am    G
   Fm              G##       C
 Saber que nada es para siempre
 ```
-**Final**
+## Final
 ```
 C A# F G# A# C
 ```

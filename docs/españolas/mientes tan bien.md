@@ -44,9 +44,11 @@ Aunque sea mentira me haces sentir vivo
         G/D       C                  D
 Aunque es falso el aire, siento que respiro
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C               D
 Mientes tan bien
             G
@@ -84,9 +86,11 @@ Anque sea mentira me haces entir vivo
         G/D       C                  D
 Anque es faiso el aire, siento que respiro
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C               D
 Mientes tan bien
             G

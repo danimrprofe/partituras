@@ -23,7 +23,7 @@ prometí no volver a quebrar.
 
                D               Am
 Miento desde pequeño y cada vez
-               C        
+               C
 lo hago con más arte,
 G             D           Em         BM      D
  espíritu de los toreros,    con el toro delante.
@@ -79,8 +79,8 @@ cuando estábamos así.
 ```
 **Solo**
 ```
-C  | Em  | F  G  | C 
-C  | Em  | F  Fm  | C 
+C  | Em  | F  G  | C
+C  | Em  | F  Fm  | C
 
    Fm   Abdim   Am G    C           F
 En éxtasis, en éx  ta  sis, aún recuerdo,
@@ -88,7 +88,7 @@ En éxtasis, en éx  ta  sis, aún recuerdo,
 cuando estábamos así.
 
 ```
-**Final**
+## Final
 ```
 C | C F | G C
 ```

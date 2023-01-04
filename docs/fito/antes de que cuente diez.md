@@ -36,7 +36,7 @@ Ya lo tengo todo controlado, y alguien dijo no, no, no, no, no
 e ahora viene el viento de otro lado, déjame el timón
   E
 y alguien dijo no, no, no
- 
+
 ```
 **Estrofa**
 ```
@@ -44,7 +44,7 @@ F#m  D  Bm  D
 F#m  D  Bm  D
 F#m  E  Bm  D
 F#m  E  Bm  D  E
- 
+
 ```
 **Estrofa**
 ```
@@ -56,10 +56,12 @@ No ves que siempre vas detrás cuando persigues al destino.
 Siempre es la mano y no el puñal, nunca es lo que pudo haber sido
              E                           D
 no es porque digas la verdad, es porque nunca me has mentido.
- 
+
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
              A                     E
 No voy a sentirme mal si algo no me sale bien
                F#m                      D
@@ -82,7 +84,7 @@ dejé de volar me hundí en el barro, y entre tanto barro me encontré
 algo de calor sin tus abrazos ahora sé que nunca volveré.
 
 ```
-**Final**
+## Final
 ```
 F#m  D  Bm  D    (repite)
 ```

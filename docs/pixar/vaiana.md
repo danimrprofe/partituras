@@ -32,9 +32,11 @@ no hay nada que pueda hacer.
 Cada amanecer, cada sensación, Cada atardecer, al caer el sol,
            E                                 Am6
 Vuelvo a imaginar que hay algún lugar donde debo ir...
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
        E                                B/D#
 Veo la línea entre el cielo y el mar en frente,
        C#m                 A
@@ -73,9 +75,11 @@ Lo puedo intentar, seguiré en mi rol,
 Pero esa voz canta otra canción,
         Am        Am6
 ¿que me pasa a mí?
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
        E                                B/D#
 Hoy la línea entre el cielo y el mar me ciega,
          C#m               A
@@ -113,9 +117,11 @@ D
 Ia ava'e le lu'itau e lelei
 E        A
 Tapenapena
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 D
 Aue, aue
 A
@@ -140,9 +146,11 @@ D                     E                  A
 Y cada estrella ahí está Justo en su lugar,
 A
 Sabemos mirar de verdad
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 D          A                  E                    A
 Aue, aue, Vamos a donde hay, una isla nueva donde enraizar,
 D              A                         E
@@ -191,9 +199,11 @@ sí, asúmelo: soy Mauí de verdad.
 Admírame bien -qué bueno estoy-,
         A#              C
 estás justo frente a un semidios.
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 Am            F            C
 ¿Qué puedo decir? Solo «de nada»
         E7               Am
@@ -269,9 +279,11 @@ E7
 Mira, aquí hay un mini-Mauí bailando claqué.
 
 Ja, ja, ja, ja, ja, ja. ¡Ey!
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 Am          F              C
 Deja que diga otra vez «de nada» (de nada)
            E7              Am
@@ -327,9 +339,11 @@ Em         Am
   Ese argumento yo lo voy a
     Cm            Am7b5
 desmontar, Ella mintió. Mejor ser:
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
      G            C
 ¡Brillante! Cual tesoro de un navío que se
     G         C
@@ -378,9 +392,11 @@ Em           Am
  Pues yo también de mí una obra de arte
   Cm            Am7b5
 creé. ¿O no lo ves? Yo soy muy
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 
       G           C
 ¡Brillante! Yo reluzco cual diamante o cual
@@ -416,9 +432,11 @@ Bb
 ¡Maui!
               G#
 ¡Ahora voy a patearte! ¿Viste a alguien tan...
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
        G          C
 ...Brillante? Lo último que tú verás será a
 G             C         F
@@ -428,7 +446,7 @@ mí. C'est la vie, mon ami...
     G         D
 pedirás. ¡Morirás!
 ```
-**Final**
+## Final
 ```
 Eb
 Jamás serás tan radiante,

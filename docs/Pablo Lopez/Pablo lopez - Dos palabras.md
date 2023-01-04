@@ -15,9 +15,11 @@ A          A7        A           A7
 No dijo nada extraño, No quiso hacerme daño
 Bm             E7     Bm             E7
 Pero el miedo pesa, más que la razón
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 D          E7      F#m     C#m
 Y yo, que soy un perro que no tiene dueño
 D          E7      F#m     C#m
@@ -39,9 +41,11 @@ A          A7          A          A7
 Culpables e inocentes, De sueños diferentes
 Bm           E7  Bm             E7
 Pero se perdonaban hasta la verdad
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 D          E7      F#m     C#m
 Tú jamás pensaste que me lo dirías
 D          E7      F#m     C#m
@@ -56,9 +60,11 @@ Fueron dos palabras, Fueron dos palabras
 ```
 Bm7 | F#m | A/E | B7
 Bm7 | F#m | A/E | E A/C#
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 D          E7      F#m     C#m
 Y yo, que soy un perro que no tiene dueño
 D          E7      F#m     C#m

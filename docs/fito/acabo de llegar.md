@@ -29,11 +29,13 @@ que canto a lo que nunca tendre
 al beso que ella nunca me dio
 F                      C
  Dime tu que puede saber
- G 
+ G
 alguien que ha pasado la vida buscando la melodia
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
        F                              C
 Que te voy a decir si yo acabo de llegar
                    G                          Am
@@ -51,9 +53,11 @@ La vida es algo que hay que morder y en cada boca tiene un sabor
 tus huesos no los tapa mi piel por eso siempre digo que no
                          C                           G
 ahora tengo cosas que hacer que aun me queda media vida para encontrar la melodia...
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
         Dm                            Am
 Que te voy a decir si yo acabo de llegar
                     C                          G
@@ -68,7 +72,7 @@ si esto es como el mar quien conoce alguna esquina
   F                                C                  G                    Am
 Dejadme nacer que me tengo que inventar para hacerme pez empece por las espinas.
 ```
-**Final**
+## Final
 ```
 F | C | G | Am
 ```

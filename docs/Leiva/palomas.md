@@ -34,9 +34,11 @@ Veranos en vilo hasta el final
 ```
    F   G   Am      G
 No es más que un grito
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 C                              G
 Déjalo ya, déjalo ya Se quedó frío
 Am                               F
@@ -75,7 +77,7 @@ Am Am/G D A C D
 Repite puente
 Repite coro
 
-**Final**
+## Final
 ```
 G A Bm C#m D 
 ```

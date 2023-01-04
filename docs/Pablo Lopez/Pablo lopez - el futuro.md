@@ -45,7 +45,7 @@ G F | Em D# | A# Dm
 Am G...
 ```
 
-``` 
+```
 G
 No me preguntes por el futuro, no me preguntes por el futuro, porque
 Em      D      C    Bm          D
@@ -60,7 +60,7 @@ Yo te encontré, salvaje y triste, como la luz en tu ciudad
 Volveré
 Volveré
 ```
-**Final**
+## Final
 ```
 G | G | G | G x4
 F Em

@@ -55,9 +55,11 @@ Luego por el tobogán se desliza hasta la tráquea
 Agarrada a mis costillas le cuelgan las piernas
   C/B    Am        G       C
 Algunos días me espera despierta
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
           F          C/E          G
 ¿Dónde dormirá esta noche?, le querría preguntar
           F         C/E     G
@@ -109,9 +111,11 @@ Luego por el tobogán se desliza hasta la tráquea
 Agarrada a mis costillas le cuelgan las piernas
   C/B    Am        G       C
 Algunos días me espera despierta
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
           F          C/E          G
 ¿Dónde dormirá esta noche?, le querría preguntar
           F         C/E     G
@@ -121,7 +125,7 @@ Se ha dejado algunos huesos todavía por pisar
        F               C/E   G
 Y un montón de luces encendidas
 ```
-**Final**
+## Final
 ```
 C                    G                    C                    G
 Laaa la lala lalaaa, Laaa la lala lalaaa, Laaa la lala lalaaa, Laaa la lala lalaaa

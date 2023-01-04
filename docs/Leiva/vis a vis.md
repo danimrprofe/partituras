@@ -32,9 +32,11 @@ mañana tenemos cita, donde le roban tiempo al amor.
 Volaremos sin movernos, y donde halla que firmar,
              C/B      Am            D                    C   D
 me haré una pequeña herida, con sangre que abarca a el mar.
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                  G          D            C
 Para dejar por escrito, que no voy a abandonar,
              D        G              D                C
@@ -67,9 +69,11 @@ Y una sal que se deshace, con más lágrimas de sal,
 de tu quejido y el mio, en vis a vis quincenal,
    D              G      D              G         D
 en vis a vis quincenal, en vis a vis quincenal
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                     G            D            C
 Para dejar por escrito, que no voy a abandonar,
         D               G              D                C

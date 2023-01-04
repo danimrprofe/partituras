@@ -76,7 +76,7 @@ cuando escondido estoy
 bajo el edredón; pegate a mi?.
 
 ```
-**Final**
+## Final
 ```
 G | D | G | D
 Am |Em | Am | Dm

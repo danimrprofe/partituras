@@ -37,9 +37,11 @@ Que me lleve el viento que nos da en la cara.
 Que salga del hueso una flor, Y me salve y que no,
         F                  G
 que no puedo aguantar tu mirada
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
           C   F           C    G
 Má-ma-ma-maaaaás.Má-ma-ma-maaaaás (x2)
 ```

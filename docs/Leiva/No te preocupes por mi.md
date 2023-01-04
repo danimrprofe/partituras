@@ -46,9 +46,11 @@ pero era grande la sensación de vértigo constante.
 Tengo un plan, salir corriendo hasta que todo se arregle,
        D                                             C
 me alejaba como el ruido de una ambulancia entre la gente..
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
             G                 D                    C
 Y aunque te pese, te juro que esto no es lo que parece,
           G           D               C
@@ -61,7 +63,7 @@ he vuelto a remontar de repente
 
 **Instrumental**
 ```
-C | Am | Em | G 
+C | Am | Em | G
 C | Am | G  | G
 ```
 **REPITE PRE-ESTRIBILLO**
@@ -81,7 +83,7 @@ he vuelto a remontar de repente.
       G    Am D
 De repente..
 ```
-**Final**
+## Final
 ```
 Em                             D                         G
 Todo es tan perfecto nadie entiende el movimiento de sus alas..

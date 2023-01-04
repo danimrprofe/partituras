@@ -11,9 +11,11 @@ Y tú querías aventura, tomaste muy mal camino,
 G                    C
 ibas buscando basura en un terreno barrido.
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
       F                             C
 Yo le doy mi querer al querer y lo doy para toda la vida.
       G                            C
@@ -47,9 +49,11 @@ Yo le doy mi querer al querer y lo doy para toda la vida.
 ```
 C G x 8
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
       F                             C
 Yo le doy mi querer al querer y lo doy para toda la vida.
       G                            C

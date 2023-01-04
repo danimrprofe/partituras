@@ -30,9 +30,11 @@ D                             A
 Fuimos demasiado lejos, y ninguno se cubrió la espalda
 A
 ¡Ah, ah, ah!
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
   G             A                Bm
 ¡Hazlo! Como si ya no te jugaras nada
          A                G

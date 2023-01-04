@@ -6,7 +6,7 @@ E1 E2 F#m A B E A B
 
 ```
 **Estrofa**
-```  
+```
 E1
   Ella me dio cuanto se puede dar
 E2
@@ -26,9 +26,11 @@ F#m                     B B2 B
         E1        E3   C#m B       F#  B
   para que ahora regresar  años después.
 
+
 ```
-**Estribillo**
-``` 
+## Estribillo
+```
+
   E1   E2     C#m C#m2              A               E
   Sara,    Oh Sa  ra     qué es lo que viniste a buscar
            F#m                   B
@@ -37,8 +39,8 @@ F#m                     B B2 B
   Sara,    Oh Sa  ra    no repitas lo que te enseñé
         F#m                B     F#m   B
   la mejor agua está por caer.   Oh
- 
- 
+
+
 E1
   Yo que vi tierra y allí me quede
 E2
@@ -57,8 +59,8 @@ F#m                      B B2 B
   las cicatrices que me regaló
         E1  E3   C#m  B       F#  B
   a la hora de partir años atrás.
- 
- 
+
+
      E1   E2     C#m C#m2           A               E
   Oh Sara,    Oh Sa   ra qué es lo que viniste a buscar
             F#m                   B
@@ -69,8 +71,8 @@ F#m                      B B2 B
   la mejor agua está por llover.   Oh
            A        B     E1
   Sara ha vuelto a la ciudad.
- 
- 
+
+
 Bm          D  Bm          D   Bm                F#m
   Crudo destino volver a sentir  lo que se ha sentido
               G         A
@@ -79,22 +81,22 @@ Bm          D    Bm           D   Bm                F#m
   Cuando la vea  se que volverán  mis dos piernas a temblar
   G                A            B
   mis dos piernas temblarán por Sara.
- 
- 
+
+
   [Solo]
- 
+
    E1 E2 F#m A B E A B
    E1 E2 F#m A B E A B
- 
- 
+
+
 F#m                     B B2 B
   si con su voz secó mi corazón
 F#m                     B B2 B
   si entre sus uñas yo también estoy
            E1    E3   C#m  B       F#  B
   para que ahora regresar años después.
- 
- 
+
+
   E1   E2     C#m C#m2           A               E
   Sara,    Oh Sa   ra qué es lo que viniste a buscar
             F#m                   B
@@ -105,9 +107,9 @@ F#m                     B B2 B
   la mejor agua está por llover.   Oh
            A        B     E1  E2 F#m
   Sara ha vuelto a la ciudad.
- 
- 
+
+
            A        B     E1  E2 F#m
   Sara ha vuelto a la ciudad.            x3
-                         
+
 ```

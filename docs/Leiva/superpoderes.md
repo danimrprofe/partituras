@@ -23,9 +23,11 @@ Se derrumba en un segundo, o desaparece
 Y es lo que ves, casi todo puede suceder
   G       A
 Y es difícil saber que
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 Bm                 A           D          G
 Siempre, siempre, siempre, siempre vas a perder
 D               A               D

@@ -28,9 +28,11 @@ Y lo intento y tú nunca recibes la señal
 Voy guardando bajo mi reputación, me salió muy claro perdonártelo
      C                        E7                   Dm    G
 Mentiré porque tú me lo pides de verdad, aunque te sepa mal
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                     F                 C                  E7           Am
 Sabes que yo puedo ser terriblemente cruel, Para que no pierda la tensión
       F                   C            G
@@ -65,7 +67,7 @@ Pero duele igual.. eso es universaaa aaaal
 Am E7 F C G
 Am E7 F Fm C Fm C G
 ```
-**Final**
+## Final
 ```
 G                  F                  C
 Sabes que yo puedo ser terriblemente cruel

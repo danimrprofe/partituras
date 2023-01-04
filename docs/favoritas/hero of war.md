@@ -25,9 +25,11 @@ Fsus2
 C                     G
  As we learned how to fight
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
            Am                       Fmaj7                   C
 A hero of war, Yeah that's what I'll be, and when I come home
                           G                   Am                    Fmaj7
@@ -62,9 +64,11 @@ C                   Em                    Fmaj7                   C
 We beat him with guns, and batons not just once, but again and again
 
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
            Am                       Fmaj7                   C
 A hero of war, Yeah that's what I'll be, and when I come home
                           G                   Am                    Fmaj7
@@ -102,9 +106,11 @@ She collapsed     with a flag in her hand
 A flag white as snow
 A hero of war
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
            Am                    Fmaj7                   C
 A hero of war, Is that what they see , Just medals and scars
                    G                          Am                    Fmaj7
@@ -114,7 +120,7 @@ But it's a flag that I love, It's the only flag I trust
 
 
 ```
-**Final**
+## Final
 ```
 
          Am                        Em                       Fmaj7

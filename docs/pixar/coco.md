@@ -139,9 +139,11 @@ En el latido de mi corazón
 [Instrumental]
 ```
 B7
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
 E        A
 Ay, mi familia
 B        E

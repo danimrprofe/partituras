@@ -2,11 +2,11 @@
 
 ![](img/2022-12-11-12-06-48.png)
 
-- Letra: Joaquín Sabina 
+- Letra: Joaquín Sabina
 - Música: Joaquín Sabina,Pancho Varona
 - CD: " Dímelo en la calle " (2002)
 
-**Intro** 
+**Intro**
 ```
 G D A
 ```
@@ -29,8 +29,8 @@ G D A
  Y en el coro de Babel desafina un español. No hay mas ley
                    D                     A
  que la fiebre del oro en las minas del rey Salomón.
- 
- 
+
+
          E                     D                       C#m
  Y desafiando el oleaje sin timón ni timonel por mis sueños va
                 Bm                         A
@@ -48,17 +48,17 @@ G D A
                     A                        E
  del agravio de buscar labios que sacan de quicio,
                       F#m                         D                          A
- mentiras que ganan juicios tan sumarios que envilecen el cristal de los acuarios de los 
+ mentiras que ganan juicios tan sumarios que envilecen el cristal de los acuarios de los
 G D           A  G         D           A
  peces de ciudad, que mordieron el anzuelo,
 E                       D                      A
  que bucean a ras del suelo, que no merecen nadar.
- 
- 
+
+
 [Interlude]
 G  D  A
- 
- 
+
+
 A                                 F#m                 D                  A
  El dorado era un shampoo, la virtud unos brazos en cruz, el pecado una página web.
        F#m                     D                    Bm                 E
@@ -67,8 +67,8 @@ A                                 F#m                 D                  A
  Cuando en vuelo regular pisé el cielo de Madrid me esperaba una recién casada que no
         A
  se acordaba de mi.
- 
- 
+
+
          E                     D                       C#m
  Y desafiando el oleaje sin timón ni timonel por mis sueños va
                Bm                          A
@@ -86,13 +86,13 @@ G    D          A
                     A                        E
  del agravio de buscar labios que sacan de quicio,
                       F#m                         D                         A
- mentiras que ganan juicios tan sumarios que envilecen el cristal de los acuarios de los 
+ mentiras que ganan juicios tan sumarios que envilecen el cristal de los acuarios de los
 G D           A
  peces de ciudad,
 G         D           A     E                      D                         A
  que perdieron las agallas   en un banco de morralla, en una playa sin mar.
 ```
-**Final**
+## Final
 ```
 G D A
 ```

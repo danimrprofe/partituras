@@ -7,7 +7,7 @@ C#m E C#m E
 
 ```
 **Estrofa**
-```  
+```
 C#m         E
 El mundo ha roto
 C#m         E
@@ -27,9 +27,11 @@ Y no quisiera yo darle la espalda
 Tampoco suplicarle que me espere
 
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                 A    B          C#m
 Y si mañana no queda más que un Ángel
                 A    B     C#m    G#m
@@ -40,7 +42,7 @@ Y si mañana nos encuentran enredados que nos dejen descansar, del mundo así
 
 ```
 **Estrofa**
-```  
+```
 C#         E   C#         E
 El mundo salta por la ventana
   G#m                        F#m
@@ -55,9 +57,11 @@ Y por la boca mueren nuestras almas
 Jugando a ser amantes inocentes
 
 
+
 ```
-**Estribillo**
+## Estribillo
 ```
+
                 A    B          C#m
 Y si mañana no queda más que un Ángel
                 A    B     C#m    G#m
