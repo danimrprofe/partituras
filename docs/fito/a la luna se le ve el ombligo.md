@@ -18,7 +18,6 @@ Am            Dm     Em   Am    Dm    Em
 ## Estribillo
 ```
 
-
 C             Dm     Em       Am    Dm    Em
     Ojalá me hubiera dado cuenta antes
 Dm                 C    Em        Am    Dm    Em
