@@ -1,5 +1,5 @@
 
-## La suerte de mi vida
+# La suerte de mi vida
 
 Afinación medio tono bajo
 

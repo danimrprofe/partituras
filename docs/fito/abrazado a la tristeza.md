@@ -15,8 +15,7 @@ C D Em Em
 Am                   Am                     Em - Em
 He salido a la calle abrazado a la tristeza
 Am                        Am                         Em - Em
-y no quiero mirar a nadie y me dio vergüenza y pena.
-
+vi lo que no mira nadie y me dio vergüenza y pena.
 
 C                         D                             Em - Em
 Los llantos desconsolados que estrangulan las gargantas.
