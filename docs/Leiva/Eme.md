@@ -14,7 +14,7 @@ C                   G      Dm         Am         F         G7          Am
 Eme cuando se ponga el sol voy a destruirlo Borrarme la señal de tus comillos
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 F                      C   E               Am
@@ -34,7 +34,7 @@ Dm         G7            Am
 Cuando nos queme la ambición
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 F                      C   E               Am

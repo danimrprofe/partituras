@@ -42,7 +42,7 @@ esta noche no. Yo no quiero que me cuenten el final.
 E Em C Em D# Gm D
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                                   Em

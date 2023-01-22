@@ -5,10 +5,10 @@ Versión de directo, disco sin enchufe
 Capo en traste 2
 
 ```
-[Intro]
+**Intro**
 G Cadd9 G Cadd9 G Cadd9 G Cadd9
 
-[Verse]
+**Estrofa**
 Am
 Sin malabarismos
       D
@@ -30,7 +30,7 @@ este viejo corazóoo ooon.
 [Solo]
 G Cadd9 G Cadd9
 
-[Verse]
+**Estrofa**
 Am
 Soy un seductor
          D
@@ -40,16 +40,14 @@ soy el habitual
       Em
 de la casa de empeño.
 
- Am                      G
+ Am                   D
 Te dedicaría un repertorio desigual
-Cadd9                          D             G
-besos, apretones, bombo, caja y un timbal.
+Cadd9                    D                  G
+besos, apretones, bombo, caja y un timba aa aaaal.
 
-[Chorus]
-Cadd9            G      Cadd9
-Qué está pasando,
-Cadd9             G             Cadd9
-que no me dejas,
+**Estribillo**
+Cadd9       G    C
+Qué está pasando, que no me dejas,
 Cadd9            Am
 soy como un perro
          D
@@ -65,16 +63,14 @@ Cadd9             Am
 mojar mi dinero,
               D
 no echarte de menos,
-            Cadd9            Bm
-secarme contigo.
-            Cadd9            Bm
-secarme contigo.
+            Cadd9    Bm               Cadd9     Bm A#m
+secarme contigoooooo ooo. secarme contigooooooo ooo.
 
 [Solo]
 | Am | D  | Bm | Em |
 | Am | Bm | Cadd9 | D |
 
-[Chorus]
+**Estribillo**
 Cadd9            G      Cadd9
 Qué está pasando,
 Cadd9             G             Cadd9
@@ -86,7 +82,7 @@ y mis ladridos
           Cadd9      Bm
 ya no te llegaaa aan.
 
-[Verse]
+**Estrofa**
 Am
 Lo he probado todo
           D
@@ -105,7 +101,7 @@ si suena esta canción,
           D              G      Cadd9
 es la que hice para tii  iiii.
 
-[Chorus]
+**Estribillo**
 Cadd9            G      Cadd9
 Qué está pasando,
 Cadd9             G             Cadd9

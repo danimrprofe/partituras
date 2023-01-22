@@ -42,7 +42,7 @@ D                 Bm     F#m             Gm     A
 G Bm F#m Em x2
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estrofa**
 ```
@@ -75,5 +75,3 @@ Bm | G | Gm | A
 G Bm F#m Em x2
 Bm
 ```
-
-<div style="page-break-after: always;"></div>

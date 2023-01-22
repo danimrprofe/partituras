@@ -86,5 +86,3 @@ de vez en cuando cada cuando una vez.  [x2]
 F           C
 Ohhh, ohhohhohh        [repite]
 ```
-
-<div style="page-break-after: always;"></div>

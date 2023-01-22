@@ -82,7 +82,7 @@ Yo te engaño, Te robo los días, Te ensucio las manos, Me escondo y me pierdo
 Me vuelvo un extraño sin alma, Culpable que huye del sol
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
        Db                     Ab        F            Bbm

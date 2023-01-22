@@ -6,7 +6,7 @@
 
 ```
 
-[Intro]
+**Intro**
 
 Am  D6  Em
 Am  D6  Em
@@ -41,7 +41,7 @@ I'll never get to heaven
        Em
 Let's raise a glass or two
 
-[Chorus]
+**Estribillo**
 
    C         G/B     Am
 To all the things I lost on you

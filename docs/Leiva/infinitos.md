@@ -23,7 +23,7 @@ Yo sigo generando infinitos
 Es lo que hago mejor
 
 
-[Chorus]
+**Estribillo**
        C                    G
 No hay pila y demasiado movimiento
             B7                 Em
@@ -44,7 +44,7 @@ Me he agarrado a la locura
 F#m                          E
 Procurando no morir en el intento
 
-[Chorus]
+**Estribillo**
        C                    G
 No hay pila y demasiado movimiento
             B7                 Em
@@ -69,7 +69,7 @@ D                        Bm            E
 Yo sigo generando infinitos es lo que hago mejor
 
 
-[Chorus]
+**Estribillo**
        C                    G
 No hay pila y demasiado movimiento
             B7                 Em

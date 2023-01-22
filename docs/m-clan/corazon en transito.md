@@ -5,10 +5,10 @@
 |           | Estándar  | 4/4    | 4    |
 
 ```
-[Intro]
+**Intro**
 D D D G C D
 
-[Chorus]
+**Estribillo**
 D
 Corazón en transito de paso en la ciudad
 D                        C     G         D
@@ -37,7 +37,7 @@ Bm       C       D
 A
 Corriendo a otro lugar
 
-[Chorus]
+**Estribillo**
 D
 Corazón en transito de paso en la ciudad
 D                        C     G         D
@@ -70,7 +70,7 @@ Puedo ver tu espejismo
      A#                   C
 Pero ya no estas ya no estas
 
-[Chorus]
+**Estribillo**
 D
 Corazón en transito de paso en la ciudad
 D                        C     G         D

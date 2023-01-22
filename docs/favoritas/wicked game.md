@@ -6,7 +6,7 @@
 
 
 ```
-[Intro]
+**Intro**
 Bm  A  E
 
 [Verse 1]
@@ -19,7 +19,7 @@ I never dreamed that I'd meet somebody like you.
 Bm                     A                     E
 I never dreamed that I'd lose somebody like you.
 
-[Chorus]
+**Estribillo**
     Bm A                   E
 No, I don't want to fall in love. (This world is only gonna break your heart)
     Bm A                   E
@@ -36,7 +36,7 @@ What a wicked thing to say, you never felt this way.
 Bm              A         E
 What a wicked thing to do, to make me dream of you.
 
-[Chorus]
+**Estribillo**
      Bm A                   E
 And, I don't want to fall in love. (This world is only gonna break your heart)
     Bm A                   E
@@ -53,7 +53,7 @@ I never dreamed that I'd love somebody like you.
 Bm                     A                     E
 I never dreamed that I'd lose somebody like you, no
 
-[Chorus]
+**Estribillo**
 Bm A                   E
 No, I want to fall in love. (This world is only gonna break your heart)
 Bm A                   E

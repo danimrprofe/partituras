@@ -35,7 +35,7 @@ Y no ves el momento de salir
 Te conozco tantísimo, Que me ha parecido oír
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
             G               Em               D

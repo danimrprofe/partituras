@@ -5,10 +5,10 @@
 |           | Estándar  | 4/4    | 3    |
 
 ```
-[Intro]
+**Intro**
 G  D/F#  C
 
-[Verse]
+**Estrofa**
        G                       D/F#
 Going back to the corner where I first saw you,
      Am                               C
@@ -36,13 +36,13 @@ Thinking maybe you'd come back here to the place that we'd meet,
            Am                             C             D
 And you'd see me waiting for you on the corner of the street.
 
-[Chorus]
+**Estribillo**
         G        D
 So I'm not moving...
         Am       C
 I'm not moving.
 
-[Verse]
+**Estrofa**
 G                        D/F#
 Policeman says, son you can't stay here,
                  Am                      C
@@ -62,7 +62,7 @@ Thinking maybe you'd come back here to the place that we'd meet,
            Am                             C             D
 And you'd see me waiting for you on the corner of the street.
 
-[Chorus]
+**Estribillo**
         G        D
 So I'm not moving...
         Am       C
@@ -114,7 +114,7 @@ Thinking maybe you'd come back here to the place that we'd meet,
            Am                             C             D
 And you'd see me waiting for you on the corner of the street.
 
-[Chorus]
+**Estribillo**
         G        D
 So I'm not moving...
         Am       C

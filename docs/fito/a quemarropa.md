@@ -5,7 +5,7 @@
 |           | Estándar  | 4/4    | 1    |
 
 ```
-[Intro]
+**Intro**
 
 Am F x3
 
@@ -35,7 +35,7 @@ F       G
   Ohhhhhhhhh
 
 
-[Chorus]
+**Estribillo**
 
                  Dm
 Quiero decirte que yo
@@ -88,7 +88,7 @@ F       G
   Ohhhhhhhhh
 
 
-[Chorus]
+**Estribillo**
 
                  Dm
 Quiero decirte que yo
@@ -136,7 +136,7 @@ G             Am
 pero piensa todo siempre
 
 
-[Chorus]
+**Estribillo**
 
                  Dm
 Quiero decirte que yo

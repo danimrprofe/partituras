@@ -20,7 +20,7 @@ tengo un bulto en el costado, y  una crísis de las buenas
 anoche se me salió la cadena.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
      F#                       E                            B
@@ -40,7 +40,7 @@ echo en falta a mis hermanos, en la furgoneta negra.
 los tiburones de la carretera.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
         F#                  E                  B

@@ -5,10 +5,10 @@
 |           | Estándar  | 4/4    | No   |
 
 ```
-[Intro]
+**Intro**
 Am   F   C   G
 
-[Chorus]
+**Estribillo**
 Am             F           C
  How long, how long will I slide?
 G            Am   F
@@ -44,7 +44,7 @@ Take it on
 A*
 Take it on
 
-[Chorus]
+**Estribillo**
 Am             F           C
  How long, how long will I slide?
 G            Am   F
@@ -80,7 +80,7 @@ Take it on
 A*
 Take it on
 
-[Chorus]
+**Estribillo**
 Am             F           C
  How long, how long will I slide?
 G            Am   F
@@ -90,7 +90,7 @@ I don't, don't believe it's baaa-aaad
 C                       G
 Slittin' my throat it's all I ever
 
-[Instrumental]
+**Instrumental**
 Em* - C*
 Em* - C*
 
@@ -107,7 +107,7 @@ C*
 [Guitar Solo]
 Am   F   C   G
 
-[Chorus]
+**Estribillo**
 Am              F           C
   How long, how long will I slide?
 G           Am    F

@@ -1,7 +1,7 @@
 # Souvenir
 
 ```
-[Intro]
+**Intro**
 
 | D  C  | Bm Am |
 | D  C  | D  Am |
@@ -26,7 +26,7 @@ G  D                  G
    Uh, lugares que conocí.
 
 
-[Chorus]
+**Estribillo**
 
 Am
 Madrid, Bilbao, Sevilla, Ibiza,
@@ -64,7 +64,7 @@ G    D                     G
 Uh, se me ha pegado de ti.
 
 
-[Chorus]
+**Estribillo**
 
 Am
 Madrid, Bilbao, Sevilla, Ibiza,
@@ -90,7 +90,7 @@ estaré imaginando oír tu voz.
 | Am C  | G  D  |
 
 
-[Chorus]
+**Estribillo**
 
 Am
 Madrid, Bilbao, Sevilla, Ibiza,

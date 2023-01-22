@@ -10,10 +10,10 @@
 
 ```
 
-[Intro]
+**Intro**
 D/F#   G   D/F#   A
 
-[Verse]
+**Estrofa**
 G            D/F#                   A
 Desde los cristales rotos de mi ventana
        G                    D/F#
@@ -25,10 +25,10 @@ donde perdí el corazón una extraña madrugada,
         A7                     D
 perdí mi corazón también mi alma.
 
-[Instrumental]
+**Instrumental**
 D   G   D   A
 
-[Verse]
+**Estrofa**
 G             D/F#                          A
 Y a lomos de un viejo verso yo quisiera estar contigo
             G            D/F#
@@ -42,10 +42,10 @@ La Habana,
                   A                   D
 un bolero para dos y el mar por almohada.
 
-[Instrumental]
+**Instrumental**
 D   G   D   A
 
-[Chorus]
+**Estribillo**
 D             A
 Balsera de mi amor,
 G      A           D
@@ -55,10 +55,10 @@ y encontró un apagón
      A            D
 sin luna en Nueva York.
 
-[Instrumental]
+**Instrumental**
 D   G   D   A
 
-[Verse]
+**Estrofa**
 G            D/F#                    A
 Entre las paredes verdes de mi esperanza
               G                   D/F#
@@ -72,11 +72,11 @@ pasa,
       G          A            D
 te imagino volver y que me abrazas.
 
-[Instrumental]
+**Instrumental**
 D   G   D   A
 D   G   D   A
 
-[Verse]
+**Estrofa**
 G           D/F#                         A
 Por tí hablo con el viento de mis penas y tu olvido,
             G             D/F#
@@ -88,10 +88,10 @@ con la fría soledad dando vueltas por mi casa,
                    A
 con la fría soledad y la luz tan escasa.
 
-[Instrumental]
+**Instrumental**
 Bm7   A   G   A
 
-[Chorus]
+**Estribillo**
 D         A
 Balsera de mi amor,
 G      A            D

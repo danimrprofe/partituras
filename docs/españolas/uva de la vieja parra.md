@@ -1,12 +1,12 @@
 # Uva de la vieja parra
 
 ```
-[Intro]
+**Intro**
 
 Cadd9 G Asus2 Em
 D C Em
 
-[Verse]
+**Estrofa**
 
 Cadd9       G/B  Asus2  Em
        Bendecida por el dios
@@ -37,7 +37,7 @@ Cadd9       G/B        Asus2 Em
 D     Cadd9                Em
 Mucha pantera para un domador.
 
-[Chorus]
+**Estribillo**
 
 Asus2         G
      Feliz el que no se enamora
@@ -48,7 +48,7 @@ Asus2          G
 Asus2         G
      y mis tijeras te dare.
 
-[Verse]
+**Estrofa**
 
 Cadd9        G/B    Asus2  Em
        No basto con ser el ultimo  para ser
@@ -59,7 +59,7 @@ Cadd9       G/B          Asus2 Em
 D            Cadd9           Em
    !Que poca agua para tanta sed!
 
-[Chorus]
+**Estribillo**
 
 Asus2          G
        Felices los que son felices,

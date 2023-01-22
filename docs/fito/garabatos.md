@@ -21,7 +21,7 @@ Pero hay cosas que solo se ven si pasas cerca del abismo.
 Y en las puertas de mi barrio descubr  la vida.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 
@@ -55,7 +55,7 @@ Hay canciones que te dan de frente y te se alan el camino.
 Y en las puertas de mi barrio descubrí  la vida.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
               D#    A#                   Cm
@@ -83,7 +83,7 @@ Y ahora que sé  que me engañó   solo me queda por decir
 que cada vez que me perdí  me encontré  la vida.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
               D#    A#                   Cm

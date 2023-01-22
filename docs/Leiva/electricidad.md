@@ -38,7 +38,7 @@ En tu pecho enfermo de miedo.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 G5
@@ -88,7 +88,7 @@ En tu pecho enfermo de miedo.
 Bm
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 G5
@@ -119,7 +119,7 @@ Na, naaa, naaaa, naa, naaa, naaa, naaaaaa, naaaaaaa,
 Naaaaaaaaaaaaaaaaa.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 G5

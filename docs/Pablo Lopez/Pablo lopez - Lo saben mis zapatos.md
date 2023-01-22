@@ -28,7 +28,7 @@ Em             Bm7     Dsus4         D
  No quiero pensar que fue un delirio,
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 G      Cm/G    G
@@ -68,7 +68,7 @@ No quiero perderte, no quiero soñarte
 No quiero escribirte   más historias.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 G      Cm/G    G
@@ -87,7 +87,7 @@ C Bm/F# Em Bm
 C Bm/F# Em7
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 G      Cm/G    G

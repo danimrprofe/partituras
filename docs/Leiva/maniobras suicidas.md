@@ -22,7 +22,7 @@ Y te da un poco igual Cómo voy a reaccionar
 Tú sabes exactamente, Todo lo que puedo pensar
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C   F            Am    G
@@ -59,7 +59,7 @@ Y te da un poco igual Cómo voy a reaccionar
 Tú sabes exactamente, Todo lo que puedo pensar
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C   F            Am    G
@@ -85,7 +85,7 @@ Tú volverás a salvarme la vida, a hacerme consciente
 De que era una increíble señal
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C   F            Am    G

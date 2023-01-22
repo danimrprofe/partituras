@@ -6,7 +6,7 @@
 
 
 ```
-[Intro]
+**Intro**
 Fmaj7 Fmaj9
 
 [Verse 1]
@@ -19,7 +19,7 @@ Homes, places we've grown
              Fmaj7
 All of us are done for
 
-[Chorus]
+**Estribillo**
 Dm                 Dm6               Am
   And we live in a beautiful world
     G
@@ -37,7 +37,7 @@ Homes, places we've grown
              Fmaj7
 All of us are done for
 
-[Chorus]
+**Estribillo**
 Dm                 Dm6               Am
   And we live in a beautiful world
     G
@@ -48,7 +48,7 @@ Dm                 Dm6          Fmaj7
 [Interlude]
 | Am    | C     | Fmaj7 | Fmaj7 | x2
 
-[Chorus]
+**Estribillo**
 Dm                 Dm6               Am
   And we live in a beautiful world
     G

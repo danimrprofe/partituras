@@ -5,7 +5,7 @@
 |           | Estándar  | 4/4    | 3    |
 
 ```
-[Intro]
+**Intro**
 C  Em  Am7  G  x2
 
 [Verse 1]
@@ -28,7 +28,7 @@ When you love someone but it goes to waste,
              C    Em    Am7   G         F
 Could it be worse?
 
-[Chorus]
+**Estribillo**
 F       C    G           F
 Lights will guide you home,
 F   C  G            F
@@ -36,7 +36,7 @@ And ignite your bones,
 F      C   G
 And I will try to fix you,
 
-[Instrumental]
+**Instrumental**
 C  Em  Am7  G  x2
 
 [Verse 3]
@@ -49,7 +49,7 @@ But if you never try you'll never know,
                   C    Em   Am7   G       F
 Just what you're worth.
 
-[Chorus]
+**Estribillo**
 F       C    G           F
 Lights will guide you home,
 F   C  G            F
@@ -57,7 +57,7 @@ And ignite your bones,
 F      C   G
 And I will try to fix you.
 
-[Instrumental]
+**Instrumental**
 C  F  C  G
 Am F  C  G
 C  F  C  G
@@ -77,7 +77,7 @@ I promise you I will learn from my mistakes.
 Am7          F                  C   G
 Tears stream, down your face and I (hold).
 
-[Chorus] (single strumming)
+**Estribillo** (single strumming)
 F       C    G           F
 Lights will guide you home,
 F   C  G            F

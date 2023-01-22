@@ -1,12 +1,12 @@
 # You and me
 
 ```
-[Intro]
+**Intro**
 
 | G / Cadd9 / Dsus4/F# / G/B / Em7 / Dsus4 / Cadd9 |
 
 
-[Verse]
+**Estrofa**
 
 G           Cadd9
 What day is it
@@ -24,7 +24,7 @@ Dsus4   Cadd9
 So much time
 
 
-[Chorus]
+**Estribillo**
 
             G       A7sus4
 Cause' it's you and me
@@ -44,7 +44,7 @@ And I don't know why
 I can't keep my eyes off of you
 
 
-[Verse]
+**Estrofa**
 
 G          Cadd9
 What other things
@@ -60,7 +60,7 @@ You've got my head spinning
 I don't know where to go from here
 
 
-[Chorus]
+**Estribillo**
 
             G       A7sus4
 Cause' it's you and me
@@ -92,7 +92,7 @@ Bm                     Cm
 Everything she does is right
 
 
-[Chorus]
+**Estribillo**
 
             G       A7sus4
 Cause' it's you and me
@@ -129,7 +129,7 @@ And I don't know why
 I can't keep my eyes off of you
 
 
-[Instrumental]
+**Instrumental**
 
 | Cadd9 / Dsus4/F# / G/B / Em7 / Dsus4 / Cadd9 |
 

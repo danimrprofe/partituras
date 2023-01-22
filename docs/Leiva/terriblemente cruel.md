@@ -30,7 +30,7 @@ Voy guardando bajo mi reputación, me salió muy claro perdonártelo
 Mentiré porque tú me lo pides de verdad, aunque te sepa mal
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                     F                 C                  E7           Am
@@ -43,7 +43,7 @@ Voy a ser terriblemente fiel, Cuando se te pase la emoción
 Ya sé, te puede parecer demasiado
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estrofa**
 ```

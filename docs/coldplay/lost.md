@@ -22,7 +22,7 @@ E|--------------|------------------|
 
 
 
-[Intro]
+**Intro**
 
  Em7   C   G   D     x2
 
@@ -51,7 +51,7 @@ Doesn't mean I didn't get what I deserved
 No better and no worse
 
 
-[Chorus]
+**Estribillo**
 
            D
 I just got lost
@@ -84,7 +84,7 @@ Doesn't mean you've won
 'Cause along may come a bigger one
 
 
-[Chorus]
+**Estribillo**
 
                D
 And you'll be lost

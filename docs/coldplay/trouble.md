@@ -5,13 +5,13 @@
 |           | Estándar  | 4/4    | No   |
 
 ```
-[Intro]
+**Intro**
 G  Em   Bm
 G  Em   Bm
 G  Em   Bm
 G  Em   Bm
 
-[Verse]
+**Estrofa**
 G  Em   Bm
 Oh no i see
 F               Am              G
@@ -21,11 +21,11 @@ And I lost my head
     F                  Am                G
 And thought of all the stupid things i’d said
 
-[Instrumental]
+**Instrumental**
 G  Em   Bm
 G  Em   Bm
 
-[Verse]
+**Estrofa**
 G  Em        Bm
 Oh no what’s this
 F                    Am                   G
@@ -35,7 +35,7 @@ So I turned to run and
 F                  Am                G
 Thought of all the stupid things i’d done
 
-[Chorus]
+**Estribillo**
     A                             Em
 And ah i never meant to cause you trouble
 A                          Em
@@ -45,7 +45,7 @@ Ah well if I ever caused you trouble
      A                             Em
 Then oh no I never meant to do you harm.
 
-[Verse]
+**Estrofa**
 G  Em   Bm
 Oh no i see
 F                     Am               G
@@ -55,7 +55,7 @@ So i twist and turn
     F             Am               G
 But here am i in my little bubble
 
-[Chorus]
+**Estribillo**
             A                             Em
 Singing out ah i never meant to cause you trouble
 A                          Em
@@ -65,7 +65,7 @@ And ah well if I ever caused you trouble
      A                             Em
 Then oh no I never meant to do you harm.
 
-[Instrumental]
+**Instrumental**
 G  Em   Bm
 G  Em   Bm
 G  Em   Bm

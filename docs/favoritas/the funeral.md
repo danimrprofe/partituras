@@ -3,7 +3,7 @@
 Capo 3
 
 ```
-[Intro] (continues through verses)
+**Intro** (continues through verses)
 
 Relative to capo
    F            C         G         Am
@@ -24,7 +24,7 @@ A|-------------|---------|---------|-----------------|
 E|-------------|---------|---------|-----------------|
 
 
-[Verse]
+**Estrofa**
 
 F             C       G        Am
 I'm coming up only to hold you under
@@ -50,7 +50,7 @@ F     C           G           Am
 Is to know me all wrong, they warn
 
 
-[Chorus]
+**Estribillo**
 
 G                         C             F
 At every occasion I'll be ready for the funeral
@@ -62,7 +62,7 @@ G                           C           F
 And every occasion, oh, one billion day funeral
 
 
-[Verse]
+**Estrofa**
 
 F             C       G           Am
 I'm coming up only to show you're down for
@@ -80,7 +80,7 @@ F C G Am
 Oooooooooooh
 
 
-[Chorus]
+**Estribillo**
 
 G                         C             F
 At every occasion I'll be ready for the funeral

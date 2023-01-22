@@ -32,7 +32,7 @@ A
 ¡Ah, ah, ah!
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
   G             A                Bm

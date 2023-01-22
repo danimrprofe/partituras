@@ -4,10 +4,10 @@
 - Album: Alta Suciedad
 
 ```
-[Intro]
+**Intro**
 G  B7  Em  C  G  D  G  D
 
-[Chorus]
+**Estribillo**
   G                B7
 Flaca, no me claves,
       Em             C
@@ -69,7 +69,7 @@ volver al hogar,
               G        D
 para poder comer...
 
-[Chorus]
+**Estribillo**
   G                B7
 Flaca, no me claves,
       Em             C

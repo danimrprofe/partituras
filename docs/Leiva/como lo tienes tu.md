@@ -25,7 +25,7 @@ y hasta el finaaaaaaal, es lo que tengo, es lo que hay,
 tengo una paja mentaaaaaaaal, que ya no sé de qué va
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
         G
@@ -65,7 +65,7 @@ tengo una paja mentaaaaaaaal, que ya no sé de qué va.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 
@@ -88,7 +88,7 @@ como quisiera tenerlo tan claro como lo tienes tú.
 | A |C | D | F G |  x2
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 

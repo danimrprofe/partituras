@@ -27,7 +27,7 @@ C                     G
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            Am                       Fmaj7                   C
@@ -66,7 +66,7 @@ We beat him with guns, and batons not just once, but again and again
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            Am                       Fmaj7                   C
@@ -108,7 +108,7 @@ A hero of war
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            Am                    Fmaj7                   C

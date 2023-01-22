@@ -1,7 +1,7 @@
 # Trozos de cristal
 
 ```
-[Intro]
+**Intro**
 Dm7     Gm7      Dm7      Dm7
 Gm7     Gm7      Dm7      Dm7
 A7      Gm7      Dm7      A7
@@ -17,7 +17,7 @@ Me resulta tan raro todo lo normal,
 C                Bb                   Dm
 me tropiezo, me caigo y vuelvo a tropezar.
 
-[Chorus]
+**Estribillo**
 F
 Creí que me había equivocado,
 A
@@ -41,7 +41,7 @@ ya conozco unos cuantos que son como usted
 C                      Bb             Dm
 que me ofrecen veneno cuando tengo sed.
 
-[Chorus]
+**Estribillo**
 F
 Creí que me había equivocado,
 A
@@ -70,4 +70,3 @@ A7      Gm7      Dm7      A7
 x2
 
 ```
-<div style="page-break-after: always;"></div>

@@ -21,7 +21,7 @@ y revolcarse en el olvido hasta borrar
     A                                  D
 las heridas de una espina envuelta en flor
 
-[Chorus]
+**Estribillo**
 
    G     A   Bm        G     A        D
 es mejor caminar que parar y ponerse a temblar
@@ -48,7 +48,7 @@ mientras no les lluevan piedras les irá mejor que bien
     A                            D
 ojalá que el sol no deje de brillar
 
-[Chorus]
+**Estribillo**
 
    G     A   Bm        G     A        D
 es mejor caminar que parar y ponerse a temblar
@@ -76,7 +76,7 @@ porque la vida se convierte en un invierno
     A                            D
 tenebroso para dos
 
-[Chorus]
+**Estribillo**
 
    G     A   Bm        G     A        D
 es mejor caminar que parar y ponerse a temblar

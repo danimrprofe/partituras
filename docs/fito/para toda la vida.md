@@ -13,7 +13,7 @@ ibas buscando basura en un terreno barrido.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
       F                             C
@@ -51,7 +51,7 @@ C G x 8
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
       F                             C

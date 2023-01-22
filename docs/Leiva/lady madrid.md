@@ -38,7 +38,7 @@ G                Am         F                    G
 de Málaga hasta La Coruña, durmiendo en la estación de tren.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                    G              Am                F
@@ -58,7 +58,7 @@ G                Am        F           G  G7
 algunos todavía dudan, si vas a volver..
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                    G              Am                F
@@ -76,7 +76,7 @@ Dm G Dm G G7 G7sus4 G7
 G
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                    G              Am                F

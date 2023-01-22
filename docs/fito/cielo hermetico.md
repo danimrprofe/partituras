@@ -39,7 +39,7 @@ A dos gramos por segundo
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                F       G      Am
@@ -51,7 +51,7 @@ A veces duele más que un látigo
                 D7      E7     Am
 Vivimos bajo un cielo hermético
 
-[Verse]
+**Estrofa**
 Am
 Sabes, si quieres que te adore como un santo
 Am                                 F
@@ -68,7 +68,7 @@ Y solo lo supimos después
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                F       G      Am
@@ -102,7 +102,7 @@ Disparo a mis verdades con pistolas de mentira
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                F       G      Am

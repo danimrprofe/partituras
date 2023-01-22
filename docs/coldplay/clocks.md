@@ -5,7 +5,7 @@
 |           | Estándar  | 4/4    | 1    |
 
 ```
-[Intro]
+**Intro**
 D  Am  Am  Em  x4
 
 [Verse 1]

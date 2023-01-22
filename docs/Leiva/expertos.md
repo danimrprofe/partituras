@@ -44,7 +44,7 @@ Bm                     E               A      D   A
 Nunca le llegamos a dar demasiada importancia
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
   D     E                D      E

@@ -1,6 +1,6 @@
 # Lo Que Siempre Quise Hacer
 ```
-[Intro]
+**Intro**
 G  C  G  D  C  G  D
 
 [Verse 1]
@@ -28,7 +28,7 @@ Pero tengo boggie-boggie
          C                           G  D
 Porque eso es lo que a mi me sienta bien
 
-[Chorus]
+**Estribillo**
           G
 No voy a dar un solo paso
          C                     G
@@ -42,7 +42,7 @@ Y aunque no siempre divertido
       C                    G   D
 Es mejor de lo que nunca soñé
 
-[Instrumental]
+**Instrumental**
 G C G D C G D (2x)
 
 [Verse 2]
@@ -59,7 +59,7 @@ Pero tengo boggie-boggie
         C                            G  D
 Porque eso es lo que a mi me sienta bien
 
-[Chorus]
+**Estribillo**
           G
 No voy a dar un solo paso
           C                     G

@@ -13,7 +13,9 @@ Sentado con las piernas cruzadas queriendo desaparecer ojalá lo consiguiera alg
   C                                   Em                       Am                       G
 Las pocas estrellas que quedan están todas de alquiler. Hoy me desperté con ella no lo puedo creer.
 
-[Pre-Chorus]
+```
+**Pre-coro**
+```
     C
 Vámonos a los tejados
         Em/B
@@ -24,7 +26,7 @@ Hoy tus ojos mañana el mundo,
 algún día los dos, algún día los dos.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
  F         C    G     C     F
@@ -46,7 +48,6 @@ Andando por la arena mojada queriéndote sin querer, ojalá lo descubrieras algu
     C                                 Em                     Am                        G
 Las viejas secuelas que llevas en el fondo de la piel ya se fueron a la mierda, no lo puedo creer
 
-
 [Pre-Chorus]
     C
 Vámonos a los tejados
@@ -57,15 +58,13 @@ Hoy tus ojos mañana el mundo,
        F                  G
 algún día los dos, algún día los dos.
 
-
-[Chorus]
+**Estribillo**
  F         C    G     C    F
 ¡Va a explotar, salta rápido!
   G        C      G         C
 Fuerza la máquina, sonrisa mágica,
      F           G    Am
 un poco más, un poco más
-
 
 [Outro]
 C       F            Am

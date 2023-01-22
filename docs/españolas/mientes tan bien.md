@@ -46,7 +46,7 @@ Aunque es falso el aire, siento que respiro
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C               D
@@ -88,7 +88,7 @@ Anque es faiso el aire, siento que respiro
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C               D

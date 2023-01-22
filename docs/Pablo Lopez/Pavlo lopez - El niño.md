@@ -21,7 +21,7 @@ G               Dm7      Em                      F
 Sabias que no estaba. Sabi­as que era Martes, Sabi­as que Septiembre
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 G                Am     F        C            Am  F       C          G

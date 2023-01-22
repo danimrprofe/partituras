@@ -86,7 +86,7 @@ F                                          C                                  G
   Puedes sentir por dentro un nudo extraño   Puedo jurarte que no paro de gritar
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
          C
@@ -112,7 +112,7 @@ La zona nuclear
 A##  G  F A  Dm  G  A## A  G
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
          C

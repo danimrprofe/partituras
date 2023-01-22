@@ -3,7 +3,7 @@
 capo 2
 
 ```
-[Intro]
+**Intro**
 
 C Cmaj7 F G
 C Cmaj7 F G
@@ -20,7 +20,7 @@ C Cmaj7 F G
 ¿Si te ahogaras y no supieras cómo se expresa?
 
 
-[Chorus]
+**Estribillo**
             F
 ¿Qué harías tú?
         C/E           Am
@@ -48,7 +48,7 @@ Peligrosamente dark
 ¿Si olvidaras por un instante lo que te importa?
 
 
-[Chorus]
+**Estribillo**
             F
 ¿Qué harías tú?
         C/E           Am

@@ -67,7 +67,7 @@ C                        G
 C                 Am  Em                        G   C G
   Tengo los pies rotos y en la garganta un nudo
 
-[Chorus]
+**Estribillo**
 D               Em
   Cúrame, viento, ven a mí
 C                 G
@@ -88,7 +88,7 @@ C             G
 C              Am    Em                           G   C G
   No me dio tiempo a decir lo mucho que te quiero
 
-[Chorus]
+**Estribillo**
 D               Em
   Cúrame, viento, ven a mí
 C              G
@@ -105,7 +105,7 @@ G   Am Em   Am
 G      Em   C
 G      D
 
-[Chorus]
+**Estribillo**
               Em
 Cúrame, viento, ven a mí
 C                G

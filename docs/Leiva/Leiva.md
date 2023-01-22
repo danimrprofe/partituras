@@ -25,7 +25,7 @@ https://www.youtube.com/playlist?list=PL7007E8A139699221
 - Producido por Carlos Raya y Leiva
 - Discográfica: Sony music
 
-<div style="page-break-after: always;"></div>
+
 
 Álbum completo en youtube:
 https://music.youtube.com/playlist?list=OLAK5uy_nlBm2fYNiTi2kGleNfuXrnmHF5HdT2XbQ&feature=gws_kp_album&feature=gws_kp_artist

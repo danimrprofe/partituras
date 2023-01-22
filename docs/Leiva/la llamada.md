@@ -35,7 +35,7 @@ Sueño con estar por encima de todo Por debajo de tu falda
 Con la noche llena de luz, Y Tu voz pausadaa, Y tu voz pausada
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
           Am  F         C G     Am      F   C G

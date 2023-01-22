@@ -20,7 +20,7 @@ A               Dm
 como vive un perro viejo
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C            Dm7

@@ -10,11 +10,11 @@
 
 ```
 
-[Intro]
+**Intro**
 G G/F# Em C G G/F# Em Em x2
 
 
-[Verse]
+**Estrofa**
 G       G/F#             Em           C         G
 Hoy voy a empezar a construir la casa donde estaré
      G/F#    Em      Em
@@ -29,11 +29,11 @@ y voy a saltar voy a nadar hasta otro
 lugar para toda la vida.
 
 
-[Instrumental]
+**Instrumental**
 G G/F# Em C G G/F# Em Em
 
 
-[Verse]
+**Estrofa**
 G       G/F#             Em           C         G
 Veo la pared, donde colgué las fotos que acumule
         G/F#    Em      Em
@@ -48,11 +48,11 @@ sé que ya no estoy y que no quiero mirar la pared
 nunca más en la vida.
 
 
-[Instrumental]
+**Instrumental**
 G G/F# Em C G G/F# Em Em
 
 
-[Verse]
+**Estrofa**
 G       G/F#             Em           C         G
 Hoy voy a empezar a construir la casa donde estaré
      G/F#    Em      Em

@@ -16,7 +16,7 @@ Quiero ser tan duro como el hierro, pero me derrito con tu olor
 Quise hacer un cielo en el infierno,  a ver si acertaba por error.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                            G                             D   G
@@ -37,7 +37,7 @@ Al final de todo lo que me quedó, es la canción que te estoy cantando.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                            G                             D   G

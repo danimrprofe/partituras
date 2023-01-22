@@ -1,12 +1,12 @@
 # Candy
 
 ```
-[Intro]
+**Intro**
 
 Am     Em
 
 
-[Verse]
+**Estrofa**
 
       Am
 I was perched outside in the pouring rain
@@ -26,7 +26,7 @@ I'm a heartless man at worst, babe
 And a helpless one at best
 
 
-[Chorus]
+**Estribillo**
 
              Am
 Darling I'll bathe your skin
@@ -44,7 +44,7 @@ Just give me some candy
 After my hug
 
 
-[Verse]
+**Estrofa**
 
       Am
 Oh I'm often found explaining
@@ -64,7 +64,7 @@ Well I'm some stain there on your bedsheet
 You're my diamond in the rough
 
 
-[Chorus]
+**Estribillo**
 
              Am
 Darling I'll bathe your skin
@@ -82,13 +82,13 @@ Just give me some candy
 After my hug
 
 
-[Instrumental]
+**Instrumental**
 
 Am Em G D7
 Am Em
 
 
-[Chorus]
+**Estribillo**
 
   G                             D7
 I know that there´re writings on the wall

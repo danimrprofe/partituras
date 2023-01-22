@@ -1,10 +1,10 @@
 # El roce de tu piel
 
 ```
-[Intro]
+**Intro**
 G    C    Em    D  C Em Am (x2)
 
-[Verse]
+**Estrofa**
    G
 Un vaso de whisky, un hotel diferente
    Em
@@ -22,7 +22,7 @@ Son las seis de la tarde, toco enfrente del puerto
       C               D                  C
 no consigo sacarte de mí ni olvidarme de ti.
 
-[Chorus]
+**Estribillo**
                 G             D                  Am   C
 Y es que no hay droga más dura que el amor sin medida
               G             D                      C  D
@@ -32,10 +32,10 @@ Y es que no hay nada mejor que tener tu sabor corriendo por mis venas
 Am          D                 G
 nada mejor que el roce de tu piel
 
-[Instrumental]
+**Instrumental**
 G    C    Em    D
 
-[Verse]
+**Estrofa**
      G
 Y me siento desnudo enfrente del espejo
               Em
@@ -53,7 +53,7 @@ El ritmo de la noche viste mi cancion,
   C                        D         C   D
 mejor cojo mis cosas, nena, mejor me voy.
 
-[Chorus]
+**Estribillo**
                 G             D                  Am   C
 Y es que no hay droga más dura que el amor sin medida
               G             D                      C  D
@@ -73,7 +73,7 @@ Hoy se perdio el equilibrio
        Am               C             D
 Y la balanza cayó de tu lado, mi amor.
 
-[Instrumental]
+**Instrumental**
 G    C    Em    D  (x2)
 
 [Bridge]
@@ -86,7 +86,7 @@ Hoy se perdio el equilibrio
        Am               C             D
 Y la balanza cayó de tu lado, mi amor.
 
-[Chorus]
+**Estribillo**
                 G             D                  Am   D
 Y es que no hay droga más dura que el amor sin medida
               G             D                      C  D

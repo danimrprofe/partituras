@@ -22,7 +22,7 @@ G              F                 C
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            G
@@ -84,4 +84,3 @@ G              F                 C
 G C G C
 G C G C
 ```
-<div style="page-break-after: always;"></div>

@@ -6,7 +6,7 @@
 
 ```
 Intro for song can be with basses on chords or this one
-[Intro]
+**Intro**
    C                   Am7               C                    G
 e|-x--3/5\3------------0-------------||-0--3/5\3--------------3------------3-|
 B|-x--3/5\3-3/5\3------1---1---3---1-||-1--3/5\3-3/5\3--------3------------3-|
@@ -32,7 +32,7 @@ A|-----------------0h2-3-------2-------0-------------------------------------|-2
 E|---------------------------------------------3-----------------------------|-3-|
                                                                             En la posada del....
 
-[Instrumental]
+**Instrumental**
       G
 E|-|------------------------------------------------------|
 B|-|------------------------15-15--13/12-13---15--13--12--|
@@ -65,7 +65,7 @@ E|-----------3--|  |-3------------|  |--------------|  |--------------|
 | b   bend
 
 **********************************************************************************************************
-[Intro]
+**Intro**
 
 C   Am7    C     G
 
@@ -86,7 +86,7 @@ Bm                 Bm        Am
                     Am/B  C                  C/G
 Saca un sucio calen-dario del-- bolsillo-, y grita:-
 
-[Chorus]
+**Estribillo**
  G            G/B D                   C
 ¿Quién- me ha roba-do- el mes de Abril?--
 C/G     G    D             C
@@ -110,7 +110,7 @@ Bm            Bm        Am
                       Am/G  C                  C/G
 Ruedan por la pa-gina de un block--, y en el escribe:-
 
-[Chorus]
+**Estribillo**
  G            G/B D                   C
 ¿Quién- me ha roba-do- el mes de Abril?--
 C/G     G    D             C
@@ -122,7 +122,7 @@ Lo guardaba en el cajón-
                   Am/G    D    D
 - Donde guardo el corazón.-- - Stop
 
-[Instrumental]
+**Instrumental**
 G  D  C  C   G  D  C  C
 
 [Bridge]
@@ -145,7 +145,7 @@ Bm         Bm              Am
                     Am/G   C                  C/G
 Se marchita viendo- Falcon Crest, mi vieja, y piensa:-
 
-[Chorus]
+**Estribillo**
  G            G/B D                   C
 ¿Quién- me ha roba-do- el mes de Abril?--
 C/G     G    D             C
@@ -157,7 +157,7 @@ Lo guardaba en el cajón-
                   Am/G    D    D
 - Donde guardo el corazón.-- - Stop
 
-[Chorus]
+**Estribillo**
  G            G/B D                   C
 ¿Quién- me ha roba-do- el mes de Abril?--
 C/G     G    D             C
@@ -169,7 +169,7 @@ Lo guardaba en el cajón-
                   Am/G    D    D
 - Donde guardo el corazón.-- - Stop
 
-[Instrumental]
+**Instrumental**
 G  D  C  C    G  D  C  C
 
 [Outro]

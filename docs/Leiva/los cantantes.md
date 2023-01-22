@@ -30,7 +30,7 @@ Así son los días del cantante,      Deja que sea
 No hay más, Si todo lo que viene se va, A golpe de volante
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C/G          Em          Am         G                    Fmaj7
@@ -42,8 +42,6 @@ C/G              Em            Am       G                     Fmaj7
 Em                          Dm        G
 Es todo lo que quise conquistar en la vida
 ```
-
-<div style="page-break-after: always;"></div>
 
 **Estrofa**
 ```
@@ -77,5 +75,3 @@ Repetición coro
     Am  C/G   Fmaj7        C/G
 Uooooh  ooh oooh ooh ooh 
 ```
-
-<div style="page-break-after: always;"></div>

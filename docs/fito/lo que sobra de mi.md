@@ -25,7 +25,7 @@ Ya llega la tormenta, ya la oigo venir, viene derechita hacia aquí.
 haciendo: “bom... bom... bom... bom... bom”
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                      D                Em
@@ -59,7 +59,7 @@ Ya llega la tormenta, ya la oigo venir, viene derechita hacia aquí.
 haciendo: “bom... bom... bom... bom”
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                      D                Em
@@ -89,7 +89,7 @@ C  |  D  | Em | - |
 G  |  D  |  Em | - |
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                      D                Em

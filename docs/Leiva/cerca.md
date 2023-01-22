@@ -4,7 +4,6 @@
 | --------- | ------- | ------ | ---- |
 | Re Mayor  | 123 bpm | 4/4    | 2    |
 
-
 **Intro**
 ```
 C F C G
@@ -27,7 +26,7 @@ La culpa no se puede remontar
 En este invierno cruel
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                        F
@@ -41,8 +40,6 @@ Volvamos a intentarlo
 
 C F C G
 ```
-
-<div style="page-break-after: always;"></div>
 
 **Estrofa**
 ```
@@ -74,5 +71,3 @@ F G Dm Em F G
 C F C G
 C F C G C
 ```
-
-<div style="page-break-after: always;"></div>

@@ -29,7 +29,7 @@ Dos vidas sin saber quien eres, dos tragos por el ultimo bay bay
 Ya sabes que seráaaaa
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D     C             G         D     C             G
@@ -47,5 +47,3 @@ Y no sé como hacerlo    No sé como hacerlo
 **Repite pre-estribillo**
 
 **Repite estribillo**
-
-<div style="page-break-after: always;"></div>

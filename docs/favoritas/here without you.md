@@ -1,7 +1,7 @@
 # Here without you
 
 ```
-[Intro]
+**Intro**
 
 Bm    G  A
 
@@ -22,7 +22,7 @@ Bm                           G                A
 They dissapear now, when I'm dreaming of your face
 
 
-[Chorus]
+**Estribillo**
 
 D                              A
 I'm here without you, baby
@@ -50,7 +50,7 @@ I've heard this life is overrated
 But I hope that it gets better as we go, ohh yeah yeah
 
 
-[Chorus]
+**Estribillo**
 
 D                              A
 I'm here without you, baby
@@ -83,7 +83,7 @@ It gets hard, but it won't take away my love, whoa
 | D      | A      | Bm     | G  A    |
 
 
-[Chorus]
+**Estribillo**
 (slightly altered)
 
 D                           A

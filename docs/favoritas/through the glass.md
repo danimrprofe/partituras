@@ -6,7 +6,7 @@
 I'm looking at you through the glass
 
 
-[Chorus]
+**Estribillo**
                         D
 Don't know how much time  has passed
                 Em
@@ -45,7 +45,7 @@ Remember what you're staring at is me
 Cause I'm looking at you through the glass
 
 
-[Chorus]
+**Estribillo**
                         D                                Em
 Don't know how much time  has passed AllI know is that it feels like forever
                                    C                    D                           Em
@@ -68,7 +68,7 @@ Before you tell yourself It's just a different scene
 Remember it's just different from what you've seen
 
 
-[Chorus]
+**Estribillo**
                            C                                 D
 I'm looking at you through the glass Don't know how much time  has passed
                      Em

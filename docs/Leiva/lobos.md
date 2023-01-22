@@ -46,7 +46,7 @@ Como un viejo abandonado
 Ahora solo escuchas un tick tack, Sabes que te va a llegar
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            Am          C  D             Am          C    E7

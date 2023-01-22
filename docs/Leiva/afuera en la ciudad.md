@@ -42,7 +42,7 @@ Cuánto tiempo va a llevarnos, reponernos de los golpes
 Y seguir disimulando que aún no me conoces
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estribillo**
 ```

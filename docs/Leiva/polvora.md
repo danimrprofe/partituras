@@ -17,7 +17,7 @@ De los cielos a la pólvora mojada, de la magia a la oscura esclavitud
 Hace tiempo que no pienso en tu cornada. Hace tiempo que lo echo a cara o cruz.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
          F            G                   Am          Em
@@ -37,7 +37,7 @@ Prisioneros de las drogas delicadas, atrapados en un plano a contraluz
 Hace tiempo que no siento una punzada, hace tiempo que me estrello a tu salud, y ahora
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estribillo**
 ```

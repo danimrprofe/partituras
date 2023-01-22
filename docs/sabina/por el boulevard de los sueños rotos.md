@@ -33,7 +33,7 @@ Diego Rivera lápiz en mano
          A             D
 Dibuja a Frida Kahlo desnuda.
 
-[Chorus]
+**Estribillo**
    Am           G
 Se escapo de una cárcel de amor
 D                           A
@@ -71,7 +71,7 @@ Cuando las canta Chavela Vargas
          A             D
 Y las escribe un tal José Alfredo
 
-[Chorus]
+**Estribillo**
    Am           G
 Se escapo de una cárcel de amor
 D                           A
@@ -89,7 +89,7 @@ Cuando las canta Chavela Vargas
          A             D
 Y las escribe un tal José Alfredo
 
-[Chorus]
+**Estribillo**
    Am           G
 Se escapo de una cárcel de amor
 D                           A

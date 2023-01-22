@@ -6,7 +6,7 @@
 |           | Estándar  | 4/4    | 5    |
 
 ```
-[Intro]
+**Intro**
 G C G C G C G C
 
 [Verse 1]
@@ -67,7 +67,7 @@ He pensado en llamarte mil veces
     G         C
 ya sabes que sí
 
-[Instrumental]
+**Instrumental**
 Fmaj7 Em Fmaj7/C C Fmaj7 G Fmaj7 C
 Fmaj7 Em Fmaj7/C C Fmaj7
 

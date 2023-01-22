@@ -1,6 +1,5 @@
 # Las cuentas
 
-
 **Información**
 
 | Tonalidad | Tempo | Compás | Capo |
@@ -31,7 +30,7 @@ Prenderé fuego al colchón,
 que reventó nuestros otoños.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            A          E          D   (D*)
@@ -46,8 +45,6 @@ queremos lo que envenena.
 Y así nunca, nos salen las cuentas.
 
 ```
-
-<div style="page-break-after: always;"></div>
 
 **Solo**
 ```
@@ -73,7 +70,7 @@ Me agarré a la inspiración,
 que me dejó nuestros demonios.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            A          E          D   (D*)
@@ -87,14 +84,13 @@ queremos lo que envenena.
          E                    A
 Y así nunca, nos salen las cuentas.
 
-
 ```
 **Solo 2**
 ```
 F       C       Bm       E
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            A          E          D   (D*)

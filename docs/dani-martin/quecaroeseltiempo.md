@@ -6,7 +6,7 @@
 
 
 ```
-[Verse]
+**Estrofa**
 C                        G           D
 Hoy miro vuestras caras veo que la vida pasa
 C                         G               D/F#
@@ -22,13 +22,13 @@ Am         Bm             C           D
 Am         Bm           C                D
    Y si digo que miento me estaré escondiendo otra vez
 
-[Chorus]
+**Estribillo**
 C        D               Em              G
  Perdona,  si digo , que quiero seguir siendo lo de ayer
 C        D                  G         D                  Em   D
  Un niño,  sin miedo, que regala su cariño y no sabe porqué
 
-[Verse]
+**Estrofa**
 C                    G          D
 Recuerdo esas caras  todo llega  todo pasa
 C                         G           D/F#
@@ -44,7 +44,7 @@ Am         Bm             C           D
 Am         Bm           C                D
    Y si digo que miento me estaré escondiendo otra vez
 
-[Chorus]
+**Estribillo**
 C        D               Em              G
  Perdona,  si digo , que quiero seguir siendo lo de ayer
 C        D                  G         D                  Em   D

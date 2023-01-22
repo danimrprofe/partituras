@@ -20,7 +20,7 @@ I take it everywhere I walk
 Em                A       Bm
 I'm an Englishman in New York
 
-[Chorus]
+**Estribillo**
 Em      A    Bm
 I'm an alien   I'm a legal alien
         Em        A        Bm
@@ -40,7 +40,7 @@ It takes a man to suffer ignorance and smile
        Em         A             Bm
 Be yourself no matter what they say
 
-[Chorus]
+**Estribillo**
 Em      A    Bm
 I'm an alien   I'm a legal alien
         Em        A        Bm
@@ -60,7 +60,7 @@ Gentleness, sobriety are rare in this society
   F#/A#                               Bm
 At night a candle's brighter than the sun
 
-[Instrumental]
+**Instrumental**
 Em   A   Bm  x4
 
 [Verse 3]
@@ -82,7 +82,7 @@ It takes a man to suffer ignorance and smile
        Em         A             Bm
 Be yourself no matter what they say
 
-[Chorus]
+**Estribillo**
 Em      A    Bm
 I'm an alien   I'm a legal alien
         Em        A        Bm

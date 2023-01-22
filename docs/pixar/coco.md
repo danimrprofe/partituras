@@ -2,7 +2,7 @@
 
 ![](img/2021-04-13-15-00-07.png)
 
-<div style="page-break-after: always;"></div>
+
 
 ## Un poco loco
 
@@ -47,7 +47,7 @@ Y así estoy celebrando
  C               D       G
 Que me he vuelto un poco loco..
 ```
-[Instrumental]
+**Instrumental**
 ```
 D  G  D  G  D  G  D  G  D  G  D  G  E
 ```
@@ -89,7 +89,7 @@ Con mi cabeza juegas
 Un poquitititi titi titi titi tititito loco
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 ## El latido de mi corazón
 
@@ -136,12 +136,12 @@ Amor verdadero nos une por siempre
    D    G       A       D
 En el latido de mi corazón
 ```
-[Instrumental]
+**Instrumental**
 ```
 B7
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 E        A
@@ -170,7 +170,7 @@ Amor verdadero nos une por siempre
 En el latido de mi corazón
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 ## Recuérdame
 

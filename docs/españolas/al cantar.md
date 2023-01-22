@@ -13,7 +13,7 @@ C       G      F      C
 y sentir,que no estamos muertos.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 F               G               Am         G            F
@@ -35,7 +35,7 @@ C          G      F      C
 ya lo ves, no estaba tan lejos.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 F               G               Am         G            F

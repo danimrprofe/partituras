@@ -18,7 +18,7 @@
  Eb|---------------------------------|
 
 
- [Intro]
+ **Intro**
 
  G    (Quick down up down stroke followed by quick downstrokes for a few bars)
  Em  (Listen to it and you can easily hear what I mean)
@@ -32,7 +32,7 @@
  Fig. 1 x2 (before vox)
 
 
-[Verse]
+**Estrofa**
 
  Fig. 1                  Fig. 1
  Time is never time at all
@@ -51,7 +51,7 @@
  We're not the same, we're different toniiiiiiiiiiiIIIight.
 
 
-[Chorus]
+**Estribillo**
 
  Cadd9 G/B D    Em           Am
  Toniiiiiiight, tonight, so bright
@@ -59,13 +59,13 @@
  ToniiiiiiiiiiiIIIight,        tonight
 
 
-[Instrumental]
+**Instrumental**
 
  G
  Em
 
 
-[Verse]
+**Estrofa**
 
  G
  And you know you're never sure
@@ -86,7 +86,7 @@ Fig. 1    Fig.1         Fig.1       G  D/F#    Em
  And if you believe there's not a chance toniiiiiiiiiiiIIIight.
 
 
-[Chorus]
+**Estribillo**
 
  Cadd9 G/B D    Em           Am
  Toniiiiiiight, tonight, so bright

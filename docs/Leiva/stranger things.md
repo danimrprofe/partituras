@@ -100,7 +100,7 @@ Me arrancarías
 Los sueños de las manos
 
 
-[Chorus]
+**Estribillo**
         F
 Hay una llave experta
         C/E

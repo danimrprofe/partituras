@@ -1,7 +1,7 @@
 # La calma
 
 ```
-[Intro]
+**Intro**
 
 Em  Fsus  Em  D/B
 Em  Fsus  Em  D/B
@@ -22,7 +22,7 @@ yo he caminado mucho y me encuentro cansado
 Cadd9            G        Cadd9
 pero tranquilo.
 
-[Chorus]
+**Estribillo**
 
 D            Cadd9
 Amiga risa, hermana nostalgia
@@ -52,7 +52,7 @@ salen a flote algunos errores y faltas
 Cadd9            G                 Cadd9
 pequeñas faltas.
 
-[Chorus]
+**Estribillo**
 
 D                 Cadd9
 Rojos demonios de la venganza
@@ -74,7 +74,7 @@ Solo de gruitarra:
 G    Cadd9    G    Cadd9
 G    Cadd9    G    Cadd9
 
-[Chorus]
+**Estribillo**
 
 D            Cadd9
 Amiga risa, hermana nostalgia

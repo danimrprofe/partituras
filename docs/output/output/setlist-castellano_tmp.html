@@ -1,435 +1,438 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>setlist-castellano.md</title>
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 
-<style>
-/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
-/*---------------------------------------------------------------------------------------------
+<head>
+  <title>setlist-castellano.md</title>
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+  <style>
+    /* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+    /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-body {
-	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
-	font-size: var(--vscode-markdown-font-size, 14px);
-	padding: 0 26px;
-	line-height: var(--vscode-markdown-line-height, 22px);
-	word-wrap: break-word;
-}
+    body {
+      font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+      font-size: var(--vscode-markdown-font-size, 14px);
+      padding: 0 26px;
+      line-height: var(--vscode-markdown-line-height, 22px);
+      word-wrap: break-word;
+    }
 
-#code-csp-warning {
-	position: fixed;
-	top: 0;
-	right: 0;
-	color: white;
-	margin: 16px;
-	text-align: center;
-	font-size: 12px;
-	font-family: sans-serif;
-	background-color:#444444;
-	cursor: pointer;
-	padding: 6px;
-	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
-}
+    #code-csp-warning {
+      position: fixed;
+      top: 0;
+      right: 0;
+      color: white;
+      margin: 16px;
+      text-align: center;
+      font-size: 12px;
+      font-family: sans-serif;
+      background-color: #444444;
+      cursor: pointer;
+      padding: 6px;
+      box-shadow: 1px 1px 1px rgba(0, 0, 0, .25);
+    }
 
-#code-csp-warning:hover {
-	text-decoration: none;
-	background-color:#007acc;
-	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
-}
+    #code-csp-warning:hover {
+      text-decoration: none;
+      background-color: #007acc;
+      box-shadow: 2px 2px 2px rgba(0, 0, 0, .25);
+    }
 
-body.scrollBeyondLastLine {
-	margin-bottom: calc(100vh - 22px);
-}
+    body.scrollBeyondLastLine {
+      margin-bottom: calc(100vh - 22px);
+    }
 
-body.showEditorSelection .code-line {
-	position: relative;
-}
+    body.showEditorSelection .code-line {
+      position: relative;
+    }
 
-body.showEditorSelection .code-active-line:before,
-body.showEditorSelection .code-line:hover:before {
-	content: "";
-	display: block;
-	position: absolute;
-	top: 0;
-	left: -12px;
-	height: 100%;
-}
+    body.showEditorSelection .code-active-line:before,
+    body.showEditorSelection .code-line:hover:before {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      left: -12px;
+      height: 100%;
+    }
 
-body.showEditorSelection li.code-active-line:before,
-body.showEditorSelection li.code-line:hover:before {
-	left: -30px;
-}
+    body.showEditorSelection li.code-active-line:before,
+    body.showEditorSelection li.code-line:hover:before {
+      left: -30px;
+    }
 
-.vscode-light.showEditorSelection .code-active-line:before {
-	border-left: 3px solid rgba(0, 0, 0, 0.15);
-}
+    .vscode-light.showEditorSelection .code-active-line:before {
+      border-left: 3px solid rgba(0, 0, 0, 0.15);
+    }
 
-.vscode-light.showEditorSelection .code-line:hover:before {
-	border-left: 3px solid rgba(0, 0, 0, 0.40);
-}
+    .vscode-light.showEditorSelection .code-line:hover:before {
+      border-left: 3px solid rgba(0, 0, 0, 0.40);
+    }
 
-.vscode-light.showEditorSelection .code-line .code-line:hover:before {
-	border-left: none;
-}
+    .vscode-light.showEditorSelection .code-line .code-line:hover:before {
+      border-left: none;
+    }
 
-.vscode-dark.showEditorSelection .code-active-line:before {
-	border-left: 3px solid rgba(255, 255, 255, 0.4);
-}
+    .vscode-dark.showEditorSelection .code-active-line:before {
+      border-left: 3px solid rgba(255, 255, 255, 0.4);
+    }
 
-.vscode-dark.showEditorSelection .code-line:hover:before {
-	border-left: 3px solid rgba(255, 255, 255, 0.60);
-}
+    .vscode-dark.showEditorSelection .code-line:hover:before {
+      border-left: 3px solid rgba(255, 255, 255, 0.60);
+    }
 
-.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
-	border-left: none;
-}
+    .vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+      border-left: none;
+    }
 
-.vscode-high-contrast.showEditorSelection .code-active-line:before {
-	border-left: 3px solid rgba(255, 160, 0, 0.7);
-}
+    .vscode-high-contrast.showEditorSelection .code-active-line:before {
+      border-left: 3px solid rgba(255, 160, 0, 0.7);
+    }
 
-.vscode-high-contrast.showEditorSelection .code-line:hover:before {
-	border-left: 3px solid rgba(255, 160, 0, 1);
-}
+    .vscode-high-contrast.showEditorSelection .code-line:hover:before {
+      border-left: 3px solid rgba(255, 160, 0, 1);
+    }
 
-.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
-	border-left: none;
-}
+    .vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+      border-left: none;
+    }
 
-img {
-	max-width: 100%;
-	max-height: 100%;
-}
+    img {
+      max-width: 100%;
+      max-height: 100%;
+    }
 
-a {
-	text-decoration: none;
-}
+    a {
+      text-decoration: none;
+    }
 
-a:hover {
-	text-decoration: underline;
-}
+    a:hover {
+      text-decoration: underline;
+    }
 
-a:focus,
-input:focus,
-select:focus,
-textarea:focus {
-	outline: 1px solid -webkit-focus-ring-color;
-	outline-offset: -1px;
-}
+    a:focus,
+    input:focus,
+    select:focus,
+    textarea:focus {
+      outline: 1px solid -webkit-focus-ring-color;
+      outline-offset: -1px;
+    }
 
-hr {
-	border: 0;
-	height: 2px;
-	border-bottom: 2px solid;
-}
+    hr {
+      border: 0;
+      height: 2px;
+      border-bottom: 2px solid;
+    }
 
-h1 {
-	padding-bottom: 0.3em;
-	line-height: 1.2;
-	border-bottom-width: 1px;
-	border-bottom-style: solid;
-}
+    h1 {
+      padding-bottom: 0.3em;
+      line-height: 1.2;
+      border-bottom-width: 1px;
+      border-bottom-style: solid;
+    }
 
-h1, h2, h3 {
-	font-weight: normal;
-}
+    h1,
+    h2,
+    h3 {
+      font-weight: normal;
+    }
 
-table {
-	border-collapse: collapse;
-}
+    table {
+      border-collapse: collapse;
+    }
 
-table > thead > tr > th {
-	text-align: left;
-	border-bottom: 1px solid;
-}
+    table>thead>tr>th {
+      text-align: left;
+      border-bottom: 1px solid;
+    }
 
-table > thead > tr > th,
-table > thead > tr > td,
-table > tbody > tr > th,
-table > tbody > tr > td {
-	padding: 5px 10px;
-}
+    table>thead>tr>th,
+    table>thead>tr>td,
+    table>tbody>tr>th,
+    table>tbody>tr>td {
+      padding: 5px 10px;
+    }
 
-table > tbody > tr + tr > td {
-	border-top: 1px solid;
-}
+    table>tbody>tr+tr>td {
+      border-top: 1px solid;
+    }
 
-blockquote {
-	margin: 0 7px 0 5px;
-	padding: 0 16px 0 10px;
-	border-left-width: 5px;
-	border-left-style: solid;
-}
+    blockquote {
+      margin: 0 7px 0 5px;
+      padding: 0 16px 0 10px;
+      border-left-width: 5px;
+      border-left-style: solid;
+    }
 
-code {
-	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
-	font-size: 1em;
-	line-height: 1.357em;
-}
+    code {
+      font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+      font-size: 1em;
+      line-height: 1.357em;
+    }
 
-body.wordWrap pre {
-	white-space: pre-wrap;
-}
+    body.wordWrap pre {
+      white-space: pre-wrap;
+    }
 
-pre:not(.hljs),
-pre.hljs code > div {
-	padding: 16px;
-	border-radius: 3px;
-	overflow: auto;
-}
+    pre:not(.hljs),
+    pre.hljs code>div {
+      padding: 16px;
+      border-radius: 3px;
+      overflow: auto;
+    }
 
-pre code {
-	color: var(--vscode-editor-foreground);
-	tab-size: 4;
-}
+    pre code {
+      color: var(--vscode-editor-foreground);
+      tab-size: 4;
+    }
 
-/** Theming */
+    /** Theming */
 
-.vscode-light pre {
-	background-color: rgba(220, 220, 220, 0.4);
-}
+    .vscode-light pre {
+      background-color: rgba(220, 220, 220, 0.4);
+    }
 
-.vscode-dark pre {
-	background-color: rgba(10, 10, 10, 0.4);
-}
+    .vscode-dark pre {
+      background-color: rgba(10, 10, 10, 0.4);
+    }
 
-.vscode-high-contrast pre {
-	background-color: rgb(0, 0, 0);
-}
+    .vscode-high-contrast pre {
+      background-color: rgb(0, 0, 0);
+    }
 
-.vscode-high-contrast h1 {
-	border-color: rgb(0, 0, 0);
-}
+    .vscode-high-contrast h1 {
+      border-color: rgb(0, 0, 0);
+    }
 
-.vscode-light table > thead > tr > th {
-	border-color: rgba(0, 0, 0, 0.69);
-}
+    .vscode-light table>thead>tr>th {
+      border-color: rgba(0, 0, 0, 0.69);
+    }
 
-.vscode-dark table > thead > tr > th {
-	border-color: rgba(255, 255, 255, 0.69);
-}
+    .vscode-dark table>thead>tr>th {
+      border-color: rgba(255, 255, 255, 0.69);
+    }
 
-.vscode-light h1,
-.vscode-light hr,
-.vscode-light table > tbody > tr + tr > td {
-	border-color: rgba(0, 0, 0, 0.18);
-}
+    .vscode-light h1,
+    .vscode-light hr,
+    .vscode-light table>tbody>tr+tr>td {
+      border-color: rgba(0, 0, 0, 0.18);
+    }
 
-.vscode-dark h1,
-.vscode-dark hr,
-.vscode-dark table > tbody > tr + tr > td {
-	border-color: rgba(255, 255, 255, 0.18);
-}
+    .vscode-dark h1,
+    .vscode-dark hr,
+    .vscode-dark table>tbody>tr+tr>td {
+      border-color: rgba(255, 255, 255, 0.18);
+    }
+  </style>
 
-</style>
+  <style>
+    /* Tomorrow Theme */
+    /* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+    /* Original theme - https://github.com/chriskempson/tomorrow-theme */
 
-<style>
-/* Tomorrow Theme */
-/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
-/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+    /* Tomorrow Comment */
+    .hljs-comment,
+    .hljs-quote {
+      color: #8e908c;
+    }
 
-/* Tomorrow Comment */
-.hljs-comment,
-.hljs-quote {
-	color: #8e908c;
-}
+    /* Tomorrow Red */
+    .hljs-variable,
+    .hljs-template-variable,
+    .hljs-tag,
+    .hljs-name,
+    .hljs-selector-id,
+    .hljs-selector-class,
+    .hljs-regexp,
+    .hljs-deletion {
+      color: #c82829;
+    }
 
-/* Tomorrow Red */
-.hljs-variable,
-.hljs-template-variable,
-.hljs-tag,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-regexp,
-.hljs-deletion {
-	color: #c82829;
-}
+    /* Tomorrow Orange */
+    .hljs-number,
+    .hljs-built_in,
+    .hljs-builtin-name,
+    .hljs-literal,
+    .hljs-type,
+    .hljs-params,
+    .hljs-meta,
+    .hljs-link {
+      color: #f5871f;
+    }
 
-/* Tomorrow Orange */
-.hljs-number,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-literal,
-.hljs-type,
-.hljs-params,
-.hljs-meta,
-.hljs-link {
-	color: #f5871f;
-}
+    /* Tomorrow Yellow */
+    .hljs-attribute {
+      color: #eab700;
+    }
 
-/* Tomorrow Yellow */
-.hljs-attribute {
-	color: #eab700;
-}
+    /* Tomorrow Green */
+    .hljs-string,
+    .hljs-symbol,
+    .hljs-bullet,
+    .hljs-addition {
+      color: #718c00;
+    }
 
-/* Tomorrow Green */
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-addition {
-	color: #718c00;
-}
+    /* Tomorrow Blue */
+    .hljs-title,
+    .hljs-section {
+      color: #4271ae;
+    }
 
-/* Tomorrow Blue */
-.hljs-title,
-.hljs-section {
-	color: #4271ae;
-}
+    /* Tomorrow Purple */
+    .hljs-keyword,
+    .hljs-selector-tag {
+      color: #8959a8;
+    }
 
-/* Tomorrow Purple */
-.hljs-keyword,
-.hljs-selector-tag {
-	color: #8959a8;
-}
+    .hljs {
+      display: block;
+      overflow-x: auto;
+      color: #4d4d4c;
+      padding: 0.5em;
+    }
 
-.hljs {
-	display: block;
-	overflow-x: auto;
-	color: #4d4d4c;
-	padding: 0.5em;
-}
+    .hljs-emphasis {
+      font-style: italic;
+    }
 
-.hljs-emphasis {
-	font-style: italic;
-}
+    .hljs-strong {
+      font-weight: bold;
+    }
+  </style>
 
-.hljs-strong {
-	font-weight: bold;
-}
-</style>
-
-<style>
-/*
+  <style>
+    /*
  * Markdown PDF CSS
  */
 
- body {
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
-	padding: 0 12px;
-}
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+      padding: 0 12px;
+    }
 
-pre {
-	background-color: #f8f8f8;
-	border: 1px solid #cccccc;
-	border-radius: 3px;
-	overflow-x: auto;
-	white-space: pre-wrap;
-	overflow-wrap: break-word;
-}
+    pre {
+      background-color: #f8f8f8;
+      border: 1px solid #cccccc;
+      border-radius: 3px;
+      overflow-x: auto;
+      white-space: pre-wrap;
+      overflow-wrap: break-word;
+    }
 
-pre:not(.hljs) {
-	padding: 23px;
-	line-height: 19px;
-}
+    pre:not(.hljs) {
+      padding: 23px;
+      line-height: 19px;
+    }
 
-blockquote {
-	background: rgba(127, 127, 127, 0.1);
-	border-color: rgba(0, 122, 204, 0.5);
-}
+    blockquote {
+      background: rgba(127, 127, 127, 0.1);
+      border-color: rgba(0, 122, 204, 0.5);
+    }
 
-.emoji {
-	height: 1.4em;
-}
+    .emoji {
+      height: 1.4em;
+    }
 
-code {
-	font-size: 14px;
-	line-height: 19px;
-}
+    code {
+      font-size: 14px;
+      line-height: 19px;
+    }
 
-/* for inline code */
-:not(pre):not(.hljs) > code {
-	color: #C9AE75; /* Change the old color so it seems less like an error */
-	font-size: inherit;
-}
+    /* for inline code */
+    :not(pre):not(.hljs)>code {
+      color: #C9AE75;
+      /* Change the old color so it seems less like an error */
+      font-size: inherit;
+    }
 
-/* Page Break : use <div class="page"/> to insert page break
+    /* Page Break : use <div class="page"/> to insert page break
 -------------------------------------------------------- */
-.page {
-	page-break-after: always;
-}
+    .page {
+      page-break-after: always;
+    }
+  </style>
 
-</style>
-
-<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+  <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
 </head>
+
 <body>
   <script>
     mermaid.initialize({
       startOnLoad: true,
       theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
-          ? 'dark'
-          : 'default'
+        ? 'dark'
+        : 'default'
     });
   </script>
-<h1 id="setlist-castellano">Setlist Castellano</h1>
-<ul>
-<li><a href="#setlist-castellano">Setlist Castellano</a>
-<ul>
-<li><a href="#balada-del-despertador">Balada del despertador</a></li>
-<li><a href="#de-haberlo-sabido">De haberlo sabido</a></li>
-<li><a href="#m">&quot;M&quot;</a></li>
-<li><a href="#cada-d%C3%ADa">Cada día</a></li>
-<li><a href="#vis-a-vis">Vis a vis</a></li>
-<li><a href="#es-mejor-caminar">Es mejor caminar</a></li>
-<li><a href="#desordenada-habitaci%C3%B3n">Desordenada habitación</a></li>
-<li><a href="#eso-de-saber">Eso de saber</a></li>
-<li><a href="#la-carretera">La carretera</a></li>
-<li><a href="#23-de-junio">23 de junio</a></li>
-<li><a href="#lo-niego-todo">Lo niego todo</a></li>
-<li><a href="#tan-solo">Tan solo</a></li>
-<li><a href="#cojo-el-saco-y-me-retiro">Cojo el saco y me retiro</a></li>
-<li><a href="#al-cantar">Al cantar</a></li>
-<li><a href="#no-me-importa-nada">No me importa nada</a></li>
-<li><a href="#pongamos-que-hablo-de-madrid">Pongamos que hablo de Madrid</a></li>
-<li><a href="#p%C3%B3lvora">Pólvora</a></li>
-<li><a href="#a-la-orilla-de-la-chimenea">A la orilla de la chimenea</a></li>
-<li><a href="#sentimiento-de-caoba">Sentimiento de Caoba</a></li>
-<li><a href="#cuando-duermes">Cuando duermes</a></li>
-<li><a href="#el-vencido">El vencido</a></li>
-<li><a href="#despu%C3%A9s-del-naufragio">Después del naufragio</a></li>
-<li><a href="#los-cantantes">Los cantantes</a></li>
-<li><a href="#mujer-contra-mujer">Mujer contra mujer</a></li>
-<li><a href="#all%C3%AD-donde-sol%C3%ADamos-gritar">Allí donde solíamos gritar</a></li>
-<li><a href="#miedo">Miedo</a></li>
-<li><a href="#si-quieres-bailamos">Si quieres bailamos</a></li>
-<li><a href="#si-tu-no-est%C3%A1s-aqu%C3%AD">Si tu no estás aquí</a></li>
-<li><a href="#sargento-de-hierro">Sargento de hierro</a></li>
-<li><a href="#lucha-de-gigantes">Lucha de gigantes</a></li>
-<li><a href="#aunque-t%C3%BA-no-lo-sepas">Aunque tú no lo sepas</a></li>
-</ul>
-</li>
-</ul>
-<h2 id="balada-del-despertador">Balada del despertador</h2>
-<p><strong>Intro</strong></p>
-<pre class="hljs"><code><div>G | C D | G  | C D
+  <h1 id="setlist-castellano">Setlist Castellano</h1>
+  <ul>
+    <li><a href="#setlist-castellano">Setlist Castellano</a>
+      <ul>
+        <li><a href="#balada-del-despertador">Balada del despertador</a></li>
+        <li><a href="#de-haberlo-sabido">De haberlo sabido</a></li>
+        <li><a href="#m">&quot;M&quot;</a></li>
+        <li><a href="#cada-d%C3%ADa">Cada día</a></li>
+        <li><a href="#vis-a-vis">Vis a vis</a></li>
+        <li><a href="#es-mejor-caminar">Es mejor caminar</a></li>
+        <li><a href="#desordenada-habitaci%C3%B3n">Desordenada habitación</a></li>
+        <li><a href="#eso-de-saber">Eso de saber</a></li>
+        <li><a href="#la-carretera">La carretera</a></li>
+        <li><a href="#23-de-junio">23 de junio</a></li>
+        <li><a href="#lo-niego-todo">Lo niego todo</a></li>
+        <li><a href="#tan-solo">Tan solo</a></li>
+        <li><a href="#cojo-el-saco-y-me-retiro">Cojo el saco y me retiro</a></li>
+        <li><a href="#al-cantar">Al cantar</a></li>
+        <li><a href="#no-me-importa-nada">No me importa nada</a></li>
+        <li><a href="#pongamos-que-hablo-de-madrid">Pongamos que hablo de Madrid</a></li>
+        <li><a href="#p%C3%B3lvora">Pólvora</a></li>
+        <li><a href="#a-la-orilla-de-la-chimenea">A la orilla de la chimenea</a></li>
+        <li><a href="#sentimiento-de-caoba">Sentimiento de Caoba</a></li>
+        <li><a href="#cuando-duermes">Cuando duermes</a></li>
+        <li><a href="#el-vencido">El vencido</a></li>
+        <li><a href="#despu%C3%A9s-del-naufragio">Después del naufragio</a></li>
+        <li><a href="#los-cantantes">Los cantantes</a></li>
+        <li><a href="#mujer-contra-mujer">Mujer contra mujer</a></li>
+        <li><a href="#all%C3%AD-donde-sol%C3%ADamos-gritar">Allí donde solíamos gritar</a></li>
+        <li><a href="#miedo">Miedo</a></li>
+        <li><a href="#si-quieres-bailamos">Si quieres bailamos</a></li>
+        <li><a href="#si-tu-no-est%C3%A1s-aqu%C3%AD">Si tu no estás aquí</a></li>
+        <li><a href="#sargento-de-hierro">Sargento de hierro</a></li>
+        <li><a href="#lucha-de-gigantes">Lucha de gigantes</a></li>
+        <li><a href="#aunque-t%C3%BA-no-lo-sepas">Aunque tú no lo sepas</a></li>
+      </ul>
+    </li>
+  </ul>
+  <h2 id="balada-del-despertador">Balada del despertador</h2>
+  <p><strong>Intro</strong></p>
+  <pre class="hljs"><code><div>G | C D | G  | C D
 </div></code></pre>
-<p><strong>Estrofa</strong></p>
-<pre class="hljs"><code><div>G                   Em                               D
+  <p><strong>Estrofa</strong></p>
+  <pre class="hljs"><code><div>G                   Em                               D
 Después de tanto tropezar, Dando tumbos he llegado aquí
-C                   
+C
   Y no se esta tan mal
 G              Em                           D
 No sabia donde ir, Habia cerrado el ultimo bar
-       C                  
+       C
 Y tu oferta no la pude rechazar
 G                     D                          C
-Y deja q yo apague la luz Tu deja de mira el reloj 
+Y deja q yo apague la luz Tu deja de mira el reloj
       D
 Sera mejor
 G                     D                             C
-Y yo dando patadas al sol, y tú enfadada con el despertador 
+Y yo dando patadas al sol, y tú enfadada con el despertador
 D
 Enemigo del calor
 </div></code></pre>
-<p><strong>Instrumental</strong></p>
-<pre class="hljs"><code><div>G | C D | G  | C D
+  <p><strong>Instrumental</strong></p>
+  <pre class="hljs"><code><div>G | C D | G  | C D
 </div></code></pre>
-<p><strong>Estrofa</strong></p>
-<pre class="hljs"><code><div>G             Em                 D
+  <p><strong>Estrofa</strong></p>
+  <pre class="hljs"><code><div>G             Em                 D
 Solitario corazon vaga sin rumbo por aquí
 C                          G
   buscando un poco de emoción
@@ -475,18 +478,18 @@ cuando escondido estoy
 bajo el edredón; pegate a mi?.
 
 </div></code></pre>
-<p><strong>Final</strong></p>
-<pre class="hljs"><code><div>G | D | G | D
+  <p><strong>Final</strong></p>
+  <pre class="hljs"><code><div>G | D | G | D
 Am |Em | Am | Dm
 
 Estrbillo (Bis)
 </div></code></pre>
-<h2 id="de-haberlo-sabido">De haberlo sabido</h2>
-<p><strong>Intro</strong></p>
-<pre class="hljs"><code><div>Em7 - B7/E - Em* - B7/E (x3)
+  <h2 id="de-haberlo-sabido">De haberlo sabido</h2>
+  <p><strong>Intro</strong></p>
+  <pre class="hljs"><code><div>Em7 - B7/E - Em* - B7/E (x3)
 Em7 - B7/E - Em* - D
 
-[Verse]
+**Estrofa**
              Cadd9           Em7/B
 De haberlo sabido no hubiera dado todo en un principio
            Am7                                  Dadd4
@@ -496,15 +499,15 @@ De haberlo sabido me hubiera ido sin decirte nada
            Am7                              Dadd4
 no hubiera sido tan duro contigo, no habría corazón en la garganta.
 
-[Chorus]
+**Estribillo**
              Cadd9  B7                Em       D/F#       G
 Peor que el olvido,    fue frenar las ganas de verte otra vez
-              C     D              Em7 - B7/E - Em* - B7/E 
+              C     D              Em7 - B7/E - Em* - B7/E
 peor que el olvido, fue volverte a ver, volverte a ver
 
 Em7 - B7/E - Em* - D
 
-[Verse]
+**Estrofa**
             Cadd9         Em7/B
 Me sobran motivos pero me faltas tú sobre la cama
             Am7                                        Dadd4
@@ -514,22 +517,22 @@ cuando ya te has ido, cuando me parte en dos el alma,
              Am7                                 Dadd4
 no hubiera dudado en quedarme contigo de haber sabido como yo te amaba.
 
-[Chorus]
+**Estribillo**
         Cadd9      B7                Em       D/F#       G
 Peor que el olvido,   fue frenar las ganas de verte otra vez
-              C    D              Em7   B7/E   Em*    B7/E 
+              C    D              Em7   B7/E   Em*    B7/E
 peor que el olvido fue volverte a ver,         volverte a ver
 
 [Outro]
-Em7   B7/E   Em*    B7/E 
-Em7   B7/E   Em*    B7/E 
-Em7   B7/E   Em*    B7/E 
+Em7   B7/E   Em*    B7/E
+Em7   B7/E   Em*    B7/E
+Em7   B7/E   Em*    B7/E
 G
 
 
 </div></code></pre>
-<h2 id="%22m%22">&quot;M&quot;</h2>
-<pre class="hljs"><code><div>   A              E/G#          F#m        E
+  <h2 id="%22m%22">&quot;M&quot;</h2>
+  <pre class="hljs"><code><div>   A              E/G#          F#m        E
 Mi amor se cae al suelo y no se queja demasiado,
    A         E/G#             F#m        E
 &quot;podría ser peor&quot;, se dice, y sigue caminando.
@@ -599,13 +602,13 @@ M está contenta porque dice que es mejor,
       A         Bm7           D
 pero nunca pasa nada y nunca más seremos dos.
 </div></code></pre>
-<h2 id="cada-d%C3%ADa">Cada día</h2>
-<h2 id="vis-a-vis">Vis a vis</h2>
-<h2 id="es-mejor-caminar">Es mejor caminar</h2>
-<h2 id="desordenada-habitaci%C3%B3n">Desordenada habitación</h2>
-<h2 id="eso-de-saber">Eso de saber</h2>
-<h2 id="la-carretera">La carretera</h2>
-<pre class="hljs"><code><div>Asus2                                B*
+  <h2 id="cada-d%C3%ADa">Cada día</h2>
+  <h2 id="vis-a-vis">Vis a vis</h2>
+  <h2 id="es-mejor-caminar">Es mejor caminar</h2>
+  <h2 id="desordenada-habitaci%C3%B3n">Desordenada habitación</h2>
+  <h2 id="eso-de-saber">Eso de saber</h2>
+  <h2 id="la-carretera">La carretera</h2>
+  <pre class="hljs"><code><div>Asus2                                B*
 Calla, duerme, piensa aun queda mucho por andar,
     G                     C9           D
 la carretera es tensa y llueve sin parar
@@ -615,7 +618,7 @@ curvas, baches, bares, perros muertos sin collar
 y la música que tú has traído para recordar
      G            C9           D
 aquella niña que sabe dios donde estará.
- 
+
 G                   Em
 Me paso la vida marcando un nueve uno,
    C9            D            C9              D
@@ -628,9 +631,9 @@ y yo jugando mi partida, con mis pantalones rotos,
 intentando que la voz me aguante hasta el final,
            C9              D
 donde tocaremos: sufre mamón.
- 
-  
- 
+
+
+
 Asus2                      B*                   G
 Ya en el camerino bebe agua y relájate la toalla
                             C9            D
@@ -641,12 +644,12 @@ que no sabes su valor y los das ¿por qué no darlos?
 y quisieras irte ya, te duele la espalda,
     G           C9           D
 te miras aun espejo y ves sudor y whisky y agua y mientras.
- 
+
 G                            Em
 Tú estas en casa, donde el tiempo no pasa,
      C9           D                 C9              D
 y no paro de pensar en  ti, sueño con las calles de Madrid.
- 
+
        G                         Em
 Y los técnicos recogen, todo el mundo se ha ido ya,
        C9          D           C9            D
@@ -656,36 +659,36 @@ y un camión que espera para llevarte a otro lugar,
           C9               D       C9             G
 donde tocaremos: sufre mamón, devuélveme a mi chica
 </div></code></pre>
-<h2 id="23-de-junio">23 de junio</h2>
-<pre class="hljs"><code><div>Am
+  <h2 id="23-de-junio">23 de junio</h2>
+  <pre class="hljs"><code><div>Am
 </div></code></pre>
-<p><strong>Intro</strong></p>
-<pre class="hljs"><code><div>Dm E7 Am (x2)
+  <p><strong>Intro</strong></p>
+  <pre class="hljs"><code><div>Dm E7 Am (x2)
 </div></code></pre>
-<p><strong>Estrofa</strong></p>
-<pre class="hljs"><code><div>           Dm      E         Am                 Dm         E         Am
+  <p><strong>Estrofa</strong></p>
+  <pre class="hljs"><code><div>           Dm      E         Am                 Dm         E         Am
 Antes del frío, levanta las velas. Guarda en tu falda los granos de arroz
           Dm         E     Am              Dm    E     Am
-Y haz ceremonias de luna llena. Antes del frío, lánzamelos. 
+Y haz ceremonias de luna llena. Antes del frío, lánzamelos.
            Dm         E         Am             Dm         E         Am
 Cuida este vals que tenemos en vena. Cuida del baile y riega el salón
           Dm          E      Am             Dm      E       F
 Lleva la barca hasta la albufera Y pon el verano en un mostrador.
 </div></code></pre>
-<p><strong>Pre-coro</strong></p>
-<pre class="hljs"><code><div>           C                         F               C               G
+  <p><strong>Pre-coro</strong></p>
+  <pre class="hljs"><code><div>           C                         F               C               G
 Y que San Juan no nos queme en su hoguera Cuando descubra quién la saltó.
 </div></code></pre>
-<p><strong>Estribillo</strong></p>
-<pre class="hljs"><code><div> Dm                        G          C                        Am
+  <p><strong>Estribillo</strong></p>
+  <pre class="hljs"><code><div> Dm                        G          C                        Am
 Deja el equipaje en la ribera. Para verte como quieres que te vea
 Dm                        G          Am
 Deja el equipaje en la ribera Y quémalo.
 
-[Instrumental]
+**Instrumental**
 Dm E Am (x4)
- 
- 
+
+
 [Verse 2]
               Dm      E        Am
 Haz que este baile merezca la pena
@@ -696,33 +699,33 @@ Y si al final no hay más que comedia
             Dm        E          F
 Deja que el río nos lleve a los dos.
 </div></code></pre>
-<p><strong>Pre-coro</strong></p>
-<pre class="hljs"><code><div>           C                         F               C                  F
+  <p><strong>Pre-coro</strong></p>
+  <pre class="hljs"><code><div>           C                         F               C                  F
 Y que San Juan no nos queme en su hoguera Ni haga de esto un negocio menor
             C             Dm                       C                        G
 Cruza los dedos por mí. Y antes de que vuelva a mirar, Busca el viento a favor.
 </div></code></pre>
-<p><strong>Estribillo</strong></p>
-<pre class="hljs"><code><div> Dm                        G          C                        Am
+  <p><strong>Estribillo</strong></p>
+  <pre class="hljs"><code><div> Dm                        G          C                        Am
 Deja el equipaje en la ribera. Para verte como quieres que te vea
            Dm         G             C    C7
-Sabes que todo está bien. No hay erroooooooor. 
+Sabes que todo está bien. No hay erroooooooor.
  Dm                        G          C                        Am
 Deja el equipaje en la ribera. Para verte como quieres que te vea
            Dm         G               Am
-Lánzate al agua otra vez. Aquí espero yo. 
- 
+Lánzate al agua otra vez. Aquí espero yo.
+
 </div></code></pre>
-<p><strong>Instrumental</strong></p>
-<pre class="hljs"><code><div>Dm E Am (x4)
+  <p><strong>Instrumental</strong></p>
+  <pre class="hljs"><code><div>Dm E Am (x4)
 Aaaaah Aaaah Aaah
 Aaaaah La la la laaa ra raaa
 Aaaaah La laaa La la
 La la la laaa ra raaa
 
 </div></code></pre>
-<p><strong>Estribillo</strong></p>
-<pre class="hljs"><code><div>Dm                       G
+  <p><strong>Estribillo</strong></p>
+  <pre class="hljs"><code><div>Dm                       G
 Deja el equipaje en la ribera
        C                        Am
 No te sirve cuando cruzas la frontera
@@ -730,17 +733,17 @@ No te sirve cuando cruzas la frontera
 Todo está en regla esta vez
           C    C7
 No hay error.
- 
+
 </div></code></pre>
-<p><strong>Estribillo</strong></p>
-<pre class="hljs"><code><div> Dm                        G          C                        Am
+  <p><strong>Estribillo</strong></p>
+  <pre class="hljs"><code><div> Dm                        G          C                        Am
 Deja el equipaje en la ribera. Para verte como quieres que te vea
 Dm                        G          Am
 Deja el equipaje en la ribera Y quémalo.
 
 </div></code></pre>
-<h2 id="lo-niego-todo">Lo niego todo</h2>
-<pre class="hljs"><code><div>Intro: E E/G# A C#m G#m/B Amaj7 / B Cdimm C#m F# / A Bsus B E Bsus7/E E
+  <h2 id="lo-niego-todo">Lo niego todo</h2>
+  <pre class="hljs"><code><div>Intro: E E/G# A C#m G#m/B Amaj7 / B Cdimm C#m F# / A Bsus B E Bsus7/E E
 
 E                        E/G#    A
  Ni ángel con alas negras,   ni profeta del vicio
@@ -799,18 +802,18 @@ ESTRIBILLO
 
 Final: E E/G# A C#m G#m/B / Amaj7 Bsus B E
 </div></code></pre>
-<h2 id="tan-solo">Tan solo</h2>
-<pre class="hljs"><code><div>INTRO:
+  <h2 id="tan-solo">Tan solo</h2>
+  <pre class="hljs"><code><div>INTRO:
 Em - Em7+/D# - Em7/D - Em/C# - C - G/B - C - D
 Em - Em7+/D# - Em7/D - Em/C# - C - G/B - C - D
- 
+
 Em                Em7+/D#              Em7/D
     Me siento tan vivo pero tan enterrado
               Em/C#               C       G/B
 Ahora estoy huyendo sobre suelo mojado, mojado...
 C             D
 Se parece a ti
- 
+
 Em              Em7+/D#                    Em7/D
     Y que no me digan que vuelvo a estar borracho
               Em/C#                        C9
@@ -820,7 +823,7 @@ Tirado en la calle cerca de tu barrio
 Em    Em7+/D#               Em7/D  Em/C#
       Y ahora se pone a llover      vuelvo a mi cama de siempre
 C9
-Pero sigo estando 
+Pero sigo estando
        Bm7                        C9
 Tan sólo, tan sólo, tan sólo, tan sólo
 D                     Em
@@ -833,13 +836,13 @@ C9                              Bm7           C
 Y no puedo aguantar más esta historia de miedo
 D
 ¡Apaga la tele ya!
- 
- 
- 
+
+
+
 Em - Em7+/D# - Em7/D - Em7/C# - C - G/B - C - D
- 
- 
- 
+
+
+
 Em                  B/F#
    He perdido el rumbo
                   Em/G
@@ -850,16 +853,16 @@ Un callejón oscuro dibuja un entierro
 ¡Se ha muerto la luna!
 C9                     D
 ¡Qué se calle el viento!
- 
+
 Em              Em7+/D#             Em7/D
    Una luz a lo lejos alumbra una figura
                Em/C#
 Que parecía la gloria pero...
 C9                         G/B
-Sólo era el camión de la basura 
+Sólo era el camión de la basura
 C               D
 Haciendo su ruta
- 
+
 Em  Em7+/D#              Em7/D
     Todo sigue igual que ayer
 Em/C#
@@ -873,12 +876,12 @@ Parece una eternidad
 Em/C#
 Nunca acabo esta botella
 C
-Porque sigue estando 
+Porque sigue estando
      Bm7                   C
 El fondo cada vez más lejos
 D                       Em
 Siempre vuelvo a vomitar
- 
+
 Em7+/D#                 Em7/D
 Y mi casa vuelve a arder
 Em/C#
@@ -888,12 +891,12 @@ Todos mis recuerdos
       Bm7
 Todas mis ilusiones
          C
-¡Toda mi vida! 
+¡Toda mi vida!
       D
 Vacía de sensaciones
- 
+
             Bm7
-Y aquí se está cayendo el cielo 
+Y aquí se está cayendo el cielo
       Em
 No tengo a dónde ir
    C                               Am7
@@ -902,9 +905,9 @@ Me duermo en cada esquina, están hechas para mí
 Ahora no te reconozco no me acuerdo, no sé
           C                      D
 Lo siento no puedo recordarlo todo
- 
+
            Bm7
-Y aquí se está cayendo el cielo 
+Y aquí se está cayendo el cielo
       Em
 No tengo a dónde ir
    C                               Am7
@@ -913,36 +916,36 @@ Me duermo en cada esquina, están hechas para mí
 Ahora no te reconozco no me acuerdo, no sé
           C                      D
 Lo siento no puedo recordarlo todo
- 
+
 MUSICA: ( SAXO ) Em - Em7+/D# - Em7/D - Em7/C# - C - G/B - C - D
- 
+
 Em                   Em7+/D#                 Em7/D
 Y ahora se pone a llover vuelvo a mi cama de siempre
             Em/C#                               C
 Pero sigo estando Tan sólo, tan sólo, tan sólo, tan sólo,
           G/B                   C     D
 Tan sólo, tan sólo, tan sólo, tan sólo
- 
+
 Em                   Em7+/D#                 Em7/D
 Y en mi casa vuelve arder vuelvo a mi calle de siempre
             Em/C#                               C
 Pero sigo estando Tan sólo, tan sólo, tan sólo, tan sólo,
           G/B                   C     D
 Tan sólo, tan sólo, tan sólo, tan sólo
- 
+
 MUSICA: ( SAXO ) Em - Em7+/D# - Em7/D - Em7/C#
- 
+
 C                             G/B
 Tan sólo, tan sólo, tan sólo, tan sólo
                               C      D     Em
 Tan sólo, tan sólo, tan sólo, tan sólo........
- 
+
 </div></code></pre>
-<h2 id="cojo-el-saco-y-me-retiro">Cojo el saco y me retiro</h2>
-<pre class="hljs"><code><div>[Intro]
+  <h2 id="cojo-el-saco-y-me-retiro">Cojo el saco y me retiro</h2>
+  <pre class="hljs"><code><div>**Intro**
 Am F G Am G
- 
-[Verse]
+
+**Estrofa**
         Am                  F
 En una nube doblando mi cielo
 G                                     Am   G
@@ -951,8 +954,8 @@ lo que antes era azul y ahora esta negro
 En una nube trayendo tormenta
 G                             Am   G
 y yo no estoy listo pa la guerra
- 
-[Chorus]
+
+**Estribillo**
                    F                        G
 Si quieres que me quede, tendrás que prometerme
                Am                     G
@@ -977,11 +980,11 @@ y te lo dije corazón que no iba a ser pa toa la vida   no nooo
 yo yo no puedo quererte pa siempre
    F      G       Am                     E
 yo yo no puedo prometerte que vaya a quererte
- 
+
 [Interlude]
 F G Am G
- 
-[Verse]
+
+**Estrofa**
               Am                  F
 Eres un castillo con muros de piedra
 G                            Am  G
@@ -990,8 +993,8 @@ y a veces me dejas en la puerta
 de tu fortaleza, pidiendo clemencia
 G                        Am G
 Ábreme o córtame la cabeza
- 
-[Chorus]
+
+**Estribillo**
                     F                       G
 Si quieres que me quede, tendrás que prometerme
                Am                    G
@@ -1016,31 +1019,31 @@ y te lo dije corazón que no iba a ser pa toa la vida   no nooo
 yo yo no puedo quererte pa siempre
    F       G       Am               E
 yo yo no puedo prometerte que vaya a quererte
- 
+
 [Outro]
 F G Am G
 F G Am G
 G E Am
 </div></code></pre>
-<h2 id="al-cantar">Al cantar</h2>
-<p><strong>Estrofa</strong></p>
-<pre class="hljs"><code><div>C            G             Am                F
+  <h2 id="al-cantar">Al cantar</h2>
+  <p><strong>Estrofa</strong></p>
+  <pre class="hljs"><code><div>C            G             Am                F
 Al cantar me puedo olvidar de todos los malos momentos,
 C      G     F     C
 convertir en virtud defectos.
              G           Am               F
 Desterrar la vulgaridad aunque solo sea un momento,
 C       G      F      C
-y sentir,que no estamos muertos. 
+y sentir,que no estamos muertos.
 </div></code></pre>
-<p><strong>Estribillo</strong></p>
-<pre class="hljs"><code><div>F               G               Am         G            F
+  <p><strong>Estribillo</strong></p>
+  <pre class="hljs"><code><div>F               G               Am         G            F
 No es placer, es necesidad, es viento, es lluvia y es fuego.
  C      G      F      C     G
 Derramar todos mis secretos.
 </div></code></pre>
-<p><strong>Estrofa</strong></p>
-<pre class="hljs"><code><div>C            G
+  <p><strong>Estrofa</strong></p>
+  <pre class="hljs"><code><div>C            G
 Y busqué en el fondo del mar,
     Am                 F
 en las montañas y en el cielo,
@@ -1051,8 +1054,8 @@ Encontré en el corazón el mapa de los sentimientos,
 C        G    F     C
 ya lo ves, no estaba tan lejos.
 </div></code></pre>
-<p><strong>Estribillo</strong></p>
-<pre class="hljs"><code><div>F               G               Am         G            F
+  <p><strong>Estribillo</strong></p>
+  <pre class="hljs"><code><div>F               G               Am         G            F
 No es placer, es necesidad, es viento, es lluvia y es fuego.
  C      G      F      C     G
 Derramar todos mis secretos.
@@ -1061,39 +1064,39 @@ Esnifar los rayos del Sol, y descongelar el cerebro;
 C      G        F      C
 y sentir, que no estamos muertos.
 </div></code></pre>
-<p><strong>Final</strong></p>
-<pre class="hljs"><code><div>Am        G            C
+  <p><strong>Final</strong></p>
+  <pre class="hljs"><code><div>Am        G            C
 Y sentir, que no estamos muertos,
 y sentir, que no estamos muertos,
 y sentir, que no estamos muertos,
 y sentir, que no estamos muertos...
 </div></code></pre>
-<h2 id="no-me-importa-nada">No me importa nada</h2>
-<h2 id="pongamos-que-hablo-de-madrid">Pongamos que hablo de Madrid</h2>
-<h2 id="p%C3%B3lvora">Pólvora</h2>
-<h2 id="a-la-orilla-de-la-chimenea">A la orilla de la chimenea</h2>
-<pre class="hljs"><code><div>This song changes between keys G and D major, and so do some of the chords (A and Am).
- 
+  <h2 id="no-me-importa-nada">No me importa nada</h2>
+  <h2 id="pongamos-que-hablo-de-madrid">Pongamos que hablo de Madrid</h2>
+  <h2 id="p%C3%B3lvora">Pólvora</h2>
+  <h2 id="a-la-orilla-de-la-chimenea">A la orilla de la chimenea</h2>
+  <pre class="hljs"><code><div>This song changes between keys G and D major, and so do some of the chords (A and Am).
+
 </div></code></pre>
-<p><strong>Estrofa</strong></p>
-<pre class="hljs"><code><div>G               D                    Em                C
-Puedo ponerme cursi y decir que tus labios me saben igual 
+  <p><strong>Estrofa</strong></p>
+  <pre class="hljs"><code><div>G               D                    Em                C
+Puedo ponerme cursi y decir que tus labios me saben igual
                     D
 que los labios que beso en mis sueños.
- 
+
 G             D
 Puedo ponerme triste y decir
        Em                   C
-que me basta con ser tu enemigo, 
- 
+que me basta con ser tu enemigo,
+
 tu todo,
       G                    D
 tu esclavo, tu fiebre tu dueño.
- 
+
 </div></code></pre>
-<p><strong>Estribillo</strong></p>
-<pre class="hljs"><code><div>B7                 Em       C           D          G
-Y si quieres también puedo ser tu estación y tu tren 
+  <p><strong>Estribillo</strong></p>
+  <pre class="hljs"><code><div>B7                 Em       C           D          G
+Y si quieres también puedo ser tu estación y tu tren
              F                Am
 tu mal y tu bien, tu pan y tu vino
       G         D          C
@@ -1107,20 +1110,20 @@ que se tumba a tu lado en la alfombra
 a la orilla de la chimenea
       C            D     G
 a esperar que suba la marea
- 
- 
+
+
 G                D                   Em
 Puedo ponerme humilde y decir que no soy el mejor
        C                  D
-que me falta valor para atarte a mi cama. 
+que me falta valor para atarte a mi cama.
 G               D                Em
-Puedo ponerme digno y decir toma mi dirección 
+Puedo ponerme digno y decir toma mi dirección
           C                   G                    D
 cuando te hartes de amores baratos de un rato… me llamas.
- 
- 
+
+
 B7                Em
-Y si quieres también 
+Y si quieres también
        C       D             G
 puedo ser tu trapecio y tu red
                F
@@ -1129,8 +1132,8 @@ tu adiós y tu ven
 tu manta y tu frío
       G           D         C
 tu resaca, tu lunes, tu hastío.
- 
- 
+
+
 G     F         C
 O tal vez ese viento
           G        F      C
@@ -1139,38 +1142,38 @@ que te arranca del aburrimiento
 y te deja abrazada una duda
     C            D        G
 en mitad de la calle y desnuda
- 
- 
+
+
 B7              Em
 Y si quieres también
        C         D          G
 puedo ser tu abogado y tu juez
               F
-tu miedo y tu fe 
+tu miedo y tu fe
               Am
 tu noche y tu día
       G           D            C
 tu rencor, tu porqué, y tu agionía.
- 
- 
+
+
 G        F      C
-O tal vez esa sombra 
+O tal vez esa sombra
 G      F        C
 O tal vez ese viento
 </div></code></pre>
-<h2 id="sentimiento-de-caoba">Sentimiento de Caoba</h2>
-<h2 id="cuando-duermes">Cuando duermes</h2>
-<h2 id="el-vencido">El vencido</h2>
-<h2 id="despu%C3%A9s-del-naufragio">Después del naufragio</h2>
-<h2 id="los-cantantes">Los cantantes</h2>
-<h2 id="mujer-contra-mujer">Mujer contra mujer</h2>
-<h2 id="all%C3%AD-donde-sol%C3%ADamos-gritar">Allí donde solíamos gritar</h2>
-<h2 id="miedo">Miedo</h2>
-<pre class="hljs"><code><div>Intro: G - Em - Cm - G
+  <h2 id="sentimiento-de-caoba">Sentimiento de Caoba</h2>
+  <h2 id="cuando-duermes">Cuando duermes</h2>
+  <h2 id="el-vencido">El vencido</h2>
+  <h2 id="despu%C3%A9s-del-naufragio">Después del naufragio</h2>
+  <h2 id="los-cantantes">Los cantantes</h2>
+  <h2 id="mujer-contra-mujer">Mujer contra mujer</h2>
+  <h2 id="all%C3%AD-donde-sol%C3%ADamos-gritar">Allí donde solíamos gritar</h2>
+  <h2 id="miedo">Miedo</h2>
+  <pre class="hljs"><code><div>Intro: G - Em - Cm - G
 
 </div></code></pre>
-<p><strong>Estrofa</strong></p>
-<pre class="hljs"><code><div>G         Em
+  <p><strong>Estrofa</strong></p>
+  <pre class="hljs"><code><div>G         Em
 Para empezar
   Cm              G
 diré que es el final
@@ -1192,8 +1195,8 @@ rompí tu corazón
 y ahora tu mundo esta burlándose de miiiiii iiiii
 
 </div></code></pre>
-<p><strong>Chorus</strong></p>
-<pre class="hljs"><code><div>  
+  <p><strong>Chorus</strong></p>
+  <pre class="hljs"><code><div>
 Am          D             G              Em             Am
 Miedo de volver a los infiernos. miedo a que me tengas miedo
      D             G       F
@@ -1203,8 +1206,8 @@ Miedo de quererte sin quererlo de encontrarte de repente
        Cm          G
 de no verte nunca más.
 </div></code></pre>
-<p><strong>Estrofa</strong></p>
-<pre class="hljs"><code><div>G        Em         Cm           G
+  <p><strong>Estrofa</strong></p>
+  <pre class="hljs"><code><div>G        Em         Cm           G
 Oigo tu voz siempre antes de dormir
 G           Em             Cm              G
 me acuesto junto a ti y aunque no estás aquí
@@ -1212,8 +1215,8 @@ me acuesto junto a ti y aunque no estás aquí
 en esta oscuridad la claridad eres tuuuuuu uuuuu
 
 </div></code></pre>
-<p><strong>Chorus</strong></p>
-<pre class="hljs"><code><div>  
+  <p><strong>Chorus</strong></p>
+  <pre class="hljs"><code><div>
 Am          D             G              Em             Am
 Miedo de volver a los infiernos. miedo a que me tengas miedo
      D             G       F
@@ -1224,8 +1227,8 @@ Miedo de quererte sin quererlo de encontrarte de repente
 de no verte nunca más.
 
 </div></code></pre>
-<p><strong>Puente</strong></p>
-<pre class="hljs"><code><div>   
+  <p><strong>Puente</strong></p>
+  <pre class="hljs"><code><div>
 A                     C                 Em
 Ya se que es el final no habrá segunda parte.
 A                  C
@@ -1233,18 +1236,18 @@ Y no se cómo hacer para borrarte.
 
 
 </div></code></pre>
-<p><strong>Solo</strong></p>
-<pre class="hljs"><code><div>   
+  <p><strong>Solo</strong></p>
+  <pre class="hljs"><code><div>
 Em - A - C x 4
 
 G        Em
 Para empezar
   Cm              G
 diré que es el final.
- 
+
 </div></code></pre>
-<p><strong>Chorus</strong></p>
-<pre class="hljs"><code><div>  
+  <p><strong>Chorus</strong></p>
+  <pre class="hljs"><code><div>
 Am          D             G              Em             Am
 Miedo de volver a los infiernos. miedo a que me tengas miedo
      D             G       F
@@ -1261,8 +1264,8 @@ de no verte nunca mas
 de no verte nunca mas
 
 </div></code></pre>
-<p><strong>Final</strong></p>
-<pre class="hljs"><code><div> 
+  <p><strong>Final</strong></p>
+  <pre class="hljs"><code><div>
 G    F           C     Cm
 y aquí en el infierno
 G  F        C     Cm
@@ -1271,10 +1274,10 @@ G  F        C     Cm
 
 G | F | C | Cm x 4
 </div></code></pre>
-<h2 id="si-quieres-bailamos">Si quieres bailamos</h2>
-<h2 id="si-tu-no-est%C3%A1s-aqu%C3%AD">Si tu no estás aquí</h2>
-<h2 id="sargento-de-hierro">Sargento de hierro</h2>
-<pre class="hljs"><code><div>[Verse 1]
+  <h2 id="si-quieres-bailamos">Si quieres bailamos</h2>
+  <h2 id="si-tu-no-est%C3%A1s-aqu%C3%AD">Si tu no estás aquí</h2>
+  <h2 id="sargento-de-hierro">Sargento de hierro</h2>
+  <pre class="hljs"><code><div>[Verse 1]
 C                   G
   Voy a pensar en ti
 C                       G
@@ -1288,7 +1291,7 @@ C                        G
 C                 Am  Em                        G   C G
   Tengo los pies rotos y en la garganta un nudo
 
-[Chorus]
+**Estribillo**
 D               Em
   Cúrame, viento, ven a mí
 C                 G
@@ -1309,7 +1312,7 @@ C             G
 C              Am    Em                           G   C G
   No me dio tiempo a decir lo mucho que te quiero
 
-[Chorus]
+**Estribillo**
 D               Em
   Cúrame, viento, ven a mí
 C              G
@@ -1326,7 +1329,7 @@ G   Am Em   Am
 G      Em   C
 G      D
 
-[Chorus]
+**Estribillo**
               Em
 Cúrame, viento, ven a mí
 C                G
@@ -1339,14 +1342,14 @@ C                 G                  D   Am
 Em   C G
 Am   Em
 </div></code></pre>
-<h2 id="lucha-de-gigantes">Lucha de gigantes</h2>
-<pre class="hljs"><code><div>[Intro]
- 
+  <h2 id="lucha-de-gigantes">Lucha de gigantes</h2>
+  <pre class="hljs"><code><div>**Intro**
+
 C9 - Dsus – Em7 – A7 (X2)
- 
- 
+
+
 [Verse 1]
- 
+
 C9            Dsus
    Lucha de gigantes
    Em7                       A7
@@ -1355,15 +1358,15 @@ C9             Dsus
    un duelo salvaje advierte
 Em7                       A7
    lo cerca que ando de entrar
- 
+
       D7               G/B
 en un mundo descomunal
                  C      B
 siento mi fragilidad
- 
- 
+
+
 [Verse 2]
- 
+
 C9           Dsus
    Vaya pesadilla
      Em7                        A7
@@ -1372,15 +1375,15 @@ C9              Dsus
    dime que es mentira todo
 Em7                      A7
    un sueño tonto y no más
- 
+
       D7                 G/B
 me da miedo la enormidad
                    C
 donde nadie oye mi voz
- 
- 
-[Chorus]
- 
+
+
+**Estribillo**
+
 Em                 Bm                C
     Deja de engañar, no quieras ocultar
 Bm                     Am7(x4)
@@ -1389,12 +1392,12 @@ Em                 Bm                      C
     monstruo de papel, no se contra quien voy
 Bm                               Am7(x4)
    o es que acaso hay alguien más aquí
- 
+
 D7 (x4)
- 
- 
+
+
 [Verse 3]
- 
+
 C9                Dsus
    Creo en los fantasmas terribles
 Em7                     A7
@@ -1403,15 +1406,15 @@ C9               Dsus
    y en mis tonterías para
 Em7                 A7
   hacer tu risa estallar
- 
+
       D7               G/B
 en un mundo descomunal
                  C
 siento tu fragilidad
- 
- 
-[Chorus]
- 
+
+
+**Estribillo**
+
 Em                 Bm                C
     Deja de engañar, no quieras ocultar
 Bm                     Am7(x4)
@@ -1420,15 +1423,15 @@ Em                 Bm                      C
     monstruo de papel, no se contra quien voy
 Bm                     Am7(x4)(x4)
    o es que acaso hay alguien más aquí
- 
- 
-[Instrumental]
- 
+
+
+**Instrumental**
+
 C9 - Dsus – Em7 – A7 (X2)
- 
- 
+
+
 [Outro]
- 
+
 C9              Dsus            Em7   Am7
     Deja que pasemos sin miedo
 C9              Dsus            Em7   Am7
@@ -1436,8 +1439,8 @@ C9              Dsus            Em7   Am7
 C9              Dsus            Em7 ~
     Deja que pasemos...     sin miedo
 </div></code></pre>
-<h2 id="aunque-t%C3%BA-no-lo-sepas">Aunque tú no lo sepas</h2>
-<pre class="hljs"><code><div>[Intro]
+  <h2 id="aunque-t%C3%BA-no-lo-sepas">Aunque tú no lo sepas</h2>
+  <pre class="hljs"><code><div>**Intro**
 C       D
 C       D       C       D
 
@@ -1477,4 +1480,5 @@ C       D       G
 </div></code></pre>
 
 </body>
+
 </html>

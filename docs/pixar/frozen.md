@@ -2,7 +2,7 @@
 
 ![](img/2021-04-13-15-06-31.png)
 
-<div style="page-break-after: always;"></div>
+
 
 ## Suéltalo
 
@@ -117,7 +117,7 @@ Que la luz     salga otra vez
 el frío a mi nunca me molestó
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 ## Muéstrate
 
@@ -249,7 +249,7 @@ Ah-ah, ah-ah-ah
 Ah-ah, ah-ah
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 ## Por primera vez en años
 
@@ -392,7 +392,7 @@ F                 C
   Me late el corazón
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 ## Hazme un muñeco de nieve
 
@@ -472,7 +472,7 @@ G | Am F
 F Am | F/A | -
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 ## Mucho más allá
 

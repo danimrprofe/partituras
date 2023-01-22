@@ -36,7 +36,7 @@ Veranos en vilo hasta el final
 No es más que un grito
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                              G

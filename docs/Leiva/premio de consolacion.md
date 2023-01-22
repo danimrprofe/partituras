@@ -32,7 +32,7 @@ Si puedes sálvate
              Em   A
 Aún estás a tiempo
 
-[Chorus]
+**Estribillo**
           G
 Supe que eras una ensoñación
 
@@ -72,7 +72,7 @@ Si puedes sálvate
              Em   A
 Aún estás a tiempo
 
-[Chorus]
+**Estribillo**
         G
 Supe que eras una ensoñación
      G               A

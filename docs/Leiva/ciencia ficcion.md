@@ -33,7 +33,7 @@ Dm       G        Dm          G
 Es fácil perderse, pero qué bueno verte
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
   C                       F
@@ -72,5 +72,3 @@ F C/E Dm C
 Am G F G
 ```
 **Repite estribillo**
-
-<div style="page-break-after: always;"></div>

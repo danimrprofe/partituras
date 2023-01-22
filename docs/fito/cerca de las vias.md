@@ -16,7 +16,7 @@ D                C                    G
 no la quito, no hace nada, solo ocupa su rincón.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C              B7                     Em

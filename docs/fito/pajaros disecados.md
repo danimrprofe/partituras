@@ -21,7 +21,7 @@ Tengo algo amargo para cada día, tengo un final para cada verano,
 Tengo una esquina junto a mi rodilla, Tengo el problema para el resultado
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
          Bb                            C

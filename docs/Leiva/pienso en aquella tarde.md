@@ -1,7 +1,7 @@
 # Pienso en aquella tarde
 
 ```
-[Intro]
+**Intro**
 e|----------3---------------------|
 B|----3-5-3-----------------------|
 G|-/4----------0--2/4\2--0------0-|
@@ -45,7 +45,7 @@ Yo pienso en aquella tarde cuando me arrepentí de todo.
 G               Cadd9             Em7                 D
 Daría, todo lo daría por estar contigo y no sentirme solo...
 
-[Intro]
+**Intro**
 e|----------3---------------------|
 B|----3-5-3-----------------------|
 G|-/4----------0--2/4\2--0------0-|

@@ -1,7 +1,7 @@
 # Tu enemigo
 
 ```
-[Intro]
+**Intro**
 D# Cm Gm A#  Cm A# F
 
 ```
@@ -18,7 +18,7 @@ Quién sacará tus cosas de la calle. Tu enemigo
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            D#                             Gm
@@ -49,7 +49,7 @@ Culpable de vivir en el camino por tu guerra  aaah
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
             D#                            Gm
@@ -69,7 +69,7 @@ Cm  A#  F
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            D#                             Gm

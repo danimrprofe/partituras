@@ -5,7 +5,7 @@
 |           | Estándar  | 4/4    | No   |
 
 ```
-[Intro]
+**Intro**
 Am E7 D  C  F7
 Am E7
 

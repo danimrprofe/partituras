@@ -17,7 +17,7 @@ Bm             E7     Bm             E7
 Pero el miedo pesa, más que la razón
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D          E7      F#m     C#m
@@ -43,7 +43,7 @@ Bm           E7  Bm             E7
 Pero se perdonaban hasta la verdad
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D          E7      F#m     C#m
@@ -62,7 +62,7 @@ Bm7 | F#m | A/E | B7
 Bm7 | F#m | A/E | E A/C#
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D          E7      F#m     C#m

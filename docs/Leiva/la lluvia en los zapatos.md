@@ -35,7 +35,7 @@ D                 C#m            Bm   A   G      F#m      A
 Y te dejabas lo mejor para el final;    Nunca lo vi llegar
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                       G                   D
@@ -61,7 +61,7 @@ D           F#m        A
 Aunque lo hicieras por mí
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                       G
@@ -87,7 +87,7 @@ La lluvia en los zapatos
 F#m Bm D G Em A Em Em G D A
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                       G                   D

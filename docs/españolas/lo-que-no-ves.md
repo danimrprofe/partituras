@@ -5,7 +5,7 @@
 |           | Estándar  | 4/4    | 4    |
 
 ```
-[Intro]
+**Intro**
 
 G Em D C
 

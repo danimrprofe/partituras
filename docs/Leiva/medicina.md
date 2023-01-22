@@ -2,7 +2,7 @@
 
 | Tonalidad | Afinación | Compás | Capo |
 | --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | No    |
+|           | Estándar  | 4/4    | No   |
 
 ```
 [Verse 1]
@@ -27,7 +27,7 @@ A                D
 y voy a recordártelo
 
 
-[Chorus]
+**Estribillo**
 G               D
 y hoy , hoy vas a despertar
 A              Bm
@@ -55,7 +55,7 @@ A           D
 y te venia grande
 
 
-[Chorus]
+**Estribillo**
 G                 D
 y hoy , hoy vas a despertar
 A          Bm
@@ -90,7 +90,7 @@ A             D
 y te venia grande
 
 
-[Chorus]
+**Estribillo**
 G                 D
 y hoy , hoy vas a despertar
 A          Bm

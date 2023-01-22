@@ -26,7 +26,7 @@ Dm             F  G
 Te quiero, te quiero
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                              Em
@@ -39,7 +39,7 @@ Am                                   G
 Te quiero como tantas cosas ,que no tienen solución
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Instrumental**
 ```
@@ -64,7 +64,7 @@ Dm             F  G
 Te quiero, te quiero
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                              Em
@@ -82,7 +82,7 @@ F Dm Am G
 F Dm F G
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C                             E
@@ -97,5 +97,3 @@ Que no tienen solución
 Am C Am C E
 Am
 ```
-
-<div style="page-break-after: always;"></div>

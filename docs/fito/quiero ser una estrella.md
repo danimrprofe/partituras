@@ -10,7 +10,7 @@ A                     G                      D
 Quiero ser una estrella y nada me puede parar
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D                   G                        D
@@ -33,7 +33,7 @@ Y salgo en las revistas y en la tele treinta veces al mes
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D                   G                        D
@@ -60,7 +60,7 @@ Mi contrato está anulado, ya no volveré a cantar
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D                   G                        D

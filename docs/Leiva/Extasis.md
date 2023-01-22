@@ -92,4 +92,3 @@ cuando estábamos así.
 ```
 C | C F | G C
 ```
-<div style="page-break-after: always;"></div>

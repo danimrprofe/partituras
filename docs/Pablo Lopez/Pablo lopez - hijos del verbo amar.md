@@ -1,7 +1,7 @@
 # Hijos del verbo amar
 
 ```
-[Intro]
+**Intro**
 
 G#m E C#   x2
 
@@ -18,7 +18,7 @@ Y en este mundo envenenado, van engañando al dios que hay bajo sus pies
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 
@@ -52,7 +52,7 @@ Juraron olvidar al miedo a perder
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 
@@ -72,7 +72,7 @@ A   G#m   G#m/D#   D#
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 E                   B   F#               G#m       F#

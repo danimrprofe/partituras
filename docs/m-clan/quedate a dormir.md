@@ -1,7 +1,7 @@
 # Quédate a dormir
 
 ```
-[Intro]
+**Intro**
 
 C F   C G
 C F   C G
@@ -38,7 +38,7 @@ no quiero remar
          D         G
 y mucho menos naufragar...
 
-[Chorus]
+**Estribillo**
 
              C F
 Quédate a dormir,
@@ -81,7 +81,7 @@ no quiero ser un lastre
          D         G
 que no te permita andar...
 
-[Chorus]
+**Estribillo**
 
              C F
 Quédate a dormir,
@@ -114,7 +114,7 @@ Para poder marcharme,
 C F                       C   Gm
 Para entrar, si me apetece entrar.
 
-[Chorus]
+**Estribillo**
 
              C F
 Quédate a dormir,

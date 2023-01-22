@@ -1,7 +1,7 @@
 
 ## El mundo
 ```
-[Intro]
+**Intro**
 C#m E C#m E
 
 
@@ -29,7 +29,7 @@ Tampoco suplicarle que me espere
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                 A    B          C#m
@@ -59,7 +59,7 @@ Jugando a ser amantes inocentes
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                 A    B          C#m

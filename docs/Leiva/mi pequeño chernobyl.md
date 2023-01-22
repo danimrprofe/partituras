@@ -37,7 +37,7 @@ La gloria enferma de los que quieren reinar, reinar
 Reinar el cielo…
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 G          D            Am          C
@@ -52,7 +52,6 @@ Solo pretendo aprender a vivir con ello
 G Bm E
 
 G Bm E
-
 
 [Verso 2]
 G             Bm                 Em
@@ -83,7 +82,7 @@ La gloria enferma de los que quieren reinar, reinar
 Reinar el cielo…
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 G          D            Am          C
@@ -108,5 +107,3 @@ G        Bm     Em           C           G        Bm     Em
 G        Bm     Em           C           G        Bm     Em
 ¿Qué vendrá después? De los años muertos ¿Que vendrá después?
 ```
-
-<div style="page-break-after: always;"></div>

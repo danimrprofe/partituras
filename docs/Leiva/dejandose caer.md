@@ -5,7 +5,7 @@
 |           | Estándar  | 4/4    | 1    |
 
 ```
-[Intro]
+**Intro**
 e|------------------------|---------------------------|
 B|------------------------|---------------------------|
 G|-----13-13--------------|-13-13---------------13-10-|
@@ -40,7 +40,7 @@ Vuelve a parecer
        F
 Y asi­ pasa su tiempo
 
-[Chorus]
+**Estribillo**
     C        F
 Dejándose caer
  Am          F
@@ -48,7 +48,7 @@ Dejándose caer
  C           F
 Dejándose caer
 
-[Instrumental]
+**Instrumental**
 Am - F - C - C (x2)
 
 [Verse 2]
@@ -67,7 +67,7 @@ Vuelve a parecer
         F
 Y así­ pasa su tiempo
 
-[Chorus]
+**Estribillo**
    C         F
 Dejándose caer
   Am         F
@@ -95,7 +95,7 @@ F |  C  | G  | -
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
         C       F          Am      F

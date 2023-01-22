@@ -24,7 +24,7 @@ Me moría de ganas De clavarte un cuchillo
 Y abrazarte a todo lo que da
 ```
 
-[Chorus]
+**Estribillo**
 
 ```
            Am                 F             C    Em   G
@@ -33,7 +33,7 @@ No me das miedo. Lánzame hacia ti. Dame de lleno
 Haz el esfuerzo. Déjalo fluir. Hazte con ello
 
 ```
-[Verse]
+**Estrofa**
 ```
    C                                 F
 Esclavos de la fragilidad. Se nos ahogaba la máquina
@@ -45,14 +45,14 @@ Me arañabas la cara. Empapados en vino
 Yo sabía que no ibas a aguantar
 ```
 
- [Chorus]
+ **Estribillo**
 ```
            Am                 F             C    Em   G
 No me das miedo. Lánzame hacia ti. Dame de lleno
              Am            F              C   G   G7
 Haz el esfuerzo. Déjalo fluir. Hazte con ello
 ```
-[Verse]
+**Estrofa**
 ```
         G                            Am
 Y ya verás cómo se encienden algunas luces del puerto
@@ -63,11 +63,11 @@ Que tú no puedes ver
               Em                     G
 Estamos totalmente hipnotizados Otra vez
 ```
-[Instrumental]
+**Instrumental**
 ```
 G7   F   G
 ```
-[Chorus]
+**Estribillo**
 ```
            Am                 F             C    Em   G
 No me das miedo. Lánzame hacia ti. Dame de lleno

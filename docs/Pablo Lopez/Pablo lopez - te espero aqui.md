@@ -33,7 +33,7 @@ Mordiendo el aire me he despertado y...
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
               Gb   Abm   Gb/Bb             B
@@ -78,7 +78,7 @@ Nunca dejo esa cama
 Yo sigo en ella, sigo abrazando y...
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
               Gb   Abm   Gb/Bb             B
@@ -97,7 +97,7 @@ O nos ganó la prisa traicionera
 Vuelve, yo
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
  Bm/D        Gb   Abm   Gb/Bb             B

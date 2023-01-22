@@ -22,7 +22,7 @@ construir un muro alto para encerrarme dentro
                     Dm
 y tirar la llave al mar.
 
-[Chorus]
+**Estribillo**
                      Bb     F
 Para que ya no me encuentreee
                     Bb   F
@@ -45,7 +45,7 @@ que se borren todas mis huellas y se inunde este lugar
 Gm                  Bb                   C
 en un lago de ceniza   poder ahogar esta pena
 
-[Chorus]
+**Estribillo**
                      Bb     F
 Para que ya no me encuentreee
                     Bb   F
@@ -63,7 +63,7 @@ olvidar la vida que soñé   eeee eeee eee eeee
 Bm | A  | Dm | Dm
 Bb | Am | Dm | Dm
 
-[Chorus]
+**Estribillo**
                      Bb     F
 Para que ya no me encuentreee
                     Bb   F

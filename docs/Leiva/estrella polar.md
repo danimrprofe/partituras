@@ -68,7 +68,7 @@ Em      F#m             A
 algún delirio nos hará volver
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D   A     G       A      D
@@ -108,4 +108,3 @@ A                     D G D A D
 no hay sitio para los dos
 
 ```
-<div style="page-break-after: always;"></div>

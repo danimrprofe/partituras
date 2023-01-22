@@ -43,7 +43,7 @@ lo que nos sonreía
 Como niños sin preocupación, Como el ave que escapó...
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 A                Bm                   A/C#                   D
@@ -94,7 +94,7 @@ Con ese grito profundo
 Como niños sin preocupación, Como el ave que escapó...
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 A                Bm                   A/C#                   D

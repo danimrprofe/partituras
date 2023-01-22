@@ -24,7 +24,7 @@ Lleva la barca hasta la albufera Y pon el verano en un mostrador.
 Y que San Juan no nos queme en su hoguera Cuando descubra quién la saltó.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
  Dm                        G          C                        Am
@@ -32,7 +32,7 @@ Deja el equipaje en la ribera. Para verte como quieres que te vea
 Dm                        G          Am
 Deja el equipaje en la ribera Y quémalo.
 
-[Instrumental]
+**Instrumental**
 Dm E Am (x4)
 
 
@@ -54,7 +54,7 @@ Y que San Juan no nos queme en su hoguera Ni haga de esto un negocio menor
 Cruza los dedos por mí. Y antes de que vuelva a mirar, Busca el viento a favor.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
  Dm                        G          C                        Am
@@ -77,7 +77,7 @@ La la la laaa ra raaa
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Dm                       G
@@ -91,7 +91,7 @@ No hay error.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
  Dm                        G          C                        Am

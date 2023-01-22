@@ -1,7 +1,7 @@
 # Tu mirada me hace grande
 
 ```
-[Verse]
+**Estrofa**
 Em7                   Bm
    Como un salto en el vacio
 C                     Am7
@@ -28,7 +28,7 @@ Nunca es tarde, tarde, tarde
                    G
 Necesito verte aquí
 
-[Chorus]
+**Estribillo**
 G                   D
  Tu mirada me hace grande
                         Em7
@@ -44,7 +44,7 @@ Por las calles de Madrid
 D                   Em
 Por las calles de Madrid
 
-[Verse]
+**Estrofa**
 Em7              Bm
 Demasiado inmerecido
 C                Am
@@ -70,7 +70,7 @@ Nunca es tarde, tarde, tarde
                    G
 Necesito verte aquí
 
-[Chorus]
+**Estribillo**
 G                  D
 Tu mirada me hace grande
                    Em7
@@ -101,7 +101,7 @@ Nunca es tarde, tarde, tarde
                   G
 Necesito verte aquí
 
-[Chorus]
+**Estribillo**
 G                  D
  Tu mirada me hace grande
                    Em7

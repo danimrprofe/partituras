@@ -31,7 +31,7 @@ quizá pueda despegar, pueda despegar
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            Em                      G
@@ -61,7 +61,7 @@ si con todas las cartas marcadas
 quizá pueda despegar, pueda despegar
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            Em                      G

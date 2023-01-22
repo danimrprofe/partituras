@@ -5,7 +5,7 @@
 | Sol Mayor | Estándar  | 4/4    | 4    |
 
 ```
-[Intro]
+**Intro**
 Em C
 Em C
 
@@ -14,7 +14,7 @@ Em C G D
 Em C G D
 Bb F G
 
-[Verse]
+**Estrofa**
 C             G
 La dulce niña Carolina,
 D                   Am
@@ -38,7 +38,7 @@ Esa va a ser mi ruina, pequeña Carolina,
 C    G      D
 vete por favor.
 
-[Chorus]
+**Estribillo**
 Em    C   G       D       Em        C
 Carolina tratame bien, no te rias de mi,
     G           D
@@ -54,7 +54,7 @@ Em C G D
 Em C G D
 Bb F G
 
-[Verse]
+**Estrofa**
 C               G
 No queda en la ciudad esquina,
   D                   Am
@@ -78,7 +78,7 @@ Esa va a ser mi ruina, pequeña Carolina,
 C    G      D
 vete por favor.
 
-[Chorus]
+**Estribillo**
 Em    C   G       D       Em        C
 Carolina tratame bien, no te rias de mi,
     G           D
@@ -100,7 +100,7 @@ El diablo está en mi vida, pequeña Carolina,
 C    G      D
 vete por favor.
 
-[Chorus]
+**Estribillo**
 Em    C   G       D       Em        C
 Carolina tratame bien, no te rias de mi,
     G           D

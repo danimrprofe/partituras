@@ -1,7 +1,7 @@
 # Lucha de gigantes
 
 
-[Intro]
+**Intro**
 ```
 C9 - Dsus – Em7 – A7 (X2)
 ```
@@ -40,7 +40,7 @@ me da miedo la enormidad
 donde nadie oye mi voz
 ```
 
-[Chorus]
+**Estribillo**
 ```
 
 Em                 Bm                C
@@ -72,7 +72,7 @@ en un mundo descomunal
 siento tu fragilidad
 ```
 
-[Chorus]
+**Estribillo**
 ```
 Em                 Bm                C
     Deja de engañar, no quieras ocultar
@@ -84,7 +84,7 @@ Bm                     Am7(x4)(x4)
    o es que acaso hay alguien más aquí
 ```
 
-[Instrumental]
+**Instrumental**
 ```
 C9 - Dsus – Em7 – A7 (X2)
 

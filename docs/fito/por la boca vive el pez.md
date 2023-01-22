@@ -10,7 +10,7 @@ Capo 3 play as Am key
 
 ```
 
-[Intro]
+**Intro**
    Am             F            G              Am              Am            F
 e|-------0-5----|>1-----------|---------5---|-0-------------|-------0-5---|>1-----------|
 B|-----1-----5--|-1-----------|-------3---3-|-1-------------|-----1-----5-|-1---3---1---|
@@ -58,7 +58,7 @@ Am                F
 Siempre un poco más  de  lo que te pi-do
 
 
-[Chorus]
+**Estribillo**
 N.C.            G
 Sabes que soñaré
           F                        Am
@@ -91,7 +91,7 @@ Y yo lo estoy di-ciendo  te lo es-toy diciendo
 Otra vez
 
 
-[Instrumental]
+**Instrumental**
 Am /  | Am | F | G | Am |
       | Am | F | G | Am |
 
@@ -118,7 +118,7 @@ G              Am     Am /
 De  la Coca Co-la
 
 
-[Chorus]
+**Estribillo**
 N.C.            G
 Sabes que soñaré
           F                        Am
@@ -158,7 +158,7 @@ Para decirte lo que nunca can-to
 Para cantarte lo que nunca  digo
 
 
-[Instrumental]
+**Instrumental**
 | Dm | Dm | Am | Am    |
 | F  | E  | Am | Asus4 |
 | Dm | Dm | Am | Am    |

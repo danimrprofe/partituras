@@ -1,7 +1,7 @@
 # Princesa
 
 ```
-[Intro]
+**Intro**
 G C9 C9    G C9 C9     G C9 C9    G C9 C9
 Acustic guitar           & Distorsion
 
@@ -22,7 +22,7 @@ G               D                      C                       G
 Cuando tenías aún esa forma  de hacerme daño.
 
 
-[Chorus]
+**Estribillo**
 G             C                                 D     D
  Ahora es demasiado tarde                  princesa.
                  (ahora es demasiado tarde princesa)
@@ -43,7 +43,7 @@ G                D                    C                     G
 Porque tu me pidieras  llevarte el equipaje?
 
 
-[Chorus]
+**Estribillo**
 G             C                                D     D
  Ahora es demasiado tarde                 princesa.
                 (ahora es demasiado tarde princesa)
@@ -92,6 +92,6 @@ Búscate a otro perro;  que te ladre                  princesa.
                     (buscate otro pero que te ladre princesa)
 
 
-[Instrumental]
+**Instrumental**
 C G D G      C G D G
 ```

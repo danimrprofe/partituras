@@ -7,7 +7,7 @@
 Video de la canción: https://www.youtube.com/watch?time_continue=339&v=4OkH263VugQ
 
 ```
-[Intro]
+**Intro**
 
 Em D C (x8)
 
@@ -60,7 +60,7 @@ Corazones llenos de agujeros
            G           B7
 pero no lo saben... pero no lo saben.
 
-[Chorus]
+**Estribillo**
 
            Em                    G
 todo lo que no se ve, lo que nadie nos contó,
@@ -76,7 +76,7 @@ se la tiene que clavar en mitad del corazón.
 Em G D C
 Em G D C
 
-[Chorus]
+**Estribillo**
 
            Em                    G
 todo lo que no se ve, lo que nadie nos contó,
@@ -87,7 +87,7 @@ que le den al general la medalla de cartón,
             D                      C
 se la tiene que clavar en mitad del corazón.
 
-[Chorus]
+**Estribillo**
 
            Em                    G
 todo lo que no se ve, lo que nadie nos contó,

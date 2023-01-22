@@ -25,7 +25,7 @@ Y es lo que ves, casi todo puede suceder
 Y es difícil saber que
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Bm                 A           D          G
@@ -72,5 +72,3 @@ AA  AA AAAAH    AA  AA AAAAH
 ```
 
 **REPETIR ESTRIBILLO**
-
-<div style="page-break-after: always;"></div>

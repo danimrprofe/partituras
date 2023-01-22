@@ -9,7 +9,7 @@ Se va, se va, se va
 Se va y no vuelve
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 F#m   C#m        D    E
@@ -55,7 +55,7 @@ Bm                 F#m
 Se va y no vuelve no
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Bm    D              F#m         C#m
@@ -108,7 +108,7 @@ F#m
 No vuelve
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Bm    D              F#m         C#m

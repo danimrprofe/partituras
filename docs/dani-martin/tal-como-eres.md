@@ -6,7 +6,7 @@
 
 
 ```
-[Intro]
+**Intro**
 Am  Dm  F   G  Am  G  Am
 
 [Verse 1]
@@ -29,7 +29,7 @@ Tienes ese don que te hace mejor sensibilidad
                     C                   G
 Mucho cariño que regalar, te necesito tanto
 
-[Chorus]
+**Estribillo**
        F               G             C
 Y pensando que sinceramente te quiero así
           Am          F               G              C
@@ -63,7 +63,7 @@ Dejar de ser, saber escoger y creer que vas
                   C                 G
 Simplificando la vida como harían otros
 
-[Chorus]
+**Estribillo**
        F               G             C
 Y pensando que sinceramente te quiero así
           Am          F               G              C
@@ -80,7 +80,7 @@ Es lo que tiene
 [Bridge]
 Dm  Cm  Bm  E
 
-[Chorus]
+**Estribillo**
        F               G             C
 Y pensando que sinceramente te quiero así
           Am          F               G              C

@@ -40,7 +40,7 @@ Am                                                         D
 
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estribillo**
 ```
@@ -78,7 +78,7 @@ Am                                                         D
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                    C                            G

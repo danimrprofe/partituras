@@ -4,11 +4,8 @@
 | --------- | ------ | ------ | ---- |
 | Si menor  | 85 bpm |        | 2    |
 
-
-
+**Estrofa**
 ```
-[Verse 1]
-
 Am              F                      C
 Yo sólo busco ooh oooh que me tiemblen las piernas
 G         Am  E7          Am
@@ -19,29 +16,27 @@ G                     Am
 que nos rajen por la espalda al pasar
 E7           Am
 y nos siga la prensa
-
-
-[Pre-chorus]
-
+```
+**Pre-coro**
+```
 F          C           G            Am
 Encendernos con las manos fue más de la cuenta
 F          C          G
 y yo que creía que estaba
                         G7
 ... que estaba de vueltaaaaah
-
-
-[Chorus]
-
+```
+**Estribillo**
+```
 F                    C    E7          Am
 Aviones a punto de salir, pasiones de gitanos
 F                     C
 pequeña sonrisa de Amelie
 E7           Am
 me tienes calado
-
-
-[Verse 2]
+```
+**Estrofa**
+```
 
 Am                F                      C
 Yo sólo busco ooh oooh que me tiemblen las piernas
@@ -54,9 +49,9 @@ Pero cuando este roto a escuchar
 E7           Am
 Que merece la pena
 
-
-[Pre-chorus]
-
+```
+**Pre-coro**
+```
 F           C           G             Am
 Encendernos con las manos fue más de la cuenta
 F                     G
@@ -64,9 +59,9 @@ y yo que creía que estaba
                          G7
 ... que estaba de vueltaaaah
 
-
-[Chorus]
-
+```
+**Estribillo**
+```
 F                     C     E7           Am
 Aviones a punto de salir, pasiones de gitanos
 F                     C
@@ -80,16 +75,14 @@ F                     C
 pequeña sonrisa de Amelie
 E7         Am
 me tienes cagado
-
-
-[Instrumental]
-
+```
+**Instrumental**
+```
 C F C E7
 Am E7 Am E7
-
-
-[Chorus]
-
+```
+**Estribillo**
+```
 F                     C     E7           Am
 Aviones a punto de salir, pasiones de gitanos
 F                     C

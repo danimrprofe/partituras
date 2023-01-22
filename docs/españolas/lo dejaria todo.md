@@ -30,7 +30,7 @@ G                                               C
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 
@@ -81,7 +81,7 @@ G                                        C
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
              G

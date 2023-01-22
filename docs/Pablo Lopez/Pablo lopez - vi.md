@@ -29,8 +29,8 @@ dime qué vas a llevarte, dime que me llevo yo.
 ```
 **Estrofa**
 ```
-Gm | F |  Eb7 | - x2
- ```
+Gm | F |  Eb7 | - x2markd
+```
 **Estrofa**
 ```
 Gm                         F             Eb        Eb-F
@@ -51,7 +51,7 @@ Gm               F/A        Cm                  Eb        F
 Si hoy se acaba el mundo corazón, dime qué vas a llevarte, dime que me llevo...
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Gm             F          Eb                   Eb-F

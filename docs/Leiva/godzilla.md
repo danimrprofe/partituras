@@ -57,7 +57,7 @@ Agarrada a mis costillas le cuelgan las piernas
 Algunos días me espera despierta
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
           F          C/E          G
@@ -113,7 +113,7 @@ Agarrada a mis costillas le cuelgan las piernas
 Algunos días me espera despierta
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
           F          C/E          G

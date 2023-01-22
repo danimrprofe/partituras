@@ -96,7 +96,7 @@ A# G Bm D
 A# G A D
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
            G

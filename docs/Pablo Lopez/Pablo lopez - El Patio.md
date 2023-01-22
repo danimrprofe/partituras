@@ -27,7 +27,7 @@ solo quiero que se acabe,
 solo quiero que me de-jes so-lo.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 B5     B5/A#      B5/G#  B5/F#        E5
@@ -60,7 +60,7 @@ solo quiero que se acabe,
 solo quiero que me de-jes so-lo.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 B5     B5/A#      B5/G#  B5/F#        E5

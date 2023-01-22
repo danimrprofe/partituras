@@ -1,7 +1,7 @@
 # Brave
 
 
-<div style="page-break-after: always;"></div>
+
 
 ## Volaré
 
@@ -19,7 +19,7 @@
 | Am  | Am  | Am  | Am    |
 ```
 
-[Verse]
+**Estrofa**
 
 ```
      D               G            D           G
@@ -48,7 +48,7 @@ Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
 Bm (mantener) | A
 ```
 
-[Verse]
+**Estrofa**
 ```
   D                    G
 Allá donde el bosque esconde
@@ -78,7 +78,7 @@ Correré, volaré, con el viento cabalgaré
 Volaré, con el viento cabalgaré
 ```
 
-[Instrumental]
+**Instrumental**
 ```
    D          G             D             A
 Na-na   Na-na Na-na Na-na   Na Na   Na-na Na

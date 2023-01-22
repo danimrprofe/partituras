@@ -29,7 +29,7 @@ C       D         G
 Como hacía mi hermana
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Em      C                  G         Bm                Em
@@ -51,7 +51,7 @@ C        D         G
 Que no hablaba de nada
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Em      C                  G         Bm                Em

@@ -25,7 +25,7 @@ Dm          Am     F            G
 Maldigo mi suerte Me quiero matar
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Am       F             C            Em
@@ -41,7 +41,7 @@ Am             Em  F        G      C
 | Dm  | Am  | F   | G   |
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estrofa**
 ```

@@ -1,7 +1,7 @@
 # Ven
 
 ```
-[Intro]
+**Intro**
 
 Eb
 ```
@@ -24,7 +24,7 @@ Maldita luz
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 
@@ -55,7 +55,7 @@ Quimera de las madrugadas
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 
@@ -93,7 +93,7 @@ Si vienes, si vieneeeeeeees
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 

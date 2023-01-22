@@ -48,7 +48,7 @@ Tengo un plan, salir corriendo hasta que todo se arregle,
 me alejaba como el ruido de una ambulancia entre la gente..
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
             G                 D                    C

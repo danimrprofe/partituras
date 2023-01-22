@@ -21,7 +21,7 @@ Nunca igual, nunca igual que tú
 Y no puedo soportarlo, no puedo soportarlo más
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D                G                      D/F#
@@ -47,5 +47,3 @@ Nunca igual, nunca igual que tú
 **Repite puente**
 
 **Repite coro**
-
-<div style="page-break-after: always;"></div>

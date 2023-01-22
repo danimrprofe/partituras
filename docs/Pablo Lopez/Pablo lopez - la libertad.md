@@ -21,7 +21,7 @@ C                    G
 Deja, deja, Deja, uoooh
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C      G     C    F     G       Am
@@ -30,7 +30,7 @@ C      G#    C  Am   Em     G        F    G    C
 Dame una razón, para pensar que sigo viiiiiivoooo
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
   C                                                       Dm
@@ -50,7 +50,7 @@ C                    G
 Deja, deja, Deja, uoooh
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C      G     C    F     G       Am

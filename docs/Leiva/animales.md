@@ -23,7 +23,7 @@ Cómeme hasta que no me quede carne ni piel
 Amarte, en parte, porque eres todo arte
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Am            C        D
@@ -45,7 +45,7 @@ Cógeme, no tengas miedo, no te voy a morder
 Atarte, mojarte y luego chulearte
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Am            C        D

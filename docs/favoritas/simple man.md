@@ -7,7 +7,7 @@ Am7    x02213
 Gadd11 32001x
 
 
-[Intro]
+**Intro**
 
 C  G  Am  Am7 x4
 
@@ -45,7 +45,7 @@ And don't forget son,
 There is someone up above.
 
 
-[Chorus]
+**Estribillo**
 
          C     G         Am   Gadd11 Am
 And be a simple, kind of man.
@@ -78,7 +78,7 @@ All that I want for you my son,
 Is to be satisfied.
 
 
-[Chorus]
+**Estribillo**
 
           C     G        Am  Gadd11 Am
 And be a simple, kind of man.
@@ -116,7 +116,7 @@ All that I want for you my son,
 Is to be satisfied.
 
 
-[Chorus]
+**Estribillo**
 
          C     G         Am   Gadd11 Am
 And be a simple, kind of man.

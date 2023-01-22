@@ -1,5 +1,11 @@
 # Blancos fáciles
 
+Leiva ft. Nina de Juan
+
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No    |
+
 ```
 C
 Títeres en manos del nuevo poder
@@ -22,7 +28,6 @@ Todos con el rifle cargado
         G  Am G/B     C
 Todo el mundo va armado
 
-
  C              Em
 Hay un abismo detrás
                 Am       G           F
@@ -34,9 +39,7 @@ Mientras el mundo está normalizándolo
                       G              Am        Bm
 Me he vuelto a preguntar: son los demás o seré yo
 
-
 INSTRUMENTAL: C      F
-
 
 C
 Zombies viviendo tres vidas a la vez
@@ -46,7 +49,6 @@ Am
 Filtros adictivos jugando su papel
 G
 Marcas registrando tus pasos
-
 
         F                 F9
 Falsa felicidad como la química
@@ -59,7 +61,6 @@ Todos con el rifle cargado
         G  Am G/B     C
 Todo el mundo va armado
 
-
 C                 Em
 Hay un abismo detrás
                   Am    G           F
@@ -71,10 +72,8 @@ Mientras el mundo está normalizándolo
                       G              Am       G/B
 Me he vuelto a preguntar: son los demás o seré yo
 
-
 INSTRUMENTAL: F  Am  G  G (x3)
               F  Am  G  C
-
 
 C                 Em
 Hay un abismo detrás

@@ -34,7 +34,7 @@ Te veo en el infierno. Ya sé que suena muy metal.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
               A             Bm        A         G
@@ -85,7 +85,7 @@ A                     A7
   Te veo en el infierno.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D  A        Bm     A         G
@@ -122,7 +122,7 @@ D                               Fmaj7
 y tú no lo sabes, Y tú no lo sabes
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D  A        Bm     A         G

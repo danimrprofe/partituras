@@ -30,7 +30,7 @@ Dm                G
 No hay porqué seguir
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                  C      F              C
@@ -44,7 +44,7 @@ Am F C
 A C Fm C
 
 ```
-## Estribillo
+**Estribillo**
 ```
                 C     F               C
 Con los ojos en llamas y la mirada perdida

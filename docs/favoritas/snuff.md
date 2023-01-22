@@ -6,10 +6,10 @@ Album: All Hope is Gone
 Track: Snuff
 Tune guitar down to: C#,F#,B,E,G#,C#
 
-[Intro]
+**Intro**
 Am Em F C
 
-[Verse]
+**Estrofa**
  Am                    Em   F   C
 Bury all your secrets in my skin
  Am                        Em  F                   C
@@ -22,7 +22,7 @@ And love is just a camouflage for what resembles rage again…
 [Pre-Chorus]
 Am Em F C
 
-[Chorus]
+**Estribillo**
                         G                       Am
 So if you love me, let me go. And run away before I know.
                              G                               Am
@@ -37,7 +37,7 @@ My smile was taken long ago / If I can change I hope I never know
 [Pre-Verse]
 Am Em F C
 
-[Verse]
+**Estrofa**
     Am                   Em      F   C
 I still press your letters to my lips
      Am                        Em     F              C
@@ -47,7 +47,7 @@ I couldn't face a life without your light
     Am                            Em   F                   C
 But all of that was ripped apart… when you refused to fight
 
-[Chorus]
+**Estribillo**
                                 G                              Am
 So save your breath, I will not hear. I think I made it very clear.
                           G                                 Am
@@ -62,7 +62,7 @@ My own was banished long ago / It took the Death of Hope to let you go
 [Solo]
 Am Em F C
 
-[Chorus]
+**Estribillo**
                               G
 So Break Yourself Against My Stones
                          Am

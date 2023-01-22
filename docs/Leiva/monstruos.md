@@ -26,7 +26,7 @@ que no estás solo; que estás de espaldas  y no te das ni cuenta.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                 G          D                   A                       Bm
@@ -57,7 +57,7 @@ que no estás solo; que estás de espaldas  y no te das ni cuenta.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                 G          D                   A                       Bm
@@ -73,7 +73,7 @@ A | E | - | -
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                 G          D                   A                       Bm

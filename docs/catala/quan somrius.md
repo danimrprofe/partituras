@@ -4,10 +4,10 @@
 | --------- | --------- | ------ | ---- |
 |           | Estándar  | 4/4    | 4    |
 
-
+Me va mejor cejilla en traste 2
 
 ```
-[Intro]
+**Intro**
 C  FM7  C  (x2)
 
 C           F                 C    FM7 C
@@ -45,7 +45,7 @@ Les encens amb el somriure
          G7            C
 Quan em parles amb el cor.
 
-[Instrumental]
+**Instrumental**
 Am G F C Am F G7 C
 
 C               F               C     FM7 C
@@ -83,7 +83,7 @@ Les encen el teu somriure
          G7            C
 Quan et parlo amb el cor.
 
-[Instrumental]
+**Instrumental**
 Am G F C Am F G7 C (x2)
 
 [Ending]

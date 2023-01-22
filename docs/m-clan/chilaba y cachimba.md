@@ -24,7 +24,7 @@ y fumar mejor hachís.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
       A            E
@@ -51,7 +51,7 @@ pero hay que sobrevivir.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
       A            E

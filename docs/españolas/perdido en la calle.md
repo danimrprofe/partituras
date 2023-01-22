@@ -4,7 +4,7 @@
 
 Ritmo: D DU UDU
 
-[Intro]
+**Intro**
 G D Em C
 G D Em C
 

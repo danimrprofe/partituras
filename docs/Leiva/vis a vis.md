@@ -34,7 +34,7 @@ Volaremos sin movernos, y donde halla que firmar,
 me haré una pequeña herida, con sangre que abarca a el mar.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                  G          D            C
@@ -71,7 +71,7 @@ de tu quejido y el mio, en vis a vis quincenal,
 en vis a vis quincenal, en vis a vis quincenal
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                     G            D            C

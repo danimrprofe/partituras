@@ -1,4 +1,4 @@
-# 11 A ti te ocurre algo
+# A ti te ocurre algo
 
 | 🎸Tonalidad        | Tempo   | Compás | Capo |
 | ----------------- | ------- | ------ | ---- |
@@ -8,7 +8,6 @@
 ```
 G  D-C D x4
 ```
-
 **Estrofa**
 ```
 D           G             D     C          D       G    D C
@@ -20,7 +19,6 @@ D           G       D    C     D         G     D C
 D     G         D           C          D      G      D C   Cmaj7
    Hacía rato que no armaba   este pequeño desastre
 ```
-
 **Pre-estribillo**
 ```
 C                          D
@@ -33,7 +31,7 @@ Am/G       D     G D
 Para seducirte
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                C     D                Em
@@ -81,7 +79,7 @@ C                          D
    Para seducirte
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                C     D                Em

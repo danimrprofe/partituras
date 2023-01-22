@@ -39,14 +39,14 @@ Que salga del hueso una flor, Y me salve y que no,
 que no puedo aguantar tu mirada
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
           C   F           C    G
 Má-ma-ma-maaaaás.Má-ma-ma-maaaaás (x2)
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estrofa**
 ```

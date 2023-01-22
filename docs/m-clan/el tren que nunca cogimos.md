@@ -1,12 +1,12 @@
 # El tren que nunca cogimos
 
 ```
-[Intro]
+**Intro**
 Am B Em Em
 Am B C C
 Cm Cm
 
-[Verse]
+**Estrofa**
 G
 Llegaste en cuarto menguante a mi lado
 D                                   G
@@ -24,7 +24,7 @@ Juntos coleccionamos derrotas,
 Am            C    D
 Botellas vacias y puestas de sol.
 
-[Chorus]
+**Estribillo**
                C                       G
 Dónde fue a parar el tren que nunca cogimos.
                C                       G
@@ -34,7 +34,7 @@ Ahora quién lo dio por perdido aquel sonido.
              Am   C                  G
 El humo nos cegó ooh el hunmo nos cegó
 
-[Verse]
+**Estrofa**
 G                    Bm             Am
 Picamos los cebos de todas las trampas
               D                       G
@@ -53,7 +53,7 @@ se convirtió el vino en vinagre,
 Am                C               D
 Las uvas en pasas y el amor en dolor.
 
-[Chorus]
+**Estribillo**
                C                       G
 Dónde fue a parar el tren que nunca cogimos.
                C                       G

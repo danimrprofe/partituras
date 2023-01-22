@@ -32,7 +32,7 @@ G D Em
 G Em
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
                    G    D          Em

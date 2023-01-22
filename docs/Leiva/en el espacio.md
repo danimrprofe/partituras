@@ -20,7 +20,7 @@ Ya no se sienten tus pasos Y se nos doblan las piernas
 Ya que has subido bien alto, no te me caigas de vuelta
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
           F            G
@@ -55,7 +55,7 @@ Llegando al barrio con Juancho
 Después de días de guerra
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
           F            G

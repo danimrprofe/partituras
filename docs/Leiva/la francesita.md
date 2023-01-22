@@ -21,7 +21,7 @@ C                     G                D                G
  Cada noche en los tejados, Quiero olvidar, quiero olvidar
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
       G                                     C
@@ -44,7 +44,7 @@ C                 G                 D               G
  Chica léeme los labios Quiero olvidar, quiero olvidar
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
      G                                     C

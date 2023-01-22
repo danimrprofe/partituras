@@ -59,7 +59,7 @@ no es porque digas la verdad, es porque nunca me has mentido.
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
              A                     E
@@ -88,5 +88,3 @@ algo de calor sin tus abrazos ahora sé que nunca volveré.
 ```
 F#m  D  Bm  D    (repite)
 ```
-
-<div style="page-break-after: always;"></div>

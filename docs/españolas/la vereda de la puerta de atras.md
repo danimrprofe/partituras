@@ -1,7 +1,7 @@
 # La vereda de la puerta de atrás
 
 ```
-[Intro]
+**Intro**
 
 [Verse 1]
      Em
@@ -31,7 +31,7 @@ convencido que estás en el tejado
     D              Em    D  C  D
 esperando a ver si llego yo
 
-[Chorus]
+**Estribillo**
 G                   Em                    Bm
 Y dejar de lado la vereda de la puerta de atrás
        C
@@ -69,7 +69,7 @@ que me entierren con la picha por fuera
     D           Em      D  C  D
 pa' que se la coma un ratón
 
-[Chorus]
+**Estribillo**
   G                        Em                Bm
 Y muere a todas horas gente dentro de mi televisor
            C

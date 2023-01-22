@@ -3,10 +3,10 @@
 - Autor: Astola
 
 ```
-[Intro]
+**Intro**
 Am F G Am G
 
-[Verse]
+**Estrofa**
         Am                  F
 En una nube doblando mi cielo
 G                                     Am   G
@@ -16,7 +16,7 @@ En una nube trayendo tormenta
 G                             Am   G
 y yo no estoy listo pa la guerra
 
-[Chorus]
+**Estribillo**
                    F                        G
 Si quieres que me quede, tendrás que prometerme
                Am                     G
@@ -45,7 +45,7 @@ yo yo no puedo prometerte que vaya a quererte
 [Interlude]
 F G Am G
 
-[Verse]
+**Estrofa**
               Am                  F
 Eres un castillo con muros de piedra
 G                            Am  G
@@ -55,7 +55,7 @@ de tu fortaleza, pidiendo clemencia
 G                        Am G
 Ábreme o córtame la cabeza
 
-[Chorus]
+**Estribillo**
                     F                       G
 Si quieres que me quede, tendrás que prometerme
                Am                    G

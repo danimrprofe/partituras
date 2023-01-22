@@ -28,7 +28,7 @@ F#m                     B B2 B
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
   E1   E2     C#m C#m2              A               E

@@ -5,7 +5,7 @@
 |           | Estándar  | 4/4    | 1    |
 
 ```
-[Intro]
+**Intro**
 C D G Em    x2
 
 
@@ -43,7 +43,7 @@ And I discovered that my castles stand
 Upon pillars of salt and pillars of sand
 
 
-[Chorus]
+**Estribillo**
   C              D
 I hear Jerusalem bells are ringing
 G             Em
@@ -83,7 +83,7 @@ Just a puppet on a lonely string
 Oh who would ever want to be king?
 
 
-[Chorus]
+**Estribillo**
   C              D
 I hear Jerusalem bells are ringing
 G             Em
@@ -111,7 +111,7 @@ Ohhhhhh  Ohhhhhhh
 Ohhhhhh  Ohhhhhhh
 
 
-[Chorus]
+**Estribillo**
   C              D
 I hear Jerusalem bells are ringing
 G             Em

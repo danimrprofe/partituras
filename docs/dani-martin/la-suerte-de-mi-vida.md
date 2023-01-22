@@ -31,7 +31,7 @@ que en esta vida ya no quiero otros besos
 y cada dia tu me das tu total.
 
 
-[Chorus]
+**Estribillo**
      A                            Bm
 Y pienso que si no existes yo me muero,
                             D                          A   E
@@ -63,7 +63,7 @@ que en esta vida ya no quiero otros besos
 y cada día tu me das tu total.
 
 
-[Chorus]
+**Estribillo**
      A                            Bm
 Y pienso que si no existes yo me muero,
                             D                          A   E
@@ -83,7 +83,7 @@ Ab|------------------------------------------------------|
 Eb|------------------------------------------------------|
 
 
-[Chorus]
+**Estribillo**
   A                            Bm
 Y voy, a darte mi alma y mi verdad,
                          A                               E

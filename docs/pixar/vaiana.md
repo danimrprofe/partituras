@@ -34,7 +34,7 @@ Cada amanecer, cada sensación, Cada atardecer, al caer el sol,
 Vuelvo a imaginar que hay algún lugar donde debo ir...
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
        E                                B/D#
@@ -77,7 +77,7 @@ Pero esa voz canta otra canción,
 ¿que me pasa a mí?
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
        E                                B/D#
@@ -99,7 +99,7 @@ Y si el viento que sopla de cola me lleva,
 Sabré al final yo que hay más alláa
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 ## Un nuevo hogar
 
@@ -119,7 +119,7 @@ E        A
 Tapenapena
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D
@@ -148,7 +148,7 @@ A
 Sabemos mirar de verdad
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 D          A                  E                    A
@@ -171,7 +171,7 @@ E               A
 Un nuevo hogar
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 ## De nada
 
@@ -201,7 +201,7 @@ Admírame bien -qué bueno estoy-,
 estás justo frente a un semidios.
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Am            F            C
@@ -281,7 +281,7 @@ Mira, aquí hay un mini-Mauí bailando claqué.
 Ja, ja, ja, ja, ja, ja. ¡Ey!
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 Am          F              C
@@ -312,7 +312,7 @@ todo menos flotar puedo hacer yo.
 Y gracias!
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 ## Brillante
 
@@ -341,7 +341,7 @@ Em         Am
 desmontar, Ella mintió. Mejor ser:
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
      G            C
@@ -394,7 +394,7 @@ Em           Am
 creé. ¿O no lo ves? Yo soy muy
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 
@@ -434,7 +434,7 @@ Bb
 ¡Ahora voy a patearte! ¿Viste a alguien tan...
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
        G          C

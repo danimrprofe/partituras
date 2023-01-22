@@ -15,7 +15,7 @@ Am            Dm     Em   Am    Dm    Em
     mira que a luna se le ve el ombligo
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
 C             Dm     Em       Am    Dm    Em

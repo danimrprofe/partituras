@@ -33,7 +33,7 @@ A                   Bsus     E
 
 
 ```
-## Estribillo
+**Estribillo**
 ```
 
           C#m A                   E
