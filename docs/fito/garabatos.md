@@ -4,96 +4,76 @@
 | ------------ | ------ | ------ | ---- |
 | Fa menor     | 77 bpm |        | No   |
 
-**Estrofa**
 ```
-A#                       Cm
-Todo llega y todo pasa como un espejismo.
-       G#            A#       Cm
+Bm          A             Bm
+  Todo llega y todo pasa como un espejismo.
+       G          A          Bm
 Todos fuimos garabatos de nosotros mismos.
-A#                          Cm
-Lo que queda en la mirada no es que est  escondido.
-         G#                 A#                  Cm
+A                         Bm
+Lo que queda en la mirada no es que esté escondido.
+    G                   A                Bm
 Pero hay cosas que solo se ven si pasas cerca del abismo.
-```
-**Pre-estribillo**
-```
-          Fm                        G
-Y en las puertas de mi barrio descubr  la vida.
 
-```
-**Estribillo**
-```
-
-
-              D#    A#                   Cm
-Y la quise besar      y ella quería morderme.
-                    D#         A#             Cm
+E                                F#
+Y en las puertas de mi barrio descubrí la vida.
+            D    A                Bm
+Y la quise besar y ella quería morderme.
+                     D         A              Bm
 toda mi vida es un gesto que solo tus ojos entienden.
-                D#    A#                   Cm
-Yo la quería besar      y ella quería morderme.
+                D    A                Bm
+Yo la quería besar y ella quería morderme.
 
-D#  A#  Cm
-```
-**Estrofa**
-```
-     A#                         G#
-Ordenando mis recuerdos he pensao que todo fue
-Cm
-hace mucho tiempo ya
-          A#                     G#
-Y cada ma ana en el espejo le saludo siempre al viejo
-       Cm
-que llegó  cuando se fue  el chaval.
-A#                       Cm
-Casi como un accidente me envolvi  el sonido.
-         G#                   A#                  Cm
-Hay canciones que te dan de frente y te se alan el camino.
-```
-**Pre-estribillo**
-```
-          Fm                        G
-Y en las puertas de mi barrio descubrí  la vida.
+(Instrumental) G  A  Bm
 
-```
-**Estribillo**
-```
+A                                               Bm
+Ordenando mis recuerdos he pensao que todo fue hace mucho tiempo ya
+          A                     G
+Y cada mañana en el espejo le saludo siempre al viejo que
+Bm
+llegó cuando se fué el chaval.
 
-              D#    A#                   Cm
-Y la quise besar      y ella quería morderme.
-                    D#         A#             Cm
+A                           Bm
+Casi como un accidente me envolvió el sonido.
+G                             A                Bm
+Hay canciones que te dan de frente y te señalan el camino.
+
+E                                 F#
+Y en las puertas de mi barrio descubrí la vida.
+
+             D    A                Bm
+Y la quise besar y ella quería morderme.
+                     D         A              Bm
 toda mi vida es un gesto que solo tus ojos entienden.
-                D#    A#                   Cm
-Yo la quería besar      y ella quería morderme.
-                    D#         A#             Cm
+                D    A                Bm
+Yo la quería besar y ella quería morderme.
+                    D         A              Bm
 toda mi vida es un gesto que solo tus ojos entienden.
-```
-**Solo**
-```
-Fm D#  A#  Cm - x2
-```
-**Puente**
-```
-         Fm                    D#
-Abrió  la boca y me tragó  y no dejó  de repetir
-         A#               Cm
-ven a mi lado y te daré  todo lo que pidas.
-             Fm                      D#
-Y ahora que sé  que me engañó   solo me queda por decir
-         A#                Cm
-que cada vez que me perdí  me encontré  la vida.
 
-```
-**Estribillo**
-```
+(Instrumental)  G   A   Bm   G   A   Bm   G   A   Bm   G   A   Bm
 
-              D#    A#                   Cm
-Y la quise besar      y ella quería morderme.
-                    D#         A#             Cm
+E                              D
+Abrió la boca y me tragó y no dejó de repetir
+
+         A                Bm
+ven ami lado y te daré todo lo que pidas.
+
+E                                     D
+Y ahora que sé que me engañó solo me queda por decir
+
+A                         Bm
+que cada vez que me perdí me encontró la vida.
+
+            D    A                Bm
+Y la quise besar y ella quería morderme.
+
+                     D    A                Bm
 toda mi vida es un gesto que solo tus ojos entienden.
-                D#    A#                   Cm
-Yo la quería besar      y ella quería morderme.
-                    D#         A#             Cm
-toda mi vida es un gesto que solo tus ojos entienden.
+
+                D    A                Bm
+Yo la quería besar y ella quería morderme.
+
+                     D    A                   Bm
+Toda mi vida es un gesto que solo tus ojos entienden.
 
 ```
 ## Final

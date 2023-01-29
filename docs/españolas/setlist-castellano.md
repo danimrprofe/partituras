@@ -1,10 +1,5 @@
 
-
-
 #
-
-
-
 
 ## Vis a vis
 
@@ -118,7 +113,5 @@ C                 G                  D   Am
 Em   C G
 Am   Em
 ```
-
-
 
 #

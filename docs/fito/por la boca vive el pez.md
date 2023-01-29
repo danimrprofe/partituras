@@ -19,7 +19,6 @@ D|--------------|-3-----------|---5---------|-2-------------|-------------|-3---
 A|--------------|-------------|-------------|>0-------------|-------------|-------------|
 E|--------------|-------------|-------------|---------------|-------------|-------------|
 
-
    G                  Am             Am  N.C.            F
 e|-3----------------|---------------|-1------------------|
 B|-0----------------|-------1p0-----|-1--------0---1-----|
@@ -35,7 +34,6 @@ Intro
 |Am | F | G | Am |
 |Am | F | G | Am | Am /
 
-
 [Verse 1]
 N.C.              F
 Algo, lo que me invade
@@ -46,7 +44,6 @@ Am               F
          G                 Am
 Siempre  quiero, lobo hambriento
 
-
 [Verse 2]
 Am                  F
  Todo me queda gran-de
@@ -56,7 +53,6 @@ Am                F
  Sabes, qui-siera darte
                 G                     Am    Am /
 Siempre un poco más  de  lo que te pi-do
-
 
 **Estribillo**
 N.C.            G
@@ -69,7 +65,6 @@ Am                  G
 No sé vivir solo con cinco sentidos
      F             G                      Am    | Am | F | G | Am |
 Este mar  cada vez  guarda más barcos  hundidos
-
 
 [Post-Chorus]
 Am               F        F7
@@ -90,11 +85,9 @@ Y yo lo estoy di-ciendo  te lo es-toy diciendo
     Am    Am /
 Otra vez
 
-
 **Instrumental**
 Am /  | Am | F | G | Am |
       | Am | F | G | Am |
-
 
 [Verse 3]
 N.C.            F
@@ -106,7 +99,6 @@ Si en cada can-ción que escribo  cora-zón
              Am
 Eres tú el a-cento
 
-
 [Verse 4]
 Am                        F
  No quiero estrella erran-te
@@ -116,7 +108,6 @@ Am                F
  Quiero mirar tus ojos del co-lor
 G              Am     Am /
 De  la Coca Co-la
-
 
 **Estribillo**
 N.C.            G
@@ -129,7 +120,6 @@ Am                  G
 No sé vivir solo con cinco sentidos
      F             G                      Am    | Am | F | G | Am | Am
 Este mar  cada vez  guarda más barcos  hundidos
-
 
 [Bridge]
             Dm                      Dm
@@ -157,20 +147,12 @@ Para decirte lo que nunca can-to
         Am                  Am
 Para cantarte lo que nunca  digo
 
+```
+**Final**
+```
 
-**Instrumental**
-| Dm | Dm | Am | Am    |
-| F  | E  | Am | Asus4 |
-| Dm | Dm | Am | Am    |
-| F  | E  | Am | Asus4 |
+Dm Am F E Am (x 2)
+Dm G Am   F E Am (x 2)
+F  E  Am (x 2)
 
-| Dm | Em | Am | Asus4 |
-| F  | E  | Am | Am    |
-| Dm | Em | Am | Asus4 |
-| F  | E  | Am | Am    |
-
-
-[Outro]
-| F  | E  | Am          | Am |
-| F  | E  | E7 / Am /// | Am | & | &
 ```
