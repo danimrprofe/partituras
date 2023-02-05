@@ -2,99 +2,99 @@
 
 **Estrofa**
 ```
-Gm F
+Em D
 
 ```
 **Estrofa**
 ```
-      Gm7   F                          Gm7
+      Em7   D                          Em7
 Ahora sí, parece que ya empiezo a entender
-    F                  Gm
+    D                  Em
 las cosas importantes aquí
-    F                          Gm7     F
+    D                          Em7     D
 son las que están detrás de la piel.
 
-            Gm7
+            Em7
 Y todo lo demás
-  F5           Cm7       Gm7
+  D           Am7       Em7
 empieza donde acaban mis pies.
-   F5            Cm7         Gm7
+   D            Am7         Em7
 Después de mucho tiempo aprendí
-        F5          Cm7         Gm7     F5      Cm7   Cm7 Bb   Cm
+        D          Am7         Em7     D      Am7   Am7 G   Am
 que hay cosas que mejor no aprender.
 
 ```
 **Estrofa**
 ```
-Cm         Bb        F
+Am         G        D
 El colegio poco me enseñó.
-          Eb         Bb               F   F#dim7
+          C         G               D   D#dim7
 Si es por esos libros nunca aprendo
-Gm      F         Eb
+Em      D         C
  a coger el cielo con las manos,
-Gm        F           Eb
+Em        D           C
  a reír y a llorar lo que te canto,
-Gm      F        Eb5
+Em      D        C5
  a coser mi alma rota,
-Gm                     F            Eb5
+Em                     D            C5
 a perder el miedo a quedar como un idiota,
 
-        Gm     Eb       Bb     F
+        Em     C       G     D
 y a empezar la casa por el tejado,
-           Gm  Eb             Bb         F
+           Em  C             G         D
 a poder dormir cuando tú no estás a mi lado.
-              Gm  Eb Bb        F
+              Em  C G        D
 Menos mal que fui un poco granuja,
-            Gm Eb        Bb     F
+            Em C        G     D
 todo lo que sé me lo enseñó una bruja
 
 ```
 **Estrofa**
 ```
-Gm B7 F F7
+Em B7 D D7
 ```
 **Estrofa**
 ```
-Gm7        F5             Cm7             Gm7
+Em7        D             Am7             Em7
 Ruinas... ¿no ves que por dentro estoy en ruinas?
-F5               Cm7      Gm7
+D               Am7      Em7
 Mi cigarro va quemando el tiempo,
-F5            Cm7          Gm7         F5  Cm7
+D            Am7          Em7         D  Am7
 tiempo que se convirtió en cenizas
 
-Gm7           F5       Cm7        Gm7
+Em7           D       Am7        Em7
 Raro!! ... no digo diferente digo raro!!
-F5             Cm7             Gm7
+D             Am7             Em7
 Ya no sé si el mundo está al revés
-      F5          Cm7        Gm7      F5      Cm7   Cm7 Bb   Cm
+      D          Am7        Em7      D      Am7   Am7 G   Am
 o soy yo el que está cabeza abajo
 ```
 **Estrofa**
 ```
-Cm         Bb        F
+Am         G        D
 El colegio poco me enseñó.
-          Eb         Bb               F   F#dim7
+          C         G               D   D#dim7
 Si es por el maestro nunca aprendo
-Gm      F         Eb
+Em      D         C
  a coger el cielo con las manos,
-Gm        F           Eb
+Em        D           C
  a reír y a llorar lo que te canto,
-Gm      F        Eb5
+Em      D        C5
  a coser mi alma rota,
-Gm                     F            Eb5
+Em                     D            C5
 a perder el miedo a quedar como un idiota,
 
-        Gm     Eb       Bb     F
+        Em     C       G     D
 y a empezar la casa por el tejado,
-           Gm  Eb             Bb         F
+           Em  C             G         D
 a poder dormir cuando tú no estás a mi lado.
-              Gm  Eb Bb        F
+              Em  C G        D
 Menos mal que fui un poco granuja,
-            Gm Eb        Bb     F
+            Em C        G     D
 todo lo que sé me lo enseñó una bruja
 
 ```
 **Estrofa**
 ```
-Gm B7 F F7
+Em B7 D D7
 ```

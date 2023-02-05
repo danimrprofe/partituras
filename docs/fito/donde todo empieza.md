@@ -4,160 +4,100 @@
 
 ```
 
-Acordes:
-   F     Eb    A#   Gm
-|--1--|--6--|--6--|--3--|
-|--3--|--8--|--6--|--5--|
-|--3--|--8--|--7--|--5--|
-|--2--|--8--|--8--|--4--|
-|--1--|--6--|--8--|--3--|
-|--1--|--X--|--6--|--3--|
-
-Intro
-            F  Eb           A#           F
-E-------------|----------------|------------------------|
-B---6-3-------|---6--3---------|-------3h4b3------------|
-G-3-----5-3-5-|-3------5-3-5h7-|-----3-------5-2h3------|
-D-------------|----------------|-0h3---------------5b3--|
-A-------------|----------------|------------------------|
-E-------------|----------------|------------------------|
-            F  Eb           A#            F
-E-------------|----------------|------------------------|
-B---6-3-------|---6-3----------|-------3h4b3---6-3h4----|
-G-3-----5-3-5-|-3-----5-3-5h7--|------3------5----------|
-D-------------|----------------|---0h3---------------5b3|
-A-------------|----------------|------------------------|
-E-------------|----------------|------------------------|
-
-A#                 F                 Eb
+G                 D                 C
 Puede que no valga la pena escribir,
-                    A#
+                    G
 tan lejos de la poesía
-          A#            F             Eb
+          G            D             C
 todas las palabras que te quiero decir
-        A#
+        G
 se me rompen enseguida
-         Gm           F                    Eb
-No me quedan flores, me arrancaron la raiz
-            A#
-Se pisaron las semillas
-          A#            F        Eb
+         Em           D
+No me quedan flores, me arrancaron
+     C       G
+la raiz. Se pisaron las semillas
+G            D               C
 Me di cuenta tarde que te perdí
-                 A#
+    G
 por pensar que te tenía...
-            F  Eb          A#              F
-E-------------|----------------|--------------------------|
-B---6-3-------|---6-3----------|-----3h4b3------3---------|
-G-3-----5-3-5-|-3-----5-3-5h7--|----3------5---5-5-3--8b7-|
-D-------------|----------------|-0h3----------------------|
-A-------------|----------------|--------------------------|
-E-------------|----------------|--------------------------|
 
-A#                   F            Eb
+G                     D
 Creo que los bares se deben abrir
-                   A#
+C                   G
 para cerrar las heridas
-             A#         F             Eb
+             G         D             C
 y todas las noches, me acuerdo de ti
-         A#
+         G
 y te olvido cada día
-Gm                   F
+Em                   D
 Y vuelvo a ser un loco
-               Eb          A#
+               C          G
 para sobrevivir, a la locura de la vida
-A#                    F                   Eb
+G                    D                   C
 Muchas veces la cabeza, y a menudo la nariz
-              A#
+              G
 Y una voz que me decía
 
-          Gm
+          Em
 Dejate llevar
-F             Eb
+D             C
  Si el alma te lleva
-Eb             A#
+C             G
  Duele el corazón
-A#             F
+G             D
  Cuando te lo dejas
- F          Gm
-Cerca del final
-    Eb         A#   A#
+ D          Em
+Cerca del Dinal
+    C         G   G
 Donde todo empieza
 
- (solo de saxo: F-F-Eb-Eb-A#-A#-F-F)
+ (solo de saxo: D-D-C-C-G-G-D-D)
 
 Solo:
-               Eb                             A#
-E--------------------------------|-----------------------|
-B--13h15-13---------------13h15--|--13h15-13-------------|
-G-----------15-12----12-15-------|----------15---15------|
-D--------------------------------|------------15---13h12-|
-A--------------------------------|-----------------------|
-E--------------------------------|-----------------------|
-            F                   Gm
-E-------------------------------------------------------|
-B-------------13----------------------------------------|
-G-----12h13h14---14b12--14b12-14h15--15-15-15--15-15-15-|
-D--15-----------------15--------------------------------|
-A-------------------------------------------------------|
-E-------------------------------------------------------|
-               Eb                             A#
-E--------------------------------|-----------------------|
-B--13h15-13---------------13h15--|--13h15-13-------------|
-G-----------15-12----12-15-------|----------15--15-------|
-D--------------------------------|------------15--13h12--|
-A--------------------------------|-----------------------|
-E--------------------------------|-----------------------|
-             F                        A#
-E-------------------------------------------|
-B-------------------------------------------|
-G-----12h13-14----14b12---------------------|
-D--15-------------------15--10h12-10--8-----|
-A-------------------------------------------|
-E-------------------------------------------|
 
-                  F
+                  D
 Donde todo empiezaaaaa
-                    Gm
+                    Em
 Donde todo todo empieza
-                  F
+                  D
 Donde todo empiezaaaaa
-                    Gm
+                    Em
 Donde todo todo empieza
-                  F
+                  D
 Donde todo empiezaaaaa
-                              Gm
+                              Em
 No me sale bien la cuenta de la vida
-                  F
+                  D
 Donde todo empiezaaaaa
-                              Gm
-O me sobran noches o me faltan dias
-                  F
+                              Em
+O me sobran noches o me Daltan dias
+                  D
 Donde todo empiezaaaaa
-                                 Gm
+                                 Em
 Todos los minutos que no he estao contigo
-                  F
+                  D
 Donde todo empiezaaaaa
-                               Gm
+                               Em
 Ahora son demonios que viven conmigo
-                  F
+                  D
 Donde todo empiezaaaaa
-                               Gm
-Puedes encontrarme cerca del final
-                  F
+                               Em
+Puedes encontrarme cerca del Dinal
+                  D
 Donde todo empiezaaaaa
-                                Gm
-Por que todo empieza cerca del final
-                  F
+                                Em
+Por que todo empieza cerca del Dinal
+                  D
 Donde todo empiezaaaaa
-                               Gm
-Puedes encontrarme cerca del final
-                  F
+                               Em
+Puedes encontrarme cerca del Dinal
+                  D
 Donde todo empiezaaaaa
-                                Gm       F
-Por que todo empieza cerca del final...
-                                  Gm
-Por que todo empieza cerca del final.......
+                                Em       D
+Por que todo empieza cerca del Dinal...
+                                  Em
+Por que todo empieza cerca del Dinal.......
 
-Y repite F-Gm hasta el final.
+Y repite D-Em hasta el Dinal.
 
 ```

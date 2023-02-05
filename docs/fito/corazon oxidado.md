@@ -1,4 +1,4 @@
-# Corazón Oxidado	4:01
+# Corazón Oxidado
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
@@ -14,8 +14,9 @@ Bm             A          Em
 Todo lo que sueño es tan frágil
 Bm             A          Em
 Todo lo que bebo es tu ausencia
-
-EST.
+```
+**Estribillo**
+```
 G             A         Bm
    Y mi pobre corazón de hierro
 G             A                Bm
@@ -24,7 +25,9 @@ D                A            Bm
    Y es que tengo sueño y no me duermo
 G              A         Bm
    Este fuego que ya no calienta
-
+```
+**Estrofa**
+```
 Bm            A            Em
    Todo lo que canto es tan estéril
 Bm            A            Em
@@ -34,11 +37,14 @@ Bm             A              Em
 Bm           A                  Em
    Diferente sangre de una misma herida
 
-ESTRIBILLO
+```
+**Estribillo**
+```
 
 Solo de saxo: Sim La Mim(x4)
 
-Guitarra: La Sol Re (jugando con La6, Sol6 y Re6)
+Guitarra: La Sol Re
+(jugando con La6, Sol6 y Re6)
    A            G
 mi pobre corazon oxidado
    D
@@ -56,7 +62,7 @@ lo valiente lo cobarde lo esperado
    D
 mi virtud y mi defecto mi barranco y mi camino
    A            G
-mi pobre corazon no importa q sea pequeño
+mi pobre corazon no importa que sea pequeño
    D
 mi pobre corazon siempre te echa de menos
    A            G
