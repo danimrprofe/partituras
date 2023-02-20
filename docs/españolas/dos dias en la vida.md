@@ -1,5 +1,7 @@
 # Dos días en la vida
 
+Grupo: Jarabe de Palo
+
 ```
 
     F           Am          E7          F               F             Am          E7          F
