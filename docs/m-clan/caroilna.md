@@ -1,5 +1,7 @@
 # Carolina
 
+Artista: M-Clan
+
 | Tonalidad | Afinación | Compás | Capo |
 | --------- | --------- | ------ | ---- |
 | Sol Mayor | Estándar  | 4/4    | 4    |

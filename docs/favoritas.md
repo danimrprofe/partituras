@@ -7,25 +7,6 @@
   - [Thinking out loud](#thinking-out-loud)
   - [Photograph](#photograph)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 My name is luka
 D A G A
 Bm7 A Bm7 A
@@ -35,11 +16,7 @@ Em A Bm
 Goner (+2)
 Em D C G
 C Em D
-Losing my religion
-Am Em
-Em Dm G
-F G Am D
-F G Am7 G
+
 Sitting on the dock of the bay
 G B7 C A7 x2
 G E G E
@@ -102,13 +79,11 @@ G A Bm D* Bm
 G A G A G A Bm
 D A7sus4 G A
 
-
 Calling all angels
 A D x3
 G
 A G D x2
 G A Bm C
-
 
 Knocking on heavens door
 | 1   | 2   | 3   | 4   |
@@ -140,14 +115,7 @@ F G A x1
 Bridge:
 F C D F G
 
-
-
-
 My hero
 E C#7sus2
 Asus2 B7 x3
 Asus  B7 E
-
-
-
-

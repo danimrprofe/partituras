@@ -1,4 +1,5 @@
 # Miedo
+
 ```
 Intro: G - Em - Cm - G
 
@@ -13,7 +14,6 @@ G           Em             Cm           G
 no es un final feliz, tan sólo es un final
        Em           A                  C    (Cm)
 pero parece ser que ya no hay vuelta atrás.
-
 
 G        Em
 Sólo te di
@@ -70,7 +70,6 @@ Ya se que es el final no habrá segunda parte.
 A                  C
 Y no se cómo hacer para borrarte.
 
-
 ```
 **Solo**
 ```
@@ -109,7 +108,6 @@ G    F           C     Cm
 y aquí en el infierno
 G  F        C     Cm
    oigo tu voz.                x 2
-
 
 G | F | C | Cm x 4
 ```

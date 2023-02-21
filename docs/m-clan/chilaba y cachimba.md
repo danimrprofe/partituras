@@ -1,5 +1,7 @@
 # Chilaba y cachimba
 
+Artista: M-Clan
+
 ```
 E
 Brillante cirujano, con brillante porvenir,
@@ -21,7 +23,6 @@ quiero ser espiritual,
 casarme con cuatro mujeres
   B
 y fumar mejor hachís.
-
 
 ```
 **Estribillo**
@@ -48,7 +49,6 @@ y que me tenga que venir,
 que nadie malinterprete
      B
 pero hay que sobrevivir.
-
 
 ```
 **Estribillo**
@@ -88,7 +88,6 @@ G --6/8--------------------------/10--------------------------|
 D ------------------------------------------------------------|
 A ------------------------------------------------------------|
 E ------------------------------------------------------------|
-
 
        B          F#
 Oh, Adiós mundo cruel,

@@ -1,4 +1,11 @@
 # Tonight tonight
+
+Artista: Smashing pumpkins
+
+| Tonalidad | Afinación      | Compás | Capo |
+| --------- | -------------- | ------ | ---- |
+|           | 1/2 tono abajo | 4/4    | 4    |
+
 ```
  eb|---------------------------------|
  Bb|--0-----0---------0-----0--------|
@@ -6,7 +13,6 @@
  Db|---------------------------------|
  Ab|-3----3-----3----5-----5----5----|
  Eb|---------------------------------|
-
 
 [Fig. 2]
 
@@ -16,7 +22,6 @@
  Db|---------------------------------|
  Ab|-7----7-----7---10----10---10----|
  Eb|---------------------------------|
-
 
  **Intro**
 
@@ -30,7 +35,6 @@
  C  G  D  G
 
  Fig. 1 x2 (before vox)
-
 
 **Estrofa**
 
@@ -50,7 +54,6 @@
        Am                    C        Cadd9 G/B  D     Cadd9 G/B  D
  We're not the same, we're different toniiiiiiiiiiiIIIight.
 
-
 **Estribillo**
 
  Cadd9 G/B D    Em           Am
@@ -58,12 +61,10 @@
  Cadd9   G/B  D   Cadd9 G/B D     G
  ToniiiiiiiiiiiIIIight,        tonight
 
-
 **Instrumental**
 
  G
  Em
-
 
 **Estrofa**
 
@@ -84,7 +85,6 @@ Fig. 1    Fig.1         Fig.1       G  D/F#    Em
  In the resolute urgency of now
          Am                  C           Cadd9  G/B   D     Cadd9  G/B  D
  And if you believe there's not a chance toniiiiiiiiiiiIIIight.
-
 
 **Estribillo**
 
@@ -107,7 +107,6 @@ Fig. 1    Fig.1         Fig.1       G  D/F#    Em
  The impossible is possible tonight (tonight)
     Am (single strum) C (single strum)     Fig. 1
  Believe in me as I believe in you.... tonight.
-
 
 [Outro]
 
