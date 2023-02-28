@@ -1,93 +1,97 @@
 # Todo a cien
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 2    |
+
 **Estrofa**
 ```
-Gm  D#  F  Gm
+Em  C  D  Em
 ```
 **Estrofa**
 ```
-Gm
+Em
 Puedes pedirme la luna que locura fijo que te traigo un queso
-                Cm
+                Am
 puedes pedirme amore que dolor al precio que está la carne
-Gm
+Em
 me conformo con un beso.
 ```
 **Estrofa**
 ```
-      D#
+      C
 Ni tu eres la princesa de este cuento
-           F                           Gm
+           D                           Em
 ni a besos vas a convertirme en rana.
 ```
 **Estrofa**
 ```
-               Cm                  Gm
+               Am                  Em
 Es poco lo que tengo, el oro de mi tiempo
-                  D5                      Gm
+                  B                      Em
 la flor de mis neuronas y por supuesto la luna,
-               Cm                  Gm
+               Am                  Em
 es poco lo que tengo, el oro de mi tiempo
-                  D5    F                 Gm
+                  B    D                 Em
 la flor de mis neuronas y por supuesto la luna.
 
 ```
 **Estrofa**
 ```
 
-        Cm
-Ya hace tiempo que se
-                               Gm
+        Am
+Y  hace tiempo que se
+                               Em
 que el mundo no es mío ni mi hogar
-                         D5
+                         B
 paso por la vida al alquiler
-               Gm
+               Em
 de turismo sexual.
-      D#
+      C
 Si la vida es una orgía
-                  A#
+                  G
 yo voy de paja mental
-        D#
+        C
 tiriti traun traun traun.
 ```
 **Estrofa**
 ```
-               Cm                  Gm
+               Am                  Em
 Es poco lo que tengo, el oro de mi tiempo
-                  D5                      Gm
+                  B                      Em
 la flor de mis neuronas y por supuesto la luna,
-               Cm                  Gm
+               Am                  Em
 es poco lo que tengo, el oro de mi tiempo
-                  D5    F                 Gm
+                  B    D                 Em
 la flor de mis neuronas y por supuesto la luna.
 ```
 **Estrofa**
 ```
-               D#
+               C
 Es poco lo que tengo
-             A#
+             G
 el oro de mi tiempo
-                  F
+                  D
 la flor de mis neuronas
-                  Gm
+                  Em
 y por supuesto la luna.       [x2]
 ```
 **Estrofa**
 ```
-D#  A#  F  Gm       (x2)
+C  G  D  Em       (x2)
 ```
 **Estrofa**
 ```
-               D#
+               C
 Es poco lo que tengo
-             A#
+             G
 el oro de mi tiempo
-                  F
+                  D
 la flor de mis neuronas
-                  Gm
+                  Em
 y por supuesto la luna.
 ```
 **Estrofa**
 ```
-D#  A#  F  Gm
+C  G  D  Em
 ```
