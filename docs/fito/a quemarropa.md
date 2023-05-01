@@ -24,7 +24,6 @@ Como una señal
             G
 que a todo responde
 
-
 [Pre-chorus]
 
 F          G                 Am
@@ -33,7 +32,6 @@ Dm         G        Am
   Y se llenó de mariposas todo el horizonte
 F       G
   Ohhhhhhhhh
-
 
 **Estribillo**
 
@@ -54,11 +52,9 @@ Si a quemarropa me disparan, me disparan, me disparan
                F            G          Am
 Y a quemarropa me disparan, me dispararán
 
-
 [Interlude]
 
 Am F x2
-
 
 [Verse 2]
 
@@ -75,7 +71,6 @@ La vida es el mar
               G
 que todo lo esconde
 
-
 [Pre-chorus]
 
 F                   G
@@ -86,7 +81,6 @@ Dm          G              Am
   Y aprenderás a ser guardián de todo lo que importe
 F       G
   Ohhhhhhhhh
-
 
 **Estribillo**
 
@@ -107,14 +101,12 @@ Si a quemarropa me disparan, me disparan, me disparan
                F            G          Am
 Y a quemarropa me disparan, me dispararán
 
-
 [Solo]
 
 F  G Am Am
 C  C G  G
 Dm F Am Am
 F  G Am Am
-
 
 [Bridge]
 
@@ -134,7 +126,6 @@ tampoco tan diferentes
 Y no te creas todo lo que piensas
 G             Am
 pero piensa todo siempre
-
 
 **Estribillo**
 

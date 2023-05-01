@@ -2,12 +2,7 @@
 
 ```
 **Intro**
-G C9 C9    G C9 C9     G C9 C9    G C9 C9
-Acustic guitar           & Distorsion
-
-G C9   G C9   G C9   G C9   G C9   G C9   G C9   G C9
-          & Saxo
-
+D Am7 G/B C7+
 
 [Verse 1]
 G            D                C                        G     G
@@ -16,11 +11,10 @@ G               D                      C                       G
  con tu sucia camisa  y en lugar de sonrisa, una especie de mueca.
         C              G                     Bm                    Am
 (g a b)  ¿Como no imaginarte?  ¿Como no recordarte?  Hace apenas 2 años,
-        C                   G                   Bm
+        C7                   G                   Bm7
 (a b c)  Cuando eras la princesa  de la boca de fresa,
                       F                 D     D
 Cuando tenías aún esa forma  de hacerme daño.
-
 
 **Estribillo**
 G             C                                 D     D
@@ -42,7 +36,6 @@ G                D                    C                     G
                F                       D      D
 Porque tu me pidieras  llevarte el equipaje?
 
-
 **Estribillo**
 G             C                                D     D
  Ahora es demasiado tarde                 princesa.
@@ -57,7 +50,6 @@ G             C                                 D     D
 Búscate a otro perro; que te ladre                  princesa.
                     (buscate otro pero que te ladre princesa)
 
-
 [Verse 3]
 G                    D                      C                      G     G
  Tú que sembraste en todas  las islas de la moda  las flores de tu gracia.
@@ -69,7 +61,6 @@ G               D                      C                        G
 (a b c)  Sigue con tus movidas nena,  pero no pidas;
                F                 D     D
 Que me pase la vida  pagándote fianzas.
-
 
 [Outro]
 G             C                                D     D
@@ -90,7 +81,6 @@ G             C                                 D     D
      G               C                                    D     D
 Búscate a otro perro;  que te ladre                  princesa.
                     (buscate otro pero que te ladre princesa)
-
 
 **Instrumental**
 C G D G      C G D G

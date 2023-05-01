@@ -4,8 +4,6 @@
 | ------------ | ------ | ------ | ---- |
 | Do mayor     | 63 bpm |        | No   |
 
-<p style="color:red">Estrofa</p>
-
 ```
 A
        A
