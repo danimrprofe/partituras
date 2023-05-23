@@ -1,13 +1,13 @@
 # Caminos secundarios
 
 ```
-[Intro]
+**Intro**
 G
 Am C G G
 Am C D D
 G G
- 
-[Verse]
+
+**Estrofa**
 G
 Vuelvo, conduzco yo, llego a casa hoy.
                 Em   Am           Em          D
@@ -20,20 +20,20 @@ C                                       G
 Vengo arrastrando los días y el alma por las carreteras de dios
 C                                  A                D
 La mala vida que tuve me tienta con luces que dicen Stop
- 
-[Chorus]
+
+**Estribillo**
         C   G     C       G
 Caminos secundarios, carga ilegal
        C       G        D
 Los controles quiero evitar
         C      G  C    G     C    D     G
 Cuando llegue a casa tu estarás dormida en el sofá.
- 
+
 [Solo]
 Am C G G
 Am C D D
- 
-[Verse]
+
+**Estrofa**
 G
 Me busca todo el país debo salir de aquí
                 Em
@@ -46,8 +46,8 @@ C                                   G
 Si yo pudiera cruzar la frontera y llevarte conmigo esta vez
 C                                 A                D
 Abandonar la sirenas las noches en vela dejar de correr
- 
-[Chorus]
+
+**Estribillo**
         C   G     C       G
 Caminos secundarios, carga ilegal
         C      G       D

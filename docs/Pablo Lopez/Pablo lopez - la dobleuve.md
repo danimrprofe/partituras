@@ -7,9 +7,11 @@ F#m       C#     F#m
 Se va, se va, se va
   C#m        D
 Se va y no vuelve
+
 ```
 **Estribillo**
 ```
+
 F#m   C#m        D    E
 uoooh ooooh uoooooh ooooh
 F#m   C#m       D    E
@@ -51,9 +53,11 @@ Bm                F#m
 Que lo que se va, se va
 Bm                 F#m
 Se va y no vuelve no
+
 ```
 **Estribillo**
 ```
+
 Bm    D              F#m         C#m
 uoooh ooooh uoooo No vuelve, no vuelve
 Bm    D              F#m         C#m
@@ -102,9 +106,11 @@ F#m                    C#
 Alma, tiempo y vida que se va
 F#m
 No vuelve
+
 ```
 **Estribillo**
 ```
+
 Bm    D              F#m         C#m
 uoooh ooooh uoooo No vuelve, no vuelve
 Bm    D              F#m         C#m

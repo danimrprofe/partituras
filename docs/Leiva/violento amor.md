@@ -29,13 +29,13 @@ es una estrella,
   Em        C              D    G D D
 ¿Qué has venido a hacer aquí?.
 
-[Chorus]
+**Estribillo**
    Em   C     G   D
 No sigo tu velocidad
      Em     D/F#      G         D
 siempre me quedo atrá aaha aaaha.
 
-[Instrumental]
+**Instrumental**
 G D C
 G D C
 
@@ -59,7 +59,7 @@ era una estrella,
 Em        C         D     G D D
 ya se largaba de aquí.
 
-[Chorus]
+**Estribillo**
    Em   C     G   D
 No sigo tu velocidad
      Em    A5       G         D
@@ -79,11 +79,11 @@ Am                  C
  Em       D    C         Cm
 amor de verano     oooh
 
-[Instrumental]
+**Instrumental**
 G
 Em C D G D
 
-[Chorus]
+**Estribillo**
   Em     C     G   D
 Estoy bastante regular
    Em        D/F#   G    D

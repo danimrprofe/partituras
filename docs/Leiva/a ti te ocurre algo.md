@@ -1,4 +1,4 @@
-# 11 A ti te ocurre algo
+# A ti te ocurre algo
 
 | 🎸Tonalidad        | Tempo   | Compás | Capo |
 | ----------------- | ------- | ------ | ---- |
@@ -8,7 +8,6 @@
 ```
 G  D-C D x4
 ```
-
 **Estrofa**
 ```
 D           G             D     C          D       G    D C
@@ -20,7 +19,6 @@ D           G       D    C     D         G     D C
 D     G         D           C          D      G      D C   Cmaj7
    Hacía rato que no armaba   este pequeño desastre
 ```
-
 **Pre-estribillo**
 ```
 C                          D
@@ -31,9 +29,11 @@ C                          D
 Y esto sólo es un intento más
 Am/G       D     G D
 Para seducirte
+
 ```
 **Estribillo**
 ```
+
                C     D                Em
 A ti te ocurre algo,   son demasiadas veces
 D               C   D            G    C-G
@@ -77,9 +77,11 @@ C                          D
    Y esto sólo es un intento más
         Am/G D     G-D
    Para seducirte
+
 ```
 **Estribillo**
 ```
+
                C     D                Em
 A ti te ocurre algo,   son demasiadas veces
 D               C   D            G    C-G
@@ -138,7 +140,7 @@ Oh, oh-oh, oh-oh
 C
 Oh, oh-oh, ohhh
 ```
-**Final**
+## Final
 ```
 D G     D C
                   D       G            D  C

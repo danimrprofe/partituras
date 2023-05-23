@@ -1,4 +1,4 @@
-# 02 Superpoderes
+# Superpoderes
 
 | Tonalidad                   | Tempo  | Compás | Capo |
 | --------------------------- | ------ | ------ | ---- |
@@ -23,9 +23,11 @@ Se derrumba en un segundo, o desaparece
 Y es lo que ves, casi todo puede suceder
   G       A
 Y es difícil saber que
+
 ```
 **Estribillo**
 ```
+
 Bm                 A           D          G
 Siempre, siempre, siempre, siempre vas a perder
 D               A               D
@@ -70,5 +72,3 @@ AA  AA AAAAH    AA  AA AAAAH
 ```
 
 **REPETIR ESTRIBILLO**
-
-<div style="page-break-after: always;"></div>

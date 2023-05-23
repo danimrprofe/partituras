@@ -6,7 +6,6 @@
 | --------- | ----- | ------ | ---- |
 | Re Mayor  | X bpm | 4/4    | No   |
 
-
 **Estrofa**
 
 ```
@@ -37,7 +36,7 @@ nunca nadie supo la verdad.
 
 ```
           G                           A
-Que los vientos no traigan siempre un nudo en la garganta 
+Que los vientos no traigan siempre un nudo en la garganta
      Bm              D
 para ya, ya, ya, ya, ya
 G                      D
@@ -50,7 +49,7 @@ que te vas a quedar sin nada
 pidelo bien.
 
 D                   D
-uooh oooh oooh  ooh uooh oooh oooh  ooh  
+uooh oooh oooh  ooh uooh oooh oooh  ooh
 ```
 **Estrofa**
 ```
@@ -75,11 +74,11 @@ A/C#     G                       A
 hay una luuuuuuz, viene hacia aquí
           D
 cogela al vuelo
-``` 
+```
 **Estribillo**
 ```
           G                           A
-Que los vientos no traigan siempre un nudo en la garganta 
+Que los vientos no traigan siempre un nudo en la garganta
      Bm              D
 para ya, ya, ya, ya, ya
 G                      D

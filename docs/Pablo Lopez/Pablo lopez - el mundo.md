@@ -1,7 +1,13 @@
 # El mundo
 
+<<<<<<< HEAD
 [Intro]
 ```
+=======
+## El mundo
+```
+**Intro**
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 C#m E C#m E
 ```
 **Estrofa**
@@ -25,9 +31,11 @@ Y no quisiera yo darle la espalda
 Tampoco suplicarle que me espere
 
 
+
 ```
 **Estribillo**
 ```
+
                 A    B          C#m
 Y si mañana no queda más que un Ángel
                 A    B     C#m    G#m
@@ -53,9 +61,11 @@ Y por la boca mueren nuestras almas
 Jugando a ser amantes inocentes
 
 
+
 ```
 **Estribillo**
 ```
+
                 A    B          C#m
 Y si mañana no queda más que un Ángel
                 A    B     C#m    G#m

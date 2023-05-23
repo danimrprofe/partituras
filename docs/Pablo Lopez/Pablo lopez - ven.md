@@ -1,7 +1,7 @@
 # Ven
 
 ```
-[Intro]
+**Intro**
 
 Eb
 ```
@@ -22,9 +22,11 @@ Que el sol empieza a sospechar de mí
 Bb
 Maldita luz
 
+
 ```
 **Estribillo**
 ```
+
 
 Eb
 Si vienes hoy te dejaré
@@ -51,9 +53,11 @@ Capricho idiota o forma de vivir
 Ab
 Quimera de las madrugadas
 
+
 ```
 **Estribillo**
 ```
+
 
 Eb
 Si vienes hoy te dejaré
@@ -87,9 +91,11 @@ Qué extraaaño es vivir
 Si vienes, si vieneeeeeeees
 
 
+
 ```
 **Estribillo**
 ```
+
 
 Eb
 Si vienes hoy te dejaré

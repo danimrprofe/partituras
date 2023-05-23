@@ -84,9 +84,17 @@ G                               Am       G
   Puedes dejar de disparar Para ya
 F                                          C                                  G
   Puedes sentir por dentro un nudo extraño   Puedo jurarte que no paro de gritar
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
          C
 Tú dabas un pequeño salto mortal
     F
@@ -108,9 +116,17 @@ La zona nuclear
 **Instrumental**
 ```
 A##  G  F A  Dm  G  A## A  G
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
          C
 Tú dabas un pequeño salto mortal
     F

@@ -1,6 +1,6 @@
 ## No vuelven
 ```
-[Intro]
+**Intro**
 Em C7 G D
 
 [Verse 1]
@@ -17,7 +17,7 @@ y sentirme el líder de la emoción
                              D
 con aquel discurso adolescente.
 
-[Chorus]
+**Estribillo**
 Cadd9                                G
 Yo tuve una banda que ahora es vuestra,
                                       Am
@@ -60,7 +60,7 @@ llega el ego, la envidia y nos parte en dos,
                                    D
 desde entonces sé que esto no vuelve.
 
-[Chorus]
+**Estribillo**
 
 Cadd9                                G
 Yo tuve una banda que ahora es vuestra,
@@ -94,7 +94,7 @@ no vuelve, no
            EmM9
 no vuelve, no
 
-[Instrumental]
+**Instrumental**
 Em G6/E Em9 Emmaj9
 
 [Outro]
@@ -106,5 +106,5 @@ no vuelve, no
 no vuelve, no
 Cadd9
      y sólo queda la canción.
-    
+
 ```

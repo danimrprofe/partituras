@@ -1,11 +1,14 @@
 # Aunque tú no lo sepas
 
+Canción compuesta por Quique gonzáles para Enrique Urquijo
+
+**Intro**
 ```
-[Intro]
 C       D
 C       D       C       D
-
-[Verse 1]
+```
+**Estrofa**
+```
 G                     Em        C                      D
      Aunque tu no lo sepas          Me he inventado tu nombre
 G                   Em          C                      D
@@ -14,8 +17,6 @@ C                     D                         G        G/F#        Em
    Aunque tu no lo entiendas,          Nunca escribo el remite en el sobre
 C       D                   C       D
      Por no dejar mis huellas.
-
-[Verse 2]
 
 G                    Em         C                       D
      Aunque tu no lo sepas        Me he acostado a tu espalda
@@ -26,8 +27,6 @@ C                    D                      G          G/F#     Em
 C       D                C      D
 •••••••     De que ya nunca estabas
 C       D
-
-[Verse 3]
 
 G                       Em      C                 D
    Y aunque tu no lo sepas          Nos deciamos tanto,

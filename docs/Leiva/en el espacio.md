@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # 07 En el espacio
 
+=======
+# En el espacio
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 
 | 🎸Tonalidad | Tempo | Compás | Capo |
 | ---------- | ----- | ------ | ---- |
@@ -19,9 +23,17 @@ Tú solo mueve los brazos, Que yo te curo allá a fuera
 Ya no se sienten tus pasos Y se nos doblan las piernas
              G                         Am
 Ya que has subido bien alto, no te me caigas de vuelta
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
           F            G
 Eres lo único que veo entre la niebla
     F                 C
@@ -52,9 +64,17 @@ Yo estaba en la furgoneta
 Llegando al barrio con Juancho
             Am
 Después de días de guerra
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
           F            G
 Eres lo único que veo entre la niebla
     F                 C
@@ -71,7 +91,11 @@ Nanana na na na na na na na
 C            F
 Nanana na na na na na na na
 ```
+<<<<<<< HEAD
 **Final**
+=======
+## Final
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 ```
           C             F
 Eres lo único que veo entre la niebla

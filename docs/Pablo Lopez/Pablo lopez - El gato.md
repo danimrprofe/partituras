@@ -80,9 +80,17 @@ De mi boca felina
 Yo te engaño, Te robo los días, Te ensucio las manos, Me escondo y me pierdo
                Gbm      E          B         A      Ab
 Me vuelvo un extraño sin alma, Culpable que huye del sol
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
        Db                     Ab        F            Bbm
 Y defendí tu vergüenza en los bares, dormí en los portales
           Gb             Db

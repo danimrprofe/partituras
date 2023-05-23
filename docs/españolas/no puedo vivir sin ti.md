@@ -1,11 +1,14 @@
 # No puedo vivir sin ti
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
 
 ```
-[Intro]
+**Intro**
 C  C  E7  E7  F  F  E7  G7add13
 
-[Verse]
+**Estrofa**
        C
 Llevas años enredada en mis manos,
           E7
@@ -19,7 +22,7 @@ De tu pelo, de tus rarezas,
      F              E7      G7add13
 Pero quiero más, yo quiero más.
 
-[Chorus]
+**Estribillo**
            C
 No puedo vivir sin ti,
          E7
@@ -29,10 +32,10 @@ No puedo estar sin ti,
          E7 G7add13 C
 No hay manera.
 
-[Instrumental]
+**Instrumental**
 C  C  E7  E7  F  F  E7  G7add13
 
-[Verse]
+**Estrofa**
                  C
 Me dijiste que te irías,
                         E7
@@ -46,7 +49,7 @@ Eres la reina,
 F                  E7     G7add13
 Siempre reinarás, siempre reinarás.
 
-[Chorus]
+**Estribillo**
            C
 No puedo vivir sin ti,
          E7
@@ -56,10 +59,10 @@ No puedo estar sin ti,
          E7 G7add13 C
 No hay manera.
 
-[Instrumental]
+**Instrumental**
 C  C  E7  E7  F  F  E7  G7add13
 
-[Verse]
+**Estrofa**
 
 Y ahora estoy aquí esperando a que vengan a buscarme,
 Tú no te muevas,
@@ -68,7 +71,7 @@ Yo me quedo para siempre con mi reina y su bandera,
 Ya no hay fronteras,
 Me dejaré llevar a ningún lugar.
 
-[Chorus]
+**Estribillo**
            C
 No puedo vivir sin ti,
          E7

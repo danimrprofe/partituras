@@ -19,10 +19,12 @@ Un impulso vital, una mirada espacial Me atropellas sin corazón, en toda la raz
 **Pre-estribillo**
 ```
          F                   G                    F                          G
-No te ensañes conmigo, no decidas por mi, no te agarres a mi cuerpo que te crece la nariz      
+No te ensañes conmigo, no decidas por mi, no te agarres a mi cuerpo que te crece la nariz
+
 ```
 **Estribillo**
 ```
+
        C                      C
 Tengo miedo, miedo, miedo, miedo,
       F                           C
@@ -35,7 +37,7 @@ pero tú por favor...no me tengas miedo
 C Am7 G
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estrofa**
 ```
@@ -57,10 +59,8 @@ Pararara pararara, Pararara pararara Pa pa pa parabara, paaa.....
 ```
 **Repite estribillo**
 
-**Final**
-```       
+## Final
+```
 F             C
  no me tengas miedo x3
 ```
-<div style="page-break-after: always;"></div>
-

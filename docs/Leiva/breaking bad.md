@@ -1,7 +1,9 @@
 # Breaking Bad
 
 
-Sin capo
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
 
 **Intro**
 ```
@@ -38,7 +40,7 @@ Am                                                         D
 
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estribillo**
 ```
@@ -74,9 +76,11 @@ Am                                                         D
 Ábreme los ojos, lánzame a las vías, sácame de esta oscuridad
 
 
+
 ```
 **Estribillo**
 ```
+
                    C                            G
 Solo pretendo ser yo. Lo haré por una vez en la vida
                 Bm                               Em

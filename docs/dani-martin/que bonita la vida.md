@@ -1,4 +1,4 @@
-## Que bonita la vida
+# Que bonita la vida
 
 ```
 Intro: G B7 Em C Dsus4 D
@@ -111,3 +111,4 @@ Que te trata de usted para luego arroparte
 Te hace sentir valiente otras tantas don nadie
                C   D
 Que bonita la vida.
+```

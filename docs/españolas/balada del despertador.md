@@ -1,5 +1,7 @@
 # Balada del despertador
 
+Artista: La fuga
+
 **Intro**
 ```
 G | C D | G  | C D
@@ -45,14 +47,12 @@ cuando no hay espinas pa? cenar
 C                   G
    y en la mesa comen dos
 
-
                   Em
 y la fiesta sigue en el salon
                   D
 la luna nos pillo bailando
 C
    la balada del despertador?
-
 
 G                  D
    y deja q yo apague la luz
@@ -76,7 +76,7 @@ cuando escondido estoy
 bajo el edredón; pegate a mi?.
 
 ```
-**Final**
+## Final
 ```
 G | D | G | D
 Am |Em | Am | Dm

@@ -1,5 +1,5 @@
 
-## La suerte de mi vida
+# La suerte de mi vida
 
 Afinación medio tono bajo
 
@@ -31,7 +31,7 @@ que en esta vida ya no quiero otros besos
 y cada dia tu me das tu total.
 
 
-[Chorus]
+**Estribillo**
      A                            Bm
 Y pienso que si no existes yo me muero,
                             D                          A   E
@@ -63,7 +63,7 @@ que en esta vida ya no quiero otros besos
 y cada día tu me das tu total.
 
 
-[Chorus]
+**Estribillo**
      A                            Bm
 Y pienso que si no existes yo me muero,
                             D                          A   E
@@ -83,7 +83,7 @@ Ab|------------------------------------------------------|
 Eb|------------------------------------------------------|
 
 
-[Chorus]
+**Estribillo**
   A                            Bm
 Y voy, a darte mi alma y mi verdad,
                          A                               E
@@ -95,3 +95,4 @@ Y voy, a mirarte, a morirme y a luchar,
 llorar de alegria y quererte aún más,
                              E       F#m
 que tu eres la suerte de mi vida.
+```

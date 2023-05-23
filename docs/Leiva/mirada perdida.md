@@ -28,9 +28,11 @@ Lo siento pero no, no puedes hacerlo
 No pierdas el tiempo, ya va a venir la hora de los leones
 Dm                G
 No hay porqué seguir
+
 ```
 **Estribillo**
 ```
+
                  C      F              C
 Con los ojos en llamas y la mirada perdida
 Am                  F          Em            G
@@ -40,9 +42,11 @@ Llueven besos de esos que van y te quitan la vida
 ```
 Am F C
 A C Fm C
+
 ```
 **Estribillo**
-```                C     F               C
+```
+                C     F               C
 Con los ojos en llamas y la mirada perdida
 Am                  F         G                              F
  Llueven besos de esos que van y te quitan la vida
@@ -81,7 +85,7 @@ Am                  F         G               F    G
                    F    G                        C*
 .. y te quitan la vida.. ohhhh, y te quitan la vida
 ```
-**Final**
+## Final
 ```
 C F C F G
 F G C

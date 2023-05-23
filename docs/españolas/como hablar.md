@@ -1,10 +1,14 @@
 # Como hablar
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
+
 ```
-[Intro]
+**Intro**
 A G D A
 
-[Verse]
+**Estrofa**
           A                    G
 Si volviera a nacer, si empezara de nuevo
       D                     A
@@ -34,7 +38,7 @@ A veces te mataría, y otras en cambio te quiero comer
            G
 Ojillos de aguamarina
 
-[Chorus]
+**Estribillo**
      D               F#                   Bm
 Como hablar, si cada parte de mi mente es tuya
         G                    D            F#
@@ -44,7 +48,7 @@ Como decirte que me has ganado poquito a poco
         G                D           F#
 Tu que llegaste por casualidad, como hablar
 
-[Verse]
+**Estrofa**
         A                       G
 Como un pÃ¡jaro de fuego que se muere en tus manos
     D                 A
@@ -54,7 +58,7 @@ La radio sigue sonando, la guerra ha acabado
             G                A
 Pero las hogueras no se han apagado aun
 
-[Chorus]
+**Estribillo**
      D               F#                   Bm
 Como hablar, si cada parte de mi mente es tuya
         G                    D            F#
@@ -64,7 +68,7 @@ Como decirte que me has ganado poquito a poco
         G                D           F#
 Tu que llegaste por casualidad, como hablar
 
-[Instrumental]
+**Instrumental**
 A G D A
 A G D A
 

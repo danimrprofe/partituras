@@ -1,6 +1,5 @@
 # Las cuentas
 
-
 **Información**
 
 | Tonalidad | Tempo | Compás | Capo |
@@ -29,9 +28,11 @@ de disparar sin adornos.
 Prenderé fuego al colchón,
        F#m         E      D
 que reventó nuestros otoños.
+
 ```
 **Estribillo**
 ```
+
            A          E          D   (D*)
 ¿Por qué no existen tumbas de dos?,
            A          E          D   (D*)
@@ -44,8 +45,6 @@ queremos lo que envenena.
 Y así nunca, nos salen las cuentas.
 
 ```
-
-<div style="page-break-after: always;"></div>
 
 **Solo**
 ```
@@ -69,9 +68,11 @@ de rematar sin adornos.
 Me agarré a la inspiración,
          F#m     E       D
 que me dejó nuestros demonios.
+
 ```
 **Estribillo**
 ```
+
            A          E          D   (D*)
 ¿Por qué no existen tumbas de dos?,
            A          E          D   (D*)
@@ -83,14 +84,15 @@ queremos lo que envenena.
          E                    A
 Y así nunca, nos salen las cuentas.
 
-
 ```
 **Solo 2**
 ```
 F       C       Bm       E
+
 ```
 **Estribillo**
 ```
+
            A          E          D   (D*)
 ¿Por qué no existen tumbas de dos?,
            A          E          D   (D*)

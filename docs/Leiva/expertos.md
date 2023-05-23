@@ -42,9 +42,11 @@ Te oí decir que te daba respeto, adelantar el final
 Oías voces y te notaba tan mal
 Bm                     E               A      D   A
 Nunca le llegamos a dar demasiada importancia
+
 ```
 **Estribillo**
 ```
+
   D     E                D      E
 Y túuuu uu caminas de espaldaaaaaas
    D                 E
@@ -104,5 +106,5 @@ Bm              E            A      D
 **Solo**
 ```
 A  D        A  D  A
-   Oh uh oh oh 
+   Oh uh oh oh
 ```

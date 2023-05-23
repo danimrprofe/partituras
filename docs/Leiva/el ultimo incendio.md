@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 
 # El Último Incendio
 
 En la parte de "quizá pueda despegar...":
+=======
+# El último incendio
+
+En la parte de "quizá pueda despegar...":
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 - Para el acorde Am, jugar a levantar el dedo 3.
 - Para el acorde D, jugar a poner el dedo 4 en traste 3 de primera cuerda.
 
@@ -29,9 +36,17 @@ cuando ya no esté esperando nunca nada
       Am                    D
 quizá pueda despegar, pueda despegar
 
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
            Em                      G
 cuando el tiempo se clava en mi garganta
         C      D      G
@@ -57,9 +72,17 @@ cuando este hecho mierda solo dios dirá
 si con todas las cartas marcadas
       Am                    D
 quizá pueda despegar, pueda despegar
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
            Em                      G
 cuando el tiempo se clava en mi garganta
         C      D      G

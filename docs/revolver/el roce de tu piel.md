@@ -1,10 +1,17 @@
 # El roce de tu piel
 
 ```
+<<<<<<< HEAD
 [Intro]
 G    C    Em    D  C Em Am (x2)
 
 [Verse]
+=======
+**Intro**
+G    C    Em    D  C Em Am (x2)
+
+**Estrofa**
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
    G
 Un vaso de whisky, un hotel diferente
    Em
@@ -22,7 +29,11 @@ Son las seis de la tarde, toco enfrente del puerto
       C               D                  C
 no consigo sacarte de mí ni olvidarme de ti.
 
+<<<<<<< HEAD
 [Chorus]
+=======
+**Estribillo**
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
                 G             D                  Am   C
 Y es que no hay droga más dura que el amor sin medida
               G             D                      C  D
@@ -32,10 +43,17 @@ Y es que no hay nada mejor que tener tu sabor corriendo por mis venas
 Am          D                 G
 nada mejor que el roce de tu piel
 
+<<<<<<< HEAD
 [Instrumental]
 G    C    Em    D
 
 [Verse]
+=======
+**Instrumental**
+G    C    Em    D
+
+**Estrofa**
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
      G
 Y me siento desnudo enfrente del espejo
               Em
@@ -53,7 +71,11 @@ El ritmo de la noche viste mi cancion,
   C                        D         C   D
 mejor cojo mis cosas, nena, mejor me voy.
 
+<<<<<<< HEAD
 [Chorus]
+=======
+**Estribillo**
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
                 G             D                  Am   C
 Y es que no hay droga más dura que el amor sin medida
               G             D                      C  D
@@ -73,7 +95,11 @@ Hoy se perdio el equilibrio
        Am               C             D
 Y la balanza cayó de tu lado, mi amor.
 
+<<<<<<< HEAD
 [Instrumental]
+=======
+**Instrumental**
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G    C    Em    D  (x2)
 
 [Bridge]
@@ -86,7 +112,11 @@ Hoy se perdio el equilibrio
        Am               C             D
 Y la balanza cayó de tu lado, mi amor.
 
+<<<<<<< HEAD
 [Chorus]
+=======
+**Estribillo**
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
                 G             D                  Am   D
 Y es que no hay droga más dura que el amor sin medida
               G             D                      C  D
@@ -94,5 +124,10 @@ Es que no hay droga más dura que el roce de tu piel.
                 Em                   D          G               C
 Y es que no hay nada mejor que tener tu sabor corriendo por mis venas
 Am          D                 G
+<<<<<<< HEAD
 nada mejor que el roce de tu piel.
 ```
+=======
+nada mejor que el roce de tu piel
+```
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5

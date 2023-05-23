@@ -9,7 +9,7 @@ Versión acústica:
 
 https://www.youtube.com/watch?v=w8Yakp5fh1E
 
-**Estrofa** 
+**Estrofa**
 ```
 A        C#m   F#m     D
 Luces, vértigos, pequeña agonía,
@@ -24,7 +24,7 @@ A                E/G#      D            A           Bm
 Se ha roto algo por dentro, soy una historia mas en la ciudad
      E      F#m     E    D     A
 y yo se que tu también estas así
-``` 
+```
 **Estrofa**
 ```
 A        C#m           F#m       D
@@ -40,9 +40,9 @@ A                E/G#      D            A           Bm
 Se ha roto algo por dentro, soy una historia mas en la ciudad
      E      F#m     E    D     A
 y yo se que tu también estas así
-``` 
+```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estribillo**
 ```

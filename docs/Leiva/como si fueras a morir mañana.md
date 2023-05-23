@@ -1,8 +1,8 @@
 # Como si fueras a morir mañana
 
-| 🎸Tonalidad | Tempo | Compás | Capo |
-| ---------- | ----- | ------ | ---- |
-|            | bpm   | 4/4    | 1    |
+| 🎸Tonalidad | Tempo   | Compás | Capo |
+| ---------- | ------- | ------ | ---- |
+| Mib Mayor  | 144 bpm | 4/4    | 1    |
 
 
 **Intro**
@@ -30,9 +30,11 @@ D                             A
 Fuimos demasiado lejos, y ninguno se cubrió la espalda
 A
 ¡Ah, ah, ah!
+
 ```
 **Estribillo**
 ```
+
   G             A                Bm
 ¡Hazlo! Como si ya no te jugaras nada
          A                G

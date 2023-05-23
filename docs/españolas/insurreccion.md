@@ -1,9 +1,10 @@
 # Insurrección
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 1    |
+
 ```
-
-
-(CEJILLA 1º TRASTE)
 
 Intro G  C x2
 

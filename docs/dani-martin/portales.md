@@ -1,4 +1,4 @@
-## Portales
+# Portales
 
 | Tonalidad | Tempo | Compás | Capo |
 | --------- | ----- | ------ | ---- |
@@ -7,10 +7,10 @@
 **Intro**
 ```
 
-[Intro]
+**Intro**
 G
 
-[Verse]
+**Estrofa**
              G              D/F#             Em             B7
 Robarte los besos. Desnudarte aquí. Tú Yoko, yo Lennon. Suena Let It Be
                 C                   Cm         G              D           G
@@ -20,32 +20,32 @@ Borrachos de celos. Me pego por ti. Llevas la camisa que aún huele a mi
                 C                   Cm      G             D          G
 Que no acabe esto, que se quede así. Y que tengas tantas cosas que decir
 
-[Chorus]
+**Estribillo**
        G                            B7
 Y que queden tantas tardes de escondernos en portales
       Em                     C          D
 De comernos arrancándonos a besos las edades
-      G                          B7        
+      G                          B7
 Y volver a hacer las paces por semanas sin hablarme
      Em                      C            D
 Y acabar nuestro domingo follando como animales
 
-[Verse]
+**Estrofa**
              G              D/F#             Em             B7
 Llenarnos de miedos Quererme morir ¿Qué es esto que siento? Strawberry Fields
-              C                  Cm 
+              C                  Cm
 Pegado aquí dentro tan dentro de mi
              G              D/F#             Em             B7
 Que no existan versos Para describir Portales eternos Que no tengan fin
                C                 Cm         G            D           G
 Que precioso cuento Que no pare aquí Y que tenga tantas cosas Que decir
 
-[Chorus]
+**Estribillo**
        G                            B7
 Y que queden tantas tardes de escondernos en portales
       Em                     C          D
 De comernos arrancándonos a besos las edades
-      G                          B7        
+      G                          B7
 Y volver a hacer las paces por semanas sin hablarme
      Em                      C            D
 Y acabar nuestro domingo follando como animales
@@ -54,12 +54,12 @@ Y acabar nuestro domingo follando como animales
 G   B7   Em  Cm
 G   B7   Em  Cm
 
-[Chorus]
+**Estribillo**
        G                            B7
 Y que queden tantas tardes de escondernos en portales
       Em                     C          D
 De comernos arrancándonos a besos las edades
-      G                          B7        
+      G                          B7
 Y volver a hacer las paces por semanas sin hablarme
      Em                      C            D
 Y acabar nuestro domingo follando como animales

@@ -1,7 +1,7 @@
 # Tu enemigo
 
 ```
-[Intro]
+**Intro**
 D# Cm Gm A#  Cm A# F
 
 ```
@@ -16,9 +16,14 @@ Quién viene a tu país a profanarte, quién pisa la ciudad sin tu permiso
 A#                            F   Cm       Gm
 Quién sacará tus cosas de la calle. Tu enemigo
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 ```
 **Estribillo**
 ```
+
            D#                             Gm
 Si estos idiotas supieran que yo soy el hombre
                     A#                      F
@@ -45,9 +50,14 @@ Culpable del amor trabajo y tierra
 A#                         F  Cm        D#      F
 Culpable de vivir en el camino por tu guerra  aaah
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 ```
 **Estribillo**
 ```
+
             D#                            Gm
 Si estos idiotas supieran que yo soy el hombre
                    A#                      F
@@ -63,9 +73,14 @@ Dm D#
 Cm  A#  F
 Cm  A#  F
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 ```
 **Estribillo**
 ```
+
            D#                             Gm
 Si estos idiotas supieran que yo soy el hombre
                     A#                      F

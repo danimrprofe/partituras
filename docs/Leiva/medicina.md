@@ -1,5 +1,12 @@
 # Medicina
 
+<<<<<<< HEAD
+=======
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 ```
 [Verse 1]
 D          F#m
@@ -23,7 +30,11 @@ A                D
 y voy a recordártelo
 
 
+<<<<<<< HEAD
 [Chorus]
+=======
+**Estribillo**
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G               D
 y hoy , hoy vas a despertar
 A              Bm
@@ -51,7 +62,11 @@ A           D
 y te venia grande
 
 
+<<<<<<< HEAD
 [Chorus]
+=======
+**Estribillo**
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G                 D
 y hoy , hoy vas a despertar
 A          Bm
@@ -86,7 +101,11 @@ A             D
 y te venia grande
 
 
+<<<<<<< HEAD
 [Chorus]
+=======
+**Estribillo**
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G                 D
 y hoy , hoy vas a despertar
 A          Bm
@@ -108,4 +127,8 @@ G          D
 cuando te va alcanzar
 A   G   D
 tu medicina
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5

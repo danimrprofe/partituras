@@ -29,8 +29,8 @@ dime qué vas a llevarte, dime que me llevo yo.
 ```
 **Estrofa**
 ```
-Gm | F |  Eb7 | - x2
- ```
+Gm | F |  Eb7 | - x2markd
+```
 **Estrofa**
 ```
 Gm                         F             Eb        Eb-F
@@ -49,9 +49,11 @@ vi fortunas, vi necesidades, vi quemarse todo.
 ```
 Gm               F/A        Cm                  Eb        F
 Si hoy se acaba el mundo corazón, dime qué vas a llevarte, dime que me llevo...
+
 ```
 **Estribillo**
 ```
+
 Gm             F          Eb                   Eb-F
 Vi llorar a un alma inconsolable, vi reír al miedo,
 Gm             F                Eb

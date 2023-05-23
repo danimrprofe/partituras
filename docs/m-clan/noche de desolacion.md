@@ -3,10 +3,10 @@
 capo 2
 
 ```
-[Intro]
+**Intro**
 A
- 
-[Verse]
+
+**Estrofa**
  A
 Hoy tengo el valor de desnudarme
             A7          D
@@ -23,8 +23,8 @@ D                            A
 Siento el abandono mas que antes
  E                          A
 Los días son mas largos mi sueño no.
- 
-[Chorus]
+
+**Estribillo**
       D          A    Asus4
 Oigo ruido y tormenta
        D               F#m
@@ -33,8 +33,8 @@ Las campanas de la decepción
 Como un niño aquí quédate muy cerca
  E                    A   D  A
 Esta noche de desolaciooooooón.
- 
-[Verse]
+
+**Estrofa**
  A
 Si has sentido alguna vez lo mismo
             A7     D
@@ -43,9 +43,9 @@ El cuchillo de la soledad
 No hay memoria si no hay compromiso
  E                   A
 Si cuando amanece tú no estas
- 
- 
-[Chorus]
+
+
+**Estribillo**
       D          A    Asus4
 Oigo ruido y tormenta
        D               F#m

@@ -1,7 +1,7 @@
 ## Puede ser
 ```
 
-[Intro]
+**Intro**
 G D/F# Em7 Dsus4 C D
 
 [Verso]

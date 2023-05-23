@@ -1,6 +1,8 @@
 # Lo dejaría todo
 
-Capo traste 1
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 1    |
 
 **Estrofa**
 ```
@@ -26,9 +28,11 @@ G                                               C
           D
  Y yo te juro que...
 
+
 ```
 **Estribillo**
 ```
+
 
              G
  Lo dejaría todo por que te quedaras,
@@ -75,9 +79,11 @@ G                                        C
  Sigo muriéndome.
 
 
+
 ```
 **Estribillo**
 ```
+
              G
  Lo dejaría todo por que te quedaras,
                C

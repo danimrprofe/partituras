@@ -31,9 +31,17 @@ Comiendose hasta el alma
 B                   C#
 Mordiendo el aire me he despertado y...
 
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
               Gb   Abm   Gb/Bb             B
 Tengo que decirte,   que nunca pierdo el sueño por
        Gb   Abm   Gb/Bb           B                Db
@@ -74,9 +82,14 @@ Aunque mi calor
 Nunca dejo esa cama
     B                 C#
 Yo sigo en ella, sigo abrazando y...
+
 ```
 **Estribillo**
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
               Gb   Abm   Gb/Bb             B
 Tengo que decirte,   que nunca pierdo el sueño por
        Gb   Abm   Gb/Bb           B                Db
@@ -91,9 +104,17 @@ Que no debi­ bajar esa escalera. Solo quiero volver a
 O nos ganó la prisa traicionera
   Db     B
 Vuelve, yo
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
  Bm/D        Gb   Abm   Gb/Bb             B
 Tengo que decirte,   que nunca pierdo el sueño por
        Gb   Abm   Gb/Bb           B                Db

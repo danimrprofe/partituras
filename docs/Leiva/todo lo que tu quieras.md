@@ -23,14 +23,16 @@ y no sé cómo hacerlo, no sé cómo hacerlo.
 ```
 **Pre-estribillo**
 ```
-Em               C            D                   G         Em                   
+Em               C            D                   G         Em
 Dos vidas sin saber quien eres, dos tragos por el ultimo bay bay
-                A     
-Ya sabes que seráaaaa 
+                A
+Ya sabes que seráaaaa
+
 ```
 **Estribillo**
 ```
-D     C             G         D     C             G      
+
+D     C             G         D     C             G
 Uuuh! todo lo que tu quieras! Uuuh! todo lo que tu quieras!
 ```
 **Estrofa**
@@ -45,5 +47,3 @@ Y no sé como hacerlo    No sé como hacerlo
 **Repite pre-estribillo**
 
 **Repite estribillo**
-
-<div style="page-break-after: always;"></div>

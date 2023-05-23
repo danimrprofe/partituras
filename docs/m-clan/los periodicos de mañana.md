@@ -3,30 +3,30 @@
 ```
 Disco: Sin enchufe
 Versión de acústico en directo
- 
+
 Ésta es una de mis modificaciones, esta vez de la transcripción de:
 Javi Tormo (javitormo@ Aquí sólo he añadido el Do como prechorus
 (que queda muy bien, todo sea dicho) y la intro.
- 
- 
-[Intro]
- 
+
+
+**Intro**
+
 e|---------------3p0-3p0h3----------------0---0----|
 B|--0--1--3--5---------------0--1--3---------0-----|
 G|--0--2--4--5---------------0--2--4--2------------|
 D|------------------------------------2------------|
 A|-------------------------------------------------|
 E|-------------------------------------------------|
- 
+
 e|--------------3p0-3p0h3-2~-2-------------|
 B|--0--1--3--5-----------------------------|
 G|--0--2--4--5-----------------------------|
 D|------------------------------0--2--4----|
 A|-----------------------------------------|
 E|-----------------------------------------|
- 
+
 [Verse 1]
- 
+
 G         C               G            D7            G
 Desnudo al sol, mientras el mundo se derrumba a mí alrededor,
            C              G             D7
@@ -35,9 +35,9 @@ Em         C              G             D7             Em
 Me sorprendió una gran tormenta de energía positiva y yo
            C            D   C G
 Desnudo al sol y nada más.
- 
-[Chorus]
- 
+
+**Estribillo**
+
           G                      C             G
 Hay quien dice que puede ser perjudicial sin embargo
             D7         G
@@ -50,9 +50,9 @@ No me interesa lo que digan los políticos,
 No me creo de la misa  a la mitad
       G                     C            D
 La mentira esta escrita en  los periódicos de mañana
- 
+
 [Verse 2]
- 
+
 G         C               G            D7            G
 Desnudo al sol como en la era del hombre paleolítico
            C              G             D7
@@ -61,9 +61,9 @@ Em         C              G             D7            Em
 Se me olvido que te gustaría haber montado una revolución
            C               D   C D
 Hazme el amor desnudo al sol
- 
-[Chorus]
- 
+
+**Estribillo**
+
           G                      C             G
 Hay quien dice que puede ser perjudicial sin embargo
             D7         G
@@ -76,14 +76,14 @@ No me interesa lo que digan los políticos,
 No me creo de la misa  a la mitad
       G                     C            D
 La mentira esta escrita en  los periódicos de mañana
- 
+
 [Solo]
- 
+
 Bm C Bm D
 Em C Bm D
- 
-[Chorus]
- 
+
+**Estribillo**
+
           G                      C             G
 Hay quien dice que puede ser perjudicial sin embargo
             D7         G
@@ -96,9 +96,9 @@ No me interesa lo que digan los políticos,
 No me creo de la misa  a la mitad
       G                     C            D
 La mentira esta escrita en  los periódicos de mañana
- 
+
 [Outro]
- 
+
 G                    C
 Nara na na nara nara na ra na
 G                    D

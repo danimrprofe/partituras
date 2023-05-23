@@ -1,4 +1,8 @@
 # El camino
+<<<<<<< HEAD
+=======
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 
 **Introducción**
 
@@ -87,7 +91,11 @@ Yo no quiero dejar de buscarte por este camino
          F                                  Am        G/B
 Te he contado que no te conozco y te quiero de lejos, de lejos
 ```
+<<<<<<< HEAD
 **Final**
+=======
+## Final
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 
 | 1   | 2   | 3   | 4   |
 | --- | --- | --- | --- |

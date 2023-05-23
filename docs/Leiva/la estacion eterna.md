@@ -1,5 +1,9 @@
 # La estación eterna
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
+
 **Intro**
 ```
 B
@@ -14,9 +18,11 @@ tarareando una canción de mierda.
 tengo un bulto en el costado, y  una crísis de las buenas
   E                      B
 anoche se me salió la cadena.
+
 ```
 **Estribillo**
 ```
+
      F#                       E                            B
 mis amigos más bravos, siguen arreglando el mundo ahí fuera.
       C#m             E   F#             E     F#
@@ -32,9 +38,11 @@ y unas mallas cortas vieja escuela.
 echo en falta a mis hermanos, en la furgoneta negra.
     E                   B
 los tiburones de la carretera.
+
 ```
 **Estribillo**
 ```
+
         F#                  E                  B
 escucho por la radio: muere mi comentarista estrella.
       C#m             E   F#             E   F#
@@ -65,9 +73,9 @@ Con la máscara de guerra, y un resguardo en la guantera,
        B                           E
 bajo a ver si veo a alguien de verdad.
 ```
-**Final**
+## Final
 ```
        B    E
 de verdad..     (x4)
-B 
-``` 
+B
+```

@@ -1,7 +1,11 @@
 # Aproximación
 
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | 2    |
+
 ```
-[Verse]
+**Estrofa**
   C     G  C       F          C
 Somos dos, para que queremos más.
      G   Em      F
@@ -23,7 +27,7 @@ y dulce como no pensé que habría
  D              G
 algo tan dulce como tu.
 
-[Chorus]
+**Estribillo**
            F
 Y esto es solo una aproximación,
  Em
@@ -37,7 +41,7 @@ solo una aproximación,
  Dm          G       C
 solo una aproximación.
 
-[Verse]
+**Estrofa**
  C      G  C      F          C
 Quiérenos, al destino quiérenos.
      G   Em     F
@@ -59,7 +63,7 @@ y dulce como no pensé que habría
   D              G
 algo tan dulce como tu.
 
-[Chorus]
+**Estribillo**
            F
 Y esto es solo una aproximación,
  Em
@@ -74,12 +78,12 @@ solo una aproximación,
 solo una aproximación.
 
 [Solo]
-Am Em F Em 
-F G 
-Am Em F Em 
+Am Em F Em
+F G
+Am Em F Em
 G
 
-[Chorus]
+**Estribillo**
            F
 Y esto es solo una aproximación,
  Em

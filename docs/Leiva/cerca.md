@@ -4,7 +4,6 @@
 | --------- | ------- | ------ | ---- |
 | Re Mayor  | 123 bpm | 4/4    | 2    |
 
-
 **Intro**
 ```
 C F C G
@@ -25,9 +24,11 @@ No estábamos para forzar, y yo soy un intenso
 La culpa no se puede remontar
    F             G
 En este invierno cruel
+
 ```
 **Estribillo**
 ```
+
                        F
 Que cerca estuve de llevarlo bien
 G                      C
@@ -39,8 +40,6 @@ Volvamos a intentarlo
 
 C F C G
 ```
-
-<div style="page-break-after: always;"></div>
 
 **Estrofa**
 ```
@@ -67,10 +66,8 @@ F G Dm Em F G
 ```
 **Repite coro**
 
-**Final**
+## Final
 ```
 C F C G
 C F C G C
 ```
-
-<div style="page-break-after: always;"></div>

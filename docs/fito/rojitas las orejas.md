@@ -7,9 +7,9 @@ Em C D
 ```
 **Estrofa**
 ```
-Em           C              D             C 
+Em           C              D             C
 pa parabaraba pa parabaraba pa parabaraba pa parabaraba
-Em           C              D             C 
+Em           C              D             C
 pa parabaraba pa parabaraba pa parabaraba pa parabaraba
 
 ```
@@ -30,7 +30,7 @@ Em              C            D                         C
 Y en momentos oscuros, palmadita en la espalda y ya estoy más seguro
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estribillo**
 ```
@@ -40,9 +40,9 @@ Se me ponen si me besas, rojitas las orejas
 ```
 **Estrofa**
 ```
-Em           C              D             C 
+Em           C              D             C
 pa parabaraba pa parabaraba pa parabaraba pa parabaraba
-Em           C              D             C 
+Em           C              D             C
 pa parabaraba pa parabaraba pa parabaraba pa parabaraba
 ```
 **Estrofa**
@@ -55,17 +55,17 @@ Em      C          D         C
 Tu eres, mi verso, pluma papel y sentimiento
 Em        C              D          C
 La noche yo y tu la luna. Tu la cerveza y yo la espuma
+
 ```
 **Estribillo**
 ```
+
 Am  Asus4  Am  Asus4 Am  Asus4  Am  Asus2
 C                       D
 Se me ponen si me besas, rojitas las orejas (X2)
 ```
-**Final**
+## Final
 ```
 Em      C          Em          D
 Roooooojitas las orejas se me ponen si me besas (x4)
 ```
-
-<div style="page-break-after: always;"></div>

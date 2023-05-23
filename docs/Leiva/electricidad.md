@@ -1,7 +1,10 @@
 # Electricidad
 
+<<<<<<< HEAD
  Electricidad
 
+=======
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 Capo 1
 
 **Intro**
@@ -38,9 +41,17 @@ Que me dabas cuando naufragaba
                  A        A5  Bm
 En tu pecho enfermo de miedo.
 
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G5
 Toda esa puta electricidad
                                 Bm
@@ -86,9 +97,17 @@ Que me dabas cuando naufragaba
 En tu pecho enfermo de miedo.
 
 Bm
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G5
 Toda esa puta electricidad
                                Bm
@@ -115,9 +134,17 @@ Em
 Na, naaa, naaaa, naa, naaa, naaa, naaaaaa, naaaaaaa,
 
 Naaaaaaaaaaaaaaaaa.
+<<<<<<< HEAD
 ```
 **Estribillo**
 ```
+=======
+
+```
+**Estribillo**
+```
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G5
 Toda esa puta electricidad
 A5

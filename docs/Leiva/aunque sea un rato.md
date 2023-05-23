@@ -23,9 +23,11 @@ C             Em     F                      C
 Si alguna vez fui Un rayo y no te supe esperar
 Dm          Am     F            G
 Maldigo mi suerte Me quiero matar
+
 ```
 **Estribillo**
 ```
+
 Am       F             C            Em
   Las victorias nunca pasan por mi lado
 Am       F            C           G
@@ -39,7 +41,7 @@ Am             Em  F        G      C
 | Dm  | Am  | F   | G   |
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estrofa**
 ```
@@ -68,7 +70,7 @@ Siempre afloja el tempora, aaa, aaaal
 F      G      C
 Aunque sea un rato   X2
 ```
-**Final**
+## Final
 ```
 | F G | C   |
 ```

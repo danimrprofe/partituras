@@ -2,7 +2,7 @@
 
 | 🎸Tonalidad | Tempo  | Compás | Capo |
 | ---------- | ------ | ------ | ---- |
-| Do# mayor   | 78 bpm |        | 1    |
+| Do# mayor  | 78 bpm |        | 1    |
 
 ```
   C                             F
@@ -13,7 +13,7 @@ Publicabas toda nuestra intensidad
 Te llovían las marcas. Era tan "Black Mirror"
       G                      C
 Yo sabía que no ibas a aguantar
- 
+
       C                             F
 Yonqui de la velocidad. Se te afilaban las garras
           Am                     G
@@ -22,18 +22,18 @@ Cuando estábamos a punto de avanzar
 Me moría de ganas De clavarte un cuchillo
           G                C  G
 Y abrazarte a todo lo que da
-``` 
+```
 
-[Chorus]
+**Estribillo**
 
 ```
            Am                 F             C    Em   G
 No me das miedo. Lánzame hacia ti. Dame de lleno
              Am            F              C   G   G7
-Haz el esfuerzo. Déjalo fluir. Hazte con ello 
+Haz el esfuerzo. Déjalo fluir. Hazte con ello
 
-``` 
-[Verse]
+```
+**Estrofa**
 ```
    C                                 F
 Esclavos de la fragilidad. Se nos ahogaba la máquina
@@ -43,18 +43,18 @@ Cuando había algún ostión de realidad
 Me arañabas la cara. Empapados en vino
       G                     C    G
 Yo sabía que no ibas a aguantar
-``` 
- 
- [Chorus]
+```
+
+ **Estribillo**
 ```
            Am                 F             C    Em   G
 No me das miedo. Lánzame hacia ti. Dame de lleno
              Am            F              C   G   G7
-Haz el esfuerzo. Déjalo fluir. Hazte con ello 
+Haz el esfuerzo. Déjalo fluir. Hazte con ello
 ```
-[Verse]
+**Estrofa**
 ```
-        G                            Am  
+        G                            Am
 Y ya verás cómo se encienden algunas luces del puerto
      F                    C
 A nuestro paso suceden extraños movimientos
@@ -62,14 +62,14 @@ A nuestro paso suceden extraños movimientos
 Que tú no puedes ver
               Em                     G
 Estamos totalmente hipnotizados Otra vez
-``` 
-[Instrumental]
+```
+**Instrumental**
 ```
 G7   F   G
-``` 
-[Chorus]
+```
+**Estribillo**
 ```
            Am                 F             C    Em   G
 No me das miedo. Lánzame hacia ti. Dame de lleno
              Am            F              C   G   G7
-Haz el esfuerzo. Déjalo fluir. Hazte con ello 
+Haz el esfuerzo. Déjalo fluir. Hazte con ello

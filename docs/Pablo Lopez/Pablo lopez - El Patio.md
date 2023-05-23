@@ -5,7 +5,7 @@ Se puede subir medio tono y es más sencillo para guitarra. Habría que bajar la
 **Introducción**
 ```
 ohhhhhh!!!~~** E - B - E
-``` 
+```
 **Estrofa**
 ```
 B                                    D#m
@@ -16,7 +16,7 @@ Y yo sigo jugando que más da,sigo jugando solo.
 Me aburro,el patio está vacío y suena la sirena.
   E                                                       B5
 Y yo sigo jugando qué más da,sigo jugando y siempre me castigas.
-``` 
+```
 **Puente**
 ```
                    B5/A#
@@ -25,16 +25,18 @@ Solo quiero que te vayas,
 solo quiero que se acabe,
                    E  F#  E  F#
 solo quiero que me de-jes so-lo.
+
 ```
 **Estribillo**
 ```
+
 B5     B5/A#      B5/G#  B5/F#        E5
 Fuera! Vete de mi casa,  suéltame las manos,
 E5/D#             E5/C# E5/B            F#  E
 no soy mas que un niño, con los pies descal-zos
   B               E          B            F# B
 Y yo sigo jugando qué más da,sigo jugando so-lo.
-``` 
+```
 **Instrumental**
 ```
 B - E - B - E
@@ -56,9 +58,11 @@ Solo quiero que te vayas,
 solo quiero que se acabe,
                    E  F#  E  F#
 solo quiero que me de-jes so-lo.
+
 ```
 **Estribillo**
 ```
+
 B5     B5/A#      B5/G#  B5/F#        E5
 Fuera! Vete de mi casa,  suéltame las manos,
 E5/D#             E5/C# E5/B           F#   E
@@ -72,7 +76,7 @@ Yo sigo jugando, qué más da,
 B             F# B      B*
  sigo jugando so-lo...
 ```
-**Final**
+## Final
 ```
 E
 Solo

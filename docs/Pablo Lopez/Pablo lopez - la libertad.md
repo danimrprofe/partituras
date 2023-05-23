@@ -19,16 +19,20 @@ De sentirme fugitivo, cada vez que me despiertas
 De la siesta por castigo, no quiero escucharte
 C                    G
 Deja, deja, Deja, uoooh
+
 ```
 **Estribillo**
 ```
+
 C      G     C    F     G       Am
 Santa libertad, muéstrame el camino
 C      G#    C  Am   Em     G        F    G    C
 Dame una razón, para pensar que sigo viiiiiivoooo
+
 ```
 **Estribillo**
 ```
+
   C                                                       Dm
 Y deja, que me vista la vergüenza, que me esconda en el lavabo
                                              F
@@ -44,9 +48,11 @@ que la nuestra te lo juro, se ha quedado en la memoria
 que pequeño es este mundo, deja de escucharme
 C                    G
 Deja, deja, Deja, uoooh
+
 ```
 **Estribillo**
 ```
+
 C      G     C    F     G       Am
 Santa libertad, muéstrame el camino
 C      G#    C  Am   Em     G        F    G    C

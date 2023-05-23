@@ -39,9 +39,14 @@ esta noche no. Yo no quiero que me cuenten el final.
 **Bridge**
 ```
 E Em C Em D# Gm D
+
 ```
 **Estribillo**
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 C                                   Em
 17 00 de un reloj desesperado. Son las 5 de la tarde
 

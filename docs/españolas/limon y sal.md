@@ -1,12 +1,12 @@
 # Limon y sal
 
 ```
-[Intro]
+**Intro**
 E F# G#m F# B D#
 E F# G#m F# D# F#
- 
- 
-[Verse]
+
+
+**Estrofa**
 B         F#              E
 Tengo que confesar que a veces
         F#               B
@@ -31,9 +31,9 @@ E       F#    G#m
 Sólo tenerte cerca
  F#                      B   F#
 Siento que vuelvo a empezar
- 
- 
-[Chorus]
+
+
+**Estribillo**
 B            F#           G#m
 Yo te quiero con limón y sal
              F#            E
@@ -46,14 +46,14 @@ Yo te quiero si vienes o si vas
 Si subes y bajas y no estás
                   F#
 Seguro, de lo que sientes
- 
- 
+
+
 [Bridge]
 E F# G#m F# B D#
 E F# G#m F# D# F#
- 
- 
-[Verse]
+
+
+**Estrofa**
 B         F#            E
 Tengo que confesarte ahora
          F#             B
@@ -68,12 +68,12 @@ Luego me vengo a encontrar
 Con tus ojos me dan algo más
 E      F#      G#m
 Solo tenerte cerca
- 
+
 F#                       B    F#
 Siento que vuelvo a empezar
- 
- 
-[Chorus]
+
+
+**Estribillo**
 B            F#           G#m
 Yo te quiero con limón y sal
              F#            E
@@ -85,8 +85,8 @@ Yo te quiero si vienes o si vas
            F#            E
 Si subes y bajas y no estás
                   F#
-Seguro, de lo que sientes 
- 
+Seguro, de lo que sientes
+
 B            F#           G#m
 Yo te quiero con limón y sal
              F#            E
@@ -98,14 +98,14 @@ Yo te quiero si vienes o si vas
            F#            E
 Si subes y bajas y no estás
                   F#
-Seguro, de lo que sientes 
- 
- 
+Seguro, de lo que sientes
+
+
 [Bridge]
 B F# G#m F# E F#
 E F# G#m F# A# E
- 
- 
+
+
 [Outro]
     E      F#    G#m
 Con sólo tenerte cerca

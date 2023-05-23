@@ -9,7 +9,7 @@
 
 **Intro**
 ```
-A E/G# | E  | B | C#m 
+A E/G# | E  | B | C#m
 A      | E  | B
 ```
 **Estrofa**
@@ -23,7 +23,7 @@ No eran "los cuervos negros", ni la policía.
 No había sensación de malestar aquel día.
 A                      E
 No era tu intención joderme la vida.
- 
+
 
 E                      B
 Las cosas fáciles se vuelven tan difíciles
@@ -33,7 +33,7 @@ E                     B
 Las sensaciones son claraaaaas,
             A            E
 ¡Mamá, me vuelvo a casa con los demás!
- 
+
 
 C#m                A             E                  B
 Era el aliento lo único que cabía entre nosotros dos,
@@ -44,7 +44,7 @@ Los malos momentos de hoy, las emociones salvajes,
 A            E        B                   E
 semáforo abierto y yo, vuelvo a dejar que pases.
 
-E | B | A |E 
+E | B | A |E
 
           E                    B
 No era la religión, no era la mercancía,
@@ -55,7 +55,7 @@ No me diste plantón, ni calidad de vida,
 A                 E
 fuimos portada a los pocos días.
 
- 
+
 
 E                      B
 Las cosas fáciles se vuelven tan difíciles
@@ -66,7 +66,5 @@ Las previsiones son malas
             A            E
 ¡Mamá, me vuelvo a casa con los demás!
 
-``` 
+```
 **Repite estribillo**
-
-<div style="page-break-after: always;"></div>

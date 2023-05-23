@@ -19,9 +19,11 @@ G                D    Em                   B
  Colmillitos afilados, Cuéntales lo que te di
 C                     G                D                G
  Cada noche en los tejados, Quiero olvidar, quiero olvidar
+
 ```
 **Estribillo**
 ```
+
       G                                     C
 Y no sé, no sé, no sé si esto es lo que quiero
      D                                  G
@@ -40,9 +42,11 @@ G                  D   Em               B
  La silueta del pecado, diseñada para mí
 C                 G                 D               G
  Chica léeme los labios Quiero olvidar, quiero olvidar
+
 ```
 **Estribillo**
 ```
+
      G                                     C
 Y no sé, no sé, no sé si esto es lo que quiero
      D                                  G

@@ -20,9 +20,11 @@ Vino una noche se fue una mañana
 G              F                 C
  Quizas solamente me vino a enseñar
 
+
 ```
 **Estribillo**
 ```
+
            G
 Que viene y va, como las olas con el mar se mueven.
     F      C
@@ -66,7 +68,7 @@ Quizas solamente me vino a enseñar.
 **REPITE Estribillo**
 ```
 
-G C G C 
+G C G C
 G C G C
 
 F
@@ -82,4 +84,3 @@ G              F                 C
 G C G C
 G C G C
 ```
-<div style="page-break-after: always;"></div>

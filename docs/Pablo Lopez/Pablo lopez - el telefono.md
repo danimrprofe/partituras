@@ -4,7 +4,7 @@
 Tonalidad: Re mayor
 
 **Intro**
-``` 
+```
 A# G D
 A# G D
 ```
@@ -26,7 +26,7 @@ A ver si alguna me devuelve nuestro incendio
 No quiero más abrazos de tecnología
          G                      A
 Ni tu silencio atragantado de color
-``` 
+```
 **Estribillo**
 ```
        F#m    G
@@ -39,7 +39,7 @@ Y acabe con los dedos destrozados
 Soy más simple de lo que me creía
               A
 Esta es la historia de
- 
+
 De un teléfono apagado
 ```
 **Interludio**
@@ -48,7 +48,7 @@ A# G D
 A# G D A
 ```
 **Verse**
-``` 
+```
             Bm
 Cuando escribí
           F#m       G
@@ -74,7 +74,7 @@ A este idiota equivocado
            G                      A
 Y a su derrota de pantalla y cargador
 ```
- 
+
 **Estribillo**
 ```
        F#m    G
@@ -87,16 +87,18 @@ Y acabe con los dedos destrozados
 Soy más simple de lo que me creía
                A
 Esta es la historia de
- 
+
 De un teléfono apagado
 ```
 **Interlude**
 ```
 A# G Bm D
 A# G A D
+
 ```
 **Estribillo**
 ```
+
            G
 Esa noche juré
                D
@@ -107,11 +109,11 @@ Y acabe con los dedos destrozados
 Soy más pequeño de lo que creía
                     A
 Esta es la historia de
- 
+
 De un teléfono apagado
-``` 
+```
 **Outro**
-``` 
+```
 A# G D A/C# Bm A
 A# A G A
 ```

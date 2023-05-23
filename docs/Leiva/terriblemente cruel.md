@@ -1,5 +1,7 @@
 # Terriblemente cruel
 
+Afinación medio tono abajo en acústico
+
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
 | Do Mayor  | 126 bpm | 4/4    | No   |
@@ -11,7 +13,7 @@ https://www.youtube.com/watch?v=I_3JWgVJA8A
 
 **Intro**
 ```
-Am               E7 
+Am               E7
 uoooooh oooh ooh ooooooooh
              F          C         G
 uoooooh uooh ooh oooooh ooooh ooh oooh
@@ -21,14 +23,16 @@ uoooooh uooh ooh oooooh ooooh ooh oooh
         Am                             F
 Si me está fallando la meditación, A menudo estallo y tengo vértigos
     C                           Em
-Y lo intento y tú nunca recibes la señal 
+Y lo intento y tú nunca recibes la señal
      Am          		        F
 Voy guardando bajo mi reputación, me salió muy claro perdonártelo
      C                        E7                   Dm    G
 Mentiré porque tú me lo pides de verdad, aunque te sepa mal
+
 ```
 **Estribillo**
 ```
+
                     F                 C                  E7           Am
 Sabes que yo puedo ser terriblemente cruel, Para que no pierda la tensión
       F                   C            G
@@ -39,7 +43,7 @@ Voy a ser terriblemente fiel, Cuando se te pase la emoción
 Ya sé, te puede parecer demasiado
 ```
 
-<div style="page-break-after: always;"></div>
+
 
 **Estrofa**
 ```
@@ -57,13 +61,13 @@ Al final te lo hiciste de cine
 Pero duele igual.. eso es universaaa aaaal
 ```
 **Repetición coro**
- 
+
 **Solo**
 ```
 Am E7 F C G
 Am E7 F Fm C Fm C G
 ```
-**Final**
+## Final
 ```
 G                  F                  C
 Sabes que yo puedo ser terriblemente cruel
@@ -71,11 +75,11 @@ Sabes que yo puedo ser terriblemente cruel
 Cuando se te pase la emoción
    F                C        G
 Ya sé, te puede parecer demasiado complicado
-``` 
+```
 **Repite intro con variación**
 
 **Repetición coro**
 ```
-Am Am Am Am 
+Am Am Am Am
 G-Am 
 ```
