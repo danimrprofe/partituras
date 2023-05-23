@@ -1,5 +1,4 @@
-# 1. El camino
-
+# El camino
 
 **Introducción**
 
@@ -15,7 +14,7 @@
 
 
 **Estrofa**
- 
+
 ```
      Ab                      Fm                C
 He llegado hasta aquí porque nunca dejé de buscarte
@@ -29,14 +28,14 @@ los idiotas enfadados, los abrazos de cartón
 
 **Bridge**
 
-``` 
+```
    C Am      G   C           Am           G
 De lejos te vi, de lejos me has hecho feliz.
 ```
 
 **Estribillo**
 
-``` 
+```
 F                                      Am
 Y no quiero dejar de buscarte por este camino
 F                                              Am    G
@@ -50,7 +49,7 @@ Te he contado que no te conozco y te quiero de leeejooos
 
 **Verse 2**
 
-``` 
+```
      Ab                F              C       C/E
 Y te juro que vale la pena caer y romperse la cara
      Ab                     F                 C/E
@@ -59,35 +58,35 @@ Que regalo tan grande aprender de lo que nos dolió
 Que regalo estar en este viaje de románticos salvajes
 F                     Fm/Ab
 Soñadores desterrados caminantes del amor
-``` 
+```
 **Bridge**
-``` 
+```
 C     Am    G      C            Am    G
 De lejos te vi, de lejos me has hecho feliz
-``` 
+```
 
 
 
 **Estribillo**
-``` 
+```
 F                                       Am
 Y no quiero dejar de buscarte por este camino
 F                                           Am         G
 Te he contado que no te conozco y te quiero de lejos, de lejos
 ```
-``` 
+```
 
 C       Am        G
 Oooooooooooooooooooooooooooooooh
 C       Am        G
 Oooooooooooooooooooooooooooooooh (o algo así)
 ```
-``` 
+```
         F                          Am
 Yo no quiero dejar de buscarte por este camino
          F                                  Am        G/B
 Te he contado que no te conozco y te quiero de lejos, de lejos
-``` 
+```
 **Final**
 
 | 1   | 2   | 3   | 4   |

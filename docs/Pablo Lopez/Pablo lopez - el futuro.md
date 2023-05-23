@@ -45,7 +45,7 @@ G F | Em D# | A# Dm
 Am G...
 ```
 
-``` 
+```
 G
 No me preguntes por el futuro, no me preguntes por el futuro, porque
 Em      D      C    Bm          D

@@ -1,4 +1,4 @@
-## Vi
+# Vi
 
 **Intro (arpegiando)**
 ```
@@ -61,11 +61,11 @@ Dime si hoy se acaba el mundo corazón,
             Dm     Eb   F
 dime qué vas a llevarte, dime que me llevo yo.
 ```
-Final 1 
+Final 1
 ```
 Gm | - | Eb | - x2
 ```
 Final 2 (arpegiando)
 ```
 Gm | - | Eb | - x2
-``` 
+```

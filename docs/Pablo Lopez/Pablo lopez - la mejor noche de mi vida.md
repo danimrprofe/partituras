@@ -1,15 +1,15 @@
-## La mejor noche de mi vida
+# La mejor noche de mi vida
 
-**Intro** 
+**Intro**
 ```
-A    | F#m    | C#m | F#m    
-A    | F#m Bm | F#m | E      
-A    | B      | F#m | E      
-A/C# | D      | F#m | C#m/G# 
+A    | F#m    | C#m | F#m
+A    | F#m Bm | F#m | E
+A    | B      | F#m | E
+A/C# | D      | F#m | C#m/G#
 ```
 
-**Estrofa** 
-``` 
+**Estrofa**
+```
 Bm               A
 Entre la felicidad
                  F#m
@@ -22,7 +22,7 @@ Necesitaba salir
 Romper con todo y vivir
                         E
 Que lo demás ya no importa
- 
+
 Bm               A
 Como unos locos sin fe
                F#m
@@ -42,8 +42,8 @@ lo que nos sonreía
      Bm    F#m     E     D           Bm    F#m     E
 Como niños sin preocupación, Como el ave que escapó...
 ```
-**Estribillo** 
-``` 
+**Estribillo**
+```
 A                Bm                   A/C#                   D
 Creo que por una vez, Conseguimos no ser los esclavos de nadie
          A/E                 C#/F      F#m           E/G#
@@ -53,12 +53,12 @@ Sin palabras, Fuimos al mar y abrazamos el alba Nos olvidamos
                A/E            C#/F   F#m           E/G#
 de lo que nos falta. Hoy juraría que fue, La mejor noche de mi vida...
 ```
-**Instrumental** 
-``` 
+**Instrumental**
+```
 Bm F#m | E D | Bm F#m | E
 ```
-**Estrofa** 
-``` 
+**Estrofa**
+```
 Bm               A
 Que te podría contar
                  F#m
@@ -71,7 +71,7 @@ Nos escondimos de Dios
 Nos regalamos al sol
                     E
 Todo quedó en la memoria
- 
+
 Bm               A
 La noche se terminó
                  F#m
@@ -84,15 +84,15 @@ Quién sabe cuando podré
 Cantarle a cielo otra vez
                   E
 Con ese grito profundo
- 
+
 ```
 **Pre-estribillo**
 ```
      Bm    F#m     E     D           Bm    F#m     E
 Como niños sin preocupación, Como el ave que escapó...
 ```
-**Estribillo** 
-``` 
+**Estribillo**
+```
 A                Bm                   A/C#                   D
 Creo que por una vez, Conseguimos no ser los esclavos de nadie
          A/E                 C#/F      F#m           E/G#
@@ -109,9 +109,9 @@ Nos perdonamos las viejas heridas. Así fue, la mejor noche de mi vida
 Sin palabras, Fuimos al mar y abrazamos el alba Nos olvidamos
                A/E            C#/F   F#m           E/G#
 de lo que nos falta. Hoy juraría que fue, La mejor noche de mi vida...
- 
+
 [Outro]
- 
+
 A    D     A/C#  D
 A/E  C#/F  F#m   E/G#
 ```

@@ -1,13 +1,11 @@
+# El mundo
 
-## El mundo
-```
 [Intro]
+```
 C#m E C#m E
-
-
 ```
 **Estrofa**
-```  
+```
 C#m         E
 El mundo ha roto
 C#m         E
@@ -40,7 +38,7 @@ Y si mañana nos encuentran enredados que nos dejen descansar, del mundo así
 
 ```
 **Estrofa**
-```  
+```
 C#         E   C#         E
 El mundo salta por la ventana
   G#m                        F#m
