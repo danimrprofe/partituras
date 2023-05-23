@@ -2,10 +2,9 @@
 
 Capo 2
 
-```
 **Intro**
+```
 G C/G G C/G G D C/G G
-
 
 [Verse 1]
 G
@@ -34,8 +33,9 @@ De apretar el corazón
                    C/G           G
 De aflojar de la cabeza los tornillos
 
-
+```
 **Estribillo**
+```
 C/G                  Am
 ¡Eh! Vosotros que me veis
                  G
@@ -45,12 +45,13 @@ Am                    C/G
                   D
 Teniendo aquí un bufón
 
-
+```
 [Solo]
+```
 G C/G G C/G G D C/G
-
-
+```
 [Verse 2]
+```
 G                           C/G
 Un criterio firme como una lápida
 G
@@ -70,9 +71,10 @@ La verdad se queda en el camino
 Ya no queda un corazón donde refugiarnos
            D                      C/G
 De nosotros mismos, de nosotros mismos
-
+```
 
 **Estribillo**
+```
 C/G                  Am
 ¡Eh! Vosotros que me veis
                  G
@@ -81,7 +83,6 @@ Am                    C/G
 ¡Eh! Quién necesita un rey
                   G
 Teniendo aquí un bufón
-
 
 [Verse 3]
 C/G               Am
@@ -110,7 +111,6 @@ Y vas naciendo cada vez
 Y cada vez cadáver
          Am                 G
 Papapapapapa... papapapapapa... papapapapapa
-
 
 [Outro]
 C/G Am G G

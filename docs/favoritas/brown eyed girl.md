@@ -4,19 +4,23 @@
 Intro: | G | C | G | D | (2 times)
 Chorus- C D G Em C D G
 
-G               C   G                D
- Hey where did we go days when the rains came?
-G             C    G           D
- Down in the hollow playing a new game
-G             C                G               D
- Laughing and running, hey hey, skipping and a jumping
-G              C              G       D
- In the misty morning fog with our a-hearts a-thumping
-    C   D              G      Em
-And you, my brown eyed girl
-C       D           G      D
- You, my brown eyed girl
+```
+| a             | a                 | a              | a                 |
+| ------------- | ----------------- | -------------- | ----------------- |
+| G             | C                 | G              | D                 |
+| Hey where did | we go             | days when the  | rains came?       |
+| G             | C                 | G              | D                 |
+| Down in the   | hollow            | playing a      | new game          |
+| G             | C                 | G              | D                 |
+| Laughing and  | running, hey hey, | skipping and a | jumping           |
+| G             | C                 | G              | D                 |
+| In the misty  | morning fog with  | our a-         | hearts a-thumping |
+| C             | D                 | G              | Em                |
+| And you,      | my brown eyed     | girl           |                   |
+| C             | D                 | G              | D                 |
+| You, my       | brown eyed        | girl           |                   |
 
+```
 G          C      G                D
  Whatever happened to Tuesday and so slow
 G                C             G            D

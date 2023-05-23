@@ -1,7 +1,5 @@
 # Donde todo empieza
 
-## Donde Todo Empieza
-
 ```
 
 G                 D                 C
