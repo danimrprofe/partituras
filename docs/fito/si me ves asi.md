@@ -1,63 +1,42 @@
 # Si me ves así
 
-
 | Tonalidad  | Tempo   | Compás | Capo |
 | ---------- | ------- | ------ | ---- |
 | Mi b Mayor | 175 bpm | 4/4    | 3    |
 
-
 ```
-C                            G
-Pensé que me daría igual que no necesitaba verte
-F                       G      Am
-Que basta solo con decir Nunca más
 
-G - C
-Maldita sea mi voluntad
-G
-Que sé que no me pertenece
-             F          G                 Am
-Cada vez que necesito de ti Es cuando no estás
-
-            A#                   F               C
-Busco la distancia que hay que poner entre tú y yo
-         Dm            G               C
-Que nos separe para evitar Otra explosión
-                G            F
-Vuelvo a aquel bar Donde te vi
-         C
-Para cantar el pobre de mi
-            G                F
-Ese es mi lugar. Allí soy feliz
-          C
-Qué pensarías si me ves
-         G
-Si me ves así
-C   G
-Oh-Oh
-
-           C
-Nada funcionaba y me dejaba llevar
-                  G
-Siempre que el demonio me obligaba a rezar
-                       F
-Algo que suena y se arrastra
-       G                Am
-Debo llevar colgando ilusión
-
-          F
-Ríe todo lo que puedo no llorar
-             C
-Porque nada acaba, solo vuelve a empezar
-              G
-Y no puedes parar, no te puedes parar
-                  Am
-Tú tranquila que yo volveré a preguntar
-
-
-Solo Saxo:
-
-A# - F - C - C
-Dm - G - C
+| 1                      | 2                      | 3                        | 4                           |
+| ---------------------- | ---------------------- | ------------------------ | --------------------------- |
+| C                      | G                      | F                        | G                           |
+| Pensé que me daría i   | gual que               | no necesitaba            | verte. Que                  |
+| F                      | G                      | Am                       | Am                          |
+| basta solo con de-     | cir Nunca              | más                      | Mal-                        |
+| C                      | G                      | F                        | G                           |
+| dita sea mi volun-     | tad, que               | sé que no me perte-      | nece. Cada                  |
+| F                      | G                      | Am                       | Am                          |
+| vez que necesito de    | ti es cuando no es-    | tás                      | - Busco la  dis             |
+| A#                     | F                      | C                        | C                           |
+| tancia que hay que po- | ner entre tú y         | yo                       | - Que nos se                |
+| Dm                     | G                      | C                        | C                           |
+| pare para evi          | tar Otra explo         | sión                     | Vuelvo a aquel              |
+| C                      | C                      | G                        | F                           |
+| bar Donde te           | vi. Para can           | tar el pobre de          | mi.Ese es mi lu             |
+| C                      | C                      | G                        | F                           |
+| gar. Allí soy fe       | liz.  Qué pensa        | rías si me ves           | Si me ves a                 |
+| C                      | C                      | G                        | G                           |
+| sí                     | Oh                     | Oh                       | Nada funcio-                |
+| C                      | C                      | G                        | G                           |
+| naba y me dejaba lle   | var. Siempre que el de | monio me obligaba a re   | zar, algo que suena y se a- |
+| F                      | G                      | Am                       | Am                          |
+| rrastra. Debo lle      | var colgando ilu       | sión                     | -         Ríe todo          |
+| F                      | F                      | C                        | C                           |
+| lo que puedo no llo    | rar. Porque nada a     | caba, solo vuelve a empe | zar, y no puedes pa         |
+| G                      | G                      | Am                       | Am                          |
+| rar, no te puedes pa   | rar. Tú tranquila que  | yo volveré a pregun      | tar                         |
+| A#                     | F                      | C                        | C                           |
+| -                      | -                      | -                        | -                           |
+| Dm                     | G                      | C                        |                             |
+| -                      | -                      | -                        | -                           |
 
 ```
