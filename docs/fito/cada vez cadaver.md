@@ -1,117 +1,54 @@
 # Cada vez cadaver
 
-Capo 2
+
 
 **Intro**
-```
-G C/G G C/G G D C/G G
 
-[Verse 1]
-G
-Nunca fui lo que no pude ser
-    C/G                                  G
-Y pudiera ser que solo soy lo que he podido
-           C/G
-Soy el halcón que ya no quiere ver
-                                  G
-Y aprendió a ponerse la capucha él solito
-      D
-Alguien mueve el cascabel
-                 C/G              G
-pero esconde el veneno y los colmillos
+A D A D A E D A
 
-G
-Es la forma de caer
-C/G                            G
-Es la forma de volver de los abismos
-        C/G
-De escribir sin más razón
-                                  G
-De decir por puro miedo a no saber decirlo
-      D
-De apretar el corazón
-                   C/G           G
-De aflojar de la cabeza los tornillos
+Nunca
 
-```
-**Estribillo**
-```
-C/G                  Am
-¡Eh! Vosotros que me veis
-                 G
-decidme quién soy yo
-Am                    C/G
-¡Eh! Quién necesita un rey
-                  D
-Teniendo aquí un bufón
-
-```
-[Solo]
-```
-G C/G G C/G G D C/G
-```
-[Verse 2]
-```
-G                           C/G
-Un criterio firme como una lápida
-G
-Una gruesa capa de cemento
-C/G
-Todo se borró al pasar la página
-G
-Hubo una explosión por cada intento
-D             C/G
-Ohhh uooohhh, oooohhhh
-
-G                           C/G
-La razón la encuentran los culpables
-G                          C/G
-La verdad se queda en el camino
-       Am                         G
-Ya no queda un corazón donde refugiarnos
-           D                      C/G
-De nosotros mismos, de nosotros mismos
-```
-
-**Estribillo**
-```
-C/G                  Am
-¡Eh! Vosotros que me veis
-                 G
-decidme quién soy yo
-Am                    C/G
-¡Eh! Quién necesita un rey
-                  G
-Teniendo aquí un bufón
-
-[Verse 3]
-C/G               Am
-Y cada vez que me miréis
-                        G
-Si me encontráis solo una vez
-
-Solo una vez por cada vez
-              C/G
-De cada vez que digo
-                 Am
-Que es tan fácil perder
-                 G
-La vista como la mirada
-
-Si nadie nunca recordara
-                    C/G
-Si todo hubiera sido nada
-                        Am
-Y aunque es todo lo que crees
-                     G
-Nunca es solo lo que ves
-
-Y vas naciendo cada vez
-              C/G
-Y cada vez cadáver
-         Am                 G
-Papapapapapa... papapapapapa... papapapapapa
-
-[Outro]
-C/G Am G G
-```
+| 1                                | 2                                  | 3                              | 4                          |
+| -------------------------------- | ---------------------------------- | ------------------------------ | -------------------------- |
+| A                                | D                                  | A                              | A                          |
+| fui lo que no pude ser Y         | pudiera ser que solo soy lo que he | podido                         | - soy el hal               |
+| D                                | D                                  | A                              | A                          |
+| cón que ya no quiere ver Y apren | dió a ponerse la capucha él so     | lito                           | Alguien                    |
+| E                                | E           D                      | A                              | -                          |
+| mueve el cascabel pero es        | conde el veneno y los col          | millos                         | Es la                      |
+| A                                | D                                  | A                              | A                          |
+| forma de caer Es la              | forma de volver de los a           | bismos                         | - De escri                 |
+| D                                | D                                  | A                              | A                          |
+| bir sin más razón. De de         | cir por puro miedo a no saber de   | cirlo.                         | De apre                    |
+| E                                | E           D                      | A                              | -                          |
+| tar el corazón. De aflo          | jar de la cabeza los tor           | nillos.                        | -                          |
+| D                                | Bm                                 | A                              | -                          |
+| ¡Eh! Vosotros que me             | veis: decidme quién soy            | yo.                            | -                          |
+| Bm                               | D                                  | E                              | -                          |
+| ¡Eh! Quién necesita un           | rey, teniendo aquí un bu           | fón                            | -                          |
+| A                                | D                                  | A                              | A                          |
+| D                                | DE                                 | A                              | A                          |
+| A                                | D                                  | A                              | D                          |
+| Un criterio firme como una       | lápida.                            | Una gruesa capa de             | cemento                    |
+| A                                | D                                  | A                              | D                          |
+| Todo se borró al pasar la        | página.                            | Hubo una explosión por cada in | tento                      |
+| E                                | -                                  | D                              | -                          |
+| Ohhh                             | uooohhh,                           | oooohhhh                       | -                          |
+| A                                | D                                  | A                              | D                          |
+| La razón la encuentran los cul   | pables.                            | La verdad se queda en el ca    | mino.  Ya no               |
+| Bm                               | A                                  | E                              | D                          |
+| queda un corazón donde refu      | giarnos de nosotros                | mismos, de nosotros            | mismos                     |
+| D                                | Bm                                 | A                              | -                          |
+| ¡Eh! Vosotros que me             | veis: decidme quién soy            | yo.                            | -                          |
+| Bm                               | D                                  | E                              | -                          |
+| ¡Eh! Quién necesita un           | rey, teniendo aquí un bu           | fón                            | -                          |
+| D                                | Bm                                 | A                              | - Y cada                   |
+| D                                | Bm                                 | A                              | A                          |
+| vez que me miréis Si me encon    | tráis solo una vez                 | Solo una vez por cada          | vez. De cada vez que       |
+| D                                | Bm                                 | A                              | A                          |
+| digo. Que es tan fácil per       | der La vista como la mi            | rada. Si nadie nunca recor     | dara. Si todo hubiera sido |
+| D                                | Bm                                 | A                              | A                          |
+| nada. Y aunque es todo lo que    | crees. Nunca es solo lo que        | ves. Y vas naciendo cada       | vez. Y cada vez cadáver    |
+| D                                | Bm                                 | A                              | A                          |
+| Papapapapa                       | pa... papapapapa                   | pa... papapapapa               | pa                         |
+| D                                | Bm                                 | A                              | A                          |

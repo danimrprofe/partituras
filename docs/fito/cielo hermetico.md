@@ -17,103 +17,61 @@ E|-------------------------------------------------|
 (x2) (esta intro se repite en toda la cancion, como Am (menos en el coro))
 ```
 **Estrofa**
-```
-Am
-Suelo confundirme con facilidad,
-Am
-lo que siento y lo que escribo,
-Am
-A veces pienso que soy un sueño tan real
-Am
-Que casi me siento vivo
 
-F
-Y te lo juro que no puedo saber
-F
-Y te lo juro todo estaba oscuro
-
-Am
-Aquellos años pasaron tan rapido
-Am
-A dos gramos por segundo
-
-
-```
-**Estribillo**
-```
-
-               F       G      Am
-La vida se nos va, tan rápido
-                   C       G       Am
-No hay tiempo de sentir, el vértigo
-               F         G     Am
-A veces duele más que un látigo
-                D7      E7     Am
-Vivimos bajo un cielo hermético
-
-**Estrofa**
-Am
-Sabes, si quieres que te adore como un santo
-Am                                 F
-Contágiame la risa y cúrame el espanto
-    E7                    Am
-No quiero recordarlo otra vez
-
-Am
-Tarde, quizás para empezar ya sea tarde
-Am                              D7
-Quizás desde el principio fuera tarde
-  E7                  Am
-Y solo lo supimos después
-
-
-```
-**Estribillo**
-```
-
-               F       G      Am
-La vida se nos va, tan rápido
-                   C       G       Am
-No hay tiempo de sentir, el vértigo
-               F         G     Am
-A veces duele más que un látigo
-                D7      E7     Am
-Vivimos bajo un cielo hermético
-
-```
-**Interludio**
-```
-F     G     Am
-C     G     Am
-F     G     Am
-D7    E7    Am
-
-```
-**Puente**
-```
-                   F   G                 Am
-Yo te escribí la frase, mas triste de mi vida
-                 F              G         Am
-Tu nunca la recuerdas y es mas triste todavía
-               F    G                 Am
-No dejo de buscarte. No duermo sin pastillas
-                F              G           Am
-Disparo a mis verdades con pistolas de mentira
-
-
-```
-**Estribillo**
-```
-
-               F       G      Am
-La vida se nos va, tan rápido
-                   C       G       Am
-No hay tiempo de sentir, el vértigo
-               F         G     Am
-A veces duele mas que un látigo
-                D7      E7     Am
-Vivimos bajo un cielo hermético
-                F       E7    Am
-Vivimos bajo un cielo hermético
-
-```
+| 1                        | 2                            | 3                         | 4                            |
+| ------------------------ | ---------------------------- | ------------------------- | ---------------------------- |
+| Am                       | Am                           | Am                        | Am                           |
+| Suelo confundirme con fa | cilidad,                     | lo que siento y lo que es | cribo,  A veces              |
+| Am                       | Am                           | Am                        | Am                           |
+| pienso que soy un sueño  | tan real que                 | casi me siento            | vivo. Y te lo                |
+| F                        | F                            | F                         | F                            |
+| juro que no puedo sa     | ber. Y te lo                 | juro todo estaba os       | curo. Aquellos               |
+| Am                       | Am                           | Am                        | Am                           |
+| años pasaron tan         | rapido A                     | dos gramos por se         | gundo. La vida se nos        |
+| F                        | G                            | Am                        | Am                           |
+| va, tan                  | rápi                         | do.                       | No hay tiempo de sen-        |
+| C                        | G                            | Am                        | Am                           |
+| tir, el                  | vérti                        | go                        | A veces duele                |
+| F                        | G                            | Am                        | Am                           |
+| más que un               | láti                         | go                        | Vivimos bajo un              |
+| D7                       | E7                           | Am                        | Am                           |
+| cielo her                | méti                         | co                        | -                            |
+| Am                       | Am                           | Am                        | Am                           |
+| Sabes, si                | quieres que te adore como un | santo, contágia-          | me la risa y cúrame el es    |
+| F                        | E7                           | Am                        | F                            |
+| panto. No                | quiero recordarlo otra       | vez                       | -                            |
+| Am                       | Am                           | Am                        | Am                           |
+| Tarde, qui               | zás para empezar ya sea      | tarde. Qui                | zás desde el principio fuera |
+| D7                       | E7                           | Am                        | Am                           |
+| tarde. Y                 | solo lo supimos des          | pués                      | -       La vida se nos       |
+| F                        | G                            | Am                        | Am                           |
+| va, tan                  | rápi                         | do.                       | No hay tiempo de sen-        |
+| C                        | G                            | Am                        | Am                           |
+| tir, el                  | vérti                        | go                        | A veces duele                |
+| F                        | G                            | Am                        | Am                           |
+| más que un               | láti                         | go                        | Vivimos bajo un              |
+| D7                       | E7                           | Am                        | Am                           |
+| cielo her                | méti                         | co                        | -                            |
+| F                        | G                            | Am                        | Am                           |
+| C                        | G                            | Am                        | Am                           |
+| F                        | G                            | Am                        | Am                           |
+| D7                       | E7                           | Am                        | Am                           |
+| -                        | -                            | -                         | Yo te escribí la             |
+| F                        | G                            | Am                        | Am                           |
+| frase,                   | mas triste de mi             | vida                      | Tu nunca la re               |
+| F                        | G                            | Am                        | Am                           |
+| cuerdas y es mas         | triste toda                  | vía.                      | No dejo de bus               |
+| F                        | G                            | Am                        | Am                           |
+| carte.                   | No duermo sin pas            | tillas.                   | Disparo a mis ver            |
+| F                        | G                            | Am                        | Am                           |
+| dades con pis            | tolas de men                 | tira                      | -       La vida se nos       |
+| F                        | G                            | Am                        | Am                           |
+| va, tan                  | rápi                         | do.                       | No hay tiempo de sen-        |
+| C                        | G                            | Am                        | Am                           |
+| tir, el                  | vérti                        | go                        | A veces duele                |
+| F                        | G                            | Am                        | Am                           |
+| más que un               | láti                         | go                        | Vivimos bajo un              |
+| D7                       | E7                           | Am                        | Am                           |
+| cielo her                | méti                         | co                        | -      Vivimos bajo un       |
+| F                        | E7                           | Am                        | Am                           |
+| cie                      | lo herméti                   | co                        | -                            |
