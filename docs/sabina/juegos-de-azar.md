@@ -41,15 +41,14 @@ F                      G
 
 F               G
 Cuando me desperté
-     G         G/B        Am      Am/G
+     C         G/B        Am      Am/G
 Me besabas los párpados "¿Cómo te llamas?",
-
-              G            Fmaj7 C
+     F          G            Fmaj7 C
 te pregunté. Después amaneció
 
-C/G                           C
+G                           C
 Y así fue como el tabique de aquel hotel
-F          B       C
+F          C      G
 Que nos separaba cayó
 A#                 Am
 Tú tenías el cuarto 143
@@ -71,7 +70,7 @@ En un cine de barrio una voz me llamó,
 F              G                F   C
 desde el ambigú Y supe que eras tú
 
-C/G                            C
+G                            C
 Y la rara historia, otra vez, se repitió
 F         C            G
 Unos cuantos años después

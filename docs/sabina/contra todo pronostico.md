@@ -6,6 +6,7 @@ Capo 2
 F G F G
 
 [Verse]
+```
            C                  F
 Sé que respiro porque sigo huyendo
     Am             G          F
@@ -41,8 +42,9 @@ Buenos Aires barnizó mi corazón
 La vida me enseñó a jugar con fuego
        G                    C
 Y a decir Messi donde dije Diego
-
+```
 [Chorus]
+```
         F
 Contra todo pronóstico aprendí a caer de pie
         C
@@ -53,12 +55,14 @@ Que asegura que soy mi peor enemigo
 Que aquí me pillo, aquí me mato
          G       F           Em          D
 Que me llevo conmigo como el perro y el gato
-
+```
 [Interlude]
+```
 F G E Am
 F C E
-
+```
 [Verse]
+```
            C                  F
 Nunca he firmado daños a terceros
     Am             G          F
@@ -76,8 +80,9 @@ A veces duermo y no me acuerdo de soñar
 Y a veces cicatrizo las heridas
              G                    C
 Bailando el rock'n'roll de los suicidas
-
+```
 [Chorus]
+```
         F
 Contra todo pronóstico guitarra en bandolera
           C
@@ -100,3 +105,4 @@ Contra todo pronóstico aprendí a caer de pie
 Contra todo pronóstico derrapan otra vez
         G              F          C
 Los que dicen que soy mi peor enemigo
+```

@@ -563,7 +563,6 @@ no es porque digas la verdad, es porque nunca me has mentido.
 ```
 **Estribillo**
 ```
-
              A                     E
 No voy a sentirme mal si algo no me sale bien
                F#m                      D
@@ -659,23 +658,16 @@ Nota: Pega más con capo 1 y subiendo un tono. Los acordés pasan a ser C#m, E, 
 A mí­ me va mejor empezando con Am y capo 2
 
 **Estrofa**
-
 ```
-      Bm         D
-Ahhahhahh, ahhahhahh
-      Bm   A     D
-Ahhahhahh, ahhh, ahhh       [x2]
+      Bm         D      Bm      A      D
+Ahhahhahh, ahhahhahh Ahhahhahh, ahhh, ahhh       [x2]
 ```
 **Estrofa**
 ```
-A            G          D
-Cuanto se gritó diciendo nada
-A          G            D
-no pudimos ver con tanta luz
-A             G            D
-yo buscaba el cielo en tu mirada
-A         G                     D
-y nunca sabré lo que encontraste tu.
+A            G          D     A            G            D
+Cuanto se gritó diciendo nada. no pudimos ver con tanta luz
+A             G            D      A          G                     D
+yo buscaba el cielo en tu mirada. y nunca sabré lo que encontraste tu.
 ```
 **Estrofa**
 ```
@@ -690,7 +682,6 @@ que uno de esos sueños que me sueñe a mí­.
 ```
 **Estrofa**
 ```
-
            Bm                            D
 Detrás del viento un huracán, se fue formando en la cabeza
           Bm          A                D
@@ -702,11 +693,8 @@ solo un pequeño resplandor de nuestra hoguera.
 ```
 **Estrofa**
 ```
-
-      Bm         D
-Ahhahhahh, ahhahhahh
-      Bm   A     D
-Ahhahhahh, ahhh, ahhh
+      Bm         D      Bm      A      D
+Ahhahhahh, ahhahhahh Ahhahhahh, ahhh, ahhh       [x2]
 ```
 **Estrofa**
 ```
@@ -777,16 +765,12 @@ aun queda mucho por vivir.
 ```
 **Estrofa**
 ```
-
 D  A  G  D A    (x4)
 ```
 **Estrofa**
 ```
-
-      Bm         D
-Ahhahhahh, ahhahhahh
-      Bm   A     D
-Ahhahhahh, ahhh, ahhhh
+      Bm         D      Bm      A      D
+Ahhahhahh, ahhahhahh Ahhahhahh, ahhh, ahhh       [x2]
 ```
 
 <div style="page-break-after: always;"></div>
@@ -800,23 +784,19 @@ Hay dí­as que parece que nunca se va a apagar el sol, y otros son más tristes
 que una despedida en la estación. es igual que nuestra vida
                      Em  D               C                        G
 que cuando todo va bien,  un dí­a tuerces una esquina y te tuerces tu también.
-```
-```
 D        C                       G
 Esa telaraña que cuelga en mi habitación
 D                C                    G
 no la quito, no hace nada, solo ocupa su rincón.
-
 ```
 **Estribillo**
 ```
-
 C              B7                     Em
 Yo he crecido cerca de las ví­as y por eso sé,
 D                  C                        G
 que la tristeza y la alegrí­a, viajan en el mismo tren
 D(sorda)                                  G
-Â¿Quieres ver el mundo? Mira, esta debajo de tus pies.
+¿Quieres ver el mundo? Mira, esta debajo de tus pies.
 
 D C G x 4
 ```
@@ -834,8 +814,7 @@ No hay mas fuego en el infierno del que hay dentro de mi piel.
 D          C                         G
 Todo lo malo y lo bueno caben dentro de un papel.
 D(sorda)                                 G
-Â¿Quieres ver el mundo? Mira, está debajo de tus pies.
-
+¿Quieres ver el mundo? Mira, está debajo de tus pies.
 ```
 
 <div style="page-break-after: always;"></div>
