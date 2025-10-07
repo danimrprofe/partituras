@@ -17,7 +17,7 @@ Estrofa
 
             F            C/E           Am                      
 ¿Qué harías tú? Yo me empiezo A acostumbrar 
-   Am/G         F
+   Am/G         F 
 Se me va la fuerza
       G           C              C7                               
 Solo me dedico a aullar, a inventar respuestas. 
@@ -40,7 +40,9 @@ Se me va la fuerza
 Solo me dedico a aullar, a inventar respuestas. 
 Dm                  G      G7        C        
 Déjame estar Peligrosamente dark
+
 C Cmaj7 F G
+
           Am                F
 La vida está tan de nuestro lado
       G                   C

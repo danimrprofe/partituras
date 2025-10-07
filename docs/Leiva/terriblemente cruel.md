@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=I_3JWgVJA8A
 ```
 Am               E7
 uoooooh oooh ooh ooooooooh
-             F          C         G
+             F          C         G/B
 uoooooh uooh ooh oooooh ooooh ooh oooh
 ```
 **Estrofa**
