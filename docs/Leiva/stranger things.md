@@ -1,137 +1,76 @@
 # Stranger things
 
-Capo 2
+Capo 2. Re mayor. 79 bpm
 
 ```
-[Verse 1]
-  Am
-No recuerdo pasar
-     Em
-Por un enero tan hostil
-     C7
-Te juro que no sé cómo
-         F
-Alejarte de mí
+     Am  	            Em	  	            
+No recuerdo pasar por un enero tan hostil. 
+   C7  	              F
+Te juro que no sé cómo alejarte de mí
+     Dm			      Em			     		
+Y no sé descifrarlo En un punto lo extraño 
+        F                       Ab        C
+Voy a echarme hacia un lado Sellarme los labios
 
-     Dm
-Y no sé descifrarlo
-      Em
-En un punto lo extraño
-       F
-Voy a echarme hacia un lado
-Ab              C
-Sellarme los labios
+     Am		       Em			               
+He podido pasar quinientas veces por allí 
+       C7                            F
+pero siempre me siento extraña Y no sé qué decir
+     Dm	              Em		                     
+Solamente pensarlo me levanto dos palmos. 
+       F              G		Am
+He empezado mi año girando y girando.
 
-[Verse 2]
-    Am
-He podido pasar
-    Em
-Quinientas veces por allí
-     C7
-Pero siempre me siento extraña
-     F
-Y no sé qué decir
+Estribillo
 
-   Dm
-Solamente pensarlo
-    Em
-Me levanto dos palmos
-     F
-He empezado mi año
-   G        Am
-Girando y girando
-
-
-[Bridge]
-         F
-Hay una fuerza extraña
-         G
-Hay un rumor enfermo
-         C            G/B    Am
+          F			      G			         
+Hay una fuerza extraña. Hay un rumor enfermo. 
+          C            G/B      Am
 Hay un montón de lava por el suelo
+              Dm			          Em			                
+Ya sé que, a veces, lo has pensado y no me lo dirías jamás. 
+      F		     G            C
+Me arrancarías los sueños de las manos.
 
-             Dm
-Ya sé que, a veces, lo has pensado
-  Em
-Y no me lo dirías jamás
-     F
-Me arrancarías
-     G            C
-Los sueños de las manos
+Estrofa
 
+      Am	         Em				
+En el mismo canal después de ver Stranger Things 
+     C7		     	               F
+han pasado tu peli nueva Y me he querido morir
+          Dm			        Em			        
+Te has quedado aguantando con los ojos en blanco. 
+       F  	             G      Am
+Nunca supe que estabas Tan atrapado
 
-[Verse 3]
-    Am
-En el mismo canal
-  Em
-Después de ver Stranger Things
-     C7
-Han pasado tu peli nueva
-         F
-Y me he querido morir
+Estribillo
 
-       Dm
-Te has quedado aguantando
-      Em
-Con los ojos en blanco
-      F
-Nunca supe que estabas
-G        Am
-Tan atrapado
+          F			      G			         
+Hay una fuerza extraña. Hay un rumor enfermo. 
+          C            G/B      Am
+Hay un montón de lava por el suelo
+              Dm			          Em			                
+Ya sé que, a veces, lo has pensado y no me lo dirías jamás. 
+      F		     G            C
+Me arrancarías los sueños de las manos.
 
+Puente
 
-[Bridge]
-           F
-No hay una sola estrella
-           G
-No hay un amigo a mano
-         C
-Hay una chica extraña
-G/B   Am
-A mi lado
-
-           Dm
-Ya sé que, a veces, lo has pensado
- Em
-Y no me lo dirías jamás
-   F
-Me arrancarías
-    Ab            C
-Los sueños de las manos
-
-
-**Estribillo**
-        F
-Hay una llave experta
-        C/E
-Hay un volcán ahogado
-        E7                Am      G
+          F 		           C/E  		                 
+Hay una llave experta. Hay un volcán ahogado. 
+         E7                   Am  G
 Hay un idiota con los ojos vendados
-
-         F
-Hay una puerta abierta
-        F#dim
-Hay un dolor guardado
-     G
-Hay algo más
-       F    Fdim Am Am/G Cdim F  G
-Tenlo claro
-
-        F
-Hay una llave experta
-        C/E
-Hay un volcán ahogado
-        E7                Am      G
+          F			  F#dim		          
+Hay una puerta abierta. Hay un dolor guardado. 
+    G                 F    Fdim Am Am/G Cdim F  G
+Hay algo más. Tenlo claro
+          F 		           C/E  		                 
+Hay una llave experta. Hay un volcán ahogado. 
+         E7                   Am      G
 Hay un idiota con los ojos vendados
+         F	  		          F#dim		          
+Hay una puerta abierta. Hay un dolor guardado. 
+    G                 F   Fm       C
+Hay algo más. Tenlo claro. Tenlo claro
 
-         F
-Hay una puerta abierta
-        D/F#
-Hay un dolor guardado
-     G
-Hay algo más
-       F   Fm
-Tenlo claro
-       C
-Tenlo claro
 ```
