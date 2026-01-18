@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA
+```
+JOAQUÍN SABINA
 ASÍ ESTOY YO SIN TI
 INTRO
 G  Am7   Bm C/G   Bm Am7   C/G    C
@@ -92,3 +93,5 @@ Así estoy yo, Así estoy yo. Así estoy yo, sin ti.
 
 
 
+
+```

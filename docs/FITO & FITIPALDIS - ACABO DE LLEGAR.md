@@ -1,4 +1,5 @@
-﻿================================================================================
+```
+================================================================================
 ARTISTA: FITO & FITIPALDIS
 CANCIÓN: ACABO DE LLEGAR
 ÁLBUM:   POR LA BOCA VIVE EL PEZ (2006)
@@ -75,3 +76,5 @@ ooh que te voy a decir, que te voy a decir
 FINAL
 F | C | G | Am
 
+
+```

@@ -1,3 +1,4 @@
+```
 Capo:
 no capo
           F              G
@@ -138,3 +139,4 @@ F G Am Em F  E
      ...se lo vuoi 
 F G Am Em F  E
      ...se lo vuoi 
+```

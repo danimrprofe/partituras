@@ -1,4 +1,5 @@
-﻿AMARAL 
+```
+AMARAL 
 TE NECESITO 
 ESTROFA
 F#7      G         A               D
@@ -57,3 +58,5 @@ G         A      D           A         F#7
 F#7  G     A   Bm   G  A  Bm  G     A   Bm
 oooooh Te necesito              te necesito
 
+
+```

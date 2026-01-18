@@ -1,4 +1,5 @@
-﻿================================================================================
+```
+================================================================================
 ARTISTA: JOHNNY CASH
 CANCIÓN: HURT
 ÁLBUM:   AMERICAN IV: THE MAN COMES AROUND (2002)
@@ -61,3 +62,5 @@ Am7            Fadd9  G
 I would keep myself,  I would find a way
                     (single strum)
 
+
+```

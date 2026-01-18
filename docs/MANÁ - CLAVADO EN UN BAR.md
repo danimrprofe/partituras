@@ -1,4 +1,5 @@
-﻿MANÁ - CLAVADO EN UN BAR
+```
+MANÁ - CLAVADO EN UN BAR
 MANÁ
 Sin capo
 ¡Oh yeah!
@@ -57,3 +58,5 @@ C#m                 E                    B                    F#m  E
 Ven a rescatarme amor Yo quiero ser tu sol. Yo quiero ser tu mar Oooohhh
 
 
+
+```

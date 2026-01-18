@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - SON SUEÑOS
+```
+EL CANTO DEL LOCO - SON SUEÑOS
 EL CANTO DEL LOCO
 Medio tono abajo
 ESTROFA
@@ -40,3 +41,5 @@ por eso te tengo que encontrar
 
 
 
+
+```

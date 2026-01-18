@@ -1,4 +1,5 @@
-﻿NACHA POP - LUCHA DE GIGANTES
+```
+NACHA POP - LUCHA DE GIGANTES
 Nacha pop
 
 C9 - Dsus - Em7 - A7 (X2)
@@ -35,3 +36,5 @@ C9              Dsus            Em7   Am7
 C9              Dsus            Em7 ~
     Deja que pasemos...     sin miedo
 
+
+```

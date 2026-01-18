@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 PASTILLAS PARA NO SOÑAR
 ESTROFA
 A           D          E	              
@@ -69,3 +70,5 @@ Bm            D                  G
 ¿tiene pastillas para no soñar?
 
 
+
+```

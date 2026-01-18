@@ -1,4 +1,5 @@
-﻿BAND OF HORSES
+```
+BAND OF HORSES
 THE FUNERAL
 Capo 3
 INTRO
@@ -63,3 +64,5 @@ And every occasion, oh, one-billion-day funeral
 FINAL
 | F   | C   | G   | C   | x5
 
+
+```

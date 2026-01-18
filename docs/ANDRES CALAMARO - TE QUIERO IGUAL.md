@@ -1,4 +1,5 @@
-﻿ANDRES CALAMARO 
+```
+ANDRES CALAMARO 
 TE QUIERO IGUAL 
         G       D              Em          C
 Te quiero, pero te llevaste la flor y me dejaste el florero.
@@ -48,3 +49,5 @@ Te quiero, pero te llevaste marzo y te rendiste en febrero.
 G           D          G
 Primero, te quiero, igual.
 
+
+```

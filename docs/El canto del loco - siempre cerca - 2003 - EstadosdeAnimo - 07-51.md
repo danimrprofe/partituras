@@ -1,3 +1,4 @@
+```
 **************************************************
 *                                                *
 *            El Canto del Loco                  *
@@ -64,3 +65,4 @@ que lo único q importa, es q no estés sólo.
 Sabes, algo va a pasar, nada vuelve a ser igual
                      E                    F#
 pero lo único q importa... es que nos importas
+```

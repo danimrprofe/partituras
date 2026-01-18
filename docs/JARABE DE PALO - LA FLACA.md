@@ -1,4 +1,5 @@
-﻿JARABE DE PALO 
+```
+JARABE DE PALO 
 LA FLACA 
 Am E7 D  C  F7
 Am E7
@@ -70,3 +71,5 @@ Aunque solo uno fuera...            x4
 Am  D7            Am  D7
 Aunque solo uno fuera...            x4
 
+
+```

@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 CORAZÓN OXIDADO
 Capo 2
 ESTROFA
@@ -82,3 +83,5 @@ mi pobre corazón en pelotas,
    C                E
 mi pobre corazón en Fa sostenido
 
+
+```

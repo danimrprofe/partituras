@@ -1,4 +1,5 @@
-﻿REVOLVER - ESCLAVO DE TU AMOR
+```
+REVOLVER - ESCLAVO DE TU AMOR
 REVÓLVER
 SIN CAPO
 INTRO
@@ -72,3 +73,5 @@ que seguir siendo el esclavo de tu amor
       Am               D           G Cadd9 G
 que seguir siendo el esclavo de tu amor
 
+
+```

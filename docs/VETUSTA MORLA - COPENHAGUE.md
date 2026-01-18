@@ -1,4 +1,5 @@
-﻿VETUSTA MORLA 
+```
+VETUSTA MORLA 
 COPENHAGUE
 Palm mute 3+3+2.
 Bm = x244xx A = x022xx A2 = x012xx
@@ -98,3 +99,5 @@ E          Bm       A .............
     o empezaaaaaaaaaaaaaa.........
 
 
+
+```

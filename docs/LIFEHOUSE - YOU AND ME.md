@@ -1,4 +1,5 @@
-﻿LIFEHOUSE - YOU AND ME
+```
+LIFEHOUSE - YOU AND ME
 Lifehouse
 Capo: No. A = A7sus4 C = Cadd9 y D 
 INTRO
@@ -81,3 +82,5 @@ What day is it and in what month,
 this clock never seemed so alive                         
 
 
+
+```

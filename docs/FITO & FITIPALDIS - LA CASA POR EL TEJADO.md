@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 LA CASA POR EL TEJADO
 INTRO
 Em D
@@ -79,3 +80,5 @@ todo lo que sé me lo enseñó una bruja
 FINAL
 Em B7 D D7
 
+
+```

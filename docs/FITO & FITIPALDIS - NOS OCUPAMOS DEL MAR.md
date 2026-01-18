@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 NOS OCUPAMOS DEL MAR
 Fito & Fitipaldis
 Capo 2
@@ -46,3 +47,5 @@ Es cansado Por eso al llegar la noche Ella descansa a mi lado
         G   D         G
 Y mis manos en su costado
 
+
+```

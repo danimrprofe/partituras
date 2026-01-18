@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 POR LA BOCA VIVE EL PEZ
 Capo 3
 INTRO
@@ -66,3 +67,5 @@ Para decirte lo que nunca canto Para cantarte lo que nunca digo
 Dm Am F E Am (x 2)
 Dm G Am   F E Am (x 2) F  E  Am (x 2)
 
+
+```

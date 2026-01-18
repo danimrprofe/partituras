@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 GARABATOS
 Capo 1
 INTRO
@@ -82,3 +83,5 @@ Fm Cm D# A# Cm
 Fm D# A# C
 Fm D# G# Cm Fm D# A# Cm
 
+
+```

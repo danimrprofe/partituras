@@ -1,4 +1,5 @@
-﻿REVOLVER 
+```
+REVOLVER 
 EL ROCE DE TU PIEL
 REVÓLVER
 INTRO
@@ -96,3 +97,5 @@ corriendo por mis venas
 Am         D                   G
 nada mejor que el roce de tu piel
 
+
+```

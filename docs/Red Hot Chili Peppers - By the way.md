@@ -1,3 +1,4 @@
+```
 [Intro]
 F C Am
  
@@ -135,3 +136,4 @@ By the way I tried to say I'd be there, waiting for
  
  
 ***play a pattern which invoves a lot of string muting
+```

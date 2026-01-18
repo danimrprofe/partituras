@@ -1,4 +1,5 @@
-﻿3 DOORS DOWN 
+```
+3 DOORS DOWN 
 BE LIKE THAT
 ESTROFA
 G                            D		Em                             C
@@ -45,3 +46,5 @@ Just to live one day, in those shoes
 G                   D				Em                C
 If I could be like that, what would I do, what would I do?
 
+
+```

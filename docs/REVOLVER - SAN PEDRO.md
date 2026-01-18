@@ -1,4 +1,5 @@
-﻿REVOLVER - SAN PEDRO
+```
+REVOLVER - SAN PEDRO
 Revólver
 INTRO
 G C G C
@@ -112,3 +113,5 @@ llenamos el corazón, violencia y calma a la vez,
 NOS PROMETIMOS EL MAR. (SE REPITE HASTA EL FINAL)
 
 
+
+```

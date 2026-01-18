@@ -1,4 +1,5 @@
-﻿LOVE OF LESBIAN - ALLÍ DONDE SOLÍAMOS GRITAR
+```
+LOVE OF LESBIAN - ALLÍ DONDE SOLÍAMOS GRITAR
 Love of lesbian
 Capo 1
 INTRO
@@ -92,3 +93,5 @@ No preguntabas
 Tú nunca, no
 
 
+
+```

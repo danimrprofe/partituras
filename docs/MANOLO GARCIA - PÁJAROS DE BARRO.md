@@ -1,4 +1,5 @@
-﻿MANOLO GARCIA - PÁJAROS DE BARRO
+```
+MANOLO GARCIA - PÁJAROS DE BARRO
 Manolo garcía
 Capo 1
 Em                    D		    Am7    Em
@@ -50,3 +51,5 @@ Ahora sopla el viento, cuando el mar quedó lejos hace tiempo.
 G       Bm7			         C      G
 En los valles me pierdo, en las carreteras duermo.
 
+
+```

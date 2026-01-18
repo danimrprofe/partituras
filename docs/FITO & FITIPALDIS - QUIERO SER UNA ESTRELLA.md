@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS
+```
+FITO & FITIPALDIS
 QUIERO SER UNA ESTRELLA
 Sin capo
 D                               G           D	                                                                        
@@ -51,3 +52,5 @@ Ay ahí voy, en el camino de la fama ya estoy.
     +     A               G                    D
 Quiero ser una estrella la más brillante de hoy
 
+
+```

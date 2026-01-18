@@ -1,3 +1,4 @@
+```
 Afinación:
 E A D G B E
 Cejilla:
@@ -128,3 +129,5 @@ You will burn in hell, tell us if you're scared
 | D5     | A#5    | F5     | C5     |
 | D5     | A#5    | F5     | C5     | D5     |
 X
+
+```

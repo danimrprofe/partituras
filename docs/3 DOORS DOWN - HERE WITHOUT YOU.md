@@ -1,4 +1,5 @@
-﻿3 DOORS DOWN 
+```
+3 DOORS DOWN 
 HERE WITHOUT YOU
 INTRO
 Bm    G  A
@@ -64,3 +65,5 @@ I'm here without you, baby but you're still with me in my dreams
         G    A                    Bm   A    Bm  G  A
 And tonight, there's only you and me, yeah
 
+
+```

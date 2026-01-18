@@ -1,4 +1,5 @@
-﻿COREY TAYLOR 
+```
+COREY TAYLOR 
 SNUFF
 INTRO
 Am Em F C
@@ -70,3 +71,5 @@ If You Still Care, Don't Ever Let Me Know
 If you still care, don't ever let me know
 Am 
 
+
+```

@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		El canto del loco
 Canción:	11. Busco la vida
@@ -63,3 +64,5 @@ Am              C
 Entre luz de colores,
             D
 Colores sin más
+
+```

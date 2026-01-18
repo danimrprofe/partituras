@@ -1,3 +1,4 @@
+```
 Afinación:
 E A D G B E
 Cejilla:
@@ -123,3 +124,5 @@ She's my priestess, I'm your priest, yeah, yeah
 | F C | Dm G |
 | F C | Dm
 X
+
+```

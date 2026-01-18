@@ -1,4 +1,5 @@
-﻿FRENTE! 
+```
+FRENTE! 
 BIZARRE LOVE TRIANGLE
 ESTROFA
 F              G			       Em                        Am
@@ -53,3 +54,5 @@ I'm waiting for that FINAL moment
 Em                       Am
 You'll say the words that I can't say
 
+
+```

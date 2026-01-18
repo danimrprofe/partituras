@@ -1,4 +1,5 @@
-﻿PEREZA 
+```
+PEREZA 
 PIENSO EN AQUELLA TARDE
 Capo 3. Original en sol mayor.
 INTRO
@@ -79,3 +80,5 @@ Yo pienso en aquella tarde cuando me arrepentí de todo.
 G                    Cadd9       Em7               D   G
 Yo pienso en aquella tarde cuando me arrepentí de todo.
 
+
+```

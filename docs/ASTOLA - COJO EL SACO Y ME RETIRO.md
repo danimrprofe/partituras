@@ -1,4 +1,5 @@
-﻿ASTOLA
+```
+ASTOLA
 COJO EL SACO Y ME RETIRO
 Astola
 Am F G Am G x2
@@ -71,3 +72,5 @@ F G Am G x2
 G E Am
 
 
+
+```

@@ -1,4 +1,5 @@
-﻿REVOLVER - MI RENDICIÓN
+```
+REVOLVER - MI RENDICIÓN
 REVÓLVER
 SIN CAPO
 INTRO
@@ -87,3 +88,5 @@ C                D      G
 Ya no volveré a firmar mi rendición.
 
 
+
+```

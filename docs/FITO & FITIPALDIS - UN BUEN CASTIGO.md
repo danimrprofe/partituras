@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 UN BUEN CASTIGO
 INTRO
 Bm A A Bm
@@ -57,3 +58,5 @@ Ah ahh aah ahh
 FINAL
 G A | Bm | G A | Bm (hasta el FINAL)
 
+
+```

@@ -1,3 +1,4 @@
+```
 knockin on heavens door - GUNS N ROSES Tabs/Tablatures/Lyrics/Chords - Guitar/Bass - TAB POWERSearch 
                   tabs by artist/band name or song title:     
 
@@ -271,9 +272,10 @@ RIFF 2 (04:51) 4x
             You may find new text or lyric, free tabs for guitars and basses 
             here.
 
-            © 2002 TabPower.comAll tabs are the author's own work and represents 
+            ï¿½ 2002 TabPower.comAll tabs are the author's own work and represents 
             their interpretation of the song.
             You may only use this file for private study, scholarship, or 
             research. 
 
 Tablatures for: knockin on heavens door - Song: GUNS N ROSES Tablature/Chords 
+```

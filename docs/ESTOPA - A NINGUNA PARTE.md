@@ -1,4 +1,5 @@
-﻿ESTOPA 
+```
+ESTOPA 
 A NINGUNA PARTE
 Bm en 7º traste, A en 5º, F#m7
 INTRO
@@ -89,3 +90,5 @@ Em              A
 A ninguna parte. 
 
 
+
+```

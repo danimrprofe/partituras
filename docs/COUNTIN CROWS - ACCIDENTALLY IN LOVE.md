@@ -1,4 +1,5 @@
-﻿COUNTIN CROWS 
+```
+COUNTIN CROWS 
 ACCIDENTALLY IN LOVE
 INTRO
 G   C   G   D
@@ -95,3 +96,5 @@ Come on, come on
      C              D        Em    D             G
 Just get yourself inside her love.....I'm in love
 
+
+```

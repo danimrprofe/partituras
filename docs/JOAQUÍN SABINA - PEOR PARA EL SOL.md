@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 PEOR PARA EL SOL
          G        D          G           G       D         Em
 ¿Que adelantas sabiendo mi nombre? Cada noche tengo uno distinto
@@ -57,3 +58,5 @@ si soñe o era tuya la ardiente voz que me iba diciendo al oído
 "me moria de ganas querido de verte otra vez"
 ESTRIBILLO
 
+
+```

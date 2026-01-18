@@ -1,4 +1,5 @@
-﻿JOHN LENON - WORKING CLASS HERO
+```
+JOHN LENON - WORKING CLASS HERO
 JOHN LENON
 
 Am
@@ -99,3 +100,5 @@ A working class hero is something to be
 
 
 
+
+```

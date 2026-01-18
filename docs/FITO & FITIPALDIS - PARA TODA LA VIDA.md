@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 PARA TODA LA VIDA
 G                            C			                                                     
 Cuando estuviste conmigo, jamás te dije mentira, 
@@ -43,3 +44,5 @@ querer al querer y lo doy para toda la vida.
     G                          G F C
 Si quisiera vivir de placer ¡ay! para toda la vida... 
 
+
+```

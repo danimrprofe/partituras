@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		Zapatillas, 2005
 Canción:	Zapatillas
@@ -47,3 +48,4 @@ C    | G    | A   | G
 C    | G    | E   | E
 -----+------+-----+--------
 A
+```

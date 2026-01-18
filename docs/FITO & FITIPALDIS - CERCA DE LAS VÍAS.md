@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 CERCA DE LAS VÍAS
 ESTROFA
 D               C                      G                  
@@ -40,3 +41,5 @@ D(sorda)         C                       G
 
 
 
+
+```

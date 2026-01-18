@@ -1,4 +1,5 @@
-﻿REVOLVER - EL DORADO
+```
+REVOLVER - EL DORADO
 REVOLVER
 INTRO 
 
@@ -135,3 +136,5 @@ Vi a mis padres correr...
    C          G             C       F
 Vi a mis padres luchar
 
+
+```

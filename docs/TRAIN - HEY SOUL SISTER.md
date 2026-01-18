@@ -1,4 +1,5 @@
-﻿TRAIN 
+```
+TRAIN 
 HEY SOUL SISTER
 Train
 Afinación: E A D G B E
@@ -102,3 +103,5 @@ Tonight Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay
 Tonight Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay
    C
 
+
+```

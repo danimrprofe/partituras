@@ -1,3 +1,4 @@
+```
          E                   Am           
 Que yo no quiero que diga la gente
          E                   Am
@@ -49,3 +50,4 @@ Tu lo quisiste y tu lo has conseguido
 Tan solo quiero quitarte de en medio
              F                       E 
 Estar agustito y que me dejes en paz.
+```

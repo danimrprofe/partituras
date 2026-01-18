@@ -1,3 +1,4 @@
+```
 **************************************************
 *                                                *
 *            El Canto del Loco                  *
@@ -73,3 +74,4 @@ Bm
 de actuar sabes que es verdad sabes quién 
      F#m      Em        F#         G 
 te admira y quien te quiere de verdad 
+```

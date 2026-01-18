@@ -1,4 +1,5 @@
-﻿PEREZA 
+```
+PEREZA 
 COMO LO TIENES TU
 INTRO
 G | C | G | D
@@ -107,3 +108,5 @@ Como lo tienes tu, como lo tienes tu,
 como quisiera tenerlo tan claro. como lo tienes tu
 
 
+
+```

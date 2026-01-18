@@ -1,4 +1,5 @@
-﻿SOPA DE CABRA - L'EMPORDA
+```
+SOPA DE CABRA - L'EMPORDA
 SOPA DE CABRA
 Mejor bajando 2 tonos y capo 4
 
@@ -78,3 +79,5 @@ potser que avui no es suicidi
 C#m    A    B        A
 potser ho deixi fins demà.
 
+
+```

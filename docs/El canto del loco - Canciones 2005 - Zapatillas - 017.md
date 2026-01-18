@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		Zapatillas, 2005
 Canción:	Canciones
@@ -48,3 +49,4 @@ A    | E    | D   | E (Estribillo)
 A    | E    | D   | -
 A    | E    | D   | E
 A    | E    | D   | -
+```

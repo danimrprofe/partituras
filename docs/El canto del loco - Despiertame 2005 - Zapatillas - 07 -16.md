@@ -1,3 +1,4 @@
+```
 **************************************************
 *                                                *
 *            El Canto del Loco                  *
@@ -73,3 +74,4 @@ Despiértame, que paraste el tiempo y nada sucedió
 y acuéstate, vuelve a contar el cuento donde acaba bien 
 Em      D     G 
 donde acaba bien
+```

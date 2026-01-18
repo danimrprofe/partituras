@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		El canto del loco
 Canción:	08. No quiero nada
@@ -82,3 +83,5 @@ Na, na, na, na, na, na, na...
 E      D       G      A
 Na, na, na, na, na, na, na...
 
+
+```

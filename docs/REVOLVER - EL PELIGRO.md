@@ -1,4 +1,5 @@
-﻿REVOLVER - EL PELIGRO
+```
+REVOLVER - EL PELIGRO
 REVÓLVER
 CAPO 2
 INTRO: D  BM  EM  G
@@ -103,3 +104,5 @@ Pero aquí ¿Quién no es cobarde por amor?
  
 FINAL: G EM AM C X2
 
+
+```

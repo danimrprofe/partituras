@@ -1,3 +1,4 @@
+```
 **************************************************
 *                                                *
 *            El Canto del Loco                  *
@@ -69,3 +70,4 @@ A        D      E
 Na , na, na, na, na ... vuelvete loco ya.
 A        D      E
 na , na ,na,na, na tan solo un poco mas.
+```

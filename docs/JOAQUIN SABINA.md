@@ -1,4 +1,5 @@
-﻿JOAQUIN SABINA 
+```
+JOAQUIN SABINA 
 EL BLUES DEL AUTOBUS
 /  Am7   G   Am7   C7M   G  /
  
@@ -54,3 +55,5 @@ Si podemos conectar lo demás se puede olvidar     ¡Oh!........
  
 Vivo en la carretera........
 
+
+```

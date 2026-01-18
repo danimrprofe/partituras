@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 BARBI SUPERESTAR          
  G-F-C
 ESTROFA
@@ -74,3 +75,5 @@ Bb                          F                G-F-C
 todavía, por Vallecas, la llaman: Barbi Superestar.
 
 
+
+```

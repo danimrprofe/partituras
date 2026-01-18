@@ -1,3 +1,4 @@
+```
 [Intro]
 D5 A5 B5 Bb5 A5
 D5 A5 B5 Bb5 A5
@@ -54,3 +55,5 @@ F5 I'm with the sk8er boi, C5 I said see ya later boy, Bb5 I'll be backstage aft
 F5 I'll be at the studio, C5 singing the song we wrote, Bb5 about a girl you used to C5 know
 
 
+
+```

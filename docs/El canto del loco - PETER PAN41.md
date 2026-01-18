@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - PETER PAN
+```
+EL CANTO DEL LOCO - PETER PAN
 EL CANTO DEL LOCO
 Capo 2
 ESTROFA
@@ -90,3 +91,5 @@ la zona mala quiere ahora descansar.
                    Gm
 Que Campanilla te cuide y te guarde.
 
+
+```

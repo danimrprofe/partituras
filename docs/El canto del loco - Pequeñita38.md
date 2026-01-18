@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Canción:	Pequeñita
 Disco:		El Canto del Loco (2000)
@@ -101,3 +102,4 @@ Pequeñita donde vas pequeñita no me fio ni un pelo de tu carita bonita
 Pequeñita donde vas pequeñita no me fio ni un pelo de tu carita bonita
      A                     Bm          A                          G
 Pequeñita donde vas pequeñita no me fio ni un pelo de tu carita bonita
+```

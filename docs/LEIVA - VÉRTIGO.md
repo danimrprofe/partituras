@@ -1,4 +1,5 @@
-﻿LEIVA - VÉRTIGO
+```
+LEIVA - VÉRTIGO
 Leiva
 Capo 1. Palm mute con la eléctrica
 ESTROFA
@@ -49,3 +50,5 @@ no encuentro ni un instante de paz.
 no encuentro ni un instante de paz.
 
 
+
+```

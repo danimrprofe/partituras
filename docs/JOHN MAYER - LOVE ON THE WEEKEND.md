@@ -1,4 +1,5 @@
-﻿JOHN MAYER 
+```
+JOHN MAYER 
 LOVE ON THE WEEKEND
 INTRO
 G (Strum Once)
@@ -85,3 +86,5 @@ G     C
         Love on the weekend
 
 
+
+```

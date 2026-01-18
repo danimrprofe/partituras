@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		Personas
 Canción:	La vida (05)
@@ -83,3 +84,4 @@ siempre quedará nuestro fin de semana
 A                      B
 y llegará el domingo otra vez
  
+```

@@ -1,3 +1,4 @@
+```
 [Intro]
 N.C.
 No veo alma en la era digital
@@ -104,3 +105,4 @@ Eb      Bb          Cm Gm
 Iros a tomar por el culo
 Eb       Bb         Cm Gm Eb
 Iros a tomar por el culo
+```

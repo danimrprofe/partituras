@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 SOBRA LA LUZ
 Sin capo
 ESTROFA
@@ -37,3 +38,5 @@ Am                        Dm            E                  Am
 Como venganza de la buena suerte. O recompensa de la mala vida
 Am Dm E7 Am
 
+
+```

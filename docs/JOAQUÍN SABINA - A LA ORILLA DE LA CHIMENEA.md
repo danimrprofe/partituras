@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 A LA ORILLA DE LA CHIMENEA
 ESTROFA
 G               D		            Em                  
@@ -57,3 +58,5 @@ G       F      C	       G      F        C
 O tal vez esa sombra. O tal vez ese viento
 
 
+
+```

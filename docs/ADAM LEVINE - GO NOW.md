@@ -1,4 +1,5 @@
-﻿ADAM LEVINE 
+```
+ADAM LEVINE 
 GO NOW
 INTRO
 Bb Gm Eb F x2
@@ -46,3 +47,5 @@ You're never gonna go If you don't go now, you're never gonna know If you don't 
 You're never turning back. Never turning around. You're never gonna go. If you don't go now
 Bb Gm Eb
 
+
+```

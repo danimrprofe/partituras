@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 14 VIDAS SON DOS GATOS
 Capo 3
        Bm          D                
@@ -91,3 +92,5 @@ Ah Ah Aaah, Ah Ah Aaah
 Bm      A         D
 Ah Ah Aaah, ahhh, ahhh 
 
+
+```

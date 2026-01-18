@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 ROSA DE LIMA
 INTRO
 F#m  Em   F#m  Em   G  D 
@@ -82,3 +83,5 @@ Hasta las suelas de mis zapatos te echan de menos.
 C                  G              D
  Ropa de abrigo ven vente conmigo
 
+
+```

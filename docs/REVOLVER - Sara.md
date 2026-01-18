@@ -1,4 +1,5 @@
-﻿REVOLVER - Sara
+```
+REVOLVER - Sara
 Revólver
 Capo 2
 INTRO
@@ -90,3 +91,5 @@ Sara ha vuelto a la ciudad.
 Sara ha vuelto a la ciudad.    
  
 
+
+```

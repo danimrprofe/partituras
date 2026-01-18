@@ -1,4 +1,5 @@
-﻿THE BEATLES 
+```
+THE BEATLES 
 NOW AND THEN
 BEATLES
 Am/E  00221x
@@ -79,3 +80,5 @@ It's all because,        of  yoooohooohooh
  Am   G6   E7
  Am  Asus4  G6  Fmaj7  E  Am
 
+
+```

@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 SIEMPRE ESTOY SOÑANDO
 Sin capo. Mejor con quintas y palm mute
  C  x4
@@ -47,3 +48,5 @@ en invierno con el sol, con las nubes en
 C              D            G      C               G           C
 mientras me aguanten los huesos... mientras me aguanten los huesos.
 
+
+```

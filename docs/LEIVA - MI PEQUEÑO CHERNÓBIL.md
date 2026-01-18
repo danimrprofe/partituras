@@ -1,4 +1,5 @@
-﻿LEIVA - MI PEQUEÑO CHERNÓBIL
+```
+LEIVA - MI PEQUEÑO CHERNÓBIL
 LEIVA
 
 INTRO
@@ -74,3 +75,5 @@ G      Bm    Em          C G      Bm    Em
 ¿Que vendrá después? De los años muertos ¿Qué vendrá después? X2
 
 
+
+```

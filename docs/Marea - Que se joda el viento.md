@@ -1,3 +1,4 @@
+```
 Tom: Am
 INTRO:
 Am  Dm  G      |
@@ -100,3 +101,5 @@ Y si a las heridas kiere exarles sal solo va a
 encontrarse cerrojos
 F            C/G              Am
 Y las cicatrices...
+
+```

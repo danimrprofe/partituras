@@ -1,4 +1,5 @@
-﻿PEREZA 
+```
+PEREZA 
 MADRID
 Sin capo
 INTRO
@@ -73,3 +74,5 @@ C                  D          G    Em  G   Em  G   Em  F  C
 eres mi rincón favorito de Madrid.
 FINAL: G  
 
+
+```

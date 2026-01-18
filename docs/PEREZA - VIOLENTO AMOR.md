@@ -1,4 +1,5 @@
-﻿PEREZA 
+```
+PEREZA 
 VIOLENTO AMOR
 Capo 4
 G        D C            G     D   C		
@@ -52,3 +53,5 @@ A veces voy a ver si estás
     Em     C      G             D
 siempre me da por aaah aaaha aahaahi.
 
+
+```

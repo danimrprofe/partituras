@@ -1,4 +1,5 @@
-﻿CALUM SCOTT
+```
+CALUM SCOTT
 DANCING ON MY OWN
 ESTROFA
 G         D                   C		
@@ -61,3 +62,5 @@ so far away but still so near (the lights go on, the music dies)
 Em               D         C
 but you don't see me standing here
 
+
+```

@@ -1,3 +1,4 @@
+```
                   Am
 (Eres un tio tremendo y todo lo que haces te sale
        F                                   E
@@ -49,3 +50,4 @@ El resto de la canción sigue con los mismos acordes.
 P.D
 Esta canción va dedicada a mi colega J. Altozano
 que me a ayudado con esta canción ( Eres un tio tremendo)
+```

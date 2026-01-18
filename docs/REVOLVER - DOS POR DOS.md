@@ -1,4 +1,5 @@
-﻿REVOLVER - DOS POR DOS
+```
+REVOLVER - DOS POR DOS
 REVÓLVER
 SIN CAPO
 INTRO 
@@ -71,3 +72,5 @@ y aprender a construir lo que hay en medio entre ella y tú...
         Bm          F#m          E                 A
 siempre supe que el amor era cuestión sólo de dos por dos...
 
+
+```

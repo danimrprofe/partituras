@@ -1,4 +1,5 @@
-﻿CHRIS ISAAK
+```
+CHRIS ISAAK
 WICKED GAME
 INTRO
 Bm  A  E    x4
@@ -68,3 +69,5 @@ Bm  A  E
 Bm      A           E
    Nobody loves no one.
 
+
+```

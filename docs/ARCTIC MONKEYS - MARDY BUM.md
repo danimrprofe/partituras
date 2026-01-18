@@ -1,4 +1,5 @@
-﻿ARCTIC MONKEYS
+```
+ARCTIC MONKEYS
 MARDY BUM
 C                                        E            		               F		Em                      Dm                   G
 Well, now then Mardy Bum I've seen your frown and it's like looking down the barrel of a gun
@@ -41,3 +42,5 @@ up, up and away. Oh, but it's right hard to remember that on a day like today wh
 F                   G                                                    C
 all argumentative and you've got the face on
 
+
+```

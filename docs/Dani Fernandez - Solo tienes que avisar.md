@@ -1,3 +1,4 @@
+```
 [Intro]
 Cmaj7 -> C
 Asus2 -> Am
@@ -84,3 +85,4 @@ Que no quiero ser cobarde
 Y cuando se desarme
                     C
 Solo tienes que avisar
+```

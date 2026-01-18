@@ -1,4 +1,5 @@
-﻿SIMPLE PLAN 
+```
+SIMPLE PLAN 
 I'M JUST A KID
 Afinación estándar
 C#- F#- G#- F#
@@ -88,3 +89,5 @@ F#- G#- C#- A#m- F#- G# -
 I'm all alone ...Tonight
 Nobody cares...
 
+
+```

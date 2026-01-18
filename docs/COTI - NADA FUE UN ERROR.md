@@ -1,4 +1,5 @@
-﻿COTI 
+```
+COTI 
 NADA FUE UN ERROR
 INTRO: A - E - D - E
 ESTROFA
@@ -70,3 +71,5 @@ nada de esto fue
  
 FINAL: G(5VECES) - A
 
+
+```

@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 ME ACORDÉ DE TI
 INTRO 
 Bm
@@ -55,3 +56,5 @@ Nunca se para de crecer, nunca se deja de morir.
 FINAL
 D A Bm X2     Bm
 
+
+```

@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		Zapatillas, 2005
 Canción:	Desaparece
@@ -34,3 +35,5 @@ C    | E    | A   | G
 -----+------+-----+--------
 
 
+
+```

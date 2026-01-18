@@ -1,4 +1,5 @@
-﻿JUSTIN TIMBERLAKE 
+```
+JUSTIN TIMBERLAKE 
 PERFECT
 Capo 2
 INTRO
@@ -63,3 +64,5 @@ And I hate that you're perfect, you're perfect for me
                       C    D                    G
 I hate that you're perfect, you're perfect for me
 
+
+```

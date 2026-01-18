@@ -1,3 +1,4 @@
+```
 
 Afinación estándar
 
@@ -63,3 +64,4 @@ Estoy tan solo y sé...
 Ya no voy a saber de ti.
 C    A#   F    Fm
 Solo faltas tu.
+```

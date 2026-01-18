@@ -1,4 +1,5 @@
-﻿THE SCRIPT 
+```
+THE SCRIPT 
 THE MAN WHO CAN'T BE MOVED
 Capo 3
 G  D/F#  C
@@ -65,3 +66,5 @@ Going back to the corner where I first saw you,
 Am                               C
 Gonna camp in my sleeping bag, no I'm not gonna move,
 
+
+```

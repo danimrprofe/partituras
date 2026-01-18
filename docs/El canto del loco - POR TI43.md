@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - POR TI
+```
+EL CANTO DEL LOCO - POR TI
 EL CANTO DEL LOCO
 Capo 3
 Am                                     Dm
@@ -44,3 +45,5 @@ y por tu calor y por tu carisma te llevo conmigo
  Am       Asus2
 Te llevo conmigo. Te llevo conmigo
 
+
+```

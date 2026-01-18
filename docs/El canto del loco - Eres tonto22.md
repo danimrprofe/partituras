@@ -1,3 +1,4 @@
+```
 ERES TONTO
 ==========
 Afinación: Eb Ab Db Gb Bb Eb
@@ -32,3 +33,5 @@ A E  | F#m C   | D      | -
 A E  | F#m C#m | D      | C#
 -----+------+-----+--------
 F#m  | C#m     | F#m    | C#m 
+
+```

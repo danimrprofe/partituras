@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		Zapatillas, 2005
 Canción:	Besos
@@ -43,3 +44,4 @@ E    | E    | F#  | F#
 B  E | B  E | B E | B  E (Y parate a ver)
 B  E | B  E | B E | B  E 
 B
+```

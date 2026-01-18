@@ -1,4 +1,5 @@
-﻿REVOLVER - ES MEJOR CAMINAR
+```
+REVOLVER - ES MEJOR CAMINAR
 Revolver
 ESTROFA
 D                    A          G                  D
@@ -43,3 +44,5 @@ ESTRIBILLO
    G     A   Bm        G     A        D 
 es mejor caminar que parar y ponerse a temblar X4
 
+
+```

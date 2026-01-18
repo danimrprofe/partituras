@@ -1,4 +1,5 @@
-﻿LEWIS CAPALDI - SOMEONE YOU LOVED
+```
+LEWIS CAPALDI - SOMEONE YOU LOVED
 Lewis Capaldi (2019)
 Sin capo
 INTRO
@@ -81,3 +82,5 @@ I let my guard down, and then you pulled the rug
                     Em                         C     G
 I was getting kinda used to being someone you loved
 
+
+```

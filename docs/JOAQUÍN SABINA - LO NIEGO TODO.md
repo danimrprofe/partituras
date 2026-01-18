@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA
+```
+JOAQUÍN SABINA
 LO NIEGO TODO
 INTRO
 | E E/G#    | A      | C#m G#m/B | Amaj7 / B   |
@@ -68,3 +69,5 @@ E E/G# A C#m G#m/B / Amaj7 Bsus B E
 
 
 
+
+```

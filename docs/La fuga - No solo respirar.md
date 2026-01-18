@@ -1,3 +1,4 @@
+```
 Tono: Bm
 G   A  Bm 
 No tiraré de reproches
@@ -80,3 +81,4 @@ Bm  G
 Y voy barriendo los rincones
 A  Bm 
 De mi alma.
+```

@@ -1,4 +1,5 @@
-﻿LEIVA - PALOMAS
+```
+LEIVA - PALOMAS
 Leiva
 Capo 1
 F G/B F G
@@ -68,3 +69,5 @@ Es un aviso más del huracán
 
 G A Bm C#m D
 
+
+```

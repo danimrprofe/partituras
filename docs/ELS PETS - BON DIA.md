@@ -1,4 +1,5 @@
-﻿ELS PETS - BON DIA
+```
+ELS PETS - BON DIA
 Sin capo
 INTRO
 A E F#m C#m D A Bm E
@@ -91,3 +92,5 @@ il·lumina descarat
             Bm          E
 tot l'espectacle de la gent.
 
+
+```

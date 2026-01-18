@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 ROJITAS LAS OREJAS
 Sin capo
 INTRO
@@ -61,3 +62,5 @@ Se me ponen si me besas, rojitas las orejas
 Em      C          Em          D
 Roooooojitas las orejas se me ponen si me besas (x4)
 
+
+```

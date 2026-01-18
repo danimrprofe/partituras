@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 CERRADO POR DERRIBO
 Capo 3
 INTRO: EM-C-B
@@ -42,3 +43,5 @@ G                               D                        C                      
 estos huesos que vuelven de la oficina, dentro de una gabardina con manchas de soledad.
 ESTRIBILLO
 
+
+```

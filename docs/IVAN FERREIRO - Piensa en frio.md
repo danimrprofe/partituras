@@ -1,4 +1,5 @@
-﻿IVAN FERREIRO 
+```
+IVAN FERREIRO 
 PIENSA EN FRÍO
 INTRODUCCION:
 e---------------------------
@@ -72,3 +73,5 @@ rompiendo las barreras del sonido voy
 Em                D                 C
 rompiendo las barreras del sonido estoy
 
+
+```

@@ -1,4 +1,5 @@
-﻿Snow Patrol
+```
+Snow Patrol
 THE FINISH LINE
 C          Am       G              F
      The earth is warm next to my ear
@@ -36,3 +37,5 @@ I think the finish line's a good place we could start
 G                            Am                  F
 Take a deep breath, take in all that you could want
 
+
+```

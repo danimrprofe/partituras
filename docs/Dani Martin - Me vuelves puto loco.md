@@ -1,3 +1,4 @@
+```
 Afinación medio tono abajo
 E A D G B E
 Cejilla:
@@ -103,3 +104,4 @@ D              Bm   F#m  A
 Me vuelves puto loco (Cariño)
 D              Bm   F#m  A D
 Me vuelves puto loco (loquillo)
+```

@@ -1,4 +1,5 @@
-﻿STONE SOUR
+```
+STONE SOUR
 THROUGH GLASS
 Stone sour (2006)
 ESTRIBILLO
@@ -98,3 +99,5 @@ C D Em        C                    D        Em
         Who are the stars.Who are the stars they
 
 
+
+```

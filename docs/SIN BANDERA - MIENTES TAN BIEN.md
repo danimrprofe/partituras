@@ -1,4 +1,5 @@
-﻿SIN BANDERA 
+```
+SIN BANDERA 
 MIENTES TAN BIEN
 G Gadd2  D/F#  (x2)
  
@@ -67,3 +68,5 @@ Mientes lo se
 G D/F# (x2) G
  
 
+
+```

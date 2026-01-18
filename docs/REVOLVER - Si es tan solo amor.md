@@ -1,4 +1,5 @@
-﻿REVOLVER - Si es tan solo amor
+```
+REVOLVER - Si es tan solo amor
 REVÓLVER
 Capo 2
 INTRO
@@ -83,3 +84,5 @@ Algo tan hermoso no puede quemar
 F#m                            B
 Más que leña al fuego, si es tan solo amor
 
+
+```

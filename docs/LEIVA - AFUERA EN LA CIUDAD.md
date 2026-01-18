@@ -1,4 +1,5 @@
-﻿======================================
+```
+======================================
 ARTISTA: LEIVA
 CANCIÓN: Afuera en la Ciudad (versión acústica con capo)
 ÁLBUM: Pólvora (2014)
@@ -79,3 +80,5 @@ A       G       A
 Vamos a salir durmiendo 
 D     Dsus4 x2
 
+
+```

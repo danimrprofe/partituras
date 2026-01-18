@@ -1,4 +1,5 @@
-﻿JULIETA VENEGAS 
+```
+JULIETA VENEGAS 
 LENTO 
 JULIETA VENEGAS
 F          Bb		F       Bb			F      Bb        Gm  Ebmaj7/G Gm6  Gm7
@@ -38,3 +39,5 @@ Bb  C  F  Am
 
 
 
+
+```

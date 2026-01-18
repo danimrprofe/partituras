@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 AVES DE PASO
 G   G/C G   G/C
 
@@ -63,3 +64,5 @@ ESTRIBILLO
 G G/C G G/A
 G G/C G G/A
 
+
+```

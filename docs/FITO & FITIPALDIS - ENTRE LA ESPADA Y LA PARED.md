@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 ENTRE LA ESPADA Y LA PARED
 INTRO
 Fmaj7 | Fmaj7 | C | C | x2
@@ -77,3 +78,5 @@ Am | Am | G | G
 Dm | - | F | G
 Am
 
+
+```

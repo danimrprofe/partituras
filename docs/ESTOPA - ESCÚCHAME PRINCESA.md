@@ -1,4 +1,5 @@
-﻿ESTOPA 
+```
+ESTOPA 
 ESCÚCHAME PRINCESA
 Sin capo
 Am7                        D7sus2
@@ -50,3 +51,5 @@ solo dame un abrazo y deseame lo mejor
           F      G          Am
 que no me caere a trozos ni me volare los sesos
 
+
+```

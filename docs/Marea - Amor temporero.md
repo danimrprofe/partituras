@@ -1,3 +1,4 @@
+```
 ================================================================================
 ARTISTA: MAREA
 CANCIÓN: AMOR TEMPORERO
@@ -137,3 +138,5 @@ Yo, dosifico a pala y pico el sol,el sol, el sol
 Ordeñaré las ubres de la luna y en cuanto amanezca
 G5                             C5          A5
 Yo, dosifico a pala y pico el sol, el sol
+
+```

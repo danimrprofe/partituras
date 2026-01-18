@@ -1,4 +1,5 @@
-﻿CAT STEVENS 
+```
+CAT STEVENS 
 FATHER AND SON
            G             D/F#           C               Am7
 It's not time to make a change, just relax and take it easy
@@ -47,3 +48,5 @@ If they were right, I'd agree, but it's them they know, not me
 G          Em          D       G       G/D			D      C       G
 Now there's a way, and I know that I have to go away. I know I have to go
 
+
+```

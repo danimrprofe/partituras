@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - EL ÚLTIMO DÍA DE NUESTRAS VIDAS
+```
+EL CANTO DEL LOCO - EL ÚLTIMO DÍA DE NUESTRAS VIDAS
 EL CANTO DEL LOCO
 
 INTRO
@@ -86,3 +87,5 @@ De nuestras vidas, de nuestras vidas
 Porque hoy es el último día de nuestras vidas
 
 
+
+```

@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA - Y, sin embargo
+```
+JOAQUÍN SABINA - Y, sin embargo
 Joaquín sabina
 Nada
 Am7         D               Em         G           
@@ -96,3 +97,5 @@ Y al cielo de tu boca el purgatorio y al dormitorio
 el pan de cada dia
 
 
+
+```

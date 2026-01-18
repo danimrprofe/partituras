@@ -1,4 +1,5 @@
-﻿ESTOPA 
+```
+ESTOPA 
 YA NO ME ACUERDO
 Sin capo
 ESTROFA
@@ -76,3 +77,5 @@ Am
 E          Am   E           Am
 ya no me acuerdo, ya no me acuerdo.
 
+
+```

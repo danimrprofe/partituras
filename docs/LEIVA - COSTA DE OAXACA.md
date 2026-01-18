@@ -1,4 +1,5 @@
-﻿LEIVA 
+```
+LEIVA 
 COSTA DE OAXACA
 Afinación -1 o bajar medio tono
 ESTROFA
@@ -47,3 +48,5 @@ No, yo no tengo tu naturaleza, Y he empezado cuatrocientas cartas
      D                     G
 Aquí todo, aunque no lo parezca, avanza
 
+
+```

@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 REBAJAS DE ENERO
 INTRO
 Am G Dm Dm
@@ -73,3 +74,5 @@ No hay nada mejor que encontrar un amor a medida.
 FINAL
 C   G   F   G   C
 
+
+```

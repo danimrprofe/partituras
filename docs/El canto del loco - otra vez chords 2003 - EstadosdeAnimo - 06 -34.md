@@ -1,3 +1,4 @@
+```
 **************************************************
 *                                                *
 *            El Canto del Loco                  *
@@ -106,3 +107,4 @@ te miro y yo soy importante para los dos
 
 D          E           F#m   E     A
 Y otra vez otra vez intento imaginar.
+```

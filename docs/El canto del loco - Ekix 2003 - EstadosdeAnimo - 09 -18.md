@@ -1,3 +1,4 @@
+```
 **************************************************
 *                                                *
 *            El Canto del Loco                  *
@@ -55,3 +56,4 @@ Em   C      B  Em   C      B
 No tengo prisa por verte aquí 
 C         G     D                 Cmaj7 B   Cmaj7 B
 Prefiero sólo pensar que algo ha nacido en mi
+```

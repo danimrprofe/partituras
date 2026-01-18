@@ -1,3 +1,4 @@
+```
 C                       Dm7
 Todo lo que vimos se nos fue
 G                         C
@@ -100,3 +101,4 @@ Que todo se va consumiendo
                         G
 Y el silencio manda hoy más
  
+```

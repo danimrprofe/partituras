@@ -1,4 +1,5 @@
-﻿AVRIL LAVIGNE
+```
+AVRIL LAVIGNE
 SKATER BOY
 Sin capo
 D5 A5 B5 Bb5 A5
@@ -98,3 +99,5 @@ I'll be at a studio. Singing the song we wrote,
           A5             F5 
 about a girl You used to know
 
+
+```

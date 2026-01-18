@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		Zapatillas, 2005
 Canción:	Zapatillas
@@ -71,3 +72,4 @@ donde se ha creado todo,
 D#m
 donde están todos mis miedos,
 donde entro si estoy solo.(F#)
+```

@@ -1,4 +1,5 @@
-﻿HEROES DEL SILENCIO 
+```
+HEROES DEL SILENCIO 
 LA CHISPA ADECUADA 
 INTRO
 Dm Am Bb C
@@ -94,3 +95,5 @@ Dm C Bb C
             Dm
 La chispa adecuada...
 
+
+```

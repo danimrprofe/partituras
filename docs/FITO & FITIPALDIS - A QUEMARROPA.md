@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 A QUEMARROPA
 Capo 1
 INTRO
@@ -88,3 +89,5 @@ C C G  G
 Dm F Am Am
 F  G Am Am
 
+
+```

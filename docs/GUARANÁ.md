@@ -1,4 +1,5 @@
-﻿GUARANÁ 
+```
+GUARANÁ 
 NOCHE EN VELA
 CEJILLA EN TERCER TRASTE
 INTRO
@@ -62,3 +63,5 @@ No quedan luces en el puerto, asi que estare atento
     D                C
 por si confundiste el mar
 
+
+```

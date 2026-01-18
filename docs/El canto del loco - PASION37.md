@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - PASION
+```
+EL CANTO DEL LOCO - PASION
 EL CANTO DEL LOCO
 CAPO 1
 ESTROFA
@@ -56,3 +57,5 @@ una canción Y esa fuerza que llevas dentro
            G         D      Em  D/F# G
 Y que es pasión,  pasión  es pasión
 
+
+```

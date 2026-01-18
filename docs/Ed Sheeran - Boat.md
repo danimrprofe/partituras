@@ -1,3 +1,4 @@
+```
 Tuning:
 E A D G B E
 Capo:
@@ -80,3 +81,5 @@ Maybe I won't
         C     C/D   C/E   G/B    Fadd9
 But the waves won't break my boat
 X
+
+```

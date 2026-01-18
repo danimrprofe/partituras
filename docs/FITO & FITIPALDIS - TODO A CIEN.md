@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 TODO A CIEN
 Capo 2. Versión original de La cabra mecánica.
 Em  C  D  Em
@@ -31,3 +32,5 @@ C  G  D  Em       (x2)
 Es poco lo que tengo el oro de mi tiempo la flor de mis neuronas y por supuesto la luna.
 C  G  D  Em
 
+
+```

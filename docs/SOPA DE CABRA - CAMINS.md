@@ -1,4 +1,5 @@
-﻿SOPA DE CABRA 
+```
+SOPA DE CABRA 
 CAMINS
 SOPA DE CABRA
 Cejilla en traste 4
@@ -47,3 +48,5 @@ D*                   Am*   G                   D
  Camins vora les estrelles, camins que ja són nous.
  
 
+
+```

@@ -1,4 +1,5 @@
-﻿JARABE DE PALO 
+```
+JARABE DE PALO 
 VECINA
 INTRO
 G Bm Em C
@@ -61,3 +62,5 @@ Gracias por tomar el sol para mi
 G       Bm  Em       C             Em
 Gracias por tomar el sol para mí   ...vecina
 
+
+```

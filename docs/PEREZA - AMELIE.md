@@ -1,4 +1,5 @@
-﻿PEREZA 
+```
+PEREZA 
 AMELIE
 Capo: 2
 Tonalidad: Si menor
@@ -58,3 +59,5 @@ F                   C          G     Am
 pequeña sonrisa de Amelie me tienes calado
 
 
+
+```

@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 DESPUÉS DEL NAUFRAGIO
 INTRO
 G C | G | G   | D
@@ -54,3 +55,5 @@ Ven rescátame y abandóname después
 
 
 
+
+```

@@ -1,3 +1,4 @@
+```
 Afinación:
 E A D G B E
 Tonalidad:
@@ -81,3 +82,5 @@ In a day or two...
             B    F#  G#m  E
 In a day or two...
 X
+
+```

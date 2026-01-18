@@ -1,3 +1,4 @@
+```
 [Intro]
 G Am F C G
 Am F C D
@@ -101,3 +102,5 @@ G                    C    D       Am             G
 y se me pudre la madera,1500 primaveras,sin dormir
             G A F C
 Como el barniz   
+
+```

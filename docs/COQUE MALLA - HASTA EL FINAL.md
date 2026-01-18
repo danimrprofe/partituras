@@ -1,4 +1,5 @@
-﻿C    Csus   C    Csus
+```
+C    Csus   C    Csus
  
 C      C/B        Am Am/G F             Em           Dm   Am7b5 G
 Ahora voy a ser sincero,   estuve tiempo sin querer jugar
@@ -79,3 +80,5 @@ D/C# - X40232
 Bm7(b5) - X2323X
 Bm/A - X04432
 X
+
+```

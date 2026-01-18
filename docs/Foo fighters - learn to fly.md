@@ -1,3 +1,4 @@
+```
 [Intro]
 A  Em  D
 A  Em  D
@@ -105,3 +106,4 @@ Make my way back home when I learn to, to, to...
  
 [Outro]
 A    A    A    A     A5 - Aadd4/D - Asus2/E
+```

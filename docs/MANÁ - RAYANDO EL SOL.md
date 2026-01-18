@@ -1,4 +1,5 @@
-﻿MANÁ - RAYANDO EL SOL
+```
+MANÁ - RAYANDO EL SOL
 MAná
     E -  B -  C#m -  A
     E -  G#m -  A -  B -  C#m
@@ -41,3 +42,5 @@ Rayando Ay, ay, ay, ay, rayando el sol
              A	     G#m		      A
 Rayando por ti Rayando, Rayando
 
+
+```

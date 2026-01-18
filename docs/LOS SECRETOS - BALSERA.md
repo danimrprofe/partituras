@@ -1,4 +1,5 @@
-﻿LOS SECRETOS - BALSERA
+```
+LOS SECRETOS - BALSERA
 Los secretos
 Capo 3. En directo, uno tono menos y capo 4
 INTRO
@@ -61,3 +62,5 @@ Balsera de mi amor, se marchó buscando el
 D           A        G         A            D
 sol y encontró un apagón sin luna en Nueva York.
 
+
+```

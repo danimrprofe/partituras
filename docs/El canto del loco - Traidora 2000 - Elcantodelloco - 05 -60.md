@@ -1,3 +1,4 @@
+```
 Medio tono menos eléctrica
 Acústica normal
 
@@ -54,3 +55,4 @@ déjame que te bese la ultima vez mi traidora.
 Ay traidora ay si tu me abandonas
            F               E                  Am
 déjame que me muera tranquilo, tranquilo y a solas
+```

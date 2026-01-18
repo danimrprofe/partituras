@@ -1,4 +1,5 @@
-﻿RISE AGAINST - HERO OF WAR
+```
+RISE AGAINST - HERO OF WAR
 Rise against
 Fsus2 G
          	C                         		Em                                              Fmaj7		         C	
@@ -34,3 +35,5 @@ ESTRIBILLO
 He said, "Son, have you seen the world? Well, what would you say, if I said that you could?"
 
 
+
+```

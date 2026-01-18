@@ -1,4 +1,5 @@
-﻿LEIVA - SINCERICIDIO
+```
+LEIVA - SINCERICIDIO
 LEIVA
 Sin capo
 INTRO
@@ -67,3 +68,5 @@ Te quiero como tantas cosas ,que no tienen solución
 FINAL
 Am C Am C E Am
 
+
+```

@@ -1,4 +1,5 @@
-﻿PEREZA 
+```
+PEREZA 
 YO SOLO QUIERO 
 C#m A E B        
 C#m A E B        
@@ -87,3 +88,5 @@ Que esta noche eres sólo mía
 C#m  A  B  E (x4)  C#m
 
 
+
+```

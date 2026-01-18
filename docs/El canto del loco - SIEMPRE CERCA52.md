@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - SIEMPRE CERCA
+```
+EL CANTO DEL LOCO - SIEMPRE CERCA
 EL CANTO DEL LOCO
 MEDIO TONO ABAJO
 INTRO
@@ -51,3 +52,5 @@ Sabes, algo va a pasar, nada vuelve a ser igual
                      E                    F#
 pero lo único q importa... es que nos importas
 
+
+```

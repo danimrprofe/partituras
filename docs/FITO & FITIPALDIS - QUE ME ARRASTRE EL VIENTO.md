@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 QUE ME ARRASTRE EL VIENTO
 En quintas y ritmo 6/8 con palm mute
 Em  Am  Em  Bm  Am  D F#m  (G Em)
@@ -39,3 +40,5 @@ Y aunque nada es verdad las verdades aquí
 tienen forma de puñal.
 EM      (HASTA EL FINAL)
 
+
+```

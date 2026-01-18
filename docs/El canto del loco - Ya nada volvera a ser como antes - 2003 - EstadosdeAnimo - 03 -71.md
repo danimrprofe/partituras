@@ -1,3 +1,4 @@
+```
 ================================================================================
 ARTISTA: EL CANTO DEL LOCO
 CANCIÓN: YA NADA VOLVERÁ A SER COMO ANTES
@@ -92,3 +93,4 @@ Estaremos conociendo nuestra parte de verdad
 [Outro]
      C          F             D              G
 Estaremos conociendo nuestra parte original
+```

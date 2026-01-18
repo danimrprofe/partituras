@@ -1,4 +1,5 @@
-﻿JOHN MAYER 
+```
+JOHN MAYER 
 SLOW DANCING IN A BURNING ROOM
 INTRO X4
 C#m7    Aadd9  E
@@ -111,3 +112,5 @@ Don't you think we oughta know by now
 Don't you think we should've learned somehow
 
 
+
+```

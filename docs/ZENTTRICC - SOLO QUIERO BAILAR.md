@@ -1,4 +1,5 @@
-﻿ZENTTRICC 
+```
+ZENTTRICC 
 SOLO QUIERO BAILAR
 Consejo: 3 semitonos abajo (C) y capo en 1
 D#                  F
@@ -61,3 +62,5 @@ Gm                             F                                A#
 Quiero bailar, quiero bailar, quiero olvidar toda esta situación
 
 
+
+```

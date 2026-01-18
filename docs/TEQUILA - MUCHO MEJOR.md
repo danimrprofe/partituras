@@ -1,4 +1,5 @@
-﻿TEQUILA 
+```
+TEQUILA 
 MUCHO MEJOR
 G						
 Huy huy hu, huy huy uh, huy huy hu, huy huy hu,
@@ -98,3 +99,5 @@ C         D            G
 ah ah ah, ah ah ah ah, huy huy huy huy huy hua
 
 
+
+```

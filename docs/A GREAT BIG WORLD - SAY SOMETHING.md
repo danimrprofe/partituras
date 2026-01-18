@@ -1,4 +1,5 @@
-﻿A GREAT BIG WORLD 
+```
+A GREAT BIG WORLD 
 SAY SOMETHING
 INTRO
 Bm G D
@@ -29,3 +30,5 @@ Anywhere, I would've followed you. Say something, I'm giving up on you
 Bm             G                 D
 Say something, I'm giving up on you
 
+
+```

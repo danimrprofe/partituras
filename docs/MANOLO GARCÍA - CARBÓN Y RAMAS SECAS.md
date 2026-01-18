@@ -1,4 +1,5 @@
-﻿MANOLO GARCÍA
+```
+MANOLO GARCÍA
 CARBÓN Y RAMAS SECAS
 Mejor bajando y capo 2
 F#m  D        E
@@ -129,3 +130,5 @@ D  E  A  E  D  E Bm  E
 A
 
 
+
+```

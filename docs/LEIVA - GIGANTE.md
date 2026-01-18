@@ -1,4 +1,5 @@
-﻿LEIVA
+```
+LEIVA
 GIGANTE
 INTRO
 C Bb F x2
@@ -116,3 +117,5 @@ Me está arrancando un rencor
 F            C     Bb F
 Un rencor gigante
 
+
+```

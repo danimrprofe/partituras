@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - TE RECUERDO
+```
+EL CANTO DEL LOCO - TE RECUERDO
 EL CANTO DEL LOCO
 MEDIO TONO ABAJO
           DO                FA                DO                 SOL
@@ -50,3 +51,5 @@ en los gestos que eran nuestros que ahora sólo no puedo tener
      Am              F                G                  C
 y me acuerdo del cariño y todos los besos que a veces no di.
 
+
+```

@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 EN MI NUBE AZUL
 Capo 5. Tonalidad original	
 INTRO
@@ -54,3 +55,5 @@ Dm7     Dm7      Am7      Am7
 E7      Dm7      Am7      E7
 x2
 
+
+```

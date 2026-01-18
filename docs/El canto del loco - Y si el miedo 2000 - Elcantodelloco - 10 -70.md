@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		El canto del loco
 Canción:	10. Y si el miedo
@@ -99,3 +100,5 @@ yo doy la espalda y le digo no quiero jugar
 no quiero jugar  no quiero jugar 
               Dm     
 ya no quiero jugar 
+
+```

@@ -1,3 +1,4 @@
+```
 Afinación:
 E A D G B E
 Tonalidad:
@@ -123,3 +124,4 @@ Am   F       C      G                  Am    F
 Haaa-aaad, I don't, don't believe it's saaa-aaad
 C                        G          Am
 Slitting my throat, it's all I ever
+```

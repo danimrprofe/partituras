@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 EL VENCIDO
 Capo 3
 
@@ -56,3 +57,5 @@ Dice que estoy perdiendo el tiempo, en vivir deprisa.
 FINAL
 G D Em X3
 
+
+```

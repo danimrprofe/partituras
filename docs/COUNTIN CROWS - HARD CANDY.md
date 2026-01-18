@@ -1,4 +1,5 @@
-﻿COUNTIN CROWS
+```
+COUNTIN CROWS
 HARD CANDY
 Capo 2
 D             G          D/F#               Em            D
@@ -99,3 +100,5 @@ Outro: (with riff)
 (D)            (D/C#)            (C)            (G)
    Don't ask me    to come around   then wait to see if there's a spark
 
+
+```

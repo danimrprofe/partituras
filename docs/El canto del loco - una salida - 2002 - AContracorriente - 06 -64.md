@@ -1,3 +1,4 @@
+```
  
 Dm                A     Dm        A
 Tal vez no tengas ganas de saber
@@ -79,3 +80,4 @@ Un mundo lleno de alegría
 A ver qué puedes hacer
   A#            F      A
 Poner de tu parte para ver
+```

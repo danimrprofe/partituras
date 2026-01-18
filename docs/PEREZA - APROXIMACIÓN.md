@@ -1,4 +1,5 @@
-﻿PEREZA 
+```
+PEREZA 
 APROXIMACIÓN
 Capo 2
 ESTROFA
@@ -42,3 +43,5 @@ FINAL
 C G C F
 C G Am F (repetir todo 3 veces)
 
+
+```

@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - QUE CARO ES EL TIEMPO
+```
+EL CANTO DEL LOCO - QUE CARO ES EL TIEMPO
 El canto del loco
 Medio tono abajo
 ESTROFA
@@ -38,3 +39,5 @@ Perdona,  si digo , que quiero seguir siendo lo de ayer
            G               C     G/B   Am        G       F
 Un niño,  sin miedo, que regala su cariño y no sabe porqué
 
+
+```

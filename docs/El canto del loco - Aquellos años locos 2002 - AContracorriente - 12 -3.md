@@ -1,3 +1,4 @@
+```
 
 Afinación estándar
 
@@ -58,3 +59,4 @@ La de Elliot parecia que nunca conseguirias para volar
 Conquistando aquella luna devolvienndo una fortuna
            G                 F
 Siendo un miembro del Equipo A
+```

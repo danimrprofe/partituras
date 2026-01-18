@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		Personas
 Canción:	La vida (05)
@@ -93,3 +94,4 @@ No puedo más, teneis cero de criterio
                  D                 E   A D E
 llenos de resentimiento que pena me da.           Eh!tú!
                                                   Sí!tú!
+```

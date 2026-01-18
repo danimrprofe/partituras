@@ -1,4 +1,5 @@
-﻿MICHELLE BRANCH - It's you
+```
+MICHELLE BRANCH - It's you
 Michelle Branch
 Capo on 4th fret
 ESTROFA
@@ -32,3 +33,5 @@ trace it's steps with my fingertips
 
 
 
+
+```

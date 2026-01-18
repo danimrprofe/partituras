@@ -1,4 +1,5 @@
-﻿PEREZA 
+```
+PEREZA 
 TODO
 Capo 4. A mí me sale bien capo 1
 Cmaj7 Fmaj7 x2
@@ -89,3 +90,5 @@ Cmaj7                      Fmaj7                        Dm7  G
 dame calor, sácame brillo, hazme el amor en nuestro nido.  
 
 
+
+```

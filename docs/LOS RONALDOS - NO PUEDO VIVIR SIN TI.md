@@ -1,4 +1,5 @@
-﻿LOS RONALDOS - NO PUEDO VIVIR SIN TI
+```
+LOS RONALDOS - NO PUEDO VIVIR SIN TI
 Los Ronaldos
 INTRO
 C  C  E7  E7  F  F  E7  G7add13
@@ -47,3 +48,5 @@ No puedo vivir sin ti, No hay manera,
            F                  E7   G7add13 C
 No puedo estar sin ti, No hay manera.
 
+
+```

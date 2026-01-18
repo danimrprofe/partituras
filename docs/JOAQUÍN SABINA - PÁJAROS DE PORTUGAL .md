@@ -1,4 +1,5 @@
-﻿================================================================================
+```
+================================================================================
 ARTISTA: JOAQUÍN SABINA
 CANCIÓN: PÁJAROS DE PORTUGAL
 ÁLBUM:   ALIVIO DE LUTO (2005)
@@ -51,3 +52,5 @@ Bucearon contra el Everest y se ahogaron nadie les enseño a merecer el amparo
 G#m              A G#m          A          E      B      E
 de la virgen de la soledad Que pequeña es la luz de los faros! de quien sueña con la libertad...
 
+
+```

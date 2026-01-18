@@ -1,3 +1,4 @@
+```
 [VERSO 1]
 Em                    C
 Te mira y no te ve
@@ -134,3 +135,4 @@ Cuando todas las historias se acaban
 Solo te quedas tú
                 F#m
 Solo te quedas tú
+```

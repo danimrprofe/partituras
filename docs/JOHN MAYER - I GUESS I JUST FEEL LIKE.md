@@ -1,4 +1,5 @@
-﻿JOHN MAYER 
+```
+JOHN MAYER 
 I GUESS I JUST FEEL LIKE
 INTRO
 A D/A
@@ -77,3 +78,5 @@ A D/A A D/A
 A D/A A D/A
 A D/A A D/A
 
+
+```

@@ -1,4 +1,5 @@
-﻿REVOLVER 
+```
+REVOLVER 
 TU CANCIÓN
 Capo 2
 ESTROFA
@@ -41,3 +42,5 @@ C    G/B      Am     Am/G
     uooooh oooooh         ni canción x4
 C
 
+
+```

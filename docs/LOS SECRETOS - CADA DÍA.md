@@ -1,4 +1,5 @@
-﻿LOS SECRETOS - CADA DÍA 
+```
+LOS SECRETOS - CADA DÍA 
 Capo 3
 INTRO
 G D A
@@ -57,3 +58,5 @@ Y aquel lamento que mi alma rompe
 Cada día que paso sin ti, uuuh, uuuuuh
 
 
+
+```

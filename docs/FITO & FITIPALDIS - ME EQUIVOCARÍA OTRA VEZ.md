@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 ME EQUIVOCARÍA OTRA VEZ
 Capo 3
 INTRO
@@ -77,3 +78,5 @@ No sé restar... tu mitad a mi corazón,
           A7  C7       D       Em  Em
 No sé restar tu mitad a mi corazón.
 
+
+```

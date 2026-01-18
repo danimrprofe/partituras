@@ -1,4 +1,5 @@
-﻿REVOLVER - ODIO
+```
+REVOLVER - ODIO
 REVÓLVER
 CAPO 2
 INTRO
@@ -143,3 +144,5 @@ Qué le voy a hacer si con razón o sin razón
          C            G             D       G
 Y aunque tú me des la vuelta tengo el mismo corazón
 
+
+```

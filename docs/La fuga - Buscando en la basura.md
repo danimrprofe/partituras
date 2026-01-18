@@ -1,3 +1,4 @@
+```
 Afinación:
 E A D G B E
 Cejilla:
@@ -126,3 +127,4 @@ esta noche quedate
  
 [Ending]
 A    N.C.
+```

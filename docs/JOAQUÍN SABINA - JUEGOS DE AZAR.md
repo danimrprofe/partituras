@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 JUEGOS DE AZAR
 Capo 4
 ESTROFA
@@ -67,3 +68,5 @@ En taquilla te habían dado la fila dos
     F                C
 y a mí me dieron la tres
 
+
+```

@@ -1,4 +1,5 @@
-﻿CRISTINA AGUILERA - BEAUTIFUL
+```
+CRISTINA AGUILERA - BEAUTIFUL
 Cristina Aguilera
 INTRO
       Eb        Eb/Db Cm B Eb Eb/Db Cm
@@ -61,3 +62,5 @@ Eb/Db    Cm     B                       Eb
 Eb/Db Cm B                       Eb
 Ooh,          don't you bring me down  today
 
+
+```

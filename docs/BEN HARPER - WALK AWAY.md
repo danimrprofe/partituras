@@ -1,4 +1,5 @@
-﻿BEN HARPER
+```
+BEN HARPER
 WALK AWAY
 G5    (3 X X 0 3 X)
 G5/F# (2 X X 0 3 X)
@@ -81,3 +82,5 @@ Just walk on, walk on, turn and head for the door
 Just walk away
  
 
+
+```

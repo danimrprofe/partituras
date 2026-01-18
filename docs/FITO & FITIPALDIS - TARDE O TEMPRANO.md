@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 TARDE O TEMPRANO
 INTRO
 Am  G  F  C   (x4)
@@ -41,3 +42,5 @@ FINAL
 F                  C
 Ohhh, oh oh oh oh oooh        [repite]
 
+
+```

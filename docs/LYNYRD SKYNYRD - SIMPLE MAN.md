@@ -1,4 +1,5 @@
-﻿LYNYRD SKYNYRD - SIMPLE MAN
+```
+LYNYRD SKYNYRD - SIMPLE MAN
 Lynyrd Skynyrd (1973)
 Medio tono abajo
 INTRO
@@ -1562,3 +1563,5 @@ estoy todo roto y no quiero seguir así.
 
 
 
+
+```

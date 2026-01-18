@@ -1,4 +1,5 @@
-﻿EXTREMODURO 
+```
+EXTREMODURO 
 LA VEREDA DE LA PUERTA DE ATRÁS 
 [Verse 1]
      F#m
@@ -104,3 +105,5 @@ si entre los dedos se me escapa volando una flor
                     E
 y yo la dejo que me marque el camino
 
+
+```

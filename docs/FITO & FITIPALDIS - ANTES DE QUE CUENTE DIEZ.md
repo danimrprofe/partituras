@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 ANTES DE QUE CUENTE DIEZ
 INTRO
 F#m | A | Bm | D  E
@@ -76,3 +77,5 @@ algo de calor sin tus abrazos ahora sé que nunca volveré.
 FINAL
 F#m  D  Bm  D    (repite)
 
+
+```

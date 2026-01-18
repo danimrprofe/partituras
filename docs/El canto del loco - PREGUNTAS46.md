@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - PREGUNTAS
+```
+EL CANTO DEL LOCO - PREGUNTAS
 EL CANTO DEL LOCO
 Medio tono abajo
 D  B  E  G  A
@@ -67,3 +68,5 @@ Que yo te busco, intento que te vuelvas y sientas lo que es,
              A
 La vida se pierde
 
+
+```

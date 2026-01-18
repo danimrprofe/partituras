@@ -1,3 +1,4 @@
+```
 **************************************************
 *                                                *
 *            El Canto del Loco                  *
@@ -111,3 +112,4 @@ por creerte siempre feo y culpable
 y sufrir cada vez que sale el sol
  F - Em - Dm - C
 corazooooon!!
+```

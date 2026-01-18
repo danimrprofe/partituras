@@ -1,4 +1,5 @@
-﻿LUCAS MASCIANO - ME GUSTAS CUANDO
+```
+LUCAS MASCIANO - ME GUSTAS CUANDO
 lucas MASCIANO
 Tono: Em
 INTRO:
@@ -39,3 +40,5 @@ Maldito corazón salvaje maldito corazón herido quiero vivir estando tan feliz 
 
 
 
+
+```

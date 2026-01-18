@@ -1,4 +1,5 @@
-﻿ERIC CLAPTON 
+```
+ERIC CLAPTON 
 WONDERFUL TONIGHT
 ESTROFA
 G                D        C                      D
@@ -40,3 +41,5 @@ I say, "My darling, you were wonderful tonight."
         C                    D            G
 Oh, "My darling, you were wonderful to-night."
 
+
+```

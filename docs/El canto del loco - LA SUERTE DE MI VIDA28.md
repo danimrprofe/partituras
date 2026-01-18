@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - LA SUERTE DE MI VIDA
+```
+EL CANTO DEL LOCO - LA SUERTE DE MI VIDA
 EL CANTO DEL LOCO
 MEDIO  TONO ABAJO
 
@@ -93,3 +94,5 @@ llorar de alegría y quererte aún más,
                              D#      Fm
 que tú eres la suerte de mi vida.
 
+
+```

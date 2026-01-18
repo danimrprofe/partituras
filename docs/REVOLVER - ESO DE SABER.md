@@ -1,4 +1,5 @@
-﻿REVOLVER - ESO DE SABER
+```
+REVOLVER - ESO DE SABER
 REVÓLVER
 SIN CAPO
 ESTRIBILLO
@@ -69,3 +70,5 @@ son los anillos que rodearán mis dedos,
      B7              E    E*
 hasta que el TIempo diga se acabó
 
+
+```

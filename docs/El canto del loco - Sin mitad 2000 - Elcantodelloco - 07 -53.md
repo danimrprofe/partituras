@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		El canto del loco
 Canción:	7. Sin mitad
@@ -61,3 +62,4 @@ no hay canciones que llenen el vacío de mi soledad
 
             G
 ya no hay aay
+```

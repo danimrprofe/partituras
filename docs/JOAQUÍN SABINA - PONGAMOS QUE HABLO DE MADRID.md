@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 PONGAMOS QUE HABLO DE MADRID
 Aadd4   x00220
 INTRO
@@ -90,3 +91,5 @@ E A  E  F#m
 A G#m7 F#m7
 B  A  E
 
+
+```

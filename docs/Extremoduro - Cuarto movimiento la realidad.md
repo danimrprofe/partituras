@@ -1,3 +1,4 @@
+```
 [Intro]
 C D
 G Em Bm C D
@@ -136,3 +137,4 @@ E A
 E A
 E A
 E A
+```

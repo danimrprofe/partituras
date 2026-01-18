@@ -1,4 +1,5 @@
-﻿PEREZA 
+```
+PEREZA 
 LA NORIA 
 ESTROFA
 F#m                      E                              
@@ -70,3 +71,5 @@ A             F#m           E
 los días van pasando y tú no estás.
 
 
+
+```

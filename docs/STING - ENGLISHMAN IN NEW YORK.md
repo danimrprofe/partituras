@@ -1,4 +1,5 @@
-﻿STING
+```
+STING
 ENGLISHMAN IN NEW YORK
 Sting
 Sin capo
@@ -91,3 +92,5 @@ I'm an alien   I'm a legal alien
 A        Em        A      Bm   A
 I'm an Englishman in New York
 
+
+```

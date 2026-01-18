@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - CONTIGO
+```
+EL CANTO DEL LOCO - CONTIGO
 EL CANTO DEL LOCO
 ESTROFA
 C#m                      F#m           
@@ -55,3 +56,5 @@ F#m            G#m          A
 Quiero oírte más tu voz gritar
 
 
+
+```

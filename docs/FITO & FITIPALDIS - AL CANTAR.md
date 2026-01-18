@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 AL CANTAR
 INTRO
 G | D | Em | C |  G |D | C| G x2
@@ -39,3 +40,5 @@ Y sentir, que no estamos muertos. (repetir hasta el final)
 
 
 
+
+```

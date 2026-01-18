@@ -1,3 +1,4 @@
+```
 Capo 4
 
 Am                    Dm
@@ -71,3 +72,4 @@ Dm               Em          F              Em
 Siento cuando estás, y tú me das tu voz con esa fuerza
 Dm          Em          F
 Quiero oírte más tu voz gritar.
+```

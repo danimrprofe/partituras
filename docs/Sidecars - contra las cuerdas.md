@@ -1,3 +1,4 @@
+```
 Afinación: E A D G B ECejilla: 2
 [Intro]
 
@@ -76,3 +77,4 @@ Déjame, no te arrepientas.
  
 [Outro]
 D - G - D - G - Gm - D
+```

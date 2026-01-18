@@ -1,3 +1,4 @@
+```
 CAPO 1
 D      Bm        F#m             G          Em            A
 La distancia nos acerca. Y nos regala la ilusión y mi emoción
@@ -46,3 +47,5 @@ corazón. Me da tanto, me llena dentro, me regala una
 canción, y esa fuerza que llevas dentro
            G         D    Em    D/F# G
 Y que es pasión,  pasión  es pasión
+
+```

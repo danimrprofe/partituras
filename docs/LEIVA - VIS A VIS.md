@@ -1,4 +1,5 @@
-﻿LEIVA - VIS A VIS
+```
+LEIVA - VIS A VIS
 Capo 4
 Em C Bm Em D C Am D Em B7
 ESTROFA
@@ -44,3 +45,5 @@ en vis A vis quincenal, en vis A vis quincenal
 ESTRIBILLO
 
 
+
+```

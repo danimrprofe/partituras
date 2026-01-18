@@ -1,4 +1,5 @@
-﻿THE FRAY
+```
+THE FRAY
 YOU FOUND ME
 CAPO 4
 [Intro]
@@ -107,3 +108,5 @@ Just a little late You found me, you found me
 Em                C     G          D
 Why'd you have to wait? to find me to find me
 
+
+```

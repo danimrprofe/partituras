@@ -1,4 +1,5 @@
-﻿PEREZA 
+```
+PEREZA 
 POR MI TRIPA
 Capo 2
 Asus2 020200
@@ -62,3 +63,5 @@ Hoy me he quedado pillado al verte  me pareces otro
 Amaj7     Esus4        Amaj7     Esus4
 pero eres el más grande  eres un terremoto.
 
+
+```

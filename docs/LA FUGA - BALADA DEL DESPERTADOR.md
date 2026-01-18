@@ -1,4 +1,5 @@
-﻿LA FUGA 
+```
+LA FUGA 
 BALADA DEL DESPERTADOR
 INTRO
 G | C D | G | C D
@@ -39,3 +40,5 @@ como el sol, que me despierta cuando escondido estoy bajo el edredón;
 pégate a mi
 
 
+
+```

@@ -1,4 +1,5 @@
-﻿FITO & FITIPALDIS 
+```
+FITO & FITIPALDIS 
 PÁJAROS DISECADOS
 Capo 1
 INTRO
@@ -73,3 +74,5 @@ FINAL
 F | C | Bb G | Dm  x2
 
 
+
+```

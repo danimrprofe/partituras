@@ -1,4 +1,5 @@
-﻿ ================================================================================
+```
+ ================================================================================
 ARTISTA: MELON DIESEL
 CANCIÓN: QUIERO UN CAMINO
 ÁLBUM:   LA CUESTA DE MISTER BOND (1999)
@@ -65,3 +66,5 @@ oh siempre ella oh siempre ella oh siempre ella oh siempre ella
            F   C   G
 oh tu llamada     ohhh yeah
 
+
+```

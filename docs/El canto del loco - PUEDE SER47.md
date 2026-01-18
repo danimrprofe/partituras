@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - PUEDE SER
+```
+EL CANTO DEL LOCO - PUEDE SER
 El canto del loco
 Capo 2
 INTRO
@@ -76,3 +77,5 @@ Algo puede mejorar. Algo que pueda encontrar.
                  A/C#                  C
 Que me ayude a imaginar. Y yo lo quiero lograr
 
+
+```

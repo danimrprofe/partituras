@@ -1,3 +1,4 @@
+```
 Artista:	El Canto del loco
 Disco:		Personas
 Canción:	La vida (05)
@@ -73,3 +74,4 @@ la vida que me indica donde voy.
 
 D
 Y poco a poco yo le planto cara al miedo.
+```

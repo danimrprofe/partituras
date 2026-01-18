@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 AMOR SE LLAMA EL JUEGO
 INTRO
 | E   | G#m | A   | C#m B | A
@@ -64,3 +65,5 @@ y cada vez peor y cada vez más rotos y cada vez más tu
                G                    D
 y cada vez más yo, sin rastro de nosotros. [x3]
 
+
+```

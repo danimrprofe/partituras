@@ -1,4 +1,5 @@
-﻿AMARAL 
+```
+AMARAL 
 SIN TI NO SOY NADA
 
 INTRO
@@ -78,3 +79,5 @@ Porque yo sin ti no soy nada
 F                   G
 Sin ti no soy nada. Sin ti no soy nada
 
+
+```

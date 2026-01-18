@@ -1,4 +1,5 @@
-﻿EL CANTO DEL LOCO - TAL COMO ERES
+```
+EL CANTO DEL LOCO - TAL COMO ERES
 EL CANTO DEL LOCO
 Afinación medio tono abajo
 INTRO
@@ -88,3 +89,5 @@ F              G              C                     E
 amor. Trato de verme como soy yo Y cambiar lo que duele
  
 
+
+```

@@ -1,4 +1,5 @@
-﻿LADY GAGA 
+```
+LADY GAGA 
 SHALLOW
 INTRO
 Em7 D/F# G C D Dsus4 D
@@ -58,3 +59,5 @@ Am            Am/G     D/F#        G            D/F#    Em
 In the sha-ha-sha-ha-ha-low We're far from the shallow now
 
 
+
+```

@@ -1,4 +1,5 @@
-﻿JOAQUÍN SABINA 
+```
+JOAQUÍN SABINA 
 NOS SOBRAN LOS MOTIVOS
 ESTROFA
 Am            F               E		
@@ -97,3 +98,5 @@ para decir 'condios' a los dos nos sobran los motivos.
 
 
 
+
+```
