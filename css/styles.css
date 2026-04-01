@@ -341,6 +341,29 @@ body.app-body {
     accent-color: var(--accent);
 }
 
+.song-list-header {
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 0.5rem;
+}
+
+.sort-btn {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.sort-btn.btn-secondary {
+    background-color: var(--accent);
+    border-color: var(--accent);
+    color: white;
+}
+
+.sort-btn.btn-secondary:hover {
+    background-color: #a84819;
+    border-color: #a84819;
+}
+
 .technique-tag {
     border: 1px solid var(--line);
     border-radius: 999px;

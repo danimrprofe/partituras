@@ -50,6 +50,11 @@ document.addEventListener("DOMContentLoaded", () => {
     const songRating = document.getElementById("songRating");
     const songRatingLabel = document.getElementById("songRatingLabel");
 
+    const sortByArtist = document.getElementById("sortByArtist");
+    const sortByTitle = document.getElementById("sortByTitle");
+    const sortByRating = document.getElementById("sortByRating");
+    const sortButtons = [sortByArtist, sortByTitle, sortByRating];
+
     if (
         !songList ||
         !searchInput ||
@@ -1459,7 +1464,68 @@ document.addEventListener("DOMContentLoaded", () => {
         renderSongBody();
     }
 
+    function updateSortButtonStates() {
+        const arrow = sortDirection === "asc" ? " ↑" : " ↓";
+        
+        sortButtons.forEach((btn) => {
+            if (!btn) return;
+            const btnSort = btn.dataset.sort;
+            
+            if (btnSort === sortColumn) {
+                btn.classList.remove("btn-outline-secondary");
+                btn.classList.add("btn-secondary");
+                const label = btn.textContent.replace(/ [↑↓]$/, "");
+                btn.textContent = label + arrow;
+            } else {
+                btn.classList.remove("btn-secondary");
+                btn.classList.add("btn-outline-secondary");
+                const label = btn.textContent.replace(/ [↑↓]$/, "");
+                btn.textContent = label;
+            }
+        });
+    }
+
     function bindEvents() {
+        // Event listeners para ordenamiento
+        if (sortByArtist) {
+            sortByArtist.addEventListener("click", () => {
+                if (sortColumn === "artist") {
+                    sortDirection = sortDirection === "asc" ? "desc" : "asc";
+                } else {
+                    sortColumn = "artist";
+                    sortDirection = "asc";
+                }
+                updateSortButtonStates();
+                renderSongList(searchInput.value);
+            });
+        }
+
+        if (sortByTitle) {
+            sortByTitle.addEventListener("click", () => {
+                if (sortColumn === "title") {
+                    sortDirection = sortDirection === "asc" ? "desc" : "asc";
+                } else {
+                    sortColumn = "title";
+                    sortDirection = "asc";
+                }
+                updateSortButtonStates();
+                renderSongList(searchInput.value);
+            });
+        }
+
+        if (sortByRating) {
+            sortByRating.addEventListener("click", () => {
+                if (sortColumn === "rating") {
+                    sortDirection = sortDirection === "asc" ? "desc" : "asc";
+                } else {
+                    sortColumn = "rating";
+                    sortDirection = "asc";
+                }
+                updateSortButtonStates();
+                renderSongList(searchInput.value);
+            });
+        }
+
         searchInput.addEventListener("input", (event) => {
             renderSongList(event.target.value);
             renderSearchSuggestions(event.target.value);
@@ -1698,6 +1764,7 @@ document.addEventListener("DOMContentLoaded", () => {
             renderActiveSongProfile();
             renderSongList();
             updateFilterCounters();
+            updateSortButtonStates();
             bindEvents();
             applyInitialQuerySelection();
         } catch (error) {
