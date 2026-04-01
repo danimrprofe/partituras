@@ -55,6 +55,18 @@
                   role="listbox"
                   aria-label="Sugerencias de busqueda"
                 ></div>
+                <div class="search-actions d-flex justify-content-between mt-2">
+                  <small id="protocolNotice" class="text-danger d-none"
+                    >Abre con Live Server para evitar errores de carga.</small
+                  >
+                  <button
+                    id="clearSearchHistory"
+                    type="button"
+                    class="btn btn-link btn-sm p-0 ms-auto"
+                  >
+                    Limpiar historial
+                  </button>
+                </div>
               </div>
             </div>
           </div>
@@ -191,6 +203,13 @@
                 class="btn btn-sm btn-outline-dark"
               >
                 Favoritas
+              </button>
+              <button
+                id="resetFilters"
+                type="button"
+                class="btn btn-sm btn-outline-secondary ms-auto"
+              >
+                Reset
               </button>
             </div>
             <div class="px-4 pb-3">

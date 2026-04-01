@@ -91,6 +91,24 @@ body.app-body {
     color: rgba(31, 42, 46, 0.68);
 }
 
+.search-suggestion-meta.history-meta {
+    color: #8b5cf6;
+}
+
+.search-actions {
+    min-height: 1.25rem;
+}
+
+#clearSearchHistory {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+#clearSearchHistory:hover,
+#clearSearchHistory:focus-visible {
+    text-decoration: underline;
+}
+
 .song-list {
     max-height: 58vh;
     overflow: auto;

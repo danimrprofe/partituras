@@ -34,6 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const filterAll = document.getElementById("filterAll");
     const filterFavorites = document.getElementById("filterFavorites");
+    const resetFilters = document.getElementById("resetFilters");
     const instrumentFilter = document.getElementById("instrumentFilter");
     const ratingFilter = document.getElementById("ratingFilter");
     const tuningFilter = document.getElementById("tuningFilter");
@@ -54,6 +55,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const sortByTitle = document.getElementById("sortByTitle");
     const sortByRating = document.getElementById("sortByRating");
     const sortButtons = [sortByArtist, sortByTitle, sortByRating];
+    const clearSearchHistoryBtn = document.getElementById("clearSearchHistory");
+    const protocolNotice = document.getElementById("protocolNotice");
 
     if (
         !songList ||
@@ -87,6 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
         !autoscrollSpeed ||
         !filterAll ||
         !filterFavorites ||
+        !resetFilters ||
         !instrumentFilter ||
         !ratingFilter ||
         !tuningFilter ||
@@ -117,7 +121,9 @@ document.addEventListener("DOMContentLoaded", () => {
         keyFilter: "partituras:key-filter",
         timeSignatureFilter: "partituras:time-signature-filter",
         songProfiles: "partituras:song-profiles",
-        searchHistory: "partituras:search-history"
+        searchHistory: "partituras:search-history",
+        sortColumn: "partituras:sort-column",
+        sortDirection: "partituras:sort-direction"
     };
 
     const SEED_PROFILES_URL = "partituras/song-profiles.seed.json";
@@ -196,8 +202,8 @@ document.addEventListener("DOMContentLoaded", () => {
     let seedSongProfiles = {};
     let searchSuggestionItems = [];
     let activeSuggestionIndex = -1;
-    let sortColumn = "artist";  // artist, title, rating
-    let sortDirection = "asc";  // asc, desc
+    let sortColumn = loadSortColumn();  // artist, title, rating
+    let sortDirection = loadSortDirection();  // asc, desc
 
     const favoriteIds = new Set(loadFavoriteIds());
     const songProfiles = loadSongProfiles();
@@ -454,6 +460,57 @@ document.addEventListener("DOMContentLoaded", () => {
         localStorage.setItem(STORAGE_KEYS.timeSignatureFilter, timeSignatureFilterValue);
     }
 
+    function resetAllFilters() {
+        filterMode = "all";
+        instrumentFilterValue = "all";
+        ratingFilterValue = 0;
+        tuningFilterValue = "all";
+        capoFilterValue = "all";
+        techniqueFilterValue = "all";
+        keyFilterValue = "all";
+        timeSignatureFilterValue = "all";
+
+        searchInput.value = "";
+        hideSearchSuggestions();
+
+        instrumentFilter.value = instrumentFilterValue;
+        ratingFilter.value = String(ratingFilterValue);
+        tuningFilter.value = tuningFilterValue;
+        capoFilter.value = ensureSelectValue(capoFilter, capoFilterValue, "all");
+        techniqueFilter.value = ensureSelectValue(techniqueFilter, techniqueFilterValue, "all");
+        keyFilter.value = ensureSelectValue(keyFilter, keyFilterValue, "all");
+        timeSignatureFilter.value = ensureSelectValue(timeSignatureFilter, timeSignatureFilterValue, "all");
+
+        saveFilterMode();
+        saveInstrumentFilter();
+        saveRatingFilter();
+        saveTuningFilter();
+        saveCapoFilter();
+        saveTechniqueFilter();
+        saveKeyFilter();
+        saveTimeSignatureFilter();
+
+        updateFilterButtons();
+        renderSongList("");
+        updateFilterCounters();
+    }
+
+    function loadSortColumn() {
+        const raw = localStorage.getItem(STORAGE_KEYS.sortColumn);
+        const valid = ["artist", "title", "rating"];
+        return valid.includes(raw) ? raw : "artist";
+    }
+
+    function loadSortDirection() {
+        const raw = localStorage.getItem(STORAGE_KEYS.sortDirection);
+        return raw === "desc" ? "desc" : "asc";
+    }
+
+    function saveSortSettings() {
+        localStorage.setItem(STORAGE_KEYS.sortColumn, sortColumn);
+        localStorage.setItem(STORAGE_KEYS.sortDirection, sortDirection);
+    }
+
     function ensureSelectValue(select, value, fallback = "all") {
         const exists = Array.from(select.options).some((option) => option.value === value);
         return exists ? value : fallback;
@@ -544,6 +601,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function setSongFontSize() {
         songBody.style.fontSize = `${fontSizeRem.toFixed(2)}rem`;
+    }
+
+    function updateProtocolNotice() {
+        if (!protocolNotice) {
+            return;
+        }
+
+        const isLocalFile = window.location.protocol === "file:";
+        protocolNotice.classList.toggle("d-none", !isLocalFile);
     }
 
     function hideSearchSuggestions() {
@@ -640,6 +706,11 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
+    function clearSearchHistory() {
+        localStorage.removeItem(STORAGE_KEYS.searchHistory);
+        hideSearchSuggestions();
+    }
+
     function renderSearchSuggestions(rawQuery) {
         const nextSuggestions = buildSearchSuggestions(rawQuery);
         searchSuggestionItems = nextSuggestions;
@@ -666,6 +737,9 @@ document.addEventListener("DOMContentLoaded", () => {
             const meta = document.createElement("span");
             meta.className = "search-suggestion-meta";
             meta.textContent = suggestion.meta;
+            if (suggestion.type === "history") {
+                meta.classList.add("history-meta");
+            }
 
             button.appendChild(label);
             button.appendChild(meta);
@@ -1495,6 +1569,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     sortColumn = "artist";
                     sortDirection = "asc";
                 }
+                saveSortSettings();
                 updateSortButtonStates();
                 renderSongList(searchInput.value);
             });
@@ -1508,6 +1583,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     sortColumn = "title";
                     sortDirection = "asc";
                 }
+                saveSortSettings();
                 updateSortButtonStates();
                 renderSongList(searchInput.value);
             });
@@ -1521,8 +1597,15 @@ document.addEventListener("DOMContentLoaded", () => {
                     sortColumn = "rating";
                     sortDirection = "asc";
                 }
+                saveSortSettings();
                 updateSortButtonStates();
                 renderSongList(searchInput.value);
+            });
+        }
+
+        if (clearSearchHistoryBtn) {
+            clearSearchHistoryBtn.addEventListener("click", () => {
+                clearSearchHistory();
             });
         }
 
@@ -1595,6 +1678,10 @@ document.addEventListener("DOMContentLoaded", () => {
             updateFilterButtons();
             renderSongList(searchInput.value);
             updateFilterCounters();
+        });
+
+        resetFilters.addEventListener("click", () => {
+            resetAllFilters();
         });
 
         instrumentFilter.addEventListener("change", (event) => {
@@ -1722,6 +1809,12 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
         document.addEventListener("keydown", (event) => {
+            if (event.key === "/" && event.target !== searchInput) {
+                event.preventDefault();
+                searchInput.focus();
+                return;
+            }
+
             if (!event.altKey || !activeSongRawText) {
                 return;
             }
@@ -1740,6 +1833,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     async function init() {
         try {
+            updateProtocolNotice();
             await loadSongsIndex();
             await loadSeedSongProfiles();
             populateDynamicFilters();

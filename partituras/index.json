@@ -1,15 +1,5 @@
 ﻿[
     {
-        "id":  "con-las-ganas",
-        "artist":  "Desconocido",
-        "title":  "Con Las Ganas",
-        "filename":  "- Con Las Ganas.txt",
-        "defaultTuning":  "estandar",
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
         "id":  "3-doors-down-be-like-that",
         "artist":  "3 Doors Down",
         "title":  "Be Like That",
@@ -383,17 +373,17 @@
                      ]
     },
     {
-        "id":  "coldplay-adventure-of-a-lifetime2",
+        "id":  "coldplay-adventure-of-a-lifetime",
         "artist":  "Coldplay",
-        "title":  "adventure of a lifetime2",
-        "filename":  "Coldplay - adventure of a lifetime2.txt",
+        "title":  "adventure of a lifetime",
+        "filename":  "Coldplay - adventure of a lifetime.txt",
         "defaultTuning":  null
     },
     {
-        "id":  "coldplay-clocks2",
+        "id":  "coldplay-clocks",
         "artist":  "Coldplay",
-        "title":  "clocks2",
-        "filename":  "Coldplay - clocks2.txt",
+        "title":  "clocks",
+        "filename":  "Coldplay - clocks.txt",
         "defaultTuning":  "estandar",
         "capo":  1,
         "sections":  [
@@ -408,10 +398,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "coldplay-dont-panic2",
+        "id":  "coldplay-dont-panic",
         "artist":  "Coldplay",
-        "title":  "dont panic2",
-        "filename":  "Coldplay - dont panic2.txt",
+        "title":  "dont panic",
+        "filename":  "Coldplay - dont panic.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -426,10 +416,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "coldplay-fix-you2",
+        "id":  "coldplay-fix-you",
         "artist":  "Coldplay",
-        "title":  "fix you2",
-        "filename":  "Coldplay - fix you2.txt",
+        "title":  "fix you",
+        "filename":  "Coldplay - fix you.txt",
         "defaultTuning":  "estandar",
         "capo":  3,
         "sections":  [
@@ -445,10 +435,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "coldplay-lost2",
+        "id":  "coldplay-lost",
         "artist":  "Coldplay",
-        "title":  "lost2",
-        "filename":  "Coldplay - lost2.txt",
+        "title":  "lost",
+        "filename":  "Coldplay - lost.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -465,10 +455,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "coldplay-scientist2",
+        "id":  "coldplay-scientist",
         "artist":  "Coldplay",
-        "title":  "scientist2",
-        "filename":  "Coldplay - scientist2.txt",
+        "title":  "scientist",
+        "filename":  "Coldplay - scientist.txt",
         "defaultTuning":  "estandar",
         "capo":  5,
         "sections":  [
@@ -481,10 +471,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "coldplay-trouble2",
+        "id":  "coldplay-trouble",
         "artist":  "Coldplay",
-        "title":  "trouble2",
-        "filename":  "Coldplay - trouble2.txt",
+        "title":  "trouble",
+        "filename":  "Coldplay - trouble.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -500,10 +490,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "coldplay-viva-la-vida2",
+        "id":  "coldplay-viva-la-vida",
         "artist":  "Coldplay",
-        "title":  "viva la vida2",
-        "filename":  "Coldplay - viva la vida2.txt",
+        "title":  "viva la vida",
+        "filename":  "Coldplay - viva la vida.txt",
         "defaultTuning":  "estandar",
         "capo":  1,
         "sections":  [
@@ -518,10 +508,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "coldplay-yellow2",
+        "id":  "coldplay-yellow",
         "artist":  "Coldplay",
-        "title":  "yellow2",
-        "filename":  "Coldplay - yellow2.txt",
+        "title":  "yellow",
+        "filename":  "Coldplay - yellow.txt",
         "defaultTuning":  null
     },
     {
@@ -559,10 +549,10 @@
                        ]
     },
     {
-        "id":  "coque-malla",
-        "artist":  "Desconocido",
-        "title":  "Coque Malla -",
-        "filename":  "Coque Malla -.txt",
+        "id":  "coque-malla-sin-titulo",
+        "artist":  "Coque Malla",
+        "title":  "Sin titulo",
+        "filename":  "Coque Malla - Sin titulo.txt",
         "defaultTuning":  "estandar",
         "capo":  6,
         "sections":  [
@@ -730,10 +720,10 @@
                        ]
     },
     {
-        "id":  "dani-martin-cero2",
+        "id":  "dani-martin-cero",
         "artist":  "Dani Martín",
-        "title":  "cero2",
-        "filename":  "Dani Martín - cero2.txt",
+        "title":  "cero",
+        "filename":  "Dani Martín - cero.txt",
         "defaultTuning":  "estandar",
         "capo":  2,
         "sections":  [
@@ -745,20 +735,20 @@
                        ]
     },
     {
-        "id":  "dani-martin-contigo2",
+        "id":  "dani-martin-contigo",
         "artist":  "Dani Martín",
-        "title":  "contigo2",
-        "filename":  "Dani Martín - contigo2.txt",
+        "title":  "contigo",
+        "filename":  "Dani Martín - contigo.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "barre-chords"
                        ]
     },
     {
-        "id":  "dani-martin-emocional2",
+        "id":  "dani-martin-emocional",
         "artist":  "Dani Martín",
-        "title":  "emocional2",
-        "filename":  "Dani Martín - emocional2.txt",
+        "title":  "emocional",
+        "filename":  "Dani Martín - emocional.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO"
@@ -768,10 +758,10 @@
                        ]
     },
     {
-        "id":  "dani-martin-la-suerte-de-mi-vida2",
+        "id":  "dani-martin-la-suerte-de-mi-vida",
         "artist":  "Dani Martín",
-        "title":  "la-suerte-de-mi-vida2",
-        "filename":  "Dani Martín - la-suerte-de-mi-vida2.txt",
+        "title":  "la-suerte-de-mi-vida",
+        "filename":  "Dani Martín - la-suerte-de-mi-vida.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTROFA",
@@ -831,10 +821,10 @@
                        ]
     },
     {
-        "id":  "dani-martin-no-vuelven2",
+        "id":  "dani-martin-no-vuelven",
         "artist":  "Dani Martín",
-        "title":  "no-vuelven2",
-        "filename":  "Dani Martín - no-vuelven2.txt",
+        "title":  "no-vuelven",
+        "filename":  "Dani Martín - no-vuelven.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -847,10 +837,10 @@
                        ]
     },
     {
-        "id":  "dani-martin-portales2",
+        "id":  "dani-martin-portales",
         "artist":  "Dani Martín",
-        "title":  "portales2",
-        "filename":  "Dani Martín - portales2.txt",
+        "title":  "portales",
+        "filename":  "Dani Martín - portales.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -866,10 +856,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "dani-martin-puede-ser2",
+        "id":  "dani-martin-puede-ser",
         "artist":  "Dani Martín",
-        "title":  "puede-ser2",
-        "filename":  "Dani Martín - puede-ser2.txt",
+        "title":  "puede-ser",
+        "filename":  "Dani Martín - puede-ser.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -898,10 +888,10 @@
                        ]
     },
     {
-        "id":  "dani-martin-quecaroeseltiempo2",
+        "id":  "dani-martin-quecaroeseltiempo",
         "artist":  "Dani Martín",
-        "title":  "quecaroeseltiempo2",
-        "filename":  "Dani Martín - quecaroeseltiempo2.txt",
+        "title":  "quecaroeseltiempo",
+        "filename":  "Dani Martín - quecaroeseltiempo.txt",
         "defaultTuning":  "estandar",
         "capo":  4,
         "sections":  [
@@ -915,10 +905,25 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "dani-martin-son-suenos2",
+        "id":  "dani-martin-sin-titulo",
         "artist":  "Dani Martín",
-        "title":  "son sueños2",
-        "filename":  "Dani Martín - son sueños2.txt",
+        "title":  "Sin titulo",
+        "filename":  "Dani Martín - Sin titulo.txt",
+        "defaultTuning":  "estandar",
+        "sections":  [
+                         "ESTROFA",
+                         "ESTRIBILLO",
+                         "PUENTE"
+                     ],
+        "techniques":  [
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "dani-martin-son-suenos",
+        "artist":  "Dani Martín",
+        "title":  "son sueños",
+        "filename":  "Dani Martín - son sueños.txt",
         "defaultTuning":  "estandar",
         "capo":  1,
         "sections":  [
@@ -931,10 +936,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "dani-martin-tal-como-eres2",
+        "id":  "dani-martin-tal-como-eres",
         "artist":  "Dani Martín",
-        "title":  "tal-como-eres2",
-        "filename":  "Dani Martín - tal-como-eres2.txt",
+        "title":  "tal-como-eres",
+        "filename":  "Dani Martín - tal-como-eres.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -957,21 +962,6 @@
         "defaultTuning":  "estandar",
         "sections":  [
                          "SOLO"
-                     ],
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "dani-martin",
-        "artist":  "Desconocido",
-        "title":  "Dani Martín -",
-        "filename":  "Dani Martín -.txt",
-        "defaultTuning":  "estandar",
-        "sections":  [
-                         "ESTROFA",
-                         "ESTRIBILLO",
-                         "PUENTE"
                      ],
         "techniques":  [
                            "barre-chords"
@@ -1004,6 +994,16 @@
                          "ESTROFA",
                          "ESTRIBILLO"
                      ],
+        "techniques":  [
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "desconocido-con-las-ganas",
+        "artist":  "Desconocido",
+        "title":  "CON LAS GANAS",
+        "filename":  "Desconocido - CON LAS GANAS.txt",
+        "defaultTuning":  "estandar",
         "techniques":  [
                            "barre-chords"
                        ]
@@ -1134,10 +1134,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-acabado-en-a2",
+        "id":  "el-canto-del-loco-acabado-en-a",
         "artist":  "El Canto Del Loco",
-        "title":  "Acabado en A2",
-        "filename":  "El Canto Del Loco - Acabado en A2.txt",
+        "title":  "Acabado en A",
+        "filename":  "El Canto Del Loco - Acabado en A.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "barre-chords"
@@ -1177,8 +1177,8 @@
     {
         "id":  "el-canto-del-loco-canciones",
         "artist":  "El Canto Del Loco",
-        "title":  "Canciones -",
-        "filename":  "El Canto Del Loco - Canciones -.txt",
+        "title":  "CANCIONES",
+        "filename":  "El Canto Del Loco - CANCIONES.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "tabs",
@@ -1210,10 +1210,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-contigo10",
+        "id":  "el-canto-del-loco-contigo",
         "artist":  "El Canto Del Loco",
-        "title":  "Contigo10",
-        "filename":  "El Canto Del Loco - Contigo10.txt",
+        "title":  "Contigo",
+        "filename":  "El Canto Del Loco - Contigo.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTROFA",
@@ -1224,10 +1224,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-corazon111",
+        "id":  "el-canto-del-loco-corazon-alt",
         "artist":  "El Canto Del Loco",
-        "title":  "Corazon111",
-        "filename":  "El Canto Del Loco - Corazon111.txt",
+        "title":  "Corazon (alt)",
+        "filename":  "El Canto Del Loco - Corazon (alt).txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTROFA",
@@ -1238,10 +1238,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-corazon12",
+        "id":  "el-canto-del-loco-corazon",
         "artist":  "El Canto Del Loco",
-        "title":  "Corazon12",
-        "filename":  "El Canto Del Loco - Corazon12.txt",
+        "title":  "Corazon",
+        "filename":  "El Canto Del Loco - Corazon.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTROFA",
@@ -1275,10 +1275,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-desaparece15",
+        "id":  "el-canto-del-loco-desaparece",
         "artist":  "El Canto Del Loco",
-        "title":  "Desaparece15",
-        "filename":  "El Canto Del Loco - Desaparece15.txt",
+        "title":  "Desaparece",
+        "filename":  "El Canto Del Loco - Desaparece.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "tabs",
@@ -1312,27 +1312,27 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-ekix",
+        "id":  "el-canto-del-loco-ekix-alt",
         "artist":  "El Canto Del Loco",
-        "title":  "Ekix",
-        "filename":  "El Canto Del Loco - Ekix.txt",
-        "defaultTuning":  "estandar",
-        "capo":  4,
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "el-canto-del-loco-ekix19",
-        "artist":  "El Canto Del Loco",
-        "title":  "Ekix19",
-        "filename":  "El Canto Del Loco - Ekix19.txt",
+        "title":  "Ekix (alt)",
+        "filename":  "El Canto Del Loco - Ekix (alt).txt",
         "defaultTuning":  "estandar",
         "capo":  4,
         "sections":  [
                          "ESTROFA",
                          "ESTRIBILLO"
                      ],
+        "techniques":  [
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "el-canto-del-loco-ekix",
+        "artist":  "El Canto Del Loco",
+        "title":  "Ekix",
+        "filename":  "El Canto Del Loco - Ekix.txt",
+        "defaultTuning":  "estandar",
+        "capo":  4,
         "techniques":  [
                            "barre-chords"
                        ]
@@ -1349,10 +1349,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-el-ultimo-dia-de-nuestras-vidas21",
+        "id":  "el-canto-del-loco-el-ultimo-dia-de-nuestras-vidas",
         "artist":  "El Canto Del Loco",
-        "title":  "El Último Día De Nuestras Vidas21",
-        "filename":  "El Canto Del Loco - El Último Día De Nuestras Vidas21.txt",
+        "title":  "El Último Día De Nuestras Vidas",
+        "filename":  "El Canto Del Loco - El Último Día De Nuestras Vidas.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -1365,10 +1365,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-eres-tonto22",
+        "id":  "el-canto-del-loco-eres-tonto",
         "artist":  "El Canto Del Loco",
-        "title":  "Eres Tonto22",
-        "filename":  "El Canto Del Loco - Eres Tonto22.txt",
+        "title":  "Eres Tonto",
+        "filename":  "El Canto Del Loco - Eres Tonto.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "barre-chords"
@@ -1428,27 +1428,27 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-la-suerte-de-mi-vida227",
+        "id":  "el-canto-del-loco-la-suerte-de-mi-vida-alt",
         "artist":  "El Canto Del Loco",
-        "title":  "La Suerte De Mi Vida227",
-        "filename":  "El Canto Del Loco - La Suerte De Mi Vida227.txt",
-        "defaultTuning":  "estandar",
-        "techniques":  [
-                           "tabs",
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "el-canto-del-loco-la-suerte-de-mi-vida28",
-        "artist":  "El Canto Del Loco",
-        "title":  "La Suerte De Mi Vida28",
-        "filename":  "El Canto Del Loco - La Suerte De Mi Vida28.txt",
+        "title":  "La Suerte De Mi Vida (alt)",
+        "filename":  "El Canto Del Loco - La Suerte De Mi Vida (alt).txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTRIBILLO",
                          "PUENTE"
                      ],
         "techniques":  [
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "el-canto-del-loco-la-suerte-de-mi-vida",
+        "artist":  "El Canto Del Loco",
+        "title":  "La Suerte De Mi Vida",
+        "filename":  "El Canto Del Loco - La Suerte De Mi Vida.txt",
+        "defaultTuning":  "estandar",
+        "techniques":  [
+                           "tabs",
                            "barre-chords"
                        ]
     },
@@ -1463,25 +1463,25 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-llueve-en-mi31",
+        "id":  "el-canto-del-loco-llueve-en-mi-alt",
         "artist":  "El Canto Del Loco",
-        "title":  "Llueve en Mí31",
-        "filename":  "El Canto Del Loco - Llueve en Mí31.txt",
+        "title":  "Llueve en Mí (alt)",
+        "filename":  "El Canto Del Loco - Llueve en Mí (alt).txt",
         "defaultTuning":  "estandar",
-        "sections":  [
-                         "ESTROFA",
-                         "ESTRIBILLO"
-                     ],
         "techniques":  [
                            "barre-chords"
                        ]
     },
     {
-        "id":  "el-canto-del-loco-llueve-en-mi330",
+        "id":  "el-canto-del-loco-llueve-en-mi",
         "artist":  "El Canto Del Loco",
-        "title":  "Llueve en Mí330",
-        "filename":  "El Canto Del Loco - Llueve en Mí330.txt",
+        "title":  "Llueve en Mí",
+        "filename":  "El Canto Del Loco - Llueve en Mí.txt",
         "defaultTuning":  "estandar",
+        "sections":  [
+                         "ESTROFA",
+                         "ESTRIBILLO"
+                     ],
         "techniques":  [
                            "barre-chords"
                        ]
@@ -1517,10 +1517,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-para-siempre35",
+        "id":  "el-canto-del-loco-para-siempre",
         "artist":  "El Canto Del Loco",
-        "title":  "Para Siempre35",
-        "filename":  "El Canto Del Loco - Para Siempre35.txt",
+        "title":  "Para Siempre",
+        "filename":  "El Canto Del Loco - Para Siempre.txt",
         "defaultTuning":  "estandar",
         "capo":  1,
         "sections":  [
@@ -1546,10 +1546,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-pasion37",
+        "id":  "el-canto-del-loco-pasion",
         "artist":  "El Canto Del Loco",
-        "title":  "Pasion37",
-        "filename":  "El Canto Del Loco - Pasion37.txt",
+        "title":  "Pasion",
+        "filename":  "El Canto Del Loco - Pasion.txt",
         "defaultTuning":  "estandar",
         "capo":  1,
         "sections":  [
@@ -1561,10 +1561,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-pequenita38",
+        "id":  "el-canto-del-loco-pequenita",
         "artist":  "El Canto Del Loco",
-        "title":  "Pequeñita38",
-        "filename":  "El Canto Del Loco - Pequeñita38.txt",
+        "title":  "Pequeñita",
+        "filename":  "El Canto Del Loco - Pequeñita.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "SOLO"
@@ -1574,10 +1574,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-personas39",
+        "id":  "el-canto-del-loco-personas",
         "artist":  "El Canto Del Loco",
-        "title":  "Personas39",
-        "filename":  "El Canto Del Loco - Personas39.txt",
+        "title":  "Personas",
+        "filename":  "El Canto Del Loco - Personas.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "SOLO"
@@ -1588,27 +1588,27 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-peter-pan41",
+        "id":  "el-canto-del-loco-peter-pan-alt",
         "artist":  "El Canto Del Loco",
-        "title":  "Peter Pan41",
-        "filename":  "El Canto Del Loco - Peter Pan41.txt",
+        "title":  "Peter Pan (alt)",
+        "filename":  "El Canto Del Loco - Peter Pan (alt).txt",
+        "defaultTuning":  "estandar",
+        "capo":  2,
+        "techniques":  [
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "el-canto-del-loco-peter-pan",
+        "artist":  "El Canto Del Loco",
+        "title":  "Peter Pan",
+        "filename":  "El Canto Del Loco - Peter Pan.txt",
         "defaultTuning":  "estandar",
         "capo":  2,
         "sections":  [
                          "ESTROFA",
                          "ESTRIBILLO"
                      ],
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "el-canto-del-loco-peter-pan440",
-        "artist":  "El Canto Del Loco",
-        "title":  "Peter Pan440",
-        "filename":  "El Canto Del Loco - Peter Pan440.txt",
-        "defaultTuning":  "estandar",
-        "capo":  2,
         "techniques":  [
                            "barre-chords"
                        ]
@@ -1626,10 +1626,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-por-ti43",
+        "id":  "el-canto-del-loco-por-ti",
         "artist":  "El Canto Del Loco",
-        "title":  "Por Ti43",
-        "filename":  "El Canto Del Loco - Por Ti43.txt",
+        "title":  "Por Ti",
+        "filename":  "El Canto Del Loco - Por Ti.txt",
         "defaultTuning":  "estandar",
         "capo":  3,
         "sections":  [
@@ -1641,10 +1641,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-portales44",
+        "id":  "el-canto-del-loco-portales",
         "artist":  "El Canto Del Loco",
-        "title":  "Portales44",
-        "filename":  "El Canto Del Loco - Portales44.txt",
+        "title":  "Portales",
+        "filename":  "El Canto Del Loco - Portales.txt",
         "defaultTuning":  "estandar",
         "capo":  2,
         "sections":  [
@@ -1656,20 +1656,20 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-preguntas",
+        "id":  "el-canto-del-loco-preguntas-alt-2",
         "artist":  "El Canto Del Loco",
-        "title":  "Preguntas -",
-        "filename":  "El Canto Del Loco - Preguntas -.txt",
+        "title":  "PREGUNTAS (alt 2)",
+        "filename":  "El Canto Del Loco - PREGUNTAS (alt 2).txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "barre-chords"
                        ]
     },
     {
-        "id":  "el-canto-del-loco-preguntas46",
+        "id":  "el-canto-del-loco-preguntas",
         "artist":  "El Canto Del Loco",
-        "title":  "Preguntas46",
-        "filename":  "El Canto Del Loco - Preguntas46.txt",
+        "title":  "Preguntas",
+        "filename":  "El Canto Del Loco - Preguntas.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTROFA",
@@ -1680,10 +1680,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-puede-ser47",
+        "id":  "el-canto-del-loco-puede-ser",
         "artist":  "El Canto Del Loco",
-        "title":  "Puede Ser47",
-        "filename":  "El Canto Del Loco - Puede Ser47.txt",
+        "title":  "Puede Ser",
+        "filename":  "El Canto Del Loco - Puede Ser.txt",
         "defaultTuning":  "estandar",
         "capo":  2,
         "sections":  [
@@ -1697,10 +1697,21 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-que-caro-es-el-tiempo49",
+        "id":  "el-canto-del-loco-que-caro-es-el-tiempo-alt",
         "artist":  "El Canto Del Loco",
-        "title":  "Que Caro Es El Tiempo49",
-        "filename":  "El Canto Del Loco - Que Caro Es El Tiempo49.txt",
+        "title":  "Que Caro Es El Tiempo (alt)",
+        "filename":  "El Canto Del Loco - Que Caro Es El Tiempo (alt).txt",
+        "defaultTuning":  "estandar",
+        "techniques":  [
+                           "tabs",
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "el-canto-del-loco-que-caro-es-el-tiempo",
+        "artist":  "El Canto Del Loco",
+        "title":  "Que Caro Es El Tiempo",
+        "filename":  "El Canto Del Loco - Que Caro Es El Tiempo.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTROFA",
@@ -1711,27 +1722,32 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-que-caro-es-el-tiempo548",
-        "artist":  "El Canto Del Loco",
-        "title":  "Que Caro Es El Tiempo548",
-        "filename":  "El Canto Del Loco - Que Caro Es El Tiempo548.txt",
-        "defaultTuning":  "estandar",
-        "techniques":  [
-                           "tabs",
-                           "barre-chords"
-                       ]
-    },
-    {
         "id":  "el-canto-del-loco-sera",
         "artist":  "El Canto Del Loco",
-        "title":  "Sera -",
-        "filename":  "El Canto Del Loco - Sera -.txt",
+        "title":  "SERA",
+        "filename":  "El Canto Del Loco - SERA.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTRIBILLO"
                      ],
         "techniques":  [
                            "tabs",
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "el-canto-del-loco-siempre-cerca-alt",
+        "artist":  "El Canto Del Loco",
+        "title":  "Siempre Cerca (alt)",
+        "filename":  "El Canto Del Loco - Siempre Cerca (alt).txt",
+        "defaultTuning":  "estandar",
+        "sections":  [
+                         "INTRO",
+                         "ESTROFA",
+                         "ESTRIBILLO",
+                         "PUENTE"
+                     ],
+        "techniques":  [
                            "barre-chords"
                        ]
     },
@@ -1741,22 +1757,6 @@
         "title":  "Siempre Cerca",
         "filename":  "El Canto Del Loco - Siempre Cerca.txt",
         "defaultTuning":  "estandar",
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "el-canto-del-loco-siempre-cerca52",
-        "artist":  "El Canto Del Loco",
-        "title":  "Siempre Cerca52",
-        "filename":  "El Canto Del Loco - Siempre Cerca52.txt",
-        "defaultTuning":  "estandar",
-        "sections":  [
-                         "INTRO",
-                         "ESTROFA",
-                         "ESTRIBILLO",
-                         "PUENTE"
-                     ],
         "techniques":  [
                            "barre-chords"
                        ]
@@ -1772,6 +1772,17 @@
                        ]
     },
     {
+        "id":  "el-canto-del-loco-sin-titulo",
+        "artist":  "El Canto Del Loco",
+        "title":  "Sin titulo",
+        "filename":  "El Canto Del Loco - Sin titulo.txt",
+        "defaultTuning":  "estandar",
+        "techniques":  [
+                           "tabs",
+                           "barre-chords"
+                       ]
+    },
+    {
         "id":  "el-canto-del-loco-son-suenos-son-suenos",
         "artist":  "El Canto Del Loco",
         "title":  "Son Sueños - Son Sueños",
@@ -1783,10 +1794,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-son-suenos55",
+        "id":  "el-canto-del-loco-son-suenos",
         "artist":  "El Canto Del Loco",
-        "title":  "Son Sueños55",
-        "filename":  "El Canto Del Loco - Son Sueños55.txt",
+        "title":  "Son Sueños",
+        "filename":  "El Canto Del Loco - Son Sueños.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTROFA",
@@ -1807,10 +1818,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-tal-como-eres57",
+        "id":  "el-canto-del-loco-tal-como-eres",
         "artist":  "El Canto Del Loco",
-        "title":  "Tal Como Eres57",
-        "filename":  "El Canto Del Loco - Tal Como Eres57.txt",
+        "title":  "Tal Como Eres",
+        "filename":  "El Canto Del Loco - Tal Como Eres.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -1822,20 +1833,20 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-te-recuerdo",
+        "id":  "el-canto-del-loco-te-recuerdo-alt",
         "artist":  "El Canto Del Loco",
-        "title":  "Te Recuerdo",
-        "filename":  "El Canto Del Loco - Te Recuerdo.txt",
+        "title":  "Te Recuerdo (alt)",
+        "filename":  "El Canto Del Loco - Te Recuerdo (alt).txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "barre-chords"
                        ]
     },
     {
-        "id":  "el-canto-del-loco-te-recuerdo59",
+        "id":  "el-canto-del-loco-te-recuerdo",
         "artist":  "El Canto Del Loco",
-        "title":  "Te Recuerdo59",
-        "filename":  "El Canto Del Loco - Te Recuerdo59.txt",
+        "title":  "Te Recuerdo",
+        "filename":  "El Canto Del Loco - Te Recuerdo.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "barre-chords"
@@ -1866,10 +1877,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-un-millon-de-cicatrices62",
+        "id":  "el-canto-del-loco-un-millon-de-cicatrices",
         "artist":  "El Canto Del Loco",
-        "title":  "Un Millon De Cicatrices62",
-        "filename":  "El Canto Del Loco - Un Millon De Cicatrices62.txt",
+        "title":  "Un Millon De Cicatrices",
+        "filename":  "El Canto Del Loco - Un Millon De Cicatrices.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO"
@@ -1925,10 +1936,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-volver-a-disfrutar67",
+        "id":  "el-canto-del-loco-volver-a-disfrutar",
         "artist":  "El Canto Del Loco",
-        "title":  "Volver a Disfrutar67",
-        "filename":  "El Canto Del Loco - Volver a Disfrutar67.txt",
+        "title":  "Volver a Disfrutar",
+        "filename":  "El Canto Del Loco - Volver a Disfrutar.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTRIBILLO"
@@ -1938,10 +1949,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-volvera68",
+        "id":  "el-canto-del-loco-volvera",
         "artist":  "El Canto Del Loco",
-        "title":  "Volvera68",
-        "filename":  "El Canto Del Loco - Volvera68.txt",
+        "title":  "Volvera",
+        "filename":  "El Canto Del Loco - Volvera.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "tabs",
@@ -1949,10 +1960,10 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-vuelve69",
+        "id":  "el-canto-del-loco-vuelve",
         "artist":  "El Canto Del Loco",
-        "title":  "Vuelve69",
-        "filename":  "El Canto Del Loco - Vuelve69.txt",
+        "title":  "Vuelve",
+        "filename":  "El Canto Del Loco - Vuelve.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTRIBILLO",
@@ -1994,26 +2005,15 @@
                        ]
     },
     {
-        "id":  "el-canto-del-loco-zapatillas73",
+        "id":  "el-canto-del-loco-zapatillas",
         "artist":  "El Canto Del Loco",
-        "title":  "Zapatillas73",
-        "filename":  "El Canto Del Loco - Zapatillas73.txt",
+        "title":  "Zapatillas",
+        "filename":  "El Canto Del Loco - Zapatillas.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "tabs",
                            "palm-mute",
                            "strumming",
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "el-canto-del-loco",
-        "artist":  "Desconocido",
-        "title":  "El Canto Del Loco -",
-        "filename":  "El Canto Del Loco -.txt",
-        "defaultTuning":  "estandar",
-        "techniques":  [
-                           "tabs",
                            "barre-chords"
                        ]
     },
@@ -2945,10 +2945,10 @@
                        ]
     },
     {
-        "id":  "grupo-01-cancion-02",
+        "id":  "grupo-01-cancion",
         "artist":  "grupo",
-        "title":  "01-cancion-02",
-        "filename":  "grupo-01-cancion-02.txt",
+        "title":  "01-CANCION",
+        "filename":  "grupo - 01-CANCION.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -3170,10 +3170,10 @@
                        ]
     },
     {
-        "id":  "jarabe-de-palo",
-        "artist":  "Desconocido",
-        "title":  "Jarabe De Palo -",
-        "filename":  "Jarabe De Palo -.txt",
+        "id":  "jarabe-de-palo-sin-titulo",
+        "artist":  "Jarabe De Palo",
+        "title":  "Sin titulo",
+        "filename":  "Jarabe De Palo - Sin titulo.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -3700,10 +3700,10 @@
                        ]
     },
     {
-        "id":  "johnny-cash",
-        "artist":  "Desconocido",
-        "title":  "Johnny Cash -",
-        "filename":  "Johnny Cash -.txt",
+        "id":  "johnny-cash-sin-titulo",
+        "artist":  "Johnny Cash",
+        "title":  "Sin titulo",
+        "filename":  "Johnny Cash - Sin titulo.txt",
         "defaultTuning":  "estandar",
         "bpm":  92,
         "capo":  0,
@@ -3946,16 +3946,6 @@
                        ]
     },
     {
-        "id":  "leiva-922",
-        "artist":  "Leiva",
-        "title":  "922",
-        "filename":  "Leiva - 922.txt",
-        "defaultTuning":  "estandar",
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
         "id":  "leiva-a-ti-te-ocurre-algo",
         "artist":  "Leiva",
         "title":  "a Ti Te Ocurre Algo",
@@ -3991,10 +3981,10 @@
         "key":  "Fa# Menor (F#m) sin capo; con capo 2 ≈ Sol#m (G#m)"
     },
     {
-        "id":  "leiva-amelie2",
+        "id":  "leiva-amelie",
         "artist":  "Leiva",
-        "title":  "amelie2",
-        "filename":  "Leiva - amelie2.txt",
+        "title":  "amelie",
+        "filename":  "Leiva - amelie.txt",
         "defaultTuning":  "estandar",
         "bpm":  85,
         "capo":  2,
@@ -4008,10 +3998,10 @@
         "key":  "Si Menor"
     },
     {
-        "id":  "leiva-animales2",
+        "id":  "leiva-animales",
         "artist":  "Leiva",
-        "title":  "animales2",
-        "filename":  "Leiva - animales2.txt",
+        "title":  "animales",
+        "filename":  "Leiva - animales.txt",
         "defaultTuning":  "estandar",
         "bpm":  129,
         "capo":  1,
@@ -4027,10 +4017,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "leiva-aproximacion2",
+        "id":  "leiva-aproximacion",
         "artist":  "Leiva",
-        "title":  "aproximacion2",
-        "filename":  "Leiva - aproximacion2.txt",
+        "title":  "aproximacion",
+        "filename":  "Leiva - aproximacion.txt",
         "defaultTuning":  "estandar",
         "capo":  2,
         "sections":  [
@@ -4076,10 +4066,10 @@
                        ]
     },
     {
-        "id":  "leiva-blancos-faciles2",
+        "id":  "leiva-blancos-faciles",
         "artist":  "Leiva",
-        "title":  "blancos fáciles2",
-        "filename":  "Leiva - blancos fáciles2.txt",
+        "title":  "blancos fáciles",
+        "filename":  "Leiva - blancos fáciles.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "techniques":  [
@@ -4107,8 +4097,8 @@
     {
         "id":  "leiva-caida-libre",
         "artist":  "Leiva",
-        "title":  "Caída Libre",
-        "filename":  "Leiva - Caída Libre.txt",
+        "title":  "caida libre",
+        "filename":  "Leiva - caida libre.txt",
         "defaultTuning":  "estandar",
         "capo":  5,
         "sections":  [
@@ -4120,10 +4110,10 @@
                        ]
     },
     {
-        "id":  "leiva-caida-libre2",
+        "id":  "leiva-caida-libre-2",
         "artist":  "Leiva",
-        "title":  "caida libre2",
-        "filename":  "Leiva - caida libre2.txt",
+        "title":  "Caída Libre",
+        "filename":  "Leiva - Caída Libre.txt",
         "defaultTuning":  "estandar",
         "capo":  5,
         "sections":  [
@@ -4153,24 +4143,8 @@
     {
         "id":  "leiva-ciencia-ficcion",
         "artist":  "Leiva",
-        "title":  "Ciencia Ficción",
-        "filename":  "Leiva - Ciencia Ficción.txt",
-        "defaultTuning":  "estandar",
-        "capo":  0,
-        "sections":  [
-                         "INTRO",
-                         "ESTROFA",
-                         "ESTRIBILLO"
-                     ],
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "leiva-ciencia-ficcion2",
-        "artist":  "Leiva",
-        "title":  "ciencia ficcion2",
-        "filename":  "Leiva - ciencia ficcion2.txt",
+        "title":  "ciencia ficcion",
+        "filename":  "Leiva - ciencia ficcion.txt",
         "defaultTuning":  "estandar",
         "bpm":  94,
         "capo":  0,
@@ -4186,10 +4160,26 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "leiva-como-lo-tienes-tu2",
+        "id":  "leiva-ciencia-ficcion-2",
         "artist":  "Leiva",
-        "title":  "como lo tienes tu2",
-        "filename":  "Leiva - como lo tienes tu2.txt",
+        "title":  "Ciencia Ficción",
+        "filename":  "Leiva - Ciencia Ficción.txt",
+        "defaultTuning":  "estandar",
+        "capo":  0,
+        "sections":  [
+                         "INTRO",
+                         "ESTROFA",
+                         "ESTRIBILLO"
+                     ],
+        "techniques":  [
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "leiva-como-lo-tienes-tu",
+        "artist":  "Leiva",
+        "title":  "como lo tienes tu",
+        "filename":  "Leiva - como lo tienes tu.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -4230,24 +4220,8 @@
     {
         "id":  "leiva-dejandose-caer",
         "artist":  "Leiva",
-        "title":  "Dejándose Caer",
-        "filename":  "Leiva - Dejándose Caer.txt",
-        "defaultTuning":  "estandar",
-        "capo":  1,
-        "sections":  [
-                         "INTRO",
-                         "ESTROFA",
-                         "ESTRIBILLO"
-                     ],
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "leiva-dejandose-caer2",
-        "artist":  "Leiva",
-        "title":  "dejandose caer2",
-        "filename":  "Leiva - dejandose caer2.txt",
+        "title":  "dejandose caer",
+        "filename":  "Leiva - dejandose caer.txt",
         "defaultTuning":  "estandar",
         "capo":  1,
         "sections":  [
@@ -4261,6 +4235,22 @@
                            "barre-chords"
                        ],
         "timeSignature":  "4/4"
+    },
+    {
+        "id":  "leiva-dejandose-caer-2",
+        "artist":  "Leiva",
+        "title":  "Dejándose Caer",
+        "filename":  "Leiva - Dejándose Caer.txt",
+        "defaultTuning":  "estandar",
+        "capo":  1,
+        "sections":  [
+                         "INTRO",
+                         "ESTROFA",
+                         "ESTRIBILLO"
+                     ],
+        "techniques":  [
+                           "barre-chords"
+                       ]
     },
     {
         "id":  "leiva-del-hueso-una-flor",
@@ -4280,10 +4270,10 @@
                        ]
     },
     {
-        "id":  "leiva-diazepam2",
+        "id":  "leiva-diazepam",
         "artist":  "Leiva",
-        "title":  "diazepam2",
-        "filename":  "Leiva - diazepam2.txt",
+        "title":  "diazepam",
+        "filename":  "Leiva - diazepam.txt",
         "defaultTuning":  "estandar",
         "capo":  4,
         "sections":  [
@@ -4314,10 +4304,10 @@
                        ]
     },
     {
-        "id":  "leiva-el-polvo-de-los-dias-raros2",
+        "id":  "leiva-el-polvo-de-los-dias-raros",
         "artist":  "Leiva",
-        "title":  "el polvo de los dias raros2",
-        "filename":  "Leiva - el polvo de los dias raros2.txt",
+        "title":  "el polvo de los dias raros",
+        "filename":  "Leiva - el polvo de los dias raros.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTROFA"
@@ -4328,10 +4318,10 @@
                        ]
     },
     {
-        "id":  "leiva-el-ultimo-incendio2",
+        "id":  "leiva-el-ultimo-incendio",
         "artist":  "Leiva",
-        "title":  "el ultimo incendio2",
-        "filename":  "Leiva - el ultimo incendio2.txt",
+        "title":  "el ultimo incendio",
+        "filename":  "Leiva - el ultimo incendio.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -4345,10 +4335,10 @@
                        ]
     },
     {
-        "id":  "leiva-electricidad2",
+        "id":  "leiva-electricidad",
         "artist":  "Leiva",
-        "title":  "electricidad2",
-        "filename":  "Leiva - electricidad2.txt",
+        "title":  "electricidad",
+        "filename":  "Leiva - electricidad.txt",
         "defaultTuning":  "estandar",
         "capo":  1,
         "sections":  [
@@ -4392,10 +4382,10 @@
                        ]
     },
     {
-        "id":  "leiva-estrella-polar2",
+        "id":  "leiva-estrella-polar",
         "artist":  "Leiva",
-        "title":  "estrella polar2",
-        "filename":  "Leiva - estrella polar2.txt",
+        "title":  "estrella polar",
+        "filename":  "Leiva - estrella polar.txt",
         "defaultTuning":  "estandar",
         "bpm":  127,
         "capo":  2,
@@ -4429,10 +4419,10 @@
                        ]
     },
     {
-        "id":  "leiva-extasis2",
+        "id":  "leiva-extasis",
         "artist":  "Leiva",
-        "title":  "Extasis2",
-        "filename":  "Leiva - Extasis2.txt",
+        "title":  "Extasis",
+        "filename":  "Leiva - Extasis.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -4510,23 +4500,8 @@
     {
         "id":  "leiva-histericos",
         "artist":  "Leiva",
-        "title":  "Histéricos",
-        "filename":  "Leiva - Histéricos.txt",
-        "defaultTuning":  "estandar",
-        "capo":  1,
-        "sections":  [
-                         "ESTROFA",
-                         "ESTRIBILLO"
-                     ],
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "leiva-histericos2",
-        "artist":  "Leiva",
-        "title":  "histericos2",
-        "filename":  "Leiva - histericos2.txt",
+        "title":  "histericos",
+        "filename":  "Leiva - histericos.txt",
         "defaultTuning":  "estandar",
         "bpm":  78,
         "capo":  1,
@@ -4540,10 +4515,25 @@
         "key":  "Do# Mayor"
     },
     {
-        "id":  "leiva-hoy-no-me-encuentro2",
+        "id":  "leiva-histericos-2",
         "artist":  "Leiva",
-        "title":  "hoy no me encuentro2",
-        "filename":  "Leiva - hoy no me encuentro2.txt",
+        "title":  "Histéricos",
+        "filename":  "Leiva - Histéricos.txt",
+        "defaultTuning":  "estandar",
+        "capo":  1,
+        "sections":  [
+                         "ESTROFA",
+                         "ESTRIBILLO"
+                     ],
+        "techniques":  [
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "leiva-hoy-no-me-encuentro",
+        "artist":  "Leiva",
+        "title":  "hoy no me encuentro",
+        "filename":  "Leiva - hoy no me encuentro.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -4558,10 +4548,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "leiva-hoy-tus-ojos2",
+        "id":  "leiva-hoy-tus-ojos",
         "artist":  "Leiva",
-        "title":  "hoy tus ojos2",
-        "filename":  "Leiva - hoy tus ojos2.txt",
+        "title":  "hoy tus ojos",
+        "filename":  "Leiva - hoy tus ojos.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTROFA",
@@ -4587,10 +4577,10 @@
                        ]
     },
     {
-        "id":  "leiva-index2",
+        "id":  "leiva-index",
         "artist":  "Leiva",
-        "title":  "index2",
-        "filename":  "Leiva - index2.txt",
+        "title":  "index",
+        "filename":  "Leiva - index.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "tabs",
@@ -4615,6 +4605,23 @@
     {
         "id":  "leiva-la-estacion-eterna",
         "artist":  "Leiva",
+        "title":  "la estacion eterna",
+        "filename":  "Leiva - la estacion eterna.txt",
+        "defaultTuning":  "estandar",
+        "capo":  0,
+        "sections":  [
+                         "INTRO",
+                         "ESTROFA",
+                         "ESTRIBILLO"
+                     ],
+        "techniques":  [
+                           "barre-chords"
+                       ],
+        "timeSignature":  "4/4"
+    },
+    {
+        "id":  "leiva-la-estacion-eterna-2",
+        "artist":  "Leiva",
         "title":  "La Estación Eterna",
         "filename":  "Leiva - La Estación Eterna.txt",
         "defaultTuning":  "estandar",
@@ -4627,23 +4634,6 @@
         "techniques":  [
                            "barre-chords"
                        ]
-    },
-    {
-        "id":  "leiva-la-estacion-eterna2",
-        "artist":  "Leiva",
-        "title":  "la estacion eterna2",
-        "filename":  "Leiva - la estacion eterna2.txt",
-        "defaultTuning":  "estandar",
-        "capo":  0,
-        "sections":  [
-                         "INTRO",
-                         "ESTROFA",
-                         "ESTRIBILLO"
-                     ],
-        "techniques":  [
-                           "barre-chords"
-                       ],
-        "timeSignature":  "4/4"
     },
     {
         "id":  "leiva-la-francesita",
@@ -4695,10 +4685,10 @@
                        ]
     },
     {
-        "id":  "leiva-lady-madrid2",
+        "id":  "leiva-lady-madrid",
         "artist":  "Leiva",
-        "title":  "lady madrid2",
-        "filename":  "Leiva - lady madrid2.txt",
+        "title":  "lady madrid",
+        "filename":  "Leiva - lady madrid.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -4714,10 +4704,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "leiva-las-cuentas2",
+        "id":  "leiva-las-cuentas",
         "artist":  "Leiva",
-        "title":  "las cuentas2",
-        "filename":  "Leiva - las cuentas2.txt",
+        "title":  "las cuentas",
+        "filename":  "Leiva - las cuentas.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -4733,10 +4723,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "leiva-leiva2",
+        "id":  "leiva-leiva",
         "artist":  "Leiva",
-        "title":  "Leiva2",
-        "filename":  "Leiva - Leiva2.txt",
+        "title":  "Leiva",
+        "filename":  "Leiva - Leiva.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "tabs",
@@ -4792,10 +4782,10 @@
                        ]
     },
     {
-        "id":  "leiva-medicina2",
+        "id":  "leiva-medicina",
         "artist":  "Leiva",
-        "title":  "medicina2",
-        "filename":  "Leiva - medicina2.txt",
+        "title":  "medicina",
+        "filename":  "Leiva - medicina.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -4810,19 +4800,8 @@
     {
         "id":  "leiva-mi-mejor-version",
         "artist":  "Leiva",
-        "title":  "Mi Mejor Versión",
-        "filename":  "Leiva - Mi Mejor Versión.txt",
-        "defaultTuning":  "estandar",
-        "capo":  2,
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "leiva-mi-mejor-version2",
-        "artist":  "Leiva",
-        "title":  "mi mejor version2",
-        "filename":  "Leiva - mi mejor version2.txt",
+        "title":  "mi mejor version",
+        "filename":  "Leiva - mi mejor version.txt",
         "defaultTuning":  "estandar",
         "bpm":  117,
         "capo":  2,
@@ -4835,6 +4814,17 @@
                        ],
         "key":  "Mi Mayor",
         "timeSignature":  "4/4"
+    },
+    {
+        "id":  "leiva-mi-mejor-version-2",
+        "artist":  "Leiva",
+        "title":  "Mi Mejor Versión",
+        "filename":  "Leiva - Mi Mejor Versión.txt",
+        "defaultTuning":  "estandar",
+        "capo":  2,
+        "techniques":  [
+                           "barre-chords"
+                       ]
     },
     {
         "id":  "leiva-mi-pequeno-chernobil",
@@ -4854,10 +4844,10 @@
                        ]
     },
     {
-        "id":  "leiva-mi-pequeno-chernobyl2",
+        "id":  "leiva-mi-pequeno-chernobyl",
         "artist":  "Leiva",
-        "title":  "mi pequeño chernobyl2",
-        "filename":  "Leiva - mi pequeño chernobyl2.txt",
+        "title":  "mi pequeño chernobyl",
+        "filename":  "Leiva - mi pequeño chernobyl.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -4903,10 +4893,10 @@
                        ]
     },
     {
-        "id":  "leiva-monstruos2",
+        "id":  "leiva-monstruos",
         "artist":  "Leiva",
-        "title":  "monstruos2",
-        "filename":  "Leiva - monstruos2.txt",
+        "title":  "monstruos",
+        "filename":  "Leiva - monstruos.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -4975,10 +4965,10 @@
                        ]
     },
     {
-        "id":  "leiva-peligrosamente-dark2",
+        "id":  "leiva-peligrosamente-dark",
         "artist":  "Leiva",
-        "title":  "peligrosamente dark2",
-        "filename":  "Leiva - peligrosamente dark2.txt",
+        "title":  "peligrosamente dark",
+        "filename":  "Leiva - peligrosamente dark.txt",
         "defaultTuning":  "estandar",
         "capo":  2,
         "sections":  [
@@ -4990,10 +4980,10 @@
                        ]
     },
     {
-        "id":  "leiva-penaltis2",
+        "id":  "leiva-penaltis",
         "artist":  "Leiva",
-        "title":  "Penaltis2",
-        "filename":  "Leiva - Penaltis2.txt",
+        "title":  "Penaltis",
+        "filename":  "Leiva - Penaltis.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -5007,10 +4997,10 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "leiva-pienso-en-aquella-tarde2",
+        "id":  "leiva-pienso-en-aquella-tarde",
         "artist":  "Leiva",
-        "title":  "pienso en aquella tarde2",
-        "filename":  "Leiva - pienso en aquella tarde2.txt",
+        "title":  "pienso en aquella tarde",
+        "filename":  "Leiva - pienso en aquella tarde.txt",
         "defaultTuning":  "estandar",
         "capo":  2,
         "sections":  [
@@ -5025,6 +5015,25 @@
     },
     {
         "id":  "leiva-polvora",
+        "artist":  "Leiva",
+        "title":  "polvora",
+        "filename":  "Leiva - polvora.txt",
+        "defaultTuning":  "estandar",
+        "capo":  0,
+        "sections":  [
+                         "INTRO",
+                         "ESTROFA",
+                         "ESTRIBILLO",
+                         "PUENTE"
+                     ],
+        "techniques":  [
+                           "barre-chords"
+                       ],
+        "key":  "Sol Mayor",
+        "timeSignature":  "4/4"
+    },
+    {
+        "id":  "leiva-polvora-2",
         "artist":  "Leiva",
         "title":  "Pólvora",
         "filename":  "Leiva - Pólvora.txt",
@@ -5041,29 +5050,10 @@
                        ]
     },
     {
-        "id":  "leiva-polvora2",
+        "id":  "leiva-premio-de-consolacion",
         "artist":  "Leiva",
-        "title":  "polvora2",
-        "filename":  "Leiva - polvora2.txt",
-        "defaultTuning":  "estandar",
-        "capo":  0,
-        "sections":  [
-                         "INTRO",
-                         "ESTROFA",
-                         "ESTRIBILLO",
-                         "PUENTE"
-                     ],
-        "techniques":  [
-                           "barre-chords"
-                       ],
-        "key":  "Sol Mayor",
-        "timeSignature":  "4/4"
-    },
-    {
-        "id":  "leiva-premio-de-consolacion2",
-        "artist":  "Leiva",
-        "title":  "premio de consolacion2",
-        "filename":  "Leiva - premio de consolacion2.txt",
+        "title":  "premio de consolacion",
+        "filename":  "Leiva - premio de consolacion.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTRIBILLO",
@@ -5076,10 +5066,10 @@
                        ]
     },
     {
-        "id":  "leiva-princesas2",
+        "id":  "leiva-princesas",
         "artist":  "Leiva",
-        "title":  "princesas2",
-        "filename":  "Leiva - princesas2.txt",
+        "title":  "princesas",
+        "filename":  "Leiva - princesas.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -5092,13 +5082,23 @@
                        ]
     },
     {
-        "id":  "leiva-si-quieres-bailamos2",
+        "id":  "leiva-si-quieres-bailamos",
         "artist":  "Leiva",
-        "title":  "si quieres bailamos2",
-        "filename":  "Leiva - si quieres bailamos2.txt",
+        "title":  "si quieres bailamos",
+        "filename":  "Leiva - si quieres bailamos.txt",
         "defaultTuning":  "estandar",
         "techniques":  [
                            "tabs",
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "leiva-sin-titulo",
+        "artist":  "Leiva",
+        "title":  "Sin titulo",
+        "filename":  "Leiva - Sin titulo.txt",
+        "defaultTuning":  "estandar",
+        "techniques":  [
                            "barre-chords"
                        ]
     },
@@ -5119,10 +5119,10 @@
                        ]
     },
     {
-        "id":  "leiva-stranger-things-sin-capo2",
+        "id":  "leiva-stranger-things-sin-capo",
         "artist":  "Leiva",
-        "title":  "stranger things SIN CAPO2",
-        "filename":  "Leiva - stranger things SIN CAPO2.txt",
+        "title":  "stranger things SIN CAPO",
+        "filename":  "Leiva - stranger things SIN CAPO.txt",
         "defaultTuning":  "estandar",
         "capo":  2,
         "sections":  [
@@ -5181,23 +5181,8 @@
     {
         "id":  "leiva-todo-lo-que-tu-quieras",
         "artist":  "Leiva",
-        "title":  "Todo Lo Que Tú Quieras",
-        "filename":  "Leiva - Todo Lo Que Tú Quieras.txt",
-        "defaultTuning":  "estandar",
-        "capo":  0,
-        "sections":  [
-                         "ESTROFA",
-                         "ESTRIBILLO"
-                     ],
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "leiva-todo-lo-que-tu-quieras2",
-        "artist":  "Leiva",
-        "title":  "todo lo que tu quieras2",
-        "filename":  "Leiva - todo lo que tu quieras2.txt",
+        "title":  "todo lo que tu quieras",
+        "filename":  "Leiva - todo lo que tu quieras.txt",
         "defaultTuning":  "estandar",
         "capo":  0,
         "sections":  [
@@ -5212,10 +5197,25 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "leiva-todo2",
+        "id":  "leiva-todo-lo-que-tu-quieras-2",
         "artist":  "Leiva",
-        "title":  "todo2",
-        "filename":  "Leiva - todo2.txt",
+        "title":  "Todo Lo Que Tú Quieras",
+        "filename":  "Leiva - Todo Lo Que Tú Quieras.txt",
+        "defaultTuning":  "estandar",
+        "capo":  0,
+        "sections":  [
+                         "ESTROFA",
+                         "ESTRIBILLO"
+                     ],
+        "techniques":  [
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "leiva-todo",
+        "artist":  "Leiva",
+        "title":  "todo",
+        "filename":  "Leiva - todo.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -5228,22 +5228,8 @@
     {
         "id":  "leiva-vertigo",
         "artist":  "Leiva",
-        "title":  "Vértigo",
-        "filename":  "Leiva - Vértigo.txt",
-        "defaultTuning":  "estandar",
-        "capo":  1,
-        "sections":  [
-                         "ESTROFA"
-                     ],
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "leiva-vertigo2",
-        "artist":  "Leiva",
-        "title":  "vertigo2",
-        "filename":  "Leiva - vertigo2.txt",
+        "title":  "vertigo",
+        "filename":  "Leiva - vertigo.txt",
         "defaultTuning":  "estandar",
         "bpm":  108,
         "capo":  1,
@@ -5258,10 +5244,24 @@
         "timeSignature":  "4/4"
     },
     {
-        "id":  "leiva-violento-amor2",
+        "id":  "leiva-vertigo-2",
         "artist":  "Leiva",
-        "title":  "violento amor2",
-        "filename":  "Leiva - violento amor2.txt",
+        "title":  "Vértigo",
+        "filename":  "Leiva - Vértigo.txt",
+        "defaultTuning":  "estandar",
+        "capo":  1,
+        "sections":  [
+                         "ESTROFA"
+                     ],
+        "techniques":  [
+                           "barre-chords"
+                       ]
+    },
+    {
+        "id":  "leiva-violento-amor",
+        "artist":  "Leiva",
+        "title":  "violento amor",
+        "filename":  "Leiva - violento amor.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "ESTROFA",
@@ -5319,10 +5319,10 @@
                        ]
     },
     {
-        "id":  "lenny-kravitz",
-        "artist":  "Desconocido",
-        "title":  "Lenny Kravitz -",
-        "filename":  "Lenny Kravitz -.txt",
+        "id":  "lenny-kravitz-sin-titulo",
+        "artist":  "Lenny Kravitz",
+        "title":  "Sin titulo",
+        "filename":  "Lenny Kravitz - Sin titulo.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -5355,8 +5355,8 @@
     {
         "id":  "lifehouse-you-and-me",
         "artist":  "Lifehouse",
-        "title":  "You and Me -",
-        "filename":  "Lifehouse - You and Me -.txt",
+        "title":  "YOU AND ME",
+        "filename":  "Lifehouse - YOU AND ME.txt",
         "defaultTuning":  "estandar",
         "capo":  7,
         "sections":  [
@@ -5370,6 +5370,19 @@
                        ]
     },
     {
+        "id":  "los-piratas-sin-titulo",
+        "artist":  "Los Piratas",
+        "title":  "Sin titulo",
+        "filename":  "Los Piratas - Sin titulo.txt",
+        "defaultTuning":  "estandar",
+        "bpm":  128,
+        "techniques":  [
+                           "barre-chords"
+                       ],
+        "key":  "Mi Mayor (E Major)",
+        "timeSignature":  "4/4"
+    },
+    {
         "id":  "los-piratas-te-echare-de-menos",
         "artist":  "Los Piratas",
         "title":  "Te Echare De Menos",
@@ -5381,19 +5394,6 @@
         "techniques":  [
                            "barre-chords"
                        ]
-    },
-    {
-        "id":  "los-piratas",
-        "artist":  "Desconocido",
-        "title":  "Los Piratas -",
-        "filename":  "Los Piratas -.txt",
-        "defaultTuning":  "estandar",
-        "bpm":  128,
-        "techniques":  [
-                           "barre-chords"
-                       ],
-        "key":  "Mi Mayor (E Major)",
-        "timeSignature":  "4/4"
     },
     {
         "id":  "los-rodriguez-dulce-condena",
@@ -5456,6 +5456,17 @@
                        ]
     },
     {
+        "id":  "los-secretos-sin-titulo",
+        "artist":  "Los Secretos",
+        "title":  "Sin titulo",
+        "filename":  "Los Secretos - Sin titulo.txt",
+        "defaultTuning":  "estandar",
+        "capo":  0,
+        "techniques":  [
+                           "barre-chords"
+                       ]
+    },
+    {
         "id":  "los-secretos-y-no-amanece",
         "artist":  "Los Secretos",
         "title":  "Y No Amanece",
@@ -5468,17 +5479,6 @@
                          "SOLO",
                          "OUTRO"
                      ],
-        "techniques":  [
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "los-secretos",
-        "artist":  "Desconocido",
-        "title":  "Los Secretos -",
-        "filename":  "Los Secretos -.txt",
-        "defaultTuning":  "estandar",
-        "capo":  0,
         "techniques":  [
                            "barre-chords"
                        ]
@@ -5517,8 +5517,8 @@
     {
         "id":  "lp-lost-on-you",
         "artist":  "Lp",
-        "title":  "Lost on You -",
-        "filename":  "Lp - Lost on You -.txt",
+        "title":  "LOST ON YOU",
+        "filename":  "Lp - LOST ON YOU.txt",
         "defaultTuning":  "estandar",
         "capo":  1,
         "sections":  [
@@ -5591,23 +5591,6 @@
                      ],
         "techniques":  [
                            "tabs",
-                           "barre-chords"
-                       ]
-    },
-    {
-        "id":  "m-clan",
-        "artist":  "MClan",
-        "title":  "MClan",
-        "filename":  "M - Clan -.txt",
-        "defaultTuning":  "estandar",
-        "sections":  [
-                         "INTRO",
-                         "ESTROFA",
-                         "ESTRIBILLO",
-                         "SOLO",
-                         "PUENTE"
-                     ],
-        "techniques":  [
                            "barre-chords"
                        ]
     },
@@ -5853,10 +5836,10 @@
                      ]
     },
     {
-        "id":  "matchbox-twenty",
-        "artist":  "Desconocido",
-        "title":  "Matchbox Twenty -",
-        "filename":  "Matchbox Twenty -.txt",
+        "id":  "matchbox-twenty-sin-titulo",
+        "artist":  "Matchbox Twenty",
+        "title":  "Sin titulo",
+        "filename":  "Matchbox Twenty - Sin titulo.txt",
         "defaultTuning":  "estandar",
         "bpm":  81,
         "capo":  2,
@@ -5925,6 +5908,23 @@
                          "ESTRIBILLO"
                      ],
         "key":  "—"
+    },
+    {
+        "id":  "mclan-clan",
+        "artist":  "MClan",
+        "title":  "Clan",
+        "filename":  "MClan - Clan.txt",
+        "defaultTuning":  "estandar",
+        "sections":  [
+                         "INTRO",
+                         "ESTROFA",
+                         "ESTRIBILLO",
+                         "SOLO",
+                         "PUENTE"
+                     ],
+        "techniques":  [
+                           "barre-chords"
+                       ]
     },
     {
         "id":  "m-clan-concierto-salvaje",
@@ -7088,8 +7088,8 @@
     {
         "id":  "revolver-el-dorado",
         "artist":  "Revolver",
-        "title":  "El Dorado -",
-        "filename":  "Revolver - El Dorado -.txt",
+        "title":  "EL DORADO",
+        "filename":  "Revolver - EL DORADO.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",
@@ -7182,8 +7182,8 @@
     {
         "id":  "revolver-mi-rendicion",
         "artist":  "Revolver",
-        "title":  "Mi Rendición -",
-        "filename":  "Revolver - Mi Rendición -.txt",
+        "title":  "MI RENDICIÓN",
+        "filename":  "Revolver - MI RENDICIÓN.txt",
         "defaultTuning":  "estandar",
         "sections":  [
                          "INTRO",

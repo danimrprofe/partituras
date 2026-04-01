@@ -6,13 +6,6 @@
                                         "rating":  0,
                                         "tuning":  "estandar"
                                     },
-    "el-canto-del-loco-te-recuerdo59":  {
-                                            "instruments":  [
-
-                                                            ],
-                                            "rating":  0,
-                                            "tuning":  "estandar"
-                                        },
     "incubus-love-hurts":  {
                                "instruments":  [
 
@@ -34,6 +27,13 @@
                         "rating":  0,
                         "tuning":  "estandar"
                     },
+    "leiva-polvora-2":  {
+                            "instruments":  [
+
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
     "joaquin-sabina-cerrado-por-derribo":  {
                                                "instruments":  [
 
@@ -48,13 +48,6 @@
                                              "rating":  0,
                                              "tuning":  "estandar"
                                          },
-    "leiva-como-lo-tienes-tu2":  {
-                                     "instruments":  [
-
-                                                     ],
-                                     "rating":  0,
-                                     "tuning":  "estandar"
-                                 },
     "m-clan-usar-y-tirar":  {
                                 "instruments":  [
 
@@ -90,13 +83,13 @@
                                                             "rating":  0,
                                                             "tuning":  "estandar"
                                                         },
-    "leiva-extasis2":  {
-                           "instruments":  [
+    "leiva-en-el-espacio":  {
+                                "instruments":  [
 
-                                           ],
-                           "rating":  0,
-                           "tuning":  "estandar"
-                       },
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
     "rosana-llegaremos-a-tiempo":  {
                                        "instruments":  [
 
@@ -104,6 +97,13 @@
                                        "rating":  0,
                                        "tuning":  "estandar"
                                    },
+    "el-canto-del-loco-llueve-en-mi":  {
+                                           "instruments":  [
+
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
     "pereza-por-mi-tripa":  {
                                 "instruments":  [
 
@@ -118,6 +118,13 @@
                                                        "rating":  0,
                                                        "tuning":  "estandar"
                                                    },
+    "fito-fitipaldis-a-la-luna-se-le-ve-el-ombligo":  {
+                                                          "instruments":  [
+
+                                                                          ],
+                                                          "rating":  0,
+                                                          "tuning":  "estandar"
+                                                      },
     "el-ultimo-de-la-fila-el-ultimo-de-la-fila":  {
                                                       "instruments":  [
 
@@ -125,13 +132,27 @@
                                                       "rating":  0,
                                                       "tuning":  "estandar"
                                                   },
-    "el-canto-del-loco-tal-como-eres57":  {
-                                              "instruments":  [
+    "el-canto-del-loco-peter-pan-alt":  {
+                                            "instruments":  [
 
-                                                              ],
-                                              "rating":  0,
-                                              "tuning":  "estandar"
-                                          },
+                                                            ],
+                                            "rating":  0,
+                                            "tuning":  "estandar"
+                                        },
+    "shakira-si-te-vas":  {
+                              "instruments":  [
+
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
+    "m-clan-roto-por-dentro":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
     "joaquin-sabina-asi-estoy-yo-sin-ti":  {
                                                "instruments":  [
 
@@ -153,13 +174,20 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
-    "el-canto-del-loco-portales44":  {
-                                         "instruments":  [
+    "pereza-aproximacion":  {
+                                "instruments":  [
 
-                                                         ],
-                                         "rating":  0,
-                                         "tuning":  "estandar"
-                                     },
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "amaral-como-hablar":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
     "shakira-la-pared":  {
                              "instruments":  [
 
@@ -167,27 +195,27 @@
                              "rating":  0,
                              "tuning":  "estandar"
                          },
-    "fito-fitipaldis-trozos-de-cristal":  {
-                                              "instruments":  [
+    "el-canto-del-loco-despiertame":  {
+                                          "instruments":  [
 
-                                                              ],
-                                              "rating":  0,
-                                              "tuning":  "estandar"
-                                          },
-    "coldplay-fix-you2":  {
-                              "instruments":  [
+                                                          ],
+                                          "rating":  0,
+                                          "tuning":  "estandar"
+                                      },
+    "el-canto-del-loco-un-millon-de-cicatrices":  {
+                                                      "instruments":  [
 
-                                              ],
-                              "rating":  0,
-                              "tuning":  "estandar"
-                          },
-    "nacha-pop-lucha-de-gigantes":  {
-                                        "instruments":  [
+                                                                      ],
+                                                      "rating":  0,
+                                                      "tuning":  "estandar"
+                                                  },
+    "el-canto-del-loco-por-ti":  {
+                                     "instruments":  [
 
-                                                        ],
-                                        "rating":  0,
-                                        "tuning":  "estandar"
-                                    },
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
     "revolver-mi-rendicion":  {
                                   "instruments":  [
 
@@ -195,6 +223,13 @@
                                   "rating":  0,
                                   "tuning":  "estandar"
                               },
+    "shakira-ciega-sordomuda":  {
+                                    "instruments":  [
+
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
     "leiva-la-lluvia-en-los-zapatos":  {
                                            "instruments":  [
 
@@ -209,13 +244,13 @@
                                          "rating":  0,
                                          "tuning":  "estandar"
                                      },
-    "shakira-underneath-your-clothes":  {
-                                            "instruments":  [
+    "coldplay-clocks":  {
+                            "instruments":  [
 
-                                                            ],
-                                            "rating":  0,
-                                            "tuning":  "estandar"
-                                        },
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
     "coti-nada-fue-un-error":  {
                                    "instruments":  [
 
@@ -223,13 +258,6 @@
                                    "rating":  0,
                                    "tuning":  "estandar"
                                },
-    "dani-martin-son-suenos2":  {
-                                    "instruments":  [
-
-                                                    ],
-                                    "rating":  0,
-                                    "tuning":  "estandar"
-                                },
     "3-doors-down-here-without-you":  {
                                           "instruments":  [
 
@@ -244,13 +272,20 @@
                                    "rating":  0,
                                    "tuning":  "estandar"
                                },
-    "ed-sheeran-boat":  {
-                            "instruments":  [
+    "dani-martin-emocional":  {
+                                  "instruments":  [
 
-                                            ],
-                            "rating":  0,
-                            "tuning":  "estandar"
-                        },
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "leiva-breaking-bad":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
     "m-clan-la-esperanza":  {
                                 "instruments":  [
 
@@ -272,20 +307,27 @@
                                    "rating":  0,
                                    "tuning":  "estandar"
                                },
-    "shakira-dia-de-enero":  {
-                                 "instruments":  [
+    "m-clan-saltamos-sin-mirar-2":  {
+                                        "instruments":  [
 
-                                                 ],
-                                 "rating":  0,
-                                 "tuning":  "estandar"
-                             },
-    "pereza-como-lo-tienes-tu":  {
-                                     "instruments":  [
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "el-canto-del-loco-corazon-alt":  {
+                                          "instruments":  [
 
-                                                     ],
-                                     "rating":  0,
-                                     "tuning":  "estandar"
-                                 },
+                                                          ],
+                                          "rating":  0,
+                                          "tuning":  "estandar"
+                                      },
+    "fito-fitipaldis-pajaros-disecados":  {
+                                              "instruments":  [
+
+                                                              ],
+                                              "rating":  0,
+                                              "tuning":  "estandar"
+                                          },
     "el-canto-del-loco-traidora-medio-tono-menos-electrica":  {
                                                                   "instruments":  [
 
@@ -300,6 +342,13 @@
                                             "rating":  0,
                                             "tuning":  "estandar"
                                         },
+    "leiva-el-polvo-de-los-dias-raros":  {
+                                             "instruments":  [
+
+                                                             ],
+                                             "rating":  0,
+                                             "tuning":  "estandar"
+                                         },
     "leiva-aunque-sea-un-rato":  {
                                      "instruments":  [
 
@@ -307,13 +356,6 @@
                                      "rating":  0,
                                      "tuning":  "estandar"
                                  },
-    "leiva-todo-lo-que-tu-quieras":  {
-                                         "instruments":  [
-
-                                                         ],
-                                         "rating":  0,
-                                         "tuning":  "estandar"
-                                     },
     "el-canto-del-loco-ekix":  {
                                    "instruments":  [
 
@@ -328,27 +370,13 @@
                                                "rating":  0,
                                                "tuning":  "estandar"
                                            },
-    "el-canto-del-loco-contigo10":  {
-                                        "instruments":  [
+    "leiva-todo-lo-que-tu-quieras-2":  {
+                                           "instruments":  [
 
-                                                        ],
-                                        "rating":  0,
-                                        "tuning":  "estandar"
-                                    },
-    "el-canto-del-loco-siempre-cerca52":  {
-                                              "instruments":  [
-
-                                                              ],
-                                              "rating":  0,
-                                              "tuning":  "estandar"
-                                          },
-    "m-clan-caminos-secundarios":  {
-                                       "instruments":  [
-
-                                                       ],
-                                       "rating":  0,
-                                       "tuning":  "estandar"
-                                   },
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
     "shakira-que-me-quedes-tu":  {
                                      "instruments":  [
 
@@ -356,13 +384,6 @@
                                      "rating":  0,
                                      "tuning":  "estandar"
                                  },
-    "sopa-de-cabra-l-emporda":  {
-                                    "instruments":  [
-
-                                                    ],
-                                    "rating":  0,
-                                    "tuning":  "estandar"
-                                },
     "ed-sheeran-photograph":  {
                                   "instruments":  [
 
@@ -377,6 +398,13 @@
                                 "rating":  0,
                                 "tuning":  "estandar"
                             },
+    "fito-fitipaldis-quiero-ser-una-estrella":  {
+                                                    "instruments":  [
+
+                                                                    ],
+                                                    "rating":  0,
+                                                    "tuning":  "estandar"
+                                                },
     "jarabe-de-palo-eso-que-tu-me-das":  {
                                              "instruments":  [
 
@@ -433,13 +461,20 @@
                                 "rating":  0,
                                 "tuning":  "estandar"
                             },
-    "el-canto-del-loco-puede-ser47":  {
-                                          "instruments":  [
+    "andres-calamaro-andres-calamaro":  {
+                                            "instruments":  [
 
-                                                          ],
-                                          "rating":  0,
-                                          "tuning":  "estandar"
-                                      },
+                                                            ],
+                                            "rating":  0,
+                                            "tuning":  "estandar"
+                                        },
+    "the-script-the-man-who-can-t-be-moved":  {
+                                                  "instruments":  [
+
+                                                                  ],
+                                                  "rating":  0,
+                                                  "tuning":  "estandar"
+                                              },
     "fito-fitipaldis-cerca-de-las-vias":  {
                                               "instruments":  [
 
@@ -475,7 +510,14 @@
                                                 "rating":  0,
                                                 "tuning":  "estandar"
                                             },
-    "leiva-la-estacion-eterna2":  {
+    "el-canto-del-loco-personas":  {
+                                       "instruments":  [
+
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "dani-martin-tal-como-eres":  {
                                       "instruments":  [
 
                                                       ],
@@ -496,20 +538,34 @@
                                         "rating":  0,
                                         "tuning":  "estandar"
                                     },
-    "el-canto-del-loco-llueve-en-mi330":  {
+    "el-canto-del-loco-zapatillas":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "leiva-caida-libre-2":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "m-clan-maggie-despierta":  {
+                                    "instruments":  [
+
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
+    "red-hot-chili-peppers-scar-tissue":  {
                                               "instruments":  [
 
                                                               ],
                                               "rating":  0,
                                               "tuning":  "estandar"
                                           },
-    "dani-martin-no-no-vuelve":  {
-                                     "instruments":  [
-
-                                                     ],
-                                     "rating":  0,
-                                     "tuning":  "estandar"
-                                 },
     "m-clan-souvenir":  {
                             "instruments":  [
 
@@ -524,20 +580,20 @@
                                         "rating":  0,
                                         "tuning":  "estandar"
                                     },
-    "dani-martin-cero2":  {
-                              "instruments":  [
+    "leiva-premio-de-consolacion":  {
+                                        "instruments":  [
 
-                                              ],
-                              "rating":  0,
-                              "tuning":  "estandar"
-                          },
-    "el-canto-del-loco-peter-pan440":  {
-                                           "instruments":  [
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "fito-fitipaldis-rojitas-las-orejas":  {
+                                               "instruments":  [
 
-                                                           ],
-                                           "rating":  0,
-                                           "tuning":  "estandar"
-                                       },
+                                                               ],
+                                               "rating":  0,
+                                               "tuning":  "estandar"
+                                           },
     "adam-levine-go-now":  {
                                "instruments":  [
 
@@ -545,13 +601,20 @@
                                "rating":  0,
                                "tuning":  "estandar"
                            },
-    "la-fuga-baja-por-diversion":  {
-                                       "instruments":  [
+    "shakira-underneath-your-clothes":  {
+                                            "instruments":  [
 
-                                                       ],
-                                       "rating":  0,
-                                       "tuning":  "estandar"
-                                   },
+                                                            ],
+                                            "rating":  0,
+                                            "tuning":  "estandar"
+                                        },
+    "leiva-lady-madrid":  {
+                              "instruments":  [
+
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
     "r-e-m-man-on-the-moon":  {
                                   "instruments":  [
 
@@ -566,27 +629,27 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
-    "leiva-mi-pequeno-chernobyl2":  {
-                                        "instruments":  [
+    "ed-sheeran-im-a-mess":  {
+                                 "instruments":  [
 
-                                                        ],
-                                        "rating":  0,
-                                        "tuning":  "estandar"
-                                    },
-    "fito-fitipaldis-pajaros-disecados":  {
-                                              "instruments":  [
-
-                                                              ],
-                                              "rating":  0,
-                                              "tuning":  "estandar"
-                                          },
-    "leiva-como-si-fueras-a-morir-manana":  {
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
+    "el-canto-del-loco-siempre-cerca-alt":  {
                                                 "instruments":  [
 
                                                                 ],
                                                 "rating":  0,
                                                 "tuning":  "estandar"
                                             },
+    "leiva-dejandose-caer":  {
+                                 "instruments":  [
+
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
     "la-fuga-mundo-raro":  {
                                "instruments":  [
 
@@ -615,6 +678,13 @@
                                   "rating":  0,
                                   "tuning":  "estandar"
                               },
+    "leiva-mi-mejor-version-2":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
     "el-canto-del-loco-y-si-el-miedo-10-y-si-el-miedo":  {
                                                              "instruments":  [
 
@@ -622,13 +692,13 @@
                                                              "rating":  0,
                                                              "tuning":  "estandar"
                                                          },
-    "leiva-animales2":  {
-                            "instruments":  [
+    "leiva-como-si-fueras-a-morir-manana":  {
+                                                "instruments":  [
 
-                                            ],
-                            "rating":  0,
-                            "tuning":  "estandar"
-                        },
+                                                                ],
+                                                "rating":  0,
+                                                "tuning":  "estandar"
+                                            },
     "formato-recomendado":  {
                                 "instruments":  [
 
@@ -636,13 +706,13 @@
                                 "rating":  0,
                                 "tuning":  "estandar"
                             },
-    "leiva-en-el-espacio":  {
-                                "instruments":  [
+    "fito-fitipaldis-fito-fitipaldis":  {
+                                            "instruments":  [
 
-                                                ],
-                                "rating":  0,
-                                "tuning":  "estandar"
-                            },
+                                                            ],
+                                            "rating":  0,
+                                            "tuning":  "estandar"
+                                        },
     "revolver-el-dorado":  {
                                "instruments":  [
 
@@ -657,13 +727,6 @@
                                           "rating":  0,
                                           "tuning":  "estandar"
                                       },
-    "coldplay-clocks2":  {
-                             "instruments":  [
-
-                                             ],
-                             "rating":  0,
-                             "tuning":  "estandar"
-                         },
     "leiva-superpoderes":  {
                                "instruments":  [
 
@@ -671,20 +734,13 @@
                                "rating":  0,
                                "tuning":  "estandar"
                            },
-    "leiva-vertigo2":  {
-                           "instruments":  [
+    "mana-rayando-el-sol":  {
+                                "instruments":  [
 
-                                           ],
-                           "rating":  0,
-                           "tuning":  "estandar"
-                       },
-    "pereza-si-quieres-bailamos":  {
-                                       "instruments":  [
-
-                                                       ],
-                                       "rating":  0,
-                                       "tuning":  "estandar"
-                                   },
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
     "efecto-mariposa-no-me-crees":  {
                                         "instruments":  [
 
@@ -699,13 +755,6 @@
                                 "rating":  0,
                                 "tuning":  "estandar"
                             },
-    "leiva-el-polvo-de-los-dias-raros2":  {
-                                              "instruments":  [
-
-                                                              ],
-                                              "rating":  0,
-                                              "tuning":  "estandar"
-                                          },
     "fito-fitipaldis-despues-del-naufragio":  {
                                                   "instruments":  [
 
@@ -713,27 +762,34 @@
                                                   "rating":  0,
                                                   "tuning":  "estandar"
                                               },
-    "leiva-princesas2":  {
-                             "instruments":  [
+    "leiva-hoy-no-me-encuentro":  {
+                                      "instruments":  [
 
-                                             ],
-                             "rating":  0,
-                             "tuning":  "estandar"
-                         },
-    "the-calling-wherever-you-will-go":  {
-                                             "instruments":  [
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "leiva-estrella-polar":  {
+                                 "instruments":  [
 
-                                                             ],
-                                             "rating":  0,
-                                             "tuning":  "estandar"
-                                         },
-    "mana-rayando-el-sol":  {
-                                "instruments":  [
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
+    "simple-plan-im-just-a-kid":  {
+                                      "instruments":  [
 
-                                                ],
-                                "rating":  0,
-                                "tuning":  "estandar"
-                            },
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "leiva-peligrosamente-dark":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
     "leiva-a-ti-te-ocurre-algo":  {
                                       "instruments":  [
 
@@ -776,27 +832,20 @@
                                    "rating":  0,
                                    "tuning":  "estandar"
                                },
-    "el-canto-del-loco-llueve-en-mi31":  {
-                                             "instruments":  [
+    "leiva-la-estacion-eterna-2":  {
+                                       "instruments":  [
 
-                                                             ],
-                                             "rating":  0,
-                                             "tuning":  "estandar"
-                                         },
-    "el-canto-del-loco-corazon111":  {
-                                         "instruments":  [
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "el-canto-del-loco-preguntas-alt-2":  {
+                                              "instruments":  [
 
-                                                         ],
-                                         "rating":  0,
-                                         "tuning":  "estandar"
-                                     },
-    "el-canto-del-loco-dentro-de-mi":  {
-                                           "instruments":  [
-
-                                                           ],
-                                           "rating":  0,
-                                           "tuning":  "estandar"
-                                       },
+                                                              ],
+                                              "rating":  0,
+                                              "tuning":  "estandar"
+                                          },
     "joaquin-sabina-amor-se-llama-el-juego":  {
                                                   "instruments":  [
 
@@ -804,13 +853,6 @@
                                                   "rating":  0,
                                                   "tuning":  "estandar"
                                               },
-    "m-clan-viaje-al-sur":  {
-                                "instruments":  [
-
-                                                ],
-                                "rating":  0,
-                                "tuning":  "estandar"
-                            },
     "avril-lavigne-sk8ter-boy":  {
                                      "instruments":  [
 
@@ -832,13 +874,13 @@
                                      "rating":  0,
                                      "tuning":  "estandar"
                                  },
-    "coque-malla":  {
-                        "instruments":  [
+    "leiva-violento-amor":  {
+                                "instruments":  [
 
-                                        ],
-                        "rating":  0,
-                        "tuning":  "estandar"
-                    },
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
     "band-of-horses-the-funeral":  {
                                        "instruments":  [
 
@@ -867,13 +909,13 @@
                              "rating":  0,
                              "tuning":  "estandar"
                          },
-    "leiva-si-quieres-bailamos2":  {
-                                       "instruments":  [
+    "taylor-swift-treacherous":  {
+                                     "instruments":  [
 
-                                                       ],
-                                       "rating":  0,
-                                       "tuning":  "estandar"
-                                   },
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
     "el-canto-del-loco-sera":  {
                                    "instruments":  [
 
@@ -881,27 +923,41 @@
                                    "rating":  0,
                                    "tuning":  "estandar"
                                },
-    "coldplay-trouble2":  {
-                              "instruments":  [
+    "el-canto-del-loco-eres-tonto":  {
+                                         "instruments":  [
 
-                                              ],
-                              "rating":  0,
-                              "tuning":  "estandar"
-                          },
-    "leiva-todo-lo-que-tu-quieras2":  {
-                                          "instruments":  [
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "el-canto-del-loco-llueve-en-mi-alt":  {
+                                               "instruments":  [
 
-                                                          ],
-                                          "rating":  0,
-                                          "tuning":  "estandar"
-                                      },
-    "los-piratas":  {
-                        "instruments":  [
+                                                               ],
+                                               "rating":  0,
+                                               "tuning":  "estandar"
+                                           },
+    "fito-fitipaldis-por-la-boca-vive-el-pez":  {
+                                                    "instruments":  [
 
-                                        ],
-                        "rating":  0,
-                        "tuning":  "estandar"
-                    },
+                                                                    ],
+                                                    "rating":  0,
+                                                    "tuning":  "estandar"
+                                                },
+    "el-canto-del-loco-volver-a-disfrutar":  {
+                                                 "instruments":  [
+
+                                                                 ],
+                                                 "rating":  0,
+                                                 "tuning":  "estandar"
+                                             },
+    "leiva-histericos-2":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
     "pereza-violento-amor":  {
                                  "instruments":  [
 
@@ -916,13 +972,13 @@
                                 "rating":  0,
                                 "tuning":  "estandar"
                             },
-    "leiva-breaking-bad":  {
-                               "instruments":  [
+    "ivan-ferreiro-piensa-en-frio":  {
+                                         "instruments":  [
 
-                                               ],
-                               "rating":  0,
-                               "tuning":  "estandar"
-                           },
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
     "joaquin-sabina-nos-sobran-los-motivos":  {
                                                   "instruments":  [
 
@@ -937,13 +993,13 @@
                                         "rating":  0,
                                         "tuning":  "estandar"
                                     },
-    "leiva-blancos-faciles2":  {
-                                   "instruments":  [
+    "la-la-love-you-el-principio-de-algo":  {
+                                                "instruments":  [
 
-                                                   ],
-                                   "rating":  0,
-                                   "tuning":  "estandar"
-                               },
+                                                                ],
+                                                "rating":  0,
+                                                "tuning":  "estandar"
+                                            },
     "john-mayer-love-on-the-weekend":  {
                                            "instruments":  [
 
@@ -972,13 +1028,6 @@
                                        "rating":  0,
                                        "tuning":  "estandar"
                                    },
-    "el-canto-del-loco-un-millon-de-cicatrices62":  {
-                                                        "instruments":  [
-
-                                                                        ],
-                                                        "rating":  0,
-                                                        "tuning":  "estandar"
-                                                    },
     "fito-fitipaldis-la-casa-por-el-tejado":  {
                                                   "instruments":  [
 
@@ -1021,13 +1070,20 @@
                                "rating":  0,
                                "tuning":  "estandar"
                            },
-    "dani-martin-portales2":  {
-                                  "instruments":  [
+    "dani-martin-que-bonita-la-vida":  {
+                                           "instruments":  [
 
-                                                  ],
-                                  "rating":  0,
-                                  "tuning":  "estandar"
-                              },
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
+    "el-canto-del-loco-la-suerte-de-mi-vida":  {
+                                                   "instruments":  [
+
+                                                                   ],
+                                                   "rating":  0,
+                                                   "tuning":  "estandar"
+                                               },
     "foo-fighters-learn-to-fly":  {
                                       "instruments":  [
 
@@ -1035,34 +1091,20 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
-    "leiva-bajo-presion":  {
-                               "instruments":  [
+    "leiva-amelie":  {
+                         "instruments":  [
 
-                                               ],
-                               "rating":  0,
-                               "tuning":  "estandar"
-                           },
-    "el-canto-del-loco-usanos":  {
-                                     "instruments":  [
+                                         ],
+                         "rating":  0,
+                         "tuning":  "estandar"
+                     },
+    "leiva-todo-lo-que-tu-quieras":  {
+                                         "instruments":  [
 
-                                                     ],
-                                     "rating":  0,
-                                     "tuning":  "estandar"
-                                 },
-    "leiva-todo2":  {
-                        "instruments":  [
-
-                                        ],
-                        "rating":  0,
-                        "tuning":  "estandar"
-                    },
-    "dani-martin-puede-ser2":  {
-                                   "instruments":  [
-
-                                                   ],
-                                   "rating":  0,
-                                   "tuning":  "estandar"
-                               },
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
     "el-canto-del-loco-vamonos-dm-am":  {
                                             "instruments":  [
 
@@ -1070,20 +1112,27 @@
                                             "rating":  0,
                                             "tuning":  "estandar"
                                         },
-    "leiva-stranger-things-sin-capo2":  {
-                                            "instruments":  [
+    "leiva-sin-titulo":  {
+                             "instruments":  [
 
-                                                            ],
-                                            "rating":  0,
-                                            "tuning":  "estandar"
-                                        },
-    "taylor-swift-treacherous":  {
-                                     "instruments":  [
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
+    "coldplay-trouble":  {
+                             "instruments":  [
 
-                                                     ],
-                                     "rating":  0,
-                                     "tuning":  "estandar"
-                                 },
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
+    "el-canto-del-loco-para-siempre":  {
+                                           "instruments":  [
+
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
     "los-secretos-los-secretos":  {
                                       "instruments":  [
 
@@ -1091,13 +1140,13 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
-    "leiva-nunca-nadie":  {
-                              "instruments":  [
+    "the-who-behind-blue-eyes":  {
+                                     "instruments":  [
 
-                                              ],
-                              "rating":  0,
-                              "tuning":  "estandar"
-                          },
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
     "el-canto-del-loco-te-recuerdo":  {
                                           "instruments":  [
 
@@ -1119,20 +1168,20 @@
                                     "rating":  0,
                                     "tuning":  "estandar"
                                 },
-    "justin-timberlake-justin-timberlake":  {
-                                                "instruments":  [
+    "countin-crows-a-long-december":  {
+                                          "instruments":  [
 
-                                                                ],
-                                                "rating":  0,
-                                                "tuning":  "estandar"
-                                            },
-    "pereza-amelie":  {
-                          "instruments":  [
+                                                          ],
+                                          "rating":  0,
+                                          "tuning":  "estandar"
+                                      },
+    "joaquin-sabina-aves-de-paso":  {
+                                        "instruments":  [
 
-                                          ],
-                          "rating":  0,
-                          "tuning":  "estandar"
-                      },
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
     "shakira-estoy-aqui":  {
                                "instruments":  [
 
@@ -1154,34 +1203,62 @@
                                 "rating":  0,
                                 "tuning":  "estandar"
                             },
-    "leiva-peligrosamente-dark2":  {
-                                       "instruments":  [
+    "el-canto-del-loco-corazon":  {
+                                      "instruments":  [
 
-                                                       ],
-                                       "rating":  0,
-                                       "tuning":  "estandar"
-                                   },
-    "el-canto-del-loco-pasion37":  {
-                                       "instruments":  [
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "extremoduro-sucede":  {
+                               "instruments":  [
 
-                                                       ],
-                                       "rating":  0,
-                                       "tuning":  "estandar"
-                                   },
-    "shakira-si-te-vas":  {
-                              "instruments":  [
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "desconocido-con-las-ganas":  {
+                                      "instruments":  [
 
-                                              ],
-                              "rating":  0,
-                              "tuning":  "estandar"
-                          },
-    "el-canto-del-loco-vuelve69":  {
-                                       "instruments":  [
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "leiva-blancos-faciles":  {
+                                  "instruments":  [
 
-                                                       ],
-                                       "rating":  0,
-                                       "tuning":  "estandar"
-                                   },
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "leiva-medicina":  {
+                           "instruments":  [
+
+                                           ],
+                           "rating":  0,
+                           "tuning":  "estandar"
+                       },
+    "dani-martin-son-suenos":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "snow-patrol-you-could-be-happy":  {
+                                           "instruments":  [
+
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
+    "fito-fitipaldis-cada-vez-cadaver":  {
+                                             "instruments":  [
+
+                                                             ],
+                                             "rating":  0,
+                                             "tuning":  "estandar"
+                                         },
     "extremoduro-la-realidad":  {
                                     "instruments":  [
 
@@ -1217,20 +1294,34 @@
                                        "rating":  0,
                                        "tuning":  "estandar"
                                    },
-    "el-canto-del-loco-eres-tonto22":  {
-                                           "instruments":  [
+    "el-canto-del-loco-eh-tu-la-vida-05":  {
+                                               "instruments":  [
 
-                                                           ],
-                                           "rating":  0,
-                                           "tuning":  "estandar"
-                                       },
-    "leiva-diazepam2":  {
-                            "instruments":  [
+                                                               ],
+                                               "rating":  0,
+                                               "tuning":  "estandar"
+                                           },
+    "dani-martin-quecaroeseltiempo":  {
+                                          "instruments":  [
 
-                                            ],
-                            "rating":  0,
-                            "tuning":  "estandar"
-                        },
+                                                          ],
+                                          "rating":  0,
+                                          "tuning":  "estandar"
+                                      },
+    "joaquin-sabina-contra-todo-pronostico":  {
+                                                  "instruments":  [
+
+                                                                  ],
+                                                  "rating":  0,
+                                                  "tuning":  "estandar"
+                                              },
+    "el-canto-del-loco-la-suerte-de-mi-vida-alt":  {
+                                                       "instruments":  [
+
+                                                                       ],
+                                                       "rating":  0,
+                                                       "tuning":  "estandar"
+                                                   },
     "los-piratas-te-echare-de-menos":  {
                                            "instruments":  [
 
@@ -1238,14 +1329,14 @@
                                            "rating":  0,
                                            "tuning":  "estandar"
                                        },
-    "el-canto-del-loco-la-suerte-de-mi-vida227":  {
-                                                      "instruments":  [
+    "el-canto-del-loco-pasion":  {
+                                     "instruments":  [
 
-                                                                      ],
-                                                      "rating":  0,
-                                                      "tuning":  "estandar"
-                                                  },
-    "leiva-mi-mejor-version":  {
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "coque-malla-sin-titulo":  {
                                    "instruments":  [
 
                                                    ],
@@ -1266,6 +1357,13 @@
                                     "rating":  0,
                                     "tuning":  "estandar"
                                 },
+    "dani-martin-contigo":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
     "jarabe-de-palo-dos-dias-en-la-vida":  {
                                                "instruments":  [
 
@@ -1273,13 +1371,13 @@
                                                "rating":  0,
                                                "tuning":  "estandar"
                                            },
-    "el-canto-del-loco-eh-tu-la-vida-05":  {
-                                               "instruments":  [
+    "dani-martin-puede-ser":  {
+                                  "instruments":  [
 
-                                                               ],
-                                               "rating":  0,
-                                               "tuning":  "estandar"
-                                           },
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
     "fito-fitipaldis-vidas-son-dos-gatos":  {
                                                 "instruments":  [
 
@@ -1287,13 +1385,6 @@
                                                 "rating":  0,
                                                 "tuning":  "estandar"
                                             },
-    "el-canto-del-loco-acabado-en-a2":  {
-                                            "instruments":  [
-
-                                                            ],
-                                            "rating":  0,
-                                            "tuning":  "estandar"
-                                        },
     "joaquin-sabina-quien-me-ha-robado-el-mes-de-abril":  {
                                                               "instruments":  [
 
@@ -1308,13 +1399,13 @@
                                             "rating":  0,
                                             "tuning":  "estandar"
                                         },
-    "snow-patrol-you-could-be-happy":  {
-                                           "instruments":  [
+    "leiva-extasis":  {
+                          "instruments":  [
 
-                                                           ],
-                                           "rating":  0,
-                                           "tuning":  "estandar"
-                                       },
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
     "ben-kweller-ben-kweller":  {
                                     "instruments":  [
 
@@ -1322,13 +1413,13 @@
                                     "rating":  0,
                                     "tuning":  "estandar"
                                 },
-    "leiva-hoy-tus-ojos2":  {
-                                "instruments":  [
+    "goo-goo-dolls-slide-by-the-goo-goo-dolls":  {
+                                                     "instruments":  [
 
-                                                ],
-                                "rating":  0,
-                                "tuning":  "estandar"
-                            },
+                                                                     ],
+                                                     "rating":  0,
+                                                     "tuning":  "estandar"
+                                                 },
     "revolver-dos-por-dos":  {
                                  "instruments":  [
 
@@ -1336,13 +1427,13 @@
                                  "rating":  0,
                                  "tuning":  "estandar"
                              },
-    "el-canto-del-loco-peter-pan41":  {
-                                          "instruments":  [
+    "el-canto-del-loco-el-pescao":  {
+                                        "instruments":  [
 
-                                                          ],
-                                          "rating":  0,
-                                          "tuning":  "estandar"
-                                      },
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
     "carlos-sadness-sone-contigo":  {
                                         "instruments":  [
 
@@ -1350,6 +1441,13 @@
                                         "rating":  0,
                                         "tuning":  "estandar"
                                     },
+    "el-canto-del-loco-ekix-alt":  {
+                                       "instruments":  [
+
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
     "el-canto-del-loco-canalla-e-am":  {
                                            "instruments":  [
 
@@ -1371,13 +1469,13 @@
                                      "rating":  0,
                                      "tuning":  "estandar"
                                  },
-    "the-who-behind-blue-eyes":  {
-                                     "instruments":  [
+    "leiva-diazepam":  {
+                           "instruments":  [
 
-                                                     ],
-                                     "rating":  0,
-                                     "tuning":  "estandar"
-                                 },
+                                           ],
+                           "rating":  0,
+                           "tuning":  "estandar"
+                       },
     "tequila-mucho-mejor":  {
                                 "instruments":  [
 
@@ -1462,13 +1560,13 @@
                                     "rating":  0,
                                     "tuning":  "estandar"
                                 },
-    "los-secretos":  {
-                         "instruments":  [
+    "ed-sheeran-boat":  {
+                            "instruments":  [
 
-                                         ],
-                         "rating":  0,
-                         "tuning":  "estandar"
-                     },
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
     "justin-timberlake-true-colors":  {
                                           "instruments":  [
 
@@ -1476,27 +1574,13 @@
                                           "rating":  0,
                                           "tuning":  "estandar"
                                       },
-    "leiva-medicina2":  {
-                            "instruments":  [
+    "leiva-penaltis":  {
+                           "instruments":  [
 
-                                            ],
-                            "rating":  0,
-                            "tuning":  "estandar"
-                        },
-    "leiva-index2":  {
-                         "instruments":  [
-
-                                         ],
-                         "rating":  0,
-                         "tuning":  "estandar"
-                     },
-    "el-canto-del-loco-desaparece15":  {
-                                           "instruments":  [
-
-                                                           ],
-                                           "rating":  0,
-                                           "tuning":  "estandar"
-                                       },
+                                           ],
+                           "rating":  0,
+                           "tuning":  "estandar"
+                       },
     "train-hey-soul-sister":  {
                                   "instruments":  [
 
@@ -1532,13 +1616,13 @@
                                   "rating":  0,
                                   "tuning":  "estandar"
                               },
-    "leiva-la-llamada":  {
-                             "instruments":  [
+    "la-fuga-baja-por-diversion":  {
+                                       "instruments":  [
 
-                                             ],
-                             "rating":  0,
-                             "tuning":  "estandar"
-                         },
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
     "elefantes-que-yo-no-lo-sabia":  {
                                          "instruments":  [
 
@@ -1553,13 +1637,13 @@
                                                                 "rating":  0,
                                                                 "tuning":  "estandar"
                                                             },
-    "fito-fitipaldis-por-la-boca-vive-el-pez":  {
-                                                    "instruments":  [
+    "leiva-aproximacion":  {
+                               "instruments":  [
 
-                                                                    ],
-                                                    "rating":  0,
-                                                    "tuning":  "estandar"
-                                                },
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
     "extremoduro-la-vereda-de-la-puerta-de-atras":  {
                                                         "instruments":  [
 
@@ -1574,34 +1658,27 @@
                            "rating":  0,
                            "tuning":  "estandar"
                        },
-    "extremoduro-sucede":  {
+    "fito-fitipaldis-trozos-de-cristal":  {
+                                              "instruments":  [
+
+                                                              ],
+                                              "rating":  0,
+                                              "tuning":  "estandar"
+                                          },
+    "leiva-electricidad":  {
                                "instruments":  [
 
                                                ],
                                "rating":  0,
                                "tuning":  "estandar"
                            },
-    "joaquin-sabina-aves-de-paso":  {
-                                        "instruments":  [
+    "michelle-branch-it-s-you":  {
+                                     "instruments":  [
 
-                                                        ],
-                                        "rating":  0,
-                                        "tuning":  "estandar"
-                                    },
-    "grupo-01-cancion-02":  {
-                                "instruments":  [
-
-                                                ],
-                                "rating":  0,
-                                "tuning":  "estandar"
-                            },
-    "pereza-estrella-polar":  {
-                                  "instruments":  [
-
-                                                  ],
-                                  "rating":  0,
-                                  "tuning":  "estandar"
-                              },
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
     "pereza-la-noria":  {
                             "instruments":  [
 
@@ -1609,13 +1686,6 @@
                             "rating":  0,
                             "tuning":  "estandar"
                         },
-    "leiva-las-cuentas2":  {
-                               "instruments":  [
-
-                                               ],
-                               "rating":  0,
-                               "tuning":  "estandar"
-                           },
     "el-canto-del-loco-canciones":  {
                                         "instruments":  [
 
@@ -1623,13 +1693,6 @@
                                         "rating":  0,
                                         "tuning":  "estandar"
                                     },
-    "leiva-leiva2":  {
-                         "instruments":  [
-
-                                         ],
-                         "rating":  0,
-                         "tuning":  "estandar"
-                     },
     "leiva-histericos":  {
                              "instruments":  [
 
@@ -1637,14 +1700,7 @@
                              "rating":  0,
                              "tuning":  "estandar"
                          },
-    "el-canto-del-loco-despiertame":  {
-                                          "instruments":  [
-
-                                                          ],
-                                          "rating":  0,
-                                          "tuning":  "estandar"
-                                      },
-    "leiva-ciencia-ficcion2":  {
+    "dani-martin-no-vuelven":  {
                                    "instruments":  [
 
                                                    ],
@@ -1658,13 +1714,20 @@
                                                 "rating":  0,
                                                 "tuning":  "estandar"
                                             },
-    "el-canto-del-loco-el-pescao":  {
-                                        "instruments":  [
+    "leiva-la-llamada":  {
+                             "instruments":  [
 
-                                                        ],
-                                        "rating":  0,
-                                        "tuning":  "estandar"
-                                    },
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
+    "leiva-no-te-preocupes-por-mi":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
     "fito-fitipaldis-si-me-ves-asi":  {
                                           "instruments":  [
 
@@ -1686,13 +1749,13 @@
                                                       "rating":  0,
                                                       "tuning":  "estandar"
                                                   },
-    "fito-fitipaldis-quiero-ser-una-estrella":  {
-                                                    "instruments":  [
+    "el-canto-del-loco-que-caro-es-el-tiempo-alt":  {
+                                                        "instruments":  [
 
-                                                                    ],
-                                                    "rating":  0,
-                                                    "tuning":  "estandar"
-                                                },
+                                                                        ],
+                                                        "rating":  0,
+                                                        "tuning":  "estandar"
+                                                    },
     "siloe-que-merezca-la-pena":  {
                                       "instruments":  [
 
@@ -1728,13 +1791,6 @@
                                   "rating":  0,
                                   "tuning":  "estandar"
                               },
-    "leiva-estrella-polar2":  {
-                                  "instruments":  [
-
-                                                  ],
-                                  "rating":  0,
-                                  "tuning":  "estandar"
-                              },
     "el-canto-del-loco-como-un-perro-ladrando":  {
                                                      "instruments":  [
 
@@ -1763,13 +1819,6 @@
                         "rating":  0,
                         "tuning":  "estandar"
                     },
-    "dani-martin-la-suerte-de-mi-vida2":  {
-                                              "instruments":  [
-
-                                                              ],
-                                              "rating":  0,
-                                              "tuning":  "estandar"
-                                          },
     "vetusta-morla-finisterre":  {
                                      "instruments":  [
 
@@ -1784,34 +1833,20 @@
                          "rating":  0,
                          "tuning":  "estandar"
                      },
-    "leiva-histericos2":  {
-                              "instruments":  [
+    "leiva-princesas":  {
+                            "instruments":  [
 
-                                              ],
-                              "rating":  0,
-                              "tuning":  "estandar"
-                          },
-    "vetusta-morla-maldita-dulzura":  {
-                                          "instruments":  [
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "lenny-kravitz-sin-titulo":  {
+                                     "instruments":  [
 
-                                                          ],
-                                          "rating":  0,
-                                          "tuning":  "estandar"
-                                      },
-    "el-canto-del-loco-el-ultimo-dia-de-nuestras-vidas21":  {
-                                                                "instruments":  [
-
-                                                                                ],
-                                                                "rating":  0,
-                                                                "tuning":  "estandar"
-                                                            },
-    "el-canto-del-loco-no-voy-a-parar":  {
-                                             "instruments":  [
-
-                                                             ],
-                                             "rating":  0,
-                                             "tuning":  "estandar"
-                                         },
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
     "fito-fitipaldis-viene-y-va":  {
                                        "instruments":  [
 
@@ -1819,13 +1854,6 @@
                                        "rating":  0,
                                        "tuning":  "estandar"
                                    },
-    "dani-martin-no-vuelven2":  {
-                                    "instruments":  [
-
-                                                    ],
-                                    "rating":  0,
-                                    "tuning":  "estandar"
-                                },
     "el-canto-del-loco-tremendo-f-e":  {
                                            "instruments":  [
 
@@ -1833,13 +1861,13 @@
                                            "rating":  0,
                                            "tuning":  "estandar"
                                        },
-    "coldplay-scientist2":  {
-                                "instruments":  [
+    "fito-fitipaldis-el-vencido":  {
+                                       "instruments":  [
 
-                                                ],
-                                "rating":  0,
-                                "tuning":  "estandar"
-                            },
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
     "leiva-eme":  {
                       "instruments":  [
 
@@ -1882,13 +1910,20 @@
                                     "rating":  0,
                                     "tuning":  "estandar"
                                 },
-    "ivan-ferreiro-piensa-en-frio":  {
-                                         "instruments":  [
+    "leiva-dejandose-caer-2":  {
+                                   "instruments":  [
 
-                                                         ],
-                                         "rating":  0,
-                                         "tuning":  "estandar"
-                                     },
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "pereza-amelie":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
     "el-canto-del-loco-una-foto-en-blanco-y-negro":  {
                                                          "instruments":  [
 
@@ -1896,6 +1931,13 @@
                                                          "rating":  0,
                                                          "tuning":  "estandar"
                                                      },
+    "el-canto-del-loco-sin-titulo":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
     "el-ultimo-de-la-fila-uva-de-la-vieja-parra":  {
                                                        "instruments":  [
 
@@ -1903,6 +1945,13 @@
                                                        "rating":  0,
                                                        "tuning":  "estandar"
                                                    },
+    "vetusta-morla-maldita-dulzura":  {
+                                          "instruments":  [
+
+                                                          ],
+                                          "rating":  0,
+                                          "tuning":  "estandar"
+                                      },
     "joaquin-sabina-calle-melancolia":  {
                                             "instruments":  [
 
@@ -1917,20 +1966,13 @@
                                                   "rating":  0,
                                                   "tuning":  "estandar"
                                               },
-    "fito-fitipaldis-a-la-luna-se-le-ve-el-ombligo":  {
-                                                          "instruments":  [
+    "jarabe-de-palo-sin-titulo":  {
+                                      "instruments":  [
 
-                                                                          ],
-                                                          "rating":  0,
-                                                          "tuning":  "estandar"
-                                                      },
-    "countin-crows-accidentally-in-love":  {
-                                               "instruments":  [
-
-                                                               ],
-                                               "rating":  0,
-                                               "tuning":  "estandar"
-                                           },
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
     "izal-que-bien":  {
                           "instruments":  [
 
@@ -1938,27 +1980,27 @@
                           "rating":  0,
                           "tuning":  "estandar"
                       },
-    "fito-fitipaldis-al-cantar":  {
-                                      "instruments":  [
+    "los-secretos-sin-titulo":  {
+                                    "instruments":  [
 
-                                                      ],
-                                      "rating":  0,
-                                      "tuning":  "estandar"
-                                  },
-    "shakira-pies-descalzos-suenos-blancos":  {
-                                                  "instruments":  [
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
+    "el-canto-del-loco-tal-como-eres":  {
+                                            "instruments":  [
 
-                                                                  ],
-                                                  "rating":  0,
-                                                  "tuning":  "estandar"
-                                              },
-    "morgan-volver":  {
-                          "instruments":  [
+                                                            ],
+                                            "rating":  0,
+                                            "tuning":  "estandar"
+                                        },
+    "sopa-de-cabra-l-emporda":  {
+                                    "instruments":  [
 
-                                          ],
-                          "rating":  0,
-                          "tuning":  "estandar"
-                      },
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
     "extremoduro-si-te-vas":  {
                                   "instruments":  [
 
@@ -1987,34 +2029,34 @@
                                  "rating":  0,
                                  "tuning":  "estandar"
                              },
-    "matchbox-twenty":  {
-                            "instruments":  [
+    "leiva-index":  {
+                        "instruments":  [
 
-                                            ],
-                            "rating":  0,
-                            "tuning":  "estandar"
-                        },
-    "fito-fitipaldis-sobra-la-luz":  {
-                                         "instruments":  [
+                                        ],
+                        "rating":  0,
+                        "tuning":  "estandar"
+                    },
+    "el-canto-del-loco-volvera":  {
+                                      "instruments":  [
 
-                                                         ],
-                                         "rating":  0,
-                                         "tuning":  "estandar"
-                                     },
-    "leiva-violento-amor2":  {
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "el-canto-del-loco-vuelve":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "shakira-dia-de-enero":  {
                                  "instruments":  [
 
                                                  ],
                                  "rating":  0,
                                  "tuning":  "estandar"
                              },
-    "fito-fitipaldis-antes-de-que-cuente-diez":  {
-                                                     "instruments":  [
-
-                                                                     ],
-                                                     "rating":  0,
-                                                     "tuning":  "estandar"
-                                                 },
     "joaquin-sabina-pongamos-que-hablo-de-madrid":  {
                                                         "instruments":  [
 
@@ -2022,20 +2064,20 @@
                                                         "rating":  0,
                                                         "tuning":  "estandar"
                                                     },
-    "el-canto-del-loco-pequenita38":  {
-                                          "instruments":  [
+    "shakira-donde-estas-corazon":  {
+                                        "instruments":  [
 
-                                                          ],
-                                          "rating":  0,
-                                          "tuning":  "estandar"
-                                      },
-    "fito-fitipaldis-un-buen-castigo":  {
-                                            "instruments":  [
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "coldplay-viva-la-vida":  {
+                                  "instruments":  [
 
-                                                            ],
-                                            "rating":  0,
-                                            "tuning":  "estandar"
-                                        },
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
     "morgan-sargento-de-hierro":  {
                                       "instruments":  [
 
@@ -2043,13 +2085,13 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
-    "el-canto-del-loco-volver-a-disfrutar67":  {
-                                                   "instruments":  [
+    "el-canto-del-loco-no-voy-a-parar":  {
+                                             "instruments":  [
 
-                                                                   ],
-                                                   "rating":  0,
-                                                   "tuning":  "estandar"
-                                               },
+                                                             ],
+                                             "rating":  0,
+                                             "tuning":  "estandar"
+                                         },
     "m-clan-grupos-americanos":  {
                                      "instruments":  [
 
@@ -2057,28 +2099,14 @@
                                      "rating":  0,
                                      "tuning":  "estandar"
                                  },
-    "leiva-premio-de-consolacion2":  {
-                                         "instruments":  [
+    "leiva-ciencia-ficcion-2":  {
+                                    "instruments":  [
 
-                                                         ],
-                                         "rating":  0,
-                                         "tuning":  "estandar"
-                                     },
-    "red-hot-chili-peppers-scar-tissue":  {
-                                              "instruments":  [
-
-                                                              ],
-                                              "rating":  0,
-                                              "tuning":  "estandar"
-                                          },
-    "el-canto-del-loco-zapatillas73":  {
-                                           "instruments":  [
-
-                                                           ],
-                                           "rating":  0,
-                                           "tuning":  "estandar"
-                                       },
-    "dani-martin-tal-como-eres2":  {
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
+    "el-canto-del-loco-portales":  {
                                        "instruments":  [
 
                                                        ],
@@ -2092,6 +2120,13 @@
                                                  "rating":  0,
                                                  "tuning":  "estandar"
                                              },
+    "leiva-mi-mejor-version":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
     "revolver-es-mejor-caminar":  {
                                       "instruments":  [
 
@@ -2099,6 +2134,13 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
+    "leiva-todo":  {
+                       "instruments":  [
+
+                                       ],
+                       "rating":  0,
+                       "tuning":  "estandar"
+                   },
     "ronan-keating-when-you-say-nothing-at-all":  {
                                                       "instruments":  [
 
@@ -2106,6 +2148,13 @@
                                                       "rating":  0,
                                                       "tuning":  "estandar"
                                                   },
+    "m-clan-inmigrante":  {
+                              "instruments":  [
+
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
     "melon-diesel-quiero-un-camino":  {
                                           "instruments":  [
 
@@ -2141,14 +2190,14 @@
                                   "rating":  0,
                                   "tuning":  "estandar"
                               },
-    "m-clan-roto-por-dentro":  {
-                                   "instruments":  [
+    "leiva-stranger-things-sin-capo":  {
+                                           "instruments":  [
 
-                                                   ],
-                                   "rating":  0,
-                                   "tuning":  "estandar"
-                               },
-    "el-canto-del-loco-personas39":  {
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
+    "leiva-el-gigante-de-big-fish":  {
                                          "instruments":  [
 
                                                          ],
@@ -2169,13 +2218,13 @@
                                               "rating":  0,
                                               "tuning":  "estandar"
                                           },
-    "joaquin-sabina-barbi-superestar":  {
-                                            "instruments":  [
+    "grupo-01-cancion":  {
+                             "instruments":  [
 
-                                                            ],
-                                            "rating":  0,
-                                            "tuning":  "estandar"
-                                        },
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
     "leiva-stranger-things":  {
                                   "instruments":  [
 
@@ -2190,7 +2239,7 @@
                                                   "rating":  0,
                                                   "tuning":  "estandar"
                                               },
-    "jarabe-de-palo":  {
+    "leiva-expertos":  {
                            "instruments":  [
 
                                            ],
@@ -2204,13 +2253,13 @@
                                           "rating":  0,
                                           "tuning":  "estandar"
                                       },
-    "shakira-ciega-sordomuda":  {
-                                    "instruments":  [
+    "fito-fitipaldis-un-buen-castigo":  {
+                                            "instruments":  [
 
-                                                    ],
-                                    "rating":  0,
-                                    "tuning":  "estandar"
-                                },
+                                                            ],
+                                            "rating":  0,
+                                            "tuning":  "estandar"
+                                        },
     "dani-fernandez-solo-tienes-que-avisar":  {
                                                   "instruments":  [
 
@@ -2225,13 +2274,6 @@
                                         "rating":  0,
                                         "tuning":  "estandar"
                                     },
-    "dani-martin":  {
-                        "instruments":  [
-
-                                        ],
-                        "rating":  0,
-                        "tuning":  "estandar"
-                    },
     "dani-martin-novedades-viernes":  {
                                           "instruments":  [
 
@@ -2246,13 +2288,6 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
-    "lifehouse-you-and-me":  {
-                                 "instruments":  [
-
-                                                 ],
-                                 "rating":  0,
-                                 "tuning":  "estandar"
-                             },
     "bon-iver-skinny-love":  {
                                  "instruments":  [
 
@@ -2267,13 +2302,13 @@
                                             "rating":  0,
                                             "tuning":  "estandar"
                                         },
-    "leiva-dejandose-caer":  {
-                                 "instruments":  [
+    "m-clan-caminos-secundarios":  {
+                                       "instruments":  [
 
-                                                 ],
-                                 "rating":  0,
-                                 "tuning":  "estandar"
-                             },
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
     "el-canto-del-loco-por-ti-por-ti":  {
                                             "instruments":  [
 
@@ -2316,6 +2351,13 @@
                                                "rating":  0,
                                                "tuning":  "estandar"
                                            },
+    "leiva-si-quieres-bailamos":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
     "damien-rice-damien-rice":  {
                                     "instruments":  [
 
@@ -2323,7 +2365,28 @@
                                     "rating":  0,
                                     "tuning":  "estandar"
                                 },
+    "leiva-las-cuentas":  {
+                              "instruments":  [
+
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
+    "leiva-leiva":  {
+                        "instruments":  [
+
+                                        ],
+                        "rating":  0,
+                        "tuning":  "estandar"
+                    },
     "pereza-pienso-en-aquella-tarde":  {
+                                           "instruments":  [
+
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
+    "el-canto-del-loco-acabado-en-a":  {
                                            "instruments":  [
 
                                                            ],
@@ -2358,27 +2421,27 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
-    "fito-fitipaldis-cada-vez-cadaver":  {
+    "dani-martin-sin-titulo":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "dani-martin-la-suerte-de-mi-vida":  {
                                              "instruments":  [
 
                                                              ],
                                              "rating":  0,
                                              "tuning":  "estandar"
                                          },
-    "la-la-love-you-el-principio-de-algo":  {
-                                                "instruments":  [
+    "leiva-mi-pequeno-chernobyl":  {
+                                       "instruments":  [
 
-                                                                ],
-                                                "rating":  0,
-                                                "tuning":  "estandar"
-                                            },
-    "el-canto-del-loco-corazon12":  {
-                                        "instruments":  [
-
-                                                        ],
-                                        "rating":  0,
-                                        "tuning":  "estandar"
-                                    },
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
     "m-clan-corazon-en-transito":  {
                                        "instruments":  [
 
@@ -2393,13 +2456,13 @@
                              "rating":  0,
                              "tuning":  "estandar"
                          },
-    "r-e-m-losing-my-religion":  {
-                                     "instruments":  [
+    "the-fray-how-to-save-a-life":  {
+                                        "instruments":  [
 
-                                                     ],
-                                     "rating":  0,
-                                     "tuning":  "estandar"
-                                 },
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
     "el-nino-de-la-hipoteca-romeo-y-julieta":  {
                                                    "instruments":  [
 
@@ -2407,41 +2470,20 @@
                                                    "rating":  0,
                                                    "tuning":  "estandar"
                                                },
-    "leiva-aproximacion2":  {
-                                "instruments":  [
+    "r-e-m-losing-my-religion":  {
+                                     "instruments":  [
 
-                                                ],
-                                "rating":  0,
-                                "tuning":  "estandar"
-                            },
-    "leiva-expertos":  {
-                           "instruments":  [
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "dani-martin-cero":  {
+                             "instruments":  [
 
-                                           ],
-                           "rating":  0,
-                           "tuning":  "estandar"
-                       },
-    "manolo-garcia-pajaros-de-barro":  {
-                                           "instruments":  [
-
-                                                           ],
-                                           "rating":  0,
-                                           "tuning":  "estandar"
-                                       },
-    "leiva-el-ultimo-incendio2":  {
-                                      "instruments":  [
-
-                                                      ],
-                                      "rating":  0,
-                                      "tuning":  "estandar"
-                                  },
-    "el-canto-del-loco-la-suerte-de-mi-vida28":  {
-                                                     "instruments":  [
-
-                                                                     ],
-                                                     "rating":  0,
-                                                     "tuning":  "estandar"
-                                                 },
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
     "arctic-monkeys-mardy-bum":  {
                                      "instruments":  [
 
@@ -2519,13 +2561,13 @@
                                      "rating":  0,
                                      "tuning":  "estandar"
                                  },
-    "shakira-donde-estas-corazon":  {
-                                        "instruments":  [
+    "coldplay-dont-panic":  {
+                                "instruments":  [
 
-                                                        ],
-                                        "rating":  0,
-                                        "tuning":  "estandar"
-                                    },
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
     "fito-fitipaldis-siempre-estoy-sonando":  {
                                                   "instruments":  [
 
@@ -2533,20 +2575,20 @@
                                                   "rating":  0,
                                                   "tuning":  "estandar"
                                               },
-    "leiva-hoy-no-me-encuentro2":  {
-                                       "instruments":  [
+    "the-calling-wherever-you-will-go":  {
+                                             "instruments":  [
 
-                                                       ],
-                                       "rating":  0,
-                                       "tuning":  "estandar"
-                                   },
-    "m-clan":  {
-                   "instruments":  [
+                                                             ],
+                                             "rating":  0,
+                                             "tuning":  "estandar"
+                                         },
+    "nacha-pop-lucha-de-gigantes":  {
+                                        "instruments":  [
 
-                                   ],
-                   "rating":  0,
-                   "tuning":  "estandar"
-               },
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
     "ron-pope-a-drop-in-the-ocean":  {
                                          "instruments":  [
 
@@ -2554,27 +2596,27 @@
                                          "rating":  0,
                                          "tuning":  "estandar"
                                      },
-    "el-canto-del-loco-que-caro-es-el-tiempo548":  {
-                                                       "instruments":  [
+    "fito-fitipaldis-al-cantar":  {
+                                      "instruments":  [
 
-                                                                       ],
-                                                       "rating":  0,
-                                                       "tuning":  "estandar"
-                                                   },
-    "leiva-caida-libre2":  {
-                               "instruments":  [
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "leiva-vertigo-2":  {
+                            "instruments":  [
 
-                                               ],
-                               "rating":  0,
-                               "tuning":  "estandar"
-                           },
-    "m-clan-maggie-despierta":  {
-                                    "instruments":  [
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "fito-fitipaldis-antes-de-que-cuente-diez":  {
+                                                     "instruments":  [
 
-                                                    ],
-                                    "rating":  0,
-                                    "tuning":  "estandar"
-                                },
+                                                                     ],
+                                                     "rating":  0,
+                                                     "tuning":  "estandar"
+                                                 },
     "el-canto-del-loco-otra-vez":  {
                                        "instruments":  [
 
@@ -2603,21 +2645,21 @@
                                              "rating":  0,
                                              "tuning":  "estandar"
                                          },
-    "leiva-penaltis2":  {
-                            "instruments":  [
+    "dani-martin-no-no-vuelve":  {
+                                     "instruments":  [
 
-                                            ],
-                            "rating":  0,
-                            "tuning":  "estandar"
-                        },
-    "fito-fitipaldis-rojitas-las-orejas":  {
-                                               "instruments":  [
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "el-canto-del-loco-te-recuerdo-alt":  {
+                                              "instruments":  [
 
-                                                               ],
-                                               "rating":  0,
-                                               "tuning":  "estandar"
-                                           },
-    "leiva-pienso-en-aquella-tarde2":  {
+                                                              ],
+                                              "rating":  0,
+                                              "tuning":  "estandar"
+                                          },
+    "manolo-garcia-pajaros-de-barro":  {
                                            "instruments":  [
 
                                                            ],
@@ -2631,13 +2673,13 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
-    "the-script-the-man-who-can-t-be-moved":  {
-                                                  "instruments":  [
+    "el-canto-del-loco-puede-ser":  {
+                                        "instruments":  [
 
-                                                                  ],
-                                                  "rating":  0,
-                                                  "tuning":  "estandar"
-                                              },
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
     "calum-scott-dancing-on-my-own":  {
                                           "instruments":  [
 
@@ -2652,13 +2694,6 @@
                                   "rating":  0,
                                   "tuning":  "estandar"
                               },
-    "simple-plan-im-just-a-kid":  {
-                                      "instruments":  [
-
-                                                      ],
-                                      "rating":  0,
-                                      "tuning":  "estandar"
-                                  },
     "snow-patrol-the-finish-line":  {
                                         "instruments":  [
 
@@ -2673,13 +2708,6 @@
                             "rating":  0,
                             "tuning":  "estandar"
                         },
-    "el-canto-del-loco-para-siempre35":  {
-                                             "instruments":  [
-
-                                                             ],
-                                             "rating":  0,
-                                             "tuning":  "estandar"
-                                         },
     "shakira-te-dejo-madrid":  {
                                    "instruments":  [
 
@@ -2715,27 +2743,27 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
-    "el-canto-del-loco-volvera68":  {
+    "leiva-monstruos":  {
+                            "instruments":  [
+
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "leiva-animales":  {
+                           "instruments":  [
+
+                                           ],
+                           "rating":  0,
+                           "tuning":  "estandar"
+                       },
+    "el-canto-del-loco-pequenita":  {
                                         "instruments":  [
 
                                                         ],
                                         "rating":  0,
                                         "tuning":  "estandar"
                                     },
-    "m-clan-saltamos-sin-mirar-2":  {
-                                        "instruments":  [
-
-                                                        ],
-                                        "rating":  0,
-                                        "tuning":  "estandar"
-                                    },
-    "leiva-922":  {
-                      "instruments":  [
-
-                                      ],
-                      "rating":  0,
-                      "tuning":  "estandar"
-                  },
     "leiva-caida-libre":  {
                               "instruments":  [
 
@@ -2757,13 +2785,6 @@
                                      "rating":  0,
                                      "tuning":  "estandar"
                                  },
-    "el-canto-del-loco-por-ti43":  {
-                                       "instruments":  [
-
-                                                       ],
-                                       "rating":  0,
-                                       "tuning":  "estandar"
-                                   },
     "red-hot-chili-peppers-otherside":  {
                                             "instruments":  [
 
@@ -2771,13 +2792,6 @@
                                             "rating":  0,
                                             "tuning":  "estandar"
                                         },
-    "lenny-kravitz":  {
-                          "instruments":  [
-
-                                          ],
-                          "rating":  0,
-                          "tuning":  "estandar"
-                      },
     "rise-against-hero-of-war":  {
                                      "instruments":  [
 
@@ -2785,20 +2799,13 @@
                                      "rating":  0,
                                      "tuning":  "estandar"
                                  },
-    "con-las-ganas":  {
-                          "instruments":  [
+    "revolver-san-pedro":  {
+                               "instruments":  [
 
-                                          ],
-                          "rating":  0,
-                          "tuning":  "estandar"
-                      },
-    "mana-clavado-en-un-bar":  {
-                                   "instruments":  [
-
-                                                   ],
-                                   "rating":  0,
-                                   "tuning":  "estandar"
-                               },
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
     "m-clan-caroilna":  {
                             "instruments":  [
 
@@ -2820,13 +2827,13 @@
                                   "rating":  0,
                                   "tuning":  "estandar"
                               },
-    "pereza-aproximacion":  {
-                                "instruments":  [
+    "el-canto-del-loco-dentro-de-mi":  {
+                                           "instruments":  [
 
-                                                ],
-                                "rating":  0,
-                                "tuning":  "estandar"
-                            },
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
     "el-canto-del-loco-la-madre-de-jose":  {
                                                "instruments":  [
 
@@ -2834,13 +2841,20 @@
                                                "rating":  0,
                                                "tuning":  "estandar"
                                            },
-    "m-clan-inmigrante":  {
-                              "instruments":  [
+    "johnny-cash-sin-titulo":  {
+                                   "instruments":  [
 
-                                              ],
-                              "rating":  0,
-                              "tuning":  "estandar"
-                          },
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "coldplay-fix-you":  {
+                             "instruments":  [
+
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
     "leiva-palomas":  {
                           "instruments":  [
 
@@ -2848,27 +2862,20 @@
                           "rating":  0,
                           "tuning":  "estandar"
                       },
-    "andres-calamaro-andres-calamaro":  {
-                                            "instruments":  [
+    "el-canto-del-loco-el-ultimo-dia-de-nuestras-vidas":  {
+                                                              "instruments":  [
 
-                                                            ],
-                                            "rating":  0,
-                                            "tuning":  "estandar"
-                                        },
-    "dani-martin-contigo2":  {
-                                 "instruments":  [
+                                                                              ],
+                                                              "rating":  0,
+                                                              "tuning":  "estandar"
+                                                          },
+    "los-piratas-sin-titulo":  {
+                                   "instruments":  [
 
-                                                 ],
-                                 "rating":  0,
-                                 "tuning":  "estandar"
-                             },
-    "el-canto-del-loco-que-caro-es-el-tiempo49":  {
-                                                      "instruments":  [
-
-                                                                      ],
-                                                      "rating":  0,
-                                                      "tuning":  "estandar"
-                                                  },
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
     "m-clan-chilaba-y-cachimba":  {
                                       "instruments":  [
 
@@ -2876,13 +2883,6 @@
                                       "rating":  0,
                                       "tuning":  "estandar"
                                   },
-    "joaquin-sabina-contra-todo-pronostico":  {
-                                                  "instruments":  [
-
-                                                                  ],
-                                                  "rating":  0,
-                                                  "tuning":  "estandar"
-                                              },
     "el-canto-del-loco-pasion-tu-mirada-de-inocencia-me-da-esa-fuerza-fuera-de-control":  {
                                                                                               "instruments":  [
 
@@ -2890,13 +2890,13 @@
                                                                                               "rating":  0,
                                                                                               "tuning":  "estandar"
                                                                                           },
-    "coldplay-viva-la-vida2":  {
-                                   "instruments":  [
+    "pereza-si-quieres-bailamos":  {
+                                       "instruments":  [
 
-                                                   ],
-                                   "rating":  0,
-                                   "tuning":  "estandar"
-                               },
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
     "morgan-radio":  {
                          "instruments":  [
 
@@ -2918,13 +2918,13 @@
                                        "rating":  0,
                                        "tuning":  "estandar"
                                    },
-    "fito-fitipaldis-fito-fitipaldis":  {
-                                            "instruments":  [
+    "countin-crows-accidentally-in-love":  {
+                                               "instruments":  [
 
-                                                            ],
-                                            "rating":  0,
-                                            "tuning":  "estandar"
-                                        },
+                                                               ],
+                                               "rating":  0,
+                                               "tuning":  "estandar"
+                                           },
     "red-hot-chili-peppers-dani-california":  {
                                                   "instruments":  [
 
@@ -2946,6 +2946,13 @@
                         "rating":  0,
                         "tuning":  "estandar"
                     },
+    "pereza-estrella-polar":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
     "leiva-del-hueso-una-flor":  {
                                      "instruments":  [
 
@@ -2960,13 +2967,13 @@
                                            "rating":  0,
                                            "tuning":  "estandar"
                                        },
-    "dani-martin-quecaroeseltiempo2":  {
-                                           "instruments":  [
+    "leiva-bajo-presion":  {
+                               "instruments":  [
 
-                                                           ],
-                                           "rating":  0,
-                                           "tuning":  "estandar"
-                                       },
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
     "fito-fitipaldis-a-quemarropa":  {
                                          "instruments":  [
 
@@ -2974,20 +2981,13 @@
                                          "rating":  0,
                                          "tuning":  "estandar"
                                      },
-    "revolver-san-pedro":  {
+    "coldplay-scientist":  {
                                "instruments":  [
 
                                                ],
                                "rating":  0,
                                "tuning":  "estandar"
                            },
-    "goo-goo-dolls-slide-by-the-goo-goo-dolls":  {
-                                                     "instruments":  [
-
-                                                                     ],
-                                                     "rating":  0,
-                                                     "tuning":  "estandar"
-                                                 },
     "3-doors-down-be-like-that":  {
                                       "instruments":  [
 
@@ -3002,13 +3002,6 @@
                                             "rating":  0,
                                             "tuning":  "estandar"
                                         },
-    "coldplay-lost2":  {
-                           "instruments":  [
-
-                                           ],
-                           "rating":  0,
-                           "tuning":  "estandar"
-                       },
     "of-monsters-and-men-love-love-love":  {
                                                "instruments":  [
 
@@ -3023,13 +3016,6 @@
                                   "rating":  0,
                                   "tuning":  "estandar"
                               },
-    "the-fray-how-to-save-a-life":  {
-                                        "instruments":  [
-
-                                                        ],
-                                        "rating":  0,
-                                        "tuning":  "estandar"
-                                    },
     "leiva-la-francesita":  {
                                 "instruments":  [
 
@@ -3044,6 +3030,13 @@
                                                                "rating":  0,
                                                                "tuning":  "estandar"
                                                            },
+    "fito-fitipaldis-sobra-la-luz":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
     "fito-fitipaldis-corazon-oxidado":  {
                                             "instruments":  [
 
@@ -3051,13 +3044,6 @@
                                             "rating":  0,
                                             "tuning":  "estandar"
                                         },
-    "el-canto-del-loco-son-suenos55":  {
-                                           "instruments":  [
-
-                                                           ],
-                                           "rating":  0,
-                                           "tuning":  "estandar"
-                                       },
     "a-great-big-world-say-something":  {
                                             "instruments":  [
 
@@ -3079,13 +3065,13 @@
                                                "rating":  0,
                                                "tuning":  "estandar"
                                            },
-    "leiva-el-gigante-de-big-fish":  {
-                                         "instruments":  [
+    "joaquin-sabina-barbi-superestar":  {
+                                            "instruments":  [
 
-                                                         ],
-                                         "rating":  0,
-                                         "tuning":  "estandar"
-                                     },
+                                                            ],
+                                            "rating":  0,
+                                            "tuning":  "estandar"
+                                        },
     "leiva-nuclear":  {
                           "instruments":  [
 
@@ -3093,20 +3079,20 @@
                           "rating":  0,
                           "tuning":  "estandar"
                       },
-    "leiva-no-te-preocupes-por-mi":  {
-                                         "instruments":  [
+    "m-clan-concierto-salvaje":  {
+                                     "instruments":  [
 
-                                                         ],
-                                         "rating":  0,
-                                         "tuning":  "estandar"
-                                     },
-    "dani-martin-que-bonita-la-vida":  {
-                                           "instruments":  [
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "leiva-hoy-tus-ojos":  {
+                               "instruments":  [
 
-                                                           ],
-                                           "rating":  0,
-                                           "tuning":  "estandar"
-                                       },
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
     "leiva-iceberg":  {
                           "instruments":  [
 
@@ -3114,20 +3100,27 @@
                           "rating":  0,
                           "tuning":  "estandar"
                       },
-    "ed-sheeran-im-a-mess":  {
+    "el-canto-del-loco-peter-pan":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "dani-martin-portales":  {
                                  "instruments":  [
 
                                                  ],
                                  "rating":  0,
                                  "tuning":  "estandar"
                              },
-    "leiva-dejandose-caer2":  {
-                                  "instruments":  [
+    "morgan-volver":  {
+                          "instruments":  [
 
-                                                  ],
-                                  "rating":  0,
-                                  "tuning":  "estandar"
-                              },
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
     "seal-kiss-from-a-rose":  {
                                   "instruments":  [
 
@@ -3150,6 +3143,13 @@
                                                                      "tuning":  "estandar"
                                                                  },
     "sin-bandera-entra-en-mi-vida":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "el-canto-del-loco-son-suenos":  {
                                          "instruments":  [
 
                                                          ],
@@ -3198,20 +3198,13 @@
                                        "rating":  0,
                                        "tuning":  "estandar"
                                    },
-    "dani-martin-emocional2":  {
-                                   "instruments":  [
+    "leiva-pienso-en-aquella-tarde":  {
+                                          "instruments":  [
 
-                                                   ],
-                                   "rating":  0,
-                                   "tuning":  "estandar"
-                               },
-    "michelle-branch-it-s-you":  {
-                                     "instruments":  [
-
-                                                     ],
-                                     "rating":  0,
-                                     "tuning":  "estandar"
-                                 },
+                                                          ],
+                                          "rating":  0,
+                                          "tuning":  "estandar"
+                                      },
     "el-canto-del-loco-super-heroe-eres-tonto":  {
                                                      "instruments":  [
 
@@ -3226,13 +3219,20 @@
                                 "rating":  0,
                                 "tuning":  "estandar"
                             },
-    "fito-fitipaldis-el-vencido":  {
-                                       "instruments":  [
+    "pereza-como-lo-tienes-tu":  {
+                                     "instruments":  [
 
-                                                       ],
-                                       "rating":  0,
-                                       "tuning":  "estandar"
-                                   },
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "leiva-el-ultimo-incendio":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
     "estopa-a-ninguna-parte":  {
                                    "instruments":  [
 
@@ -3240,13 +3240,6 @@
                                    "rating":  0,
                                    "tuning":  "estandar"
                                },
-    "leiva-monstruos2":  {
-                             "instruments":  [
-
-                                             ],
-                             "rating":  0,
-                             "tuning":  "estandar"
-                         },
     "revolver-si-es-tan-solo-amor":  {
                                          "instruments":  [
 
@@ -3254,13 +3247,20 @@
                                          "rating":  0,
                                          "tuning":  "estandar"
                                      },
-    "leiva-mi-mejor-version2":  {
-                                    "instruments":  [
+    "m-clan-viaje-al-sur":  {
+                                "instruments":  [
 
-                                                    ],
-                                    "rating":  0,
-                                    "tuning":  "estandar"
-                                },
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "el-canto-del-loco-contigo":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
     "sin-bandera-mientes-tan-bien":  {
                                          "instruments":  [
 
@@ -3296,13 +3296,13 @@
                                     "rating":  0,
                                     "tuning":  "estandar"
                                 },
-    "leiva-electricidad2":  {
-                                "instruments":  [
+    "lifehouse-you-and-me":  {
+                                 "instruments":  [
 
-                                                ],
-                                "rating":  0,
-                                "tuning":  "estandar"
-                            },
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
     "fito-fitipaldis-abrazado-a-la-tristeza":  {
                                                    "instruments":  [
 
@@ -3324,13 +3324,6 @@
                                            "rating":  0,
                                            "tuning":  "estandar"
                                        },
-    "el-canto-del-loco":  {
-                              "instruments":  [
-
-                                              ],
-                              "rating":  0,
-                              "tuning":  "estandar"
-                          },
     "astola-cojo-el-saco-y-me-retiro":  {
                                             "instruments":  [
 
@@ -3339,6 +3332,20 @@
                                             "tuning":  "estandar"
                                         },
     "revolver-odio":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "shakira-pies-descalzos-suenos-blancos":  {
+                                                  "instruments":  [
+
+                                                                  ],
+                                                  "rating":  0,
+                                                  "tuning":  "estandar"
+                                              },
+    "coldplay-lost":  {
                           "instruments":  [
 
                                           ],
@@ -3359,13 +3366,6 @@
                                             "rating":  0,
                                             "tuning":  "estandar"
                                         },
-    "amaral-como-hablar":  {
-                               "instruments":  [
-
-                                               ],
-                               "rating":  0,
-                               "tuning":  "estandar"
-                           },
     "amaral-te-necesito":  {
                                "instruments":  [
 
@@ -3415,6 +3415,13 @@
                                      "rating":  0,
                                      "tuning":  "estandar"
                                  },
+    "leiva-como-lo-tienes-tu":  {
+                                    "instruments":  [
+
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
     "the-beatles-now-and-then":  {
                                      "instruments":  [
 
@@ -3422,13 +3429,13 @@
                                      "rating":  0,
                                      "tuning":  "estandar"
                                  },
-    "m-clan-concierto-salvaje":  {
-                                     "instruments":  [
+    "el-canto-del-loco-que-caro-es-el-tiempo":  {
+                                                    "instruments":  [
 
-                                                     ],
-                                     "rating":  0,
-                                     "tuning":  "estandar"
-                                 },
+                                                                    ],
+                                                    "rating":  0,
+                                                    "tuning":  "estandar"
+                                                },
     "quique-gonzalez-de-haberlo-sabido":  {
                                               "instruments":  [
 
@@ -3450,13 +3457,6 @@
                                  "rating":  0,
                                  "tuning":  "estandar"
                              },
-    "leiva-lady-madrid2":  {
-                               "instruments":  [
-
-                                               ],
-                               "rating":  0,
-                               "tuning":  "estandar"
-                           },
     "fito-fitipaldis-entre-la-espada-y-la-pared":  {
                                                        "instruments":  [
 
@@ -3485,13 +3485,13 @@
                                                 "rating":  0,
                                                 "tuning":  "estandar"
                                             },
-    "el-canto-del-loco-ekix19":  {
-                                     "instruments":  [
+    "mclan-clan":  {
+                       "instruments":  [
 
-                                                     ],
-                                     "rating":  0,
-                                     "tuning":  "estandar"
-                                 },
+                                       ],
+                       "rating":  0,
+                       "tuning":  "estandar"
+                   },
     "leiva-sincericidio":  {
                                "instruments":  [
 
@@ -3499,34 +3499,41 @@
                                "rating":  0,
                                "tuning":  "estandar"
                            },
-    "johnny-cash":  {
-                        "instruments":  [
+    "matchbox-twenty-sin-titulo":  {
+                                       "instruments":  [
 
-                                        ],
-                        "rating":  0,
-                        "tuning":  "estandar"
-                    },
-    "countin-crows-a-long-december":  {
-                                          "instruments":  [
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "leiva-nunca-nadie":  {
+                              "instruments":  [
 
-                                                          ],
-                                          "rating":  0,
-                                          "tuning":  "estandar"
-                                      },
-    "coldplay-dont-panic2":  {
-                                 "instruments":  [
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
+    "el-canto-del-loco-usanos":  {
+                                     "instruments":  [
 
-                                                 ],
-                                 "rating":  0,
-                                 "tuning":  "estandar"
-                             },
-    "leiva-polvora2":  {
-                           "instruments":  [
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "mana-clavado-en-un-bar":  {
+                                   "instruments":  [
 
-                                           ],
-                           "rating":  0,
-                           "tuning":  "estandar"
-                       },
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "justin-timberlake-justin-timberlake":  {
+                                                "instruments":  [
+
+                                                                ],
+                                                "rating":  0,
+                                                "tuning":  "estandar"
+                                            },
     "joaquin-sabina-peces-de-ciudad":  {
                                            "instruments":  [
 
@@ -3555,18 +3562,11 @@
                                                     "rating":  0,
                                                     "tuning":  "estandar"
                                                 },
-    "leiva-amelie2":  {
-                          "instruments":  [
+    "el-canto-del-loco-desaparece":  {
+                                         "instruments":  [
 
-                                          ],
-                          "rating":  0,
-                          "tuning":  "estandar"
-                      },
-    "el-canto-del-loco-preguntas46":  {
-                                          "instruments":  [
-
-                                                          ],
-                                          "rating":  0,
-                                          "tuning":  "estandar"
-                                      }
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     }
 }
