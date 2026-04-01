@@ -1,8 +1,13 @@
-# Arenas movedizas
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Arenas movedizas
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
-Artista: M-Clan
-
-```
 [Verse 1]
 Dm
 Arenas movedizas cuchillos del revés
@@ -75,4 +80,3 @@ olvidar la vida que soñé   eeee eeee eee eeee
 
 Gm     Am    Bb  C
 Soñé   eeee eeee eee
-```

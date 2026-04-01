@@ -40,6 +40,57 @@ body.app-body {
     border-color: var(--accent);
 }
 
+.search-shell {
+    position: relative;
+}
+
+.search-suggestions {
+    position: absolute;
+    inset: calc(100% + 0.45rem) 0 auto;
+    z-index: 20;
+    border: 1px solid var(--line);
+    border-radius: 0.9rem;
+    background: rgba(255, 253, 248, 0.98);
+    box-shadow: 0 18px 32px rgba(52, 39, 27, 0.12);
+    overflow: hidden;
+    backdrop-filter: blur(8px);
+}
+
+.search-suggestion {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid var(--line);
+    background: transparent;
+    color: var(--ink);
+    text-align: left;
+    padding: 0.8rem 0.95rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+}
+
+.search-suggestion:last-child {
+    border-bottom: 0;
+}
+
+.search-suggestion:hover,
+.search-suggestion:focus-visible,
+.search-suggestion.is-active {
+    background: #fff1e5;
+    outline: 0;
+}
+
+.search-suggestion-label {
+    font-weight: 700;
+}
+
+.search-suggestion-meta {
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: rgba(31, 42, 46, 0.68);
+}
+
 .song-list {
     max-height: 58vh;
     overflow: auto;

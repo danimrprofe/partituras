@@ -1,12 +1,17 @@
-# Carolina
-
-Artista: M-Clan
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Carolina
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
 | Tonalidad | Afinación | Compás | Capo |
 | --------- | --------- | ------ | ---- |
 | Sol Mayor | Estándar  | 4/4    | 4    |
 
-```
 **Intro**
 Em C
 Em C
@@ -128,4 +133,3 @@ Em C G D
 Bb F G
 Bb F G
 Bb F G
-```

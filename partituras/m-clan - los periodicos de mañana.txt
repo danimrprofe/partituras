@@ -1,6 +1,13 @@
-# Los periódicos de mañana
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Los periódicos de mañana
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
-```
 Disco: Sin enchufe
 Versión de acústico en directo
 
@@ -116,4 +123,3 @@ La mentira está escrita en los periódicos de
 D
 mañana
 
-```

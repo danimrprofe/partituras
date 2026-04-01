@@ -1,8 +1,15 @@
-# Viaje al sur
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Viaje al sur
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
 Mi mayor
 
-```
 **Intro**
 E D A
 E D A
@@ -64,4 +71,3 @@ Sera nuestra película, recuerdos de un viaje hacia el sur
 
 E D A
 E D A
-```

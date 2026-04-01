@@ -1,8 +1,12 @@
-# La esperanza
-
-Artista: M-Clan
-
-```
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: La esperanza
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
 **Intro**
 C D C D
@@ -73,4 +77,3 @@ Y la esperanza, me empuja a seguir Oohh...
 
          G           D           C   G
 Y la esperanza, me empuja a seguir
-```

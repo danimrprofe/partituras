@@ -1,10 +1,17 @@
-# Corazón en tránsito
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Corazón en tránsito
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
 | Tonalidad | Afinación | Compás | Capo |
 | --------- | --------- | ------ | ---- |
 |           | Estándar  | 4/4    | 4    |
 
-```
 **Intro**
 D D D G C D
 
@@ -87,4 +94,3 @@ D
 Corazón en transito a punto de embarcar
 D                           C      G      D   C G D
 No hay calor humano en el desierto donde vas
-```

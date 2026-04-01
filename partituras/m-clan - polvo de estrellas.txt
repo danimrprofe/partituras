@@ -1,6 +1,13 @@
-# Polvo de estrellas
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Polvo de estrellas
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
-```
 **Estrofa**
 E             Am      E   G           D         E
 Ven al bosque coge mi mano no tengas miedo al amor
@@ -57,4 +64,3 @@ A B                 A    B                G#m              C#m B
     Todo esta en su sitio todo esta en su sitio todo esta aquí
 
 E
-```

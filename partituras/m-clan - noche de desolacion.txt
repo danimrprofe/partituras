@@ -1,8 +1,15 @@
-# Noches de desolación
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Noches de desolación
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
 capo 2
 
-```
 **Intro**
 A
 
@@ -60,4 +67,3 @@ Esta noche de desolación,
 Esta noche de desolación...
  E                  Bm  D A
 Esta noche de desolacióoooooon...
-```

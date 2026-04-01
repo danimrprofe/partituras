@@ -1,6 +1,13 @@
-# El tren que nunca cogimos
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: El tren que nunca cogimos
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
-```
 **Intro**
 Am B Em Em
 Am B C C
@@ -75,4 +82,3 @@ Ahora quién lo dio por perdido aquel sonido.
 El humo nos cegó ooh el hunmo nos cegó
              Am   C                  G
 El humo nos cegó ooh el hunmo nos cegó
-```

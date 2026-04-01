@@ -1,8 +1,15 @@
-# Todo lo joven muere hoy
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Todo lo joven muere hoy
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
 Capo 3
 
-```
 **Intro**
 D A Bm A G A# D
 
@@ -52,4 +59,3 @@ D A Bm A G A# D
 
 [Final]
 D A D A
-```

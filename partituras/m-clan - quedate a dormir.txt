@@ -1,6 +1,13 @@
-# Quédate a dormir
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Quédate a dormir
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
-```
 **Intro**
 
 C F   C G
@@ -146,4 +153,4 @@ Dm7      Em     Dm7     Em
 uh   uh,uh  uh,uh  uh,uh
 Dm7      Em     Dm7     Em
 uh   uh,uh  uh,uh  uh,uh
-```
+

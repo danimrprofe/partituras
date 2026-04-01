@@ -1,6 +1,13 @@
-# Inmigrante
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Inmigrante
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
-```
 G D/F# Em D chord sequence at end of chorus parts can also be played
 as single notes, G F# E D
 
@@ -87,4 +94,3 @@ un inmigrante de - el  desaliento - o.
 | G    | D    | F#   | Bm
                 rit.
 X
-```

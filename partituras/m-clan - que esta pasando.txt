@@ -1,10 +1,17 @@
-# Que está pasando
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Que está pasando
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
 Versión de directo, disco sin enchufe
 
 Capo en traste 2
 
-```
 **Intro**
 G Cadd9 G Cadd9 G Cadd9 G Cadd9
 
@@ -135,4 +142,4 @@ Cadd9      G      Cadd9
 Huhuhuuuu
 Cadd9       G      Cadd9
 huhuhuuuu
-```
+

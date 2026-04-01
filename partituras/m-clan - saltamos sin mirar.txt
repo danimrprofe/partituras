@@ -1,6 +1,13 @@
-# Saltamos sin mirar
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Saltamos sin mirar
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
-```
 **Intro**
 D G  x3
 D
@@ -75,4 +82,3 @@ Y saltamos sin mirar
 Con el ímpetu del vino
            C        Em          D
 Fue tan fácil como quedarse dormido
-```

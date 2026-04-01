@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     const searchInput = document.getElementById("searchInput");
+    const searchSuggestions = document.getElementById("searchSuggestions");
     const songList = document.getElementById("songList");
     const songCount = document.getElementById("songCount");
     const songView = document.getElementById("songView");
@@ -36,6 +37,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const instrumentFilter = document.getElementById("instrumentFilter");
     const ratingFilter = document.getElementById("ratingFilter");
     const tuningFilter = document.getElementById("tuningFilter");
+    const capoFilter = document.getElementById("capoFilter");
+    const techniqueFilter = document.getElementById("techniqueFilter");
+    const keyFilter = document.getElementById("keyFilter");
+    const timeSignatureFilter = document.getElementById("timeSignatureFilter");
     const songTuning = document.getElementById("songTuning");
     const favoritesBadge = document.getElementById("favoritesBadge");
     const profileBadge = document.getElementById("profileBadge");
@@ -48,6 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (
         !songList ||
         !searchInput ||
+        !searchSuggestions ||
         !songCount ||
         !songBody ||
         !songTitle ||
@@ -79,6 +85,10 @@ document.addEventListener("DOMContentLoaded", () => {
         !instrumentFilter ||
         !ratingFilter ||
         !tuningFilter ||
+        !capoFilter ||
+        !techniqueFilter ||
+        !keyFilter ||
+        !timeSignatureFilter ||
         !songTuning ||
         !favoritesBadge ||
         !profileBadge ||
@@ -97,6 +107,10 @@ document.addEventListener("DOMContentLoaded", () => {
         instrumentFilter: "partituras:instrument-filter",
         ratingFilter: "partituras:rating-filter",
         tuningFilter: "partituras:tuning-filter",
+        capoFilter: "partituras:capo-filter",
+        techniqueFilter: "partituras:technique-filter",
+        keyFilter: "partituras:key-filter",
+        timeSignatureFilter: "partituras:time-signature-filter",
         songProfiles: "partituras:song-profiles"
     };
 
@@ -173,6 +187,8 @@ document.addEventListener("DOMContentLoaded", () => {
     let autoscrollTimer = null;
     let fontSizeRem = 0.92;
     let seedSongProfiles = {};
+    let searchSuggestionItems = [];
+    let activeSuggestionIndex = -1;
 
     const favoriteIds = new Set(loadFavoriteIds());
     const songProfiles = loadSongProfiles();
@@ -180,6 +196,10 @@ document.addEventListener("DOMContentLoaded", () => {
     let instrumentFilterValue = loadInstrumentFilter();
     let ratingFilterValue = loadRatingFilter();
     let tuningFilterValue = loadTuningFilter();
+    let capoFilterValue = loadCapoFilter();
+    let techniqueFilterValue = loadTechniqueFilter();
+    let keyFilterValue = loadKeyFilter();
+    let timeSignatureFilterValue = loadTimeSignatureFilter();
 
     const normalize = (value) =>
         value
@@ -193,33 +213,63 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         const lines = rawText.split("\n");
-        let capoLine = "";
-        let capoLineIndex = -1;
         const cleanLines = [];
+        const capoCandidates = [];
+        const capoOrdinals = {
+            primer: "1",
+            primero: "1",
+            segundo: "2",
+            tercer: "3",
+            tercero: "3",
+            cuarto: "4",
+            quinto: "5",
+            sexto: "6",
+            septimo: "7",
+            octavo: "8",
+            noveno: "9",
+            decimo: "10",
+            undecimo: "11",
+            duodecimo: "12"
+        };
 
         lines.forEach((line, index) => {
-            const trimmed = line.trim().toUpperCase();
-            const hasCapoPrefix = trimmed.startsWith("CEJILLA/CAPO:") ||
-                                  trimmed.startsWith("CEJILLA:") ||
-                                  trimmed.startsWith("CAPO:");
-            const hasCapoKeyword = /\bcapo\s+[0-9]/i.test(line);
+            const trimmed = line.trim();
+            const normalizedTrimmed = normalize(trimmed);
+            const upperTrimmed = trimmed.toUpperCase();
+            const hasCapoPrefix = upperTrimmed.startsWith("CEJILLA/CAPO:") ||
+                                  upperTrimmed.startsWith("CEJILLA:") ||
+                                  upperTrimmed.startsWith("CAPO:");
+            const hasCapoKeyword = /\bcapo\s+[0-9]/i.test(trimmed);
+            const hasCapoOrdinal = /\b(?:con\s+)?(?:cejilla|capo)\s+en\s+el\s+(primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|septimo|octavo|noveno|decimo|undecimo|duodecimo)\s+traste\b/i.test(normalizedTrimmed);
 
-            if ((hasCapoPrefix || hasCapoKeyword) && capoLineIndex === -1) {
-                capoLine = line.trim();
-                capoLineIndex = index;
-            } else if (index !== capoLineIndex) {
+            if (hasCapoPrefix || hasCapoKeyword || hasCapoOrdinal) {
+                let candidate = "";
+
+                const match = trimmed.match(/(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(.+)/i) ||
+                              trimmed.match(/\bcapo\s+(.+?)(?:\s*$|\.|\||para)/i);
+                if (match) {
+                    candidate = match[1].trim();
+                } else {
+                    const ordinalMatch = normalizedTrimmed.match(/\b(?:con\s+)?(?:cejilla|capo)\s+en\s+el\s+(primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|septimo|octavo|noveno|decimo|undecimo|duodecimo)\s+traste\b/i);
+                    if (ordinalMatch) {
+                        candidate = capoOrdinals[ordinalMatch[1].toLowerCase()] || "";
+                    }
+                }
+
+                if (candidate) {
+                    capoCandidates.push(candidate);
+                }
+            } else {
                 cleanLines.push(line);
             }
         });
 
-        let capoText = "";
-        if (capoLine) {
-            const match = capoLine.match(/(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(.+)/i) ||
-                          capoLine.match(/\bcapo\s+(.+?)(?:\s*$|\.|\||para)/i);
-            if (match) {
-                capoText = match[1].trim();
-            }
-        }
+        const positiveCapo = capoCandidates.find((candidate) => {
+            const parsed = parseCapoValue(candidate);
+            return parsed !== null && parsed > 0;
+        });
+        const fallbackCapo = capoCandidates.find((candidate) => parseCapoValue(candidate) !== null) || "";
+        const capoText = positiveCapo || fallbackCapo;
 
         return {
             capo: capoText,
@@ -244,7 +294,14 @@ document.addEventListener("DOMContentLoaded", () => {
         }).join("\n");
     }
 
-    const fileUrl = (filename) => `partituras/${encodeURIComponent(filename)}`;
+    const CACHE_BUSTER = `v=${Date.now()}`;
+
+    const withCacheBuster = (path) => {
+        const separator = path.includes("?") ? "&" : "?";
+        return `${path}${separator}${CACHE_BUSTER}`;
+    };
+
+    const fileUrl = (filename) => withCacheBuster(`partituras/${encodeURIComponent(filename)}`);
 
     function loadFavoriteIds() {
         try {
@@ -351,6 +408,119 @@ document.addEventListener("DOMContentLoaded", () => {
         localStorage.setItem(STORAGE_KEYS.tuningFilter, tuningFilterValue);
     }
 
+    function loadCapoFilter() {
+        const raw = localStorage.getItem(STORAGE_KEYS.capoFilter);
+        const valid = ["all", "sin-cejilla", "1-2", "3-plus", "sin-definir"];
+        return valid.includes(raw) ? raw : "all";
+    }
+
+    function saveCapoFilter() {
+        localStorage.setItem(STORAGE_KEYS.capoFilter, capoFilterValue);
+    }
+
+    function loadTechniqueFilter() {
+        const raw = localStorage.getItem(STORAGE_KEYS.techniqueFilter);
+        return raw || "all";
+    }
+
+    function saveTechniqueFilter() {
+        localStorage.setItem(STORAGE_KEYS.techniqueFilter, techniqueFilterValue);
+    }
+
+    function loadKeyFilter() {
+        const raw = localStorage.getItem(STORAGE_KEYS.keyFilter);
+        return raw || "all";
+    }
+
+    function saveKeyFilter() {
+        localStorage.setItem(STORAGE_KEYS.keyFilter, keyFilterValue);
+    }
+
+    function loadTimeSignatureFilter() {
+        const raw = localStorage.getItem(STORAGE_KEYS.timeSignatureFilter);
+        return raw || "all";
+    }
+
+    function saveTimeSignatureFilter() {
+        localStorage.setItem(STORAGE_KEYS.timeSignatureFilter, timeSignatureFilterValue);
+    }
+
+    function ensureSelectValue(select, value, fallback = "all") {
+        const exists = Array.from(select.options).some((option) => option.value === value);
+        return exists ? value : fallback;
+    }
+
+    function populateSelect(select, values, labelResolver) {
+        const preservedValue = select.value;
+        const defaults = Array.from(select.querySelectorAll("option")).filter((option) => {
+            return option.value === "all" || option.value === "sin-definir";
+        });
+
+        select.innerHTML = "";
+        defaults.forEach((option) => select.appendChild(option));
+
+        values.forEach((value) => {
+            const option = document.createElement("option");
+            option.value = value;
+            option.textContent = labelResolver(value);
+            select.appendChild(option);
+        });
+
+        select.value = ensureSelectValue(select, preservedValue, "all");
+    }
+
+    function parseCapoValue(rawCapo) {
+        if (rawCapo === null || rawCapo === undefined || rawCapo === "") {
+            return null;
+        }
+
+        if (typeof rawCapo === "number" && Number.isFinite(rawCapo)) {
+            return Math.max(0, Math.round(rawCapo));
+        }
+
+        const match = String(rawCapo).match(/\d+/);
+        if (!match) {
+            return null;
+        }
+
+        const parsed = Number(match[0]);
+        return Number.isFinite(parsed) ? Math.max(0, parsed) : null;
+    }
+
+    function populateDynamicFilters() {
+        const availableTechniques = Array.from(
+            new Set(
+                songs
+                    .flatMap((song) => (Array.isArray(song.techniques) ? song.techniques : []))
+                    .filter(Boolean)
+            )
+        ).sort((a, b) => {
+            const labelA = TECHNIQUE_LABELS[a] || a;
+            const labelB = TECHNIQUE_LABELS[b] || b;
+            return labelA.localeCompare(labelB, "es");
+        });
+
+        const availableKeys = Array.from(
+            new Set(
+                songs
+                    .map((song) => (typeof song.key === "string" ? song.key.trim() : ""))
+                    .filter(Boolean)
+            )
+        ).sort((a, b) => a.localeCompare(b, "es"));
+
+        const availableTimeSignatures = Array.from(
+            new Set(
+                songs
+                    .map((song) => (typeof song.timeSignature === "string" ? song.timeSignature.trim() : ""))
+                    .filter(Boolean)
+            )
+        ).sort((a, b) => a.localeCompare(b, "es"));
+
+        populateSelect(techniqueFilter, availableTechniques, (value) => TECHNIQUE_LABELS[value] || value);
+        populateSelect(keyFilter, availableKeys, (value) => value);
+        populateSelect(timeSignatureFilter, availableTimeSignatures, (value) => value);
+    }
+
     function loadFontSize() {
         const raw = Number(localStorage.getItem(STORAGE_KEYS.fontSize));
         if (!Number.isFinite(raw)) {
@@ -365,6 +535,125 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function setSongFontSize() {
         songBody.style.fontSize = `${fontSizeRem.toFixed(2)}rem`;
+    }
+
+    function hideSearchSuggestions() {
+        searchSuggestionItems = [];
+        activeSuggestionIndex = -1;
+        searchSuggestions.innerHTML = "";
+        searchSuggestions.classList.add("d-none");
+        searchInput.setAttribute("aria-expanded", "false");
+        searchInput.removeAttribute("aria-activedescendant");
+    }
+
+    function updateSuggestionHighlight() {
+        const buttons = Array.from(searchSuggestions.querySelectorAll(".search-suggestion"));
+        buttons.forEach((button, index) => {
+            button.classList.toggle("is-active", index === activeSuggestionIndex);
+        });
+
+        if (activeSuggestionIndex >= 0 && buttons[activeSuggestionIndex]) {
+            const activeId = buttons[activeSuggestionIndex].id;
+            searchInput.setAttribute("aria-activedescendant", activeId);
+            buttons[activeSuggestionIndex].scrollIntoView({ block: "nearest" });
+        } else {
+            searchInput.removeAttribute("aria-activedescendant");
+        }
+    }
+
+    function buildSearchSuggestions(rawQuery) {
+        const query = normalize(rawQuery.trim());
+        if (!query) {
+            return [];
+        }
+
+        const matchingSongs = songs.filter((song) => matchesCurrentFilters(song, query));
+        const songSuggestions = matchingSongs.slice(0, 6).map((song) => ({
+            type: "song",
+            label: song.title,
+            meta: song.artist,
+            value: song.title,
+            songId: song.id
+        }));
+
+        const seenArtists = new Set();
+        const artistSuggestions = [];
+        matchingSongs.forEach((song) => {
+            const artistKey = normalize(song.artist);
+            if (!artistKey.includes(query) || seenArtists.has(artistKey)) {
+                return;
+            }
+
+            seenArtists.add(artistKey);
+            artistSuggestions.push({
+                type: "artist",
+                label: song.artist,
+                meta: "Artista",
+                value: song.artist
+            });
+        });
+
+        return [...artistSuggestions.slice(0, 4), ...songSuggestions].slice(0, 8);
+    }
+
+    function renderSearchSuggestions(rawQuery) {
+        const nextSuggestions = buildSearchSuggestions(rawQuery);
+        searchSuggestionItems = nextSuggestions;
+        activeSuggestionIndex = -1;
+        searchSuggestions.innerHTML = "";
+
+        if (nextSuggestions.length === 0) {
+            hideSearchSuggestions();
+            return;
+        }
+
+        nextSuggestions.forEach((suggestion, index) => {
+            const button = document.createElement("button");
+            button.type = "button";
+            button.className = "search-suggestion";
+            button.id = `search-suggestion-${index}`;
+            button.setAttribute("role", "option");
+            button.dataset.index = String(index);
+
+            const label = document.createElement("span");
+            label.className = "search-suggestion-label";
+            label.textContent = suggestion.label;
+
+            const meta = document.createElement("span");
+            meta.className = "search-suggestion-meta";
+            meta.textContent = suggestion.meta;
+
+            button.appendChild(label);
+            button.appendChild(meta);
+
+            button.addEventListener("pointerdown", (event) => {
+                event.preventDefault();
+                applySuggestion(index);
+            });
+
+            searchSuggestions.appendChild(button);
+        });
+
+        searchSuggestions.classList.remove("d-none");
+        searchInput.setAttribute("aria-expanded", "true");
+    }
+
+    function applySuggestion(index) {
+        const suggestion = searchSuggestionItems[index];
+        if (!suggestion) {
+            return;
+        }
+
+        searchInput.value = suggestion.value;
+        renderSongList(suggestion.value);
+        hideSearchSuggestions();
+
+        if (suggestion.type === "song" && suggestion.songId) {
+            const song = findSongById(suggestion.songId);
+            if (song) {
+                loadSong(song);
+            }
+        }
     }
 
     function updateFavoritesBadge() {
@@ -717,13 +1006,56 @@ document.addEventListener("DOMContentLoaded", () => {
             return text;
         }
 
+        const SECTION_LABELS = {
+            intro: "INTRO",
+            verse: "VERSO",
+            verso: "VERSO",
+            estrofa: "ESTROFA",
+            chorus: "ESTRIBILLO",
+            estribillo: "ESTRIBILLO",
+            "pre-chorus": "PRE-ESTRIBILLO",
+            "pre-estribillo": "PRE-ESTRIBILLO",
+            bridge: "PUENTE",
+            puente: "PUENTE",
+            outro: "OUTRO",
+            solo: "SOLO",
+            interlude: "INTERLUDIO",
+            coda: "CODA"
+        };
+
+        const parseSectionLabel = (line) => {
+            const raw = line.trim();
+            if (!raw) {
+                return "";
+            }
+
+            const cleaned = raw
+                .replace(/^[\-*>#\s]+/, "")
+                .replace(/^[_*`]+|[_*`]+$/g, "")
+                .replace(/^\[(.+)\]$/, "$1")
+                .trim();
+
+            if (!cleaned) {
+                return "";
+            }
+
+            const normalized = normalize(cleaned).replace(/\s+/g, " ").trim();
+            const match = normalized.match(/^(intro|verse|verso|estrofa|chorus|estribillo|pre[- ]?chorus|pre[- ]?estribillo|bridge|puente|outro|solo|interlude|coda)(?:\s+(\d+))?$/i);
+            if (!match) {
+                return "";
+            }
+
+            const key = match[1].toLowerCase().replace(/\s+/g, "-");
+            const number = match[2] ? ` ${match[2]}` : "";
+            const baseLabel = SECTION_LABELS[key] || cleaned.toUpperCase();
+            return `${baseLabel}${number}`;
+        };
+
         const lines = text.split("\n");
-        const sectionPattern = /^\s*(\[?(?:INTRO|VERSO|ESTROFA|ESTRIBILLO|PUENTE|BRIDGE|OUTRO)\]?)\s*$/i;
 
         return lines.map((line) => {
-            if (sectionPattern.test(line)) {
-                // Usar un marcador especial para identificar secciones después
-                const sectionName = line.trim();
+            const sectionName = parseSectionLabel(line);
+            if (sectionName) {
                 return `|||SECTION_START|||${sectionName}|||SECTION_END|||`;
             }
             return line;
@@ -768,7 +1100,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
             activeSongRawText = await response.text();
             const { capo } = extractCapoInfo(activeSongRawText);
-            activeSongCapo = capo;
+            const resolvedCapoValue = parseCapoValue(capo || song.capo);
+            activeSongCapo = resolvedCapoValue && resolvedCapoValue > 0 ? String(resolvedCapoValue) : "";
             activeSongId = song.id;
 
             songTitle.textContent = song.title;
@@ -854,7 +1187,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     async function loadSongsIndex() {
-        const response = await fetch("partituras/index.json");
+        const response = await fetch(withCacheBuster("partituras/index.json"));
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}`);
         }
@@ -869,7 +1202,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     async function loadSeedSongProfiles() {
         try {
-            const response = await fetch(SEED_PROFILES_URL);
+            const response = await fetch(withCacheBuster(SEED_PROFILES_URL));
             if (response.status === 404) {
                 seedSongProfiles = {};
                 return;
@@ -915,6 +1248,51 @@ document.addEventListener("DOMContentLoaded", () => {
     function bindEvents() {
         searchInput.addEventListener("input", (event) => {
             renderSongList(event.target.value);
+            renderSearchSuggestions(event.target.value);
+        });
+
+        searchInput.addEventListener("focus", () => {
+            renderSearchSuggestions(searchInput.value);
+        });
+
+        searchInput.addEventListener("keydown", (event) => {
+            if (searchSuggestionItems.length === 0) {
+                return;
+            }
+
+            if (event.key === "ArrowDown") {
+                event.preventDefault();
+                activeSuggestionIndex = (activeSuggestionIndex + 1) % searchSuggestionItems.length;
+                updateSuggestionHighlight();
+                return;
+            }
+
+            if (event.key === "ArrowUp") {
+                event.preventDefault();
+                activeSuggestionIndex = activeSuggestionIndex <= 0
+                    ? searchSuggestionItems.length - 1
+                    : activeSuggestionIndex - 1;
+                updateSuggestionHighlight();
+                return;
+            }
+
+            if (event.key === "Enter" && activeSuggestionIndex >= 0) {
+                event.preventDefault();
+                applySuggestion(activeSuggestionIndex);
+                return;
+            }
+
+            if (event.key === "Escape") {
+                hideSearchSuggestions();
+            }
+        });
+
+        document.addEventListener("click", (event) => {
+            if (event.target === searchInput || searchSuggestions.contains(event.target)) {
+                return;
+            }
+
+            hideSearchSuggestions();
         });
 
         filterAll.addEventListener("click", () => {
@@ -946,6 +1324,30 @@ document.addEventListener("DOMContentLoaded", () => {
         tuningFilter.addEventListener("change", (event) => {
             tuningFilterValue = event.target.value;
             saveTuningFilter();
+            renderSongList(searchInput.value);
+        });
+
+        capoFilter.addEventListener("change", (event) => {
+            capoFilterValue = event.target.value;
+            saveCapoFilter();
+            renderSongList(searchInput.value);
+        });
+
+        techniqueFilter.addEventListener("change", (event) => {
+            techniqueFilterValue = event.target.value;
+            saveTechniqueFilter();
+            renderSongList(searchInput.value);
+        });
+
+        keyFilter.addEventListener("change", (event) => {
+            keyFilterValue = event.target.value;
+            saveKeyFilter();
+            renderSongList(searchInput.value);
+        });
+
+        timeSignatureFilter.addEventListener("change", (event) => {
+            timeSignatureFilterValue = event.target.value;
+            saveTimeSignatureFilter();
             renderSongList(searchInput.value);
         });
 
@@ -1050,11 +1452,20 @@ document.addEventListener("DOMContentLoaded", () => {
         try {
             await loadSongsIndex();
             await loadSeedSongProfiles();
+            populateDynamicFilters();
             fontSizeRem = loadFontSize();
             saveSongProfiles();
             instrumentFilter.value = instrumentFilterValue;
             ratingFilter.value = String(ratingFilterValue);
             tuningFilter.value = tuningFilterValue;
+            capoFilterValue = ensureSelectValue(capoFilter, capoFilterValue, "all");
+            techniqueFilterValue = ensureSelectValue(techniqueFilter, techniqueFilterValue, "all");
+            keyFilterValue = ensureSelectValue(keyFilter, keyFilterValue, "all");
+            timeSignatureFilterValue = ensureSelectValue(timeSignatureFilter, timeSignatureFilterValue, "all");
+            capoFilter.value = capoFilterValue;
+            techniqueFilter.value = techniqueFilterValue;
+            keyFilter.value = keyFilterValue;
+            timeSignatureFilter.value = timeSignatureFilterValue;
             setSongFontSize();
             updateFavoritesBadge();
             updateProfileBadge();

@@ -1,10 +1,17 @@
-# Roto por dentro
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Roto por dentro
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
 | Tonalidad | Afinación | Compás | Capo |
 | --------- | --------- | ------ | ---- |
 |           | Estándar  | 4/4    | 4    |
 
-```
 Intro: G - Bm - Em - Bm - C - D - G
 
 C         D       G
@@ -68,4 +75,4 @@ estoy todo roto y no quiero seguir así.
 le modifiqué los acordes del solo
 y algunos acordes de las estrofas que estaban mal
 
-```
+

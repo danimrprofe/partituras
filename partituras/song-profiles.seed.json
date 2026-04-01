@@ -1,417 +1,1304 @@
-{
-  "band-of-horses-the-funeral": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "joaquin-sabina-lo-niego-todo": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "ronan-keating-when-you-say-nothing-at-all": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "ben-kweller-ben-kweller": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "complices-es-por-ti": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "revolver-si-es-tan-solo-amor": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "pereza-amelie": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "the-fray-how-to-save-a-life": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "r-e-m-man-on-the-moon": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "morgan-volver": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "ivan-ferreiro-piensa-en-frio": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "andres-calamaro-mi-enfermedad": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "joaquin-sabina-el-blues-del-autobus": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "la-fuga-balada-del-despertador": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "rise-against-hero-of-war": {
-    "instruments": [],
-    "rating": 4
-  },
-  "nickelback-rockstar": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "lynyrd-skynyrd-simple-man": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "joaquin-sabina-la-cancion-mas-hermosa-del-mundo": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "vetusta-morla-copenhague": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "tom-odell-another-love": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 5
-  },
-  "3-doors-down-be-like-that": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "quique-gonzalez-de-haberlo-sabido": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "amaral-como-hablar": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "leiva-polvora": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 5
-  },
-  "coque-malla-hasta-el-final": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 0
-  },
-  "the-who-behind-blue-eyes": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 0
-  },
-  "love-of-lesbian-alli-donde-soliamos-gritar": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "chris-isaak-wicked-game": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "dani-martin-que-bonita-la-vida": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 5
-  },
-  "leiva-godzilla": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "foo-fighters-learn-to-fly": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "pereza-lady-madrid": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 0
-  },
-  "adam-levine-go-now": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "pereza-violento-amor": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 5
-  },
-  "cat-stevens-father-and-son": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "countin-crows-hard-candy": {
-    "instruments": [
-      "piano",
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "eric-clapton-wonderful-tonight": {
-    "instruments": [],
-    "rating": 5
-  },
-  "michelle-branch-it-s-you": {
-    "instruments": [],
-    "rating": 4
-  },
-  "taxi-perdido-en-la-calle": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "lady-gaga-lady-gaga": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 4
-  },
-  "countin-crows-accidentally-in-love": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "vetusta-morla-de-junio": {
-    "instruments": [],
-    "rating": 4
-  },
-  "the-script-the-man-who-can-t-be-moved": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 0
-  },
-  "shakira-la-pared": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 5
-  },
-  "sopa-de-cabra-camins": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "fito-fitipaldis-quiero-ser-una-estrella": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "death-cab-for-cutie-i-will-follow-you-into-the-dark": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 5
-  },
-  "revolver-sara": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "countin-crows-a-long-december": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 4
-  },
-  "red-hot-chili-peppers-otherside": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "john-mayer-love-on-the-weekend": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "carlos-sadness-sone-contigo": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "lifehouse-you-and-me": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "enrique-urquijo-aunque-tu-no-lo-sepas": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 0
-  },
-  "3-doors-down-here-without-you": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 0
-  },
-  "revolver-dos-por-dos": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "stone-sour-through-glass": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "lp-lost-on-you": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "incubus-love-hurts": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "calum-scott-dancing-on-my-own": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 3
-  },
-  "leiva-costa-de-oaxaca": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 4
-  },
-  "the-verve-lucky-man": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 4
-  },
-  "don-mclean-american-pie": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "shakira-no": {
-    "instruments": [
-      "piano",
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "fito-fitipaldis-al-cantar": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "joaquin-sabina-a-la-orilla-de-la-chimenea": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "countin-crows-colorblind": {
-    "instruments": [
-      "piano",
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "lynyrd-skynyrd-free-birdtxt": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 5
-  },
-  "morgan-sargento-de-hierro": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0
-  },
-  "u2-one": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 4
-  }
+﻿{
+    "leiva-superpoderes":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "shakira-no":  {
+                       "instruments":  [
+
+                                       ],
+                       "rating":  0,
+                       "tuning":  "estandar"
+                   },
+    "leiva-nuclear":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "m-clan-miedo":  {
+                         "instruments":  [
+
+                                         ],
+                         "rating":  0,
+                         "tuning":  "estandar"
+                     },
+    "leiva-ft-silvana-estrada-peligrosamente-dark":  {
+                                                         "instruments":  [
+
+                                                                         ],
+                                                         "rating":  0,
+                                                         "tuning":  "estandar"
+                                                     },
+    "morgan-sargento-de-hierro":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "shakira-donde-estas-corazon":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "sidecars-la-tormenta":  {
+                                 "instruments":  [
+
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
+    "el-canto-del-loco-ya-nada-volvera-a-ser-como-antes-ya-nada-volvera-a-ser-como-antes":  {
+                                                                                                "instruments":  [
+
+                                                                                                                ],
+                                                                                                "rating":  0,
+                                                                                                "tuning":  "estandar"
+                                                                                            },
+    "joaquin-sabina-pajaros-de-portugal":  {
+                                               "instruments":  [
+
+                                                               ],
+                                               "rating":  0,
+                                               "tuning":  "estandar"
+                                           },
+    "revolver-el-roce-de-tu-piel":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "the-verve-lucky-man":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "m-clan-noche-de-desolacion":  {
+                                       "instruments":  [
+
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "leiva-del-hueso-una-flor":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "formato-recomendado":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "r-e-m-losing-my-religion":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "m-clan-polvo-de-estrellas":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "smashing-pumpkins-tonight-tonight":  {
+                                              "instruments":  [
+
+                                                              ],
+                                              "rating":  0,
+                                              "tuning":  "estandar"
+                                          },
+    "shakira-te-dejo-madrid":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "la-la-love-you-el-principio-de-algo":  {
+                                                "instruments":  [
+
+                                                                ],
+                                                "rating":  0,
+                                                "tuning":  "estandar"
+                                            },
+    "lynyrd-skynyrd-free-birdtxt":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "justin-timberlake-true-colors":  {
+                                          "instruments":  [
+
+                                                          ],
+                                          "rating":  0,
+                                          "tuning":  "estandar"
+                                      },
+    "leiva-expertos":  {
+                           "instruments":  [
+
+                                           ],
+                           "rating":  0,
+                           "tuning":  "estandar"
+                       },
+    "revolver-el-peligro":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "pereza-animales":  {
+                            "instruments":  [
+
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "m-clan-chilaba-y-cachimba":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "leiva-a-ti-te-ocurre-algo":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "amaral-como-hablar":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "leiva-la-francesita":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "m-clan-roto-por-dentro":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "sidecars-contra-las-cuerdas":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "leiva-stranger-things":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "leiva-breaking-bad":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "extremoduro-sucede":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "dani-fernandez-solo-tienes-que-avisar":  {
+                                                  "instruments":  [
+
+                                                                  ],
+                                                  "rating":  0,
+                                                  "tuning":  "estandar"
+                                              },
+    "paolo-nutini-candy":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "la-moda-heroes-del-sabado":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "leiva-feat-nina-de-juan-blancos-faciles":  {
+                                                    "instruments":  [
+
+                                                                    ],
+                                                    "rating":  0,
+                                                    "tuning":  "estandar"
+                                                },
+    "revolver-sara":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "m-clan-souvenir":  {
+                            "instruments":  [
+
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "pereza-princesas":  {
+                             "instruments":  [
+
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
+    "revolver-si-es-tan-solo-amor":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "quique-gonzalez-charo":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "vetusta-morla-finisterre":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "leiva-el-gigante-de-big-fish":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "shakira-dia-de-enero":  {
+                                 "instruments":  [
+
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
+    "leiva-hermosa-taquicardia":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "revolver-eso-de-saber":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "leiva-nunca-nadie":  {
+                              "instruments":  [
+
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
+    "pereza-yo-solo-quiero":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "revolver-odio":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "sting-englishman-in-new-york":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "leiva-la-lluvia-en-los-zapatos":  {
+                                           "instruments":  [
+
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
+    "la-sonrisa-de-julia-hay-alguien-mas-ahi":  {
+                                                    "instruments":  [
+
+                                                                    ],
+                                                    "rating":  0,
+                                                    "tuning":  "estandar"
+                                                },
+    "nacha-pop-lucha-de-gigantes":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "3-doors-down-be-like-that":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "leiva-histericos":  {
+                             "instruments":  [
+
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
+    "melon-diesel-quiero-un-camino":  {
+                                          "instruments":  [
+
+                                                          ],
+                                          "rating":  0,
+                                          "tuning":  "estandar"
+                                      },
+    "leiva-eme":  {
+                      "instruments":  [
+
+                                      ],
+                      "rating":  0,
+                      "tuning":  "estandar"
+                  },
+    "vetusta-morla-maldita-dulzura":  {
+                                          "instruments":  [
+
+                                                          ],
+                                          "rating":  0,
+                                          "tuning":  "estandar"
+                                      },
+    "morgan-volver":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "mana-rayando-el-sol":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "m-clan-la-esperanza":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "leiva-mi-pequeno-chernobil":  {
+                                       "instruments":  [
+
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "leiva-la-llamada":  {
+                             "instruments":  [
+
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
+    "johnny-cash":  {
+                        "instruments":  [
+
+                                        ],
+                        "rating":  0,
+                        "tuning":  "estandar"
+                    },
+    "leiva-palomas":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "mana-clavado-en-un-bar":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "izal-que-bien":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "revolver-es-mejor-caminar":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "m-clan-grupos-americanos":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "leiva-ciencia-ficcion":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "leiva-bajo-presion":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "shakira-la-pared":  {
+                             "instruments":  [
+
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
+    "manolo-garcia-carbon-y-ramas-secas":  {
+                                               "instruments":  [
+
+                                                               ],
+                                               "rating":  0,
+                                               "tuning":  "estandar"
+                                           },
+    "snow-patrol-the-finish-line":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "pereza-pienso-en-aquella-tarde":  {
+                                           "instruments":  [
+
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
+    "leiva-los-cantantes":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "els-pets-bon-dia":  {
+                             "instruments":  [
+
+                                             ],
+                             "rating":  0,
+                             "tuning":  "estandar"
+                         },
+    "countin-crows-colorblind":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "m-clan-quedate-a-dormir":  {
+                                    "instruments":  [
+
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
+    "morgan-radio":  {
+                         "instruments":  [
+
+                                         ],
+                         "rating":  0,
+                         "tuning":  "estandar"
+                     },
+    "pereza-madrid":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "van-morrison-brown-eyed-girl":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "morgan-intro":  {
+                         "instruments":  [
+
+                                         ],
+                         "rating":  0,
+                         "tuning":  "estandar"
+                     },
+    "pereza-por-mi-tripa":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "m-clan-traeme-tu-amor":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "fito-fitipaldis-soldadito-marinero":  {
+                                               "instruments":  [
+
+                                                               ],
+                                               "rating":  0,
+                                               "tuning":  "estandar"
+                                           },
+    "los-secretos":  {
+                         "instruments":  [
+
+                                         ],
+                         "rating":  0,
+                         "tuning":  "estandar"
+                     },
+    "leiva-caida-libre":  {
+                              "instruments":  [
+
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
+    "shakira-el-octavo-dia":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "leiva-sincericidio":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "extremoduro-salir":  {
+                              "instruments":  [
+
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
+    "matchbox-twenty":  {
+                            "instruments":  [
+
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "leiva-guerra-mundial":  {
+                                 "instruments":  [
+
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
+    "revolver-san-pedro":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "tom-odell-another-love":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "tequila-mucho-mejor":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "leiva-infinitos":  {
+                            "instruments":  [
+
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "leiva-como-si-fueras-a-morir-manana":  {
+                                                "instruments":  [
+
+                                                                ],
+                                                "rating":  0,
+                                                "tuning":  "estandar"
+                                            },
+    "goo-goo-dolls-black-balloon":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "john-mayer-in-the-blood":  {
+                                    "instruments":  [
+
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
+    "sin-bandera-mientes-tan-bien":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "nickelback-rockstar":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "quique-gonzalez-de-haberlo-sabido":  {
+                                              "instruments":  [
+
+                                                              ],
+                                              "rating":  0,
+                                              "tuning":  "estandar"
+                                          },
+    "fito-fitipaldis-acabo-de-llegar":  {
+                                            "instruments":  [
+
+                                                            ],
+                                            "rating":  0,
+                                            "tuning":  "estandar"
+                                        },
+    "tam-tam-go-espaldas-mojadas":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "leiva-lobos":  {
+                        "instruments":  [
+
+                                        ],
+                        "rating":  0,
+                        "tuning":  "estandar"
+                    },
+    "leiva-maniobras-suicidas":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "leiva-aunque-sea-un-rato":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "taylor-swift-treacherous":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "the-fray-how-to-save-a-life":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "seal-kiss-from-a-rose":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "revolver-esclavo-de-tu-amor":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "leiva-miedo":  {
+                        "instruments":  [
+
+                                        ],
+                        "rating":  0,
+                        "tuning":  "estandar"
+                    },
+    "leiva-cerca":  {
+                        "instruments":  [
+
+                                        ],
+                        "rating":  0,
+                        "tuning":  "estandar"
+                    },
+    "pereza-aproximacion":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "coti-nada-fue-un-error":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "rosana-llegaremos-a-tiempo":  {
+                                       "instruments":  [
+
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "m-clan-maggie-despierta":  {
+                                    "instruments":  [
+
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
+    "m-clan-arenas-movedizas":  {
+                                    "instruments":  [
+
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
+    "leiva-todo-lo-que-tu-quieras":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "m-clan-que-esta-pasando":  {
+                                    "instruments":  [
+
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
+    "sin-bandera-que-lloro":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "m-clan-saltamos-sin-mirar-2":  {
+                                        "instruments":  [
+
+                                                        ],
+                                        "rating":  0,
+                                        "tuning":  "estandar"
+                                    },
+    "shakira-dia-especial":  {
+                                 "instruments":  [
+
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
+    "extremoduro-standby":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "the-who-behind-blue-eyes":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "coque-malla-hasta-el-final":  {
+                                       "instruments":  [
+
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "nena-daconte-en-que-estrella-estara":  {
+                                                "instruments":  [
+
+                                                                ],
+                                                "rating":  0,
+                                                "tuning":  "estandar"
+                                            },
+    "pereza-estrella-polar":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "ronan-keating-when-you-say-nothing-at-all":  {
+                                                      "instruments":  [
+
+                                                                      ],
+                                                      "rating":  0,
+                                                      "tuning":  "estandar"
+                                                  },
+    "shakira-estoy-aqui":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "sidecars-dinamita":  {
+                              "instruments":  [
+
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
+    "shakira-underneath-your-clothes":  {
+                                            "instruments":  [
+
+                                                            ],
+                                            "rating":  0,
+                                            "tuning":  "estandar"
+                                        },
+    "m-clan-la-calma":  {
+                            "instruments":  [
+
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "seal-crazy":  {
+                       "instruments":  [
+
+                                       ],
+                       "rating":  0,
+                       "tuning":  "estandar"
+                   },
+    "shakira-que-me-quedes-tu":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "m-clan-inmigrante":  {
+                              "instruments":  [
+
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
+    "of-monsters-and-men-love-love-love":  {
+                                               "instruments":  [
+
+                                                               ],
+                                               "rating":  0,
+                                               "tuning":  "estandar"
+                                           },
+    "shakira-si-te-vas":  {
+                              "instruments":  [
+
+                                              ],
+                              "rating":  0,
+                              "tuning":  "estandar"
+                          },
+    "leiva-la-estacion-eterna":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "leiva-gigante":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "revolver-dos-por-dos":  {
+                                 "instruments":  [
+
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
+    "pereza-amelie":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "leiva-iceberg":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "shakira-pies-descalzos-suenos-blancos":  {
+                                                  "instruments":  [
+
+                                                                  ],
+                                                  "rating":  0,
+                                                  "tuning":  "estandar"
+                                              },
+    "pereza-todo":  {
+                        "instruments":  [
+
+                                        ],
+                        "rating":  0,
+                        "tuning":  "estandar"
+                    },
+    "leiva-polvora":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "shakira-ciega-sordomuda":  {
+                                    "instruments":  [
+
+                                                    ],
+                                    "rating":  0,
+                                    "tuning":  "estandar"
+                                },
+    "leiva-mi-mejor-version":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "leiva-dejandose-caer":  {
+                                 "instruments":  [
+
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
+    "m-clan-el-tren-que-nunca-cogimos":  {
+                                             "instruments":  [
+
+                                                             ],
+                                             "rating":  0,
+                                             "tuning":  "estandar"
+                                         },
+    "leiva-godzilla":  {
+                           "instruments":  [
+
+                                           ],
+                           "rating":  0,
+                           "tuning":  "estandar"
+                       },
+    "pereza-la-noria":  {
+                            "instruments":  [
+
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "the-beatles-now-and-then":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "m-clan-caminos-secundarios":  {
+                                       "instruments":  [
+
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "el-nino-de-la-hipoteca-romeo-y-julieta":  {
+                                                   "instruments":  [
+
+                                                                   ],
+                                                   "rating":  0,
+                                                   "tuning":  "estandar"
+                                               },
+    "m-clan-viaje-al-sur":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "r-e-m-man-on-the-moon":  {
+                                  "instruments":  [
+
+                                                  ],
+                                  "rating":  0,
+                                  "tuning":  "estandar"
+                              },
+    "m-clan-usar-y-tirar":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "leiva-vertigo":  {
+                          "instruments":  [
+
+                                          ],
+                          "rating":  0,
+                          "tuning":  "estandar"
+                      },
+    "leiva-no-te-preocupes-por-mi":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "leiva-en-el-espacio":  {
+                                "instruments":  [
+
+                                                ],
+                                "rating":  0,
+                                "tuning":  "estandar"
+                            },
+    "los-piratas":  {
+                        "instruments":  [
+
+                                        ],
+                        "rating":  0,
+                        "tuning":  "estandar"
+                    },
+    "coque-malla":  {
+                        "instruments":  [
+
+                                        ],
+                        "rating":  0,
+                        "tuning":  "estandar"
+                    },
+    "manolo-garcia-pajaros-de-barro":  {
+                                           "instruments":  [
+
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
+    "leiva-terriblemente-cruel":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "alannis-morrisset-ironic":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "pereza-si-quieres-bailamos":  {
+                                       "instruments":  [
+
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "band-of-horses-the-funeral":  {
+                                       "instruments":  [
+
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "leiva-vis-a-vis":  {
+                            "instruments":  [
+
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "pereza-lady-madrid":  {
+                               "instruments":  [
+
+                                               ],
+                               "rating":  0,
+                               "tuning":  "estandar"
+                           },
+    "vetusta-morla-de-junio":  {
+                                   "instruments":  [
+
+                                                   ],
+                                   "rating":  0,
+                                   "tuning":  "estandar"
+                               },
+    "m-clan-caroilna":  {
+                            "instruments":  [
+
+                                            ],
+                            "rating":  0,
+                            "tuning":  "estandar"
+                        },
+    "m-clan-corazon-en-transito":  {
+                                       "instruments":  [
+
+                                                       ],
+                                       "rating":  0,
+                                       "tuning":  "estandar"
+                                   },
+    "vetusta-morla-copenhague":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "sopa-de-cabra-camins":  {
+                                 "instruments":  [
+
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
+    "m-clan-concierto-salvaje":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "taxi-perdido-en-la-calle":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 },
+    "sin-bandera-entra-en-mi-vida":  {
+                                         "instruments":  [
+
+                                                         ],
+                                         "rating":  0,
+                                         "tuning":  "estandar"
+                                     },
+    "leiva-afuera-en-la-ciudad":  {
+                                      "instruments":  [
+
+                                                      ],
+                                      "rating":  0,
+                                      "tuning":  "estandar"
+                                  },
+    "m-clan-los-periodicos-de-manana":  {
+                                            "instruments":  [
+
+                                                            ],
+                                            "rating":  0,
+                                            "tuning":  "estandar"
+                                        },
+    "leiva-mirada-perdida":  {
+                                 "instruments":  [
+
+                                                 ],
+                                 "rating":  0,
+                                 "tuning":  "estandar"
+                             },
+    "m-clan-todo-lo-joven-muere-hoy":  {
+                                           "instruments":  [
+
+                                                           ],
+                                           "rating":  0,
+                                           "tuning":  "estandar"
+                                       },
+    "rise-against-hero-of-war":  {
+                                     "instruments":  [
+
+                                                     ],
+                                     "rating":  0,
+                                     "tuning":  "estandar"
+                                 }
 }

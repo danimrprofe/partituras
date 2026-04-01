@@ -1,6 +1,13 @@
-# Tráeme tu amor
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Tráeme tu amor
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
-```
 **Intro**
 C#m     B      A
 uh uh  uh uh  uuuh
@@ -68,4 +75,3 @@ B             A               E
 Quiero soñar quiero estar contigo
 B                 A         E
 Tráeme tu amor y tápame con él
-```

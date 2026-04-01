@@ -1,12 +1,17 @@
-# Maggie despierta
-
-Artista: M-Clan
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Maggie despierta
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
 | Tonalidad | Afinación | Compás | Capo |
 | --------- | --------- | ------ | ---- |
 |           | Estándar  | 4/4    | 2    |
 
-```
 Intro:
     G    Asus2    C    G
     G    Asus2    C    G    Am  Bm
@@ -70,4 +75,3 @@ G                  Am         C              G
 Me hiciste polvo Maggie pero yo te quiero igual.
 
 G   Am   C   G (Hasta el final)
-```

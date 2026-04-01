@@ -1,6 +1,13 @@
-# Caminos secundarios
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Caminos secundarios
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
 
-```
 **Intro**
 G
 Am C G G
@@ -68,4 +75,3 @@ Tu seguirás dormida en el sofá
 Dormida en el sofá
   C     D       G
 Dormida en el sofá
-```
