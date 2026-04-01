@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Complices
+CANCION: ES POR TI
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 COMPLICES 
 ES POR TI
 Piano
@@ -47,6 +60,7 @@ Dm                 C                       F	   G                             C
 Tus besos la tinta de mis versos, Que siempre te cuentan.
 Dm    Am      G   F  (3) Dm    Am     G		E                 Am
 Uo, oh, oh, oh, oh, ...        Uo, oh, oh, oh, oh, ... ...Que siempre te cuentan.
+
 
 
 

@@ -183,6 +183,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let activeSongId = "";
     let activeSongRawText = "";
     let activeSongCapo = "";
+    let activeSongFilename = "";
     let transposeShift = 0;
     let autoscrollTimer = null;
     let fontSizeRem = 0.92;
@@ -1062,9 +1063,60 @@ document.addEventListener("DOMContentLoaded", () => {
         }).join("\n");
     }
 
+    function stripMarkdownMarkup(text) {
+        if (!text) {
+            return text;
+        }
+
+        const lines = text.split("\n");
+        const result = [];
+        let inCodeBlock = false;
+
+        for (const line of lines) {
+            // Eliminar marcadores de conflicto git
+            if (/^(<{7}|={7}|>{7})/.test(line)) {
+                continue;
+            }
+
+            // Detectar y eliminar líneas de valla de código (```)
+            if (/^\s*`{3,}\s*$/.test(line)) {
+                inCodeBlock = !inCodeBlock;
+                continue;
+            }
+
+            // Eliminar líneas de regla horizontal (---, ***, ___)
+            if (/^\s*[-*_]{3,}\s*$/.test(line)) {
+                continue;
+            }
+
+            // Eliminar encabezados Markdown (# Título) quedándonos solo con el texto
+            if (/^#{1,3}\s+/.test(line)) {
+                const heading = line.replace(/^#{1,3}\s+/, "").trim();
+                if (heading) {
+                    result.push(heading);
+                }
+                continue;
+            }
+
+            // Quitar marcado **negrita** e *cursiva* pero preservar el texto
+            const cleaned = line
+                .replace(/\*\*\*(.+?)\*\*\*/g, "$1")
+                .replace(/\*\*(.+?)\*\*/g, "$1")
+                .replace(/\*(.+?)\*/g, "$1")
+                .replace(/__(.+?)__/g, "$1")
+                .replace(/_(.+?)_/g, "$1");
+
+            result.push(cleaned);
+        }
+
+        return result.join("\n");
+    }
+
     function renderSongBody() {
+        const isMd = activeSongFilename.toLowerCase().endsWith(".md");
         const { cleanText } = extractCapoInfo(activeSongRawText);
-        const highlighted = highlightSections(cleanText);
+        const stripped = isMd ? stripMarkdownMarkup(cleanText) : cleanText;
+        const highlighted = highlightSections(stripped);
         const transposed = applyTransposition(highlighted);
         
         // Escapar HTML para seguridad, luego reemplazar marcadores con HTML
@@ -1083,6 +1135,7 @@ document.addEventListener("DOMContentLoaded", () => {
         songMeta.textContent = "";
         activeSongRawText = "";
         activeSongCapo = "";
+        activeSongFilename = "";
         capoContainer.classList.add("d-none");
         bpmContainer.classList.add("d-none");
         techniquesContainer.classList.add("d-none");
@@ -1103,6 +1156,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const resolvedCapoValue = parseCapoValue(capo || song.capo);
             activeSongCapo = resolvedCapoValue && resolvedCapoValue > 0 ? String(resolvedCapoValue) : "";
             activeSongId = song.id;
+            activeSongFilename = song.filename;
 
             songTitle.textContent = song.title;
             songMeta.textContent = song.artist;

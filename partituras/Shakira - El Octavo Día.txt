@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: El octavo día
@@ -10,7 +10,7 @@ CEJILLA/CAPO: Capo 4 y 2 abajo para mí
 LEYENDA / NOTAS ADICIONALES:
 (Acordes e información adicional)
 ================================================================================
-[Intro]
+INTRO
 Bm | F#m | G | G A  x2
  
 Bm         F#m                 G              A
@@ -50,7 +50,7 @@ no soy la clase de idiota que se deja convencer
       Em                        A              Bm
 pero digo la verdad y hasta un ciego lo puede ver.
  
-[Instrumental]
+INSTRUMENTAL
 Bm | F#m | G | G A
  
 Bm              F#m               G             A

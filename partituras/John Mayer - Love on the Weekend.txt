@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: John Mayer
+CANCION: LOVE ON THE WEEKEND
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOHN MAYER 
 LOVE ON THE WEEKEND
 
@@ -91,5 +104,6 @@ C
 Love on the weekend
 G     C
         Love on the weekend
+
 
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: PELIGROSAMENTE DARK2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Peligrosamente dark
 
 LEIVA FT. SILVANA ESTRADA
@@ -8,7 +21,7 @@ capo 2
 C Cmaj7 F G
 C Cmaj7 F G
 
-Estrofa
+ESTROFA
 
             C           Cmaj7          F           G
 ¿Qué harías tú? ¿Si tuvieras rota por dentro la cabeza?
@@ -25,7 +38,7 @@ Dm                  G      G7        C
 Déjame estar Peligrosamente dark
 C Cmaj7 F G
 
-Estrofa
+ESTROFA
 
              C	        Cmaj7          F           G
 ¿Qué harías tú? ¿Si sintieras enfermedades misteriosas?

@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: No
@@ -43,7 +43,7 @@ y que a tu edad sepas bien lo que es
     G           A              Bm
 romperle el corazon a alguien asi
  
-CHORUS
+ESTRIBILLO
 A                              Em        G
 No se puede vivir con tanto veneno
         A                                        Em
@@ -81,7 +81,7 @@ y que a tu edad sepas bien lo que es
    G             A             Bm
 romperle el corazón a alguien así.
  
-CHORUS
+ESTRIBILLO
 A    G   A    G A     A G A G  AG
 NO.....NO.....NO.......NO...NO...NO
  

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Lifehouse
+CANCION: YOU AND ME -
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 7
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 LIFEHOUSE - YOU AND ME
 Lifehouse
 Capo: No. A = A7sus4 C = Cadd9 y D 
@@ -76,7 +89,7 @@ and I don't know why
   Em7          Dsus         Cadd9
 I can't keep my eyes off of you   
 
-Instrumental
+INSTRUMENTAL
 
 G Cadd9 Dsus4/F# 
 G/B Em7 Dsus4 Cadd9 
@@ -86,5 +99,6 @@ G           C  D/F#        G/B
 What day is it and in what month, 
       Em7          D         C
 this clock never seemed so alive                         
+
 
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Red Hot Chili Peppers
+CANCION: OTHERSIDE
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 Afinación:
 E A D G B E
 Tonalidad:
@@ -7,10 +20,10 @@ sin cejilla
 Strumming pattern: D DU UDU
 * = play the strumming pattern x2 on this chord
  
-[Intro]
+INTRO
 Am   F   C   G
  
-[Chorus]
+ESTRIBILLO
 Am             F           C
  How long, how long will I slide?
 G            Am   F
@@ -20,7 +33,7 @@ I don't, don't believe it's baaa-aaad
 C                       G
 Slittin' my throat it's all I ever
  
-[Verse 1]
+ESTROFA 1
 Am                              Em
    I heard your voice through a photograph
 Am                             Em
@@ -30,7 +43,7 @@ Am                       Em
             G              A*
 I've got to take it on the otherside
  
-[Verse 2]
+ESTROFA 2
 Am                      Em
   Centuries are what it meant to me
 Am                   Em
@@ -46,7 +59,7 @@ Take it on
 A*
 Take it on
  
-[Chorus]
+ESTRIBILLO
 Am             F           C
  How long, how long will I slide?
 G            Am   F
@@ -56,7 +69,7 @@ I don't, don't believe it's baaa-aaad
 C                       G
 Slittin' my throat it's all I ever
  
-[Verse 3]
+ESTROFA 3
 Am                    Em
   Pour my life into a paper cup
 Am                           Em
@@ -66,7 +79,7 @@ Am                       Em
             G              A*
 I've got to take it on the otherside
  
-[Verse 4]
+ESTROFA 4
 Am                          Em
   Scarlet starlet and she's in my bed
 Am                  Em
@@ -82,7 +95,7 @@ Take it on
 A*
 Take it on
  
-[Chorus]
+ESTRIBILLO
 Am             F           C
  How long, how long will I slide?
 G            Am   F
@@ -92,11 +105,11 @@ I don't, don't believe it's baaa-aaad
 C                       G
 Slittin' my throat it's all I ever
  
-[Instrumental]
+INSTRUMENTAL
 Em* - C*
 Em* - C*
  
-[Bridge]
+PUENTE
 Em*
   Turn me on take me for a hard ride
 C*
@@ -109,7 +122,7 @@ C*
 [Guitar Solo]
 Am   F   C   G
  
-[Chorus]
+ESTRIBILLO
 Am              F           C
   How long, how long will I slide?
 G           Am    F

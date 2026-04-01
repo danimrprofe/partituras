@@ -1,4 +1,17 @@
-﻿ANDRES CALAMARO 
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Andres Calamaro
+CANCION: TE QUIERO IGUAL
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+ANDRES CALAMARO 
 TE QUIERO IGUAL 
         G       D              Em          C
 Te quiero, pero te llevaste la flor y me dejaste el florero.
@@ -47,4 +60,5 @@ G                D             Em           C
 Te quiero, pero te llevaste marzo y te rendiste en febrero.
 G           D          G
 Primero, te quiero, igual.
+
 

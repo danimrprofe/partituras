@@ -1,15 +1,28 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: POLVORA2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Pólvora
 
 | Tonalidad | Tempo | Compás | Capo |
 | --------- | ----- | ------ | ---- |
 | Sol Mayor | bpm   | 4/4    | No   |
 
-**Intro**
+INTRO
 
 ```
  C | Em  | F | G   x2
 ```
-**Estrofa**
+ESTROFA
 ```
         C                    Em           F                        G
 De los cielos a la pólvora mojada, de la magia a la oscura esclavitud
@@ -17,7 +30,7 @@ De los cielos a la pólvora mojada, de la magia a la oscura esclavitud
 Hace tiempo que no pienso en tu cornada. Hace tiempo que lo echo a cara o cruz.
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
          F            G                   Am          Em
@@ -25,11 +38,11 @@ Y ahora sé que cualquiera llorará más que tú, en mi eterna despedida y
 F         C           Dm        F           G        C
 no me resbala tu actitud. Esto sé que no te va a gustar
 ```
-**Instrumental**
+INSTRUMENTAL
 ```
  C | Em | F | G
 ```
-**Estrofa**
+ESTROFA
 ```
        C                      Em         F                         G
 Prisioneros de las drogas delicadas, atrapados en un plano a contraluz
@@ -39,7 +52,7 @@ Hace tiempo que no siento una punzada, hace tiempo que me estrello a tu salud, y
 
 
 
-**Estribillo**
+ESTRIBILLO
 ```
          F            G                   Am          Em
 Y ahora sé que cualquiera llorará más que tú, en mi eterna despedida y
@@ -50,12 +63,12 @@ Y ahora sé que la guerra durará más que tú, peligrosa a doble vida y
 F         C           Dm        F           G        C
 no me desarma tu actitud. Esto sé que no te va a gustar
 ```
-**Instrumental**
+INSTRUMENTAL
 ```
  C   | E   | Am  | G
  C   | E   | F   | F7
 ```
-**Puente**
+PUENTE
 ```
 G                Am              F           C
 | No llega el día, quiero sentir otra velocidad
@@ -64,7 +77,7 @@ Tramando alguna atrocidad y si, me da miedo mi actitud.
 |    G	                   C
 Esto sé que no se va a acabar
 ```
-**Instrumental**
+INSTRUMENTAL
 ```
 C   | Em  | F   | G   | F
 ```

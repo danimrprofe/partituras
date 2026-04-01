@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: EXTASIS2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Éxtasis
 
 **Información**
@@ -6,11 +19,11 @@
 | --------- | ----- | ------ | ---- |
 | Sol Mayor | X bpm | 4/4    | No   |
 
-**Intro**
+INTRO
 ```
 G  G  D  C  G
 ```
-**Estrofa**
+ESTROFA
 ```
 G                   D         Am
 El universo es para mi un feo
@@ -77,7 +90,7 @@ cuando estábamos así,
 cuando estábamos así.
 
 ```
-**Solo**
+SOLO
 ```
 C  | Em  | F  G  | C
 C  | Em  | F  Fm  | C
@@ -88,7 +101,8 @@ En éxtasis, en éx  ta  sis, aún recuerdo,
 cuando estábamos así.
 
 ```
-## Final
+FINAL
 ```
 C | C F | G C
 ```
+

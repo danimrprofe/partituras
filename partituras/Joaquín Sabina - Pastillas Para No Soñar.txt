@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: PASTILLAS PARA NO SOÑAR
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 PASTILLAS PARA NO SOÑAR
 
@@ -71,5 +84,6 @@ F#m       B          D		     A               E
 y si protesta el corazón en la farmacia puedes preguntar:
 Bm            D                  G
 ¿tiene pastillas para no soñar?
+
 
 

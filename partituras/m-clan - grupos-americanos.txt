@@ -10,12 +10,12 @@ TONALIDAD: —
 
 Capo 1
 
-**Intro**
+INTRO
 
 A D
 A D
 
-**Estrofa**
+ESTROFA
 
 A                          D
 fué flor del vientre del leon
@@ -31,19 +31,19 @@ dejar esta provincia atrás
 A                   D           E   D
 obsesionado con la música del diablo
 
-**Estribillo**
+ESTRIBILLO
 
             A  D                 A   D
 grupos americanos, cintas de cassete
           A        E     D            E      A
 yo lo recuerdo a dia de hoy, se me eriza la piel
 
-**Instrumental**
+INSTRUMENTAL
 
 A D
 A D
 
-**Estrofa**
+ESTROFA
 
 A                D
 se vistió, se afeitó,
@@ -59,7 +59,7 @@ como un halcón echó a volar
 A                D          E  D
 iluminado siempre por un sol mayor
 
-**Estribillo**
+ESTRIBILLO
 
             A  D                 A   D
 grupos americanos, cintas de cassete
@@ -70,7 +70,7 @@ grupos americanos, cintas de cassete
           A        E     D            E      A
 yo lo recuerdo a dia de hoy, se me eriza la piel
 
-[Bridge]
+PUENTE
 
 F#m           D  A        E
 y los dias rápidos libres y etílicos,
@@ -79,12 +79,12 @@ le envolvieron con su danza nocturna,
 E
 algo que no tiene cura
 
-**Instrumental**
+INSTRUMENTAL
 
 A D
 A D
 
-**Estrofa**
+ESTROFA
 
 A                D
 escuha el ruido del motor
@@ -93,7 +93,7 @@ A                D
 A                   D            E  D
 otra ciudad otro escenario otra canción
 
-**Estribillo**
+ESTRIBILLO
 
             A  D                 A   D
 grupos americanos, cintas de cassete
@@ -108,9 +108,10 @@ lo recuerdo a dia de hoy,
           A        E     D            E      A
 lo recuerdo a dia de hoy, se me eriza la piel
 
-**Instrumental**
+INSTRUMENTAL
 
 A D
 A D
 A D
 A
+

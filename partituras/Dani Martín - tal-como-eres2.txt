@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Dani Martín
+CANCION: TAL-COMO-ERES2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Tal como eres
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -6,10 +19,10 @@
 
 
 ```
-**Intro**
+INTRO
 Am  Dm  F   G  Am  G  Am
 
-[Verse 1]
+ESTROFA 1
 Am  Dm              F      G                Am  G
 Hoy me siento tan grande por tenerte a mi lado
 Am  Dm           F    G                C  E
@@ -19,7 +32,7 @@ Tienes ese silencio, esos ojos tan magos
 Am  Dm           F    G                 C  E
 El hermano pequeño, al que quiero y extraño
 
-[Pre-Chorus]
+PRE-ESTRIBILLO
 F                             G
 Nada te haría tan especial, discutir o hablar
                  Am                      G
@@ -29,7 +42,7 @@ Tienes ese don que te hace mejor sensibilidad
                     C                   G
 Mucho cariño que regalar, te necesito tanto
 
-**Estribillo**
+ESTRIBILLO
        F               G             C
 Y pensando que sinceramente te quiero así
           Am          F               G              C
@@ -43,7 +56,7 @@ Trato de verme tal como soy
            E
 Es lo que tiene
 
-[Verse 2]
+ESTROFA 2
 Am  Dm          F     G                  Am  G
 Esperando un aviso te enfrentaste al mundo
 Am  Dm            F    G                  C  E
@@ -53,7 +66,7 @@ Te encontre sincero y mi amor no es el mismo
 Am  Dm             F    G                C  E
 Sin querer la espero como espera un amigo
 
-[Pre-Chorus]
+PRE-ESTRIBILLO
 F                               G
 Nada te haría tan especial, discutir o hablar
                  C                      G
@@ -63,7 +76,7 @@ Dejar de ser, saber escoger y creer que vas
                   C                 G
 Simplificando la vida como harían otros
 
-**Estribillo**
+ESTRIBILLO
        F               G             C
 Y pensando que sinceramente te quiero así
           Am          F               G              C
@@ -77,10 +90,10 @@ Trato de verme tal como soy
            E
 Es lo que tiene
 
-[Bridge]
+PUENTE
 Dm  Cm  Bm  E
 
-**Estribillo**
+ESTRIBILLO
        F               G             C
 Y pensando que sinceramente te quiero así
           Am          F               G              C
@@ -102,6 +115,6 @@ Trato de verme como soy yo
                   E
 Y cambiar lo que duele
 
-[Outro]
+OUTRO
 E
 ```

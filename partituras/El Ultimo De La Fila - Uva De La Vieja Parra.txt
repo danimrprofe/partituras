@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Ultimo De La Fila
+CANCION: UVA DE LA VIEJA PARRA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL ULTIMO DE LA FILA 
 UVA DE LA VIEJA PARRA
 A = asus2 y D = C abierto en traste 3
@@ -46,4 +59,5 @@ Dalila, llámame Sansón y mis tijeras te daré.
 FINAL
 Asus2 G Asus2 G
 aaay y aaaah aaaah y ah y ah y ah x2
+
 

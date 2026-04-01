@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: DENTRO DE MÍ
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 **************************************************
 *                                                *
 *            El Canto del Loco                  *
@@ -31,7 +44,7 @@ Mil Problemas que me niegan
 que me cierran mi pequeño corazón 
  
  
-[Chorus]
+ESTRIBILLO
 Bm 
 Sabes que es verdad que es tu realidad 
                 F#m    Em   F#7 
@@ -56,7 +69,7 @@ que me cuesta cada día mas
      A           Em           F# 
 mostrarlo y regalarlo porque sí
 
-[Chorus]
+ESTRIBILLO
 Bm 
 Sabes que es verdad que es tu realidad 
                 F#m    Em   F#7 

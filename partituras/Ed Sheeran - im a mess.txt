@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Ed Sheeran
+CANCION: IM A MESS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # I'm a mess
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -6,7 +19,7 @@
 
 ```
 
-[Verse 1]
+ESTROFA 1
           Am
 Ooh I'm a mess right now
        G
@@ -47,7 +60,7 @@ But for tonight I wanna fall in love
              Dm          F
 And put your faith in my-y stomach
 
-[Verse 2]
+ESTROFA 2
          Am
 I messed up this time
           G
@@ -90,7 +103,7 @@ But for tonight I wanna fall in love
              Dm          F
 And put your faith in my-y stomach
 
-[Outro]
+OUTRO
     Am  C   G         F   C  G Am
 And for how long I lo-ove my lover
 Am  C   G         F   C  G Am      Am   Am

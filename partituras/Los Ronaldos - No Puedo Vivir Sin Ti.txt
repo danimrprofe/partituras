@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Los Ronaldos
+CANCION: NO PUEDO VIVIR SIN TI
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 LOS RONALDOS - NO PUEDO VIVIR SIN TI
 Los Ronaldos
 
@@ -51,4 +64,5 @@ Me dejaré llevar a ningún lugar.
 No puedo vivir sin ti, No hay manera, 
            F                  E7   G7add13 C
 No puedo estar sin ti, No hay manera.
+
 

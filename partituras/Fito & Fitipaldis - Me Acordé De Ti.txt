@@ -1,7 +1,20 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: ME ACORDÉ DE TI
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 ME ACORDÉ DE TI
 
-INTRO 
+INTRO
 Bm
 
 ESTROFA
@@ -33,7 +46,7 @@ Todo cambia y sigue igual.
        A                                  Bm
 Y la vida te dará los besos que tú puedes dar.
 
-Solo
+SOLO
 
 G A Bm  X2 
 D A Bm
@@ -60,4 +73,5 @@ Nunca se para de crecer, nunca se deja de morir.
 
 FINAL
 D A Bm X2     Bm
+
 

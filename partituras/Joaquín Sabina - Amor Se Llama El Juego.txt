@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: AMOR SE LLAMA EL JUEGO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 AMOR SE LLAMA EL JUEGO
 
@@ -69,4 +82,5 @@ Em          D	               C    Am              Em
 y cada vez peor y cada vez más rotos y cada vez más tu
                G                    D
 y cada vez más yo, sin rastro de nosotros. [x3]
+
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: MEDICINA2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Medicina
 
 <<<<<<< HEAD
@@ -8,7 +21,7 @@
 
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 ```
-[Verse 1]
+ESTROFA 1
 D          F#m
 Quería contarte
           Bm                 F#m
@@ -19,7 +32,7 @@ A                 D
 y tu ibas a callártelo
 
 
-[Verse 2]
+ESTROFA 2
 D           F#m
 quería avanzarte
 Bm              F#m
@@ -31,9 +44,9 @@ y voy a recordártelo
 
 
 <<<<<<< HEAD
-[Chorus]
+ESTRIBILLO
 =======
-**Estribillo**
+ESTRIBILLO
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G               D
 y hoy , hoy vas a despertar
@@ -51,7 +64,7 @@ tu medicina
 D
 
 
-[Verse 3]
+ESTROFA 3
 D          F#m
 quería aclararte
          Bm                F#m
@@ -63,9 +76,9 @@ y te venia grande
 
 
 <<<<<<< HEAD
-[Chorus]
+ESTRIBILLO
 =======
-**Estribillo**
+ESTRIBILLO
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G                 D
 y hoy , hoy vas a despertar
@@ -90,7 +103,7 @@ A   G   D
 tu medicina
 
 
-[Verse 4]
+ESTROFA 4
 D          F#m
 quería aclararte
          Bm                F#m
@@ -102,9 +115,9 @@ y te venia grande
 
 
 <<<<<<< HEAD
-[Chorus]
+ESTRIBILLO
 =======
-**Estribillo**
+ESTRIBILLO
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G                 D
 y hoy , hoy vas a despertar
@@ -132,3 +145,4 @@ tu medicina
 =======
 ```
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
+

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Revolver
+CANCION: TU NOCHE Y LA MÍA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 REVOLVER 
 TU NOCHE Y LA MÍA
 SIN CAPO
@@ -86,5 +99,6 @@ Que no olvidaré
 Tu noche y la mía
  
 E B A
+
 
 

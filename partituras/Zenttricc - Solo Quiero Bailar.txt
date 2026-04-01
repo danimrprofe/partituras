@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Zenttricc
+CANCION: SOLO QUIERO BAILAR
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ZENTTRICC 
 
 SOLO QUIERO BAILAR
@@ -60,5 +73,6 @@ Si no vas a venir
 Si no vas a venir ah-ah ah-ah
 Gm                             F                                A#
 Quiero bailar, quiero bailar, quiero olvidar toda esta situación
+
 
 

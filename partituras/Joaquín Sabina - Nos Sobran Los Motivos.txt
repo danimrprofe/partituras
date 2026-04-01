@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: NOS SOBRAN LOS MOTIVOS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 NOS SOBRAN LOS MOTIVOS
 
@@ -98,6 +111,7 @@ F                                   E
 de saber que estos son los últimos versos que te escribo,
 Dm					          E7
 para decir 'condios' a los dos nos sobran los motivos. 
+
 
 
 

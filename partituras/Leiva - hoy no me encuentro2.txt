@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: HOY NO ME ENCUENTRO2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Hoy no me encuentro
 
 **Información**
@@ -6,11 +19,11 @@
 | --------- | ----- | ------ | ---- |
 | Si Menor  | X bpm | 4/4    | No   |
 
-**Intro**
+INTRO
 ```
 G Bm F#m Em x2
 ```
-**Estrofa**
+ESTROFA
 ```
 Bm    G           D            F#7
  Amanecí con un millón de dudas,
@@ -37,14 +50,14 @@ D                 Bm     F#m             Gm     A
     F#m    F#7
  hoy noooooo.
 ```
-**Solo**
+SOLO
 ```
 G Bm F#m Em x2
 ```
 
 
 
-**Estrofa**
+ESTROFA
 ```
 Bm    G             D       F#7
  Aparecí dormido en la basura,
@@ -70,8 +83,9 @@ Bm | G | Gm | A
 ```
 **REPITE Estribillo**
 
-## Final
+FINAL
 ```
 G Bm F#m Em x2
 Bm
 ```
+

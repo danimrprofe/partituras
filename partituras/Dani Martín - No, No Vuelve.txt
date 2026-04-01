@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Dani Martín
+CANCION: NO, NO VUELVE
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 DANI MARTÍN 
 NO, NO VUELVE 
 
@@ -85,5 +98,6 @@ Em   C6b5/E   G6/D   B11no5   B7
 
 Em         C6b5/E                 G6/D    B11no5   B7      C
 No vuelve, no. No vuelve, no. No vuelve, no
+
 
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Death Cab for Cutie
+CANCION: I WILL FOLLOW YOU INTO THE DARK
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 5
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 DEATH CAB FOR CUTIE 
 I WILL FOLLOW YOU INTO THE DARK
 Capo 5th fret
@@ -74,4 +87,5 @@ If there's no one beside you when your soul embarks
 Then I'll follow you  into the dark
 C Csus2/B Am     F              Fm             C
             Then I'll follow you  into the dark
+
 

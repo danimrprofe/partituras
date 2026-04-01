@@ -10,10 +10,10 @@ TONALIDAD: —
 
 Capo 3
 
-**Intro**
+INTRO
 D A Bm A G A# D
 
-**Estrofa**
+ESTROFA
         D   A   Bm       A         G     A#       D
 Yo también     quería vivir para siempre;    no morir.
         D   F#m7   Bm         A             G      A#    D
@@ -21,7 +21,7 @@ Vi tu piel      de mármol; la noche en tus labios,  sonreir.
 D              E7  C#7   F#m         A              B7
 Odiaba que llegara,  la luz de la mañana a nuestro amor...
 
-**Estribillo**
+ESTRIBILLO
 A   D                     A   D
    Malditos buenos días, sol.
                      A   D
@@ -30,7 +30,7 @@ Todo lo joven muere hoy.
 Neón purpura y alcoooo  oohol.
 
 
-**Estrofa**
+ESTROFA
      D   A   Bm        A                  G    A#
 Caminé       contigo igual que un zombie eterno;
        D
@@ -45,7 +45,7 @@ D                    E7  C#7
     F#m                     B7
 el frío espejo nos lo recordó.
 
-**Estribillo**
+ESTRIBILLO
 A   D                         A   D
        Malditos buenos días, sol.
                      A   D
@@ -53,9 +53,10 @@ Todo lo joven muere hoy.
                     Bm      G
 Neón purpura y alcohoooo oo ool.
 
-[Solo]
+SOLO
 D A Bm A G A# D
 D A Bm A G A# D
 
-[Final]
+FINAL
 D A D A
+

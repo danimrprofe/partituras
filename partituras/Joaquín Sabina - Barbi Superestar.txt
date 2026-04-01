@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: BARBI SUPERESTAR
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 BARBI SUPERESTAR          
  G-F-C
@@ -76,5 +89,6 @@ Con sus veinte minutos de fama retiró a su mamá,
 el guion le exigía, cada vez, más escenas de cama,
 Bb                          F                G-F-C
 todavía, por Vallecas, la llaman: Barbi Superestar.
+
 
 

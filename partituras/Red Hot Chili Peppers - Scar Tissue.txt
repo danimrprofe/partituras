@@ -1,10 +1,23 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Red Hot Chili Peppers
+CANCION: SCAR TISSUE
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 Afinación:
 E A D G B E
 Tonalidad:
 F
 Cejilla:
 sin cejilla
-[Intro]
+INTRO
    F                          C      Dm                  C
 e|-------------------------------|----------------------------|
 B|-------10----10---10----10--5--|-5/6---6----6---6----6\5----|
@@ -21,7 +34,7 @@ D|--------------------------------|---------------------------|
 A|-8---------8----8----8----8-----|-3/5-----------------------|
 E|--------------------------------|---------------------------|
  
-[Verse 1]
+ESTROFA 1
 F
  Scar tissue that I wish you saw
 Dm
@@ -31,7 +44,7 @@ F
      Dm
  With the birds I’ll share
  
-[Chorus]
+ESTRIBILLO
 F
  With the birds I’ll share
      Dm
@@ -41,7 +54,7 @@ F
      Dm
  This lonely view
  
-[Verse 2]
+ESTROFA 2
 F
  Push me up against the wall
 Dm
@@ -51,7 +64,7 @@ F
    Dm
  To lick your heart and taste your health ’cause
  
-[Chorus]
+ESTRIBILLO
 F
  With the birds I’ll share
      Dm
@@ -65,10 +78,10 @@ F
      Dm
  This lonely view
  
-[Instrumental]
+INSTRUMENTAL
 | Dm | % | C | Dm |
  
-[Verse 3]
+ESTROFA 3
 F
  Blood loss in a bathroom stall
 Dm
@@ -78,7 +91,7 @@ F
      Dm
  With the birds I’ll share
  
-[Chorus]
+ESTRIBILLO
 F
  With the birds I’ll share
      Dm
@@ -88,7 +101,7 @@ F
      Dm
  This lonely view
  
-[Verse 4]
+ESTROFA 4
 F
  Soft spoken with a broken jaw
 Dm
@@ -98,7 +111,7 @@ F
      Dm
  I’ll make it to the moon if I have to crawl and
  
-[Chorus]
+ESTRIBILLO
 F
  With the birds I’ll share
      Dm
@@ -112,11 +125,11 @@ F
      Dm
  This lonely view
  
-[Instrumental]
+INSTRUMENTAL
 | Dm | % | C | Dm |
 | Dm | % | C | Dm |
  
-[Verse 5]
+ESTROFA 5
 F
  Scar tissue that I wish you saw
 Dm
@@ -126,7 +139,7 @@ Dm
      Dm
  With the birds I’ll share
  
-[Chorus]
+ESTRIBILLO
 F
  With the birds I’ll share
      Dm
@@ -140,10 +153,10 @@ F
      Dm
  This lonely view
  
-[Instrumental]
+INSTRUMENTAL
 | Dm | % | C | Dm | x4
  
-[Coda]
+CODA
 | Dm |
  
  

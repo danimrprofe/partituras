@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: La Moda
 CANCIÓN: Héroes del sabado
@@ -29,7 +29,7 @@ D|5---5-5--5-5---|
 A|---------------| 
 E|---------------| 
 
-[Intro]
+INTRO
 Em                F# G
 Van por allí, los héroes del sábado,
 Em                   F# G
@@ -41,7 +41,7 @@ Van a intentarlo una vez
 C
 Ya están ahí, los héroes del sábado
  
- [Verso]
+ESTROFA
 Em              D G
 Hoy me voy a levantar,
                    Em
@@ -53,7 +53,7 @@ si pudieras escalar la colina y observar
                  Em             F# G
 con perspectiva, para ganar claridad
  
- [Pre-Estribillo]
+PRE-ESTRIBILLO
     Em                D        G
 Imposible ser neutral sobre un tren en movimiento
       Em                    D       G
@@ -61,13 +61,13 @@ Estas calles son distintas, de aquí no se va el invierno
 C
 Van por allí, los héroes del sábado
  
- [Estribillo]
+ESTRIBILLO
  D                           Em              G
 ¿Dónde están los que pueden parar el mundo solo con mirar?
 D                            Em           G
 El niño crecerá, y entenderá lo que su padre ignora
  
- [Verso]
+ESTROFA
 Em                F#  G                Em
 Llevaos la paloma blanca y traed ovejas negras
              D        G
@@ -78,7 +78,7 @@ Somos mirlos en los ojos de otros mirlos que se van
 Corazón no se alimenta de las ventas
  
  
- [Pre-Estribillo]
+PRE-ESTRIBILLO
     Em                D        G
 Imposible ser neutral sobre un tren en movimiento
       Em                    D       G
@@ -86,7 +86,7 @@ Estas calles son distintas, de aquí no se va el invierno
 C
 Van por allí, los héroes del sábado
  
- [Estribillo]
+ESTRIBILLO
  D                           Em              G
 ¿Dónde están los que pueden parar el mundo solo con mirar?
 D                            Em           G
@@ -96,7 +96,7 @@ El niño crecerá, y entenderá lo que su padre ignora
 D                         Em  G
 El niño crecerá, y entenderá
  
- [Puente]
+PUENTE
 Em         C    G
 No te olvides de donde vienes (x4)
  
@@ -105,7 +105,7 @@ En las noches más oscuras, en las carreteras crudas,
        Em     C      G          Em        C   G
 en los golpes de la vida, no te olvidas, no te olvidas
  
- [Estribillo]
+ESTRIBILLO
  D                           Em              G
 ¿Dónde están los que pueden parar el mundo solo con mirar?
 D                            Em           G

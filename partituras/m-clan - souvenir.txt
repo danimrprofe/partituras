@@ -8,14 +8,14 @@ AFINACIÓN: Estándar (E A D G B E)
 TONALIDAD: —
 ================================================================================
 
-**Intro**
+INTRO
 
 | D  C  | Bm Am |
 | D  C  | D  Am |
 | G     | G
 
 
-[Verse 1]
+ESTROFA 1
 
                  G
 Me gustaría regresar a mi planeta,
@@ -33,7 +33,7 @@ G  D                  G
    Uh, lugares que conocí.
 
 
-**Estribillo**
+ESTRIBILLO
 
 Am
 Madrid, Bilbao, Sevilla, Ibiza,
@@ -53,7 +53,7 @@ cuando me acuerde de estos nombres,
 estaré imaginando oír tu voz.
 
 
-[Verse 2]
+ESTROFA 2
 
                  G
 Mañana voy a regresar a mi planeta
@@ -71,7 +71,7 @@ G    D                     G
 Uh, se me ha pegado de ti.
 
 
-**Estribillo**
+ESTRIBILLO
 
 Am
 Madrid, Bilbao, Sevilla, Ibiza,
@@ -91,13 +91,13 @@ cuando me acuerde de estos nombres,
 estaré imaginando oír tu voz.
 
 
-[Solo]
+SOLO
 
 | C  A  | G  D  |
 | Am C  | G  D  |
 
 
-**Estribillo**
+ESTRIBILLO
 
 Am
 Madrid, Bilbao, Sevilla, Ibiza,
@@ -127,7 +127,7 @@ D    Am      G
     Oir tu voz
 
 
-[Outro]
+OUTRO
 
 G
 uoh oh ooh
@@ -137,3 +137,4 @@ G
 uoh oh ooh
 G
 uoh oh ooh
+

@@ -1,9 +1,22 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: grupo
+CANCION: 01-CANCION-02
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Grupo 01 - Canción 02
 
-[Intro]
+INTRO
 G  C  G  D
 
-[Verse 1]
+ESTROFA 1
 G                     C
 Aquí empieza la canción
 G                     D
@@ -13,7 +26,7 @@ Las letras van fluyendo
 G                     D
 Y el ritmo va creciendo
 
-[Chorus]
+ESTRIBILLO
 C                     G
 Canta fuerte, siente el sol
 D                     G
@@ -23,7 +36,7 @@ Baila al compás de esta melodía
 D                     G
 Que en el corazón, siempre brilla
 
-[Verse 2]
+ESTROFA 2
 G                     C
 Recuerdos de un buen momento
 G                     D
@@ -33,7 +46,7 @@ Las notas nos llevan lejos
 G                     D
 A un mundo lleno de sueños
 
-[Chorus]
+ESTRIBILLO
 C                     G
 Canta fuerte, siente el sol
 D                     G
@@ -43,6 +56,6 @@ Baila al compás de esta melodía
 D                     G
 Que en el corazón, siempre brilla
 
-[Outro]
+OUTRO
 G  C  G  D
 G  C  G  D

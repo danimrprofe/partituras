@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: CALLE MELANCOLÍA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 CALLE MELANCOLÍA
 Joaquín sabina
@@ -40,7 +53,7 @@ pero siempre que lo intento ha salido ya el tranvía.
 A                   Bm       G      A      D
 En la escalera me siento a silbar mi melodía
 
-Instrumental
+INSTRUMENTAL
 
 C D C-G-D C-G-D C-G-D
 
@@ -82,5 +95,6 @@ Quiero mudarme hace años al barrio de la alegría
 pero siempre que lo intento ha salido ya el tranvía. 
 A                   Bm       G      A      D
 En la escalera me siento a silbar mi melodía
+
 
 

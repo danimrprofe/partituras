@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: PÁJAROS DE PORTUGAL
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ================================================================================
 ARTISTA: JOAQUÍN SABINA
 CANCIÓN: PÁJAROS DE PORTUGAL
@@ -53,4 +66,5 @@ E                      A E                       A
 Bucearon contra el Everest y se ahogaron nadie les enseño a merecer el amparo
 G#m              A G#m          A          E      B      E
 de la virgen de la soledad Que pequeña es la luz de los faros! de quien sueña con la libertad...
+
 

@@ -12,7 +12,7 @@ TONALIDAD: —
 | --------- | --------- | ------ | ---- |
 | Sol Mayor | Estándar  | 4/4    | 4    |
 
-**Intro**
+INTRO
 Em C
 Em C
 
@@ -21,7 +21,7 @@ Em C G D
 Em C G D
 Bb F G
 
-**Estrofa**
+ESTROFA
 C             G
 La dulce niña Carolina,
 D                   Am
@@ -39,13 +39,13 @@ Después se mete en mi cama,
      D
 eso es mucho para mi.
 
-[Pre-chorus]
+PRE-ESTRIBILLO
 Am        D        Am      D
 Esa va a ser mi ruina, pequeña Carolina,
 C    G      D
 vete por favor.
 
-**Estribillo**
+ESTRIBILLO
 Em    C   G       D       Em        C
 Carolina tratame bien, no te rias de mi,
     G           D
@@ -55,13 +55,13 @@ Carolina tratame bien,
     Bb         F         G
 o al final te tendré que comer
 
-[Solo]
+SOLO
 Em C G D
 Em C G D
 Em C G D
 Bb F G
 
-**Estrofa**
+ESTROFA
 C               G
 No queda en la ciudad esquina,
   D                   Am
@@ -79,13 +79,13 @@ Vinagre para las heridas,
   D
 dulce azúcar al final.
 
-[Pre-chorus]
+PRE-ESTRIBILLO
 Am        D        Am      D
 Esa va a ser mi ruina, pequeña Carolina,
 C    G      D
 vete por favor.
 
-**Estribillo**
+ESTRIBILLO
 Em    C   G       D       Em        C
 Carolina tratame bien, no te rias de mi,
     G           D
@@ -95,19 +95,19 @@ Carolina tratame bien,
     Bb         F         G
 o al final te tendré que comer
 
-[Solo]
+SOLO
 C G D Am
 C G D
 C G D Am
 C G D
 
-[Pre-chorus]
+PRE-ESTRIBILLO
 Am          D            Am         D
 El diablo está en mi vida, pequeña Carolina,
 C    G      D
 vete por favor.
 
-**Estribillo**
+ESTRIBILLO
 Em    C   G       D       Em        C
 Carolina tratame bien, no te rias de mi,
     G           D
@@ -126,10 +126,11 @@ Carolina tratame bien,
     Bb         F         G
 o al final te tendré que comer
 
-[Outro]
+OUTRO
 Em C G D
 Em C G D
 Em C G D
 Bb F G
 Bb F G
 Bb F G
+

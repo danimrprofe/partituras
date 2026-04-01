@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Manolo Garcia
 CANCIÓN: CARBÓN Y RAMAS SECAS
@@ -22,7 +22,7 @@ Redimirte quiero
 F#m      D    E
 mas sin sobresaltos.
  
-[ESTROFA]
+ESTROFA
 
 A            E                  Bm
 Sobre los tejados se escapa la tarde.
@@ -33,7 +33,7 @@ En el dulce licor que me hiere salvaje,
 Bm          D                       E
 En los garabatos que hago en el mantel.
 
-[PRE-ESTRIBILLO]
+PRE-ESTRIBILLO
  
         Bm            E
 Y esperaré. Y si no vuelves
@@ -44,7 +44,7 @@ Y esperaré, por si te pierdes
            Bm                  E
 Saldrá la luna, fanalico encendido.
  
-[ESTRIBILLO]
+ESTRIBILLO
  
 A          Bm
 Te regalo mi capa,
@@ -63,12 +63,12 @@ Yo te haré un vestido
                E
 De un rojo amapola.
  
-[INTERLUDIO]
+INTERLUDIO
  
 Bm  E
 Bm  E
  
-[ESTROFA]
+ESTROFA
 A            E               Bm
 Nana del marinero, nudo de antojos
      Bm          D             E
@@ -78,7 +78,7 @@ Si ahora pudiese estar mirando tus ojos
 Bm                 D                   E
 iba a estar escribiendo aquí esta canción.
  
-[PRE-ESTRIBILLO]
+PRE-ESTRIBILLO
  
         Bm            E
 Y esperaré. Y si no vuelves
@@ -89,7 +89,7 @@ Y dormiré entre libros prohibidos.
                  Bm                               E
 Al olvido de un tiempo que añoro. El que viví contigo.
  
-[ESTRIBILLO]
+ESTRIBILLO
  
 A           Bm    D          E
 Mi caballo negro yo te lo regalo.
@@ -105,7 +105,7 @@ D           E
 Que me desenredo.
  
  
-[PUENTE]
+PUENTE
  
 F#m  D        E
 Sírvete entretanto
@@ -117,7 +117,7 @@ F#m      D    E
 mas sin sobresaltos.
  
  
-[FINAL]
+FINAL
  
  D         E
 Tuyo es el triunfo 

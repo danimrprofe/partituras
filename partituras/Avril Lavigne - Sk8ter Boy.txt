@@ -1,4 +1,17 @@
-[Intro]
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Avril Lavigne
+CANCION: SK8TER BOY
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+INTRO
 D5 A5 B5 Bb5 A5
 D5 A5 B5 Bb5 A5
 
@@ -30,7 +43,7 @@ F5 He was a sk8er boi, C5 she said see ya later boy, Bb5 he wasn't good enough f
 F5 Now he's a superstar, C5 slammin' on his guitar, Bb5 does your pretty face see what he's A5 worth
 Bb5
 
-[Bridge]
+PUENTE
 F5 C5 Bb5 Db5
 F5 C5 Bb5 Db5 A5
 
@@ -52,5 +65,6 @@ F5 I'm with the sk8er boi, C5 I said see ya later boy, Bb5 I'll be backstage aft
 F5 I'll be at the studio, C5 singing the song we wrote, Bb5 about a girl you used to A5 know
 F5 I'm with the sk8er boi, C5 I said see ya later boy, Bb5 I'll be backstage after the A5 show
 F5 I'll be at the studio, C5 singing the song we wrote, Bb5 about a girl you used to C5 know
+
 
 

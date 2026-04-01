@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: SOLDADITO MARINERO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla (Para mi un tono más bajo)
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ================================================================================
 ARTISTA: FITO & FITIPALDIS
 CANCIÓN: SOLDADITO MARINERO 
@@ -34,7 +47,7 @@ Escogiste a la más guapa y a la menos buena.
 D                         A                   D
 Sin saber cómo ha venido te ha cogido la tormenta
 
-Instrumental
+INSTRUMENTAL
 
 G | D | D | A D |
 
@@ -60,7 +73,7 @@ Escogiste a la más guapa y a la menos buena.
 D                         A                   D
 Sin saber cómo ha venido te ha cogido la tormenta
 
-Instrumental
+INSTRUMENTAL
 
 G D A B  
 G D D A  D
@@ -72,4 +85,5 @@ Después de un invierno malo, Una mala primavera
 Dime porque estás buscando Una lágrima en la arena.
                         D
 Después de un invierno malo
+
 

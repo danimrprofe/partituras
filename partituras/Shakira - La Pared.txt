@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: La pared
@@ -11,7 +11,7 @@ LEYENDA / NOTAS ADICIONALES:
 (Acordes e información adicional)
 ================================================================================
 Cejilla: Sin cejilla
-[ESTROFA]
+ESTROFA
 Am           G       Am         G
 Eres como una predicción de las buenas
 Am           G       Am         G
@@ -21,7 +21,7 @@ Y el deseo gira en espiral
            Em              F                G
 porque mi amor por ti es total y es para siempre
  
-[ESTRIBILLO]
+ESTRIBILLO
 Am         C        Bm7           E
 Después de ti, la pared no me faltes nunca
   Am         Am/G          D
@@ -33,7 +33,7 @@ debajo, el asfalto y más abajo estaría yo sin tí
 
 Am G Am G
  
-[ESTROFA]
+ESTROFA
 Am           G       Am         G
 Eres la enfermedad y el enfermero
 Am           G       Am         G
@@ -43,7 +43,7 @@ Sabes que sin tí ya yo no soy
            Em              F                G
 sabes que a donde vayas voy... naturalmente
  
-[ESTRIBILLO]
+ESTRIBILLO
 Am         C        Bm7           E
 Después de ti, la pared no me faltes nunca
   Am         Am/G          D
@@ -53,10 +53,10 @@ Después de tí, la pared no me faltes nunca
   Am         Am/G          D
 debajo, el asfalto y más abajo estaría yo sin tí
  
-[PUENTE]
+PUENTE
 Am C D x4
  
-[ESTRIBILLO]
+ESTRIBILLO
 Am         C        Bm7           E
 Después de ti, la pared no me faltes nunca
   Am         Am/G          D
@@ -66,6 +66,6 @@ Después de tí, la pared no me faltes nunca
   Am         Am/G          D
 debajo, el asfalto y más abajo estaría yo sin tí
  
-[FINAL]
+FINAL
 Am G Am G
 C

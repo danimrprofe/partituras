@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Estopa
+CANCION: A NINGUNA PARTE
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ESTOPA 
 A NINGUNA PARTE
 Bm en 7º traste, A en 5º, F#m7
@@ -93,5 +106,6 @@ A                     Bm  F#m
 lleveme a ninguna parte 
 Em              A
 A ninguna parte. 
+
 
 

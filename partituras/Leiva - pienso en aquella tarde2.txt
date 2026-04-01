@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: PIENSO EN AQUELLA TARDE2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Pienso en aquella tarde
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -5,7 +18,7 @@
 |           | Estándar  | 4/4    | 2    |
 
 ```
-**Intro**
+INTRO
 e|----------3---------------------|
 B|----3-5-3-----------------------|
 C|-/4----------0--2/4\2--0------0-|
@@ -13,7 +26,7 @@ G|-------------------------0h2----|
 A|--------------------------------|
 E|--------------------------------|
 
-[Estrofa]
+ESTROFA
 C               Fmaj7                    Am7
 Yo que soy un animal, que no entiendo de nada
             G   Fmaj7  C
@@ -32,7 +45,7 @@ Cuelgo de un hilo, rebaño las sobras
                G         G
 que aún quedan de tu cariño.
 
-[Estrofa]
+ESTROFA
 Em                    Am7
 Yo, que me quiero aliviar
                  Fmaj7            C  C/B  Am7
@@ -43,13 +56,13 @@ Cumplo condena por ese mal día
           G               G
 haberte dejao marchar...
 
-[Estribillo]
+ESTRIBILLO
 C                    Fmaj7       Am7               G
 Yo pienso en aquella tarde cuando me arrepentí de todo.
 C               Fmaj7             Am7                 G
 Garía, todo lo daría por estar contigo y no sentirme solo...
 
-[Estrofa]
+ESTROFA
    C                  Fmaj7
 A ti, que te supo tan mal
                 Am7             G  Fmaj7  C
@@ -70,7 +83,7 @@ Todo se acaba, dijiste mirándome,
              G         Fmaj7   G
 que ya no estábamos juntos...
 
-[Estribillo]
+ESTRIBILLO
 C                    Fmaj7       Am7               G
 Yo pienso en aquella tarde cuando me arrepentí de todo.
 C               Fmaj7             Am7                 G
@@ -82,7 +95,7 @@ Yo pienso en aquella tarde cuando me arrepentí de todo.
 C               Fmaj7             Am7                 G
 Daría, todo lo daría por estar contigo y no sentirme solo...
 
-[Estribillo]
+ESTRIBILLO
 C                    Fmaj7       Am7               G
 Yo pienso en aquella tarde cuando me arrepentí de todo.
 C                    Fmaj7       Am7               G   C

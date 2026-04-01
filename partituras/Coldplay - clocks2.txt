@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Coldplay
+CANCION: CLOCKS2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Clocks
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -5,10 +18,10 @@
 |           | Estándar  | 4/4    | 1    |
 
 ```
-**Intro**
+INTRO
 D  Am  Am  Em  x4
 
-[Verse 1]
+ESTROFA 1
 D                   Am                                    Em
 Lights go out and I can't be saved, tides that I tried to swim against
 D                Am                        Em
@@ -26,7 +39,7 @@ D      Am      Am      Em      D      Am      Am      Em
 (w/Piano Riff)
 D  Am  Am  Em/G  x2
 
-[Verse 2]
+ESTROFA 2
 D         Am                             Em
 Confusion never stops, closing walls and ticking clocks - gonna
 D               Am                                   Em
@@ -50,7 +63,7 @@ D  Am  Am  Em  x2
 D      Am      Am      Em      D      Am      Am      Em
      You              are           You              are
 
-[Bridge]
+PUENTE
 Fmaj7                  C     G
       And nothing else compares
 Fmaj7                  C     G
@@ -69,7 +82,7 @@ D  Am  Am  Em  x2
 D      Am      Am      Em      D      Am      Am      Em
      You              are           You              are
 
-[Outro]
+OUTRO
 (w/High Piano Riff)
 D      Am                     Em/G
 Home, home, where I wanted to go

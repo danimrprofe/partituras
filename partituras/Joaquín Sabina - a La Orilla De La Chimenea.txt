@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: A LA ORILLA DE LA CHIMENEA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 A LA ORILLA DE LA CHIMENEA
 
@@ -58,5 +71,6 @@ tu miedo y tu fe tu noche y tu día
 tu rencor, tu porqué, y tu agonía.
 G       F      C	       G      F        C
 O tal vez esa sombra. O tal vez ese viento
+
 
 

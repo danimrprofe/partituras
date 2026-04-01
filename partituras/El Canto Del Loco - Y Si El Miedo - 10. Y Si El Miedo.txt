@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: Y SI EL MIEDO - 10. Y SI EL MIEDO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 Artista:	El Canto del loco
 Disco:		El canto del loco
 Canción:	10. Y si el miedo
@@ -99,3 +112,4 @@ yo doy la espalda y le digo no quiero jugar
 no quiero jugar  no quiero jugar 
               Dm     
 ya no quiero jugar 
+

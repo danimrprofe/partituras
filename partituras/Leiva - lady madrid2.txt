@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: LADY MADRID2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 #  Lady Madrid
 
 En el disco original sin capo (Do mayor)
@@ -12,7 +25,7 @@ En el disco original sin capo (Do mayor)
 | Do  Mayor (aviones)         | bpm   | 4/4    |      |
 | Do # Mayor (Madrid Nuclear) | bpm   | 4/4    | 1    |
 
-**Intro**
+INTRO
 ```
 C                 G                Am               F
 La estrella de los tejados, lo mas rock&roll de por aquí
@@ -26,7 +39,7 @@ Hasta siempre amiguitos, nunca se nos olvidará esta noche Chao!
 ```
 C F C F C G
 ```
-**Estrofa**
+ESTROFA
 ```
 C             G         F               C
 Más bonita que ninguna, ponía a la peña de pie,
@@ -38,7 +51,7 @@ G                Am         F                    G
 de Málaga hasta La Coruña, durmiendo en la estación de tren.
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 C                    G              Am                F
@@ -46,7 +59,7 @@ La estrella de los tejados, lo mas rock&roll de por aquí
 C                      G       F      C
 los gatos andábamos colgados, Lady Madrid...
 ```
-**Estrofa**
+ESTROFA
 ```
 C               G            F               C
 Más viciosa que ninguna, pero tan difícil de coger,
@@ -58,7 +71,7 @@ G                Am        F           G  G7
 algunos todavía dudan, si vas a volver..
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 C                    G              Am                F
@@ -70,13 +83,13 @@ Pitillos ajustados, era The Burning, Ronaldos y Lou Reed,
   C                    G
 y nunca hablaron los diarios de Lady Madrid..
 ```
-**Solo**
+SOLO
 ```
 Dm G Dm G G7 G7sus4 G7
 G
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 C                    G              Am                F
@@ -88,7 +101,7 @@ Pitillos ajustados, era The Burning, Ronaldos y Lou Reed,
 C                     G                 C       F
 y nunca hablaron los diarios de Lady Madriiiiiiiiiid...
 ```
-## Final
+FINAL
 ```
 C    F      C     F      C
 Lady Madrid, Lady Madrid...

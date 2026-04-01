@@ -1,11 +1,24 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: La Fuga
+CANCION: BUSCANDO EN LA BASURA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 Afinación:
 E A D G B E
 Cejilla:
 sin cejilla
-[Intro]
+INTRO
 D   D   Bm   A   x2
  
-[Verse 1]
+ESTROFA 1
 Dsus2                            Asus2
 Triste, como un perro en la autopista
                        Bsus2
@@ -22,7 +35,7 @@ unos labios de mujer...
 G                     A
   Hoy me he vuelto a ver.....
  
-[Verse 2]
+ESTROFA 2
 D                                  A
 Absurdo, como el domingo por la tarde
                        Bm
@@ -36,10 +49,10 @@ como un cuerpo que se viste
                   F#m
 cuando me desnudo yo
  
-[Interlude]
+INTERLUDIO
 D   D   Bm   A
  
-[Chorus]
+ESTRIBILLO
            G
 Y ahora que..
                       A
@@ -57,11 +70,11 @@ unos labios que me digan
                G
 esta noche quedate
  
-[Solo]
+SOLO
 D   A   Bm   F#m   x2
 G   A
  
-[Bridge]
+PUENTE
 Bm
 Como un borracho en el desierto
                          G      A
@@ -75,7 +88,7 @@ como un delfín en el mar muerto
          F#m                     A
 como la lágrima que moja tu colchón
  
-[Verse 3]
+ESTROFA 3
   D                         A
 Vacío, como el corazón del rico
                           Bm
@@ -89,7 +102,7 @@ como las frases que
    Bm                                  F#m
 ya no te escribo pa' que vuelvas otra vez
  
-[Chorus]
+ESTRIBILLO
            G
 Y ahora que..
                       A

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: TARDE O TEMPRANO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 TARDE O TEMPRANO
 
@@ -37,7 +50,7 @@ No quieras querer no te confundas, no, no.
 No puedes comprar con tu dinero su amor.
 
 REPITE ESTRIBILLO
-Instrumental
+INSTRUMENTAL
 C  F Am  C  F
 C  G  Am  F  G
 
@@ -46,4 +59,5 @@ REPITE ESTRIBILLO X2
 FINAL
 F                  C
 Ohhh, oh oh oh oh oooh        [repite]
+
 

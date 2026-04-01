@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: REBAJAS DE ENERO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 REBAJAS DE ENERO
 
@@ -33,7 +46,7 @@ Apenas llego, se instaló para siempre en mi vida.
 C            G     F                  G  
 No hay nada mejor que encontrar un amor a medida.
 
-Interludio
+INTERLUDIO
 
 Am  G  Dm  Dm
 Am  G  F   F
@@ -78,4 +91,5 @@ No hay nada mejor que encontrar un amor a medida.
 
 FINAL
 C   G   F   G   C
+
 

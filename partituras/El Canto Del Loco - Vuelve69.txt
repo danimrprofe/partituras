@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: VUELVE69
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 **************************************************
 *                                                *
 *            El Canto del Loco                  *
@@ -23,13 +36,13 @@ D | - | G | -
 E | - | A | -
 F | - | G | -
 
-[Estribillo]
+ESTRIBILLO
 C  | G  | F | G
 C  | G  | F | G
 A  | G  | F | D
 G  | -  | F | G 
 
-[Estrofa]
+ESTROFA
 C | - | G  | -
 A | - | F  | -
 C | - | G  | -
@@ -39,7 +52,7 @@ D | - | G | -
 E | - | A | -
 F | - | G | -
 
-[Estribillo]
+ESTRIBILLO
 C  | G  | F  | G
 C  | G  | F  | G
 A | G | F|  D
@@ -52,10 +65,11 @@ D | - | G | -
 E | - | A | -
 F | - | G | -
 
-[Estribillo]
+ESTRIBILLO
 C | G | F | G
 C | G | F | G
 A | G | F | D
 G | - | F | G 
 
 C
+

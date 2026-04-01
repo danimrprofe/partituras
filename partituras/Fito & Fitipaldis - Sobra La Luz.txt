@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: SOBRA LA LUZ
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 SOBRA LA LUZ
 Sin capo
@@ -32,11 +45,12 @@ Todas las cosas que al mar tiramos nos las devuelve siempre la marea
 Am               Dm                      E          Am
 Cuando más tratas de olvidarlo con más fuerza lo recuerdas
 REPITE ESTRIBILLO
-Instrumental
+INSTRUMENTAL
 Am Dm E7 Am x2
 F Am E7 - 
 REPITE HASTA FINAL
 Am                        Dm            E                  Am
 Como venganza de la buena suerte. O recompensa de la mala vida
 Am Dm E7 Am
+
 

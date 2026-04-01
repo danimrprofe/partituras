@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: QUIQUE GONZALEZ
 CANCIÓN: DE HABERLO SABIDO
@@ -125,7 +125,7 @@ Em9                          Dadd4
 
 
 
-[Estrofa]
+ESTROFA
 
   Cadd9
 ||-----------------------0--|------------------------|
@@ -164,7 +164,7 @@ Dadd4
 {eot}
 
 
-[Puente]
+PUENTE
 
  Cadd9                     B7
 |----------------0--------|----------------2------|

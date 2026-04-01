@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Of Monsters and Men
 CANCIÓN: LOVE LOVE LOVE
@@ -19,7 +19,7 @@ NOTAS ADICIONALES: Estilo Indie Folk. El Capo 7 es fundamental para lograr
 ese sonido brillante y agudo característico de la guitarra acústica en el disco.
 ================================================================================
 
-INTRO 
+INTRO
 Am          G         C
 Well maybe I'm a crook for stealing your heart away
 Am         G         C
@@ -46,10 +46,10 @@ You love, love, love when you know I can't love
 Fmaj7  G              C         G
 You love, love, love when you know I can't love, you..
  
-[INSTRUMENTAL]
+INSTRUMENTAL
 Am  G  C    x4
  
-[ESTROFA]
+ESTROFA
 Am   G              C               Am        G        C
 So I think it's best we both forget before we dwell on it
 Am          G          C
@@ -72,5 +72,5 @@ You love, love, love when you know I can't love
 Fmaj7  G              C         G
 You love, love, love when you know I can't love, you..
  
-[FINAL]
+FINAL
 Am  G

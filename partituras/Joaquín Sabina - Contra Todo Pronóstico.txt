@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: CONTRA TODO PRONÓSTICO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 CONTRA TODO PRONÓSTICO
 Capo 2
@@ -51,7 +64,7 @@ Que aquí me pillo, aquí me mato
          G       F           Em          D
 Que me llevo conmigo como el perro y el gato
 
-Instrumental
+INSTRUMENTAL
 
 F G E Am
 F C E
@@ -95,4 +108,5 @@ Contra todo pronóstico aprendí a caer de pie
 Contra todo pronóstico derrapan otra vez.
         G              F          C
 Los que dicen que soy mi peor enemigo
+
 

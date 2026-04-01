@@ -1,4 +1,17 @@
-﻿FITO & FITIPALDIS
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: QUIERO SER UNA ESTRELLA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+FITO & FITIPALDIS
 QUIERO SER UNA ESTRELLA
 Sin capo
 D                               G           D	                                                                        
@@ -50,4 +63,5 @@ Ay ahí voy, en el camino de la fama ya estoy.
 Ay ahí voy, en el camino de la fama ya estoy. 
     +     A               G                    D
 Quiero ser una estrella la más brillante de hoy
+
 

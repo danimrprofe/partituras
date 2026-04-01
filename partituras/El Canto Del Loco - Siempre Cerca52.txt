@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: SIEMPRE CERCA52
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL CANTO DEL LOCO - SIEMPRE CERCA
 EL CANTO DEL LOCO
 MEDIO TONO ABAJO
@@ -56,4 +69,5 @@ que lo único q importa, es q no estés sólo.
 Sabes, algo va a pasar, nada vuelve a ser igual
                      E                    F#
 pero lo único q importa... es que nos importas
+
 

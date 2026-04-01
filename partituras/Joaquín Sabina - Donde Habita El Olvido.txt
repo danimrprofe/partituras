@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: DONDE HABITA EL OLVIDO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 DONDE HABITA EL OLVIDO
 
@@ -46,7 +59,7 @@ Y la vida siguió, como siguen las cosas que no tienen mucho sentido,
 Am          Dm              G                                 Am
 una vez me contó, un amigo común, que la vio donde habita el olvido. 
  
-Solo
+SOLO
  
 Am7   G
  
@@ -80,4 +93,5 @@ G                   Am
 Donde habita el olvido
 G                   Am
 Donde habita el olvido
+
 

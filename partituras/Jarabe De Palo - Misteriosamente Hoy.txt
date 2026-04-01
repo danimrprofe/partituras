@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Jarabe De Palo
+CANCION: MISTERIOSAMENTE HOY
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JARABE DE PALO
 MISTERIOSAMENTE HOY
 Sin capo
@@ -41,7 +54,7 @@ Solo tiempo que perder, y el corazón tranquilo
 D             Dm                     A 
 Hoy me siento bien, deliciosamente bien 
 
-Instrumental
+INSTRUMENTAL
 
 A  C#m  C#m7  F#m  Dm
 A  C#m  C#m7  F#m  Dm
@@ -61,6 +74,7 @@ D            F          A        C#m
 Solo tiempo que perder, y el corazón tranquilo
 D             Dm                     A 
 Hoy me siento bien, deliciosamente bien 
+
 
 
 

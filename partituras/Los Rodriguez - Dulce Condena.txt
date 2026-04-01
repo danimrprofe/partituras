@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Los Rodriguez
+CANCION: DULCE CONDENA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 LOS RODRIGUEZ - DULCE CONDENA
 LOS RODRÍGUEZ
 Sin capo
@@ -150,6 +163,7 @@ C     Dm          Bb
 Entero en el corazón
  
 C Dm  Bb  C  F  Bb F
+
 
 
 

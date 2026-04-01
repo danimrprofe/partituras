@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Countin Crows
+CANCION: COLORBLIND
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: No
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ================================================================================
 ARTISTA: Counting Crows
 CANCIÓN: Colorblind
@@ -48,6 +61,7 @@ Am   A#maj7       F          C6
 I am ready. I am ready. I am ready, I am... fine
 Am  A#maj7 F Am  A#maj7 F
 I am fine.    I am fine
+
 
 
 

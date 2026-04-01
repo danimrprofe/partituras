@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: Que me quedes tú
@@ -13,7 +13,7 @@ LEYENDA / NOTAS ADICIONALES:
 Cejilla en 1er traste / Capo on 1st fret
  
 
-[Verso 1]
+ESTROFA 1
 E                      Bm
 Que se arruinen los canales de noticias
 F#m                    A
@@ -32,7 +32,7 @@ Bm            F#m          A                E
 y que se escriba hoy una ultima canción.
  
  
-[Coro]
+ESTRIBILLO
                    A
 Pero que me quedes tú
                 E
@@ -57,7 +57,7 @@ Bm  F#m  A  E  x2
 (Repeat intro tab)
  
  
-[Verso 2]
+ESTROFA 2
 E                   Bm
 Que desaparezcan todos los vecinos
 F#m                        A
@@ -76,7 +76,7 @@ Bm          F#m            A               E
 y que se muera hoy hasta el ultimo poeta.
  
  
-[Coro]
+ESTRIBILLO
                    A
 Pero que me quedes tú
                 E
@@ -95,7 +95,7 @@ Porque yo, yo sé, sí que dependo de ti
 Si me quedas tu, me queda la vi-i-da.
  
  
-[Puente]
+PUENTE
  
 Bm  F#m  A  E
 Bm  F#m  A  E
@@ -103,7 +103,7 @@ Bm  F#m  A  E
 Bm  F#m  D
  
  
-[Coro]
+ESTRIBILLO
                    A
 Pero que me quedes tú
                 E

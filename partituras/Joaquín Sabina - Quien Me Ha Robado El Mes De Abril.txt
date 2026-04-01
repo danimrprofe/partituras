@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: QUIEN ME HA ROBADO EL MES DE ABRIL
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 QUIEN ME HA ROBADO EL MES DE ABRIL
 Sin capo
@@ -49,7 +62,7 @@ G              D                C
     Bm             Am	    C                  D
 Lo guardaba en el cajón donde guardo el corazón
 
-Instrumental
+INSTRUMENTAL
 
 G  D  C  C   
 G  D  C  C
@@ -91,7 +104,7 @@ G              D                C
     Bm             Am	    C                  D
 Lo guardaba en el cajón donde guardo el corazón
 
-Instrumental
+INSTRUMENTAL
 
 G  D  C  C   
 G  D  C  C
@@ -105,4 +118,5 @@ G              D                C
 ¿Quién me ha robado el mes de Abril? 
     Bm             Am	    C                  D
 Lo guardaba en el cajón donde guardo el corazón
+
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: STRANGER THINGS SIN CAPO2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Stranger things
 
 Capo 2. Re mayor. 79 bpm
@@ -21,7 +34,7 @@ Solamente pensarlo me levanto dos palmos.
        G              A		Bm
 He empezado mi año girando y girando.
 
-Estribillo
+ESTRIBILLO
 
           G			      A			         
 Hay una fuerza extraña. Hay un rumor enfermo.
@@ -32,7 +45,7 @@ Ya sé que, a veces, lo has pensado y no me lo dirías jamás.
       G		     A            D
 Me arrancarías los sueños de las manos.
 
-Estrofa
+ESTROFA
 
       Bm	         F#m				
 En el mismo canal después de ver Stranger Things
@@ -43,7 +56,7 @@ Te has quedado aguantando con los ojos en blanco.
        G  	             A      Bm
 Nunca supe que estabas Tan atrapado
 
-Estribillo
+ESTRIBILLO
 
           G			      A			         
 Hay una fuerza extraña. Hay un rumor enfermo.
@@ -54,7 +67,7 @@ Ya sé que, a veces, lo has pensado y no me lo dirías jamás.
       G		     A            D
 Me arrancarías los sueños de las manos.
 
-Puente
+PUENTE
 
           G 		           D/F#  		                 
 Hay una llave experta. Hay un volcán ahogado.

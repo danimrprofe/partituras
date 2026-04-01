@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: The Beatles
 CANCIÓN: NOW AND THEN
@@ -20,7 +20,7 @@ INTRO
 Am   G6   Am   G6
  
  
-[ESTROFA]
+ESTROFA
 Am             G6
    I know it's true
 Am                  G6
@@ -31,7 +31,7 @@ Am          Fmaj7
 It's all because, of yoooohooohooh
  
  
-[ESTROFA]
+ESTROFA
 Am             G6
    And now and then
 Am            G6
@@ -42,7 +42,7 @@ Am               Fmaj7
 That I-iii-iii-ii,          will love  you
  
  
-[ESTRIBILLO]
+ESTRIBILLO
 G                      Bm
   Now and then, I miss you
     Em              Am             D
@@ -51,7 +51,7 @@ Am          D
 Always to return to me
  
  
-[ESTROFA]
+ESTROFA
 Am             G6
    I know it's true
 Am                  G6
@@ -62,21 +62,21 @@ Am            Fmaj7
 I know you'll neeeever            stay-aaaayay
  
  
-[ESTRIBILLO]
+ESTRIBILLO
 G                      Bm
   Now and then, I miss you
     Em              Am             D
 Oh, now and then, I want you to be there for me
  
  
-[SOLO]
+SOLO
 | Dm  | Dm  | C   | C   |
 | Dm  | Dm  | C   | C   |
 | Em  | Em  | Am  | Am  |
 | D   | D   | Dm  | G   |
  
  
-[ESTROFA]
+ESTROFA
 Am             G6
    I know it's true
 Am                  G6
@@ -87,7 +87,7 @@ Am          Fmaj7
 It's all because,        of  yoooohooohooh
  
  
-[FINAL]
+FINAL
 (Am)  G6   E7
  Am   G6   E7
  Am  Asus4  G6  Fmaj7  E  Am

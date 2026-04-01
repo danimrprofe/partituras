@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Ultimo De La Fila
+CANCION: SIN LLAVES
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL ULTIMO DE LA FILA 
 SIN LLAVES
 Sin capo
@@ -78,5 +91,6 @@ Am            C                    Am
 Candiles de aceite habrá que encender
                     G             D             Am
 Sin llaves, a las puertas del instante estoy...
+
 
 

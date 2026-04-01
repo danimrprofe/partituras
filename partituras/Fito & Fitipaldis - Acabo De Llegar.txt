@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: ACABO DE LLEGAR
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ================================================================================
 ARTISTA: FITO & FITIPALDIS
 CANCIÓN: ACABO DE LLEGAR
@@ -79,4 +92,5 @@ ooh que te voy a decir, que te voy a decir
 
 FINAL
 F | C | G | Am
+
 

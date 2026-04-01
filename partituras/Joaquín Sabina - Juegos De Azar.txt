@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: JUEGOS DE AZAR
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 4
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 JUEGOS DE AZAR
 Capo 4
@@ -71,4 +84,5 @@ A#                        Am
 En taquilla te habían dado la fila dos 
     F                C
 y a mí me dieron la tres
+
 

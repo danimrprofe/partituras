@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: PREMIO DE CONSOLACION2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Premio de consolación
 
 ```
@@ -18,7 +31,7 @@ Que te has quitado el Exatim
                          Em
 Y separas vidrio de los plásticos
 
-[Pre-Chorus]
+PRE-ESTRIBILLO
         G                   D
 Vino y prozack remolinos de ropa
              Em
@@ -32,7 +45,7 @@ Si puedes sálvate
              Em   A
 Aún estás a tiempo
 
-**Estribillo**
+ESTRIBILLO
           G
 Supe que eras una ensoñación
 
@@ -54,7 +67,7 @@ Eso no, oh-oh
     D  A    Em
 Eso no, oh-oh
 
-[Verse 2]
+ESTROFA 2
  Bm
 Peor para ti
                             A
@@ -64,7 +77,7 @@ Que has aprendido a convivir
                             Em
 Con tus dramas y tus puntos álgidos
 
-[Pre-Chorus]
+PRE-ESTRIBILLO
            G
 Tú que lo llevas bien
           D
@@ -72,7 +85,7 @@ Si puedes sálvate
              Em   A
 Aún estás a tiempo
 
-**Estribillo**
+ESTRIBILLO
         G
 Supe que eras una ensoñación
      G               A
@@ -94,7 +107,7 @@ Eso no, oh-oh
     D  A    Em
 Eso no, oh-oh
 
-[Bridge]
+PUENTE
      Bm
 Je t’aime…
                A
@@ -120,7 +133,7 @@ Avec la fatalité du destin,
                 Em
 Avec la conspiration du désir.
 
-[Outro]
+OUTRO
         G                   D
 Vino y prozack remolinos de ropa
              Em
@@ -128,3 +141,4 @@ Hielo en las sábanas
 F#m   G
 Las sábanas
 ```
+

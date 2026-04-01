@@ -10,10 +10,10 @@ TONALIDAD: —
 
 capo 2
 
-**Intro**
+INTRO
 A
 
-**Estrofa**
+ESTROFA
  A
 Hoy tengo el valor de desnudarme
             A7          D
@@ -31,7 +31,7 @@ Siento el abandono mas que antes
  E                          A
 Los días son mas largos mi sueño no.
 
-**Estribillo**
+ESTRIBILLO
       D          A    Asus4
 Oigo ruido y tormenta
        D               F#m
@@ -41,7 +41,7 @@ Como un niño aquí quédate muy cerca
  E                    A   D  A
 Esta noche de desolaciooooooón.
 
-**Estrofa**
+ESTROFA
  A
 Si has sentido alguna vez lo mismo
             A7     D
@@ -52,7 +52,7 @@ No hay memoria si no hay compromiso
 Si cuando amanece tú no estas
 
 
-**Estribillo**
+ESTRIBILLO
       D          A    Asus4
 Oigo ruido y tormenta
        D               F#m
@@ -67,3 +67,4 @@ Esta noche de desolación,
 Esta noche de desolación...
  E                  Bm  D A
 Esta noche de desolacióoooooon...
+

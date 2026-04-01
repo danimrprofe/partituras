@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Don Mclean
+CANCION: AMERICAN PIE
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 DON MCLEAN 
 AMERICAN PIE
 Sin capo
@@ -22,7 +35,7 @@ I can't remember if I cried, when I read about his widowed bride
     G         D/F#           Em           C         D   G
 But something touched me deep  inside the day the music died
 
-ESTRIBILLO 
+ESTRIBILLO
    G    C         G          D
 So bye, bye Miss American Pie
          G            C             G          D
@@ -54,7 +67,7 @@ With a pink carnation and a pickup truck But I knew I was out of luck
       C      D      G
 The day the music died
 
-ESTRIBILLO 
+ESTRIBILLO
                        G   C       G              D
 I started singing bye, bye Miss American Pie Drove
    G            C             G          D
@@ -96,7 +109,7 @@ And we sang 'Dirges  In The Dark'
        C      D       G
 The day the music died
 
-ESTRIBILLO 
+ESTRIBILLO
                     G    C       G              D
 We were singing bye, bye Miss American Pie Drove
    G            C             G          D
@@ -140,7 +153,7 @@ Do you recall what was  revealed
 The day the music died?
  
 
-ESTRIBILLO 
+ESTRIBILLO
                        G    C       G              D
 We started singing bye, bye Miss American Pie Drove
    G            C             G          D
@@ -153,7 +166,7 @@ Em                        D7
 This'll be the day that I die
  
  
-[Verse 5]
+ESTROFA 5
        G                  Am
 Oh, and there we were all in one place
  C           Am
@@ -224,7 +237,7 @@ C           D     G
 The day the music died
  
 
-ESTRIBILLO 
+ESTRIBILLO
 
                       G    C         G          D
 And they were singing bye, bye Miss American Pie
@@ -244,4 +257,5 @@ Drove my Chevy to the levee but the levee was dry
 Them good old boys were drinking whiskey and rye
         C                 D          G
 Singing this'll be the day that I die
+
 

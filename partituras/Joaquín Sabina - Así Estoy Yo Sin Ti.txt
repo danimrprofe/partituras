@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: ASÍ ESTOY YO SIN TI
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA
 ASÍ ESTOY YO SIN TI
 
@@ -94,6 +107,7 @@ al otro lado del telón de acero.
 
 G         Am7   Bm      C   Bm        Am7     C/G   C
 Así estoy yo, Así estoy yo. Así estoy yo, sin ti.
+
 
 
 

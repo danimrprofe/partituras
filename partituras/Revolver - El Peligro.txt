@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Revolver
 CANCIÓN: EL PELIGRO
@@ -52,7 +52,7 @@ Pero aquí ¿Quién no es cobarde por amor?
       Em                 A          D
 Pero aquí ¿Quién no es cobarde por amor?
  
-Instrumentales
+INSTRUMENTAL
 
 D  Bm  Em  G
  
@@ -82,7 +82,7 @@ Pero aquí ¿Quién no es cobarde por amor?
       Em                 A          G
 Pero aquí ¿Quién no es cobarde por amor?
  
-Instrumentales
+INSTRUMENTAL
 G  Em  Am  C
  
 

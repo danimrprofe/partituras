@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Revolver
 CANCIÓN: SAN PEDRO
@@ -75,7 +75,7 @@ llenamos el corazón, violencia y calma a la vez,
                   G 
 Nos prometimos el mar.
 
-PUENTE 
+PUENTE
 
          D                  Am        
 Y uno y uno no son dos, eh, uno y uno es 
@@ -98,13 +98,13 @@ Porque una noche sin luna, eh, nos
                C  D
 prometimos el mar.
 
-Instrumental
+INSTRUMENTAL
 
 G D
 Bm Em G D C [x2]
 G
 
-PUENTE 
+PUENTE
 
         D                Am       G
 La vida son cuatro días y yo por el tercero voy.

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Calum Scott
+CANCION: DANCING ON MY OWN
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 CALUM SCOTT
 DANCING ON MY OWN
 
@@ -66,4 +79,5 @@ G       D                  C                                 Em
 so far away but still so near (the lights go on, the music dies)
 Em               D         C
 but you don't see me standing here
+
 

@@ -1,4 +1,17 @@
-[Verse 1]
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Desconocido
+CANCION: DANI MARTÍN -
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+ESTROFA 1
 Eb
 Cuatro likes y un mensaje privado
 Bb
@@ -18,7 +31,7 @@ Te cagaste y me contaste que estabas trabajando
 Ab            Bb
 Me quedé sin Reyes Magos
 
-[Chorus]
+ESTRIBILLO
        Eb       Gm
 Y el miedo me ganó la partida
  Cm                     Ab        Bb
@@ -28,7 +41,7 @@ Me quedaré solo como una vieja sin hijas
    Cm                         Ab          Bb
 Mirando atrás, consciente que me perdí la vida
 
-[Verse 2]
+ESTROFA 2
 Eb
 Volví a escribirte, dije: "El jueves quedamos"
 Bb
@@ -48,7 +61,7 @@ Quería comerte entera y pasamos a tu cuarto
 Ab            Bb
 Me quedé tan bloqueado
 
-[Chorus]
+ESTRIBILLO
        Eb       Gm
 Y el miedo me ganó la partida
  Cm                     Ab        Bb
@@ -60,7 +73,7 @@ Mirando atrás, consciente que me perdí la vida
 
 Ab Bbm Eb Ab x2
 
-[Verse 3]
+ESTROFA 3
 Eb
 Recuerdo tu carita, tocarte y besarnos
 Bb
@@ -80,7 +93,7 @@ Metidos en la cama, en el sofá y por los baños
 Ab            Bb
 Me sentí acorralado
 
-[Chorus]
+ESTRIBILLO
        Eb       Gm
 Y el miedo me ganó la partida
  Cm                     Ab        Bb
@@ -90,7 +103,7 @@ Me quedaré solo como una vieja sin hijas
    Cm                         Ab          Bb
 Mirando atrás, consciente que me perdí la vida
 
-[Bridge]
+PUENTE
 Eb
 Apareció mi miedo, me diste un ultimátum
 Bb
@@ -100,7 +113,7 @@ Fue como una peli que nunca la acabaron
 Ab                        Bb
 Hoy te recordaba mientras me estaba tocando
 
-[Chorus]
+ESTRIBILLO
        Eb       Gm
 Y el miedo me ganó la partida
  Cm                     Ab        Bb

@@ -1,9 +1,22 @@
-[Intro]
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Extremoduro
+CANCION: LA REALIDAD
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+INTRO
 C D
 G Em Bm C D
 G Em Bm D
  
-[Verso]
+ESTROFA
 G                   Em         Bm
 Agazapado, espero, como un arraclán,
                   C       D
@@ -35,7 +48,7 @@ cuando dijiste que no.
 G Em Bm C D
 G Em Bm D
  
-[Verso]
+ESTROFA
 G                    Em               Bm
 Hice un barquito de papel para irte a ver.
                      C     D
@@ -73,7 +86,7 @@ la parte de dar que a mí me toca.
      D                    C
 Por eso no he dejado de andar
  
-[Estribillo]
+ESTRIBILLO
     G
 buscando mi destino,
     Bm
@@ -91,7 +104,7 @@ y, así, sintonizar.
 G Em Bm C D
 G Em Bm D
  
-[Verso]
+ESTROFA
          G
 Para contarte
         Em                      Bm
@@ -113,7 +126,7 @@ el cielo sobre nuestras cabezas caerá.
 G Em Bm C D
 G Em Bm C D
  
-[Estribillo]
+ESTRIBILLO
     G
 buscando mi destino,
     Bm

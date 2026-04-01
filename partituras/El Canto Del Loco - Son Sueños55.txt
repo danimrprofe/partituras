@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: SON SUEÑOS55
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL CANTO DEL LOCO - SON SUEÑOS
 EL CANTO DEL LOCO
 Medio tono abajo
@@ -41,6 +54,7 @@ Bm             E          C#m                  F#*
 y te sigo esperando tanto, y tú en mí nunca te has fijado 
 Bm          E               D Dm
 por eso te tengo que encontrar 
+
 
 
 

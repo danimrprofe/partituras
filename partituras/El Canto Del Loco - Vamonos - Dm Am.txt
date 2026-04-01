@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: VAMONOS - DM AM
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 Tono: C#m
 Intro:
 
@@ -50,9 +63,9 @@ Ay niña no te bebas el veneno
 E                      Am
 Que en esta vida hay que disfrutar
 
-[Estribillo]
+ESTRIBILLO
 
-[Solo]
+SOLO
 
 [Estribillo x2]
                     Am

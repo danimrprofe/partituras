@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: LAS CUENTAS2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Las cuentas
 
 **Información**
@@ -6,11 +19,11 @@
 | --------- | ----- | ------ | ---- |
 | La Mayor  | X bpm | 4/4    | No   |
 
-**Intro**
+INTRO
 ```
 A      Asus  A     Asus  A
 ```
-**Estrofa**
+ESTROFA
 ```
 A
 Ya sólo quedan los demonios,
@@ -30,7 +43,7 @@ Prenderé fuego al colchón,
 que reventó nuestros otoños.
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
            A          E          D   (D*)
@@ -46,11 +59,11 @@ Y así nunca, nos salen las cuentas.
 
 ```
 
-**Solo**
+SOLO
 ```
 A
 ```
-**Estrofa**
+ESTROFA
 ```
 A
 Ya no nos saca nadie a hombros,
@@ -70,7 +83,7 @@ Me agarré a la inspiración,
 que me dejó nuestros demonios.
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
            A          E          D   (D*)
@@ -85,12 +98,12 @@ queremos lo que envenena.
 Y así nunca, nos salen las cuentas.
 
 ```
-**Solo 2**
+SOLO 2
 ```
 F       C       Bm       E
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
            A          E          D   (D*)

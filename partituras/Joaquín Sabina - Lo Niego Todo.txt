@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: LO NIEGO TODO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA
 LO NIEGO TODO
 
@@ -33,7 +46,7 @@ La leyenda del suicida, y la del bala perdida.
 F#m7		   Am                                    E
 La del santo beodo. si me cuentas mi vida, lo niego todo
 
-Instrumental
+INSTRUMENTAL
 
 E E/G# A C#m G#m/B Amaj7
 B Cdimm C#m F# / A Bsus B E
@@ -71,6 +84,7 @@ La del santo beodo. si me cuentas mi vida, lo niego todo
 
 FINAL
 E E/G# A C#m G#m/B / Amaj7 Bsus B E
+
 
 
 

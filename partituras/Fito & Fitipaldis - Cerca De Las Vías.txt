@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: CERCA DE LAS VÍAS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 CERCA DE LAS VÍAS
 
@@ -40,6 +53,7 @@ D         C                          G
 Todo lo malo y lo bueno caben dentro de un papel.
 D(sorda)         C                       G
 ¿Quieres ver el mundo? Mira, está debajo de tus pies.
+
 
 
 

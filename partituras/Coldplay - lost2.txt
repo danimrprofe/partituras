@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Coldplay
+CANCION: LOST2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Lost
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -22,12 +35,12 @@ E|--------------|------------------|
 
 
 
-**Intro**
+INTRO
 
  Em7   C   G   D     x2
 
 
-[Verse 1]
+ESTROFA 1
 
 Em7              C         G
 Just because I'm losing
@@ -39,7 +52,7 @@ Doesn't mean I'll stop
 Doesn't mean I would cross
 
 
-[Verse 2]
+ESTROFA 2
 
 Em7              C         G
 Just because I'm hurting
@@ -51,7 +64,7 @@ Doesn't mean I didn't get what I deserved
 No better and no worse
 
 
-**Estribillo**
+ESTRIBILLO
 
            D
 I just got lost
@@ -72,7 +85,7 @@ A|--------------|------------------|
 E|--------------|------------------|
 
 
-[Verse 3]
+ESTROFA 3
 
 Em7             C         G
 You might be a big fish
@@ -84,7 +97,7 @@ Doesn't mean you've won
 'Cause along may come a bigger one
 
 
-**Estribillo**
+ESTRIBILLO
 
                D
 And you'll be lost
@@ -109,7 +122,7 @@ A|--------------|------------------|
 E|--------------|------------------|
 
 
-[Solo]
+SOLO
 
 Em7+   C+   D+   Bm+     x4
 
@@ -121,7 +134,7 @@ A|-----------------------------------------------------|
 E|-----------------------------------------------------|
 
 
-[Outro]
+OUTRO
 
          C
 Ohhh and I'm...

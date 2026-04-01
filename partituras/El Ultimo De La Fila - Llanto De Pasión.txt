@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Ultimo De La Fila
+CANCION: LLANTO DE PASIÓN
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 3
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL ULTIMO DE LA FILA - LLANTO DE PASIÓN 
 EL ÚLTIMO DE LA FILA
 Capo 3
@@ -61,7 +74,7 @@ Arriba, venga ponte de pie Lo que pasó ya no existe. Pues bien
      F          Am                G       Em      Am
 Pues bien, hace ya más de un mes Ahora mejor es olvidar
 
-Instrumental
+INSTRUMENTAL
 
 Am C  G  Em Am
 D C  G  Em Am
@@ -82,4 +95,5 @@ Vuelvo a donde empecé
 
 C  D Am
 C  D Am
+
 

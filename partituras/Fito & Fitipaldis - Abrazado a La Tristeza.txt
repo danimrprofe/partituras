@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: ABRAZADO A LA TRISTEZA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 ABRAZADO A LA TRISTEZA
 No capo
@@ -32,6 +45,7 @@ C                            D                     Em
 Menos mal que con los rifles no se matan las palabras.
 C                            D                  Em 
 Menos mal que con los rifles no se matan las palabras.
+
 
 
 

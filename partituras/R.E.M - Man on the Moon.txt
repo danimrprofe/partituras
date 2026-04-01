@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: R.E.M
 CANCIÓN: MAN ON THE MOON
@@ -83,7 +83,7 @@ If you be - lieve ...there's nothing up his sleeve, Then nothing is cool
    Em             D                     Dsus4 D
 |  /  /  /  /  |  /  /  /  /  |  /  /  /  /__/  |
  
-[ESTROFA]
+ESTROFA
 
 C                D C
 Here's a little agit for the never-believer, ...Yeah, yeah - yeah, yeah!
@@ -186,7 +186,7 @@ asustando al huracán
      Am      D    G
 asustando al huracán
 
-Instrumental
+INSTRUMENTAL
 
 G C Am D Bm D Am D Am D
 

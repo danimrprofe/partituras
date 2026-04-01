@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: TAL COMO ERES57
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL CANTO DEL LOCO - TAL COMO ERES
 EL CANTO DEL LOCO
 Afinación medio tono abajo
@@ -71,7 +84,7 @@ simplificando hasta mi interior.
           G              C               E
 Trato de verme tal como soy. Es lo que tiene
 
-Instrumental
+INSTRUMENTAL
 
 Dm  Cm  Bm  E
 
@@ -93,4 +106,5 @@ Trato de darte de lo mejor. Que hace que todo se llame
 F              G              C                     E
 amor. Trato de verme como soy yo Y cambiar lo que duele
  
+
 

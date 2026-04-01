@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: A QUEMARROPA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 A QUEMARROPA
 Capo 1
@@ -60,7 +73,7 @@ Si a quemarropa me disparan, me disparan, me disparan.
                F        G          Am
 Y a quemarropa me disparan, me dispararán
 
-Instrumental
+INSTRUMENTAL
 
 F  G Am Am C  C G  G
 Dm F Am Am F  G Am Am
@@ -94,4 +107,5 @@ F  G Am Am
 C C G  G
 Dm F Am Am
 F  G Am Am
+
 

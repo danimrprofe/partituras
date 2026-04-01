@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Revolver
+CANCION: TU CANCIÓN
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 REVOLVER 
 TU CANCIÓN
 Capo 2
@@ -46,4 +59,5 @@ ESTRIBILLO
 C    G/B      Am     Am/G
     uooooh oooooh         ni canción x4
 C
+
 

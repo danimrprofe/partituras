@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Lady Gaga
+CANCION: LADY GAGA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 LADY GAGA 
 SHALLOW
 
@@ -41,7 +54,7 @@ In the sha-ha-sha-ha-low  In the sha-ha-sha-la-la-la-low
 Am            Am/G     D/F#        G            D/F#    Em
 In the sha-ha-sha-ha-ha-low We're far from the shallow now
 
-Instrumental
+INSTRUMENTAL
 
 Bm            D		A           Em		      
 hoooo haa haa aahh. Ahh haa haa haaaa . 
@@ -61,5 +74,6 @@ Am           Am/G    D/F# 	G       D/F#          Em
 In the sha-ha-sha-ha-low  In the sha-ha-sha-la-la-la-low
 Am            Am/G     D/F#        G            D/F#    Em
 In the sha-ha-sha-ha-ha-low We're far from the shallow now
+
 
 

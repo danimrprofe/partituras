@@ -1,11 +1,24 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: PRINCESAS2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Princesas
 
 ```
-**Intro**
+INTRO
 G
 
 
-[Verso 1]
+ESTROFA 1
         G
 Sigo buscando una sonrisa de repente en un bar,
 G                                        D/F#
@@ -20,7 +33,7 @@ cualquier excusa, una chorrada, es buena para brindar
 soltar en una carcajada todo el aire y después respirar.
 
 
-[Pre-estribillo]
+PRE-ESTRIBILLO
          C                    D      Em
 Sentirme como una colilla entre unos labios al fumar,
     C                  D          Em
@@ -31,14 +44,14 @@ qué inoportuno fue decirte “me tengo que largar”,
 pero qué bien estoy ahora, no quiero volver a hablar
 
 
-[Estribillo]
+ESTRIBILLO
        C     D      G         Am    C     G
 De princesas que buscan tipos que coleccionar
       C    D     Em         F               C    G
 a los pies de su cama, eres algo que he olvidado ya
 
 
-[Verso 2]
+ESTROFA 2
 G
 Ando silbando me paro con la gente a charlar,
 G                                           D/F#
@@ -53,7 +66,7 @@ G                                          D/F#
 a veces pienso que algo malo viene detrás.
 
 
-[Pre-estribillo]
+PRE-ESTRIBILLO
           C                    D      Em
 Me siento como una colilla entre unos labios al fumar,
     C                   D      Em
@@ -64,7 +77,7 @@ qué inoportuno fue decirte “me tengo que largar”,
 pero qué bien estoy ahora, no quiero volver a hablar
 
 
-[Estribillo]
+ESTRIBILLO
        C     D      G         Am    C     G
 de princesas que buscan tipos que coleccionar
       C    D     Em         F               C        G
@@ -75,7 +88,7 @@ de princesas que buscan tipos que coleccionar
 a los pies de su cama, eres algo que he olvidado ya
 
 
-[Verso 3]
+ESTROFA 3
         G
 Sigo buscando una sonrisa de repente en un bar,
 G                                       D/F#
@@ -84,7 +97,7 @@ una calada de algo que me pueda colocar,
 una película que consiga hacerme llorar…
 
 
-[Estribillo]
+ESTRIBILLO
        C     D       G        Am    C     G
 de princesas que buscan tipos que coleccionar
       C     D    Em         F               C        G
@@ -95,6 +108,7 @@ de princesas que buscan tipos que coleccionar
 a los pies de su cama, eres algo que he olvidado ya
 
 
-[Outro]
+OUTRO
 G
 ```
+

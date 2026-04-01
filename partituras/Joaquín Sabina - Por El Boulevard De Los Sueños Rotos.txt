@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: POR EL BOULEVARD DE LOS SUEÑOS ROTOS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 POR EL BOULEVARD DE LOS SUEÑOS ROTOS
 Joaquín Sabina (1994)
@@ -54,4 +67,5 @@ Quien supiera reír como llora Chavela
 FINAL
 D           A                 D
 Por el bulevar de los sueños rotos. 
+
 

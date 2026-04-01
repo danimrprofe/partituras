@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: VIENE Y VA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 VIENE Y VA
 
@@ -71,7 +84,7 @@ que todos pueden tener y nadie puede guardar.
 F            G        C
 Que viene y va...
 
-Instrumental
+INSTRUMENTAL
 
 G C G C x2
 
@@ -98,4 +111,5 @@ Que viene y va...
 
 FINAL
 G C G C x2
+
 

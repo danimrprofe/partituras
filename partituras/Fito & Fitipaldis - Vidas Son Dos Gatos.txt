@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: VIDAS SON DOS GATOS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 3
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 14 VIDAS SON DOS GATOS
 Capo 3
@@ -62,7 +75,7 @@ siempre habrá una estrella para ti
              A                             G
 si catorce vidas son dos gatos aún queda mucho por vivir.
 
-Solo
+SOLO
 
 D  A  G  D A (x2)  D
 D  A  G  D A (x4)
@@ -91,4 +104,5 @@ si catorce vidas son dos gatos aún queda mucho por vivir.
 Ah Ah Aaah, Ah Ah Aaah 
 Bm      A         D
 Ah Ah Aaah, ahhh, ahhh 
+
 

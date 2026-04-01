@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: ENTRE LA ESPADA Y LA PARED
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 ENTRE LA ESPADA Y LA PARED
 
@@ -28,7 +41,7 @@ Las nubes con el viento siempre están cambiando.
   F                    C              G
 Quizás podamos ver el sol de vez en cuando
 
-Instrumental
+INSTRUMENTAL
 
 Fmaj7 | Fmaj7 | C |
 
@@ -47,7 +60,7 @@ No encontrar el equilibrio y agarrarse.
 Lo contrario de vivir es no arriesgarse O quien sabe qué
 
 
-Instrumental
+INSTRUMENTAL
 
 F | F | F | F       C			
 F Am | Am | G | G                          
@@ -81,4 +94,5 @@ F
 Am | Am | G | G
 Dm | - | F | G
 Am
+
 

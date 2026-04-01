@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: PONGAMOS QUE HABLO DE MADRID
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 PONGAMOS QUE HABLO DE MADRID
 Aadd4   x00220
@@ -35,7 +48,7 @@ El mar dentro de un vaso de ginebra.
          B              A    E
 Pongamos que hablo de Madrid.
  
-Instrumental
+INSTRUMENTAL
 
 E A  E  F#m
 A G#m7 F#m7
@@ -51,7 +64,7 @@ La muerte viaja en ambulancias blancas.
          B              A    E
 Pongamos que hablo de Madrid.
  
-[Verse 5]
+ESTROFA 5
 E               Aadd4      E
 El sol es una estufa de butano.
                             F#m
@@ -61,7 +74,7 @@ Hay una jeringuilla en el lavabo.
          B              A    E
 Pongamos que hablo de Madrid.
  
-[Verse 6]
+ESTROFA 6
 E                Aadd4        E
 Cuando la muerte venga a visitarme.
                            F#m
@@ -72,7 +85,7 @@ Aquí no queda sitio para nadie.
 Pongamos que hablo de Madrid.
  
 (Alternate)
-[Verse 6]
+ESTROFA 6
 E                Aadd4        E
 Cuando la muerte venga a visitarme.
                             F#m
@@ -82,14 +95,15 @@ Aqui he vivido, aqui quiero quedarme.
          B              A    E
 Pongamos que hablo de Madrid.
  
-Outro
+OUTRO
 
 A       E  A       E  A       E
 De Madrid, de Madrid, de Madrid
  
-Instrumental
+INSTRUMENTAL
 
 E A  E  F#m
 A G#m7 F#m7
 B  A  E
+
 

@@ -1,4 +1,17 @@
-[Intro]
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Dani Martín
+CANCION: NOVEDADES VIERNES
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+INTRO
 N.C.
 No veo alma en la era digital
 N.C.
@@ -8,11 +21,11 @@ No siento nada por la música actual
 N.C.
 ¿Hacemos un dueto que te haga internacional?
 
-[Instrumental]
+INSTRUMENTAL
 Ab Bb Eb
 Ab Bb Eb
 
-[Verse 1]
+ESTROFA 1
 Ab                     Bb
 Estamos medio muertos copiando ese modelo
 Eb
@@ -27,7 +40,7 @@ Ab                                 Bb
 Qué puta pereza Novedades Viernes, me suena todo igual
 
 
-[Chorus]
+ESTRIBILLO
 Eb      Bb          Cm Gm
 Iros a tomar por el culo
 Ab                              Eb          Bb
@@ -37,10 +50,10 @@ Iros a tomar por el culo
 Ab                                   Bb
 Estoy harto de ese ritmito que me hace vomitar, ja
 
-[Instrumental]
+INSTRUMENTAL
 Ab Bb Eb
 
-[Verse 2]
+ESTROFA 2
 Ab                      Bb
 Muchas reproducciones, ni tickets ni pabellones
 Eb
@@ -67,7 +80,7 @@ Sois tan borregos que no lo veis
 Me dais ternura, juguetitos de papel
 
 
-[Chorus]
+ESTRIBILLO
 Eb      Bb          Cm Gm
 Iros a tomar por el culo
 Ab                              Eb          Bb
@@ -77,11 +90,11 @@ Iros a tomar por el culo
 Ab                                   Bb
 Estoy harto de ese ritmito que me hace vomitar, ja
 
-[Instrumental]
+INSTRUMENTAL
 Ab Bb Eb
 Ab Bb Eb
 
-[Bridge]
+PUENTE
 N.C.
 Oye, bro, ¿hacemos una colabo?
 N.C.
@@ -89,7 +102,7 @@ No te conozco de nada, pero me han dicho que lo estás petando
 N.C.
 Y creo que podría funcionar
 
-[Chorus]
+ESTRIBILLO
 Eb      Bb          Cm Gm
 Iros a tomar por el culo
 Ab                              Eb          Bb
@@ -99,7 +112,7 @@ Iros a tomar por el culo
 Ab                                   Bb
 Estoy harto de ese ritmito que me hace vomitar, ja
 
-[Outro]
+OUTRO
 Eb      Bb          Cm Gm
 Iros a tomar por el culo
 Eb       Bb         Cm Gm Eb

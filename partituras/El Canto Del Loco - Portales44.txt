@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: PORTALES44
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL CANTO DEL LOCO - PORTALES 
 EL CANTO DEL LOCO
 Capo 2
@@ -56,7 +69,7 @@ volver a hacer las paces por semanas sin hablarme,
      C                    Am              D   C 
 y acabar nuestro domingo follando como animale ees. 
 
-Instrumental
+INSTRUMENTAL
 
 G B7 Cmaj7 Cm
 G B7 Cmaj7 Cm
@@ -70,5 +83,6 @@ G                               B7
 volver a hacer las paces por semanas sin hablarme, 
      C                    Am              D   C 
 y acabar nuestro domingo follando como animale ees. 
+
 
 

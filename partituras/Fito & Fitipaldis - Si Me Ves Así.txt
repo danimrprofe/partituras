@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: SI ME VES ASÍ
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 3
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 SI ME VES ASÍ
 Capo 3
@@ -42,10 +55,11 @@ Y no puedes parar, no te puedes parar
                  Am
 Tú tranquila que yo volveré a preguntar
 
-Instrumental
+INSTRUMENTAL
 
 A# F C C Dm G C
 
 REPITE ESTRIBILLO
 FINAL: F C F AM
+
 

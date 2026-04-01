@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Pereza
+CANCION: COMO LO TIENES TU
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 PEREZA 
 COMO LO TIENES TU
 
@@ -44,7 +57,7 @@ la misma noche me aburro y no eres para mí,
          G                                D
 como quisiera tenerlo tan claro como lo tienes tú.
 
-Solo
+SOLO
 
 G | C | G | D
 
@@ -111,5 +124,6 @@ como quisiera tenerlo tan claro como lo tienes tu
 Como lo tienes tu, como lo tienes tu, 
       F                                   C
 como quisiera tenerlo tan claro. como lo tienes tu
+
 
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Desconocido
+CANCION: JARABE DE PALO -
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JARABE DE PALO 
 VECINA
 
@@ -64,4 +77,5 @@ C       Bm  Am       D        G Bm Em C
 Gracias por tomar el sol para mi
 G       Bm  Em       C             Em
 Gracias por tomar el sol para mí   ...vecina
+
 

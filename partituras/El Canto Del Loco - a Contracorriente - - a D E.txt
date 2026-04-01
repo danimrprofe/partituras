@@ -1,4 +1,17 @@
-[Intro]
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: A CONTRACORRIENTE - - A D E
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+INTRO
 
 A                    D     E
 A contracorriente, a contracorriente
@@ -8,7 +21,7 @@ A contracorriente, a contracorriente
 A D E
 A D E
  
-[Verse]
+ESTROFA
 A           B        C#      B      A B C# B
 Todo lo que hacía ese día me salía muy mal
 A           B       C#        B                A B C# B
@@ -20,7 +33,7 @@ Quiero volver a sentir. Escuchar solo tu voz.
                         E
 Que me diga aquello que todas las mañanas repetía en sueños.
  
-[Chorus]
+ESTRIBILLO
      A                  Bm                  D
 Si salgo y te busco y no veo el momento me asusto,
 E               A          Bm
@@ -36,7 +49,7 @@ Sentir que nadie me escucha
 D                         E
 Escondo mis palabras me vuelvo a la ducha.
  
-[Verse]
+ESTROFA
 A              B             C#           B      A B C# B
 Ahora y desde entonces nunca nadie me ha vuelto a engañar
 A             B          C#      B         A B C# B
@@ -49,7 +62,7 @@ Quiero volver a sentir. Escuchar solo tu voz.
                         E
 Que me diga aquello que todas las mañanas repetía en sueños.
  
-[Chorus]
+ESTRIBILLO
      A                  Bm                  D
 Si salgo y te busco y no veo el momento me asusto,
 E               A          Bm
@@ -65,10 +78,10 @@ Sentir que nadie me escucha
 D                         E
 Escondo mis palabras me vuelvo a la ducha.
  
-[Instrumental]
+INSTRUMENTAL
 A B D E
  
-[Outro]
+OUTRO
 A     B          D     E
 A contracorriente, a contracorriente
 A     B          D     E
@@ -80,3 +93,4 @@ A contracorriente, A contracorriente.
 N.C.
 A contracorriente, A contracorriente.
 -----+------+-----+--------
+

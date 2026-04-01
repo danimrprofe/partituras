@@ -1,4 +1,17 @@
-﻿COUNTIN CROWS
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Countin Crows
+CANCION: HARD CANDY
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+COUNTIN CROWS
 HARD CANDY
 Capo 2
 D             G          D/F#               Em            D
@@ -98,4 +111,5 @@ Outro: (with riff)
    Go ask her    to come around   and see me late after dark
 (D)            (D/C#)            (C)            (G)
    Don't ask me    to come around   then wait to see if there's a spark
+
 

@@ -1,8 +1,21 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Simple Plan
+CANCION: IM JUST A KID
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ono: Db
 C#– F#– G#– F#
 
 
-[Verse]
+ESTROFA
   C#                F#
 I woke up, it was seven
   G#             F#
@@ -21,7 +34,7 @@ When you're spending every day on your own
 And here it goes ..
 
 
-[Chorus]
+ESTRIBILLO
 C#          F#        G#
 I'm just a kid and life is a nightmare
 C#          F#         G#           F#
@@ -34,11 +47,11 @@ Is havin' more fun than me
 Tonight
 
 
-[Interlude]
+INTERLUDIO
 C#– F#– G#– F#
 
 
-[Verse]
+ESTROFA
             C#               F#
 And maybe when the night is dead
       G#            F#
@@ -57,7 +70,7 @@ And they're gonna leave me here on my own
 And here it goes
 
 
-[Chorus]
+ESTRIBILLO
 C#          F#        G#
 I'm just a kid and life is a nightmare
 C#          F#         G#           F#
@@ -68,7 +81,7 @@ D#m             F#      G#
 Is havin' more fun than me
 
 
-[Bridge]
+PUENTE
 F#
 What the fuck is wrong with me?
   G#               
@@ -84,7 +97,7 @@ C#– F#– G#– F#
 I'm just a kid (just a kid) x5
 
 
-[Chorus]
+ESTRIBILLO
 C#           F#      G#
 I'm just a kid and life is a nightmare
 C#           F#        G#           F#

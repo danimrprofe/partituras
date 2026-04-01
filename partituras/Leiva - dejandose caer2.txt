@@ -1,10 +1,23 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: DEJANDOSE CAER2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 <<<<<<< HEAD
 # Dejándose Caer
 
 Capo 1
 
 ```
-[Intro]
+INTRO
 =======
 # Dejándose caer
 
@@ -13,7 +26,7 @@ Capo 1
 |           | Estándar  | 4/4    | 1    |
 
 ```
-**Intro**
+INTRO
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 e|------------------------|---------------------------|
 B|------------------------|---------------------------|
@@ -24,7 +37,7 @@ E|------------------------|---------------------------|  (X4)
 
 Am - F - C - C (x4)
 
-[Verse 1]
+ESTROFA 1
 G
 Me he creí­do
 F               C
@@ -41,7 +54,7 @@ Hace poco tiempo caí­
       F        C
 Lo tenia delante
 
-[Pre-chorus]
+PRE-ESTRIBILLO
 Dm             G
 Bajo el aguacero
 Dm             G
@@ -50,9 +63,9 @@ Vuelve a parecer
 Y asi­ pasa su tiempo
 
 <<<<<<< HEAD
-[Chorus]
+ESTRIBILLO
 =======
-**Estribillo**
+ESTRIBILLO
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
     C        F
 Dejándose caer
@@ -62,13 +75,13 @@ Dejándose caer
 Dejándose caer
 
 <<<<<<< HEAD
-[Instrumental]
+INSTRUMENTAL
 =======
-**Instrumental**
+INSTRUMENTAL
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 Am - F - C - C (x2)
 
-[Verse 2]
+ESTROFA 2
 G            F           C
 Cuando me pasaba por encima
                   Am
@@ -76,7 +89,7 @@ Ella me dejaba coger
        F           C
 Su cuerpito, de alambre
 
-[Pre-chorus]
+PRE-ESTRIBILLO
 Dm          G
 Bajo el aguacero
  Dm         G
@@ -85,9 +98,9 @@ Vuelve a parecer
 Y así­ pasa su tiempo
 
 <<<<<<< HEAD
-[Chorus]
+ESTRIBILLO
 =======
-**Estribillo**
+ESTRIBILLO
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
    C         F
 Dejándose caer
@@ -96,7 +109,7 @@ Dejándose caer
   C          F
 Dejándose caer
 
-[Outro]
+OUTRO
   Dm
 Mientras todo se prendía
 
@@ -107,7 +120,7 @@ Y escuche como decías
 Abrázame, todo vuelve a ser fácil
 
 ```
-**Solo**
+SOLO
 ```
 F |  C  | G  | Am
 F |  C  | G  | -
@@ -116,22 +129,22 @@ F |  C  | G  | -
 
 <<<<<<< HEAD
 ```
-**Estribillo**
+ESTRIBILLO
 ```
         C       F          Am      F
 Dejándose caeeeeer, dejándose caeeeer  (X3)
 ```
-**Final**
+FINAL
 =======
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
         C       F          Am      F
 Dejándose caeeeeer, dejándose caeeeer  (X3)
 ```
-## Final
+FINAL
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 ```
 Am | F | C | C
@@ -142,3 +155,4 @@ Am | F | C
 =======
 ```
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
+

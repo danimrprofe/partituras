@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Revolver
+CANCION: MI RENDICIÓN -
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 REVOLVER - MI RENDICIÓN
 REVÓLVER
 SIN CAPO
@@ -64,7 +77,7 @@ Me dejaste bien colgado y lo hiciste bien
 Bb                C          Am            D
 Tu rompiste en pedazos mis cimientos y mi fé.
 
-Instrumental
+INSTRUMENTAL
 
 G C D  G C D  
 G C D  C D G C D G
@@ -91,5 +104,6 @@ Ya no volveré a apostar por nadie Ya no volveré a ser como soy
 Ya no volveré a nuestra calle Ya no volveré a firmar mi rendición.
 C                D      G
 Ya no volveré a firmar mi rendición.
+
 
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Alannis Morrisset
+CANCION: IRONIC
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 Alannis Morrisset 
 IRONIC
 Tonalidad (Key): Si Mayor (B)
@@ -93,4 +106,5 @@ It's the good advice  that you just didn't take
 Who would've       thought... it figures
 
 ( C7M  D6(11)  C7M )
+
 

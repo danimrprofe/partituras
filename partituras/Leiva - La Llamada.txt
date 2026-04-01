@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: LEIVA
 CANCIÓN: LA LLAMADA
@@ -11,7 +11,7 @@ LEYENDA / NOTAS ADICIONALES:
 (Acordes e información adicional)
 ================================================================================
 
-INTRO 
+INTRO
 
 C
 

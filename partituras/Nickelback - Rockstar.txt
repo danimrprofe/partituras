@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Nickelback
+CANCION: ROCKSTAR
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 3
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ================================================================================
 ARTISTA: NICKELBACK
 CANCIÓN: ROCKSTAR
@@ -149,4 +162,5 @@ Everybody's got a drug dealer on speed dial...
 Well...Hey Hey I wanna be a rock star!
      G      A                 E
 Hey hey I wanna Be a rock star!
+
 

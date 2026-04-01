@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: Si te vas
@@ -11,11 +11,11 @@ LEYENDA / NOTAS ADICIONALES:
 (Acordes e información adicional)
 ================================================================================
 Cejilla: Sin cejilla
-[INTRO]
+INTRO
 D A Em Em
 D A Em
  
-[Verso 1]
+ESTROFA 1
 D                A                 Em
  Cuentame que harás después que estrenes su cuerpo
 D             A           Em
@@ -27,7 +27,7 @@ D            A          Em
            D             A      Em     Em
 Ya no estaré aquí en el mismo lugar
  
-[Verso 2]
+ESTROFA 2
 D             A                Em
  Si no tiene más que un par de dedos de frente
 D              A         Em
@@ -37,7 +37,7 @@ D             A           Em
            D         A            Em
 Y luego te deja solo tal como quiere
  
-[Pre-estribillo]
+PRE-ESTRIBILLO
  G
 Sé que volverás el día
 A
@@ -55,7 +55,7 @@ porque sin tí
 A                      D
   el mundo ya me da igual
  
-[Estribillo]
+ESTRIBILLO
           A                 Em
 si te vas, si te vas, si te marchas
  
@@ -73,11 +73,11 @@ no vuelvas nunca más
                D
 que no estaré aquí
  
-[INSTRUMENTAL]
+INSTRUMENTAL
 D A Em Em
 D A Em
  
-[Verso 3]
+ESTROFA 3
 D              A           Em
  Toda escoba nueva siempre barre bien
 D             A        Em
@@ -87,7 +87,7 @@ D             A          Em
          D          A       Em
 Y la celulitis invada sus piernas
  
-[Pre-estribillo]
+PRE-ESTRIBILLO
  G
   Volverás desde tu infierno
 A
@@ -105,7 +105,7 @@ Lejos de tí
 A                      D
   el mundo ya me da igual
  
-[Estribillo]
+ESTRIBILLO
           A                 Em
 si te vas, si te vas, si te marchas
  
@@ -123,13 +123,13 @@ no vuelvas nunca más
                D
 que no estaré aquí
  
-[INSTRUMENTAL]
+INSTRUMENTAL
 D A Em Em
 D A Em Em
 D A Em Em
 D A Em Em
  
-[Estribillo]
+ESTRIBILLO
 D          A                 Em
  si te vas, si te vas, si te marchas
  
@@ -147,7 +147,7 @@ no vuelvas nunca más
                          D
 no vuelvas no estaré aquí
  
-[FINAL]
+FINAL
 D A Em Em
 D A Em Em
 D A Em Em

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Coldplay
+CANCION: VIVA LA VIDA2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Viva la vida
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -5,11 +18,11 @@
 |           | Estándar  | 4/4    | 1    |
 
 ```
-**Intro**
+INTRO
 C D G Em    x2
 
 
-[Verse 1]
+ESTROFA 1
           C        D
 I used to rule the world
            G                    Em
@@ -20,11 +33,11 @@ Now in the morning I sleep alone
 Sweep the streets I used to own
 
 
-[Interlude]
+INTERLUDIO
 C D G Em    x2
 
 
-[Verse 2]
+ESTROFA 2
           C        D
 I used to roll the dice
          G                  Em
@@ -43,7 +56,7 @@ And I discovered that my castles stand
 Upon pillars of salt and pillars of sand
 
 
-**Estribillo**
+ESTRIBILLO
   C              D
 I hear Jerusalem bells are ringing
 G             Em
@@ -60,11 +73,11 @@ Once you go there was never, never an honest word
 That was when I ruled the world
 
 
-[Interlude]
+INTERLUDIO
 C D G Em    x2
 
 
-[Verse 3]
+ESTROFA 3
                       C    D
 It was the wicked and wild wind
               G               Em
@@ -83,7 +96,7 @@ Just a puppet on a lonely string
 Oh who would ever want to be king?
 
 
-**Estribillo**
+ESTRIBILLO
   C              D
 I hear Jerusalem bells are ringing
 G             Em
@@ -102,7 +115,7 @@ never an honest word
 But that was when I ruled the world
 
 
-[Interlude]
+INTERLUDIO
 C  Em x3
 D  D
   C   D    G   Em
@@ -111,7 +124,7 @@ Ohhhhhh  Ohhhhhhh
 Ohhhhhh  Ohhhhhhh
 
 
-**Estribillo**
+ESTRIBILLO
   C              D
 I hear Jerusalem bells are ringing
 G             Em
@@ -130,7 +143,7 @@ never an honest word
 But that was when I ruled the world
 
 
-[Outro]
+OUTRO
 C    D  Bm   Em
 Oooooh  Ooooooh
 C    D  Bm   Em

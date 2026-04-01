@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Lynyrd Skynyrd
+CANCION: SIMPLE MAN
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 4
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 LYNYRD SKYNYRD - SIMPLE MAN
 Lynyrd Skynyrd (1973)
 Medio tono abajo
@@ -23,7 +36,7 @@ And if you do this it'll help you some sunny day"
 [Break]
 C G Am C G
  
-[Verse 2]
+ESTROFA 2
 Am          C         G           Am
    "Oh, take your time,  don't live too fast
               C   G             Am
@@ -43,7 +56,7 @@ Baby be a simple  kind of   man
               C           G              Am
 Oh, won't you do this for me, son, if you can"
  
-[Verse 3]
+ESTROFA 3
 C G Am             C       G         Am
         "Forget your lust for  the rich man's gold
              C   G          Am
@@ -66,7 +79,7 @@ Oh, won't you do this for me, son, if you can"
 Oh yes, I will
  
  
-[Solo]
+SOLO
 C G Am C G Am
 C G Am C G Am
 C G Am
@@ -76,7 +89,7 @@ C G Am
 C G Am C G
  
  
-[Verse 4]
+ESTROFA 4
 Am                C     G            Am
    "Boy, don't you worry,  you'll find yourself
             C    G           Am
@@ -135,7 +148,7 @@ Los controles quiero evitar
 Cuando llegue a casa tu estarás 
 C          D   G        C      D    G
 dormida en el sofá. Dormida en el sofá.
-Instrumental
+INSTRUMENTAL
 Am C G G
 Am C D D
 
@@ -191,7 +204,7 @@ Em    C  G         D         Em      C            G           D
 Carolina trátame bien, no te rías de mí. no me arranques la piel
 Em   C   G         D          Bb         F         G
 CAROLINA TRÁTAME BIEN, O AL FINAL TE TENDRÉ QUE COMER
-Solo
+SOLO
 Em C G D x3
 Bb F G
 
@@ -309,7 +322,7 @@ Colgar el batín, Cambiar bisturí
                   D    B
 Por chilaba y cachimba.
  
-[Interlude]
+INTERLUDIO
 F# B F# B  C#
 
 ESTRIBILLO
@@ -381,7 +394,7 @@ Y en el retiro flotaran flores blancas para ti.
 	    D                          E
 No preguntes y acompáñame hasta el fin
 
-Instrumental
+INSTRUMENTAL
 A  Bm  D  A
 A  Bm  D  A
 
@@ -464,7 +477,7 @@ Bm     C                        D
 A
 Mañana ya no estarás
  
-Solo
+SOLO
 
 D D D C G D
 D D D C G D
@@ -624,10 +637,10 @@ Filosofía barata no lo quieres ver
 Gsus4
 Juegos de palabras.
  
-[Interlude]
+INTERLUDIO
 F C G C  x2 
  
-[Verse 3]
+ESTROFA 3
 F        C   G   C
 Hablemos
            F     C  G  C
@@ -638,7 +651,7 @@ G       C             F  C  G  C
 Soportaría el infierno
  
  
-[Verse 4]
+ESTROFA 4
 F           C           G       C
 A estas alturas no me quiero caer
 F              C            G          C
@@ -659,7 +672,7 @@ Filosofía barata no lo quieres ver
 Gsus4
 Juegos de palabras.
  
-Solo
+SOLO
 
 F C G C  x4
 Am F G Am Gsus4
@@ -697,7 +710,7 @@ Gsus4
 Juegos de palabras.
  
  
-[Outro]
+OUTRO
 F C G C  x4
 8. M-CLAN - GRUPOS AMERICANOS
 M-clan
@@ -729,7 +742,7 @@ Grupos americanos, cintas de casete
           A        E     D           E      A
 Yo lo recuerdo a día de hoy, se me eriza la piel
  
-Instrumental
+INSTRUMENTAL
 
 A D A D
  
@@ -769,7 +782,7 @@ F#m         D           Bm
          E
 Algo que no tiene cura
 
-Instrumental
+INSTRUMENTAL
 
 A D A D
  
@@ -860,7 +873,7 @@ F                    G      A
 F                             G      A
  Hasta que se acostumbre a la oscuridad 
 
-Solo
+SOLO
 
 A G F - F E D - D C A (en quintas con distorsión) (x3)
  
@@ -962,7 +975,7 @@ hoy soy aquí solo un extranjero más
    F#          G D/F#   Em D   Bm
 un inmigrante del desaliento - o.
  
-Solo
+SOLO
 
 | G    | D    | F#   | Bm   | x3
 | G    | D    | F#   | F#   |
@@ -981,11 +994,11 @@ hoy soy aquí solo un extranjero más
    F#          G  D/F# Em    D      Bm
 un inmigrante de - el  desaliento - o.
  
-Instrumental
+INSTRUMENTAL
 
 | G    | D    | F#   | Bm   | x4
  
-Solo
+SOLO
 
 | G    | D    | F#   | Bm   | x3
 | G    | D    | F#   | Bm
@@ -1005,7 +1018,7 @@ D                  Cadd9                         D                      Cadd9
 Amiga risa, hermana nostalgia. madre alegría, dulce esperanza
 Am                 G/B     Cadd9            D                 G      Cadd9    G    Cadd9
 ahora que el viaje termina me invade la calma.
-Instrumental
+INSTRUMENTAL
 
 G Cadd9 G Cadd9
 
@@ -1050,19 +1063,19 @@ C D
 C D
 C D C D C D
  
-[Verse 1]
+ESTROFA 1
     G       C        G
 Yo soy el que te habló
      C            G          C        G
 Una vez de las estrellas, traía souvenirs
  
-[Verse 2]
+ESTROFA 2
      G      C     G
 También viajé al sur
     C              G        C           G
 Llegué a islas desiertas y nunca más te vi
  
-[Pre-Chorus]
+PRE-ESTRIBILLO
               Am      G        Am                Em
 Pero ahora estoy de vuelta, no veo la justicia aquí
 Am                G                 D
@@ -1074,22 +1087,22 @@ Yo soy aquel que tú conoces bien
           G           D        G
 Y la esperanza, me empuja a seguir
  
-[Interlude]
+INTERLUDIO
 C D C D C D
  
-[Verse 3]
+ESTROFA 3
    G     C        G
 Dejad entrar, la luz
   C             G           C               G
 Aquí en las tinieblas que llegue el sol por fin
  
-[Verse 4]
+ESTROFA 4
         G      C       G     C
 Y si crees que hay un Dios ahí
                 G       C          G
 Da igual quien sea, no nos parece oír
  
-[Pre-Chorus]
+PRE-ESTRIBILLO
              Am       G           Am                   Em
 Pero ahora estoy de vuelta, no encuentro la justicia aquí
 Am             G                D
@@ -1101,13 +1114,13 @@ Yo soy aquel que tú conoces bien
           G           D        G
 Y la esperanza, me empuja a seguir
  
-[Solo]
+SOLO
 G C G C
 G C G G
 G C G C
 G C G G
  
-[Pre-Chorus]
+PRE-ESTRIBILLO
              Am       G        Am                Em
 Pero ahora estoy de vuelta, buscando la verdad aquí
 Am            G                 D
@@ -1259,7 +1272,7 @@ Sé que te repondrás y que a mí me costará mucho más
    Bm               E               A
 Estoy cansado pero aún te quiero igual
 
-Instrumental
+INSTRUMENTAL
  
 Bm E A D
 Bm E A A
@@ -1285,7 +1298,7 @@ Sé que te repondrás y que a mí me costará mucho más
       Bm              E               A
 Me hiciste polvo pero yo te quiero igual
  
-Instrumental
+INSTRUMENTAL
 
 Bm E A D
 Bm E A A
@@ -1427,7 +1440,7 @@ Romperé mi lupa y compraré reparador,
 Cadd9                   D             G
 quiero como nuevo este viejo corazóoo ooon.
  
-Solo
+SOLO
 
 G Cadd9 G Cadd9
  
@@ -1460,7 +1473,7 @@ secarme contigo.
             Cadd9            Bm
 secarme contigo.
  
-Solo
+SOLO
 
 | Am | D  | Bm | Em |
 | Am | Bm | Cadd9 | D |
@@ -1552,7 +1565,7 @@ quédate a dormir, que pasen 30 años antes de mañana...
 Dm7     Em     Dm7    Em F       G     Am   G
 uh   uh,uh  uh,uh  uh,uh uh   uh,uh   uh,uh,uh
 
-Instrumental
+INSTRUMENTAL
 C F   C G x2
 
 ESTROFA
@@ -1575,7 +1588,7 @@ quédate a dormir, que pasen 30 años antes de mañana...
 Dm7     Em     Dm7    Em F       G     Am   G
 uh   uh,uh  uh,uh  uh,uh uh   uh,uh   uh,uh,uh
 
-Solo 
+SOLO
 
 C F C G x6
 
@@ -1629,7 +1642,7 @@ Y es que estoy todo roto por dentro, estoy todo roto y desecho,
 D                      C            G
 estoy todo roto y no quiero seguir así.
 
-Solo
+SOLO
 Bb  Am  G / Bb  Am  G / Bb  Am  D
 
 
@@ -1649,6 +1662,7 @@ ESTRIBILLO
 Y es que estoy todo roto por dentro, estoy todo roto y desecho,
 D                      C            G
 estoy todo roto y no quiero seguir así.
+
 
 
 

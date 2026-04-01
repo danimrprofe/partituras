@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Nena Daconte
 CANCIÓN: EN QUE ESTRELLA ESTARÁ
@@ -78,7 +78,7 @@ E|------------------------3--------|
  
 N.C.
  
-[PUENTE]
+PUENTE
  
 Bm                    G
 ¿Dónde terminan los sueños de la realidad?
@@ -86,7 +86,7 @@ Bm                     G
 ¿Dónde se ahogan los gritos de mi mitad?
  
  
-[Pre-chorus]
+PRE-ESTRIBILLO
  
 N.C.
 ¿En qué estrella estará? (Ah, ¿en qué estrella estará?)

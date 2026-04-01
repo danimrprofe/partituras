@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCION: SALTAMOS SIN MIRAR
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 M-CLAN - SALTAMOS SIN MIRAR
 M-Clan
 
@@ -19,7 +32,7 @@ Y saltamos sin mirar Hacia lo desconocido.
 C      G      Em             D
 Nadie nos oyó caer jamás volvimos
 
-Instrumental
+INSTRUMENTAL
 
 D G  x3 D
 
@@ -47,7 +60,7 @@ Y saltamos sin mirar. Con el ímpetu del vino.
          C       G  Em          D
 Fue tan fácil como quedarse dormido
 
-Instrumental
+INSTRUMENTAL
 
 D G  x3 D
 
@@ -95,7 +108,7 @@ Guardo esa locura, que no tiene cura ya,
 D         Em      A     D
 quememos las dudas en tu desván.
 
-Solo
+SOLO
 
 G D G D x2
 
@@ -137,4 +150,5 @@ G D G D G          G         A         G     D
                            Quememos las dudas en tu desván. 
     G D Em A    D
 Sin equipaje.
+
 

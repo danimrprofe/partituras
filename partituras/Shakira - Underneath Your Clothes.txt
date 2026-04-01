@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: Underneath your clothes
@@ -13,7 +13,7 @@ LEYENDA / NOTAS ADICIONALES:
 Inevitable
 Afinación: Eb Ab Db Gb Bb EbCejilla: Sin cejilla
 
-[ESTROFA]
+ESTROFA
 G                       Cadd9
 Si es cuestión de confesar
                  Am
@@ -28,7 +28,7 @@ Juego mal hasta el parqués
                D
 Y jamás uso reloj
  
-[PRE-ESTRIBILLO]
+PRE-ESTRIBILLO
                G      D
 Y para ser más franca nadie
          Em  D            Cadd9
@@ -38,7 +38,7 @@ Aunque te dé lo mismo.
  
 G   Cadd9
  
-[ESTROFA]
+ESTROFA
 G                       Cadd9
 Si es cuestión de confesar
                       Am
@@ -53,7 +53,7 @@ Lloro una vez al mes
                        D
 Sobre todo cuando hay frío
  
-[PRE-ESTRIBILLO]
+PRE-ESTRIBILLO
                 G
 Conmigo nada es fácil
 D         Em
@@ -63,7 +63,7 @@ Me conoces bien
  
 Y sin ti todo es tan aburrido
  
-[ESTRIBILLO]
+ESTRIBILLO
   D                    G
 El cielo está cansado ya de ver
 D         Cadd9
@@ -81,7 +81,7 @@ Seguir amándote es inevitable.
  
 G   Cadd9
  
-[ESTROFA]
+ESTROFA
         G              Cadd9
 Siempre supe que es mejor
                          Am
@@ -96,7 +96,7 @@ Aquí todo está peor
                       D
 Pero al menos aún respiro
  
-[PRE-ESTRIBILLO]
+PRE-ESTRIBILLO
 Dsus4            G
 No tienes que decirlo
 D           Em
@@ -106,7 +106,7 @@ Te conozco bien
  
 Ya buscaré qué hacer conmigo
  
-[ESTRIBILLO]
+ESTRIBILLO
   D                    G
 El cielo está cansado ya de ver
 D         Cadd9
@@ -122,11 +122,11 @@ Olvidarte porque
           Bm  Cadd9 D
 Seguir atándote es inevitable.
  
-[INSTRUMENTAL]
+INSTRUMENTAL
 Am C G D  x3
 Am C D
  
-[FINAL]
+FINAL
 G                     Cadd9
 Siempre supe que es mejor
                           Am

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: LA CASA POR EL TEJADO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 LA CASA POR EL TEJADO
 
@@ -43,7 +56,7 @@ Menos mal que fui un poco granuja,
              Em C        G        D
 todo lo que sé me lo enseñó una bruja
 
-Instrumental
+INSTRUMENTAL
 
 Em B7 D D7
 
@@ -84,4 +97,5 @@ todo lo que sé me lo enseñó una bruja
 
 FINAL
 Em B7 D D7
+
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: U2
+CANCION: ONE
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 U2 
 ONE
 Sin capo
@@ -16,7 +29,7 @@ One love  we get to share it. It leaves you baby if
 C               Am  Dsus2 Fmaj7 G
 you don't care for it
  
-[Verse 2]
+ESTROFA 2
 Am        Dsus2      Fmaj7                           G
 Did I disappoint you or leave a bad taste in your mouth
 Am               Dsus2          Fmaj7                     G
@@ -28,7 +41,7 @@ We're one, but we're  not the same. We get to carry each other carry each
       Am  Dsus2 Fmaj7 G
 Other One
  
-[Verse 3]
+ESTROFA 3
 Am                          Dsus2
   Have you come here for forgiveness?
 Fmaj7                           G
@@ -91,4 +104,5 @@ C             Am
 Oooo - oooo - oooo
 Fmaj7      C
 Oooo - oooo [x2]
+
 

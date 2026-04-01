@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Tom Odell
 CANCIÓN: ANOTHER LOVE
@@ -13,7 +13,7 @@ LEYENDA / NOTAS ADICIONALES:
 TOM ODELL 
 ANOTHER LOVE
 SIN CAPO - PIANO
-[INTRO]
+INTRO
 Em    G  C
 Em    Bm
 C     Em  Am
@@ -21,7 +21,7 @@ Em    Bm
 C     C
  
  
-[ESTROFA]
+ESTROFA
  
 C                  Em               Am     Em
   I wanna take you somewhere so you know I care,
@@ -41,7 +41,7 @@ I wanna cry and I wanna love
 But all my tears have been used up
  
  
-[ESTRIBILLO]
+ESTRIBILLO
  
 C                G             Em
   On another love, another love
@@ -60,7 +60,7 @@ Em  Bm
 Ooohoooh
  
  
-[INSTRUMENTAL]
+INSTRUMENTAL
  
 Em    G  C
 Em    Bm
@@ -69,7 +69,7 @@ Em    Bm
 C     C
  
  
-[ESTROFA]
+ESTROFA
  
 C                 Em               Am    Em
   And if somebody hurts you, yeah I wanna fight,
@@ -89,7 +89,7 @@ And I wanna cry I wanna learn to love,
 but all my tears have been used up
  
  
-[ESTRIBILLO]
+ESTRIBILLO
  
                 G            Em
 On another love, another love
@@ -108,7 +108,7 @@ Em  Bm
 Ooohoooh
  
  
-[INSTRUMENTAL]
+INSTRUMENTAL
  
 C     Em  Am
 Em    Bm
@@ -116,7 +116,7 @@ C     Em  Am
 Em    Bm
  
  
-[ESTROFA]
+ESTROFA
  
 C               Em              Am      Em
  I wanna sing a song that would be just ours,
@@ -128,7 +128,7 @@ And I wanna cry I wanna fall in love,
 but all my tears have been used up
  
  
-[ESTRIBILLO]
+ESTRIBILLO
  
                G             Em
 On another love, another love

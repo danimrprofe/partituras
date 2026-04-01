@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: PARA TODA LA VIDA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 PARA TODA LA VIDA
 G                            C			                                                     
@@ -45,4 +58,5 @@ Si quisiera vivir de placer me buscaba un amor de cantina. Yo le doy mi
 querer al querer y lo doy para toda la vida.
     G                          G F C
 Si quisiera vivir de placer ¡ay! para toda la vida... 
+
 

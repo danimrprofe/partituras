@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Amaral
+CANCION: TE NECESITO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 AMARAL 
 TE NECESITO 
 
@@ -61,4 +74,5 @@ G         A      D           A         F#7
   Tus ojos  el abismo donde muere mi razón
 F#7  G     A   Bm   G  A  Bm  G     A   Bm
 oooooh Te necesito              te necesito
+
 

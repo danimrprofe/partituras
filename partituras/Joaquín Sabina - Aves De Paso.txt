@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: AVES DE PASO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 AVES DE PASO
 G   G/C G   G/C
@@ -64,4 +77,5 @@ de un cuarto de hotel, dulce hotel
 ESTRIBILLO
 G G/C G G/A
 G G/C G G/A
+
 

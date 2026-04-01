@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Extremoduro
+CANCION: SALIR
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ================================================================================
 ARTISTA: EXTREMODURO
 CANCIÓN: SALIR
@@ -739,7 +752,7 @@ meterme mil rayas, hablar con la gente,
 llegar a la cama y ... ¡joder, que guarrada! sin tí.
 Y AL DÍA SIGUIENTE... (ESTRIBILLO X2)
  
-Solo
+SOLO
 
 Uoho): G Em ---] D (x4) C
  
@@ -781,5 +794,6 @@ llegar a la cama y ... ¡joder, que guarrada! sin tí.
 y al día siguiente...
 C          D         G
 Ya no me acuerdo de na
+
 
 

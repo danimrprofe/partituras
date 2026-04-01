@@ -1,10 +1,23 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Los Zigarros
+CANCION: DESDE QUE YA NO ERES MIA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 LOS ZIGARROS - DESDE QUE YA NO ERES MIA
 LOS ZIGARROS
 
 INTRO
 Am
 
-ESTROFA 
+ESTROFA
  
 Am                  D
 Desde que ya no eres mía
@@ -89,7 +102,7 @@ C               E             Am
 Voy a perder la cabeza otra vez.
  
 
-ESTROFA 
+ESTROFA
 
 Am                     D
 Oigo que mueves tus caderas,
@@ -120,6 +133,7 @@ Voy a perder la cabeza otra vez.
  
 Am     D     Am
 Uhmmmm Uhmmm Uhmmm
+
 
 
 

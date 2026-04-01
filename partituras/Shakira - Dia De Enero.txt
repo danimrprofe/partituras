@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: Dia de enero
@@ -12,10 +12,10 @@ LEYENDA / NOTAS ADICIONALES:
 ================================================================================
 Día de enero
  
-[INTRO]
+INTRO
 Bb Dm Gm Eb
  
-[ESTROFA]
+ESTROFA
        Bb            Dm
 Te conocí un día de enero, 
        Gm            Eb
@@ -30,7 +30,7 @@ Que torpe distracción
 Y que dulce sensación 
  
  
-[ESTROFA]
+ESTROFA
               Bb           Dm
 Y ahora que andamos por el mundo 
       Gm          Eb
@@ -45,7 +45,7 @@ Pero mi loco amor
 Es tu mejor doctor 
  
  
-[Pre-chorus]
+PRE-ESTRIBILLO
     Eb           Bb
 Voy a curarte el alma en duelo 
     Eb        Bb
@@ -58,7 +58,7 @@ Pronto verás el sol brillar
 Tú más que nadie merece ser feliz 
  
  
-[ESTRIBILLO]
+ESTRIBILLO
 Bb       Dm       Eb
 Ya vas a ver como van sanando 
        F
@@ -69,12 +69,12 @@ Ya vas a ver como va
 La misma vida a decantar la sal que sobra del mar 
  
  
-[INSTRUMENTAL]
+INSTRUMENTAL
 Bb Dm Eb F
 Bb Dm Eb F Dm Gm Cm F
  
  
-[ESTROFA]
+ESTROFA
                Bb            Dm
 Y aunque hayas sido un extranjero 
          Gm          Eb
@@ -87,7 +87,7 @@ Tu aún dices ¿que decís?
 Y lloras de emoción oyendo un bandoneón 
  
  
-[Pre-chorus]
+PRE-ESTRIBILLO
       Eb          Bb             Eb      Bb
 Y aunque parezcas despistado con ese caminar pausado 
   Eb          D             Gm          C
@@ -96,7 +96,7 @@ Conozco la razón que hace doler tu corazón
 Por eso quise hacerte esta canción 
  
  
-[ESTRIBILLO]
+ESTRIBILLO
 Bb       Dm       Eb
 Ya vas a ver como van sanando 
        F

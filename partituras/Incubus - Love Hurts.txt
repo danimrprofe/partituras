@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Incubus
+CANCION: LOVE HURTS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 INCUBUS 
 LOVE HURTS
 
@@ -98,4 +111,5 @@ Em     Bm    D    Am   Em     Bm           A              C
  Love hurts oohhh ohhh, love hurts cause without love I won't survive
 Em     Bm     D         C   Em     Bm     A              C           Em
  Love hurts ahh lala lalala, love hurts without love I won't survive
+
 

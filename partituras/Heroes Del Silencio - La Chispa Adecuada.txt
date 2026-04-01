@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Heroes Del Silencio
+CANCION: LA CHISPA ADECUADA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 HEROES DEL SILENCIO 
 LA CHISPA ADECUADA 
 
@@ -51,7 +64,7 @@ De promesas a olvidar
      D             F#m             G       A
 Todo arde si le aplicas la chispa adecuada
  
-Instrumental
+INSTRUMENTAL
 
 Dm Dm Bb C
 Dm C Bb C
@@ -96,4 +109,5 @@ Dm  Dm              Bb    C
 Dm C Bb C
             Dm
 La chispa adecuada...
+
 

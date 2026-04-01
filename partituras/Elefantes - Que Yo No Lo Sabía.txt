@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Elefantes
+CANCION: QUE YO NO LO SABÍA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 3
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ELEFANTES 
 QUE YO NO LO SABÍA
 Capo 3 (yo Sin capo)
@@ -80,4 +93,5 @@ que hay tantas cosas que vivir, y yo sin ti no lo sabía.
            G     Am Em D   C C
  
 Fin en: G
+
 

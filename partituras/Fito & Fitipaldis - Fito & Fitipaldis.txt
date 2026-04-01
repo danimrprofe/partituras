@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: FITO & FITIPALDIS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 GARABATOS
 Capo 1
@@ -25,7 +38,7 @@ toda mi vida es un gesto que solo tus ojos entienden.
                D    A                Bm
 Yo la quería besar y ella querí­a morderme.
 
-Instrumental
+INSTRUMENTAL
 
 G  A  Bm
 
@@ -56,7 +69,7 @@ Yo la quería besar y ella querí­a morderme.
                      D         A              Bm
 toda mi vida es un gesto que solo tus ojos entienden.
 
-Instrumental
+INSTRUMENTAL
 
 G   A   Bm   
 G   A   Bm   
@@ -88,4 +101,5 @@ Fm  D#   A#  Cm X2
 Fm Cm D# A# Cm
 Fm D# A# C
 Fm D# G# Cm Fm D# A# Cm
+
 

@@ -1,8 +1,21 @@
-﻿MORGAN - CRUEL
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Morgan
+CANCION: CRUEL
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+MORGAN - CRUEL
 MORGAN
 CAPO 2
 
-[Verse 1]
+ESTROFA 1
                 Em
 Ya no es lo que era
                   G
@@ -21,7 +34,7 @@ Es una condena
 Fría y cruel
  
  
-[Chorus]
+ESTRIBILLO
             G
 Y pido al cielo
           Em
@@ -40,7 +53,7 @@ Que ya no quiero
 Quererte
  
  
-[Verse 2]
+ESTROFA 2
          Em
 No pude ver
          G
@@ -59,7 +72,7 @@ Y echo de menos
 Lo que nunca pude hacer
  
  
-[Chorus]
+ESTRIBILLO
             G
 Y pido al cielo
           Em
@@ -78,7 +91,7 @@ Que ya no quiero
 Quererte
  
  
-[Instrumental]
+INSTRUMENTAL
 Em Em Em Em
 Em Em Em G
 C Am Em G
@@ -87,7 +100,7 @@ C Am Em G
 C Am Em Em
  
  
-[Chorus]
+ESTRIBILLO
             G
 Y pido al cielo
           Em
@@ -108,7 +121,7 @@ Quererte
 Quererte
  
  
-[Chorus]
+ESTRIBILLO
             C
 Y pido al cielo
           Am
@@ -129,6 +142,7 @@ Que tengo miedo
 Que ya no quiero
        Em
 Quererte
+
 
 
 

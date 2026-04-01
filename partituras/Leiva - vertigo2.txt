@@ -1,3 +1,15 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: VERTIGO2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
 
 # Vértigo
 
@@ -9,7 +21,7 @@ Versión acústica:
 
 https://www.youtube.com/watch?v=w8Yakp5fh1E
 
-**Estrofa**
+ESTROFA
 ```
 A        C#m   F#m     D
 Luces, vértigos, pequeña agonía,
@@ -18,14 +30,14 @@ A         E      F#m          C#m
             D
 y no termino de verlo.
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
 A                E/G#      D            A           Bm
 Se ha roto algo por dentro, soy una historia mas en la ciudad
      E      F#m     E    D     A
 y yo se que tu también estas así
 ```
-**Estrofa**
+ESTROFA
 ```
 A        C#m           F#m       D
 Crisis, vértigos, se comen el día,
@@ -34,7 +46,7 @@ no dejan de golpear, mi parte de verdad
             D
 y no consigo vencerlo
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
 A                E/G#      D            A           Bm
 Se ha roto algo por dentro, soy una historia mas en la ciudad
@@ -44,7 +56,7 @@ y yo se que tu también estas así
 
 
 
-**Estribillo**
+ESTRIBILLO
 ```
          D            E              F#m         D
 No volveré a ser como antes, no volveré a ser igual,

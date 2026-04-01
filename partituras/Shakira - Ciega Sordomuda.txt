@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: Ciega Sordomuda
@@ -10,10 +10,10 @@ CEJILLA/CAPO: Capo 0
 LEYENDA / NOTAS ADICIONALES:
 (Acordes e información adicional)
 ================================================================================
-[INTRO]
+INTRO
 F  C  F  C
  
-[ESTROFA]
+ESTROFA
 C                        F
     Se me acaba el argumento
               C
@@ -36,7 +36,7 @@ porque ya hasta me ha quebrado los talones
 aunque me levante volvere a caer, si te acercas nada es util
 para esta inutil
  
-[ESTRIBILLO]
+ESTRIBILLO
 F
 bruta, ciega, sordomuda, torpe, traste, testaruda
 C
@@ -46,10 +46,10 @@ en una cosa que no hace otra cosa mas que amarte
 C
 pienso en ti dia y noche y no se como olvidarte
  
-[INSTRUMENTAL]
+INSTRUMENTAL
 F C F C
  
-[ESTROFA]
+ESTROFA
 C                            F
        cuantas veces he intentado
                     C
@@ -68,7 +68,7 @@ si pudiera exorcizarme de tu voz, si pudiera escaparme de tu nombre
 si pudiera arrancarme del corazon, y esconderme para no
 sentirme nuevamente
  
-[ESTRIBILLO]
+ESTRIBILLO
 F
 bruta, ciega sordomuda, torpe, traste, testaruda
 C
@@ -78,10 +78,10 @@ en una cosa que no hace otra cosa mas que amarte
 C
 pienso en ti dia y noche, y no se como olvidarte
  
-[INSTRUMENTAL]
+INSTRUMENTAL
 F C F C
  
-[ESTROFA]
+ESTROFA
 F
 ojerosa, flaca, fea, desgreñada, torpe, tonta, lenta, necia, desquiciada
 C
@@ -91,10 +91,10 @@ ves que se me ha vuelto la cabeza un nido, donde solamente tu tienes asilo
 C
 y no me escuchas lo que te digo, mira bien lo que vas a hacer conmigo
  
-[INSTRUMENTAL]
+INSTRUMENTAL
 F C F C
  
-[ESTRIBILLO]
+ESTRIBILLO
 F
 bruta, ciega, sordomuda, torpe, traste, testaruda
 C

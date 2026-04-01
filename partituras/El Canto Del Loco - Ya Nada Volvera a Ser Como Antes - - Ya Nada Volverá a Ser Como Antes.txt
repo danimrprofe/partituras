@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: YA NADA VOLVERA A SER COMO ANTES - - YA NADA VOLVERÁ A SER COMO ANTES
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ================================================================================
 ARTISTA: EL CANTO DEL LOCO
 CANCIÓN: YA NADA VOLVERÁ A SER COMO ANTES
@@ -11,7 +24,7 @@ estribillos deben sonar con mucha fuerza, preferiblemente usando "power chords"
 si la tocas con eléctrica, o acordes abiertos muy rítmicos en acústica.
 ================================================================================
 
-[Verse 1]
+ESTROFA 1
  G                     D
 Hoy quiero ir a encontrar
  C                         G
@@ -24,7 +37,7 @@ D                G
  Que me lleve allí.
  
  
-[Pre-chorus]  
+PRE-ESTRIBILLO
   E
 Y a pesar de todo
        Am
@@ -35,7 +48,7 @@ Y al vivir me oculto
 Mis defectos para poder dormir
  
  
-[Chorus]
+ESTRIBILLO
              G               D
 Ya nada volverá a ser como antes
             Em             D
@@ -50,7 +63,7 @@ Nunca dejaré que nada me cambie
 Estaremos conociendo nuestra parte de verdad
  
  
-[Verse 2]
+ESTROFA 2
  G                 D
 Tras, una sombra gris
  C              G
@@ -63,7 +76,7 @@ D               G
  Y no quiere salir
  
  
-[Pre-chorus]
+PRE-ESTRIBILLO
 Em
 Y a pesar de todo
        Am
@@ -74,7 +87,7 @@ Y al vivir me oculto
 Mis defectos para poder dormir
  
  
-[Chorus]
+ESTRIBILLO
              G               D
 Ya nada volverá a ser como antes
             Em             D
@@ -89,6 +102,6 @@ Nunca dejaré que nada me cambie
 Estaremos conociendo nuestra parte de verdad
  
  
-[Outro]
+OUTRO
      C          F             D              G
 Estaremos conociendo nuestra parte original

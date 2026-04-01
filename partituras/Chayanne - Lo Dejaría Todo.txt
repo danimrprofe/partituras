@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Chayanne
+CANCION: LO DEJARÍA TODO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 CHAYANNE
 LO DEJARÍA TODO
 Capo 1
@@ -66,5 +79,6 @@ Y dejas en pedazos este corazón.
 Mi piel también la dejaría, Mi nombre, mi fuerza hasta mi propia vida-a.
                Am                     D			      C     G
 Y qué más da perder, si te llevas el todo, mi fe, ¿Qué no dejaría?
+
 
 

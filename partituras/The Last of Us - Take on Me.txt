@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: The Last of Us
+CANCION: TAKE ON ME
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 Afinación:
 E A D G B E
 Tonalidad:
@@ -28,7 +41,7 @@ A|-2--------|---4------|---6---6--|-7--------|-9--------|
 E|----------|-2---2----|-4---4----|----------|----------|
  
  
-[Verse 1]
+ESTROFA 1
 C#m          F#
 Talking away
 B                E
@@ -43,7 +56,7 @@ Shying away
 I'll be coming for your love, okay
  
  
-[Chorus]
+ESTRIBILLO
 B    F#  G#m   E F#
 Take on  me
 B    F#  G#m   E F#
@@ -54,7 +67,7 @@ I'll be  gone
 In a day or two...
  
  
-[Verse 2]
+ESTROFA 2
 C#m            F#
 Needless to say
     B             E
@@ -69,7 +82,7 @@ Say after me
 It's no better to be safe than sorry
  
  
-[Chorus]
+ESTRIBILLO
 B    F#  G#m   E F#
 Take on  me
 B    F#  G#m   E F#
@@ -81,3 +94,4 @@ In a day or two...
             B    F#  G#m  E
 In a day or two...
 X
+

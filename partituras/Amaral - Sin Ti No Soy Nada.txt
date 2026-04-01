@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Amaral
+CANCION: SIN TI NO SOY NADA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 AMARAL 
 SIN TI NO SOY NADA
 
@@ -50,7 +63,7 @@ Porque yo sin ti no soy nada
 F                   G
 Sin ti no soy nada. Sin ti no soy nada
  
-[Verse]
+ESTROFA
 F             G
  Me siento tan rara,
                E7               Am
@@ -80,4 +93,5 @@ Mi alma, mi cuerpo, mi voz, no sirven de nada
 Porque yo sin ti no soy nada
 F                   G
 Sin ti no soy nada. Sin ti no soy nada
+
 

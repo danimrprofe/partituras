@@ -1,10 +1,23 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: MI MEJOR VERSION2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Mi mejor versión
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
 | Mi Mayor  | 117 bpm | 4/4    | 2    |
 
-**Estrofa**
+ESTROFA
 ```
 D                  G        D  D                  G        D
 Puedo hacerte un oscuro ritual, demostrar que no soy uno más
@@ -15,13 +28,13 @@ Despertar mi instinto animal,   volar en un salto mortal
         G                    D
 Nunca igual, nunca igual que tú
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
       A                     G               D
 Y no puedo soportarlo, no puedo soportarlo más
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 D                G                      D/F#
@@ -33,7 +46,7 @@ Y en los días de autodestrucción no hay perro que me ladre
 D/F#             Em        A                    D
 No busques mi mejor versión se la ha llevado el aire
 ```
-**Estrofa**
+ESTROFA
 ```
 D              G       D   D            G       D
 Puedo hacer un lío brutal, una gran pirueta sexual
@@ -47,3 +60,4 @@ Nunca igual, nunca igual que tú
 **Repite puente**
 
 **Repite coro**
+

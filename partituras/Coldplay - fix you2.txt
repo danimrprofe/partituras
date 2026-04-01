@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Coldplay
+CANCION: FIX YOU2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Fixc you
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -5,10 +18,10 @@
 |           | Estándar  | 4/4    | 3    |
 
 ```
-**Intro**
+INTRO
 C  Em  Am7  G  x2
 
-[Verse 1]
+ESTROFA 1
           C                      Em         Am7       G
 When you try your best but you don't succeed,
           C                      Em         Am7       G
@@ -18,7 +31,7 @@ When you feel so tired, but you can't sleep,
            C   Em   Am7   G
 Stuck in reverse.
 
-[Verse 2]
+ESTROFA 2
           C                  Em           Am7        G
 And the tears come streaming down your face,
           C                  Em           Am7        G
@@ -28,7 +41,7 @@ When you love someone but it goes to waste,
              C    Em    Am7   G         F
 Could it be worse?
 
-**Estribillo**
+ESTRIBILLO
 F       C    G           F
 Lights will guide you home,
 F   C  G            F
@@ -36,10 +49,10 @@ And ignite your bones,
 F      C   G
 And I will try to fix you,
 
-**Instrumental**
+INSTRUMENTAL
 C  Em  Am7  G  x2
 
-[Verse 3]
+ESTROFA 3
   C                Em       Am7        G
 High up above or down below,
              C              Em       Am7       G
@@ -49,7 +62,7 @@ But if you never try you'll never know,
                   C    Em   Am7   G       F
 Just what you're worth.
 
-**Estribillo**
+ESTRIBILLO
 F       C    G           F
 Lights will guide you home,
 F   C  G            F
@@ -57,13 +70,13 @@ And ignite your bones,
 F      C   G
 And I will try to fix you.
 
-**Instrumental**
+INSTRUMENTAL
 C  F  C  G
 Am F  C  G
 C  F  C  G
 Am F  C  G
 
-[Bridge]
+PUENTE
 C            F
 Tears stream, down your face,
 C                       G

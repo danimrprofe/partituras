@@ -1,7 +1,20 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: VIOLENTO AMOR2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Violento amor
 
 ```
-[Verse 1]
+ESTROFA 1
 G         D   C
    Violento amor,
         G     D   C
@@ -19,7 +32,7 @@ G        D  C
       Am        D
 que había visto ooh.
 
-[Pre-chorus 1]
+PRE-ESTRIBILLO 1
 G
 Abrió las piernas,
 D
@@ -29,17 +42,17 @@ es una estrella,
   Em        C              D    G D D
 ¿Qué has venido a hacer aquí?.
 
-**Estribillo**
+ESTRIBILLO
    Em   C     G   D
 No sigo tu velocidad
      Em     D/F#      G         D
 siempre me quedo atrá aaha aaaha.
 
-**Instrumental**
+INSTRUMENTAL
 G D C
 G D C
 
-[Verse 2]
+ESTROFA 2
 G        D   C
   Violento amor
             G       D   C
@@ -49,7 +62,7 @@ G           D  C
      Am           D
 no estaba listo ooh.
 
-[Pre-chorus 2]
+PRE-ESTRIBILLO 2
 G
 Cerró las piernas,
 D
@@ -59,7 +72,7 @@ era una estrella,
 Em        C         D     G D D
 ya se largaba de aquí.
 
-**Estribillo**
+ESTRIBILLO
    Em   C     G   D
 No sigo tu velocidad
      Em    A5       G         D
@@ -69,7 +82,7 @@ A veces voy a ver si estás
      Em    D/F#     G             D
 siempre me da por aaah aaaha aahaahi.
 
-[Bridge]
+PUENTE
 Am                C
     Apretó el detonador,
   G          D
@@ -79,11 +92,11 @@ Am                  C
  Em       D    C         Cm
 amor de verano     oooh
 
-**Instrumental**
+INSTRUMENTAL
 G
 Em C D G D
 
-**Estribillo**
+ESTRIBILLO
   Em     C     G   D
 Estoy bastante regular
    Em        D/F#   G    D

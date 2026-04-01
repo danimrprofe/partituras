@@ -1,17 +1,30 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: ANIMALES2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 #  Animales
 
 | Tonalidad | Tempo   | Compás | Capo |
 | --------- | ------- | ------ | ---- |
 | Ab Mayor  | 129 bpm | 4/4    | 1    |
 
-**Intro**
+INTRO
 ```
 Am         C     D              Am         C    D
 Eeeeeeeeh  eeeh  ¿Cómo vas, cómo lo ves?
 Am         C     D              Am         C    D
 Eeeeeeeeh  eeeh  ¿Cómo vas, cómo lo ves?
 ```
-**Estrofa**
+ESTROFA
 ```
       Am          C             D
 ¿Cómo vas, cómo lo ves, cómo lo mueves de bien?
@@ -23,7 +36,7 @@ Cómeme hasta que no me quede carne ni piel
 Amarte, en parte, porque eres todo arte
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 Am            C        D
@@ -45,7 +58,7 @@ Cógeme, no tengas miedo, no te voy a morder
 Atarte, mojarte y luego chulearte
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 Am            C        D
@@ -57,7 +70,7 @@ Am              C             D
 Am       C      D
 Nada que nos separe
 ```
-## Final
+FINAL
 ```
 Am          C     D
    Ah ah ah ah ah Ah ah ah ah ah

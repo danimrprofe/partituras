@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Jarabe De Palo
+CANCION: JARABE DE PALO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JARABE DE PALO 
 GRITA
 
@@ -39,7 +52,7 @@ C                   D
 Em                      Am
   Y si quieres más pues, ­Grita!
  
-Solo
+SOLO
 G B7 Em C    G B7 Em D  N.C.
  
 ESTROFA
@@ -74,5 +87,6 @@ Em                      Am
 
 FINAL
 C D Em Am
+
 
 

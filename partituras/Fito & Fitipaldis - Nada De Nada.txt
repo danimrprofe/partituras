@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: NADA DE NADA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 3
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 NADA DE NADA
 Capo 3
@@ -66,7 +79,7 @@ Tiempo de ladrones, de cerrar las persianas
       A            E        D     F
 De lo que me digas, nada de nada
 
-Instrumental
+INSTRUMENTAL
 
 A E D A E
 A E D F A
@@ -102,4 +115,5 @@ FINAL
 D F A
 D F A
 D F F G G# A
+
 

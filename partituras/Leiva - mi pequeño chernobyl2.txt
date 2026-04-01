@@ -1,11 +1,24 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: MI PEQUEÑO CHERNOBYL2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Mi pequeño Chernóbil
 
-**Intro**
+INTRO
 ```
 G | Bm | Em | Em
 G | Bm | Em | Em
 ```
-**Estrofa**
+ESTROFA
 ```
 G           Bm              Em
 Soñaba con dar un bocado al mundo
@@ -21,7 +34,7 @@ Reírnos a morir, hasta agotar los argumentos
      G            G/F          C
 Desafiando los manuales de la fama y los excesos
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
      Cm
 Solo es humo y nada más
@@ -37,7 +50,7 @@ La gloria enferma de los que quieren reinar, reinar
 Reinar el cielo…
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 G          D            Am          C
@@ -53,7 +66,7 @@ G Bm E
 
 G Bm E
 
-[Verso 2]
+ESTROFA 2
 G             Bm                 Em
 No voy a escribir mi disco más maduro
 G                 Bm             Em
@@ -66,7 +79,7 @@ En las pensiones más inmundas
      G            G/F           C
 Rebañamos los manjares de la euforia y las burbujas
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
      Cm
 Solo asumo y nada más
@@ -82,7 +95,7 @@ La gloria enferma de los que quieren reinar, reinar
 Reinar el cielo…
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 G          D            Am          C
@@ -100,10 +113,11 @@ Solo pretendo aprender a vivir con ello
                             D      G     Bm  Em
 Solo pretendo aprender a vivir con ello
 ```
-## Final
+FINAL
 ```
 G        Bm     Em           C           G        Bm     Em
 ¿Qué vendrá después? De los años muertos ¿Que vendrá después?
 G        Bm     Em           C           G        Bm     Em
 ¿Qué vendrá después? De los años muertos ¿Que vendrá después?
 ```
+

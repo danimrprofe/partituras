@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: Donde estas corazon
@@ -10,7 +10,7 @@ CEJILLA/CAPO: Capo 0
 LEYENDA / NOTAS ADICIONALES:
 (Acordes e información adicional)
 ================================================================================
-[Verso 1]
+ESTROFA 1
                  D   G
 ¿Dónde estas corazón? 
              D   G
@@ -29,7 +29,7 @@ Porque mi silencio una corazonada
 Me dice que sí
  
  
-[Verso 2]
+ESTROFA 2
                  D   G
 ¿Dónde estás corazón?
                  D   G
@@ -47,7 +47,7 @@ Porque en el planeta no existe más nadie
                   A
 A quien pueda yo amar
  
-[Coro]
+ESTRIBILLO
                  D   G
 ¿Dónde estás corazón? 
          C    G
@@ -57,7 +57,7 @@ Ayer te busqué
           C      G
 Y no te encontré
  
-[Verso 3]
+ESTROFA 3
                  D   G
 ¿Dónde estás corazón?
               D   G
@@ -75,7 +75,7 @@ Porque en el planeta no existe más nadie
                    A
 A quien puedo yo amar
  
-[Coro]
+ESTRIBILLO
                  D   G
 ¿Dónde estás corazón? 
          C    G
@@ -85,7 +85,7 @@ Ayer te busqué
           C      G
 Y no te encontré
  
-[Puente]
+PUENTE
                   D
 Te busqué en el armario, en el abecedario
            G
@@ -109,7 +109,7 @@ Woah woah woah
 D     G              C  G
 Noooo no no no no no no
  
-[Coro]
+ESTRIBILLO
                  D   G
 ¿Dónde estás corazón? 
          C    G
@@ -119,7 +119,7 @@ Ayer te busqué
           C      G
 Y no te encontré
  
-[FINAL]
+FINAL
                   D
 Te busqué en el armario, en el abecedario
            G

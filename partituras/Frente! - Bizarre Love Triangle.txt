@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Frente!
+CANCION: BIZARRE LOVE TRIANGLE
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FRENTE! 
 BIZARRE LOVE TRIANGLE
 
@@ -15,7 +28,7 @@ But that's the way that it goes and it's what nobody knows
       Em           Am
 And every day my confusion grows
 
-ESTRIBILLO 
+ESTRIBILLO
 
 F             G			  
 Every time I see you falling,
@@ -46,7 +59,7 @@ That if I hurt someone else
           Em                    Am
 Then I'll never see just what we're meant to be
 
-ESTRIBILLO 
+ESTRIBILLO
 
 F             G			  
 Every time I see you falling,
@@ -56,4 +69,5 @@ I get down on my knees and pray
 I'm waiting for that FINAL moment 
 Em                       Am
 You'll say the words that I can't say
+
 

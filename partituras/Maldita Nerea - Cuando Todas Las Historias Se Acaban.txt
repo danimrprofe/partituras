@@ -1,4 +1,17 @@
-[VERSO 1]
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Maldita Nerea
+CANCION: CUANDO TODAS LAS HISTORIAS SE ACABAN
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+ESTROFA 1
 Em                    C
 Te mira y no te ve
 Am                D
@@ -14,7 +27,7 @@ No puede dar lo que no guarda
    F    C      D
 Y nunca lo quisiste ver
 
-[VERSO 2]
+ESTROFA 2
 Em                   C
 No es la primera vez
 Am                D
@@ -30,7 +43,7 @@ Te puede amar quien solo engaña
    F    C      D
 Y nunca lo quisiste ver
 
-[ESTRIBILLO]
+ESTRIBILLO
        F#m            D        Bm E
 Y hubo tanto amor que no queda nada
         F#m            D       
@@ -42,7 +55,7 @@ Cuando todas las historias se acaban
                  D        E
 Y ya solo quedas tú
 
-[VERSO 3]
+ESTROFA 3
 Em               C
 Y no te sienta bien
 Am                D
@@ -58,7 +71,7 @@ Vives en dirección contraria
    F    C      D
 Y nunca lo quisiste ver
 
-[ESTRIBILLO]
+ESTRIBILLO
        Em             C       Am  D
 Y hubo tanto amor que no queda nada
                Em           C
@@ -100,7 +113,7 @@ Y no sabe querer
 G                    B
 No puede amar quién solo engaña
 
-[ESTRIBILLO]
+ESTRIBILLO
        F#m            D        Bm E
 Y hubo tanto amor que no queda nada
         F#m            D       
@@ -122,7 +135,7 @@ Cuando todas las historias se acaban
                  D        E
 Y ya solo quedas tú
 
-[OUTRO]
+OUTRO
                 F#m D  A
 Y ya solo quedas tú
 

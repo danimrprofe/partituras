@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Dani Martín
+CANCION: QUE BONITA LA VIDA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 DANI MARTÍN 
 QUE BONITA LA VIDA
 
@@ -102,4 +115,5 @@ Que te trata de usted para luego arroparte
 Te hace sentir valiente otras tantas don nadie
                C   D
 Que bonita la vida.
+
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Stone Sour
+CANCION: THROUGH GLASS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 STONE SOUR
 THROUGH GLASS
 Stone sour (2006)
@@ -103,5 +116,6 @@ And it's the stars, the stars that lie for you [x2]
 And it's the stars, The stars.
 C D Em        C                    D        Em
         Who are the stars.Who are the stars they
+
 
 

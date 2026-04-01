@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Seal
 CANCIÓN: kiss from a rose
@@ -29,7 +29,7 @@ You became the light on the dark side of me
                   D              A                E
 Love remained a drug that's the high and not the pill
 
-[Pre-Estribillo]
+PRE-ESTRIBILLO
 
 Did you know
                Em
@@ -39,7 +39,7 @@ My eyes become large and
      C              D           E
 The light that you shine can be seen?
 
-[Estribillo]
+ESTRIBILLO
 
 Baby
 
@@ -74,7 +74,7 @@ To me you're like a growing addiction that I can't deny
                            C           D
 Won't you tell me is that healthy, baby?
 
-[Pre-Estribillo]
+PRE-ESTRIBILLO
 
           E
 Did you know
@@ -85,7 +85,7 @@ My eyes become large and
      C              D           E
 The light that you shine can be seen?
 
-[Estribillo]
+ESTRIBILLO
 
 Baby
 
@@ -106,7 +106,7 @@ A light hits the gloom on the grey
 ( C  D  E )
 ( C  D  C  D )
 
-[Puente]
+PUENTE
 
 D          A           G           D
 I've been kissed by a rose on the grey
@@ -138,7 +138,7 @@ That I can't deny, yeah
                           C           D
 Won't you tell me is that    healthy, baby
 
-[Pre-Estribillo]
+PRE-ESTRIBILLO
 
           E
 Did you know
@@ -149,7 +149,7 @@ My eyes become large
         C              D
 And the light that you shine can be seen
 
-[Estribillo]
+ESTRIBILLO
 
 Baby
 

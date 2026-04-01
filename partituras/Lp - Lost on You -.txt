@@ -1,8 +1,21 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Lp
+CANCION: LOST ON YOU -
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 LP - LOST ON YOU
 LP
 Capo 1
 
-INTRO 
+INTRO
 
 Am  D6  Em
 Am  D6  Em
@@ -115,4 +128,5 @@ Is that lost on you? Is that lost on you?
 Oooh ooh oooooh oooh
 Am   D6  Em     C
 Oooh ooh oooooh oooh
+
 

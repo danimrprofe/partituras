@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: HISTERICOS2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Histéricos
 
 | 🎸Tonalidad | Tempo  | Compás | Capo |
@@ -24,7 +37,7 @@ Me moría de ganas De clavarte un cuchillo
 Y abrazarte a todo lo que da
 ```
 
-**Estribillo**
+ESTRIBILLO
 
 ```
            Am                 F             C    Em   G
@@ -33,7 +46,7 @@ No me das miedo. Lánzame hacia ti. Dame de lleno
 Haz el esfuerzo. Déjalo fluir. Hazte con ello
 
 ```
-**Estrofa**
+ESTROFA
 ```
    C                                 F
 Esclavos de la fragilidad. Se nos ahogaba la máquina
@@ -45,14 +58,14 @@ Me arañabas la cara. Empapados en vino
 Yo sabía que no ibas a aguantar
 ```
 
- **Estribillo**
+ESTRIBILLO
 ```
            Am                 F             C    Em   G
 No me das miedo. Lánzame hacia ti. Dame de lleno
              Am            F              C   G   G7
 Haz el esfuerzo. Déjalo fluir. Hazte con ello
 ```
-**Estrofa**
+ESTROFA
 ```
         G                            Am
 Y ya verás cómo se encienden algunas luces del puerto
@@ -63,13 +76,14 @@ Que tú no puedes ver
               Em                     G
 Estamos totalmente hipnotizados Otra vez
 ```
-**Instrumental**
+INSTRUMENTAL
 ```
 G7   F   G
 ```
-**Estribillo**
+ESTRIBILLO
 ```
            Am                 F             C    Em   G
 No me das miedo. Lánzame hacia ti. Dame de lleno
              Am            F              C   G   G7
 Haz el esfuerzo. Déjalo fluir. Hazte con ello
+

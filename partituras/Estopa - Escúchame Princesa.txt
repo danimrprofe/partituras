@@ -1,4 +1,17 @@
-﻿ESTOPA 
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Estopa
+CANCION: ESCÚCHAME PRINCESA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+ESTOPA 
 ESCÚCHAME PRINCESA
 Sin capo
 Am7                        D7sus2
@@ -49,4 +62,5 @@ que no me caere a trozos ni me volare los sesos
 solo dame un abrazo y deseame lo mejor
           F      G          Am
 que no me caere a trozos ni me volare los sesos
+
 

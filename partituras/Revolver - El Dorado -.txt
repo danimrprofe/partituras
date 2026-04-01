@@ -1,7 +1,20 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Revolver
+CANCION: EL DORADO -
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 REVOLVER - EL DORADO
 REVOLVER
 
-INTRO 
+INTRO
 
 C  C
 (Sax)
@@ -67,7 +80,7 @@ lo mejor de sus vidas dónde se ha quedado
      Dm                        F
 quizás yendo detrás del maldito el dorado
 
-Interludio
+INTERLUDIO
 
 G  C  G  F  G  Am  G C F C
 
@@ -77,7 +90,7 @@ C       Em7
 Fmaj7   C       C/B
 Am      G       F Fadd9 F
 
-Interludio
+INTERLUDIO
 
 e|--------------------------------------------------------------------------------|
 B|--------------------------------------------------------------------------------|
@@ -124,7 +137,7 @@ lo mejor de sus vidas dónde se ha quedado
      Dm                        F
 quizás yendo detrás del maldito el dorado
 
-Instrumentales
+INSTRUMENTAL
 
 Am  G  C  F
 C   G  C  F
@@ -142,4 +155,5 @@ lo mejor de sus vidas dónde se ha quedado oh oh oh
 Vi a mis padres correr...
    C          G             C       F
 Vi a mis padres luchar
+
 

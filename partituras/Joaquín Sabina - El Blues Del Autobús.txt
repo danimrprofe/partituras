@@ -1,4 +1,17 @@
-﻿JOAQUIN SABINA 
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: EL BLUES DEL AUTOBÚS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+JOAQUIN SABINA 
 EL BLUES DEL AUTOBUS
 /  Am7   G   Am7   C7M   G  /
  
@@ -53,4 +66,5 @@ F 4/7    Eb7M     Dm7
 Si podemos conectar lo demás se puede olvidar     ¡Oh!........
  
 Vivo en la carretera........
+
 

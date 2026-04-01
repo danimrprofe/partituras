@@ -1,3 +1,15 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Maldita Nerea
+CANCION: PIEDRA PAPEL O TIJERA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
 
 C D Em D
 C D Em D
@@ -35,7 +47,7 @@ y eso es cierto pero hay que arriesgar,
             Em          D     C      Cm
 Porque este vuelo nos puede matar? matar y yo ya estoy cansado de volar.
 
-[Estribillo]
+ESTRIBILLO
 G              D          C              D        Em
  Si ves que enciendo la puerta, tú me cierras la luz
         Bm          C        D          G
@@ -54,7 +66,7 @@ De decir que no se llenará.
      Em       D       C      Cm
 Pide piedra, tijera o papel, papel? para que todo vuelva a suceder.
 
-[Estribillo]
+ESTRIBILLO
 G              D          C              D        Em
  Ya ves que enciendo la puerta, tú me cierras la luz
         Bm          C        D          G
@@ -84,7 +96,7 @@ G D  Em     C
 G D  Em     C
          Si no lo llenas tú
 
-[Estribillo]
+ESTRIBILLO
 G              D          C              D        Em
  Ya ves que enciendo la puerta, tú me cierras la luz
         Bm          C        D          G

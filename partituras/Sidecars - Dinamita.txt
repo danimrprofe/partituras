@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Sidecars
 CANCIÓN: DINAMITA
@@ -38,7 +38,7 @@ Creetelo, no hay Dios, que me cure de ti.
       Em  C G   Em  D       G
 Pídemelo lento, sácame de aquí.
 
-[ESTROFA]
+ESTROFA
 G      Bm         Em  G      Bm              Em
 No sé qué será de mi Sabes Siempre fui un desastre
 C      G/B          D Am7      G          D
@@ -55,6 +55,6 @@ Y a quién quiero engañar Ya sabes que bebo los vientos por ti.
 Y no aguanto más así.
 Em D G Em D/#G C D G D C
 REPITE ESTRIBILLO
- [FINAL]
+FINAL
 G      D          Em
 Cómo habré llegado aquí

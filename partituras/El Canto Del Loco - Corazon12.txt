@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: CORAZON12
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL CANTO DEL LOCO - CORAZON
 EL CANTO DEL LOCO
 MEDIO TONO ABAJO
@@ -45,4 +58,5 @@ G A# C
 A# G C
 
 ESTRIBILLO
+
 

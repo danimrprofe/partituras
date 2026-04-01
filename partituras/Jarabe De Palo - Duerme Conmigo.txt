@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Jarabe De Palo
+CANCION: DUERME CONMIGO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JARABE DE PALO 
 DUERME CONMIGO
 
@@ -69,5 +82,6 @@ Ven a mi cama    duerme conmigo
 ven a mi cama    duerme conmigo
            Em  C             G
 ven a mi cama    duerme conmigo
+
 
 

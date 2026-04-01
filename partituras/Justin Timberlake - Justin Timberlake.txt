@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Justin Timberlake
+CANCION: JUSTIN TIMBERLAKE
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JUSTIN TIMBERLAKE 
 PERFECT
 Capo 2
@@ -67,4 +80,5 @@ You're no good for me, I'm no good for you
 And I hate that you're perfect, you're perfect for me
                       C    D                    G
 I hate that you're perfect, you're perfect for me
+
 

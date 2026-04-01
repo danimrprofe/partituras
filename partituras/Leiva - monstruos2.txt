@@ -1,23 +1,36 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: MONSTRUOS2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Monstruos
 
 | Tonalidad | Afinación | Compás | Capo |
 | --------- | --------- | ------ | ---- |
 |           | Estándar  | 4/4    | No   |
 
-**Estrofa**
+ESTROFA
 ```
 D | Bm | A | -
 D | Bm | A | -
 
 ```
-**Estrofa**
+ESTROFA
 ```
               D                       Bm                            A     Asus  A
 Mira que el tiempo no para, y que los monstruos solo están en tu cabeza.
          D                       Bm                         A     Asus  A
 Mira las luces del alba, como iluminan y nos brindan su belleza.
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
                D               G                      A     Asus  A
 Mira hacia el cielo; baja la guardia; que pase la tormenta;
@@ -26,7 +39,7 @@ que no estás solo; que estás de espaldas  y no te das ni cuenta.
 
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
                 G          D                   A                       Bm
@@ -40,7 +53,7 @@ D | Bm | A | -
 D | Bm | A | -
 
 ```
-**Estrofa**
+ESTROFA
 ```
               D                       Bm                   A     Asus  A
 Cuando te acuestes, el miedo y los fantasmas ondean tu bandera.
@@ -48,7 +61,7 @@ Cuando te acuestes, el miedo y los fantasmas ondean tu bandera.
 Y grites en el desierto y busques un enemigo al que ganar la guerra.
 
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
                D               G                      A     Asus  A
 Mira hacia el cielo; baja la guardia; que pase la tormenta;
@@ -57,7 +70,7 @@ que no estás solo; que estás de espaldas  y no te das ni cuenta.
 
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
                 G          D                   A                       Bm
@@ -65,7 +78,7 @@ Que todos esos monstruos debajo de la cama se cuelan en tus sueños tan rápido.
    G                        D                         A             G   D
 Impúlsate en mis hombros; apóyate en mi espalda; perdona si no llega la calma.
 ```
-**Instrumental**
+INSTRUMENTAL
 ```
 F#m | G | A | D F#m
 G | A | Bm |
@@ -73,7 +86,7 @@ A | E | - | -
 
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
                 G          D                   A                       Bm

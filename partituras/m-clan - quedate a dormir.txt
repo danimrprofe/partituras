@@ -8,14 +8,14 @@ AFINACIÓN: Estándar (E A D G B E)
 TONALIDAD: —
 ================================================================================
 
-**Intro**
+INTRO
 
 C F   C G
 C F   C G
 C F   C G
 C F   C G
 
-[Verse 1]
+ESTROFA 1
 
 C F              C G
 No quiero ser soldado
@@ -34,7 +34,7 @@ no tengo prisa por llegar
 C F              C G
 nunca he cogido un atajo...
 
-[Bridge]
+PUENTE
 
 Am            C/G
 No quiero ser río,
@@ -45,7 +45,7 @@ no quiero remar
          D         G
 y mucho menos naufragar...
 
-**Estribillo**
+ESTRIBILLO
 
              C F
 Quédate a dormir,
@@ -61,12 +61,12 @@ uh   uh,uh  uh,uh  uh,uh
 F       G     Am   G
 uh   uh,uh   uh,uh,uh
 
-[Solo]
+SOLO
 
 C F   C G
 C F   C G
 
-[Verse 2]
+ESTROFA 2
 
 C F              C G
 No quiero hablar mas alto,
@@ -77,7 +77,7 @@ no hay nada que te pueda decir,
 C F              C G
 que no hayas escuchado ya...
 
-[Bridge]
+PUENTE
 
 Am            C
 No quiero quedarme
@@ -88,7 +88,7 @@ no quiero ser un lastre
          D         G
 que no te permita andar...
 
-**Estribillo**
+ESTRIBILLO
 
              C F
 Quédate a dormir,
@@ -104,7 +104,7 @@ uh   uh,uh  uh,uh  uh,uh
 F       G     Am   G
 uh   uh,uh   uh,uh,uh
 
-[Solo]
+SOLO
 
 C F   C G
 C F   C G
@@ -121,7 +121,7 @@ Para poder marcharme,
 C F                       C   Gm
 Para entrar, si me apetece entrar.
 
-**Estribillo**
+ESTRIBILLO
 
              C F
 Quédate a dormir,
@@ -153,4 +153,5 @@ Dm7      Em     Dm7     Em
 uh   uh,uh  uh,uh  uh,uh
 Dm7      Em     Dm7     Em
 uh   uh,uh  uh,uh  uh,uh
+
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: TROZOS DE CRISTAL
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 5
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 EN MI NUBE AZUL
 Capo 5. Tonalidad original	
@@ -59,4 +72,5 @@ Am7     Dm7      Am7      Am7
 Dm7     Dm7      Am7      Am7
 E7      Dm7      Am7      E7
 x2
+
 

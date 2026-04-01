@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: Y, SIN EMBARGO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA - Y, sin embargo
 Joaquín sabina
 Nada
@@ -96,5 +109,6 @@ Am7               C          D            Am7
 Y al cielo de tu boca el purgatorio y al dormitorio 
    C      D
 el pan de cada dia
+
 
 

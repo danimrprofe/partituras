@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: PÁJAROS DISECADOS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 PÁJAROS DISECADOS
 Capo 1
@@ -30,7 +43,7 @@ Se que tengo que olvidar este frío mes de enero,
 Bb        G                Dm
 luego volveré a brillar de nuevo.
 
-Instrumental
+INSTRUMENTAL
 
 Bb  C   Dm Bb  G 
 
@@ -58,7 +71,7 @@ Se que tengo que olvidar este frío mes de enero,
 Bb        G                Dm
 luego volveré a brillar de nuevo.
 
-Instrumental
+INSTRUMENTAL
 
 F | C | Bb G | Dm  x2
 
@@ -78,5 +91,6 @@ luego volveré a brillar de nuevo.
 
 FINAL
 F | C | Bb G | Dm  x2
+
 
 

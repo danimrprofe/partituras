@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: John Mayer
+CANCION: SLOW DANCING IN A BURNING ROOM
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOHN MAYER 
 SLOW DANCING IN A BURNING ROOM
 
@@ -37,7 +50,7 @@ And you know that we're doomed
 My dear, we're slow dancing in a burning room
  
  
-[Instrumental]
+INSTRUMENTAL
  
 C#m7    Aadd9  E
 C#m7    Aadd9  E
@@ -77,7 +90,7 @@ And you know that we're doomed
    C#m7                          Aadd9   E
 My dear, we're slow dancing in a burning room
  
-Instrumental
+INSTRUMENTAL
  
 C#m7    Aadd9  E
 C#m7    Aadd9  E
@@ -94,14 +107,14 @@ Go cry about it, why don't you
    C#m7                          Aadd9   E
 My dear, we're slow dancing in a burning room
   
-Instrumental
+INSTRUMENTAL
  
 C#m7    Aadd9  E
 C#m7    Aadd9  E
 C#m7    Aadd9  E
 C#m7    Aadd9  E
  
-[Outro]
+OUTRO
 
                           C#m7
 Don't you think we oughta know by now
@@ -115,5 +128,6 @@ Don't you think we should've learned somehow
 Don't you think we oughta know by now
                              Aadd9         E
 Don't you think we should've learned somehow
+
 
 

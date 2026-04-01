@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Goo Goo Dolls
+CANCION: SLIDE BY THE GOO GOO DOLLS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 Capo:
 1st fret
 SLIDE by THE GOO GOO DOLLS
@@ -33,7 +46,7 @@ A||*---------------------3-----------------*||
 E||------------------------------3-----2----||
                                 *T     T    *thumb
  
-[VERSE]
+ESTROFA
 Em                        D
   Could you whisper in my ear
                        C9
@@ -151,7 +164,7 @@ D (break)
   Why don't you slide into my room.
        D
   Just slide into my room.
-                                        *OUTRO
+OUTRO
   Oh, we'll run away, run away, run away.___
  
 OUTRO :                                                             let ring

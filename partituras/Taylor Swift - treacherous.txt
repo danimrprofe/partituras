@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Taylor Swift
 CANCIÓN: treacherous
@@ -26,12 +26,12 @@ F#m    x22000
 D      x32010
  
  
-[INTRO]
+INTRO
  
 A    E    F#m   D   x2
  
  
-[ESTROFA]
+ESTROFA
  
 A                        E
  Put your lips close to mine
@@ -49,7 +49,7 @@ A                           E              F#m        D
  And I'd be smart to walk away but you're quicksand
  
  
-[ESTRIBILLO]
+ESTRIBILLO
  
 A             E
  This slope is treacherous
@@ -61,7 +61,7 @@ F#m       D         A
  And I-I-I like it
  
  
-[ESTROFA]
+ESTROFA
  
 A                           E
  I can't decide if it's a choice
@@ -81,7 +81,7 @@ A                         E
  But you're friction
  
  
-[ESTRIBILLO]
+ESTRIBILLO
  
 A             E
  This slope is treacherous
@@ -93,7 +93,7 @@ F#m       D
  And I-I-I like it
  
  
-[PUENTE]
+PUENTE
  
 E                F#m                         D
  Two headlights shine through the sleepless night
@@ -109,7 +109,7 @@ E                F#m                         D
  I follow you follow you home
  
  
-[ESTRIBILLO]
+ESTRIBILLO
  
 A               E
  This hope is treacherous
@@ -121,7 +121,7 @@ F#m    D
  I-I-I - I-I-I - I-I-I
  
  
-[PUENTE]
+PUENTE
  
 E                F#m                         D
  Two headlights shine through the sleepless night
@@ -143,7 +143,7 @@ E                F#m                         D
  I follow you follow you home
  
  
-[FINAL]
+FINAL
  
 A             E
  This slope is treacherous

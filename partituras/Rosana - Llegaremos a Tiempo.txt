@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Rosana
+CANCION: LLEGAREMOS A TIEMPO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla (o según comodidad para el transporte)
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ================================================================================
 ARTISTA: ROSANA
 CANCIÓN: LLEGAREMOS A TIEMPO
@@ -92,4 +105,5 @@ Llegaremos a tiempo, llegaremos a tiempo
 
 Sólo pueden contigo...
 FINAL: SG [GSUS2 GSUS4 G] C EM D G DSUS4 D
+
 

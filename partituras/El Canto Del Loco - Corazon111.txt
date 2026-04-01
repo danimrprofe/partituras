@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: CORAZON111
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 **************************************************
 *                                                *
 *            El Canto del Loco                  *
@@ -11,7 +24,7 @@
 *                                                *
 **************************************************
 
-[Verse]
+ESTROFA
              F
 Con miedo despiertas, cada mañana
  
@@ -41,7 +54,7 @@ Nunca te has gustado, y vives exigiéndote al máximo siempre,
                                               F
 tu solo eres culpable de que ahora tu te veas así.
  
-[Chorus]
+ESTRIBILLO
 F        C            Dm              Am
 Corazón, ahora tienes que pedirte perdón
       A#                   F
@@ -57,7 +70,7 @@ y sufrir cada vez que sale el sol
  F - Em - Dm - C
 corazooooon!!
  
-[Verse]
+ESTROFA
                          F
 Con miedo te acuestas sin decir nada
  
@@ -78,7 +91,7 @@ Nunca te has gustado, y vives exigiéndote al máximo siempre,
                                               F
 tu solo eres culpable de que ahora tu te veas así.
  
-[Chorus]
+ESTRIBILLO
 F        C            Dm              Am
 Corazón, ahora tienes que pedirte perdón
       A#                   F
@@ -92,11 +105,11 @@ por creerte siempre feo y culpable
     A#
 y sufrir cada vez que sale el sol
  
-[Instrumental]
+INSTRUMENTAL
 G A# C
 A# G C
  
-[Chorus]
+ESTRIBILLO
 F        C            Dm             Am
 Corazón, ahora tienes que pedirte perdón
       A#                  b   F

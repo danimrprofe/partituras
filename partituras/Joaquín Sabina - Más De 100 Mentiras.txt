@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: MÁS DE 100 MENTIRAS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 MÁS DE 100 MENTIRAS
 Joaquín Sabina
@@ -23,7 +36,7 @@ tenemos Venecia, tenemos Manhattan,
 Asus2		              E  
 tenemos cenizas de revoluciones.
 
-Instrumental
+INSTRUMENTAL
 
 E Asus2
 
@@ -157,6 +170,7 @@ F#dim          Am7           D
 caminos que nunca llevaban a Roma.
 
 ESTRIBILLO X3
+
 
 
 

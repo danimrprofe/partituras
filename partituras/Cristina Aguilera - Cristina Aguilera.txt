@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Cristina Aguilera
+CANCION: CRISTINA AGUILERA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 CRISTINA AGUILERA - BEAUTIFUL
 Cristina Aguilera
 
@@ -66,4 +79,5 @@ Eb/Db    Cm     B                       Eb
      Ooh,  yeah, don't you bring me down  today. 
 Eb/Db Cm B                       Eb
 Ooh,          don't you bring me down  today
+
 

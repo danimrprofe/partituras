@@ -1,14 +1,27 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: CIENCIA FICCION2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Ciencia ficción
 
 | Tonalidad | Tempo  | Compás | Capo |
 | --------- | ------ | ------ | ---- |
 | Do Mayor  | 94 bpm | 4/4    | No   |
 
-**Intro**
+INTRO
 ```
 F-C F x2
 ```
-**Estrofa**
+ESTROFA
 ```
      C
 Pero que cool estás hoy has venido tan radiante
@@ -23,7 +36,7 @@ Se me escapa algún suspiro no me centro ni un instante
       C        					          F
 Estás loca y no me fío me llevaste por delante y me da igual
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
 G                 F
 Súbete la falda y vamos a tontear
@@ -33,7 +46,7 @@ Dm       G        Dm          G
 Es fácil perderse, pero qué bueno verte
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
   C                       F
@@ -45,7 +58,7 @@ Y te sorprenderás soy tan peliculero
                 C                        G
 Y cada día lo soy más pero ahí estoy, dejándome llevar
 ```
-**Estrofa**
+ESTROFA
 ```
      C
 Eres de ciencia ficción tienes las piernas gigantes
@@ -65,10 +78,11 @@ De delirios y en instantes nos matamos y volvemos siempre igual
 
 **Repite Estribillo**
 
-**Instrumental**
+INSTRUMENTAL
 ```
 F C/E Dm C
 F C/E Dm C
 Am G F G
 ```
 **Repite estribillo**
+

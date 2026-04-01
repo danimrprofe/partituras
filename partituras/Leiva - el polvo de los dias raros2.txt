@@ -1,7 +1,20 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: EL POLVO DE LOS DIAS RAROS2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # El polvo de los días raros
 
 ```
-[Verse]
+ESTROFA
        G#m
 Se me duerme el Cielo De La Boca
            E

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Efecto Mariposa
+CANCION: NO ME CREES
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EFECTO MARIPOSA - NO ME CREES
 Efecto mariposa feat. Javier Ojeda (2005)
 Sin capo
@@ -101,6 +114,7 @@ entretenerme en el recuerdo es el remedio
 que me queda de tu amor.
         A
 No me crees?.
+
 
 
 

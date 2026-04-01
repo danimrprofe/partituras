@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: LA SUERTE DE MI VIDA28
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL CANTO DEL LOCO - LA SUERTE DE MI VIDA
 EL CANTO DEL LOCO
 MEDIO  TONO ABAJO
@@ -95,4 +108,5 @@ Y voy, a mirarte, a morirme y a luchar,
 llorar de alegría y quererte aún más,
                              D#      Fm
 que tú eres la suerte de mi vida.
+
 

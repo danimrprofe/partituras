@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Desconocido
+CANCION: MATCHBOX TWENTY -
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ================================================================================
 ARTISTA: MATCHBOX TWENTY
 CANCIÓN: UNWELL
@@ -100,4 +113,5 @@ N.C.
 and how I used to be
 N.C.
 Yeah, how I used to be...
+
 

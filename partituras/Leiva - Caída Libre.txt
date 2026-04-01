@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: LEIVA
 CANCIÓN: CAIDA LIBRE
@@ -15,7 +15,7 @@ ARTISTA: LEIVA
 CANCIÓN: CAÍDA LIBRE
 ================================================================================
 
-ESTROFA 
+ESTROFA
 
          C                    Dm
 Si encontrara silencio en mi ruido mental
@@ -58,7 +58,7 @@ En cuanto me dé un rayo de Sol
 Voy a hacerme una foto en un fotomatón
  
  
-[Instrumental]  
+INSTRUMENTAL
 C Dm Gsus4 G  x2
 Dm   C  x2
  

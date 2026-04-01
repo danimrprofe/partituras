@@ -1,4 +1,17 @@
-﻿SOPA DE CABRA - L'EMPORDA
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Sopa De Cabra
+CANCION: L’EMPORDA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 4
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+SOPA DE CABRA - L'EMPORDA
 SOPA DE CABRA
 Mejor bajando 2 tonos y capo 4
 
@@ -27,10 +40,10 @@ i anar a l'infern no m'interessa,
 C#m    A    B        A
 és molt més bonic l'Empordà.
 
-[Instrumental]
+INSTRUMENTAL
 E A B E
 
-[Verse]
+ESTROFA
 E                  A
 Varen passar ampolles i anys
 B               E
@@ -54,7 +67,7 @@ i anar a l'infern no m'interessa,
 C#m    A    B        A
 és molt més bonic l'Empordà.
 
-Solo
+SOLO
 
 E B A C#m
 A E B
@@ -77,4 +90,5 @@ C#m       A      E      A
 potser que avui no es suicidi
 C#m    A    B        A
 potser ho deixi fins demà.
+
 

@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Revolver
 CANCIÓN: DOS POR DOS
@@ -14,7 +14,7 @@ REVOLVER - DOS POR DOS
 REVÓLVER
 SIN CAPO
 
-INTRO 
+INTRO
 
 A D E D
  

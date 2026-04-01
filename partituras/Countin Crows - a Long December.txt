@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Countin Crows
+CANCION: A LONG DECEMBER
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 COUNTIN CROWS 
 A LONG DECEMBER
 Piano
@@ -72,4 +85,5 @@ And it's one more night in Hollywood
 If you think you might come to California...
               F	  A#   Gm  A#   F   A#   Gm
 I think you should nanananananananana. Yeah
+
 

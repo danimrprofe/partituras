@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Astola
+CANCION: COJO EL SACO Y ME RETIRO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ASTOLA
 COJO EL SACO Y ME RETIRO
 Astola
@@ -71,5 +84,6 @@ yo no puedo prometerte que vaya a quererte
 
 F G Am G x2
 G E Am
+
 
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: ANTES DE QUE CUENTE DIEZ
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 ANTES DE QUE CUENTE DIEZ
 
@@ -20,7 +33,7 @@ y en mi ventana sopla en el cristal,
         A                  E
 mira a ver si estoy despierto.
 
-Instrumental
+INSTRUMENTAL
 
 F#m A | E | F#m A | E
 
@@ -79,4 +92,5 @@ algo de calor sin tus abrazos ahora sé que nunca volveré.
 
 FINAL
 F#m  D  Bm  D    (repite)
+
 

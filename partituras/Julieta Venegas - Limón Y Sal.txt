@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Julieta Venegas
+CANCION: LIMÓN Y SAL
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 4
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JULIETA VENEGAS 
 LIMÓN Y SAL
 Capo 4 para tonalidad original
@@ -48,12 +61,12 @@ Si subes y bajas y no estás
 Seguro, de lo que sientes
  
  
-[Bridge]
+PUENTE
 C D Em D G A
 C D Em D A D
  
  
-[Verse]
+ESTROFA
 G         D            C
 Tengo que confesarte ahora
          D             G
@@ -107,4 +120,5 @@ C D Em D F# A
 Con sólo tenerte cerca
 D                       G
 Siento que vuelvo a empezar.
+
 

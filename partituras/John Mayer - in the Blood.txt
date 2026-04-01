@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: John Mayer
 CANCIÓN: IN THE BLOOD
@@ -15,12 +15,12 @@ John Mayer – In the Blood
  
 Capo 1
  
-[INTRO]
+INTRO
 G     G/F# Em7    Em7/B Cadd9    C/B G
 G     G/F# Em7    Em7/B Cadd9    C/B G
  
  
-[ESTROFA]
+ESTROFA
  G             Em7          Cadd9           G
 How much of my mother has my mother left in me
  G              G             D               D
@@ -31,7 +31,7 @@ And what about this feeling that I'm never good enough
 Will it wash out in the water or is it always in the blood
  
  
-[ESTROFA]
+ESTROFA
  G              Em7         Cadd9         G
 How much of my father am I destined to become
        G                 G               D              D
@@ -42,7 +42,7 @@ Will I let this woman kill me or do away with jealous love
 Will it wash out in the water or is it always in the blood
  
  
-[ESTRIBILLO]
+ESTRIBILLO
        Em7              G          Cadd9               G
 I can feel the love I want, I can feel the love I need
          Em7          G            D     D
@@ -53,7 +53,7 @@ Could I change it if I wanted, can I rise above the flood
 Will it wash out in the water or is it always in the blood
  
  
-[ESTROFA]
+ESTROFA
  G                Em7            Cadd9            G
 How much like my brothers do my brothers wanna be
          G            G            D            D
@@ -64,7 +64,7 @@ Or will we be there for each other like nobody ever could
 Will it wash out in the water or is it always in the blood
  
  
-[ESTRIBILLO]
+ESTRIBILLO
        Em7             G          Cadd9              G
 I can feel the love I want, I can feel the love I need
          Em7           G            D     D
@@ -75,12 +75,12 @@ Could I change it if I wanted, can I rise above the flood
 Will it wash out in the water or is it always in the blood
  
  
-[INTERLUDIO]
+INTERLUDIO
 Em7     Cadd9 G  Em7      Cadd9 G
 Em7     Cadd9 G  Em7  G   D     G
  
  
-[ESTRIBILLO]
+ESTRIBILLO
       Em7              G          Cadd9            G
 I can feel the love I want, I can feel the love I need
           Em7          G            D     D
@@ -91,7 +91,7 @@ Could I change it if I wanted, can I rise above the flood
 Will it wash out in the water or is it always in the blood
  
  
-[FINAL]
+FINAL
     Em7   G     Cadd9   G
     Oh,     oh, oh
     Em7   G     D       D

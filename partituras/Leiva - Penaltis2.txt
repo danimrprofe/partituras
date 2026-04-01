@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: PENALTIS2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Penaltis
 
 
@@ -7,12 +20,12 @@
 | --------- | ----- | ------ | ---- |
 | Do Mayor  | X bpm | 4/4    | No   |
 
-**Intro**
+INTRO
 ```
 A E/G# | E  | B | C#m
 A      | E  | B
 ```
-**Estrofa**
+ESTROFA
 ```
            E                      B
 No era la luz del Sol, no era mi fantasía.
@@ -68,3 +81,4 @@ Las previsiones son malas
 
 ```
 **Repite estribillo**
+

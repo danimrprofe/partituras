@@ -1,4 +1,17 @@
-﻿FITO & FITIPALDIS 
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: A LA LUNA SE LE VE EL OMBLIGO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+FITO & FITIPALDIS 
 A LA LUNA SE LE VE EL OMBLIGO
 Am            Dm       Em    Am Dm  Em
 No sé cuánto tiempo habré perdido
@@ -53,6 +66,7 @@ Dm             C      Em
 siempre en el mismo camino
 
 Am E Am E
+
 
 
 

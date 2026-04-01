@@ -1,4 +1,17 @@
-﻿JOAQUÍN SABINA
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: LA CANCIÓN MÁS HERMOSA DEL MUNDO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+JOAQUÍN SABINA
  LA CANCIÓN MÁS HERMOSA DEL MUNDO
 G - Em7 - G - Em7
       G                                   Em7
@@ -87,5 +100,6 @@ de la gota de tinta en el himno de los iracundos.
        C
 Yo quería escribir la canción más hermosa del mundo.  
 G - D/F# - Em - D/F# - G - D/F# - Em - D/F# - G
+
 
 

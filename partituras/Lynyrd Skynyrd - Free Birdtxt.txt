@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: LYNYRD SKYNYRD
 CANCIÓN: Free birdtxt
@@ -75,6 +75,6 @@ G  Bb      C
           G   Bb   C
 Won't you fly high free bird, yeah!
  
-[Solo]
+SOLO
  
 G   Bb   C   G  . . . .

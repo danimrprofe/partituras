@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: ELECTRICIDAD2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Electricidad
 
 <<<<<<< HEAD
@@ -7,11 +20,11 @@
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 Capo 1
 
-**Intro**
+INTRO
 ```
 D
 ```
-**Estrofa**
+ESTROFA
 ```
 D                      A            Bm
 ¿Quién va a salvarme a mí de mi cabeza?
@@ -26,7 +39,7 @@ No va a desbloquearme la certeza de que esa ola ya rompió
 Y muere en el océano.
 
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
  G
 Sólo te deseo
@@ -43,12 +56,12 @@ En tu pecho enfermo de miedo.
 
 <<<<<<< HEAD
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 =======
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
@@ -64,7 +77,7 @@ De lo que fuimos.
 Oh oh oh oh, oh oh ohhhhhh.
 
 ```
-**Estrofa**
+ESTROFA
 ```
 D                  A           Bm
 ¿Quién va a desempolvarme la tristeza?
@@ -81,7 +94,7 @@ Flotando como en suspensión;
 Ya huelo la caída.
 
 ```
-[Puente]
+PUENTE
 ```
  G
 Sólo te deseo
@@ -99,12 +112,12 @@ En tu pecho enfermo de miedo.
 Bm
 <<<<<<< HEAD
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 =======
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
@@ -136,12 +149,12 @@ Na, naaa, naaaa, naa, naaa, naaa, naaaaaa, naaaaaaa,
 Naaaaaaaaaaaaaaaaa.
 <<<<<<< HEAD
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 =======
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5

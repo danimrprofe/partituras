@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: La Fuga
+CANCION: BALADA DEL DESPERTADOR
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 LA FUGA 
 BALADA DEL DESPERTADOR
 
@@ -43,5 +56,6 @@ enemigo del calor que siempre molesta en lo mejor
 como el sol, que me despierta cuando escondido estoy bajo el edredón; 
          G
 pégate a mi
+
 
 

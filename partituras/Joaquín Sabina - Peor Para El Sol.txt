@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Joaquín Sabina
+CANCION: PEOR PARA EL SOL
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOAQUÍN SABINA 
 PEOR PARA EL SOL
          G        D          G           G       D         Em
@@ -59,4 +72,5 @@ si soñe o era tuya la ardiente voz que me iba diciendo al oído
 "me moria de ganas querido de verte otra vez"
 
 ESTRIBILLO
+
 

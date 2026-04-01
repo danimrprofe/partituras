@@ -1,10 +1,23 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: AMELIE2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Amelie
 
 | Tonalidad | Tempo  | Compás | Capo |
 | --------- | ------ | ------ | ---- |
 | Si menor  | 85 bpm |        | 2    |
 
-**Estrofa**
+ESTROFA
 ```
 Am              F                      C
 Yo sólo busco ooh oooh que me tiemblen las piernas
@@ -17,7 +30,7 @@ que nos rajen por la espalda al pasar
 E7           Am
 y nos siga la prensa
 ```
-**Pre-coro**
+PRE-ESTRIBILLO
 ```
 F          C           G            Am
 Encendernos con las manos fue más de la cuenta
@@ -26,7 +39,7 @@ y yo que creía que estaba
                         G7
 ... que estaba de vueltaaaaah
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 F                    C    E7          Am
 Aviones a punto de salir, pasiones de gitanos
@@ -35,7 +48,7 @@ pequeña sonrisa de Amelie
 E7           Am
 me tienes calado
 ```
-**Estrofa**
+ESTROFA
 ```
 
 Am                F                      C
@@ -50,7 +63,7 @@ E7           Am
 Que merece la pena
 
 ```
-**Pre-coro**
+PRE-ESTRIBILLO
 ```
 F           C           G             Am
 Encendernos con las manos fue más de la cuenta
@@ -60,7 +73,7 @@ y yo que creía que estaba
 ... que estaba de vueltaaaah
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 F                     C     E7           Am
 Aviones a punto de salir, pasiones de gitanos
@@ -76,12 +89,12 @@ pequeña sonrisa de Amelie
 E7         Am
 me tienes cagado
 ```
-**Instrumental**
+INSTRUMENTAL
 ```
 C F C E7
 Am E7 Am E7
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 F                     C     E7           Am
 Aviones a punto de salir, pasiones de gitanos

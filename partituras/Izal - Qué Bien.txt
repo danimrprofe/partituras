@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: IZAL
 CANCIÓN: Qué bien
@@ -74,7 +74,7 @@ Ya nada importa el mundo ya se acaba no quedará nada.
                            Bm   D
 Disfrutemos de la última cena.
 
-CORO
+ESTRIBILLO
       D                Bm
 No sería lo mismo imaginarte
       D                  Bm
@@ -95,3 +95,4 @@ el del ridículo por sentirnos libres y vivos.
 
 FINAL
 A  Bmaj7 Bm  D (Fade)
+

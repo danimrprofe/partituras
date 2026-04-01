@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Andres Calamaro
+CANCION: MI ENFERMEDAD
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 ANDRES CALAMARO 
 MI ENFERMEDAD
 ADD Dsus2 G A D Dsus2 G A D Dsus2
@@ -40,4 +53,5 @@ que esta vez el esclavo se escapó.
 
 ESTRIBILLO
 G A D
+
 

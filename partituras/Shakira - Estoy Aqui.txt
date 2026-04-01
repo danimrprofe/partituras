@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: Estoy aqui
@@ -10,7 +10,7 @@ CEJILLA/CAPO: Capo 0
 LEYENDA / NOTAS ADICIONALES:
 (Acordes e información adicional)
 ================================================================================
-[INTRO]
+INTRO
 D                 A
 Ya sé que no vendrás 
              G
@@ -28,7 +28,7 @@ Mil años no me alcanzaran
 Em           D         A
     Para borrarte y olvidar 
  
-[ESTROFA]
+ESTROFA
                 D
 Y ahora estoy aquí
              A
@@ -48,7 +48,7 @@ Mil años pueden alcanzar
 Em          D/F#      A
 Para que puedas perdonar que
  
-[ESTRIBILLO]
+ESTRIBILLO
         D           A
 Estoy aquí queriéndote, ahogándome
        G
@@ -62,7 +62,7 @@ Por la cara mía esta noche por el día y que?
 Bm      A          D
 Nada le puedo yo hacer 
  
-[ESTROFA]
+ESTROFA
                      A
 Las cartas que escribí 
               G
@@ -80,7 +80,7 @@ Mil años con otros mil mas
 Em           G           A
     Son suficientes para amar
  
-[ESTRIBILLO]
+ESTRIBILLO
          D       A
 Estoy aquí queriéndote, ahogándome
        G
@@ -102,13 +102,13 @@ Estoy enloqueciéndome, cambiándome un pie
 Bm                  A                    F
 Por la cara mía esta noche por el día y que 
  
-[PUENTE]
+PUENTE
 F            C            G
    Si aún piensas algo en mí 
 F            C              A
    Sabes que sigo esperándote 
  
-[ESTRIBILLO]
+ESTRIBILLO
 D          A           G
    Estoy aquí queriéndote, ahogándome
        Bm

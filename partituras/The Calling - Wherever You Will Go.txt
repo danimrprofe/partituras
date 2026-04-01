@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: The Calling
+CANCION: WHEREVER YOU WILL GO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 THE CALLING 
 WHEREVER YOU WILL GO
 Capo 2
@@ -55,4 +68,5 @@ C               G       Am                 F
 go, If I could make you mine, I'll go wherever you will 
 C                     G                     Am   F                    
 goooooooo I'll go wherever you will goooooooooooooo - 
+
 

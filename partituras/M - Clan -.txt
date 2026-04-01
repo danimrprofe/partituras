@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCION: MCLAN
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 M-CLAN - SOUVENIR
 m-clan
 
@@ -76,7 +89,7 @@ cuando me acuerde de estos nombres,
    Am       D            G
 estaré imaginando oír tu voz.
  
-Solo
+SOLO
  
 C  A  G  D
 Am C  G  D
@@ -141,7 +154,7 @@ ESTRIBILLO
 Si hemos de cambiar, será para mal, no veo la razón, 
              C#m	            A
 siempre nos gustó usar y tirar.
-Instrumental
+INSTRUMENTAL
 E A E A E A E A
 
 ESTROFA
@@ -186,5 +199,6 @@ siempre nos gustó usar y tirar
 
 
  
+
 
 

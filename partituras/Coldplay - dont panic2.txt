@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Coldplay
+CANCION: DONT PANIC2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Don't panic
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -6,10 +19,10 @@
 
 
 ```
-**Intro**
+INTRO
 Fmaj7 Fmaj9
 
-[Verse 1]
+ESTROFA 1
 Am                  C
 Bones, sinking like stones
              Fmaj7
@@ -19,7 +32,7 @@ Homes, places we've grown
              Fmaj7
 All of us are done for
 
-**Estribillo**
+ESTRIBILLO
 Dm                 Dm6               Am
   And we live in a beautiful world
     G
@@ -27,7 +40,7 @@ Dm                 Dm6               Am
 Dm                 Dm6          Fmaj7
   We live in a beautiful world
 
-[Verse 2]
+ESTROFA 2
 Am                  C
 Bones, sinking like stones
              Fmaj7
@@ -37,7 +50,7 @@ Homes, places we've grown
              Fmaj7
 All of us are done for
 
-**Estribillo**
+ESTRIBILLO
 Dm                 Dm6               Am
   And we live in a beautiful world
     G
@@ -45,10 +58,10 @@ Dm                 Dm6               Am
 Dm                 Dm6          Fmaj7
   We live in a beautiful world
 
-[Interlude]
+INTERLUDIO
 | Am    | C     | Fmaj7 | Fmaj7 | x2
 
-**Estribillo**
+ESTRIBILLO
 Dm                 Dm6               Am
   And we live in a beautiful world
     G
@@ -56,10 +69,10 @@ Dm                 Dm6               Am
 Dm                 Dm6          Fmaj7
   We live in a beautiful world
 
-[Interlude]
+INTERLUDIO
 | Am    | C     | Fmaj7 | Fmaj7 | x2
 
-[Outro]
+OUTRO
 Am             C
 Oh, all that I know
                         Fmaj7

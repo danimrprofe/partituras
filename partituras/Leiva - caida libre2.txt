@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: CAIDA LIBRE2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 5
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Caída libre
 
 Capo 5
@@ -5,7 +18,7 @@ Capo 5
 ```
 C Dm Gsus4 G  x2
 
-Estrofa 
+ESTROFA
 
          C                    Dm
 Si encontrara silencio en mi ruido mental
@@ -37,7 +50,7 @@ Hay un millón de muebles que mover
            F             G
 Y no sé detrás de cuál está lo que he perdido
 
-Estribillo
+ESTRIBILLO
 
 C          C/B         Am  G
 Todo tiene luz de probador
@@ -49,7 +62,7 @@ En cuanto me dé un rayo de Sol
 Voy a hacerme una foto en un fotomatón
  
  
-[Instrumental]  
+INSTRUMENTAL
 C Dm Gsus4 G  x2
 Dm   C  x2
  
@@ -75,7 +88,7 @@ Hay demasiados frentes a la vez
              F             G
 Y no consigo ver quién coño es el enemigo
  
-Estribillo
+ESTRIBILLO
 
  
 C          C/B         Am  G

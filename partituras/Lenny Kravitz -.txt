@@ -1,13 +1,26 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Desconocido
+CANCION: LENNY KRAVITZ -
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 Again
 Lenny Kravitz
  
  
-[Intro]
+INTRO
 Asus2     F#m11
 E       D
  
  
-[Verse]
+ESTROFA
 D                          E      F#
 I’ve been searching for you
 I heard a cry within my soul
@@ -17,7 +30,7 @@ Know that you are
 Walking right through my door
  
  
-[Chorus]
+ESTRIBILLO
 Asus2       F#m11              E
 All of my life where have you been
               D
@@ -26,7 +39,7 @@ And if that day comes, I know we could win
 I wonder if I’ll ever see you again
  
  
-[Verse]
+ESTROFA
 A sacred gift from heaven
 For better worse whenever
 And I would never let somebody
@@ -35,7 +48,7 @@ Or take you crown,
 Never
  
  
-[Chorus]
+ESTRIBILLO
 Asus2       F#m11              E
 All of my life where have you been
               D
@@ -57,7 +70,7 @@ Without her king
 My love, forever!
  
  
-[Solo]
+SOLO
 Asus2   F#m11
 E    D
  

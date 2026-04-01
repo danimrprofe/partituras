@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: PREGUNTAS46
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL CANTO DEL LOCO - PREGUNTAS
 EL CANTO DEL LOCO
 Medio tono abajo
@@ -70,4 +83,5 @@ nadie me vuelva a creer.
 Que yo te busco, intento que te vuelvas y sientas lo que es,
              A
 La vida se pierde
+
 

@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: The Fray
 CANCIÓN: HOW TO SAVE A LIFE
@@ -17,7 +17,7 @@ adaptar los acordes a la guitarra de forma muy natural. Mantener un ritmo
 constante y arpegiado en las estrofas.
 ================================================================================
 
-[INTRO]
+INTRO
 G  D/F#  G  D/F#
 
 ESTROFA
@@ -30,7 +30,7 @@ Some sort of window to your right As he goes left and you stay right
               D/F#            Em7                    D/F#
 Between the lines of fear and blame And you begin to wonder why you came
 
-[ESTRIBILLO]
+ESTRIBILLO
 C              D               Em                G           D/F#
 Where did I go wrong, I lost a friend Somewhere along in the bitterness
     C                   D                Em               G*     D/F#*
@@ -38,7 +38,7 @@ And I would have stayed up with you all night Had I known how to save a
 G
 life 
 
-[INSTRUMENTAL]
+INSTRUMENTAL
 G   D/F#   Em7   D/F#
 
 ESTROFA
@@ -51,7 +51,7 @@ Lay down a list of what is wrong The things you've told him all along
 G               D/F#           Em7            D/F#
 Pray to God he hears you And I pray to God he hears you, and
  
-[ESTRIBILLO]
+ESTRIBILLO
 C              D               E m                G           D/F#
 Where did I go wrong, I lost a friend Somewhere along in the bitterness
     C                   D                Em               G*     D/F#*
@@ -59,7 +59,7 @@ And I would have stayed up with you all night Had I known how to save a
 G
 life 
  
-[INSTRUMENTAL]
+INSTRUMENTAL
 G   D/F#   Em7   D/F#
 
 ESTROFA
@@ -72,7 +72,7 @@ Followed He will do one of two things He will admit to everything
     G                  D/F#              Em7            D/F#
 Or he'll say he's just not the same And you'll begin to wonder why you came 
 
-Chorus]
+ESTRIBILLO
 C              D               E m                G           D/F#
 Where did I go wrong, I lost a friend Somewhere along in the bitterness
     C                   D                Em               G*     D/F#*
@@ -86,13 +86,13 @@ And I would have stayed up with you all night Had I known how to save a
 G
 life 
  
-[INTERLUDIO]
+INTERLUDIO
 D/F#   Em7   D/F#          G
              How to save a life 
 D/F#   Em7   D/F#
              How to save a life
  
-[ESTRIBILLO]
+ESTRIBILLO
 C              D               E m                G           D/F#
 Where did I go wrong, I lost a friend Somewhere along in the bitterness
     C                   D                Em               G*     D/F#*
@@ -106,7 +106,7 @@ And I would have stayed up with you all night Had I known how to save a
 G
 life 
  
-[FINAL]
+FINAL
 G   D/F#   Em7   D/F#          G
                  How to save a life
 D/F#   Em7   D/F#          G

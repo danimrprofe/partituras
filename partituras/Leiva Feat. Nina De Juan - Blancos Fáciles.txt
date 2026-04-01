@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: LEIVA
 CANCIÓN: BLANCOS FÁCILES
@@ -16,7 +16,7 @@ CANCIÓN: Blancos Fáciles
 ÁLBUM: Cuando te muerdes el labio (2021)
 ======================================
 
-[Verse]
+ESTROFA
 C
 Títeres en manos del nuevo poder
   G/B
@@ -38,7 +38,7 @@ Todos con el rifle cargado
         G  Am G/B     C
 Todo el mundo va armado
  
-[Estribillo]
+ESTRIBILLO
  C              Em
 Hay un abismo detrás
                 Am       G           F
@@ -52,7 +52,7 @@ Me he vuelto a preguntar: son los demás o seré yo
  
 C      F
  
-[Verse]
+ESTROFA
 C
 Zombies viviendo tres vidas a la vez
 G/B
@@ -73,7 +73,7 @@ Todos con el rifle cargado
         G  Am G/B     C
 Todo el mundo va armado
  
-[Estribillo]
+ESTRIBILLO
 C                 Em
 Hay un abismo detrás
                   Am    G           F
@@ -85,13 +85,14 @@ Mientras el mundo está normalizándolo
                       G              Am       G/B
 Me he vuelto a preguntar: son los demás o seré yo
  
-[Instrumental]
+INSTRUMENTAL
 F  Am  G  G (x3)
 F  Am  G  C
  
-[Outro]
+OUTRO
 C                 Em
 Hay un abismo detrás
                   Am     G           C
 De los egos salvajes y blancos fáciles
 X
+

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Chris Isaak
+CANCION: WICKED GAME
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 CHRIS ISAAK
 WICKED GAME
 
@@ -75,4 +88,5 @@ Bm  A  E
          (This world is only gonna break your heart)
 Bm      A           E
    Nobody loves no one.
+
 

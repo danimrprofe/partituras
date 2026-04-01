@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: PETER PAN41
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL CANTO DEL LOCO - PETER PAN
 EL CANTO DEL LOCO
 Capo 2
@@ -72,7 +85,7 @@ Si te llevas mi niñez llévate la parte que me sobre en mí.
                Em7           G         Gm                D
 Si te marchas viviré con la paz que necesito y tanto ansié.
 
-Instrumental
+INSTRUMENTAL
 
 G  F  G
 Dm7  C/E   F  G  C
@@ -95,4 +108,5 @@ Fue un tiempo para no olvidar,
 la zona mala quiere ahora descansar. 
                    Gm
 Que Campanilla te cuide y te guarde.
+
 

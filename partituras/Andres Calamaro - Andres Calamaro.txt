@@ -1,4 +1,17 @@
-﻿ANDRES CALAMARO 
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Andres Calamaro
+CANCION: ANDRES CALAMARO
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+ANDRES CALAMARO 
 FLACA
 
     G            B7
@@ -64,7 +77,7 @@ Y a volver al hogar
               G  D
 Para poder comer
 
-[ESTRIBILLO]
+ESTRIBILLO
 
     G            B7
 Flaca, no me claves
@@ -104,5 +117,6 @@ Quedarán
 
 
 2
+
 
 

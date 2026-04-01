@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Fito & Fitipaldis
+CANCION: AL CANTAR
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 FITO & FITIPALDIS 
 AL CANTAR
 
@@ -41,6 +54,7 @@ G         D         C      G
 y sentir, que no estamos muertos.
 Em        D         C     G
 Y sentir, que no estamos muertos. (repetir hasta el final)
+
 
 
 

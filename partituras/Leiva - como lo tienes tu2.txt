@@ -1,12 +1,25 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: COMO LO TIENES TU2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 #  Como lo tienes tu
 
 Esta es la versión de Pereza
 
-**Intro**
+INTRO
 ```
 G | C | G | D
 ```
-**Estrofa**
+ESTROFA
 ```
 G                                       C
 Soy como tú estás, soy como te sientas, soy Satanás, soy la Cenicienta.
@@ -17,7 +30,7 @@ Soy un aprensivo, me sigue la enfermedad, soy un tío vivo, soy un tipo de verda
     Am                         D
 Soy caro cuando hay vicio, soy igual desde el principio
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
              C    Em                        B        C
 y hasta el finaaaaaaal, es lo que tengo, es lo que hay,
@@ -25,7 +38,7 @@ y hasta el finaaaaaaal, es lo que tengo, es lo que hay,
 tengo una paja mentaaaaaaaal, que ya no sé de qué va
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
         G
@@ -41,11 +54,11 @@ la misma noche me aburro y no eres para mí,
         G                                 D
 como quisiera tenerlo tan claro como lo tienes tú.
 ```
-**Solo**
+SOLO
 ```
 | G | C | G | D
 ```
-**Estrofa**
+ESTROFA
 ```
 G                                  C
 Soy el capitán de mis cosas, vivo siempre a tu lado sin estar contigo.
@@ -56,7 +69,7 @@ Soy un torbellino, nada me puede parar, soy un fugitivo, todos me quieren cazar
     Am                       D
 Soy fácil y lo admito, soy igual pero distinto
 ```
-**Pre-estribillo**
+PRE-ESTRIBILLO
 ```
              C    Em                        B        C
 y hasta el finaaaaaaal, es lo que tengo, es lo que hay,
@@ -65,7 +78,7 @@ tengo una paja mentaaaaaaaal, que ya no sé de qué va.
 
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 
@@ -83,12 +96,12 @@ la misma noche me aburro y no eres para mí,
 como quisiera tenerlo tan claro como lo tienes tú.
 
 ```
-**Solo**
+SOLO
 ```
 | A |C | D | F G |  x2
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
 
@@ -111,7 +124,7 @@ la misma noche me aburro y no eres para mi
           F                               G
 como quisiera tenerlo tan claro como lo tienes tú
 ```
-## Final
+FINAL
 ```
           C                  Bb               F                                G
 Como lo tienes tu, como lo tienes tu, como quisiera tenerlo tan claro como lo tienes tu

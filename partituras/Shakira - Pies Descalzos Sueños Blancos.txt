@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Shakira
 CANCIÓN: Pies descalzos sueños blancos
@@ -22,7 +22,7 @@ B5    x244xx
 C#m   x46654
 Dsus2 xx0230
  
-[ESTRIBILLO]
+ESTRIBILLO
 E       F#m          A
  Perteneciste a una raza antigua
     B                          E
@@ -47,7 +47,7 @@ D|-------------------|
 A|-------------------|
 E|-------------------|
  
-[ESTROFA]
+ESTROFA
 E5     E5/D#       C#m
 Tu mordiste la manzana
                      A5
@@ -65,7 +65,7 @@ y te enfrentaste a dinosaurios
                        C#m
 bajo un techo y sin escudo.
  
-[PRE-ESTRIBILLO]
+PRE-ESTRIBILLO
            E
 Y ahora estas aqui
 C#m       E
@@ -75,7 +75,7 @@ cuando no te importo
       A    E    B
 un pepino tu destino.
  
-[ESTRIBILLO]
+ESTRIBILLO
 E       F#m          A
  Perteneciste a una raza antigua
     B                          E
@@ -85,7 +85,7 @@ Fuiste polvo, polvo eres piensa
        B                          A      E B
 que el hierro siempre al calor es blando.
  
-[ESTROFA]
+ESTROFA
 E5     E5/D#          C#m
 Construiste un mundo exacto
                    A5
@@ -103,7 +103,7 @@ los nombres y las medidas
                    C#m
 no me caben en los sesos.
  
-[PRE-ESTRIBILLO]
+PRE-ESTRIBILLO
           E
 Y ahora estas aqui
 C#m       E
@@ -113,7 +113,7 @@ cuando no te importo
       A    E    B
 un pepino tu destino.
  
-[ESTRIBILLO]
+ESTRIBILLO
 E       F#m          A
  Perteneciste a una raza antigua
     B                          E

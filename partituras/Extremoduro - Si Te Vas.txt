@@ -1,4 +1,17 @@
-[Intro]
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Extremoduro
+CANCION: SI TE VAS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+INTRO
  
 e|------------------------------------------|
 B|------------------------------------------|
@@ -27,7 +40,7 @@ E|--1--1--3--3-----------------1--1--3--3-----------------------3--3---------
 -----------5--5-------------|
 -----------3--3-------------|
  
-[Verse]
+ESTROFA
 F                Gm7                      C   C Bb
 Se le nota en la voz, por dentro es de colores
 F                Gm7                      C   C Bb
@@ -51,7 +64,7 @@ A|---------3----------3----------3----------|
 E|-1----------------------------------------|
 fading
  
-[Verse]
+ESTROFA
 F
 Ojalá que me la encuentre ya entre tantas flores
 Gm7            C
@@ -67,12 +80,12 @@ Y que me pida más, más, más, más, dame más
           Bb
 Y que me pida
  
-[Instrumental]
+INSTRUMENTAL
 F Gm7 C
 F Gm7 C
 Violines
  
-[verse]
+ESTROFA
 F            Gm7                    C   C Bb
 Es capaz de nadar en el mar más profundo
 F                Gm7                   C   C Bb
@@ -95,7 +108,7 @@ A|---------3----------3----------3----------|
 E|-1----------------------------------------|
 fading
  
-[Verse]
+ESTROFA
 F
 Ojalá que me despierte y no busque razones
 Gm7            C
@@ -111,7 +124,7 @@ más, más, más, más, dame más
 C           Bb     C
 Sin que me pida
  
-[Chorus]
+ESTRIBILLO
 F       C
 Si te vas
     Dm            C           Bb         C
@@ -121,7 +134,7 @@ Que este bar
    Dm         C              Bb      C
 Está cansado ya de despedidas...Uh, de despedidas
  
-[Solo]
+SOLO
 e|--------------------------------------|
 B|--------------------------------------|
 G|--------------------------------------| Repeats several times while fading
@@ -131,7 +144,7 @@ E|-1------------------------------------|
  
 F Gm7 C Bb
  
-[Verse]
+ESTROFA
 F               Gm7                    C   C Bb
 Como un extraterrestre, se posa en el suelo
 F              Gm7                      C   C Bb
@@ -159,7 +172,7 @@ D|-----3-2---2-3--3-2---2-3--3-2---2-3--|
 A|---------3----------3----------3------|
 E|-1------------------------------------|
  
-[Verse]
+ESTROFA
 F
 "¿Dónde vamos tan de prisa?" Me pregunta su sonrisa
 Gm7             C       Bb
@@ -173,7 +186,7 @@ Y llegar
 Dm        C    Bb            C        Dm             C        Bb  C
  hasta tu corazón salvo que salga el sol, por donde salga el sol
  
-[Chorus]
+ESTRIBILLO
 F       C
 Si te vas
     Dm            C           Bb         C
@@ -199,7 +212,7 @@ Csus4 C  F     Gm7   C Csus4 C
 --------------5--5-------------|
 --------------3--3-------------|
  
-[Bridge]
+PUENTE
 F               Gm7          C                   Bb
 Si he tardado y no he venido es que ha habido un impedimento
 F               Gm7   C                Bb
@@ -224,7 +237,7 @@ y esperando por ver si saliera la luna
 C       Bb         C
 ay luna   ay luna  ay, mira
  
-[Chorus]
+ESTRIBILLO
 F       C
 Si te vas
     Dm            C           Bb         C

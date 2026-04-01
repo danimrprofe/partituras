@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Train
+CANCION: HEY SOUL SISTER
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 4
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 TRAIN 
 HEY SOUL SISTER
 Train
@@ -11,7 +24,7 @@ C     G                Am              F
 Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay
  
  
-[Verse]
+ESTROFA
  
      C               G                         Am              F
 Your lipstick stains   on the front lobe of my left side brains
@@ -23,7 +36,7 @@ Your sweet moonbeam   the smell of you in every single dream I dream
 I knew when we collided you're the one I have decided who's one of my kind
  
  
-[Chorus]
+ESTRIBILLO
  
 F               G                 C      G      F
 Hey soul sister ain't that Mister Mister on the radio stereo
@@ -39,7 +52,7 @@ Hey soul sister I don't want to miss a single thing you do
 To-night Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay
  
  
-[Verse]
+ESTROFA
  
 C                 G                       Am                 F
 Just in ti-i-i-ime I'm so glad you have a one track mind like me
@@ -53,7 +66,7 @@ I believe in you like a virgin you're Madonna and I'm always gonna wanna
 blow your mind
  
  
-[Chorus]
+ESTRIBILLO
  
 F                    G            C      G      F
 Hey soul sister ain't that Mister Mister on the radio stereo
@@ -65,7 +78,7 @@ Hey soul sister I don't want to miss a single thing you do
 Tonight
  
  
-[Bridge]
+PUENTE
  
    C
 The way you can cut a rug
@@ -83,7 +96,7 @@ In fact there's nothing I can't be
 I want the world to see you be with   me
  
  
-[Chorus]
+ESTRIBILLO
  
 F               G                 C      G      F
 Hey soul sister ain't that Mister Mister on the radio stereo
@@ -95,11 +108,12 @@ F               G               C      G      F              G
 Hey soul sister I don't want to miss a single thing you do-oooo
  
  
-[Outro]
+OUTRO
  
   C         G                Am               F  G
 Tonight Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay
   C         G                Am               F  G
 Tonight Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay
    C
+
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: APROXIMACION2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # Aproximación
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -5,7 +18,7 @@
 |           | Estándar  | 4/4    | 2    |
 
 ```
-**Estrofa**
+ESTROFA
   C     G  C       F          C
 Somos dos, para que queremos más.
      G   Em      F
@@ -15,7 +28,7 @@ Pensamos antes de matarnos.
        G   Em     F             Fm
 Sabe Dios, que pudo soltarnos...o no soltarnos.
 
-[Pre-chorus]
+PRE-ESTRIBILLO
 Am  Em         F    C      Dm
 Ardió el colchón donde tu y yo
                  G
@@ -27,7 +40,7 @@ y dulce como no pensé que habría
  D              G
 algo tan dulce como tu.
 
-**Estribillo**
+ESTRIBILLO
            F
 Y esto es solo una aproximación,
  Em
@@ -41,7 +54,7 @@ solo una aproximación,
  Dm          G       C
 solo una aproximación.
 
-**Estrofa**
+ESTROFA
  C      G  C      F          C
 Quiérenos, al destino quiérenos.
      G   Em     F
@@ -51,7 +64,7 @@ Júntanos, al destino júntanos.
       G  Em      F
 Otra vez antes de matarnos.
 
-[Pre-chorus]
+PRE-ESTRIBILLO
 Am  Em         F    C      Dm
 Ardió el colchón donde tu y yo
                  G
@@ -63,7 +76,7 @@ y dulce como no pensé que habría
   D              G
 algo tan dulce como tu.
 
-**Estribillo**
+ESTRIBILLO
            F
 Y esto es solo una aproximación,
  Em
@@ -77,13 +90,13 @@ solo una aproximación,
  Dm          G       C
 solo una aproximación.
 
-[Solo]
+SOLO
 Am Em F Em
 F G
 Am Em F Em
 G
 
-**Estribillo**
+ESTRIBILLO
            F
 Y esto es solo una aproximación,
  Em
@@ -97,7 +110,7 @@ solo una aproximación,
  Dm          G       C
 solo una aproximación.
 
-[Outro]
+OUTRO
 C G C F
 C G Am F
 C G C F

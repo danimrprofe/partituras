@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: 3 Doors Down
+CANCION: HERE WITHOUT YOU
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 3 DOORS DOWN 
 HERE WITHOUT YOU
 
@@ -69,4 +82,5 @@ I think about you, baby, and I dream about you all the time
 I'm here without you, baby but you're still with me in my dreams
         G    A                    Bm   A    Bm  G  A
 And tonight, there's only you and me, yeah
+
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Jarabe De Palo
+CANCION: LA FLACA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JARABE DE PALO 
 LA FLACA 
 Am E7 D  C  F7
@@ -72,4 +85,5 @@ Aunque solo uno fuera...
 Aunque solo uno fuera...            x4
 Am  D7            Am  D7
 Aunque solo uno fuera...            x4
+
 

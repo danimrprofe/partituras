@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: PASION37
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL CANTO DEL LOCO - PASION
 EL CANTO DEL LOCO
 CAPO 1
@@ -61,4 +74,5 @@ al corazón. Me da tanto, me llena dentro, me regala
 una canción Y esa fuerza que llevas dentro
            G         D      Em  D/F# G
 Y que es pasión,  pasión  es pasión
+
 

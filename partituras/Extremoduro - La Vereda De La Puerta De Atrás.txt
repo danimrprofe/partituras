@@ -1,6 +1,19 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Extremoduro
+CANCION: LA VEREDA DE LA PUERTA DE ATRÁS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EXTREMODURO 
 LA VEREDA DE LA PUERTA DE ATRÁS 
-[Verse 1]
+ESTROFA 1
      F#m
 Si no fuera
       E       D
@@ -14,7 +27,7 @@ condenado a mirarte desde fuera
     E            F#m     E  D  E
 y dejar que te tocara el sol
  
-[Verse 2]
+ESTROFA 2
      F#m
 Y si fuera
    E          D
@@ -39,7 +52,7 @@ como una regadera que la hierba hace que vuelva a brotar
         D
 y ahora todo es campo ya
  
-[Verse 3]
+ESTROFA 3
        F#m
 Sus soldados
     E         D
@@ -53,7 +66,7 @@ condenado a vivir entre malezas
    E              F#m   E  D  E
 sembrando flores de algodón
  
-[Verse 4]
+ESTROFA 4
         F#m
 Si me espera
    E           D
@@ -105,4 +118,5 @@ D                         E              F#m
 si entre los dedos se me escapa volando una flor
                     E
 y yo la dejo que me marque el camino
+
 

@@ -1,7 +1,20 @@
-[Intro]
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Red Hot Chili Peppers
+CANCION: BY THE WAY
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+INTRO
 F C Am
  
-[Chorus]
+ESTRIBILLO
 F                           C
 Standing in line to see the show tonight
               Am
@@ -41,7 +54,7 @@ Rib cage
 Dm
 Soft tail
  
-[Chorus]
+ESTRIBILLO
 F                           C
 Standing in line to see the show tonight
               Dm
@@ -78,7 +91,7 @@ Cash back
 Dm
 Hard top
  
-[Chorus]
+ESTRIBILLO
 F                           C
 Standing in line to see the show tonight
               Am
@@ -111,7 +124,7 @@ Ooh ahh, 'guess you never meant it
 Dm
 Ohh ahh
  
-[Chorus]
+ESTRIBILLO
 F                           C
 Standing in line to see the show tonight
               Dm
@@ -125,7 +138,7 @@ Beneath the marquee, of her soul
 F            C              Am        Bb
 By the way I tried to say I know you, from before
  
-[Outro]
+OUTRO
 F                           C
 Standing in line to see the show tonight
                Dm

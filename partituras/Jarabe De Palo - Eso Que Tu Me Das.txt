@@ -1,4 +1,17 @@
-﻿JARABE DE PALO 
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Jarabe De Palo
+CANCION: ESO QUE TU ME DAS
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+JARABE DE PALO 
 ESO QUE TU ME DAS
 C F7 C G7
 
@@ -47,5 +60,6 @@ es mucho más de lo que nunca he merecido
 
  D             A
 Eso que tú me das...
+
 
 

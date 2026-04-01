@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Johnny Cash
 CANCIÓN: HURT
@@ -64,7 +64,7 @@ Am7            Fadd9 G
 I will let you down, I will make you hurt
  
  
-[Coda]
+CODA
  
    Am7            Fadd9   G
 If I could start again, a million miles away

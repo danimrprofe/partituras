@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: John Mayer
+CANCION: I GUESS I JUST FEEL LIKE
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 JOHN MAYER 
 I GUESS I JUST FEEL LIKE
 
@@ -7,7 +20,7 @@ A D/A               A
      I guess I just feel like
  
  
-[Verse 1]
+ESTROFA 1
 D/A               A
    I guess I just feel like
 D/A         F#m              D
@@ -23,7 +36,7 @@ A   D    A   D
 Ooh ooh, ooh ooh
  
  
-[Verse 2]
+ESTROFA 2
                A        D/A                A
 I guess I just feel like   good things are gone
 D/A                     A      D/A                    A
@@ -38,7 +51,7 @@ D/A                 A    D/A
    What happened to that?
  
  
-[Solo 1]
+SOLO 1
 G F#m G F#m
 E
  
@@ -47,7 +60,7 @@ E
 A D/A Amaj7
  
  
-[Verse 3]
+ESTROFA 3
 D/A               A        D/A                   A
    I guess I just feel like   the joke's gettin' old
 D/A                  A     D/A                  A
@@ -67,7 +80,7 @@ A D/A               A D/A
      Mmm, yeah, yeah
  
  
-[Solo 2]
+SOLO 2
 A D/A A D/A
 A D/A A D/A
 A D/A A D/A
@@ -77,4 +90,5 @@ A D/A A D/A
 [Outro (Fade Out)]
 A D/A A D/A
 A D/A A D/A
+
 

@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: CONTIGO10
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 EL CANTO DEL LOCO - CONTIGO
 EL CANTO DEL LOCO
 
@@ -58,5 +71,6 @@ F#m            G#m            A             G#m
 Siento cuando estás, y tú me das tu voz con esa fuerza
 F#m            G#m          A
 Quiero oírte más tu voz gritar
+
 
 

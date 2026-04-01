@@ -1,4 +1,4 @@
-# PARTITURA v1
+﻿# PARTITURA v1
 ================================================================================
 ARTISTA: R.E.M
 CANCIÓN: LOSING MY RELIGION
@@ -22,7 +22,7 @@ D|---------|       |---------| x2
 A|---------|       |---------|
 E|---------|       |---------|
 
-ESTROFA 
+ESTROFA
     Am             Em      
 Oh, life is bigger It's bigger than you 
             Am                             Em

@@ -1,14 +1,27 @@
-﻿THE FRAY
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: The Fray
+CANCION: YOU FOUND ME
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Capo 4
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+THE FRAY
 YOU FOUND ME
 CAPO 4
-[Intro]
+INTRO
  
 Em C  D  x2
  
 (Start "I found God" at the end of C)
  
  
-[Verse]
+ESTROFA
  
 C              Em        D                    C
       I found God on the corner of First and Amistad
@@ -35,7 +48,7 @@ That never came
 To the corner of First and Amistad
  
  
-[Chorus]
+ESTRIBILLO
  
 Em         C      G             D
 Lost and insecure You found me, you found me
@@ -47,7 +60,7 @@ Em            C    G             D
 Just a little late You found me, you found me
  
  
-[Verse]
+ESTROFA
  
        Em  D                C
 In the end everyone ends up alone
@@ -59,7 +72,7 @@ Who I am, who I'm not, who I want to be
 No way to know how long she will be next to me
  
  
-[Chorus]
+ESTRIBILLO
  
 Em         C      G             D
 Lost and insecure You found me, you found me
@@ -71,7 +84,7 @@ Em            C    G             D
 Just a little late You found me, you found me
  
  
-[Bridge]
+PUENTE
  
 D         C                 D
 For early morning, the city breaks
@@ -85,7 +98,7 @@ You never send me no letters
 You got some kind of nerve, taking all I want
  
  
-[Chorus]
+ESTRIBILLO
  
 Em         C      G             D
 Lost and insecure You found me, you found me
@@ -102,8 +115,9 @@ Em            C    G             D
 Just a little late You found me, you found me
  
  
-[Outro]
+OUTRO
  
 Em                C     G          D
 Why'd you have to wait? to find me to find me
+
 

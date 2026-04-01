@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Ben Kweller
+CANCION: BEN KWELLER
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 BEN KWELLER 
 FALLING 
 Sin capo. Tocar en 4/4
@@ -100,7 +113,7 @@ ground      ba ba ba ba ba
 E  F#m G#m         A
 ba          ba ba ba ba ba
  
-outro
+OUTRO
  
 G#m  F#m      E     B          A      G#m   F#m            E         A
      ba ba ba ba ba ba (pause) aaaaaaaaaah       ba   ba   ba   ba   ba   ba
@@ -135,4 +148,5 @@ i don't      feel like i'm falling
  
                       E
 just say hello to the ground
+
 

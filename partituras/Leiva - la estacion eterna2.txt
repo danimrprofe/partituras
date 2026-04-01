@@ -1,14 +1,27 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Leiva
+CANCION: LA ESTACION ETERNA2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 # La estación eterna
 
 | Tonalidad | Afinación | Compás | Capo |
 | --------- | --------- | ------ | ---- |
 |           | Estándar  | 4/4    | No   |
 
-**Intro**
+INTRO
 ```
 B
 ```
-**Estrofa**
+ESTROFA
 ```
       E                        B
 Llevo horas desvelado con el azul de las sirenas
@@ -20,7 +33,7 @@ tengo un bulto en el costado, y  una crísis de las buenas
 anoche se me salió la cadena.
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
      F#                       E                            B
@@ -28,7 +41,7 @@ mis amigos más bravos, siguen arreglando el mundo ahí fuera.
       C#m             E   F#             E     F#
 qué extrano cumpleaños cuarenta en cuarentena.
 ```
-**Estrofa**
+ESTROFA
 ```
      E                          B
 He peinado el extrarradio con mi bici de carreras,
@@ -40,7 +53,7 @@ echo en falta a mis hermanos, en la furgoneta negra.
 los tiburones de la carretera.
 
 ```
-**Estribillo**
+ESTRIBILLO
 ```
 
         F#                  E                  B
@@ -50,11 +63,11 @@ qué extraño cumpleaños, cuarenta en cuarentena.
                   E    F#
 cuarenta en cuarentena.
 ```
-**Instrumental**
+INSTRUMENTAL
 ```
 B E B E B E B E
 ```
-**Estrofa**
+ESTROFA
 ```
        B                             E
 Dando vueltas a las vueltas, llevo una semana entera,
@@ -73,9 +86,10 @@ Con la máscara de guerra, y un resguardo en la guantera,
        B                           E
 bajo a ver si veo a alguien de verdad.
 ```
-## Final
+FINAL
 ```
        B    E
 de verdad..     (x4)
 B
 ```
+

@@ -16,7 +16,7 @@ Javi Tormo (javitormo@ Aquí sólo he añadido el Do como prechorus
 (que queda muy bien, todo sea dicho) y la intro.
 
 
-**Intro**
+INTRO
 
 e|---------------3p0-3p0h3----------------0---0----|
 B|--0--1--3--5---------------0--1--3---------0-----|
@@ -32,7 +32,7 @@ D|------------------------------0--2--4----|
 A|-----------------------------------------|
 E|-----------------------------------------|
 
-[Verse 1]
+ESTROFA 1
 
 G         C               G            D7            G
 Desnudo al sol, mientras el mundo se derrumba a mí alrededor,
@@ -43,7 +43,7 @@ Me sorprendió una gran tormenta de energía positiva y yo
            C            D   C G
 Desnudo al sol y nada más.
 
-**Estribillo**
+ESTRIBILLO
 
           G                      C             G
 Hay quien dice que puede ser perjudicial sin embargo
@@ -58,7 +58,7 @@ No me creo de la misa  a la mitad
       G                     C            D
 La mentira esta escrita en  los periódicos de mañana
 
-[Verse 2]
+ESTROFA 2
 
 G         C               G            D7            G
 Desnudo al sol como en la era del hombre paleolítico
@@ -69,7 +69,7 @@ Se me olvido que te gustaría haber montado una revolución
            C               D   C D
 Hazme el amor desnudo al sol
 
-**Estribillo**
+ESTRIBILLO
 
           G                      C             G
 Hay quien dice que puede ser perjudicial sin embargo
@@ -84,12 +84,12 @@ No me creo de la misa  a la mitad
       G                     C            D
 La mentira esta escrita en  los periódicos de mañana
 
-[Solo]
+SOLO
 
 Bm C Bm D
 Em C Bm D
 
-**Estribillo**
+ESTRIBILLO
 
           G                      C             G
 Hay quien dice que puede ser perjudicial sin embargo
@@ -104,7 +104,7 @@ No me creo de la misa  a la mitad
       G                     C            D
 La mentira esta escrita en  los periódicos de mañana
 
-[Outro]
+OUTRO
 
 G                    C
 Nara na na nara nara na ra na
@@ -122,4 +122,5 @@ G                                  C
 La mentira está escrita en los periódicos de
 D
 mañana
+
 

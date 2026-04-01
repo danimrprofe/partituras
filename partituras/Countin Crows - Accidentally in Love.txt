@@ -1,3 +1,16 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Countin Crows
+CANCION: ACCIDENTALLY IN LOVE
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
 COUNTIN CROWS 
 ACCIDENTALLY IN LOVE
 
@@ -100,4 +113,5 @@ G        Am
 Come on, come on
      C              D        Em    D             G
 Just get yourself inside her love.....I'm in love
+
 

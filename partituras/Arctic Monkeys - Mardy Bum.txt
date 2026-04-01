@@ -1,4 +1,17 @@
-﻿ARCTIC MONKEYS
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Arctic Monkeys
+CANCION: MARDY BUM
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+ARCTIC MONKEYS
 MARDY BUM
 C                                        E            		               F		Em                      Dm                   G
 Well, now then Mardy Bum I've seen your frown and it's like looking down the barrel of a gun
@@ -40,4 +53,5 @@ F                      G		             C                         G/B		  Am      
 up, up and away. Oh, but it's right hard to remember that on a day like today when you're
 F                   G                                                    C
 all argumentative and you've got the face on
+
 
