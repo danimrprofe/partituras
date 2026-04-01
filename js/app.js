@@ -475,7 +475,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
-    function loadFavoriteIds() {
+    function loadFilterMode() {
         const raw = localStorage.getItem(STORAGE_KEYS.filterMode);
         return raw === "favorites" ? "favorites" : "all";
     }
