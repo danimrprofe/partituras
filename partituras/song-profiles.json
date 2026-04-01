@@ -1,1 +1,21 @@
-{}
+{
+  "el-canto-del-loco-otra-vez": {
+    "instruments": [],
+    "rating": 4,
+    "tuning": ""
+  },
+  "astola-cojo-el-saco-y-me-retiro": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4,
+    "tuning": ""
+  },
+  "adam-levine-go-now": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": ""
+  }
+}
