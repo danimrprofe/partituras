@@ -220,6 +220,16 @@ function Get-SongHeaderMetadata {
         }
     }
 
+    # Fallback: detectar afinacion estandar en texto libre o tablas, incluso sin cabecera AFINACION:
+    if (-not $result.tuningSlug) {
+        $hasStandardLabel = $normalizedContent -match "(?im)\b(?:AFINACION|TUNING)\s*[:\-]?\s*(?:ESTANDAR|STANDARD)\b"
+        $hasEadgbePattern = $normalizedContent -match "(?im)\bE\W*A\W*D\W*G\W*B\W*E\b"
+
+        if ($hasStandardLabel -or $hasEadgbePattern) {
+            $result.tuningSlug = "estandar"
+        }
+    }
+
     $keyMatch = [regex]::Match($normalizedContent, "(?im)^\s*TONALIDAD\s*:\s*(.+?)\s*$")
     if ($keyMatch.Success) {
         $keyText = $keyMatch.Groups[1].Value.Trim()

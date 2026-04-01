@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: CIENCIA FICCION2
-ALBUM:   -
+CANCIÓN: CIENCIA FICCION2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Ciencia ficción
@@ -85,4 +85,5 @@ F C/E Dm C
 Am G F G
 ```
 **Repite estribillo**
+
 

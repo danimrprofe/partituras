@@ -1027,7 +1027,7 @@
         "artist":  "Ed Sheeran",
         "title":  "Boat",
         "filename":  "Ed Sheeran - Boat.txt",
-        "defaultTuning":  null,
+        "defaultTuning":  "estandar",
         "capo":  4,
         "sections":  [
                          "ESTROFA",

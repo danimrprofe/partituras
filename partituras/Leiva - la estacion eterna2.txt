@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: LA ESTACION ETERNA2
-ALBUM:   -
+CANCIÓN: LA ESTACION ETERNA2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # La estación eterna
@@ -92,4 +92,5 @@ FINAL
 de verdad..     (x4)
 B
 ```
+
 

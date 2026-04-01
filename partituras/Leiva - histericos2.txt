@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: HISTERICOS2
-ALBUM:   -
+CANCIÓN: HISTERICOS2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Histéricos
@@ -86,4 +86,5 @@ ESTRIBILLO
 No me das miedo. Lánzame hacia ti. Dame de lleno
              Am            F              C   G   G7
 Haz el esfuerzo. Déjalo fluir. Hazte con ello
+
 

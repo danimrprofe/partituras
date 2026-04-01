@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: EL ULTIMO INCENDIO2
-ALBUM:   -
+CANCIÓN: EL ULTIMO INCENDIO2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 <<<<<<< HEAD
@@ -141,3 +141,4 @@ Oh, ohhh oh.. Oh, ohhh oh.. Oh, ohhh oh
 
 Em D G
 ```
+

@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: SI QUIERES BAILAMOS2
-ALBUM:   -
+CANCIÓN: SI QUIERES BAILAMOS2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Si quieres bailamos
@@ -67,3 +67,4 @@ A        E      F#m
 Donde me kieras llevar  x3
 
 ```
+

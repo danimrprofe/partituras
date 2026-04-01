@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: MEDICINA2
-ALBUM:   -
+CANCIÓN: MEDICINA2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Medicina
@@ -145,4 +145,5 @@ tu medicina
 =======
 ```
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
+
 

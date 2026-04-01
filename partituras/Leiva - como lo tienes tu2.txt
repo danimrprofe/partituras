@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: COMO LO TIENES TU2
-ALBUM:   -
+CANCIÓN: COMO LO TIENES TU2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 #  Como lo tienes tu
@@ -133,3 +133,4 @@ Como lo tienes tu, como lo tienes tu, como quisiera tenerlo tan claro
           C
 Como lo tienes tuuuuuuuuuuu
 ```
+

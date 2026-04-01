@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: ANIMALES2
-ALBUM:   -
+CANCIÓN: ANIMALES2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 #  Animales
@@ -80,3 +80,4 @@ Am          C     D
 Am
 Eh, ¿Cómo vas, cómo lo ves?…
 ```
+

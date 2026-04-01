@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: EL POLVO DE LOS DIAS RAROS2
-ALBUM:   -
+CANCIÓN: EL POLVO DE LOS DIAS RAROS2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # El polvo de los días raros
@@ -131,3 +131,4 @@ Huele Demasiado A Tí
  F#          B E B E B E
 Huele Demasiado
 ```
+

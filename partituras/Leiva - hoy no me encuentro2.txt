@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: HOY NO ME ENCUENTRO2
-ALBUM:   -
+CANCIÓN: HOY NO ME ENCUENTRO2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Hoy no me encuentro
@@ -88,4 +88,5 @@ FINAL
 G Bm F#m Em x2
 Bm
 ```
+
 

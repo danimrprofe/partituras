@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: PRINCESAS2
-ALBUM:   -
+CANCIÓN: PRINCESAS2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Princesas
@@ -111,4 +111,5 @@ a los pies de su cama, eres algo que he olvidado ya
 OUTRO
 G
 ```
+
 

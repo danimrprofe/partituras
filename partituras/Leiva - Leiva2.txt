@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: LEIVA2
-ALBUM:   -
+CANCIÓN: LEIVA2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Introducción
@@ -76,3 +76,4 @@ https://music.youtube.com/playlist?list=OLAK5uy_kF9EfyI4t7KiBHj2DYT9RiEsIQz0A6il
 10. Godzilla - con Enrique Bunbury y Ximena Sariñana
 11. A ti te ocurre algo
 12. El gigante de Big Fish
+

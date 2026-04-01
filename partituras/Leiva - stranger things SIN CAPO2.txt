@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: STRANGER THINGS SIN CAPO2
-ALBUM:   -
+CANCIÓN: STRANGER THINGS SIN CAPO2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 2
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Stranger things
@@ -87,3 +87,4 @@ Hay una puerta abierta. Hay un dolor guardado.
 Hay algo más. Tenlo claro. Tenlo claro
 
 ```
+

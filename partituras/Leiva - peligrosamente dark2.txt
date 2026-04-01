@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: PELIGROSAMENTE DARK2
-ALBUM:   -
+CANCIÓN: PELIGROSAMENTE DARK2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 2
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Peligrosamente dark
@@ -81,3 +81,4 @@ Dm                  G      G7        C
 Déjame estar Peligrosamente dark
 
 ```
+

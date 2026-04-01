@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: BLANCOS FÁCILES2
-ALBUM:   -
+CANCIÓN: BLANCOS FÁCILES2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Blancos fáciles
@@ -94,4 +94,5 @@ Hay un abismo detrás
 De los egos salvajes y blancos fáciles
 
 ```
+
 

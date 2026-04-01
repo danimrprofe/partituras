@@ -111,7 +111,8 @@ document.addEventListener("DOMContentLoaded", () => {
         techniqueFilter: "partituras:technique-filter",
         keyFilter: "partituras:key-filter",
         timeSignatureFilter: "partituras:time-signature-filter",
-        songProfiles: "partituras:song-profiles"
+        songProfiles: "partituras:song-profiles",
+        searchHistory: "partituras:search-history"
     };
 
     const SEED_PROFILES_URL = "partituras/song-profiles.seed.json";
@@ -565,6 +566,16 @@ document.addEventListener("DOMContentLoaded", () => {
     function buildSearchSuggestions(rawQuery) {
         const query = normalize(rawQuery.trim());
         if (!query) {
+            // Mostrar historial de búsquedas si no hay búsqueda activa
+            const history = loadSearchHistory();
+            if (history.length > 0) {
+                return history.slice(0, 6).map((item) => ({
+                    type: "history",
+                    label: item,
+                    meta: "Búsqueda anterior",
+                    value: item
+                }));
+            }
             return [];
         }
 
@@ -595,6 +606,31 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
         return [...artistSuggestions.slice(0, 4), ...songSuggestions].slice(0, 8);
+    }
+
+    function loadSearchHistory() {
+        try {
+            const raw = localStorage.getItem(STORAGE_KEYS.searchHistory);
+            return raw ? JSON.parse(raw) : [];
+        } catch {
+            return [];
+        }
+    }
+
+    function saveSearchHistory(query) {
+        if (!query || query.trim().length === 0) return;
+        const clean = query.trim();
+        let history = loadSearchHistory();
+        // Eliminar duplicados y mover el más reciente arriba
+        history = history.filter((item) => normalize(item) !== normalize(clean));
+        history.unshift(clean);
+        // Mantener solo los últimos 15
+        history = history.slice(0, 15);
+        try {
+            localStorage.setItem(STORAGE_KEYS.searchHistory, JSON.stringify(history));
+        } catch {
+            // Ignorar errores de localStorage
+        }
     }
 
     function renderSearchSuggestions(rawQuery) {
@@ -646,6 +682,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         searchInput.value = suggestion.value;
+        saveSearchHistory(suggestion.value);
         renderSongList(suggestion.value);
         hideSearchSuggestions();
 
@@ -838,6 +875,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 ? [`<span class="song-tag">${INSTRUMENT_LABELS["sin-definir"]}</span>`]
                 : profile.instruments.map((instrument) => `<span class="song-tag">${INSTRUMENT_LABELS[instrument]}</span>`);
             const tuningTag = profile.tuning ? `<span class="song-tag tuning-tag">${TUNING_LABELS[profile.tuning]}</span>` : "";
+            const techniqueTags = song.techniques && song.techniques.length > 0
+                ? song.techniques.map((tech) => {
+                    const label = TECHNIQUE_LABELS[tech] || tech;
+                    const badgeClass = tech === "barre-chords" ? "technique-tag technique-tag-barre" : "technique-tag";
+                    return `<span class="${badgeClass}">${label}</span>`;
+                }).join("")
+                : "";
             const row = document.createElement("div");
             row.className = "song-row";
 
@@ -856,6 +900,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <div class="song-tags">
                         ${instrumentTags.join("")}
                         ${tuningTag}
+                        ${techniqueTags}
                         <span class="song-tag rating-tag">${formatRatingStars(profile.rating)}</span>
                     </div>
                 </div>
@@ -1251,7 +1296,19 @@ document.addEventListener("DOMContentLoaded", () => {
             throw new Error("Invalid index format");
         }
 
-        songs = data;
+        songs = data.map((song) => {
+            const techniques = Array.isArray(song.techniques) ? song.techniques.filter(Boolean) : [];
+            const capoValue = parseCapoValue(song.capo);
+            const hasPositiveCapo = capoValue !== null && capoValue > 0;
+            const normalizedTechniques = hasPositiveCapo
+                ? techniques
+                : techniques.filter((technique) => technique !== "barre-chords");
+
+            return {
+                ...song,
+                techniques: normalizedTechniques
+            };
+        });
     }
 
     async function loadSeedSongProfiles() {
@@ -1310,6 +1367,18 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
         searchInput.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") {
+                if (activeSuggestionIndex >= 0) {
+                    event.preventDefault();
+                    applySuggestion(activeSuggestionIndex);
+                } else if (searchInput.value.trim()) {
+                    // Guardar búsqueda cuando presiona Enter sin sugerencia
+                    saveSearchHistory(searchInput.value);
+                    hideSearchSuggestions();
+                }
+                return;
+            }
+
             if (searchSuggestionItems.length === 0) {
                 return;
             }
@@ -1327,12 +1396,6 @@ document.addEventListener("DOMContentLoaded", () => {
                     ? searchSuggestionItems.length - 1
                     : activeSuggestionIndex - 1;
                 updateSuggestionHighlight();
-                return;
-            }
-
-            if (event.key === "Enter" && activeSuggestionIndex >= 0) {
-                event.preventDefault();
-                applySuggestion(activeSuggestionIndex);
                 return;
             }
 

@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: CAIDA LIBRE2
-ALBUM:   -
+CANCIÓN: CAIDA LIBRE2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 5
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Caída libre
@@ -109,3 +109,4 @@ En cuanto me dé un rayo de Sol
                   F      G         C  
 Voy a hacerme una foto en un fotomatón
 ```
+

@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: TODO2
-ALBUM:   -
+CANCIÓN: TODO2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Todo
@@ -113,3 +113,4 @@ Vuela, vuela, vuela conmigo, cuélate dentro dime “chico”,
 Cmaj7                      Fmaj7
 dame calor, sácame brillo, hazme el amor en nuestro nido.
 ```
+

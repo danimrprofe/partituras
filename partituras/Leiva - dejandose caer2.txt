@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: DEJANDOSE CAER2
-ALBUM:   -
+CANCIÓN: DEJANDOSE CAER2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 1
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 <<<<<<< HEAD
@@ -155,4 +155,5 @@ Am | F | C
 =======
 ```
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
+
 

@@ -1,14 +1,14 @@
 ﻿# PARTITURA v1
 ================================================================================
 ARTISTA: Leiva
-CANCION: INDEX2
-ALBUM:   -
+CANCIÓN: INDEX2
+ÁLBUM:   -
 ================================================================================
-AFINACION: Estandar (E A D G B E)
+AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
+(Acordes e información adicional)
 ================================================================================
 
 # Leiva
@@ -17,3 +17,4 @@ LEYENDA / NOTAS ADICIONALES:
 Leiva nació en Madrid en 1982 y desde entonces ha sido uno de los músicos más destacados de la escena musical española. 
 
 Su trayectoria comenzó en el grupo 'Pereza' en el año 2002, con el cual grabó cinco discos. Con el paso del tiempo, Leiva comenzó a trabajar en su carrera como solista.
+
