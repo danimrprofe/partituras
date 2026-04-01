@@ -1,31 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: TODO LO QUE TÚ QUIERAS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-LEIVA - TODO LO QUE TÚ QUIERAS
-
-ESTROFA
-G
-Hace ya tiempo del huracán, de los puñales y los vuelos,
-   C                                C D
-y no sé cómo hacerlo, no sé cómo hacerlo.
-G
-Sube la fiebre, sube el pan, el descosido de tus vaqueros,
-  C                                C D
-y no sé cómo hacerlo, no sé cómo hacerlo.
-Em             C                D                 G            Em
-Dos vidas sin saber quién eres, dos tragos por el ultimo "Bye, bye  "
-                A
-Ya sabes que será.
-
 ESTRIBILLO
 D       C                G      D      C                 G
 Uuuh! ¡todo lo que tú quieras! Uuuh! ¡todo lo que tú quieras!

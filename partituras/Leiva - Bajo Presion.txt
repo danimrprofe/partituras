@@ -1,28 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: Bajo presión
-ÁLBUM:   Gigante (2024)
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Traste 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-C/B = Do con bajo en Si. Estructura tipo [ESTROFA] original sustituida por
-secciones en español (ESTROFA, INSTRUMENTAL, PUENTE, FINAL).
-================================================================================
-
-ESTROFA
-                     F              G
-Estás en tu mejor momento de largo
-          C
-Puedes decirlo bien alto
-                      F             G
-La carrerilla y el impulso exacto
-             C
-Lo has encontrado ya.
-
-                          F                 G
 La fiebre te ha subido a muerte en un rato
             Am
 Treinta y nueve con algo
@@ -104,3 +79,4 @@ Nanananana, nanananana
 Nanananana, nanananana
       Am    G   F   C
 Nanananana, nanananana
+

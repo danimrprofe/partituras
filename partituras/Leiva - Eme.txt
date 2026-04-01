@@ -1,22 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: EME
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-ESTROFA
-C                              G              Dm                  Am       F                        G7                   Am
-Eme cuando se ponga el sol voy a despedirme Será como un collage lo que tuvimos
-C                            G                  Dm          Am               F                 G7                    Am
-Eme cuando se ponga el sol voy a destruirlo. Borrarme la señal de tus colmillos.
-
 ESTRIBILLO
       F                C    E              Am
 Me dejaste el cuerpo fuera, y la cabeza entera       

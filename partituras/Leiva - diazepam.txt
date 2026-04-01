@@ -1,16 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: DIAZEPAM2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
 # Diazepam
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -100,4 +87,5 @@ Dm          G7        Fmaj7    G6   Fmaj7 G6 C
 Hasta que me quede sin voz, sin voz.
 
 ```
+
 

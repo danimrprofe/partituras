@@ -1,23 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: CAIDA LIBRE
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 5
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: CAÍDA LIBRE
-================================================================================
-
-ESTROFA
-
-         C                    Dm
 Si encontrara silencio en mi ruido mental
      Gsus4              G
 Dormiría diez días y un año
@@ -104,3 +84,4 @@ C           C/B            Am  G
 En cuanto me dé un rayo de Sol
                   F      G         C  
 Voy a hacerme una foto en un fotomatón
+

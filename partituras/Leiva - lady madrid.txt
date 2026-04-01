@@ -1,16 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: LADY MADRID2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
 #  Lady Madrid
 
 En el disco original sin capo (Do mayor)
@@ -110,4 +97,5 @@ Vuelve a repetir el coro varias veces hasta terminar, a modo de bis
 
 Finaliza con F-C
 ```
+
 

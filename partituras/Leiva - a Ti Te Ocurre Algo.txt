@@ -1,21 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: A ti te ocurre algo
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: (sin especificar)
-TONALIDAD: Sol mayor (G)
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-G D-C D = G, luego D con bajo en C (D/C o transición), luego D; repetir.
-C-G = pasaje rápido C a G.
-================================================================================
-
-INTRO
-G  D-C D x4
-
 ESTROFA
       G        D         C           D         G D C D
 Nos conocimos el día que murió Gabo García Márquez.
@@ -92,3 +74,4 @@ Oh, oh-oh, oh-oh.
 
 FINAL
 D       G   C G
+

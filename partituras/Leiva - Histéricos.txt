@@ -1,26 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: HISTÉRICOS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-ESTROFA
-  C                               F
-Histéricos de felicidad. Nos adoraba la cámara
-       Am                       G
-Publicabas toda nuestra intensidad
-                F          Em
-Te llovían las marcas. Era tan "Black Mirror"
-      G                      C
-Yo sabía que no ibas a aguantar
-  
 C                                F              
 Yonqui de la velocidad Se te afilaban las garras 
           Am                     G

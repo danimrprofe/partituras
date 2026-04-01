@@ -1,16 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: VIOLENTO AMOR2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
 # Violento amor
 
 ```
@@ -106,4 +93,5 @@ A veces voy a ver si estás
     Em     C      G             D
 siempre me da por aaah aaaha aahaahi.
 ```
+
 

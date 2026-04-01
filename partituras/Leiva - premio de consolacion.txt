@@ -1,16 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: PREMIO DE CONSOLACION2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
 # Premio de consolación
 
 ```
@@ -141,5 +128,6 @@ Hielo en las sábanas
 F#m   G
 Las sábanas
 ```
+
 
 

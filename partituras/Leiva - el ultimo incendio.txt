@@ -1,18 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: EL ULTIMO INCENDIO2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-<<<<<<< HEAD
-
 # El Último Incendio
 
 En la parte de "quizá pueda despegar...":
@@ -141,4 +126,5 @@ Oh, ohhh oh.. Oh, ohhh oh.. Oh, ohhh oh
 
 Em D G
 ```
+
 

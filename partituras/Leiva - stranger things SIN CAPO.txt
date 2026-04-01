@@ -1,16 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: STRANGER THINGS SIN CAPO2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
 # Stranger things
 
 Capo 2. Re mayor. 79 bpm
@@ -87,4 +74,5 @@ Hay una puerta abierta. Hay un dolor guardado.
 Hay algo más. Tenlo claro. Tenlo claro
 
 ```
+
 

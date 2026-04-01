@@ -1,36 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: GUERRA MUNDIAL
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-ESTROFA
-Dm                             Fmaj7		         	         
-Después de tu Guerra Mundial,  yo nunca volví a hablar, 
-     C                 G/B
-y tú no lo sabes, y tú no lo sabes.
-Dm                            Fmaj7	  		          
-Después de tu Guerra Mundial, a mí me volvió a pasar,
-     C                 G/B
-y tú no lo sabes, y tú no lo sabes.
-A#                    Fmaj7
-Moviendo el avispero, me siento tan estúpido,
-A	              	Dm                                                        
-acariciando el fuego. Evitando reaccionar, 
-A#                    Fmaj7                                                
-he aprendido A estar, durmiendo bajo cero
-                                    A                                                   
-rascando algún estímulo. Te veo en el infierno. 
-     A7            
-Ya sé que suena muy metal.
-
 ESTRIBILLO
 D           A          Bm          A           G	       
 No fue un brillante estreno, pero ganamos títulos.

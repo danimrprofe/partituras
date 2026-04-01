@@ -1,16 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: VERTIGO2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
 # Vértigo
 
 | Tonalidad  | Tempo   | Compás | Capo |
@@ -74,4 +61,5 @@ no encuentro ni un instante de paz.
       Bm               E    D       A
 no encuentro ni un instaaanteee de paaaz
 ```
+
 

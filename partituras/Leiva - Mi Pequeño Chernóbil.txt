@@ -1,20 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: MI PEQUEÑO CHERNÓBIL
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-LEIVA - MI PEQUEÑO CHERNÓBIL
-
-INTRO
-G Bm Em x2
-
 ESTROFA
 G           Bm              Em
 Soñaba con dar un bocado al mundo

@@ -1,18 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: LOBOS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-SOLO INICIAL sobre: Am Em D Am x2
-
 ESTROFA
 Am          Em              D                      Am
 Ya sé que te puede gustar, Que te haga un poco de publicidad

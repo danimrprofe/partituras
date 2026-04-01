@@ -1,16 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: TODO LO QUE TU QUIERAS2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
 # Todo Lo Que Tú Quieras
 
 **Información**
@@ -60,5 +47,6 @@ Y no sé como hacerlo    No sé como hacerlo
 **Repite pre-estribillo**
 
 **Repite estribillo**
+
 
 

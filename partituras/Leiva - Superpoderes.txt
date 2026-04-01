@@ -1,31 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: SUPERPODERES
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-LEIVA - SUPERPODERES
-
-ESTROFA
-D                        A		          
-Ella tiene superpoderes, lo lleva en la frente. 
-Em			              G                A
-Ella quiere ser de este mundo, lo ha querido siempre
-D                            A			
-Ella trepa por las paredes, como una serpiente. 
-Em                         G         A
-Se derrumba en un segundo, o desaparece
-  G          Bm   D                   Em		
-Y es lo que ves Casi todo puede suceder. 
-  G            A
-Y es difícil saber que
-
 Bm                  A          D       G		
 Siempre, siempre, siempre, siempre vas a perder. 
 D                    A        D

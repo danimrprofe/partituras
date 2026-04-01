@@ -1,16 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: MI PEQUEÑO CHERNOBYL2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
 # Mi pequeño Chernóbil
 
 INTRO
@@ -120,5 +107,6 @@ G        Bm     Em           C           G        Bm     Em
 G        Bm     Em           C           G        Bm     Em
 ¿Qué vendrá después? De los años muertos ¿Que vendrá después?
 ```
+
 
 

@@ -1,16 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: MONSTRUOS2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
 # Monstruos
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -94,4 +81,5 @@ Que todos esos monstruos debajo de la cama se cuelan en tus sueños tan rápido.
    G                        D                         A             G     D
 Impúlsate en mis hombros; apóyate en mi espalda; perdona si no prende la llama.
 ```
+
 

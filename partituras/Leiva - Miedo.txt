@@ -1,29 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: MIEDO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-LEIVA - MIEDO
-INTRO: C F C AM X2
-
-ESTROFA
-        C                                                             
-No me dejes pasar, te puedo lastimar 
-     Am                              G
-No confíes en mi interior, soy un depredador.
-      C                                                                  
-Un impulso vital, una mirada espacial 
-      Am7                      G
-Me atropellas sin corazón, en toda la razón.
-
-       F                     G                                   
 No te ensañes conmigo, no decidas por mí,
 F                                            G
  no te agarres a mi cuerpo que te crece la nariz

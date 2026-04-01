@@ -1,25 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: PÓLVORA
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-LEIVA - PÓLVORA
-INTRO: C EM F G X2
-
-ESTROFA
-        C                     Em           F                     G
-De los cielos a la pólvora mojada De la magia a la oscura esclavitud               C                              Em
-Hace tiempo que no pienso en tu cornada
-     F                             G
-Hace tiempo que lo echo a cara o cruz
-
 ESTRIBILLO
         F             G                   Am
 Y ahora sé que cualquiera llorará más que tú

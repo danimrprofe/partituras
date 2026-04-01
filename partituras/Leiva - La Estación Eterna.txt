@@ -1,26 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: LA ESTACIÓN ETERNA
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-ESTROFA
-      E                        B				  
-Llevo horas desvelado con el azul de las sirenas 
-   E                        B
-tarareando una canción de mierda.
-         E                           B				 
-tengo un bulto en el costado, y una crisis de las buenas 
-  E                      B          
-anoche se me salió la cadena.
-
 ESTRIBILLO
       F#                       E                        B
 mis amigos más bravos, siguen arreglando el mundo ahí fuera.

@@ -1,27 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: NUCLEAR
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-LEIVA - NUCLEAR
-
-ESTROFA
-C                                       G       			         
-Yo no estaba exactamente mal cuando pulsaste el botón nuclear. 
-        Am                     E
-Andaba demasiado desquiciado, nada fuera de lo normal. 
-         F                     Fm
-Si de repente cuando explotas vieras más allá.
-          C        G             C
-No habría nada que nos pudiera parar
-
 C                                     G			                       
 Tú buscabas guía espiritual Y algún motivo idiota para saltar 
         Am                         E

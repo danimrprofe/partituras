@@ -1,16 +1,3 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: MI MEJOR VERSION2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
 # Mi mejor versión
 
 | Tonalidad | Tempo   | Compás | Capo |
@@ -60,5 +47,6 @@ Nunca igual, nunca igual que tú
 **Repite puente**
 
 **Repite coro**
+
 
 

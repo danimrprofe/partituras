@@ -1,20 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: BREAKING BAD
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-INTRO
-G Bm  C D#  D
-G Bm  C D#  D G
-
 ESTROFA
 G                G/F#                   Em	
 La vida me ha cambiado en un segundo extraño. 

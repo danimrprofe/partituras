@@ -1,22 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: Aunque sea un rato
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Versión acústica “un tono arriba” sin cejilla: ajusta según tu afinación o
-transposición si quieres casar con el estudio (mismas posiciones, otro tono).
-Compases del intro/instrumental en barras | … | para guiar el bucle.
-================================================================================
-
-INTRO
-| C   | Em  | F   | C   |
-| Dm  | Am  | F   | G   |
-
 ESTROFA
 C      Em         F                    C
 Fuego final, lo digo y no lo puedo escuchar
@@ -71,3 +52,4 @@ Aunque sea un rato   x2
 
 FINAL
 | F G | C   |
+

@@ -1,28 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: PALOMAS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-LEIVA - PALOMAS
-
-ESTROFA
-       C                           Em                            
-Hay miles de palomas volando en círculo, 
-              Am                     Em
-alrededor del sol. Se acaban de encontrar
-     F               	        C                              
-Hay días para decírnoslo, semanas para pensar.
-Dm                          G
-Veranos vestidos de alquitrán
-
-     C                         Em                       Am
 Hay días que te saltas algún capítulo, no sabes dónde estás
                     Em
 Lo tienes que intentar
