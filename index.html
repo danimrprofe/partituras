@@ -318,6 +318,33 @@
                 </div>
               </div>
             </div>
+            <div class="px-4 pb-3">
+              <label class="form-label small text-uppercase mb-2">Datos</label>
+              <div class="d-flex gap-2">
+                <button
+                  id="exportProfilesBtn"
+                  type="button"
+                  class="btn btn-sm btn-outline-info flex-grow-1"
+                  title="Copia tus datos (instrumentos, ratings, favoritas) para sincronizar entre ordenadores"
+                >
+                  📥 Exportar
+                </button>
+                <button
+                  id="importProfilesBtn"
+                  type="button"
+                  class="btn btn-sm btn-outline-info flex-grow-1"
+                  title="Carga datos exportados desde otro ordenador"
+                >
+                  📤 Importar
+                </button>
+              </div>
+              <input
+                id="importProfilesFile"
+                type="file"
+                accept=".json"
+                style="display: none"
+              />
+            </div>
             <div class="card-body pt-2 px-2 pb-2">
               <div class="song-list-header mb-2 d-flex gap-1 px-2">
                 <button

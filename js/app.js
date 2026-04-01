@@ -58,6 +58,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const clearSearchHistoryBtn = document.getElementById("clearSearchHistory");
     const protocolNotice = document.getElementById("protocolNotice");
 
+    const exportProfilesBtn = document.getElementById("exportProfilesBtn");
+    const importProfilesBtn = document.getElementById("importProfilesBtn");
+    const importProfilesFile = document.getElementById("importProfilesFile");
+
     if (
         !songList ||
         !searchInput ||
@@ -104,7 +108,10 @@ document.addEventListener("DOMContentLoaded", () => {
         !songInstrumentGroup ||
         songInstrumentInputs.length === 0 ||
         !songRating ||
-        !songRatingLabel
+        !songRatingLabel ||
+        !exportProfilesBtn ||
+        !importProfilesBtn ||
+        !importProfilesFile
     ) {
         return;
     }
@@ -383,7 +390,92 @@ document.addEventListener("DOMContentLoaded", () => {
         localStorage.setItem(STORAGE_KEYS.songProfiles, JSON.stringify(songProfiles));
     }
 
-    function loadFilterMode() {
+    async function loadSharedProfiles() {
+        try {
+            const response = await fetch("partituras/song-profiles.json");
+            if (response.ok) {
+                const data = await response.json();
+                if (data && typeof data === "object") {
+                    seedSongProfiles = Object.fromEntries(
+                        Object.entries(data).map(([songId, profile]) => [
+                            songId,
+                            normalizeProfileData(profile)
+                        ])
+                    );
+                }
+            }
+        } catch {
+            // Si no existe el archivo, simplemente no cargamos nada
+        }
+    }
+
+    function exportProfilesToJson() {
+        const exportData = {
+            songProfiles,
+            favorites: Array.from(favoriteIds),
+            fontSize: fontSizeRem,
+            searchHistory: loadSearchHistory(),
+            exportDate: new Date().toISOString()
+        };
+        return JSON.stringify(exportData, null, 2);
+    }
+
+    function downloadJSON(filename, jsonContent) {
+        const element = document.createElement("a");
+        element.setAttribute("href", "data:application/json;charset=utf-8," + encodeURIComponent(jsonContent));
+        element.setAttribute("download", filename);
+        element.style.display = "none";
+        document.body.appendChild(element);
+        element.click();
+        document.body.removeChild(element);
+    }
+
+    function importProfilesFromJson(jsonContent) {
+        try {
+            const data = JSON.parse(jsonContent);
+            if (!data || typeof data !== "object") {
+                alert("Formato de archivo inválido.");
+                return false;
+            }
+
+            // Restaurar perfiles de canciones
+            if (data.songProfiles && typeof data.songProfiles === "object") {
+                Object.entries(data.songProfiles).forEach(([songId, profile]) => {
+                    songProfiles[songId] = normalizeProfileData(profile);
+                });
+                saveSongProfiles();
+            }
+
+            // Restaurar favoritas
+            if (Array.isArray(data.favorites)) {
+                favoriteIds.clear();
+                data.favorites.forEach((id) => favoriteIds.add(id));
+                saveFavoriteIds();
+            }
+
+            // Restaurar historial de búsqueda
+            if (Array.isArray(data.searchHistory)) {
+                try {
+                    localStorage.setItem(STORAGE_KEYS.searchHistory, JSON.stringify(data.searchHistory));
+                } catch {
+                    // Ignorar si no se puede guardar
+                }
+            }
+
+            // Actualizar UI
+            updateProfileBadge();
+            updateFavoritesBadge();
+            renderSongList(searchInput.value);
+
+            alert("Datos importados correctamente.");
+            return true;
+        } catch (error) {
+            alert("Error al importar: " + error.message);
+            return false;
+        }
+    }
+
+    function loadFavoriteIds() {
         const raw = localStorage.getItem(STORAGE_KEYS.filterMode);
         return raw === "favorites" ? "favorites" : "all";
     }
@@ -1659,6 +1751,32 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         }
 
+        exportProfilesBtn.addEventListener("click", () => {
+            const jsonContent = exportProfilesToJson();
+            const filename = `partituras-perfiles-${new Date().toISOString().split("T")[0]}.json`;
+            downloadJSON(filename, jsonContent);
+        });
+
+        importProfilesBtn.addEventListener("click", () => {
+            importProfilesFile.click();
+        });
+
+        importProfilesFile.addEventListener("change", (event) => {
+            const file = event.target.files?.[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                const content = e.target?.result;
+                if (typeof content === "string") {
+                    importProfilesFromJson(content);
+                }
+                // Reset el input para permitir seleccionar el mismo archivo de nuevo
+                importProfilesFile.value = "";
+            };
+            reader.readAsText(file);
+        });
+
         searchInput.addEventListener("input", (event) => {
             renderSongList(event.target.value);
             renderSearchSuggestions(event.target.value);
@@ -1886,6 +2004,7 @@ document.addEventListener("DOMContentLoaded", () => {
             updateProtocolNotice();
             await loadSongsIndex();
             await loadSeedSongProfiles();
+            await loadSharedProfiles();
             populateDynamicFilters();
             fontSizeRem = loadFontSize();
             saveSongProfiles();
