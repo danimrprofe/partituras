@@ -191,6 +191,8 @@ document.addEventListener("DOMContentLoaded", () => {
     let seedSongProfiles = {};
     let searchSuggestionItems = [];
     let activeSuggestionIndex = -1;
+    let sortColumn = "artist";  // artist, title, rating
+    let sortDirection = "asc";  // asc, desc
 
     const favoriteIds = new Set(loadFavoriteIds());
     const songProfiles = loadSongProfiles();
@@ -846,7 +848,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function renderSongList(filterText = "") {
         const query = normalize(filterText.trim());
-        const filteredSongs = songs.filter((song) => matchesCurrentFilters(song, query));
+        let filteredSongs = songs.filter((song) => matchesCurrentFilters(song, query));
+
+        // Aplicar ordenamiento
+        filteredSongs = sortSongs(filteredSongs);
 
         songList.innerHTML = "";
         songCount.textContent = String(filteredSongs.length);
@@ -923,6 +928,104 @@ document.addEventListener("DOMContentLoaded", () => {
             row.appendChild(button);
             row.appendChild(favoriteButton);
             songList.appendChild(row);
+        });
+    }
+
+    function sortSongs(songsToSort) {
+        const sorted = [...songsToSort];
+        
+        sorted.sort((a, b) => {
+            let aValue, bValue;
+            
+            if (sortColumn === "artist") {
+                aValue = normalize(a.artist);
+                bValue = normalize(b.artist);
+            } else if (sortColumn === "title") {
+                aValue = normalize(a.title);
+                bValue = normalize(b.title);
+            } else if (sortColumn === "rating") {
+                const profileA = getSongProfile(a.id);
+                const profileB = getSongProfile(b.id);
+                aValue = profileA.rating;
+                bValue = profileB.rating;
+            } else {
+                return 0;
+            }
+            
+            if (aValue < bValue) return sortDirection === "asc" ? -1 : 1;
+            if (aValue > bValue) return sortDirection === "asc" ? 1 : -1;
+            return 0;
+        });
+        
+        return sorted;
+    }
+
+    function countSongsForFilter(propertyName, filterValue) {
+        return songs.filter((song) => {
+            const profile = getSongProfile(song.id);
+            
+            switch (propertyName) {
+                case "capo":
+                    if (filterValue === "all") return true;
+                    if (filterValue === "sin-cejilla") {
+                        const capoValue = parseCapoValue(song.capo);
+                        return capoValue === null || capoValue <= 0;
+                    }
+                    if (filterValue === "1-2") {
+                        const capoValue = parseCapoValue(song.capo);
+                        return capoValue !== null && capoValue >= 1 && capoValue <= 2;
+                    }
+                    if (filterValue === "3-plus") {
+                        const capoValue = parseCapoValue(song.capo);
+                        return capoValue !== null && capoValue >= 3;
+                    }
+                    return false;
+                case "tuning":
+                    if (filterValue === "all") return true;
+                    if (filterValue === "sin-definir") return profile.tuning === "";
+                    return profile.tuning === filterValue;
+                case "technique":
+                    if (filterValue === "all") return true;
+                    if (filterValue === "sin-definir") return !song.techniques || song.techniques.length === 0;
+                    return song.techniques && song.techniques.includes(filterValue);
+                default:
+                    return true;
+            }
+        }).length;
+    }
+
+    function updateFilterCounters() {
+        // Actualizar contador de cejilla
+        const capoOptions = [
+            { value: "sin-cejilla", label: "Sin cejilla" },
+            { value: "1-2", label: "Cejilla 1-2" },
+            { value: "3-plus", label: "Cejilla 3+" }
+        ];
+        
+        capoOptions.forEach((opt) => {
+            const count = countSongsForFilter("capo", opt.value);
+            const option = Array.from(capoFilter.options).find((o) => o.value === opt.value);
+            if (option) {
+                option.textContent = `${opt.label} (${count})`;
+            }
+        });
+        
+        // Actualizar contador de afinación
+        const tuningOptions = [
+            { value: "estandar", label: "Estandar" },
+            { value: "medio-tono-abajo", label: "Medio tono abajo" },
+            { value: "tono-abajo", label: "Tono abajo" },
+            { value: "drop-d", label: "Drop D" },
+            { value: "drop-c", label: "Drop C" },
+            { value: "sin-definir", label: "Sin definir" }
+        ];
+        
+        tuningOptions.forEach((opt) => {
+            const count = countSongsForFilter("tuning", opt.value);
+            const option = Array.from(tuningFilter.options).find((o) => o.value === opt.value);
+            if (option) {
+                option.textContent = `${opt.label} (${count})`;
+            }
         });
     }
 
@@ -1417,6 +1520,7 @@ document.addEventListener("DOMContentLoaded", () => {
             saveFilterMode();
             updateFilterButtons();
             renderSongList(searchInput.value);
+            updateFilterCounters();
         });
 
         filterFavorites.addEventListener("click", () => {
@@ -1424,6 +1528,7 @@ document.addEventListener("DOMContentLoaded", () => {
             saveFilterMode();
             updateFilterButtons();
             renderSongList(searchInput.value);
+            updateFilterCounters();
         });
 
         instrumentFilter.addEventListener("change", (event) => {
@@ -1442,12 +1547,14 @@ document.addEventListener("DOMContentLoaded", () => {
             tuningFilterValue = event.target.value;
             saveTuningFilter();
             renderSongList(searchInput.value);
+            updateFilterCounters();
         });
 
         capoFilter.addEventListener("change", (event) => {
             capoFilterValue = event.target.value;
             saveCapoFilter();
             renderSongList(searchInput.value);
+            updateFilterCounters();
         });
 
         techniqueFilter.addEventListener("change", (event) => {
@@ -1590,6 +1697,7 @@ document.addEventListener("DOMContentLoaded", () => {
             updateTransposeBadge();
             renderActiveSongProfile();
             renderSongList();
+            updateFilterCounters();
             bindEvents();
             applyInitialQuerySelection();
         } catch (error) {
