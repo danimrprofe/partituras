@@ -1,0 +1,136 @@
+# PARTITURA v1
+================================================================================
+ARTISTA: El Niño de la Hipoteca
+CANCIÓN: Romeo y Julieta
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+Acordes: G 032003 · C x32010 · C* x32033 · D 000232
+Dadd9 (variación con C en 3.er traste) x54030 · D* (C* en 4.º traste) x54055
+C/G 332010 · Em 022000 · Am 002210
+Ritmo: palm muting en la mayor parte; en el estribillo puede variar (probad qué os encaja más).
+================================================================================
+
+ESTROFA
+G              C*                   G        C*
+Apaguen móviles abróchense los cinturones
+G              C*             D*   C*
+Y coloquen el asiento en vertical
+G              C*                   G        C*
+Así empezó la más enorme de las lecciones
+G                 C*                   D*  C*
+De una Julieta presa de una vida artificial
+
+PUENTE
+Am              C                   G
+Y al cruzar las nubes en busca del sol
+                  D/F#           Am
+Ella sueña que un ala pierde el rotor
+                 Am/G                D
+Y el avión se dispara hacia unas montañas que son de ficción
+
+ESTROFA
+G             C*            G         C*
+De primeras llamaría a la familia
+G                C*                D*  C*
+Luego se despediría de cada amistad
+G             C*            G         C*
+Hasta llegar a su Romeo de pacotilla
+G                   C*                      D*
+Aquél que de tan amigos no ha pasado el umbral
+
+PUENTE
+Am              C                   G
+Y al cruzar las nubes en busca del sol
+                  D/F#           Am
+Ella sueña que un ala pierde el rotor
+                 Am/G                D
+Y el avión se dispara hacia unas montañas que son de ficción
+
+ESTRIBILLO
+G    C*          Em  
+Mi amigo y nada más
+                     D
+¿Qué me dices si te digo la verdad?
+G  C*        Em
+¿Acaso no me ves
+                    D                        G
+Memorizándote los poros desde el pelo a tus pies?
+    C*          Em                      D                 Am
+Vuelves a aparecer en cada palmo de mi cama antes del amanecer
+                           C        Dadd9
+Luego despierto entro en razón y maldigo no tener el valor
+
+INSTRUMENTAL
+G  C* G  C*  G  C* D* C*
+
+ESTROFA
+G                 C*             G               C*
+Vamos a aterrizar abróchense los cinturones
+G                    C*             D*      C*
+Las previsiones son varios días de sol
+G                     C*                  G      C*
+Y al tomar tierra ya podrán encender los móviles
+G                  C*               D*      C*
+Pero Julieta tiene un mensaje de voz
+
+PUENTE
+Am                C             C/G
+Y todo su cuerpo se pone en tensión
+G                    Em
+Al ver que su Romeo usó en el contestador
+Am              C/G                Am                D
+Para decirle sincero con todo su aliento esta declaración
+
+ESTRIBILLO
+G    C*          Em  
+Mi amigo y nada más
+                     D
+¿Qué me dices si te digo la verdad?
+G  C*        Em
+¿Acaso no me ves
+                    D                        G
+Memorizándote los poros desde el pelo a tus pies?
+    C*          Em                      D                 Am
+Vuelves a aparecer en cada palmo de mi cama antes del amanecer
+                           C        Dadd9
+Luego despierto entro en razón y maldigo no tener el valor
+
+INSTRUMENTAL
+G  C* G  C*  G  C* D* C*
+
+PUENTE
+Am          C                 Am
+Pobre Julieta que sueñas de dos en dos
+    C                Dadd9
+Y un sueño apenas tiene sabor
+
+ESTROFA
+G                  C*            G            C*
+Aplaudid a la Julieta que espera que se muera
+G                       C*                D*     C*
+Porque cuando está entera no tiene el valor.
+
+ESTRIBILLO
+G         C*
+Mi amigo y nada más
+Em                     D
+¿Qué me dices si te digo la verdad?
+G        C*
+¿Acaso no me ves
+Em                         D
+Memorizándote los poros desde el pelo a tus pies?
+G              C*          Em                   D
+Vuelves a aparecer en cada palmo de mi cama antes del amanecer
+Am                       C        Dadd9
+Luego despierto entro en razón y maldigo no tener el valor
+
+INSTRUMENTAL
+G  C* G  C*  G  C* D* C*
+
+FINAL
+No tener el valor
+No tener el valor

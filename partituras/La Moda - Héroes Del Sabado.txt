@@ -1,0 +1,117 @@
+# PARTITURA v1
+================================================================================
+ARTISTA: La Moda
+CANCIÓN: Héroes del sabado
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+CEJILLA/CAPO: Capo 0
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e información adicional)
+================================================================================
+Cejilla: Traste 3
+
+[Tab - Intro]
+
+
+E|-----------------------------------------
+B|-----------------------------------------
+G|----0--0-----0----0-------0-------0--0---
+D|2-2---2--2-2---2-2--2/4-4---4/5-5---5--5-
+A|-----------------------------------------
+E|-----------------------------------------
+
+E|---------------| 
+B|---------------| 
+G|--0----0-----0-| 
+D|5---5-5--5-5---| 
+A|---------------| 
+E|---------------| 
+
+[Intro]
+Em                F# G
+Van por allí, los héroes del sábado,
+Em                   F# G
+Van a intentarlo una vez
+Em                              F# G
+Si les hieren hoy, si les hacen daño
+Em                   G
+Van a intentarlo una vez
+C
+Ya están ahí, los héroes del sábado
+ 
+ [Verso]
+Em              D G
+Hoy me voy a levantar,
+                   Em
+aunque sea por los árboles
+               D    G
+relucientes bajo el sol,
+     Em                 D G
+si pudieras escalar la colina y observar
+                 Em             F# G
+con perspectiva, para ganar claridad
+ 
+ [Pre-Estribillo]
+    Em                D        G
+Imposible ser neutral sobre un tren en movimiento
+      Em                    D       G
+Estas calles son distintas, de aquí no se va el invierno
+C
+Van por allí, los héroes del sábado
+ 
+ [Estribillo]
+ D                           Em              G
+¿Dónde están los que pueden parar el mundo solo con mirar?
+D                            Em           G
+El niño crecerá, y entenderá lo que su padre ignora
+ 
+ [Verso]
+Em                F#  G                Em
+Llevaos la paloma blanca y traed ovejas negras
+             D        G
+en un año se han vendido muchas almas
+      Em                    D        G
+Somos mirlos en los ojos de otros mirlos que se van
+    Em                    D   G
+Corazón no se alimenta de las ventas
+ 
+ 
+ [Pre-Estribillo]
+    Em                D        G
+Imposible ser neutral sobre un tren en movimiento
+      Em                    D       G
+Estas calles son distintas, de aquí no se va el invierno
+C
+Van por allí, los héroes del sábado
+ 
+ [Estribillo]
+ D                           Em              G
+¿Dónde están los que pueden parar el mundo solo con mirar?
+D                            Em           G
+El niño crecerá, y entenderá lo que su padre ignora
+ D                           Em              G
+¿Dónde están los que pueden parar el mundo solo con mirar?
+D                         Em  G
+El niño crecerá, y entenderá
+ 
+ [Puente]
+Em         C    G
+No te olvides de donde vienes (x4)
+ 
+       Em     C     G           Em   C    G
+En las noches más oscuras, en las carreteras crudas,
+       Em     C      G          Em        C   G
+en los golpes de la vida, no te olvidas, no te olvidas
+ 
+ [Estribillo]
+ D                           Em              G
+¿Dónde están los que pueden parar el mundo solo con mirar?
+D                            Em           G
+El niño crecerá, y entenderá lo que su padre ignora
+ C                           Em           G         C
+¿Dónde están los que pueden parar el mundo solo con mirar?
+                                Em           E        Em
+¿Dónde están los que pueden cambiar el mundo solo con pensar?
+X

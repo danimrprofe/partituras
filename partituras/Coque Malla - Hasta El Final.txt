@@ -1,0 +1,97 @@
+# PARTITURA v1
+================================================================================
+ARTISTA: Coque Malla ft. Leiva
+CANCIÓN: Hasta el final
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+Dsus = XX0233 · D/C# = X40232 · Bm7(b5) = X2323X · Bm/A = X04432
+(En el cifrado aparece Am7b5 en algunas líneas; contrasta con la posición que uses.)
+Rasgueo / pausa según indicación entre paréntesis en el cuerpo.
+================================================================================
+
+INTRO
+C    Csus   C    Csus
+
+ESTROFA
+C      C/B        Am Am/G F             C/E           Dm   Am7b5 G
+Ahora voy a ser sincero,   estuve tiempo sin querer jugar
+C      C/B        Am Am/G F         C/E   Dm   G
+encerrado en mi agujero, ya sólo quería disparar
+
+PUENTE
+F              Em       Dm        C
+Con la cara en la pared, nada sale bien
+F           Em       Dm (Rasgueo)   G   (pausa)
+Tuve que decir adiós, tuve que aprender
+
+ESTRIBILLO
+           C             C/B      Am              Am/G
+Y AHORA ENCIENDO UN CIGARRILLO Y ASPIRO HASTA EL FINAL
+        F             C/E           Dm             G
+NO ME IMPORTA SI ESTÁ BIEN, NO ME IMPORTA SI ESTÁ MAL
+
+         C             C/B    Am              Am/G
+TENGO ABIERTAS LAS VENTANAS Y DEJO EL AIRE ENTRAR
+       F           C/E         Dm          G         C Csus C Csus
+TENGO GANAS DE ABRAZARTE, TENGO GANAS DE LLEGAR AL FINAL
+
+ESTROFA
+C      C/B     Am Am/G F          Em           Dm   Am7b5 G
+Demasiados caramelos,    demasiada gente en el lugar
+C      C/B        Am Am/G F          Em           Dm   G
+Cosas rotas por el suelo,   demasiada mierda que tragar
+
+PUENTE
+F              Em       Dm        C
+Ya no quiero a nadie aquí, desapareced
+F           Em       Dm                G   G
+Hoy me voy a caminar, hoy me encuentro bien
+
+ESTRIBILLO
+           C             C/B      Am              Am/G
+Y AHORA ENCIENDO UN CIGARRILLO Y ASPIRO HASTA EL FINAL
+        F             Em           Dm             G
+NO ME IMPORTA SI ESTÁ BIEN, NO ME IMPORTA SI ESTÁ MAL
+
+           C          C/B     Am            Am/G
+TENGO ABIERTAS LAS VENTANAS Y DEJO EL AIRE ENTRAR
+        F          Em           Dm         G           C
+TENGO GANAS DE ABRAZARTE, TENGO GANAS DE LLEGAR AL FINAL
+
+PUENTE
+Em
+No más despedidas, no más situaciones
+Am                     G
+no más ceniza en los colchones
+
+F              C/E             Dm             G        C
+Mírate en el espejo y dime si esto es lo que quieres ser
+
+INSTRUMENTAL
+C     C/B      Am      Am/G     F       Em       Dm        G
+
+C     C/B      Am      Am/G     F       Em       Dm        G
+
+PUENTE
+F              Em       Dm        C
+Con la cara en la pared, nada sale bien
+F           Em       Dm            G         G
+Tuve que decir adiós, tuve que aprender... aprender
+
+ESTRIBILLO
+           C             C/B      Am              Am/G
+Y AHORA ENCIENDO UN CIGARRILLO Y ASPIRO HASTA EL FINAL
+        F             Em           Dm             G
+NO ME IMPORTA SI ESTÁ BIEN, NO ME IMPORTA SI ESTÁ MAL
+
+           C          C/B     Am            Am/G
+TENGO ABIERTAS LAS VENTANAS Y DEJO EL AIRE ENTRAR
+       F           Em          Dm          G         C  Csus
+TENGO GANAS DE ABRAZARTE, TENGO GANAS DE LLEGAR AL FINAL... AL FINAL
+
+FINAL
+C  Csus   C

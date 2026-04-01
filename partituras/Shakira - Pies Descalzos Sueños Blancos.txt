@@ -1,0 +1,178 @@
+# PARTITURA v1
+================================================================================
+ARTISTA: Shakira
+CANCIÓN: Pies descalzos sueños blancos
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+CEJILLA/CAPO: Capo 0
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e información adicional)
+================================================================================
+Chords Used:
+E     022100
+F#m   244222
+A     577655
+B     799877
+E5    x799xx
+E5/D# x699xx
+A5    x022xx
+B5    x244xx
+C#m   x46654
+Dsus2 xx0230
+ 
+[ESTRIBILLO]
+E       F#m          A
+ Perteneciste a una raza antigua
+    B                          E
+de pies descalzos y de suenos blancos.
+         F#m         A
+Fuiste polvo, polvo eres piensa
+       B                          A
+que el hierro siempre al calor es blando.
+ 
+   E
+e|----------------------------------------------|
+B|--4h5-5-5-5-5-5--4h5-5-5-5-5-5--4h5-5-5-5-5-5-|
+G|--4-4-4-4-4-4-4--4-4-4-4-4-4-4--4-4-4-4-4-4-4-|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+ 
+e|-------------------|
+B|-10-10-10-9--------|
+G|-9--9--9--9-11-8-9-|
+D|-------------------|
+A|-------------------|
+E|-------------------|
+ 
+[ESTROFA]
+E5     E5/D#       C#m
+Tu mordiste la manzana
+                     A5
+y renunciaste al paraiso
+                       B5
+y condenaste a una serpiente
+                          E5
+siendo tu el que asi lo quiso.
+      E5/D#        C#m
+Por milenios y milenios
+                 A5
+permaneciste desnudo
+                        B5
+y te enfrentaste a dinosaurios
+                       C#m
+bajo un techo y sin escudo.
+ 
+[PRE-ESTRIBILLO]
+           E
+Y ahora estas aqui
+C#m       E
+queriendo ser feliz,
+C#m              E
+cuando no te importo
+      A    E    B
+un pepino tu destino.
+ 
+[ESTRIBILLO]
+E       F#m          A
+ Perteneciste a una raza antigua
+    B                          E
+de pies descalzos y de suenos blancos.
+         F#m         A
+Fuiste polvo, polvo eres piensa
+       B                          A      E B
+que el hierro siempre al calor es blando.
+ 
+[ESTROFA]
+E5     E5/D#          C#m
+Construiste un mundo exacto
+                   A5
+de acabados tan perfectos
+               B5
+cada cosa calculada
+                     E5
+en su espacio y a su tiempo.
+       E5/D#          C#m
+Yo que soy un caos completo
+                    A5
+las entradas, las salidas,
+                    B5
+los nombres y las medidas
+                   C#m
+no me caben en los sesos.
+ 
+[PRE-ESTRIBILLO]
+          E
+Y ahora estas aqui
+C#m       E
+queriendo ser feliz,
+C#m              E
+cuando no te importo
+      A    E    B
+un pepino tu destino.
+ 
+[ESTRIBILLO]
+E       F#m          A
+ Perteneciste a una raza antigua
+    B                          E
+de pies descalzos y de suenos blancos.
+         F#m         A
+Fuiste polvo, polvo eres piensa
+       B
+que el hierro siempre al calor es...
+E       F#m          A
+ Perteneciste a una raza antigua
+    B                          E
+de pies descalzos y de suenos blancos.
+         F#m         A
+Fuiste polvo, polvo eres piensa
+       B
+que el hierro siempre al calor es blando.
+ 
+[Refrain]
+Dsus2
+Saludar al vecino
+                  E
+acostarse a una hora, trabajar cada dia
+                  Dsus2
+para vivir en la vida, contestar solo aquello
+              B5
+y sentir solo esto y que Dios nos ampare
+                   E
+de malos pensamientos.
+                  F#m
+Cumplir con las tareas,
+              A
+asistir al colegio.
+                B
+Que diria la familia
+                 E
+si eres un fracasado?
+                F#m
+Ponte siempre zapatos,
+                      A
+no hagas ruido en la mesa
+              B
+una medias veladas y
+                E
+corbata en las fiestas.
+               F#m
+Las mujeres se casan
+                 A
+siempre antes de treinta
+               B
+si no vestiran santos
+                       E
+y aunque asi no lo quieran
+                  F#m
+y en la fiesta de quince
+                A
+es mejor no olvidar
+             B
+una fina champaña
+                     A E B
+y bailar bien el vals 
+                     A B E
+y bailar bien el vals.

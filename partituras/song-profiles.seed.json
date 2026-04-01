@@ -1,0 +1,417 @@
+{
+  "band-of-horses-the-funeral": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "joaquin-sabina-lo-niego-todo": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "ronan-keating-when-you-say-nothing-at-all": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "ben-kweller-ben-kweller": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "complices-es-por-ti": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "revolver-si-es-tan-solo-amor": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "pereza-amelie": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "the-fray-how-to-save-a-life": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "r-e-m-man-on-the-moon": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "morgan-volver": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "ivan-ferreiro-piensa-en-frio": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "andres-calamaro-mi-enfermedad": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "joaquin-sabina-el-blues-del-autobus": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "la-fuga-balada-del-despertador": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "rise-against-hero-of-war": {
+    "instruments": [],
+    "rating": 4
+  },
+  "nickelback-rockstar": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "lynyrd-skynyrd-simple-man": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "joaquin-sabina-la-cancion-mas-hermosa-del-mundo": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "vetusta-morla-copenhague": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "tom-odell-another-love": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 5
+  },
+  "3-doors-down-be-like-that": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "quique-gonzalez-de-haberlo-sabido": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "amaral-como-hablar": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "leiva-polvora": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 5
+  },
+  "coque-malla-hasta-el-final": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0
+  },
+  "the-who-behind-blue-eyes": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0
+  },
+  "love-of-lesbian-alli-donde-soliamos-gritar": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "chris-isaak-wicked-game": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "dani-martin-que-bonita-la-vida": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 5
+  },
+  "leiva-godzilla": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "foo-fighters-learn-to-fly": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "pereza-lady-madrid": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0
+  },
+  "adam-levine-go-now": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "pereza-violento-amor": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 5
+  },
+  "cat-stevens-father-and-son": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "countin-crows-hard-candy": {
+    "instruments": [
+      "piano",
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "eric-clapton-wonderful-tonight": {
+    "instruments": [],
+    "rating": 5
+  },
+  "michelle-branch-it-s-you": {
+    "instruments": [],
+    "rating": 4
+  },
+  "taxi-perdido-en-la-calle": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "lady-gaga-lady-gaga": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 4
+  },
+  "countin-crows-accidentally-in-love": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "vetusta-morla-de-junio": {
+    "instruments": [],
+    "rating": 4
+  },
+  "the-script-the-man-who-can-t-be-moved": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0
+  },
+  "shakira-la-pared": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 5
+  },
+  "sopa-de-cabra-camins": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "fito-fitipaldis-quiero-ser-una-estrella": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "death-cab-for-cutie-i-will-follow-you-into-the-dark": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 5
+  },
+  "revolver-sara": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "countin-crows-a-long-december": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 4
+  },
+  "red-hot-chili-peppers-otherside": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "john-mayer-love-on-the-weekend": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "carlos-sadness-sone-contigo": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "lifehouse-you-and-me": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "enrique-urquijo-aunque-tu-no-lo-sepas": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0
+  },
+  "3-doors-down-here-without-you": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0
+  },
+  "revolver-dos-por-dos": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "stone-sour-through-glass": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "lp-lost-on-you": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "incubus-love-hurts": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "calum-scott-dancing-on-my-own": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 3
+  },
+  "leiva-costa-de-oaxaca": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 4
+  },
+  "the-verve-lucky-man": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 4
+  },
+  "don-mclean-american-pie": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "shakira-no": {
+    "instruments": [
+      "piano",
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "fito-fitipaldis-al-cantar": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "joaquin-sabina-a-la-orilla-de-la-chimenea": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "countin-crows-colorblind": {
+    "instruments": [
+      "piano",
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "lynyrd-skynyrd-free-birdtxt": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 5
+  },
+  "morgan-sargento-de-hierro": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "u2-one": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 4
+  }
+}

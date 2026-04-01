@@ -1,0 +1,100 @@
+# PARTITURA v1
+================================================================================
+ARTISTA: Sidecars
+CANCIÓN: Contra las cuerdas
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+CEJILLA/CAPO: Capo 2
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+Ritmo sugerido en el intro: abajo ↓ abajo ↑ abajo ↑ (pulsos según tu mano).
+A* / A*2 según posición que uses en la transcripción (refuerzo o variante de La).
+================================================================================
+
+INTRO
+↓ ↓ ↑ ↓ ↑
+
+ESTRIBILLO
+C                    F
+Quédate, cierra la puerta.
+F    G               C
+Lánzame contra las cuerdas.
+C/B        Am    A*    A*2   D
+Luego desátame, más de la cuenta.
+Dm     G               C
+Déjame, no te arrepientas.
+
+ESTROFA
+C                                                    F     C
+El día que la vi pasar llevaba allí una eternidad, y no, paró.
+C                                                       F     C
+Desnudos en la gran ciudad, perdí toda mi autoridad. No soy mejor
+G                  F              C
+que un tiro a bocajarro en el pulmón.
+G                  F              C   G
+que un tiro a quemarropa en el corazón.
+
+ESTRIBILLO
+C                    F
+Quédate, cierra la puerta.
+F    G               C
+Lánzame contra las cuerdas.
+C/B        Am    A*    A*2   D
+Luego desátame, más de la cuenta.
+Dm     G               C
+Déjame, no te arrepientas.
+
+ESTROFA
+C                                                    F     C
+Las noches del café en Madrid, brillabas como el éxtasis, mejor me voy.
+C                                                         F     C
+No es fácil confiar en mí, no digas que no te advertí que soy peor
+G                  F              C   G
+que un tiro a quemarropa en el corazón.
+
+ESTRIBILLO
+C                    F
+Quédate, cierra la puerta.
+F    G               C
+Lánzame contra las cuerdas.
+C/B        Am    A*    A*2   D
+Luego desátame, más de la cuenta.
+Dm     G               C
+Déjame, no te arrepientas.
+
+INSTRUMENTAL
+G G Dm Fm
+C
+
+ESTROFA
+C
+Subía como el buen cristal,
+F
+tan puro que da miedo probarlo.
+G
+Mis dedos llenos de alquitrán,
+C
+Sufrían por no mancillarlo.
+
+C
+De pequeña no aprendió a nadar,
+F
+hace poco que me lo ha contado,
+G
+"Vente, yo te enseñaré a volar,
+F                            G
+mientras vienen los demás a nado."
+
+ESTRIBILLO
+C                    F
+Quédate, cierra la puerta.
+F    G               C
+Lánzame contra las cuerdas.
+C/B        Am    A*    A*2   D
+Luego desátame, más de la cuenta.
+Dm     G               C
+Déjame, no te arrepientas.
+
+FINAL
+D - G - D - G - Gm - D

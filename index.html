@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Partituras</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/app.js" defer></script>
+</head>
+<body class="app-body">
+    <main class="container py-4 py-lg-5">
+        <section class="hero card border-0 mb-4">
+            <div class="card-body p-4 p-lg-5">
+                <div class="row g-4 align-items-center">
+                    <div class="col-lg-8">
+                        <p class="text-uppercase hero-kicker mb-2">Biblioteca personal</p>
+                        <h1 class="display-6 fw-bold mb-3">Tus canciones listas para tocar</h1>
+                        <p class="mb-0 opacity-75">Busca por artista o título, abre la partitura y toca con guitarra o piano sin perder tiempo.</p>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="search-shell">
+                            <label for="searchInput" class="form-label mb-1">Buscar canción</label>
+                            <input id="searchInput" type="search" class="form-control form-control-lg" placeholder="Ej: Vetusta Morla" autocomplete="off">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="card border-0 mb-4">
+            <div class="card-body p-3 p-lg-4">
+                <div class="row g-3 align-items-end">
+                    <div class="col-sm-6 col-lg-3">
+                        <label class="form-label small text-uppercase mb-1">Tamano de letra</label>
+                        <div class="btn-group w-100" role="group" aria-label="Controles de tamano de letra">
+                            <button id="fontDown" type="button" class="btn btn-outline-secondary">A-</button>
+                            <button id="fontReset" type="button" class="btn btn-outline-secondary">Reset</button>
+                            <button id="fontUp" type="button" class="btn btn-outline-secondary">A+</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3">
+                        <label class="form-label small text-uppercase mb-1">Transposicion</label>
+                        <div class="btn-group w-100" role="group" aria-label="Controles de transposicion">
+                            <button id="transposeDown" type="button" class="btn btn-outline-secondary">-1</button>
+                            <button id="transposeReset" type="button" class="btn btn-outline-secondary">0</button>
+                            <button id="transposeUp" type="button" class="btn btn-outline-secondary">+1</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3">
+                        <label for="autoscrollSpeed" class="form-label small text-uppercase mb-1">Autoscroll</label>
+                        <div class="d-flex gap-2 align-items-center">
+                            <button id="autoscrollToggle" type="button" class="btn btn-outline-secondary flex-shrink-0">Iniciar</button>
+                            <input id="autoscrollSpeed" type="range" class="form-range mb-0" min="1" max="8" step="1" value="3" aria-label="Velocidad de autoscroll">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3">
+                        <p class="small text-uppercase mb-1">Estado</p>
+                        <div class="status-badges d-flex flex-wrap gap-2">
+                            <span id="transposeBadge" class="badge text-bg-light">Transposicion: 0</span>
+                            <span id="favoritesBadge" class="badge text-bg-light">Favoritas: 0</span>
+                            <span id="profileBadge" class="badge text-bg-light">Perfiles: 0</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="row g-4">
+            <aside class="col-lg-4">
+                <div class="card h-100 border-0">
+                    <div class="card-header bg-transparent border-0 pt-4 px-4 d-flex justify-content-between align-items-center">
+                        <h2 class="h5 mb-0">Canciones</h2>
+                        <span id="songCount" class="badge text-bg-light">0</span>
+                    </div>
+                    <div class="px-4 pb-2 d-flex gap-2">
+                        <button id="filterAll" type="button" class="btn btn-sm btn-dark">Todas</button>
+                        <button id="filterFavorites" type="button" class="btn btn-sm btn-outline-dark">Favoritas</button>
+                    </div>
+                    <div class="px-4 pb-3">
+                        <div class="row g-2">
+                            <div class="col-12 col-md-6 col-lg-12 col-xl-6">
+                                <label for="instrumentFilter" class="form-label small text-uppercase mb-1">Instrumento</label>
+                                <select id="instrumentFilter" class="form-select form-select-sm">
+                                    <option value="all">Todos</option>
+                                    <option value="guitarra-electrica">Guitarra electrica</option>
+                                    <option value="piano">Piano</option>
+                                    <option value="sin-definir">Sin definir</option>
+                                </select>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-12 col-xl-6">
+                                <label for="ratingFilter" class="form-label small text-uppercase mb-1">Como te sale</label>
+                                <select id="ratingFilter" class="form-select form-select-sm">
+                                    <option value="0">Todas</option>
+                                    <option value="1">1 estrella o mas</option>
+                                    <option value="2">2 estrellas o mas</option>
+                                    <option value="3">3 estrellas o mas</option>
+                                    <option value="4">4 estrellas o mas</option>
+                                    <option value="5">5 estrellas</option>
+                                </select>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-12 col-xl-6">
+                                <label for="tuningFilter" class="form-label small text-uppercase mb-1">Afinacion</label>
+                                <select id="tuningFilter" class="form-select form-select-sm">
+                                    <option value="all">Todas</option>
+                                    <option value="estandar">Estandar</option>
+                                    <option value="medio-tono-abajo">Medio tono abajo</option>
+                                    <option value="tono-abajo">Tono abajo</option>
+                                    <option value="drop-d">Drop D</option>
+                                    <option value="drop-c">Drop C</option>
+                                    <option value="sin-definir">Sin definir</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-body pt-2 px-2 pb-2">
+                        <div id="songList" class="list-group list-group-flush song-list" aria-live="polite"></div>
+                    </div>
+                </div>
+            </aside>
+
+            <section class="col-lg-8">
+                <div id="songView" class="card border-0 h-100 d-none">
+                    <div class="card-body p-4 p-lg-5">
+                        <p id="songMeta" class="small text-uppercase mb-2"></p>
+                        <h2 id="songTitle" class="h3 mb-4"></h2>
+                        <section class="song-profile card border-0 mb-4">
+                            <div class="card-body p-3">
+                                <div class="row g-3 align-items-end">
+                                    <div class="col-md-5">
+                                        <p class="form-label small text-uppercase mb-1">Instrumentos habituales</p>
+                                        <div id="songInstrumentGroup" class="instrument-picker" role="group" aria-label="Instrumentos habituales">
+                                            <label class="instrument-option">
+                                                <input type="checkbox" name="songInstrument" value="guitarra-electrica">
+                                                <span>Guitarra electrica</span>
+                                            </label>
+                                            <label class="instrument-option">
+                                                <input type="checkbox" name="songInstrument" value="piano">
+                                                <span>Piano</span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <p class="small text-uppercase mb-1">Como te sale</p>
+                                        <div class="d-flex flex-wrap align-items-center gap-3">
+                                            <div id="songRating" class="rating-control" role="group" aria-label="Valorar la cancion"></div>
+                                            <span id="songRatingLabel" class="small opacity-75">Sin valorar</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <label for="songTuning" class="form-label small text-uppercase mb-1">Afinacion</label>
+                                        <select id="songTuning" class="form-select form-select-sm">
+                                            <option value="">Sin definir</option>
+                                            <option value="estandar">Estandar</option>
+                                            <option value="medio-tono-abajo">Medio tono abajo</option>
+                                            <option value="tono-abajo">Tono abajo</option>
+                                            <option value="drop-d">Drop D</option>
+                                            <option value="drop-c">Drop C</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <pre id="songBody" class="song-body mb-0"></pre>
+                    </div>
+                </div>
+                <div id="emptyState" class="card border-0 h-100">
+                    <div class="card-body p-4 p-lg-5 d-flex align-items-center justify-content-center text-center">
+                        <div>
+                            <h2 class="h4 mb-2">Selecciona una canción</h2>
+                            <p class="mb-0 opacity-75">Empieza con el buscador o pulsa una canción de la lista.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+    </main>
+</body>
+</html>
