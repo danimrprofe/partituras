@@ -1,0 +1,62 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: MClan
+CANCIÓN: Todo lo joven muere hoy
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+TONALIDAD: —
+================================================================================
+
+Capo 3
+
+INTRO
+D A Bm A G A# D
+
+ESTROFA
+        D   A   Bm       A         G     A#       D
+Yo también     quería vivir para siempre;    no morir.
+        D   F#m7   Bm         A             G      A#    D
+Vi tu piel      de mármol; la noche en tus labios,  sonreir.
+D              E7  C#7   F#m         A              B7
+Odiaba que llegara,  la luz de la mañana a nuestro amor...
+
+ESTRIBILLO
+A   D                     A   D
+   Malditos buenos días, sol.
+                     A   D
+Todo lo joven muere hoy.
+                    Bm     G
+Neón purpura y alcoooo  oohol.
+
+
+ESTROFA
+     D   A   Bm        A                  G    A#
+Caminé       contigo igual que un zombie eterno;
+       D
+tan feliz.
+     D   A   Bm         A            G   A#
+Olvidé       que con el alba del invierno
+             D
+llegaría el fin.
+
+D                    E7  C#7
+  La vida trajo el miedoooo,
+    F#m                     B7
+el frío espejo nos lo recordó.
+
+ESTRIBILLO
+A   D                         A   D
+       Malditos buenos días, sol.
+                     A   D
+Todo lo joven muere hoy.
+                    Bm      G
+Neón purpura y alcohoooo oo ool.
+
+SOLO
+D A Bm A G A# D
+D A Bm A G A# D
+
+FINAL
+D A D A
+

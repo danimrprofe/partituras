@@ -1,0 +1,109 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: siloe
+CANCION: QUE MEREZCA LA PENA
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+INTRO
+C D Em G C
+C D Em G C D
+ 
+ESTROFA 1
+C                       D                 Em
+Las jaulas no sirven de nada si las fieras,
+Em        G/B     C
+no tienen apetito.
+C                            D   
+Es la intención la que nos mueve a ser más grandes,
+Em        G      C      
+a mí a soñar contigo.
+ 
+ESTRIBILLO
+C                 D
+Vamos a subir más alto,
+Em         D/F#     G
+vamos a llegar más lejos,
+C                 D
+vamos a comernos todo
+   G        Bm*     C
+si tú te vienes conmigo,
+   C        D/F#     G
+si tú te vienes conmigo.
+ 
+INSTRUMENTAL
+G C G C
+ 
+ESTROFA 2
+C                       D                 Em
+No somos más que un microscópico lunar,
+Em        G        C
+en el culo del mundo,
+C                           D
+pues hoy quiero que brille lejos con mis versos
+Em        G      C     
+desde lo más profundo.
+C                 D
+Vamos a subir más alto,
+Em                 D/F#
+vamos a llegar más lejos,
+C                 D
+vamos a comernos todo
+   G       Bm*       C
+si tú te vienes conmigo,
+   G       Bm*       C
+si tú te vienes conmigo,
+   Em       D/F#    G
+si tú te vienes conmigo.
+ 
+INSTRUMENTAL
+G C G C
+ 
+ESTROFA 3
+G                        C
+Siempre soñamos con los pies lejos del suelo,
+Em                     C
+dejando que la arena cubra nuestros dedos,
+Em                      C
+siempre soñamos en un mundo paralelo.
+Em         C
+Turururutu Turururutu
+G                        C
+Siempre soñamos con los pies lejos del suelo,
+Em                      C
+dejando que la arena cubra nuestros dedos,
+Em                      C
+siempre soñamos en un mundo paralelo.
+    Em         G          C
+Un viaje que merezca la pena.
+G                        C
+Siempre soñamos con los pies lejos del suelo,
+Em                     C
+dejando que la arena cubra nuestros dedos,
+G                      C
+siempre soñamos en un mundo paralelo.
+    Em         G          C
+Un viaje que merezca la pena,
+    G         D          C
+una viaje que merezca la pena,
+       D                        G
+siempre haces que merezca la pena.
+ 
+INSTRUMENTAL
+ 
+G C
+Em C
+ 
+OUTRO
+    Em         G          C
+Un viaje que merezca la pena,
+    G         D          C
+una viaje que merezca la pena,
+       D                        G
+siempre haces que merezca la pena.

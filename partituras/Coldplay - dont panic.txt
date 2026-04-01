@@ -1,0 +1,82 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Coldplay
+CANCION: DONT PANIC2
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+# Don't panic
+
+| Tonalidad | Afinación | Compás | Capo |
+| --------- | --------- | ------ | ---- |
+|           | Estándar  | 4/4    | No   |
+
+
+```
+INTRO
+Fmaj7 Fmaj9
+
+ESTROFA 1
+Am                  C
+Bones, sinking like stones
+             Fmaj7
+All that we fought for
+Am                  C
+Homes, places we've grown
+             Fmaj7
+All of us are done for
+
+ESTRIBILLO
+Dm                 Dm6               Am
+  And we live in a beautiful world
+    G
+      Yeah we do, yeah we do
+Dm                 Dm6          Fmaj7
+  We live in a beautiful world
+
+ESTROFA 2
+Am                  C
+Bones, sinking like stones
+             Fmaj7
+All that we fought for
+Am                  C
+Homes, places we've grown
+             Fmaj7
+All of us are done for
+
+ESTRIBILLO
+Dm                 Dm6               Am
+  And we live in a beautiful world
+    G
+      Yeah we do, yeah we do
+Dm                 Dm6          Fmaj7
+  We live in a beautiful world
+
+INTERLUDIO
+| Am    | C     | Fmaj7 | Fmaj7 | x2
+
+ESTRIBILLO
+Dm                 Dm6               Am
+  And we live in a beautiful world
+    G
+      Yeah we do, yeah we do
+Dm                 Dm6          Fmaj7
+  We live in a beautiful world
+
+INTERLUDIO
+| Am    | C     | Fmaj7 | Fmaj7 | x2
+
+OUTRO
+Am             C
+Oh, all that I know
+                        Fmaj7
+There's nothing here to run from
+  Am                C                    Fmaj7
+Cos yeah, everybody here got somebody to lean on
+```

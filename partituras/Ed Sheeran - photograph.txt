@@ -1,0 +1,18 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: Ed Sheeran
+CANCION: PHOTOGRAPH
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+# Photograph
+
+E C#m Bsus4 Aadd9
+C#m A E B5 (Badd4) x2
+E Bsus4 C#m Aadd9

@@ -1,0 +1,75 @@
+﻿# PARTITURA v1
+================================================================================
+ARTISTA: El Canto Del Loco
+CANCION: VUELVE69
+ALBUM:   -
+================================================================================
+AFINACION: Estandar (E A D G B E)
+CEJILLA/CAPO: Sin cejilla
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+(Acordes e informacion adicional)
+================================================================================
+
+**************************************************
+*                                                *
+*            El Canto del Loco                  *
+*                 Zapatillas, 2005              *
+*                                                *
+*                   Canción:                     *
+*                   Vuelve 			*
+*                                                *
+*              Afinación:                       *
+*            Eb  Ab  Db  Gb  Bb  Eb             *
+*                                                *
+**************************************************
+
+C | G | E | G
+C | G | E | G
+
+C | - | G  | -
+A | - | F  | -
+C | - | G  | -
+A | - | F  | -
+
+D | - | G | - 
+E | - | A | -
+F | - | G | -
+
+ESTRIBILLO
+C  | G  | F | G
+C  | G  | F | G
+A  | G  | F | D
+G  | -  | F | G 
+
+ESTROFA
+C | - | G  | -
+A | - | F  | -
+C | - | G  | -
+A | - | F  | -
+
+D | - | G | - 
+E | - | A | -
+F | - | G | -
+
+ESTRIBILLO
+C  | G  | F  | G
+C  | G  | F  | G
+A | G | F|  D
+G | - |F | G 
+
+C - - - 
+E - B -
+
+D | - | G | - 
+E | - | A | -
+F | - | G | -
+
+ESTRIBILLO
+C | G | F | G
+C | G | F | G
+A | G | F | D
+G | - | F | G 
+
+C
+
