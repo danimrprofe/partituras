@@ -9,61 +9,110 @@
     "id": "3-doors-down-be-like-that",
     "artist": "3 Doors Down",
     "title": "Be Like That",
-    "filename": "3 Doors Down - Be Like That.txt"
+    "filename": "3 Doors Down - Be Like That.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "3-doors-down-here-without-you",
     "artist": "3 Doors Down",
     "title": "Here Without You",
-    "filename": "3 Doors Down - Here Without You.txt"
+    "filename": "3 Doors Down - Here Without You.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "a-great-big-world-say-something",
     "artist": "A Great Big World",
     "title": "Say Something",
-    "filename": "A Great Big World - Say Something.txt"
+    "filename": "A Great Big World - Say Something.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "adam-levine-go-now",
     "artist": "Adam Levine",
     "title": "Go Now",
-    "filename": "Adam Levine - Go Now.txt"
+    "filename": "Adam Levine - Go Now.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "alannis-morrisset-ironic",
     "artist": "Alannis Morrisset",
     "title": "Ironic",
-    "filename": "Alannis Morrisset - Ironic.txt"
+    "filename": "Alannis Morrisset - Ironic.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "amaral-como-hablar",
     "artist": "Amaral",
     "title": "Cómo Hablar",
-    "filename": "Amaral - Cómo Hablar.txt"
+    "filename": "Amaral - Cómo Hablar.txt",
+    "techniques": [
+      "fingerpicking",
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "amaral-sin-ti-no-soy-nada",
     "artist": "Amaral",
     "title": "Sin Ti No Soy Nada",
-    "filename": "Amaral - Sin Ti No Soy Nada.txt"
+    "filename": "Amaral - Sin Ti No Soy Nada.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "amaral-te-necesito",
     "artist": "Amaral",
     "title": "Te Necesito",
-    "filename": "Amaral - Te Necesito.txt"
+    "filename": "Amaral - Te Necesito.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "andres-calamaro-andres-calamaro",
     "artist": "Andres Calamaro",
     "title": "Andres Calamaro",
-    "filename": "Andres Calamaro - Andres Calamaro.txt"
+    "filename": "Andres Calamaro - Andres Calamaro.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "andres-calamaro-mi-enfermedad",
     "artist": "Andres Calamaro",
     "title": "Mi Enfermedad",
-    "filename": "Andres Calamaro - Mi Enfermedad.txt"
+    "filename": "Andres Calamaro - Mi Enfermedad.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "andres-calamaro-te-quiero-igual",
@@ -75,61 +124,111 @@
     "id": "arctic-monkeys-mardy-bum",
     "artist": "Arctic Monkeys",
     "title": "Mardy Bum",
-    "filename": "Arctic Monkeys - Mardy Bum.txt"
+    "filename": "Arctic Monkeys - Mardy Bum.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "astola-cojo-el-saco-y-me-retiro",
     "artist": "Astola",
     "title": "Cojo El Saco Y Me Retiro",
-    "filename": "Astola - Cojo El Saco Y Me Retiro.txt"
+    "filename": "Astola - Cojo El Saco Y Me Retiro.txt",
+    "sections": [
+      "ESTROFA"
+    ]
   },
   {
     "id": "avril-lavigne-sk8ter-boy",
     "artist": "Avril Lavigne",
     "title": "Sk8ter Boy",
-    "filename": "Avril Lavigne - Sk8ter Boy.txt"
+    "filename": "Avril Lavigne - Sk8ter Boy.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE"
+    ]
   },
   {
     "id": "avril-lavigne-skater-boy",
     "artist": "Avril Lavigne",
     "title": "Skater Boy",
-    "filename": "Avril Lavigne - Skater Boy.txt"
+    "filename": "Avril Lavigne - Skater Boy.txt",
+    "sections": [
+      "ESTROFA",
+      "PUENTE"
+    ]
   },
   {
     "id": "band-of-horses-the-funeral",
     "artist": "Band of Horses",
     "title": "the Funeral",
-    "filename": "Band of Horses - the Funeral.txt"
+    "filename": "Band of Horses - the Funeral.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs",
+      "barre-chords"
+    ]
   },
   {
     "id": "ben-harper-walk-away",
     "artist": "Ben Harper",
     "title": "Walk Away",
-    "filename": "Ben Harper - Walk Away.txt"
+    "filename": "Ben Harper - Walk Away.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "ben-kweller-ben-kweller",
     "artist": "Ben Kweller",
     "title": "Ben Kweller",
-    "filename": "Ben Kweller - Ben Kweller.txt"
+    "filename": "Ben Kweller - Ben Kweller.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE",
+      "OUTRO"
+    ]
   },
   {
     "id": "bon-iver-skinny-love",
     "artist": "Bon Iver",
     "title": "Skinny Love",
-    "filename": "Bon Iver - Skinny Love.txt"
+    "filename": "Bon Iver - Skinny Love.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "calum-scott-dancing-on-my-own",
     "artist": "Calum Scott",
     "title": "Dancing on My Own",
-    "filename": "Calum Scott - Dancing on My Own.txt"
+    "filename": "Calum Scott - Dancing on My Own.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "carlos-sadness-sone-contigo",
     "artist": "Carlos Sadness",
     "title": "Soñé Contigo",
-    "filename": "Carlos Sadness - Soñé Contigo.txt"
+    "filename": "Carlos Sadness - Soñé Contigo.txt",
+    "sections": [
+      "ESTROFA"
+    ]
   },
   {
     "id": "cat-stevens-father-and-son",
@@ -141,109 +240,405 @@
     "id": "chayanne-lo-dejaria-todo",
     "artist": "Chayanne",
     "title": "Lo Dejaría Todo",
-    "filename": "Chayanne - Lo Dejaría Todo.txt"
+    "filename": "Chayanne - Lo Dejaría Todo.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "chris-isaak-wicked-game",
     "artist": "Chris Isaak",
     "title": "Wicked Game",
-    "filename": "Chris Isaak - Wicked Game.txt"
+    "filename": "Chris Isaak - Wicked Game.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
+  },
+  {
+    "id": "coldplay-adventure-of-a-lifetime2",
+    "artist": "Coldplay",
+    "title": "adventure of a lifetime2",
+    "filename": "Coldplay - adventure of a lifetime2.txt"
+  },
+  {
+    "id": "coldplay-clocks2",
+    "artist": "Coldplay",
+    "title": "clocks2",
+    "filename": "Coldplay - clocks2.txt",
+    "sections": [
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "coldplay-dont-panic2",
+    "artist": "Coldplay",
+    "title": "dont panic2",
+    "filename": "Coldplay - dont panic2.txt",
+    "sections": [
+      "OUTRO"
+    ],
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "coldplay-fix-you2",
+    "artist": "Coldplay",
+    "title": "fix you2",
+    "filename": "Coldplay - fix you2.txt",
+    "sections": [
+      "BRIDGE"
+    ],
+    "techniques": [
+      "strumming"
+    ],
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "coldplay-lost2",
+    "artist": "Coldplay",
+    "title": "lost2",
+    "filename": "Coldplay - lost2.txt",
+    "sections": [
+      "OUTRO"
+    ],
+    "key": "Sol Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "coldplay-scientist2",
+    "artist": "Coldplay",
+    "title": "scientist2",
+    "filename": "Coldplay - scientist2.txt",
+    "sections": [
+      "INTRO",
+      "OUTRO"
+    ],
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "coldplay-trouble2",
+    "artist": "Coldplay",
+    "title": "trouble2",
+    "filename": "Coldplay - trouble2.txt",
+    "sections": [
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "coldplay-viva-la-vida2",
+    "artist": "Coldplay",
+    "title": "viva la vida2",
+    "filename": "Coldplay - viva la vida2.txt",
+    "sections": [
+      "OUTRO"
+    ],
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "coldplay-yellow2",
+    "artist": "Coldplay",
+    "title": "yellow2",
+    "filename": "Coldplay - yellow2.txt"
   },
   {
     "id": "complices-es-por-ti",
     "artist": "Complices",
     "title": "Es Por Ti",
-    "filename": "Complices - Es Por Ti.txt"
+    "filename": "Complices - Es Por Ti.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "coque-malla-hasta-el-final",
     "artist": "Coque Malla",
     "title": "Hasta El Final",
-    "filename": "Coque Malla - Hasta El Final.txt"
+    "filename": "Coque Malla - Hasta El Final.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "PUENTE",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "coque-malla",
     "artist": "Desconocido",
     "title": "Coque Malla -",
-    "filename": "Coque Malla -.txt"
+    "filename": "Coque Malla -.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "corey-taylor-corey-taylor",
     "artist": "Corey Taylor",
     "title": "Corey Taylor",
-    "filename": "Corey Taylor - Corey Taylor.txt"
+    "filename": "Corey Taylor - Corey Taylor.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "coti-nada-fue-un-error",
     "artist": "Coti",
     "title": "Nada Fue Un Error",
-    "filename": "Coti - Nada Fue Un Error.txt"
+    "filename": "Coti - Nada Fue Un Error.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "countin-crows-a-long-december",
     "artist": "Countin Crows",
     "title": "a Long December",
-    "filename": "Countin Crows - a Long December.txt"
+    "filename": "Countin Crows - a Long December.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "countin-crows-accidentally-in-love",
     "artist": "Countin Crows",
     "title": "Accidentally in Love",
-    "filename": "Countin Crows - Accidentally in Love.txt"
+    "filename": "Countin Crows - Accidentally in Love.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "countin-crows-colorblind",
     "artist": "Countin Crows",
     "title": "Colorblind",
-    "filename": "Countin Crows - Colorblind.txt"
+    "filename": "Countin Crows - Colorblind.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "countin-crows-hard-candy",
     "artist": "Countin Crows",
     "title": "Hard Candy",
-    "filename": "Countin Crows - Hard Candy.txt"
+    "filename": "Countin Crows - Hard Candy.txt",
+    "sections": [
+      "OUTRO"
+    ]
   },
   {
     "id": "cristina-aguilera-cristina-aguilera",
     "artist": "Cristina Aguilera",
     "title": "Cristina Aguilera",
-    "filename": "Cristina Aguilera - Cristina Aguilera.txt"
+    "filename": "Cristina Aguilera - Cristina Aguilera.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "damien-rice-damien-rice",
     "artist": "Damien Rice",
     "title": "Damien Rice",
-    "filename": "Damien Rice - Damien Rice.txt"
+    "filename": "Damien Rice - Damien Rice.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "dani-fernandez-solo-tienes-que-avisar",
     "artist": "Dani Fernandez",
     "title": "Solo Tienes Que Avisar",
-    "filename": "Dani Fernandez - Solo Tienes Que Avisar.txt"
+    "filename": "Dani Fernandez - Solo Tienes Que Avisar.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "dani-martin-cero2",
+    "artist": "Dani Martín",
+    "title": "cero2",
+    "filename": "Dani Martín - cero2.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "dani-martin-contigo2",
+    "artist": "Dani Martín",
+    "title": "contigo2",
+    "filename": "Dani Martín - contigo2.txt"
+  },
+  {
+    "id": "dani-martin-emocional2",
+    "artist": "Dani Martín",
+    "title": "emocional2",
+    "filename": "Dani Martín - emocional2.txt",
+    "sections": [
+      "INTRO"
+    ]
+  },
+  {
+    "id": "dani-martin-la-suerte-de-mi-vida2",
+    "artist": "Dani Martín",
+    "title": "la-suerte-de-mi-vida2",
+    "filename": "Dani Martín - la-suerte-de-mi-vida2.txt"
   },
   {
     "id": "dani-martin-me-vuelves-puto-loco",
     "artist": "Dani Martin",
     "title": "Me Vuelves Puto Loco",
-    "filename": "Dani Martin - Me Vuelves Puto Loco.txt"
+    "filename": "Dani Martin - Me Vuelves Puto Loco.txt",
+    "sections": [
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "dani-martin-no-vuelven2",
+    "artist": "Dani Martín",
+    "title": "no-vuelven2",
+    "filename": "Dani Martín - no-vuelven2.txt",
+    "sections": [
+      "OUTRO"
+    ]
   },
   {
     "id": "dani-martin-no-no-vuelve",
     "artist": "Dani Martín",
     "title": "No, No Vuelve",
-    "filename": "Dani Martín - No, No Vuelve.txt"
+    "filename": "Dani Martín - No, No Vuelve.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "dani-martin-novedades-viernes",
     "artist": "Dani Martín",
     "title": "Novedades Viernes",
-    "filename": "Dani Martín - Novedades Viernes.txt"
+    "filename": "Dani Martín - Novedades Viernes.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE",
+      "OUTRO"
+    ]
+  },
+  {
+    "id": "dani-martin-portales2",
+    "artist": "Dani Martín",
+    "title": "portales2",
+    "filename": "Dani Martín - portales2.txt",
+    "sections": [
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "dani-martin-puede-ser2",
+    "artist": "Dani Martín",
+    "title": "puede-ser2",
+    "filename": "Dani Martín - puede-ser2.txt",
+    "sections": [
+      "VERSO",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "dani-martin-que-bonita-la-vida",
     "artist": "Dani Martín",
     "title": "Que Bonita La Vida",
-    "filename": "Dani Martín - Que Bonita La Vida.txt"
+    "filename": "Dani Martín - Que Bonita La Vida.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
+  },
+  {
+    "id": "dani-martin-que-bonita-la-vida2",
+    "artist": "Dani Martín",
+    "title": "que bonita la vida2",
+    "filename": "Dani Martín - que bonita la vida2.txt",
+    "sections": [
+      "INTRO"
+    ]
+  },
+  {
+    "id": "dani-martin-quecaroeseltiempo2",
+    "artist": "Dani Martín",
+    "title": "quecaroeseltiempo2",
+    "filename": "Dani Martín - quecaroeseltiempo2.txt",
+    "key": "Mi mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "dani-martin-son-suenos2",
+    "artist": "Dani Martín",
+    "title": "son sueños2",
+    "filename": "Dani Martín - son sueños2.txt",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "dani-martin-tal-como-eres2",
+    "artist": "Dani Martín",
+    "title": "tal-como-eres2",
+    "filename": "Dani Martín - tal-como-eres2.txt",
+    "sections": [
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "timeSignature": "4/4"
   },
   {
     "id": "dani-martin-todo-lo-que-vimos-se-nos-fue",
@@ -255,19 +650,31 @@
     "id": "dani-martin",
     "artist": "Desconocido",
     "title": "Dani Martín -",
-    "filename": "Dani Martín -.txt"
+    "filename": "Dani Martín -.txt",
+    "sections": [
+      "BRIDGE"
+    ]
   },
   {
     "id": "death-cab-for-cutie-i-will-follow-you-into-the-dark",
     "artist": "Death Cab for Cutie",
     "title": "I Will Follow You Into the Dark",
-    "filename": "Death Cab for Cutie - I Will Follow You Into the Dark.txt"
+    "filename": "Death Cab for Cutie - I Will Follow You Into the Dark.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "don-mclean-american-pie",
     "artist": "Don Mclean",
     "title": "American Pie",
-    "filename": "Don Mclean - American Pie.txt"
+    "filename": "Don Mclean - American Pie.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "ed-sheeran-boat",
@@ -276,22 +683,63 @@
     "filename": "Ed Sheeran - Boat.txt"
   },
   {
+    "id": "ed-sheeran-im-a-mess",
+    "artist": "Ed Sheeran",
+    "title": "im a mess",
+    "filename": "Ed Sheeran - im a mess.txt",
+    "sections": [
+      "OUTRO"
+    ],
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "ed-sheeran-perfect",
+    "artist": "Ed Sheeran",
+    "title": "perfect",
+    "filename": "Ed Sheeran - perfect.txt"
+  },
+  {
+    "id": "ed-sheeran-photograph",
+    "artist": "Ed Sheeran",
+    "title": "photograph",
+    "filename": "Ed Sheeran - photograph.txt"
+  },
+  {
+    "id": "ed-sheeran-thinking-out-loud",
+    "artist": "Ed Sheeran",
+    "title": "thinking out loud",
+    "filename": "Ed Sheeran - thinking out loud.txt"
+  },
+  {
     "id": "efecto-mariposa-calles-que-te-ven",
     "artist": "Efecto Mariposa",
     "title": "Calles Que Te Ven",
-    "filename": "Efecto Mariposa - Calles Que Te Ven.txt"
+    "filename": "Efecto Mariposa - Calles Que Te Ven.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "efecto-mariposa-no-me-crees",
     "artist": "Efecto Mariposa",
     "title": "No Me Crees",
-    "filename": "Efecto Mariposa - No Me Crees.txt"
+    "filename": "Efecto Mariposa - No Me Crees.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "el-canto-del-loco-a-contracorriente-a-d-e",
     "artist": "El Canto Del Loco",
     "title": "a Contracorriente - - a D E",
-    "filename": "El Canto Del Loco - a Contracorriente - - a D E.txt"
+    "filename": "El Canto Del Loco - a Contracorriente - - a D E.txt",
+    "sections": [
+      "INTRO",
+      "OUTRO"
+    ]
   },
   {
     "id": "el-canto-del-loco-acabado-en-a2",
@@ -321,13 +769,19 @@
     "id": "el-canto-del-loco-canciones",
     "artist": "El Canto Del Loco",
     "title": "Canciones -",
-    "filename": "El Canto Del Loco - Canciones -.txt"
+    "filename": "El Canto Del Loco - Canciones -.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-como-un-perro-ladrando",
     "artist": "El Canto Del Loco",
     "title": "Como Un Perro Ladrando",
-    "filename": "El Canto Del Loco - Como Un Perro Ladrando.txt"
+    "filename": "El Canto Del Loco - Como Un Perro Ladrando.txt",
+    "sections": [
+      "INTRO"
+    ]
   },
   {
     "id": "el-canto-del-loco-contigo-am-dm",
@@ -339,7 +793,11 @@
     "id": "el-canto-del-loco-contigo10",
     "artist": "El Canto Del Loco",
     "title": "Contigo10",
-    "filename": "El Canto Del Loco - Contigo10.txt"
+    "filename": "El Canto Del Loco - Contigo10.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-corazon111",
@@ -351,7 +809,11 @@
     "id": "el-canto-del-loco-corazon12",
     "artist": "El Canto Del Loco",
     "title": "Corazon12",
-    "filename": "El Canto Del Loco - Corazon12.txt"
+    "filename": "El Canto Del Loco - Corazon12.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-crash",
@@ -369,19 +831,32 @@
     "id": "el-canto-del-loco-desaparece15",
     "artist": "El Canto Del Loco",
     "title": "Desaparece15",
-    "filename": "El Canto Del Loco - Desaparece15.txt"
+    "filename": "El Canto Del Loco - Desaparece15.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-despiertame",
     "artist": "El Canto Del Loco",
     "title": "Despiertame",
-    "filename": "El Canto Del Loco - Despiertame.txt"
+    "filename": "El Canto Del Loco - Despiertame.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-eh-tu-la-vida-05",
     "artist": "El Canto Del Loco",
     "title": "Eh Tu - La Vida (05)",
-    "filename": "El Canto Del Loco - Eh Tu - La Vida (05).txt"
+    "filename": "El Canto Del Loco - Eh Tu - La Vida (05).txt",
+    "sections": [
+      "PUENTE",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "palm-mute"
+    ]
   },
   {
     "id": "el-canto-del-loco-ekix",
@@ -393,19 +868,32 @@
     "id": "el-canto-del-loco-ekix19",
     "artist": "El Canto Del Loco",
     "title": "Ekix19",
-    "filename": "El Canto Del Loco - Ekix19.txt"
+    "filename": "El Canto Del Loco - Ekix19.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-el-pescao",
     "artist": "El Canto Del Loco",
     "title": "El Pescao",
-    "filename": "El Canto Del Loco - El Pescao.txt"
+    "filename": "El Canto Del Loco - El Pescao.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-el-ultimo-dia-de-nuestras-vidas21",
     "artist": "El Canto Del Loco",
     "title": "El Último Día De Nuestras Vidas21",
-    "filename": "El Canto Del Loco - El Último Día De Nuestras Vidas21.txt"
+    "filename": "El Canto Del Loco - El Último Día De Nuestras Vidas21.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "el-canto-del-loco-eres-tonto22",
@@ -417,13 +905,19 @@
     "id": "el-canto-del-loco-fin-de-semana-la-vida-05",
     "artist": "El Canto Del Loco",
     "title": "Fin De Semana - La Vida (05)",
-    "filename": "El Canto Del Loco - Fin De Semana - La Vida (05).txt"
+    "filename": "El Canto Del Loco - Fin De Semana - La Vida (05).txt",
+    "sections": [
+      "INTRO"
+    ]
   },
   {
     "id": "el-canto-del-loco-he-vuelto-a-caer-he-vuelto-a-caer",
     "artist": "El Canto Del Loco",
     "title": "He Vuelto a Caer - He Vuelto a Caer",
-    "filename": "El Canto Del Loco - He Vuelto a Caer - He Vuelto a Caer.txt"
+    "filename": "El Canto Del Loco - He Vuelto a Caer - He Vuelto a Caer.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-insoportable",
@@ -435,19 +929,31 @@
     "id": "el-canto-del-loco-la-madre-de-jose",
     "artist": "El Canto Del Loco",
     "title": "La Madre De José",
-    "filename": "El Canto Del Loco - La Madre De José.txt"
+    "filename": "El Canto Del Loco - La Madre De José.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-la-suerte-de-mi-vida227",
     "artist": "El Canto Del Loco",
     "title": "La Suerte De Mi Vida227",
-    "filename": "El Canto Del Loco - La Suerte De Mi Vida227.txt"
+    "filename": "El Canto Del Loco - La Suerte De Mi Vida227.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-la-suerte-de-mi-vida28",
     "artist": "El Canto Del Loco",
     "title": "La Suerte De Mi Vida28",
-    "filename": "El Canto Del Loco - La Suerte De Mi Vida28.txt"
+    "filename": "El Canto Del Loco - La Suerte De Mi Vida28.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "el-canto-del-loco-la-vida-la-vida-05",
@@ -459,7 +965,11 @@
     "id": "el-canto-del-loco-llueve-en-mi31",
     "artist": "El Canto Del Loco",
     "title": "Llueve en Mí31",
-    "filename": "El Canto Del Loco - Llueve en Mí31.txt"
+    "filename": "El Canto Del Loco - Llueve en Mí31.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-llueve-en-mi330",
@@ -495,13 +1005,20 @@
     "id": "el-canto-del-loco-pasion-tu-mirada-de-inocencia-me-da-esa-fuerza-fuera-de-control",
     "artist": "El Canto Del Loco",
     "title": "Pasion - Tu Mirada De Inocencia Me Da Esa Fuerza Fuera De Control",
-    "filename": "El Canto Del Loco - Pasion - Tu Mirada De Inocencia Me Da Esa Fuerza Fuera De Control.txt"
+    "filename": "El Canto Del Loco - Pasion - Tu Mirada De Inocencia Me Da Esa Fuerza Fuera De Control.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-pasion37",
     "artist": "El Canto Del Loco",
     "title": "Pasion37",
-    "filename": "El Canto Del Loco - Pasion37.txt"
+    "filename": "El Canto Del Loco - Pasion37.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-pequenita38",
@@ -513,13 +1030,20 @@
     "id": "el-canto-del-loco-personas39",
     "artist": "El Canto Del Loco",
     "title": "Personas39",
-    "filename": "El Canto Del Loco - Personas39.txt"
+    "filename": "El Canto Del Loco - Personas39.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-peter-pan41",
     "artist": "El Canto Del Loco",
     "title": "Peter Pan41",
-    "filename": "El Canto Del Loco - Peter Pan41.txt"
+    "filename": "El Canto Del Loco - Peter Pan41.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-peter-pan440",
@@ -531,19 +1055,30 @@
     "id": "el-canto-del-loco-por-ti-por-ti",
     "artist": "El Canto Del Loco",
     "title": "Por Ti - - Por Tí",
-    "filename": "El Canto Del Loco - Por Ti - - Por Tí.txt"
+    "filename": "El Canto Del Loco - Por Ti - - Por Tí.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-por-ti43",
     "artist": "El Canto Del Loco",
     "title": "Por Ti43",
-    "filename": "El Canto Del Loco - Por Ti43.txt"
+    "filename": "El Canto Del Loco - Por Ti43.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA"
+    ]
   },
   {
     "id": "el-canto-del-loco-portales44",
     "artist": "El Canto Del Loco",
     "title": "Portales44",
-    "filename": "El Canto Del Loco - Portales44.txt"
+    "filename": "El Canto Del Loco - Portales44.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-preguntas",
@@ -555,31 +1090,54 @@
     "id": "el-canto-del-loco-preguntas46",
     "artist": "El Canto Del Loco",
     "title": "Preguntas46",
-    "filename": "El Canto Del Loco - Preguntas46.txt"
+    "filename": "El Canto Del Loco - Preguntas46.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-puede-ser47",
     "artist": "El Canto Del Loco",
     "title": "Puede Ser47",
-    "filename": "El Canto Del Loco - Puede Ser47.txt"
+    "filename": "El Canto Del Loco - Puede Ser47.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "el-canto-del-loco-que-caro-es-el-tiempo49",
     "artist": "El Canto Del Loco",
     "title": "Que Caro Es El Tiempo49",
-    "filename": "El Canto Del Loco - Que Caro Es El Tiempo49.txt"
+    "filename": "El Canto Del Loco - Que Caro Es El Tiempo49.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-que-caro-es-el-tiempo548",
     "artist": "El Canto Del Loco",
     "title": "Que Caro Es El Tiempo548",
-    "filename": "El Canto Del Loco - Que Caro Es El Tiempo548.txt"
+    "filename": "El Canto Del Loco - Que Caro Es El Tiempo548.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-sera",
     "artist": "El Canto Del Loco",
     "title": "Sera -",
-    "filename": "El Canto Del Loco - Sera -.txt"
+    "filename": "El Canto Del Loco - Sera -.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-siempre-cerca",
@@ -591,7 +1149,13 @@
     "id": "el-canto-del-loco-siempre-cerca52",
     "artist": "El Canto Del Loco",
     "title": "Siempre Cerca52",
-    "filename": "El Canto Del Loco - Siempre Cerca52.txt"
+    "filename": "El Canto Del Loco - Siempre Cerca52.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "el-canto-del-loco-sin-mitad-7-sin-mitad",
@@ -609,7 +1173,11 @@
     "id": "el-canto-del-loco-son-suenos55",
     "artist": "El Canto Del Loco",
     "title": "Son Sueños55",
-    "filename": "El Canto Del Loco - Son Sueños55.txt"
+    "filename": "El Canto Del Loco - Son Sueños55.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-super-heroe-eres-tonto",
@@ -621,7 +1189,12 @@
     "id": "el-canto-del-loco-tal-como-eres57",
     "artist": "El Canto Del Loco",
     "title": "Tal Como Eres57",
-    "filename": "El Canto Del Loco - Tal Como Eres57.txt"
+    "filename": "El Canto Del Loco - Tal Como Eres57.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-te-recuerdo",
@@ -645,13 +1218,22 @@
     "id": "el-canto-del-loco-tremendo-f-e",
     "artist": "El Canto Del Loco",
     "title": "Tremendo - F E",
-    "filename": "El Canto Del Loco - Tremendo - F E.txt"
+    "filename": "El Canto Del Loco - Tremendo - F E.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-un-millon-de-cicatrices62",
     "artist": "El Canto Del Loco",
     "title": "Un Millon De Cicatrices62",
-    "filename": "El Canto Del Loco - Un Millon De Cicatrices62.txt"
+    "filename": "El Canto Del Loco - Un Millon De Cicatrices62.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "el-canto-del-loco-una-foto-en-blanco-y-negro",
@@ -669,115 +1251,207 @@
     "id": "el-canto-del-loco-usanos",
     "artist": "El Canto Del Loco",
     "title": "Usanos",
-    "filename": "El Canto Del Loco - Usanos.txt"
+    "filename": "El Canto Del Loco - Usanos.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-vamonos-dm-am",
     "artist": "El Canto Del Loco",
     "title": "Vamonos - Dm Am",
-    "filename": "El Canto Del Loco - Vamonos - Dm Am.txt"
+    "filename": "El Canto Del Loco - Vamonos - Dm Am.txt",
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-volver-a-disfrutar67",
     "artist": "El Canto Del Loco",
     "title": "Volver a Disfrutar67",
-    "filename": "El Canto Del Loco - Volver a Disfrutar67.txt"
+    "filename": "El Canto Del Loco - Volver a Disfrutar67.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-volvera68",
     "artist": "El Canto Del Loco",
     "title": "Volvera68",
-    "filename": "El Canto Del Loco - Volvera68.txt"
+    "filename": "El Canto Del Loco - Volvera68.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-vuelve69",
     "artist": "El Canto Del Loco",
     "title": "Vuelve69",
-    "filename": "El Canto Del Loco - Vuelve69.txt"
+    "filename": "El Canto Del Loco - Vuelve69.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA"
+    ],
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-canto-del-loco-y-si-el-miedo-10-y-si-el-miedo",
     "artist": "El Canto Del Loco",
     "title": "Y Si El Miedo - 10. Y Si El Miedo",
-    "filename": "El Canto Del Loco - Y Si El Miedo - 10. Y Si El Miedo.txt"
+    "filename": "El Canto Del Loco - Y Si El Miedo - 10. Y Si El Miedo.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-canto-del-loco-ya-nada-volvera-a-ser-como-antes-ya-nada-volvera-a-ser-como-antes",
     "artist": "El Canto Del Loco",
     "title": "Ya Nada Volvera a Ser Como Antes - - Ya Nada Volverá a Ser Como Antes",
-    "filename": "El Canto Del Loco - Ya Nada Volvera a Ser Como Antes - - Ya Nada Volverá a Ser Como Antes.txt"
+    "filename": "El Canto Del Loco - Ya Nada Volvera a Ser Como Antes - - Ya Nada Volverá a Ser Como Antes.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "OUTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "el-canto-del-loco-zapatillas73",
     "artist": "El Canto Del Loco",
     "title": "Zapatillas73",
-    "filename": "El Canto Del Loco - Zapatillas73.txt"
+    "filename": "El Canto Del Loco - Zapatillas73.txt",
+    "techniques": [
+      "tabs",
+      "palm-mute",
+      "strumming"
+    ]
   },
   {
     "id": "el-canto-del-loco",
     "artist": "Desconocido",
     "title": "El Canto Del Loco -",
-    "filename": "El Canto Del Loco -.txt"
+    "filename": "El Canto Del Loco -.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "el-nino-de-la-hipoteca-romeo-y-julieta",
     "artist": "El Niño De La Hipoteca",
     "title": "Romeo Y Julieta",
-    "filename": "El Niño De La Hipoteca - Romeo Y Julieta.txt"
+    "filename": "El Niño De La Hipoteca - Romeo Y Julieta.txt",
+    "sections": [
+      "ESTROFA",
+      "PUENTE",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs",
+      "palm-mute",
+      "barre-chords"
+    ]
   },
   {
     "id": "el-ultimo-de-la-fila-el-ultimo-de-la-fila",
     "artist": "El Ultimo De La Fila",
     "title": "El Último De La Fila",
-    "filename": "El Ultimo De La Fila - El Último De La Fila.txt"
+    "filename": "El Ultimo De La Fila - El Último De La Fila.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "el-ultimo-de-la-fila-llanto-de-pasion",
     "artist": "El Ultimo De La Fila",
     "title": "Llanto De Pasión",
-    "filename": "El Ultimo De La Fila - Llanto De Pasión.txt"
+    "filename": "El Ultimo De La Fila - Llanto De Pasión.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "el-ultimo-de-la-fila-sin-llaves",
     "artist": "El Ultimo De La Fila",
     "title": "Sin Llaves",
-    "filename": "El Ultimo De La Fila - Sin Llaves.txt"
+    "filename": "El Ultimo De La Fila - Sin Llaves.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "el-ultimo-de-la-fila-uva-de-la-vieja-parra",
     "artist": "El Ultimo De La Fila",
     "title": "Uva De La Vieja Parra",
-    "filename": "El Ultimo De La Fila - Uva De La Vieja Parra.txt"
+    "filename": "El Ultimo De La Fila - Uva De La Vieja Parra.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "elefantes-que-yo-no-lo-sabia",
     "artist": "Elefantes",
     "title": "Que Yo No Lo Sabía",
-    "filename": "Elefantes - Que Yo No Lo Sabía.txt"
+    "filename": "Elefantes - Que Yo No Lo Sabía.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA"
+    ]
   },
   {
     "id": "els-pets-bon-dia",
     "artist": "Els Pets",
     "title": "Bon Dia",
-    "filename": "Els Pets - Bon Dia.txt"
+    "filename": "Els Pets - Bon Dia.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "enrique-urquijo-aunque-tu-no-lo-sepas",
     "artist": "Enrique Urquijo",
     "title": "Aunque Tú No Lo Sepas",
-    "filename": "Enrique Urquijo - Aunque Tú No Lo Sepas.txt"
+    "filename": "Enrique Urquijo - Aunque Tú No Lo Sepas.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA"
+    ]
   },
   {
     "id": "eric-clapton-wonderful-tonight",
     "artist": "Eric Clapton",
     "title": "Wonderful Tonight",
-    "filename": "Eric Clapton - Wonderful Tonight.txt"
+    "filename": "Eric Clapton - Wonderful Tonight.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "estopa-a-ninguna-parte",
     "artist": "Estopa",
     "title": "a Ninguna Parte",
-    "filename": "Estopa - a Ninguna Parte.txt"
+    "filename": "Estopa - a Ninguna Parte.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "estopa-escuchame-princesa",
@@ -789,43 +1463,73 @@
     "id": "estopa-ya-no-me-acuerdo",
     "artist": "Estopa",
     "title": "Ya No Me Acuerdo",
-    "filename": "Estopa - Ya No Me Acuerdo.txt"
+    "filename": "Estopa - Ya No Me Acuerdo.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "extremoduro-la-realidad",
     "artist": "Extremoduro",
     "title": "La Realidad",
-    "filename": "Extremoduro - La Realidad.txt"
+    "filename": "Extremoduro - La Realidad.txt",
+    "sections": [
+      "INTRO",
+      "VERSO",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "extremoduro-la-vereda-de-la-puerta-de-atras",
     "artist": "Extremoduro",
     "title": "La Vereda De La Puerta De Atrás",
-    "filename": "Extremoduro - La Vereda De La Puerta De Atrás.txt"
+    "filename": "Extremoduro - La Vereda De La Puerta De Atrás.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "extremoduro-salir",
     "artist": "Extremoduro",
     "title": "Salir",
-    "filename": "Extremoduro - Salir.txt"
+    "filename": "Extremoduro - Salir.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "extremoduro-si-te-vas",
     "artist": "Extremoduro",
     "title": "Si Te Vas",
-    "filename": "Extremoduro - Si Te Vas.txt"
+    "filename": "Extremoduro - Si Te Vas.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE"
+    ]
   },
   {
     "id": "extremoduro-standby",
     "artist": "Extremoduro",
     "title": "Standby",
-    "filename": "Extremoduro - Standby.txt"
+    "filename": "Extremoduro - Standby.txt",
+    "techniques": [
+      "palm-mute",
+      "barre-chords"
+    ]
   },
   {
     "id": "extremoduro-sucede",
     "artist": "Extremoduro",
     "title": "Sucede",
-    "filename": "Extremoduro - Sucede.txt"
+    "filename": "Extremoduro - Sucede.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "fito-fitipaldis-a-la-luna-se-le-ve-el-ombligo",
@@ -837,145 +1541,262 @@
     "id": "fito-fitipaldis-a-quemarropa",
     "artist": "Fito & Fitipaldis",
     "title": "a Quemarropa",
-    "filename": "Fito & Fitipaldis - a Quemarropa.txt"
+    "filename": "Fito & Fitipaldis - a Quemarropa.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-abrazado-a-la-tristeza",
     "artist": "Fito & Fitipaldis",
     "title": "Abrazado a La Tristeza",
-    "filename": "Fito & Fitipaldis - Abrazado a La Tristeza.txt"
+    "filename": "Fito & Fitipaldis - Abrazado a La Tristeza.txt",
+    "sections": [
+      "ESTROFA"
+    ]
   },
   {
     "id": "fito-fitipaldis-acabo-de-llegar",
     "artist": "Fito & Fitipaldis",
     "title": "Acabo De Llegar",
-    "filename": "Fito & Fitipaldis - Acabo De Llegar.txt"
+    "filename": "Fito & Fitipaldis - Acabo De Llegar.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "fito-fitipaldis-al-cantar",
     "artist": "Fito & Fitipaldis",
     "title": "Al Cantar",
-    "filename": "Fito & Fitipaldis - Al Cantar.txt"
+    "filename": "Fito & Fitipaldis - Al Cantar.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-antes-de-que-cuente-diez",
     "artist": "Fito & Fitipaldis",
     "title": "Antes De Que Cuente Diez",
-    "filename": "Fito & Fitipaldis - Antes De Que Cuente Diez.txt"
+    "filename": "Fito & Fitipaldis - Antes De Que Cuente Diez.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA"
+    ]
   },
   {
     "id": "fito-fitipaldis-cada-vez-cadaver",
     "artist": "Fito & Fitipaldis",
     "title": "Cada Vez Cadáver",
-    "filename": "Fito & Fitipaldis - Cada Vez Cadáver.txt"
+    "filename": "Fito & Fitipaldis - Cada Vez Cadáver.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-cerca-de-las-vias",
     "artist": "Fito & Fitipaldis",
     "title": "Cerca De Las Vías",
-    "filename": "Fito & Fitipaldis - Cerca De Las Vías.txt"
+    "filename": "Fito & Fitipaldis - Cerca De Las Vías.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-cielo-hermetico",
     "artist": "Fito & Fitipaldis",
     "title": "Cielo Hermético",
-    "filename": "Fito & Fitipaldis - Cielo Hermético.txt"
+    "filename": "Fito & Fitipaldis - Cielo Hermético.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-corazon-oxidado",
     "artist": "Fito & Fitipaldis",
     "title": "Corazón Oxidado",
-    "filename": "Fito & Fitipaldis - Corazón Oxidado.txt"
+    "filename": "Fito & Fitipaldis - Corazón Oxidado.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-despues-del-naufragio",
     "artist": "Fito & Fitipaldis",
     "title": "Después Del Naufragio",
-    "filename": "Fito & Fitipaldis - Después Del Naufragio.txt"
+    "filename": "Fito & Fitipaldis - Después Del Naufragio.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-donde-todo-empieza",
     "artist": "Fito & Fitipaldis",
     "title": "Donde Todo Empieza",
-    "filename": "Fito & Fitipaldis - Donde Todo Empieza.txt"
+    "filename": "Fito & Fitipaldis - Donde Todo Empieza.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-el-vencido",
     "artist": "Fito & Fitipaldis",
     "title": "El Vencido",
-    "filename": "Fito & Fitipaldis - El Vencido.txt"
+    "filename": "Fito & Fitipaldis - El Vencido.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-entre-la-espada-y-la-pared",
     "artist": "Fito & Fitipaldis",
     "title": "Entre La Espada Y La Pared",
-    "filename": "Fito & Fitipaldis - Entre La Espada Y La Pared.txt"
+    "filename": "Fito & Fitipaldis - Entre La Espada Y La Pared.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-fito-fitipaldis",
     "artist": "Fito & Fitipaldis",
     "title": "Fito & Fitipaldis",
-    "filename": "Fito & Fitipaldis - Fito & Fitipaldis.txt"
+    "filename": "Fito & Fitipaldis - Fito & Fitipaldis.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-la-casa-por-el-tejado",
     "artist": "Fito & Fitipaldis",
     "title": "La Casa Por El Tejado",
-    "filename": "Fito & Fitipaldis - La Casa Por El Tejado.txt"
+    "filename": "Fito & Fitipaldis - La Casa Por El Tejado.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-lo-que-sobra-de-mi",
     "artist": "Fito & Fitipaldis",
     "title": "Lo Que Sobra De Mí",
-    "filename": "Fito & Fitipaldis - Lo Que Sobra De Mí.txt"
+    "filename": "Fito & Fitipaldis - Lo Que Sobra De Mí.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-me-acorde-de-ti",
     "artist": "Fito & Fitipaldis",
     "title": "Me Acordé De Ti",
-    "filename": "Fito & Fitipaldis - Me Acordé De Ti.txt"
+    "filename": "Fito & Fitipaldis - Me Acordé De Ti.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-me-equivocaria-otra-vez",
     "artist": "Fito & Fitipaldis",
     "title": "Me Equivocaría Otra Vez",
-    "filename": "Fito & Fitipaldis - Me Equivocaría Otra Vez.txt"
+    "filename": "Fito & Fitipaldis - Me Equivocaría Otra Vez.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-nada-de-nada",
     "artist": "Fito & Fitipaldis",
     "title": "Nada De Nada",
-    "filename": "Fito & Fitipaldis - Nada De Nada.txt"
+    "filename": "Fito & Fitipaldis - Nada De Nada.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-nos-ocupamos-del-mar",
     "artist": "Fito & Fitipaldis",
     "title": "Nos Ocupamos Del Mar",
-    "filename": "Fito & Fitipaldis - Nos Ocupamos Del Mar.txt"
+    "filename": "Fito & Fitipaldis - Nos Ocupamos Del Mar.txt",
+    "sections": [
+      "INTRO"
+    ]
   },
   {
     "id": "fito-fitipaldis-pajaros-disecados",
     "artist": "Fito & Fitipaldis",
     "title": "Pájaros Disecados",
-    "filename": "Fito & Fitipaldis - Pájaros Disecados.txt"
+    "filename": "Fito & Fitipaldis - Pájaros Disecados.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-para-toda-la-vida",
     "artist": "Fito & Fitipaldis",
     "title": "Para Toda La Vida",
-    "filename": "Fito & Fitipaldis - Para Toda La Vida.txt"
+    "filename": "Fito & Fitipaldis - Para Toda La Vida.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-por-la-boca-vive-el-pez",
     "artist": "Fito & Fitipaldis",
     "title": "Por La Boca Vive El Pez",
-    "filename": "Fito & Fitipaldis - Por La Boca Vive El Pez.txt"
+    "filename": "Fito & Fitipaldis - Por La Boca Vive El Pez.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-que-me-arrastre-el-viento",
     "artist": "Fito & Fitipaldis",
     "title": "Que Me Arrastre El Viento",
-    "filename": "Fito & Fitipaldis - Que Me Arrastre El Viento.txt"
+    "filename": "Fito & Fitipaldis - Que Me Arrastre El Viento.txt",
+    "techniques": [
+      "palm-mute"
+    ]
   },
   {
     "id": "fito-fitipaldis-quiero-ser-una-estrella",
@@ -987,37 +1808,69 @@
     "id": "fito-fitipaldis-rojitas-las-orejas",
     "artist": "Fito & Fitipaldis",
     "title": "Rojitas Las Orejas",
-    "filename": "Fito & Fitipaldis - Rojitas Las Orejas.txt"
+    "filename": "Fito & Fitipaldis - Rojitas Las Orejas.txt",
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "ESTROFA"
+    ]
   },
   {
     "id": "fito-fitipaldis-si-me-ves-asi",
     "artist": "Fito & Fitipaldis",
     "title": "Si Me Ves Así",
-    "filename": "Fito & Fitipaldis - Si Me Ves Así.txt"
+    "filename": "Fito & Fitipaldis - Si Me Ves Así.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-siempre-estoy-sonando",
     "artist": "Fito & Fitipaldis",
     "title": "Siempre Estoy Soñando",
-    "filename": "Fito & Fitipaldis - Siempre Estoy Soñando.txt"
+    "filename": "Fito & Fitipaldis - Siempre Estoy Soñando.txt",
+    "techniques": [
+      "palm-mute"
+    ]
   },
   {
     "id": "fito-fitipaldis-sobra-la-luz",
     "artist": "Fito & Fitipaldis",
     "title": "Sobra La Luz",
-    "filename": "Fito & Fitipaldis - Sobra La Luz.txt"
+    "filename": "Fito & Fitipaldis - Sobra La Luz.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-soldadito-marinero",
     "artist": "Fito & Fitipaldis",
     "title": "Soldadito Marinero",
-    "filename": "Fito & Fitipaldis - Soldadito Marinero.txt"
+    "filename": "Fito & Fitipaldis - Soldadito Marinero.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "fito-fitipaldis-tarde-o-temprano",
     "artist": "Fito & Fitipaldis",
     "title": "Tarde O Temprano",
-    "filename": "Fito & Fitipaldis - Tarde O Temprano.txt"
+    "filename": "Fito & Fitipaldis - Tarde O Temprano.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-todo-a-cien",
@@ -1029,115 +1882,222 @@
     "id": "fito-fitipaldis-trozos-de-cristal",
     "artist": "Fito & Fitipaldis",
     "title": "Trozos De Cristal",
-    "filename": "Fito & Fitipaldis - Trozos De Cristal.txt"
+    "filename": "Fito & Fitipaldis - Trozos De Cristal.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-un-buen-castigo",
     "artist": "Fito & Fitipaldis",
     "title": "Un Buen Castigo",
-    "filename": "Fito & Fitipaldis - Un Buen Castigo.txt"
+    "filename": "Fito & Fitipaldis - Un Buen Castigo.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-vidas-son-dos-gatos",
     "artist": "Fito & Fitipaldis",
     "title": "Vidas Son Dos Gatos",
-    "filename": "Fito & Fitipaldis - Vidas Son Dos Gatos.txt"
+    "filename": "Fito & Fitipaldis - Vidas Son Dos Gatos.txt",
+    "sections": [
+      "PUENTE"
+    ]
   },
   {
     "id": "fito-fitipaldis-viene-y-va",
     "artist": "Fito & Fitipaldis",
     "title": "Viene Y Va",
-    "filename": "Fito & Fitipaldis - Viene Y Va.txt"
+    "filename": "Fito & Fitipaldis - Viene Y Va.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "fito-fitipaldis-whisky-barato",
     "artist": "Fito & Fitipaldis",
     "title": "Whisky Barato",
-    "filename": "Fito & Fitipaldis - Whisky Barato.txt"
+    "filename": "Fito & Fitipaldis - Whisky Barato.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "foo-fighters-learn-to-fly",
     "artist": "Foo Fighters",
     "title": "Learn to Fly",
-    "filename": "Foo Fighters - Learn to Fly.txt"
+    "filename": "Foo Fighters - Learn to Fly.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE",
+      "OUTRO"
+    ]
   },
   {
     "id": "formato-recomendado",
     "artist": "Desconocido",
     "title": "Formato_Recomendado",
-    "filename": "Formato_Recomendado.txt"
+    "filename": "Formato_Recomendado.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "techniques": [
+      "tabs",
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "frente-bizarre-love-triangle",
     "artist": "Frente!",
     "title": "Bizarre Love Triangle",
-    "filename": "Frente! - Bizarre Love Triangle.txt"
+    "filename": "Frente! - Bizarre Love Triangle.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "goo-goo-dolls-black-balloon",
     "artist": "Goo Goo Dolls",
     "title": "Black Balloon",
-    "filename": "Goo Goo Dolls - Black Balloon.txt"
+    "filename": "Goo Goo Dolls - Black Balloon.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE",
+      "OUTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "goo-goo-dolls-slide-by-the-goo-goo-dolls",
     "artist": "Goo Goo Dolls",
     "title": "Slide by the Goo Goo Dolls",
-    "filename": "Goo Goo Dolls - Slide by the Goo Goo Dolls.txt"
+    "filename": "Goo Goo Dolls - Slide by the Goo Goo Dolls.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "grupo-01-cancion-02",
     "artist": "grupo",
     "title": "01-cancion-02",
-    "filename": "grupo-01-cancion-02.txt"
+    "filename": "grupo-01-cancion-02.txt",
+    "sections": [
+      "INTRO",
+      "OUTRO"
+    ]
   },
   {
     "id": "guarana-noche-en-vela",
     "artist": "Guaraná",
     "title": "Noche en Vela",
-    "filename": "Guaraná - Noche en Vela.txt"
+    "filename": "Guaraná - Noche en Vela.txt",
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "heroes-del-silencio-la-chispa-adecuada",
     "artist": "Heroes Del Silencio",
     "title": "La Chispa Adecuada",
-    "filename": "Heroes Del Silencio - La Chispa Adecuada.txt"
+    "filename": "Heroes Del Silencio - La Chispa Adecuada.txt",
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "hombres-g-la-carretera",
     "artist": "Hombres G",
     "title": "La Carretera",
-    "filename": "Hombres G - La Carretera.txt"
+    "filename": "Hombres G - La Carretera.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "incubus-love-hurts",
     "artist": "Incubus",
     "title": "Love Hurts",
-    "filename": "Incubus - Love Hurts.txt"
+    "filename": "Incubus - Love Hurts.txt",
+    "sections": [
+      "INTRO",
+      "OUTRO"
+    ]
   },
   {
     "id": "ivan-ferreiro-piensa-en-frio",
     "artist": "Ivan Ferreiro",
     "title": "Piensa en Frio",
-    "filename": "Ivan Ferreiro - Piensa en Frio.txt"
+    "filename": "Ivan Ferreiro - Piensa en Frio.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "izal-que-bien",
     "artist": "Izal",
     "title": "Qué Bien",
-    "filename": "Izal - Qué Bien.txt"
+    "filename": "Izal - Qué Bien.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "jarabe-de-palo-dos-dias-en-la-vida",
     "artist": "Jarabe De Palo",
     "title": "Dos Días en La Vida",
-    "filename": "Jarabe De Palo - Dos Días en La Vida.txt"
+    "filename": "Jarabe De Palo - Dos Días en La Vida.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA",
+      "PUENTE"
+    ]
   },
   {
     "id": "jarabe-de-palo-duerme-conmigo",
     "artist": "Jarabe De Palo",
     "title": "Duerme Conmigo",
-    "filename": "Jarabe De Palo - Duerme Conmigo.txt"
+    "filename": "Jarabe De Palo - Duerme Conmigo.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "jarabe-de-palo-eso-que-tu-me-das",
@@ -1149,79 +2109,137 @@
     "id": "jarabe-de-palo-jarabe-de-palo",
     "artist": "Jarabe De Palo",
     "title": "Jarabe De Palo",
-    "filename": "Jarabe De Palo - Jarabe De Palo.txt"
+    "filename": "Jarabe De Palo - Jarabe De Palo.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "jarabe-de-palo-la-flaca",
     "artist": "Jarabe De Palo",
     "title": "La Flaca",
-    "filename": "Jarabe De Palo - La Flaca.txt"
+    "filename": "Jarabe De Palo - La Flaca.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA"
+    ]
   },
   {
     "id": "jarabe-de-palo-misteriosamente-hoy",
     "artist": "Jarabe De Palo",
     "title": "Misteriosamente Hoy",
-    "filename": "Jarabe De Palo - Misteriosamente Hoy.txt"
+    "filename": "Jarabe De Palo - Misteriosamente Hoy.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "jarabe-de-palo",
     "artist": "Desconocido",
     "title": "Jarabe De Palo -",
-    "filename": "Jarabe De Palo -.txt"
+    "filename": "Jarabe De Palo -.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "PUENTE"
+    ]
   },
   {
     "id": "joaquin-sabina-a-la-orilla-de-la-chimenea",
     "artist": "Joaquín Sabina",
     "title": "a La Orilla De La Chimenea",
-    "filename": "Joaquín Sabina - a La Orilla De La Chimenea.txt"
+    "filename": "Joaquín Sabina - a La Orilla De La Chimenea.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-amor-se-llama-el-juego",
     "artist": "Joaquín Sabina",
     "title": "Amor Se Llama El Juego",
-    "filename": "Joaquín Sabina - Amor Se Llama El Juego.txt"
+    "filename": "Joaquín Sabina - Amor Se Llama El Juego.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-asi-estoy-yo-sin-ti",
     "artist": "Joaquín Sabina",
     "title": "Así Estoy Yo Sin Ti",
-    "filename": "Joaquín Sabina - Así Estoy Yo Sin Ti.txt"
+    "filename": "Joaquín Sabina - Así Estoy Yo Sin Ti.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-aves-de-paso",
     "artist": "Joaquín Sabina",
     "title": "Aves De Paso",
-    "filename": "Joaquín Sabina - Aves De Paso.txt"
+    "filename": "Joaquín Sabina - Aves De Paso.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-barbi-superestar",
     "artist": "Joaquín Sabina",
     "title": "Barbi Superestar",
-    "filename": "Joaquín Sabina - Barbi Superestar.txt"
+    "filename": "Joaquín Sabina - Barbi Superestar.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-calle-melancolia",
     "artist": "Joaquín Sabina",
     "title": "Calle Melancolía",
-    "filename": "Joaquín Sabina - Calle Melancolía.txt"
+    "filename": "Joaquín Sabina - Calle Melancolía.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-cerrado-por-derribo",
     "artist": "Joaquín Sabina",
     "title": "Cerrado Por Derribo",
-    "filename": "Joaquín Sabina - Cerrado Por Derribo.txt"
+    "filename": "Joaquín Sabina - Cerrado Por Derribo.txt",
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-contra-todo-pronostico",
     "artist": "Joaquín Sabina",
     "title": "Contra Todo Pronóstico",
-    "filename": "Joaquín Sabina - Contra Todo Pronóstico.txt"
+    "filename": "Joaquín Sabina - Contra Todo Pronóstico.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-donde-habita-el-olvido",
     "artist": "Joaquín Sabina",
     "title": "Donde Habita El Olvido",
-    "filename": "Joaquín Sabina - Donde Habita El Olvido.txt"
+    "filename": "Joaquín Sabina - Donde Habita El Olvido.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-el-blues-del-autobus",
@@ -1233,115 +2251,202 @@
     "id": "joaquin-sabina-esta-boca-es-mia",
     "artist": "Joaquín Sabina",
     "title": "Esta Boca Es Mía",
-    "filename": "Joaquín Sabina - Esta Boca Es Mía.txt"
+    "filename": "Joaquín Sabina - Esta Boca Es Mía.txt",
+    "sections": [
+      "PUENTE"
+    ]
   },
   {
     "id": "joaquin-sabina-joaquin-sabina",
     "artist": "Joaquín Sabina",
     "title": "Joaquín Sabina",
-    "filename": "Joaquín Sabina - Joaquín Sabina.txt"
+    "filename": "Joaquín Sabina - Joaquín Sabina.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-juegos-de-azar",
     "artist": "Joaquín Sabina",
     "title": "Juegos De Azar",
-    "filename": "Joaquín Sabina - Juegos De Azar.txt"
+    "filename": "Joaquín Sabina - Juegos De Azar.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-la-cancion-mas-hermosa-del-mundo",
     "artist": "Joaquín Sabina",
     "title": "La Canción Más Hermosa Del Mundo",
-    "filename": "Joaquín Sabina - La Canción Más Hermosa Del Mundo.txt"
+    "filename": "Joaquín Sabina - La Canción Más Hermosa Del Mundo.txt",
+    "sections": [
+      "INTRO"
+    ]
   },
   {
     "id": "joaquin-sabina-lo-niego-todo",
     "artist": "Joaquín Sabina",
     "title": "Lo Niego Todo",
-    "filename": "Joaquín Sabina - Lo Niego Todo.txt"
+    "filename": "Joaquín Sabina - Lo Niego Todo.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-mas-de-100-mentiras",
     "artist": "Joaquín Sabina",
     "title": "Más De 100 Mentiras",
-    "filename": "Joaquín Sabina - Más De 100 Mentiras.txt"
+    "filename": "Joaquín Sabina - Más De 100 Mentiras.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-nos-sobran-los-motivos",
     "artist": "Joaquín Sabina",
     "title": "Nos Sobran Los Motivos",
-    "filename": "Joaquín Sabina - Nos Sobran Los Motivos.txt"
+    "filename": "Joaquín Sabina - Nos Sobran Los Motivos.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-pajaros-de-portugal",
     "artist": "Joaquín Sabina",
     "title": "Pájaros De Portugal",
-    "filename": "Joaquín Sabina - Pájaros De Portugal.txt"
+    "filename": "Joaquín Sabina - Pájaros De Portugal.txt",
+    "bpm": 124,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "joaquin-sabina-pastillas-para-no-sonar",
     "artist": "Joaquín Sabina",
     "title": "Pastillas Para No Soñar",
-    "filename": "Joaquín Sabina - Pastillas Para No Soñar.txt"
+    "filename": "Joaquín Sabina - Pastillas Para No Soñar.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-peces-de-ciudad",
     "artist": "Joaquín Sabina",
     "title": "Peces De Ciudad",
-    "filename": "Joaquín Sabina - Peces De Ciudad.txt"
+    "filename": "Joaquín Sabina - Peces De Ciudad.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-peor-para-el-sol",
     "artist": "Joaquín Sabina",
     "title": "Peor Para El Sol",
-    "filename": "Joaquín Sabina - Peor Para El Sol.txt"
+    "filename": "Joaquín Sabina - Peor Para El Sol.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-pongamos-que-hablo-de-madrid",
     "artist": "Joaquín Sabina",
     "title": "Pongamos Que Hablo De Madrid",
-    "filename": "Joaquín Sabina - Pongamos Que Hablo De Madrid.txt"
+    "filename": "Joaquín Sabina - Pongamos Que Hablo De Madrid.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "OUTRO"
+    ]
   },
   {
     "id": "joaquin-sabina-por-el-boulevard-de-los-suenos-rotos",
     "artist": "Joaquín Sabina",
     "title": "Por El Boulevard De Los Sueños Rotos",
-    "filename": "Joaquín Sabina - Por El Boulevard De Los Sueños Rotos.txt"
+    "filename": "Joaquín Sabina - Por El Boulevard De Los Sueños Rotos.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
+  },
+  {
+    "id": "joaquin-sabina-princesa",
+    "artist": "Joaquín Sabina",
+    "title": "princesa",
+    "filename": "Joaquín Sabina - princesa.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-quien-me-ha-robado-el-mes-de-abril",
     "artist": "Joaquín Sabina",
     "title": "Quien Me Ha Robado El Mes De Abril",
-    "filename": "Joaquín Sabina - Quien Me Ha Robado El Mes De Abril.txt"
+    "filename": "Joaquín Sabina - Quien Me Ha Robado El Mes De Abril.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-rebajas-de-enero",
     "artist": "Joaquín Sabina",
     "title": "Rebajas De Enero",
-    "filename": "Joaquín Sabina - Rebajas De Enero.txt"
+    "filename": "Joaquín Sabina - Rebajas De Enero.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-rosa-de-lima",
     "artist": "Joaquín Sabina",
     "title": "Rosa De Lima",
-    "filename": "Joaquín Sabina - Rosa De Lima.txt"
+    "filename": "Joaquín Sabina - Rosa De Lima.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "joaquin-sabina-tiramisu-de-limon",
     "artist": "Joaquín Sabina",
     "title": "Tiramisú De Limón",
-    "filename": "Joaquín Sabina - Tiramisú De Limón.txt"
+    "filename": "Joaquín Sabina - Tiramisú De Limón.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "joaquin-sabina-y-sin-embargo",
     "artist": "Joaquín Sabina",
     "title": "Y, Sin Embargo",
-    "filename": "Joaquín Sabina - Y, Sin Embargo.txt"
-  },
-  {
-    "id": "joaquin-sabina",
-    "artist": "Desconocido",
-    "title": "Joaquín Sabina -",
-    "filename": "Joaquín Sabina -.txt"
+    "filename": "Joaquín Sabina - Y, Sin Embargo.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "john-lenon-working-class-hero",
@@ -1353,175 +2458,482 @@
     "id": "john-mayer-i-guess-i-just-feel-like",
     "artist": "John Mayer",
     "title": "I Guess I Just Feel Like",
-    "filename": "John Mayer - I Guess I Just Feel Like.txt"
+    "filename": "John Mayer - I Guess I Just Feel Like.txt",
+    "sections": [
+      "INTRO",
+      "OUTRO"
+    ]
   },
   {
     "id": "john-mayer-in-the-blood",
     "artist": "John Mayer",
     "title": "in the Blood",
-    "filename": "John Mayer - in the Blood.txt"
+    "filename": "John Mayer - in the Blood.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "john-mayer-love-on-the-weekend",
     "artist": "John Mayer",
     "title": "Love on the Weekend",
-    "filename": "John Mayer - Love on the Weekend.txt"
+    "filename": "John Mayer - Love on the Weekend.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "john-mayer-slow-dancing-in-a-burning-room",
     "artist": "John Mayer",
     "title": "Slow Dancing in a Burning Room",
-    "filename": "John Mayer - Slow Dancing in a Burning Room.txt"
+    "filename": "John Mayer - Slow Dancing in a Burning Room.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE",
+      "OUTRO"
+    ]
   },
   {
     "id": "johnny-cash",
     "artist": "Desconocido",
     "title": "Johnny Cash -",
-    "filename": "Johnny Cash -.txt"
+    "filename": "Johnny Cash -.txt",
+    "bpm": 92,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
-    "id": "julieta-venegas-julieta-venegas",
+    "id": "julieta-venegas-lento",
     "artist": "Julieta Venegas",
-    "title": "Julieta Venegas",
-    "filename": "Julieta Venegas - Julieta Venegas.txt"
+    "title": "Lento",
+    "filename": "Julieta Venegas - Lento.txt"
   },
   {
     "id": "julieta-venegas-limon-y-sal",
     "artist": "Julieta Venegas",
     "title": "Limón Y Sal",
-    "filename": "Julieta Venegas - Limón Y Sal.txt"
+    "filename": "Julieta Venegas - Limón Y Sal.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "BRIDGE"
+    ]
   },
   {
     "id": "justin-timberlake-justin-timberlake",
     "artist": "Justin Timberlake",
     "title": "Justin Timberlake",
-    "filename": "Justin Timberlake - Justin Timberlake.txt"
+    "filename": "Justin Timberlake - Justin Timberlake.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "justin-timberlake-true-colors",
     "artist": "Justin Timberlake",
     "title": "True Colors",
-    "filename": "Justin Timberlake - True Colors.txt"
+    "filename": "Justin Timberlake - True Colors.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "PUENTE",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "knockin-on-heavens-door-guns-n-roses-tabs-tablatures-lyrics-chords-guitar-bass-tab-power",
     "artist": "Knockin on Heavens Door",
     "title": "Guns N Roses Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power",
-    "filename": "Knockin on Heavens Door - Guns N Roses Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power.txt"
+    "filename": "Knockin on Heavens Door - Guns N Roses Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "la-fuga-baja-por-diversion",
     "artist": "La Fuga",
     "title": "Baja Por Diversion",
-    "filename": "La Fuga - Baja Por Diversion.txt"
+    "filename": "La Fuga - Baja Por Diversion.txt",
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "la-fuga-balada-del-despertador",
     "artist": "La Fuga",
     "title": "Balada Del Despertador",
-    "filename": "La Fuga - Balada Del Despertador.txt"
+    "filename": "La Fuga - Balada Del Despertador.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "la-fuga-buscando-en-la-basura",
     "artist": "La Fuga",
     "title": "Buscando en La Basura",
-    "filename": "La Fuga - Buscando en La Basura.txt"
+    "filename": "La Fuga - Buscando en La Basura.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "la-fuga-en-vela",
     "artist": "La Fuga",
     "title": "en Vela",
-    "filename": "La Fuga - en Vela.txt"
+    "filename": "La Fuga - en Vela.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "la-fuga-mundo-raro",
     "artist": "La Fuga",
     "title": "Mundo Raro",
-    "filename": "La Fuga - Mundo Raro.txt"
+    "filename": "La Fuga - Mundo Raro.txt",
+    "sections": [
+      "INTRO"
+    ]
   },
   {
     "id": "la-fuga-no-solo-respirar",
     "artist": "La Fuga",
     "title": "No Solo Respirar",
-    "filename": "La Fuga - No Solo Respirar.txt"
+    "filename": "La Fuga - No Solo Respirar.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "la-la-love-you-el-principio-de-algo",
     "artist": "La La Love You",
     "title": "El Principio De Algo",
-    "filename": "La La Love You - El Principio De Algo.txt"
+    "filename": "La La Love You - El Principio De Algo.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "la-moda-heroes-del-sabado",
     "artist": "La Moda",
     "title": "Héroes Del Sabado",
-    "filename": "La Moda - Héroes Del Sabado.txt"
+    "filename": "La Moda - Héroes Del Sabado.txt",
+    "sections": [
+      "INTRO",
+      "VERSO",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "tabs",
+      "barre-chords"
+    ]
   },
   {
     "id": "la-sonrisa-de-julia-hay-alguien-mas-ahi",
     "artist": "La Sonrisa De Julia",
     "title": "Hay Alguien Más Ahí",
-    "filename": "La Sonrisa De Julia - Hay Alguien Más Ahí.txt"
+    "filename": "La Sonrisa De Julia - Hay Alguien Más Ahí.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "lady-gaga-lady-gaga",
     "artist": "Lady Gaga",
     "title": "Lady Gaga",
-    "filename": "Lady Gaga - Lady Gaga.txt"
+    "filename": "Lady Gaga - Lady Gaga.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
+  },
+  {
+    "id": "leiva-922",
+    "artist": "Leiva",
+    "title": "922",
+    "filename": "Leiva - 922.txt"
   },
   {
     "id": "leiva-a-ti-te-ocurre-algo",
     "artist": "Leiva",
     "title": "a Ti Te Ocurre Algo",
-    "filename": "Leiva - a Ti Te Ocurre Algo.txt"
+    "filename": "Leiva - a Ti Te Ocurre Algo.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-a-ti-te-ocurre-algo2",
+    "artist": "Leiva",
+    "title": "a ti te ocurre algo2",
+    "filename": "Leiva - a ti te ocurre algo2.txt",
+    "bpm": 130,
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-afuera-en-la-ciudad",
     "artist": "Leiva",
     "title": "Afuera en La Ciudad",
-    "filename": "Leiva - Afuera en La Ciudad.txt"
+    "filename": "Leiva - Afuera en La Ciudad.txt",
+    "bpm": 75,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords",
+      "strumming"
+    ]
+  },
+  {
+    "id": "leiva-afuera-en-la-ciudad2",
+    "artist": "Leiva",
+    "title": "afuera en la ciudad2",
+    "filename": "Leiva - afuera en la ciudad2.txt",
+    "bpm": 79,
+    "key": "Fa# Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-amelie2",
+    "artist": "Leiva",
+    "title": "amelie2",
+    "filename": "Leiva - amelie2.txt",
+    "bpm": 85,
+    "key": "Si menor"
+  },
+  {
+    "id": "leiva-animales2",
+    "artist": "Leiva",
+    "title": "animales2",
+    "filename": "Leiva - animales2.txt",
+    "bpm": 129,
+    "key": "Ab Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-aproximacion2",
+    "artist": "Leiva",
+    "title": "aproximacion2",
+    "filename": "Leiva - aproximacion2.txt",
+    "sections": [
+      "OUTRO"
+    ],
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-aunque-sea-un-rato",
     "artist": "Leiva",
     "title": "Aunque Sea Un Rato",
-    "filename": "Leiva - Aunque Sea Un Rato.txt"
+    "filename": "Leiva - Aunque Sea Un Rato.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-aunque-sea-un-rato2",
+    "artist": "Leiva",
+    "title": "aunque sea un rato2",
+    "filename": "Leiva - aunque sea un rato2.txt",
+    "key": "Do Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-bajo-presion",
     "artist": "Leiva",
-    "title": "Bajo Presión",
-    "filename": "Leiva - Bajo Presión.txt"
+    "title": "Bajo Presion",
+    "filename": "Leiva - Bajo Presion.txt",
+    "sections": [
+      "ESTROFA",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-bajo-presion2",
+    "artist": "Leiva",
+    "title": "bajo presion2",
+    "filename": "Leiva - bajo presion2.txt"
+  },
+  {
+    "id": "leiva-blancos-faciles2",
+    "artist": "Leiva",
+    "title": "blancos fáciles2",
+    "filename": "Leiva - blancos fáciles2.txt",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-breaking-bad",
     "artist": "Leiva",
     "title": "Breaking Bad",
-    "filename": "Leiva - Breaking Bad.txt"
+    "filename": "Leiva - Breaking Bad.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-breaking-bad2",
+    "artist": "Leiva",
+    "title": "breaking bad2",
+    "filename": "Leiva - breaking bad2.txt",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-caida-libre",
     "artist": "Leiva",
     "title": "Caída Libre",
-    "filename": "Leiva - Caída Libre.txt"
+    "filename": "Leiva - Caída Libre.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-caida-libre2",
+    "artist": "Leiva",
+    "title": "caida libre2",
+    "filename": "Leiva - caida libre2.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "leiva-cerca",
     "artist": "Leiva",
     "title": "Cerca",
-    "filename": "Leiva - Cerca.txt"
+    "filename": "Leiva - Cerca.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-cerca2",
+    "artist": "Leiva",
+    "title": "cerca2",
+    "filename": "Leiva - cerca2.txt",
+    "bpm": 123,
+    "key": "Re Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-ciencia-ficcion",
     "artist": "Leiva",
     "title": "Ciencia Ficción",
-    "filename": "Leiva - Ciencia Ficción.txt"
+    "filename": "Leiva - Ciencia Ficción.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-ciencia-ficcion2",
+    "artist": "Leiva",
+    "title": "ciencia ficcion2",
+    "filename": "Leiva - ciencia ficcion2.txt",
+    "bpm": 94,
+    "key": "Do Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-como-lo-tienes-tu2",
+    "artist": "Leiva",
+    "title": "como lo tienes tu2",
+    "filename": "Leiva - como lo tienes tu2.txt"
   },
   {
     "id": "leiva-como-si-fueras-a-morir-manana",
     "artist": "Leiva",
     "title": "Como Si Fueras a Morir Mañana",
-    "filename": "Leiva - Como Si Fueras a Morir Mañana.txt"
+    "filename": "Leiva - Como Si Fueras a Morir Mañana.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-como-si-fueras-a-morir-manana2",
+    "artist": "Leiva",
+    "title": "como si fueras a morir mañana2",
+    "filename": "Leiva - como si fueras a morir mañana2.txt",
+    "bpm": 144,
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-costa-de-oaxaca",
@@ -1530,412 +2942,1550 @@
     "filename": "Leiva - Costa De Oaxaca.txt"
   },
   {
+    "id": "leiva-costa-de-oaxaca2",
+    "artist": "Leiva",
+    "title": "costa de oaxaca2",
+    "filename": "Leiva - costa de oaxaca2.txt",
+    "timeSignature": "6/8"
+  },
+  {
     "id": "leiva-dejandose-caer",
     "artist": "Leiva",
     "title": "Dejándose Caer",
-    "filename": "Leiva - Dejándose Caer.txt"
+    "filename": "Leiva - Dejándose Caer.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-dejandose-caer2",
+    "artist": "Leiva",
+    "title": "dejandose caer2",
+    "filename": "Leiva - dejandose caer2.txt",
+    "sections": [
+      "INTRO",
+      "OUTRO"
+    ],
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-del-hueso-una-flor",
     "artist": "Leiva",
     "title": "Del Hueso Una Flor",
-    "filename": "Leiva - Del Hueso Una Flor.txt"
+    "filename": "Leiva - Del Hueso Una Flor.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-del-hueso-una-flor2",
+    "artist": "Leiva",
+    "title": "del hueso una flor2",
+    "filename": "Leiva - del hueso una flor2.txt",
+    "bpm": 100,
+    "key": "Mi ♭ Mayor",
+    "timeSignature": "3/4"
+  },
+  {
+    "id": "leiva-diazepam2",
+    "artist": "Leiva",
+    "title": "diazepam2",
+    "filename": "Leiva - diazepam2.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-el-gigante-de-big-fish",
     "artist": "Leiva",
     "title": "El Gigante De Big Fish",
-    "filename": "Leiva - El Gigante De Big Fish.txt"
+    "filename": "Leiva - El Gigante De Big Fish.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-el-gigante-de-big-fish2",
+    "artist": "Leiva",
+    "title": "el gigante de big fish2",
+    "filename": "Leiva - el gigante de big fish2.txt",
+    "bpm": 85
+  },
+  {
+    "id": "leiva-el-polvo-de-los-dias-raros2",
+    "artist": "Leiva",
+    "title": "el polvo de los dias raros2",
+    "filename": "Leiva - el polvo de los dias raros2.txt",
+    "techniques": [
+      "tabs"
+    ]
+  },
+  {
+    "id": "leiva-el-ultimo-incendio2",
+    "artist": "Leiva",
+    "title": "el ultimo incendio2",
+    "filename": "Leiva - el ultimo incendio2.txt"
+  },
+  {
+    "id": "leiva-electricidad2",
+    "artist": "Leiva",
+    "title": "electricidad2",
+    "filename": "Leiva - electricidad2.txt",
+    "sections": [
+      "PUENTE"
+    ]
   },
   {
     "id": "leiva-eme",
     "artist": "Leiva",
     "title": "Eme",
-    "filename": "Leiva - Eme.txt"
+    "filename": "Leiva - Eme.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-eme2",
+    "artist": "Leiva",
+    "title": "Eme2",
+    "filename": "Leiva - Eme2.txt",
+    "key": "Re Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-en-el-espacio",
     "artist": "Leiva",
     "title": "en El Espacio",
-    "filename": "Leiva - en El Espacio.txt"
+    "filename": "Leiva - en El Espacio.txt",
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-en-el-espacio2",
+    "artist": "Leiva",
+    "title": "en el espacio2",
+    "filename": "Leiva - en el espacio2.txt",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-estrella-polar2",
+    "artist": "Leiva",
+    "title": "estrella polar2",
+    "filename": "Leiva - estrella polar2.txt",
+    "bpm": 127,
+    "key": "Mi Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-expertos",
     "artist": "Leiva",
     "title": "Expertos",
-    "filename": "Leiva - Expertos.txt"
+    "filename": "Leiva - Expertos.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-expertos2",
+    "artist": "Leiva",
+    "title": "expertos2",
+    "filename": "Leiva - expertos2.txt",
+    "bpm": 126,
+    "key": "La mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-extasis2",
+    "artist": "Leiva",
+    "title": "Extasis2",
+    "filename": "Leiva - Extasis2.txt",
+    "key": "Sol Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-gigante",
     "artist": "Leiva",
     "title": "Gigante",
-    "filename": "Leiva - Gigante.txt"
+    "filename": "Leiva - Gigante.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-gigante2",
+    "artist": "Leiva",
+    "title": "gigante2",
+    "filename": "Leiva - gigante2.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA"
+    ]
   },
   {
     "id": "leiva-godzilla",
     "artist": "Leiva",
     "title": "Godzilla",
-    "filename": "Leiva - Godzilla.txt"
+    "filename": "Leiva - Godzilla.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-godzilla2",
+    "artist": "Leiva",
+    "title": "godzilla2",
+    "filename": "Leiva - godzilla2.txt",
+    "bpm": 75,
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-guerra-mundial",
     "artist": "Leiva",
     "title": "Guerra Mundial",
-    "filename": "Leiva - Guerra Mundial.txt"
+    "filename": "Leiva - Guerra Mundial.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-guerra-mundial2",
+    "artist": "Leiva",
+    "title": "guerra mundial2",
+    "filename": "Leiva - guerra mundial2.txt",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-hermosa-taquicardia",
     "artist": "Leiva",
     "title": "Hermosa Taquicardia",
-    "filename": "Leiva - Hermosa Taquicardia.txt"
+    "filename": "Leiva - Hermosa Taquicardia.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-hermosa-taquicardia2",
+    "artist": "Leiva",
+    "title": "hermosa taquicardia2",
+    "filename": "Leiva - hermosa taquicardia2.txt",
+    "bpm": 78,
+    "key": "Mi Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-histericos",
     "artist": "Leiva",
     "title": "Histéricos",
-    "filename": "Leiva - Histéricos.txt"
+    "filename": "Leiva - Histéricos.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-histericos2",
+    "artist": "Leiva",
+    "title": "histericos2",
+    "filename": "Leiva - histericos2.txt",
+    "bpm": 78
+  },
+  {
+    "id": "leiva-hoy-no-me-encuentro2",
+    "artist": "Leiva",
+    "title": "hoy no me encuentro2",
+    "filename": "Leiva - hoy no me encuentro2.txt",
+    "key": "Si Menor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-hoy-tus-ojos2",
+    "artist": "Leiva",
+    "title": "hoy tus ojos2",
+    "filename": "Leiva - hoy tus ojos2.txt",
+    "sections": [
+      "OUTRO"
+    ]
   },
   {
     "id": "leiva-iceberg",
     "artist": "Leiva",
     "title": "Iceberg",
-    "filename": "Leiva - Iceberg.txt"
+    "filename": "Leiva - Iceberg.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-iceberg2",
+    "artist": "Leiva",
+    "title": "iceberg2",
+    "filename": "Leiva - iceberg2.txt",
+    "sections": [
+      "INTRO",
+      "VERSO"
+    ]
+  },
+  {
+    "id": "leiva-index2",
+    "artist": "Leiva",
+    "title": "index2",
+    "filename": "Leiva - index2.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "leiva-infinitos",
     "artist": "Leiva",
     "title": "Infinitos",
-    "filename": "Leiva - Infinitos.txt"
+    "filename": "Leiva - Infinitos.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-infinitos2",
+    "artist": "Leiva",
+    "title": "infinitos2",
+    "filename": "Leiva - infinitos2.txt"
   },
   {
     "id": "leiva-la-estacion-eterna",
     "artist": "Leiva",
     "title": "La Estación Eterna",
-    "filename": "Leiva - La Estación Eterna.txt"
+    "filename": "Leiva - La Estación Eterna.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-la-estacion-eterna2",
+    "artist": "Leiva",
+    "title": "la estacion eterna2",
+    "filename": "Leiva - la estacion eterna2.txt",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-la-francesita",
     "artist": "Leiva",
     "title": "La Francesita",
-    "filename": "Leiva - La Francesita.txt"
+    "filename": "Leiva - La Francesita.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-la-francesita2",
+    "artist": "Leiva",
+    "title": "la francesita2",
+    "filename": "Leiva - la francesita2.txt",
+    "bpm": 117,
+    "key": "Sol Mayor",
+    "timeSignature": "6/8"
   },
   {
     "id": "leiva-la-llamada",
     "artist": "Leiva",
     "title": "La Llamada",
-    "filename": "Leiva - La Llamada.txt"
+    "filename": "Leiva - La Llamada.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-la-llamada2",
+    "artist": "Leiva",
+    "title": "la llamada2",
+    "filename": "Leiva - la llamada2.txt",
+    "bpm": 118,
+    "key": "Re Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-la-lluvia-en-los-zapatos",
     "artist": "Leiva",
     "title": "La Lluvia en Los Zapatos",
-    "filename": "Leiva - La Lluvia en Los Zapatos.txt"
+    "filename": "Leiva - La Lluvia en Los Zapatos.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-la-lluvia-en-los-zapatos2",
+    "artist": "Leiva",
+    "title": "la lluvia en los zapatos2",
+    "filename": "Leiva - la lluvia en los zapatos2.txt",
+    "bpm": 127,
+    "key": "Do Menor  (Madrid Nuclear)",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-lady-madrid2",
+    "artist": "Leiva",
+    "title": "lady madrid2",
+    "filename": "Leiva - lady madrid2.txt",
+    "techniques": [
+      "tabs"
+    ],
+    "key": "Do  Mayor (aviones)",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-las-cuentas2",
+    "artist": "Leiva",
+    "title": "las cuentas2",
+    "filename": "Leiva - las cuentas2.txt",
+    "key": "La Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-leiva2",
+    "artist": "Leiva",
+    "title": "Leiva2",
+    "filename": "Leiva - Leiva2.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "leiva-lobos",
     "artist": "Leiva",
     "title": "Lobos",
-    "filename": "Leiva - Lobos.txt"
+    "filename": "Leiva - Lobos.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-lobos2",
+    "artist": "Leiva",
+    "title": "lobos2",
+    "filename": "Leiva - lobos2.txt",
+    "bpm": 128,
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-los-cantantes",
     "artist": "Leiva",
     "title": "Los Cantantes",
-    "filename": "Leiva - Los Cantantes.txt"
+    "filename": "Leiva - Los Cantantes.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-los-cantantes2",
+    "artist": "Leiva",
+    "title": "los cantantes2",
+    "filename": "Leiva - los cantantes2.txt",
+    "bpm": 118,
+    "key": "Mi b Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-maniobras-suicidas",
     "artist": "Leiva",
     "title": "Maniobras Suicidas",
-    "filename": "Leiva - Maniobras Suicidas.txt"
+    "filename": "Leiva - Maniobras Suicidas.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-maniobras-suicidas2",
+    "artist": "Leiva",
+    "title": "maniobras suicidas2",
+    "filename": "Leiva - maniobras suicidas2.txt",
+    "bpm": 90,
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-medicina2",
+    "artist": "Leiva",
+    "title": "medicina2",
+    "filename": "Leiva - medicina2.txt",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-mi-mejor-version",
     "artist": "Leiva",
     "title": "Mi Mejor Versión",
-    "filename": "Leiva - Mi Mejor Versión.txt"
+    "filename": "Leiva - Mi Mejor Versión.txt",
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-mi-mejor-version2",
+    "artist": "Leiva",
+    "title": "mi mejor version2",
+    "filename": "Leiva - mi mejor version2.txt",
+    "bpm": 117,
+    "key": "Mi Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-mi-pequeno-chernobil",
     "artist": "Leiva",
     "title": "Mi Pequeño Chernóbil",
-    "filename": "Leiva - Mi Pequeño Chernóbil.txt"
+    "filename": "Leiva - Mi Pequeño Chernóbil.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-mi-pequeno-chernobyl2",
+    "artist": "Leiva",
+    "title": "mi pequeño chernobyl2",
+    "filename": "Leiva - mi pequeño chernobyl2.txt",
+    "sections": [
+      "VERSO"
+    ]
   },
   {
     "id": "leiva-miedo",
     "artist": "Leiva",
     "title": "Miedo",
-    "filename": "Leiva - Miedo.txt"
+    "filename": "Leiva - Miedo.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-miedo2",
+    "artist": "Leiva",
+    "title": "miedo2",
+    "filename": "Leiva - miedo2.txt",
+    "key": "Do Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-mirada-perdida",
     "artist": "Leiva",
     "title": "Mirada Perdida",
-    "filename": "Leiva - Mirada Perdida.txt"
+    "filename": "Leiva - Mirada Perdida.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-mirada-perdida2",
+    "artist": "Leiva",
+    "title": "mirada perdida2",
+    "filename": "Leiva - mirada perdida2.txt",
+    "bpm": 148,
+    "key": "Mi Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-monstruos2",
+    "artist": "Leiva",
+    "title": "monstruos2",
+    "filename": "Leiva - monstruos2.txt",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-no-te-preocupes-por-mi",
     "artist": "Leiva",
     "title": "No Te Preocupes Por Mi",
-    "filename": "Leiva - No Te Preocupes Por Mi.txt"
+    "filename": "Leiva - No Te Preocupes Por Mi.txt",
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-no-te-preocupes-por-mi2",
+    "artist": "Leiva",
+    "title": "No te preocupes por mi2",
+    "filename": "Leiva - No te preocupes por mi2.txt",
+    "bpm": 77,
+    "key": "Sol mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-nuclear",
     "artist": "Leiva",
     "title": "Nuclear",
-    "filename": "Leiva - Nuclear.txt"
+    "filename": "Leiva - Nuclear.txt",
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-nuclear2",
+    "artist": "Leiva",
+    "title": "nuclear2",
+    "filename": "Leiva - nuclear2.txt",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-nunca-nadie",
     "artist": "Leiva",
     "title": "Nunca Nadie",
-    "filename": "Leiva - Nunca Nadie.txt"
+    "filename": "Leiva - Nunca Nadie.txt",
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-nunca-nadie2",
+    "artist": "Leiva",
+    "title": "Nunca nadie2",
+    "filename": "Leiva - Nunca nadie2.txt",
+    "key": "Re Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-palomas",
     "artist": "Leiva",
     "title": "Palomas",
-    "filename": "Leiva - Palomas.txt"
+    "filename": "Leiva - Palomas.txt",
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-palomas2",
+    "artist": "Leiva",
+    "title": "palomas2",
+    "filename": "Leiva - palomas2.txt",
+    "bpm": 81,
+    "key": "Mi bemol Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-peligrosamente-dark2",
+    "artist": "Leiva",
+    "title": "peligrosamente dark2",
+    "filename": "Leiva - peligrosamente dark2.txt",
+    "sections": [
+      "ESTROFA"
+    ]
+  },
+  {
+    "id": "leiva-penaltis2",
+    "artist": "Leiva",
+    "title": "Penaltis2",
+    "filename": "Leiva - Penaltis2.txt",
+    "key": "Do Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-pienso-en-aquella-tarde2",
+    "artist": "Leiva",
+    "title": "pienso en aquella tarde2",
+    "filename": "Leiva - pienso en aquella tarde2.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-polvora",
     "artist": "Leiva",
     "title": "Pólvora",
-    "filename": "Leiva - Pólvora.txt"
+    "filename": "Leiva - Pólvora.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-polvora2",
+    "artist": "Leiva",
+    "title": "polvora2",
+    "filename": "Leiva - polvora2.txt",
+    "key": "Sol Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-premio-de-consolacion2",
+    "artist": "Leiva",
+    "title": "premio de consolacion2",
+    "filename": "Leiva - premio de consolacion2.txt",
+    "sections": [
+      "BRIDGE",
+      "OUTRO"
+    ]
+  },
+  {
+    "id": "leiva-princesas2",
+    "artist": "Leiva",
+    "title": "princesas2",
+    "filename": "Leiva - princesas2.txt",
+    "sections": [
+      "VERSO",
+      "ESTRIBILLO",
+      "OUTRO"
+    ]
+  },
+  {
+    "id": "leiva-si-quieres-bailamos2",
+    "artist": "Leiva",
+    "title": "si quieres bailamos2",
+    "filename": "Leiva - si quieres bailamos2.txt",
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "leiva-sincericidio",
     "artist": "Leiva",
     "title": "Sincericidio",
-    "filename": "Leiva - Sincericidio.txt"
+    "filename": "Leiva - Sincericidio.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-sincericidio2",
+    "artist": "Leiva",
+    "title": "sincericidio2",
+    "filename": "Leiva - sincericidio2.txt",
+    "key": "Do Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-stranger-things-sin-capo2",
+    "artist": "Leiva",
+    "title": "stranger things SIN CAPO2",
+    "filename": "Leiva - stranger things SIN CAPO2.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA",
+      "PUENTE"
+    ]
   },
   {
     "id": "leiva-stranger-things",
     "artist": "Leiva",
     "title": "Stranger Things",
-    "filename": "Leiva - Stranger Things.txt"
+    "filename": "Leiva - Stranger Things.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-stranger-things2",
+    "artist": "Leiva",
+    "title": "stranger things2",
+    "filename": "Leiva - stranger things2.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA",
+      "PUENTE"
+    ]
   },
   {
     "id": "leiva-superpoderes",
     "artist": "Leiva",
     "title": "Superpoderes",
-    "filename": "Leiva - Superpoderes.txt"
+    "filename": "Leiva - Superpoderes.txt",
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-superpoderes2",
+    "artist": "Leiva",
+    "title": "superpoderes2",
+    "filename": "Leiva - superpoderes2.txt",
+    "bpm": 88,
+    "key": "Re mayor (disco)",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-terriblemente-cruel",
     "artist": "Leiva",
     "title": "Terriblemente Cruel",
-    "filename": "Leiva - Terriblemente Cruel.txt"
+    "filename": "Leiva - Terriblemente Cruel.txt",
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-terriblemente-cruel2",
+    "artist": "Leiva",
+    "title": "terriblemente cruel2",
+    "filename": "Leiva - terriblemente cruel2.txt",
+    "bpm": 126,
+    "key": "Do Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-todo-lo-que-tu-quieras",
     "artist": "Leiva",
     "title": "Todo Lo Que Tú Quieras",
-    "filename": "Leiva - Todo Lo Que Tú Quieras.txt"
+    "filename": "Leiva - Todo Lo Que Tú Quieras.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-todo-lo-que-tu-quieras2",
+    "artist": "Leiva",
+    "title": "todo lo que tu quieras2",
+    "filename": "Leiva - todo lo que tu quieras2.txt",
+    "key": "Sol Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-todo2",
+    "artist": "Leiva",
+    "title": "todo2",
+    "filename": "Leiva - todo2.txt",
+    "sections": [
+      "INTRO"
+    ]
   },
   {
     "id": "leiva-vertigo",
     "artist": "Leiva",
     "title": "Vértigo",
-    "filename": "Leiva - Vértigo.txt"
+    "filename": "Leiva - Vértigo.txt",
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-vertigo2",
+    "artist": "Leiva",
+    "title": "vertigo2",
+    "filename": "Leiva - vertigo2.txt",
+    "bpm": 108,
+    "key": "Si ♭ Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "leiva-violento-amor2",
+    "artist": "Leiva",
+    "title": "violento amor2",
+    "filename": "Leiva - violento amor2.txt",
+    "sections": [
+      "BRIDGE"
+    ]
   },
   {
     "id": "leiva-vis-a-vis",
     "artist": "Leiva",
     "title": "Vis a Vis",
-    "filename": "Leiva - Vis a Vis.txt"
+    "filename": "Leiva - Vis a Vis.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
+  },
+  {
+    "id": "leiva-vis-a-vis2",
+    "artist": "Leiva",
+    "title": "vis a vis2",
+    "filename": "Leiva - vis a vis2.txt",
+    "bpm": 107,
+    "techniques": [
+      "tabs"
+    ],
+    "key": "Si Mayor",
+    "timeSignature": "4/4"
   },
   {
     "id": "leiva-feat-nina-de-juan-blancos-faciles",
     "artist": "Leiva Feat. Nina De Juan",
     "title": "Blancos Fáciles",
-    "filename": "Leiva Feat. Nina De Juan - Blancos Fáciles.txt"
+    "filename": "Leiva Feat. Nina De Juan - Blancos Fáciles.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "OUTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "leiva-ft-silvana-estrada-peligrosamente-dark",
     "artist": "Leiva Ft. Silvana Estrada",
     "title": "Peligrosamente Dark",
-    "filename": "Leiva Ft. Silvana Estrada - Peligrosamente Dark.txt"
+    "filename": "Leiva Ft. Silvana Estrada - Peligrosamente Dark.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "lenny-kravitz",
     "artist": "Desconocido",
     "title": "Lenny Kravitz -",
-    "filename": "Lenny Kravitz -.txt"
+    "filename": "Lenny Kravitz -.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE",
+      "OUTRO"
+    ]
   },
   {
     "id": "lewis-capaldi-someone-you-loved",
     "artist": "Lewis Capaldi",
     "title": "Someone You Loved",
-    "filename": "Lewis Capaldi - Someone You Loved.txt"
+    "filename": "Lewis Capaldi - Someone You Loved.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "lifehouse-you-and-me",
     "artist": "Lifehouse",
     "title": "You and Me -",
-    "filename": "Lifehouse - You and Me -.txt"
+    "filename": "Lifehouse - You and Me -.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
   },
   {
     "id": "los-piratas-te-echare-de-menos",
     "artist": "Los Piratas",
     "title": "Te Echare De Menos",
-    "filename": "Los Piratas - Te Echare De Menos.txt"
+    "filename": "Los Piratas - Te Echare De Menos.txt",
+    "sections": [
+      "INTRO"
+    ]
   },
   {
     "id": "los-piratas",
     "artist": "Desconocido",
     "title": "Los Piratas -",
-    "filename": "Los Piratas -.txt"
+    "filename": "Los Piratas -.txt",
+    "bpm": 128,
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "los-rodriguez-dulce-condena",
     "artist": "Los Rodriguez",
     "title": "Dulce Condena",
-    "filename": "Los Rodriguez - Dulce Condena.txt"
+    "filename": "Los Rodriguez - Dulce Condena.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "los-ronaldos-no-puedo-vivir-sin-ti",
     "artist": "Los Ronaldos",
     "title": "No Puedo Vivir Sin Ti",
-    "filename": "Los Ronaldos - No Puedo Vivir Sin Ti.txt"
+    "filename": "Los Ronaldos - No Puedo Vivir Sin Ti.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "los-secretos-cada-dia",
     "artist": "Los Secretos",
     "title": "Cada Día",
-    "filename": "Los Secretos - Cada Día.txt"
+    "filename": "Los Secretos - Cada Día.txt",
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "los-secretos-los-secretos",
     "artist": "Los Secretos",
     "title": "Los Secretos",
-    "filename": "Los Secretos - Los Secretos.txt"
+    "filename": "Los Secretos - Los Secretos.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "los-secretos-y-no-amanece",
     "artist": "Los Secretos",
     "title": "Y No Amanece",
-    "filename": "Los Secretos - Y No Amanece.txt"
+    "filename": "Los Secretos - Y No Amanece.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "OUTRO"
+    ]
   },
   {
     "id": "los-secretos",
     "artist": "Desconocido",
     "title": "Los Secretos -",
-    "filename": "Los Secretos -.txt"
+    "filename": "Los Secretos -.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "los-zigarros-desde-que-ya-no-eres-mia",
     "artist": "Los Zigarros",
     "title": "Desde Que Ya No Eres Mia",
-    "filename": "Los Zigarros - Desde Que Ya No Eres Mia.txt"
+    "filename": "Los Zigarros - Desde Que Ya No Eres Mia.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "love-of-lesbian-alli-donde-soliamos-gritar",
     "artist": "Love of Lesbian",
     "title": "Allí Donde Solíamos Gritar",
-    "filename": "Love of Lesbian - Allí Donde Solíamos Gritar.txt"
+    "filename": "Love of Lesbian - Allí Donde Solíamos Gritar.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "lp-lost-on-you",
     "artist": "Lp",
     "title": "Lost on You -",
-    "filename": "Lp - Lost on You -.txt"
+    "filename": "Lp - Lost on You -.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "lucas-masciano-me-gustas-cuando",
     "artist": "Lucas Masciano",
     "title": "Me Gustas Cuando",
-    "filename": "Lucas Masciano - Me Gustas Cuando.txt"
+    "filename": "Lucas Masciano - Me Gustas Cuando.txt",
+    "sections": [
+      "INTRO"
+    ]
   },
   {
     "id": "lynyrd-skynyrd-free-birdtxt",
     "artist": "Lynyrd Skynyrd",
     "title": "Free Birdtxt",
-    "filename": "Lynyrd Skynyrd - Free Birdtxt.txt"
+    "filename": "Lynyrd Skynyrd - Free Birdtxt.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "lynyrd-skynyrd-simple-man",
     "artist": "Lynyrd Skynyrd",
     "title": "Simple Man",
-    "filename": "Lynyrd Skynyrd - Simple Man.txt"
+    "filename": "Lynyrd Skynyrd - Simple Man.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE",
+      "OUTRO"
+    ],
+    "techniques": [
+      "fingerpicking",
+      "barre-chords"
+    ]
   },
   {
     "id": "m-clan-saltamos-sin-mirar",
     "artist": "M",
     "title": "Clan - Saltamos Sin Mirar",
-    "filename": "M - Clan - Saltamos Sin Mirar.txt"
+    "filename": "M - Clan - Saltamos Sin Mirar.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "tabs"
+    ]
   },
   {
     "id": "m-clan",
     "artist": "M",
     "title": "Clan -",
-    "filename": "M - Clan -.txt"
+    "filename": "M - Clan -.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ]
+  },
+  {
+    "id": "m-clan-arenas-movedizas",
+    "artist": "m",
+    "title": "clan - arenas movedizas",
+    "filename": "m-clan - arenas movedizas.txt"
+  },
+  {
+    "id": "m-clan-caminos-secundarios",
+    "artist": "m",
+    "title": "clan - caminos secundarios",
+    "filename": "m-clan - caminos secundarios.txt"
+  },
+  {
+    "id": "m-clan-caroilna",
+    "artist": "m",
+    "title": "clan - caroilna",
+    "filename": "m-clan - caroilna.txt",
+    "sections": [
+      "OUTRO"
+    ],
+    "key": "Sol Mayor",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "m-clan-chilaba-y-cachimba",
+    "artist": "m",
+    "title": "clan - chilaba y cachimba",
+    "filename": "m-clan - chilaba y cachimba.txt"
+  },
+  {
+    "id": "m-clan-concierto-salvaje",
+    "artist": "m",
+    "title": "clan - concierto-salvaje",
+    "filename": "m-clan - concierto-salvaje.txt"
+  },
+  {
+    "id": "m-clan-corazon-en-transito",
+    "artist": "m",
+    "title": "clan - corazon en transito",
+    "filename": "m-clan - corazon en transito.txt",
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "m-clan-el-tren-que-nunca-cogimos",
+    "artist": "m",
+    "title": "clan - el tren que nunca cogimos",
+    "filename": "m-clan - el tren que nunca cogimos.txt"
+  },
+  {
+    "id": "m-clan-grupos-americanos",
+    "artist": "m",
+    "title": "clan - grupos-americanos",
+    "filename": "m-clan - grupos-americanos.txt",
+    "sections": [
+      "BRIDGE"
+    ]
+  },
+  {
+    "id": "m-clan-inmigrante",
+    "artist": "m",
+    "title": "clan - inmigrante",
+    "filename": "m-clan - inmigrante.txt"
+  },
+  {
+    "id": "m-clan-la-calma",
+    "artist": "m",
+    "title": "clan - la calma",
+    "filename": "m-clan - la calma.txt"
+  },
+  {
+    "id": "m-clan-la-esperanza",
+    "artist": "m",
+    "title": "clan - la-esperanza",
+    "filename": "m-clan - la-esperanza.txt",
+    "sections": [
+      "BRIDGE"
+    ]
+  },
+  {
+    "id": "m-clan-los-periodicos-de-manana",
+    "artist": "m",
+    "title": "clan - los periodicos de mañana",
+    "filename": "m-clan - los periodicos de mañana.txt",
+    "sections": [
+      "OUTRO"
+    ]
+  },
+  {
+    "id": "m-clan-maggie-despierta",
+    "artist": "m",
+    "title": "clan - maggie despierta",
+    "filename": "m-clan - maggie despierta.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "m-clan-miedo",
+    "artist": "m",
+    "title": "clan - miedo",
+    "filename": "m-clan - miedo.txt",
+    "sections": [
+      "INTRO"
+    ]
+  },
+  {
+    "id": "m-clan-noche-de-desolacion",
+    "artist": "m",
+    "title": "clan - noche de desolacion",
+    "filename": "m-clan - noche de desolacion.txt"
+  },
+  {
+    "id": "m-clan-polvo-de-estrellas",
+    "artist": "m",
+    "title": "clan - polvo de estrellas",
+    "filename": "m-clan - polvo de estrellas.txt"
+  },
+  {
+    "id": "m-clan-que-esta-pasando",
+    "artist": "m",
+    "title": "clan - que esta pasando",
+    "filename": "m-clan - que esta pasando.txt",
+    "sections": [
+      "OUTRO"
+    ]
+  },
+  {
+    "id": "m-clan-quedate-a-dormir",
+    "artist": "m",
+    "title": "clan - quedate a dormir",
+    "filename": "m-clan - quedate a dormir.txt",
+    "sections": [
+      "BRIDGE"
+    ]
+  },
+  {
+    "id": "m-clan-roto-por-dentro",
+    "artist": "m",
+    "title": "clan - roto por dentro",
+    "filename": "m-clan - roto por dentro.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "timeSignature": "4/4"
+  },
+  {
+    "id": "m-clan-saltamos-sin-mirar-2",
+    "artist": "m",
+    "title": "clan - saltamos sin mirar",
+    "filename": "m-clan - saltamos sin mirar.txt"
+  },
+  {
+    "id": "m-clan-souvenir",
+    "artist": "m",
+    "title": "clan - souvenir",
+    "filename": "m-clan - souvenir.txt",
+    "sections": [
+      "OUTRO"
+    ]
+  },
+  {
+    "id": "m-clan-todo-lo-joven-muere-hoy",
+    "artist": "m",
+    "title": "clan - todo lo joven muere hoy",
+    "filename": "m-clan - todo lo joven muere hoy.txt"
+  },
+  {
+    "id": "m-clan-traeme-tu-amor",
+    "artist": "m",
+    "title": "clan - traeme tu amor",
+    "filename": "m-clan - traeme tu amor.txt",
+    "sections": [
+      "BRIDGE"
+    ]
+  },
+  {
+    "id": "m-clan-usar-y-tirar",
+    "artist": "m",
+    "title": "clan - usar y tirar",
+    "filename": "m-clan - usar y tirar.txt"
+  },
+  {
+    "id": "m-clan-viaje-al-sur",
+    "artist": "m",
+    "title": "clan - viaje al sur",
+    "filename": "m-clan - viaje al sur.txt"
   },
   {
     "id": "maldita-nerea-cuando-todas-las-historias-se-acaban",
     "artist": "Maldita Nerea",
     "title": "Cuando Todas Las Historias Se Acaban",
-    "filename": "Maldita Nerea - Cuando Todas Las Historias Se Acaban.txt"
+    "filename": "Maldita Nerea - Cuando Todas Las Historias Se Acaban.txt",
+    "sections": [
+      "VERSO",
+      "ESTRIBILLO",
+      "OUTRO"
+    ]
   },
   {
     "id": "maldita-nerea-piedra-papel-o-tijera",
     "artist": "Maldita Nerea",
     "title": "Piedra Papel O Tijera",
-    "filename": "Maldita Nerea - Piedra Papel O Tijera.txt"
+    "filename": "Maldita Nerea - Piedra Papel O Tijera.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "mana-clavado-en-un-bar",
     "artist": "Maná",
     "title": "Clavado en Un Bar",
-    "filename": "Maná - Clavado en Un Bar.txt"
+    "filename": "Maná - Clavado en Un Bar.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "mana-rayando-el-sol",
     "artist": "Maná",
     "title": "Rayando El Sol",
-    "filename": "Maná - Rayando El Sol.txt"
+    "filename": "Maná - Rayando El Sol.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "manolo-garcia-carbon-y-ramas-secas",
     "artist": "Manolo García",
     "title": "Carbón Y Ramas Secas",
-    "filename": "Manolo García - Carbón Y Ramas Secas.txt"
+    "filename": "Manolo García - Carbón Y Ramas Secas.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "manolo-garcia-pajaros-de-barro",
     "artist": "Manolo Garcia",
     "title": "Pájaros De Barro",
-    "filename": "Manolo Garcia - Pájaros De Barro.txt"
+    "filename": "Manolo Garcia - Pájaros De Barro.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "marea-barniz",
     "artist": "Marea",
     "title": "Barniz",
-    "filename": "Marea - Barniz.txt"
+    "filename": "Marea - Barniz.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE"
+    ]
   },
   {
     "id": "marea-incandescente",
     "artist": "Marea",
     "title": "Incandescente",
-    "filename": "Marea - Incandescente.txt"
+    "filename": "Marea - Incandescente.txt",
+    "sections": [
+      "INTRO"
+    ]
   },
   {
     "id": "matchbox-twenty",
     "artist": "Desconocido",
     "title": "Matchbox Twenty -",
-    "filename": "Matchbox Twenty -.txt"
+    "filename": "Matchbox Twenty -.txt",
+    "bpm": 81,
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "melon-diesel-quiero-un-camino",
     "artist": "Melon Diesel",
     "title": "Quiero Un Camino",
-    "filename": "Melon Diesel - Quiero Un Camino.txt"
+    "filename": "Melon Diesel - Quiero Un Camino.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "michelle-branch-it-s-you",
     "artist": "Michelle Branch",
     "title": "It's You",
-    "filename": "Michelle Branch - It's You.txt"
+    "filename": "Michelle Branch - It's You.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "morgan-cruel",
@@ -1947,133 +4497,294 @@
     "id": "morgan-intro",
     "artist": "Morgan",
     "title": "Intro",
-    "filename": "Morgan - Intro.txt"
+    "filename": "Morgan - Intro.txt",
+    "bpm": 68,
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "morgan-radio",
     "artist": "Morgan",
     "title": "Radio",
-    "filename": "Morgan - Radio.txt"
+    "filename": "Morgan - Radio.txt",
+    "bpm": 131,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "morgan-sargento-de-hierro",
     "artist": "Morgan",
     "title": "Sargento De Hierro",
-    "filename": "Morgan - Sargento De Hierro.txt"
+    "filename": "Morgan - Sargento De Hierro.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "morgan-volver",
     "artist": "Morgan",
     "title": "Volver",
-    "filename": "Morgan - Volver.txt"
+    "filename": "Morgan - Volver.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "nacha-pop-lucha-de-gigantes",
     "artist": "Nacha Pop",
     "title": "Lucha De Gigantes",
-    "filename": "Nacha Pop - Lucha De Gigantes.txt"
+    "filename": "Nacha Pop - Lucha De Gigantes.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "nena-daconte-en-que-estrella-estara",
     "artist": "Nena Daconte",
     "title": "en Que Estrella Estará",
-    "filename": "Nena Daconte - en Que Estrella Estará.txt"
+    "filename": "Nena Daconte - en Que Estrella Estará.txt",
+    "sections": [
+      "INTRO",
+      "PUENTE",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "nickelback-rockstar",
     "artist": "Nickelback",
     "title": "Rockstar",
-    "filename": "Nickelback - Rockstar.txt"
+    "filename": "Nickelback - Rockstar.txt",
+    "bpm": 72,
+    "sections": [
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "of-monsters-and-men-love-love-love",
     "artist": "Of Monsters and Men",
     "title": "Love Love Love",
-    "filename": "Of Monsters and Men - Love Love Love.txt"
+    "filename": "Of Monsters and Men - Love Love Love.txt",
+    "bpm": 133,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
-    "id": "paolo-nutini",
-    "artist": "Desconocido",
-    "title": "Paolo Nutini -",
-    "filename": "Paolo Nutini -.txt"
+    "id": "paolo-nutini-candy",
+    "artist": "Paolo Nutini",
+    "title": "candy",
+    "filename": "Paolo Nutini - candy.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-amelie",
     "artist": "Pereza",
     "title": "Amelie",
-    "filename": "Pereza - Amelie.txt"
+    "filename": "Pereza - Amelie.txt",
+    "bpm": 85,
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-animales",
     "artist": "Pereza",
     "title": "Animales",
-    "filename": "Pereza - Animales.txt"
+    "filename": "Pereza - Animales.txt",
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-aproximacion",
     "artist": "Pereza",
     "title": "Aproximación",
-    "filename": "Pereza - Aproximación.txt"
+    "filename": "Pereza - Aproximación.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-como-lo-tienes-tu",
     "artist": "Pereza",
     "title": "Como Lo Tienes Tu",
-    "filename": "Pereza - Como Lo Tienes Tu.txt"
+    "filename": "Pereza - Como Lo Tienes Tu.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "pereza-estrella-polar",
     "artist": "Pereza",
     "title": "Estrella Polar",
-    "filename": "Pereza - Estrella Polar.txt"
+    "filename": "Pereza - Estrella Polar.txt",
+    "bpm": 120,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "pereza-la-noria",
     "artist": "Pereza",
     "title": "La Noria",
-    "filename": "Pereza - La Noria.txt"
+    "filename": "Pereza - La Noria.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-lady-madrid",
     "artist": "Pereza",
     "title": "Lady Madrid",
-    "filename": "Pereza - Lady Madrid.txt"
+    "filename": "Pereza - Lady Madrid.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs",
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-madrid",
     "artist": "Pereza",
     "title": "Madrid",
-    "filename": "Pereza - Madrid.txt"
+    "filename": "Pereza - Madrid.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-pienso-en-aquella-tarde",
     "artist": "Pereza",
     "title": "Pienso en Aquella Tarde",
-    "filename": "Pereza - Pienso en Aquella Tarde.txt"
+    "filename": "Pereza - Pienso en Aquella Tarde.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-por-mi-tripa",
     "artist": "Pereza",
     "title": "Por Mi Tripa",
-    "filename": "Pereza - Por Mi Tripa.txt"
+    "filename": "Pereza - Por Mi Tripa.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs",
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-princesas",
     "artist": "Pereza",
     "title": "Princesas",
-    "filename": "Pereza - Princesas.txt"
+    "filename": "Pereza - Princesas.txt",
+    "bpm": 124,
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-si-quieres-bailamos",
     "artist": "Pereza",
     "title": "Si Quieres Bailamos",
-    "filename": "Pereza - Si Quieres Bailamos.txt"
+    "filename": "Pereza - Si Quieres Bailamos.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-todo",
     "artist": "Pereza",
     "title": "Todo",
-    "filename": "Pereza - Todo.txt"
+    "filename": "Pereza - Todo.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "pereza-violento-amor",
@@ -2085,277 +4796,594 @@
     "id": "pereza-yo-solo-quiero",
     "artist": "Pereza",
     "title": "Yo Solo Quiero",
-    "filename": "Pereza - Yo Solo Quiero.txt"
+    "filename": "Pereza - Yo Solo Quiero.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "quique-gonzalez-charo",
     "artist": "Quique González",
     "title": "Charo",
-    "filename": "Quique González - Charo.txt"
+    "filename": "Quique González - Charo.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "quique-gonzalez-de-haberlo-sabido",
     "artist": "Quique Gonzalez",
     "title": "De Haberlo Sabido",
-    "filename": "Quique Gonzalez - De Haberlo Sabido.txt"
+    "filename": "Quique Gonzalez - De Haberlo Sabido.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "r-e-m-losing-my-religion",
     "artist": "R.E.M",
     "title": "Losing My Religion",
-    "filename": "R.E.M - Losing My Religion.txt"
+    "filename": "R.E.M - Losing My Religion.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "r-e-m-man-on-the-moon",
     "artist": "R.E.M",
     "title": "Man on the Moon",
-    "filename": "R.E.M - Man on the Moon.txt"
+    "filename": "R.E.M - Man on the Moon.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "INTRO"
+    ],
+    "techniques": [
+      "tabs",
+      "barre-chords"
+    ]
   },
   {
     "id": "red-hot-chili-peppers-by-the-way",
     "artist": "Red Hot Chili Peppers",
     "title": "by the Way",
-    "filename": "Red Hot Chili Peppers - by the Way.txt"
+    "filename": "Red Hot Chili Peppers - by the Way.txt",
+    "sections": [
+      "INTRO",
+      "OUTRO"
+    ]
   },
   {
     "id": "red-hot-chili-peppers-dani-california",
     "artist": "Red Hot Chili Peppers",
     "title": "Dani California",
-    "filename": "Red Hot Chili Peppers - Dani California.txt"
+    "filename": "Red Hot Chili Peppers - Dani California.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "red-hot-chili-peppers-otherside",
     "artist": "Red Hot Chili Peppers",
     "title": "Otherside",
-    "filename": "Red Hot Chili Peppers - Otherside.txt"
+    "filename": "Red Hot Chili Peppers - Otherside.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE"
+    ],
+    "techniques": [
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "red-hot-chili-peppers-scar-tissue",
     "artist": "Red Hot Chili Peppers",
     "title": "Scar Tissue",
-    "filename": "Red Hot Chili Peppers - Scar Tissue.txt"
+    "filename": "Red Hot Chili Peppers - Scar Tissue.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-dos-por-dos",
     "artist": "Revolver",
     "title": "Dos Por Dos",
-    "filename": "Revolver - Dos Por Dos.txt"
+    "filename": "Revolver - Dos Por Dos.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-el-dorado",
     "artist": "Revolver",
     "title": "El Dorado -",
-    "filename": "Revolver - El Dorado -.txt"
+    "filename": "Revolver - El Dorado -.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "revolver-el-peligro",
     "artist": "Revolver",
     "title": "El Peligro",
-    "filename": "Revolver - El Peligro.txt"
+    "filename": "Revolver - El Peligro.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-el-roce-de-tu-piel",
     "artist": "Revolver",
     "title": "El Roce De Tu Piel",
-    "filename": "Revolver - El Roce De Tu Piel.txt"
+    "filename": "Revolver - El Roce De Tu Piel.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-es-mejor-caminar",
     "artist": "Revolver",
     "title": "Es Mejor Caminar",
-    "filename": "Revolver - Es Mejor Caminar.txt"
+    "filename": "Revolver - Es Mejor Caminar.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-esclavo-de-tu-amor",
     "artist": "Revolver",
     "title": "Esclavo De Tu Amor",
-    "filename": "Revolver - Esclavo De Tu Amor.txt"
+    "filename": "Revolver - Esclavo De Tu Amor.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-eso-de-saber",
     "artist": "Revolver",
     "title": "Eso De Saber",
-    "filename": "Revolver - Eso De Saber.txt"
+    "filename": "Revolver - Eso De Saber.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-mi-rendicion",
     "artist": "Revolver",
     "title": "Mi Rendición -",
-    "filename": "Revolver - Mi Rendición -.txt"
+    "filename": "Revolver - Mi Rendición -.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "revolver-odio",
     "artist": "Revolver",
     "title": "Odio",
-    "filename": "Revolver - Odio.txt"
+    "filename": "Revolver - Odio.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-san-pedro",
     "artist": "Revolver",
     "title": "San Pedro",
-    "filename": "Revolver - San Pedro.txt"
+    "filename": "Revolver - San Pedro.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-sara",
     "artist": "Revolver",
     "title": "Sara",
-    "filename": "Revolver - Sara.txt"
+    "filename": "Revolver - Sara.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-si-es-tan-solo-amor",
     "artist": "Revolver",
     "title": "Si Es Tan Solo Amor",
-    "filename": "Revolver - Si Es Tan Solo Amor.txt"
+    "filename": "Revolver - Si Es Tan Solo Amor.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "revolver-tu-cancion",
     "artist": "Revolver",
     "title": "Tu Canción",
-    "filename": "Revolver - Tu Canción.txt"
+    "filename": "Revolver - Tu Canción.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "revolver-tu-noche-y-la-mia",
     "artist": "Revolver",
     "title": "Tu Noche Y La Mía",
-    "filename": "Revolver - Tu Noche Y La Mía.txt"
+    "filename": "Revolver - Tu Noche Y La Mía.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "rise-against-hero-of-war",
     "artist": "Rise Against",
     "title": "Hero of War",
-    "filename": "Rise Against - Hero of War.txt"
+    "filename": "Rise Against - Hero of War.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "ron-pope-a-drop-in-the-ocean",
     "artist": "Ron Pope",
     "title": "a Drop in the Ocean",
-    "filename": "Ron Pope - a Drop in the Ocean.txt"
+    "filename": "Ron Pope - a Drop in the Ocean.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "ronan-keating-when-you-say-nothing-at-all",
     "artist": "Ronan Keating",
     "title": "When You Say Nothing at All",
-    "filename": "Ronan Keating - When You Say Nothing at All.txt"
+    "filename": "Ronan Keating - When You Say Nothing at All.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "rosana-llegaremos-a-tiempo",
     "artist": "Rosana",
     "title": "Llegaremos a Tiempo",
-    "filename": "Rosana - Llegaremos a Tiempo.txt"
+    "filename": "Rosana - Llegaremos a Tiempo.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "seal-crazy",
     "artist": "Seal",
     "title": "Crazy",
-    "filename": "Seal - Crazy.txt"
+    "filename": "Seal - Crazy.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "seal-kiss-from-a-rose",
     "artist": "Seal",
     "title": "Kiss From a Rose",
-    "filename": "Seal - Kiss From a Rose.txt"
+    "filename": "Seal - Kiss From a Rose.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-ciega-sordomuda",
     "artist": "Shakira",
     "title": "Ciega Sordomuda",
-    "filename": "Shakira - Ciega Sordomuda.txt"
+    "filename": "Shakira - Ciega Sordomuda.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-dia-de-enero",
     "artist": "Shakira",
     "title": "Dia De Enero",
-    "filename": "Shakira - Dia De Enero.txt"
+    "filename": "Shakira - Dia De Enero.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-dia-especial",
     "artist": "Shakira",
     "title": "Dia Especial",
-    "filename": "Shakira - Dia Especial.txt"
+    "filename": "Shakira - Dia Especial.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-donde-estas-corazon",
     "artist": "Shakira",
     "title": "Donde Estas Corazon",
-    "filename": "Shakira - Donde Estas Corazon.txt"
+    "filename": "Shakira - Donde Estas Corazon.txt",
+    "sections": [
+      "VERSO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-el-octavo-dia",
     "artist": "Shakira",
     "title": "El Octavo Día",
-    "filename": "Shakira - El Octavo Día.txt"
+    "filename": "Shakira - El Octavo Día.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-estoy-aqui",
     "artist": "Shakira",
     "title": "Estoy Aqui",
-    "filename": "Shakira - Estoy Aqui.txt"
+    "filename": "Shakira - Estoy Aqui.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-la-pared",
     "artist": "Shakira",
     "title": "La Pared",
-    "filename": "Shakira - La Pared.txt"
+    "filename": "Shakira - La Pared.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-no",
     "artist": "Shakira",
     "title": "No",
-    "filename": "Shakira - No.txt"
+    "filename": "Shakira - No.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-pies-descalzos-suenos-blancos",
     "artist": "Shakira",
     "title": "Pies Descalzos Sueños Blancos",
-    "filename": "Shakira - Pies Descalzos Sueños Blancos.txt"
+    "filename": "Shakira - Pies Descalzos Sueños Blancos.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA"
+    ],
+    "techniques": [
+      "tabs",
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-que-me-quedes-tu",
     "artist": "Shakira",
     "title": "Que Me Quedes Tú",
-    "filename": "Shakira - Que Me Quedes Tú.txt"
+    "filename": "Shakira - Que Me Quedes Tú.txt",
+    "sections": [
+      "VERSO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-si-te-vas",
     "artist": "Shakira",
     "title": "Si Te Vas",
-    "filename": "Shakira - Si Te Vas.txt"
+    "filename": "Shakira - Si Te Vas.txt",
+    "sections": [
+      "INTRO",
+      "VERSO",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-te-dejo-madrid",
     "artist": "Shakira",
     "title": "Te Dejo Madrid",
-    "filename": "Shakira - Te Dejo Madrid.txt"
+    "filename": "Shakira - Te Dejo Madrid.txt",
+    "sections": [
+      "INTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "shakira-underneath-your-clothes",
     "artist": "Shakira",
     "title": "Underneath Your Clothes",
-    "filename": "Shakira - Underneath Your Clothes.txt"
+    "filename": "Shakira - Underneath Your Clothes.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "sidecars-contra-las-cuerdas",
     "artist": "Sidecars",
     "title": "Contra Las Cuerdas",
-    "filename": "Sidecars - Contra Las Cuerdas.txt"
+    "filename": "Sidecars - Contra Las Cuerdas.txt",
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "sidecars-dinamita",
     "artist": "Sidecars",
     "title": "Dinamita",
-    "filename": "Sidecars - Dinamita.txt"
+    "filename": "Sidecars - Dinamita.txt",
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "sidecars-la-tormenta",
     "artist": "Sidecars",
     "title": "La Tormenta",
-    "filename": "Sidecars - La Tormenta.txt"
+    "filename": "Sidecars - La Tormenta.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "siloe-que-merezca-la-pena",
     "artist": "siloe",
     "title": "que merezca la pena",
-    "filename": "siloe - que merezca la pena.txt"
+    "filename": "siloe - que merezca la pena.txt",
+    "sections": [
+      "INTRO",
+      "OUTRO"
+    ]
   },
   {
     "id": "simple-plan-i-m-just-a-kid",
@@ -2367,37 +5395,68 @@
     "id": "simple-plan-im-just-a-kid",
     "artist": "Simple Plan",
     "title": "Im Just a Kid",
-    "filename": "Simple Plan - Im Just a Kid.txt"
+    "filename": "Simple Plan - Im Just a Kid.txt",
+    "sections": [
+      "BRIDGE"
+    ]
   },
   {
     "id": "sin-bandera-entra-en-mi-vida",
     "artist": "Sin Bandera",
     "title": "Entra en Mi Vida",
-    "filename": "Sin Bandera - Entra en Mi Vida.txt"
+    "filename": "Sin Bandera - Entra en Mi Vida.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "sin-bandera-mientes-tan-bien",
     "artist": "Sin Bandera",
     "title": "Mientes Tan Bien",
-    "filename": "Sin Bandera - Mientes Tan Bien.txt"
+    "filename": "Sin Bandera - Mientes Tan Bien.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "sin-bandera-que-lloro",
     "artist": "Sin Bandera",
     "title": "Que Lloro",
-    "filename": "Sin Bandera - Que Lloro.txt"
+    "filename": "Sin Bandera - Que Lloro.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "smashing-pumpkins-tonight-tonight",
     "artist": "Smashing Pumpkins",
     "title": "Tonight Tonight",
-    "filename": "Smashing Pumpkins - Tonight Tonight.txt"
+    "filename": "Smashing Pumpkins - Tonight Tonight.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "snow-patrol-the-finish-line",
     "artist": "Snow Patrol",
     "title": "the Finish Line",
-    "filename": "Snow Patrol - the Finish Line.txt"
+    "filename": "Snow Patrol - the Finish Line.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "snow-patrol-you-could-be-happy",
@@ -2409,7 +5468,16 @@
     "id": "sopa-de-cabra-camins",
     "artist": "Sopa De Cabra",
     "title": "Camins",
-    "filename": "Sopa De Cabra - Camins.txt"
+    "filename": "Sopa De Cabra - Camins.txt",
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "ESTROFA",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "sopa-de-cabra-l-emporda",
@@ -2421,67 +5489,135 @@
     "id": "sting-englishman-in-new-york",
     "artist": "Sting",
     "title": "Englishman in New York",
-    "filename": "Sting - Englishman in New York.txt"
+    "filename": "Sting - Englishman in New York.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "stone-sour-through-glass",
     "artist": "Stone Sour",
     "title": "Through Glass",
-    "filename": "Stone Sour - Through Glass.txt"
+    "filename": "Stone Sour - Through Glass.txt",
+    "sections": [
+      "ESTRIBILLO",
+      "ESTROFA",
+      "PUENTE"
+    ]
   },
   {
     "id": "tam-tam-go-espaldas-mojadas",
     "artist": "Tam Tam Go",
     "title": "Espaldas Mojadas",
-    "filename": "Tam Tam Go - Espaldas Mojadas.txt"
+    "filename": "Tam Tam Go - Espaldas Mojadas.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "taxi-perdido-en-la-calle",
     "artist": "Taxi",
     "title": "Perdido en La Calle",
-    "filename": "Taxi - Perdido en La Calle.txt"
+    "filename": "Taxi - Perdido en La Calle.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "taylor-swift-treacherous",
     "artist": "Taylor Swift",
     "title": "treacherous",
-    "filename": "Taylor Swift - treacherous.txt"
+    "filename": "Taylor Swift - treacherous.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "tabs",
+      "barre-chords"
+    ]
   },
   {
     "id": "tequila-mucho-mejor",
     "artist": "Tequila",
     "title": "Mucho Mejor",
-    "filename": "Tequila - Mucho Mejor.txt"
+    "filename": "Tequila - Mucho Mejor.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "the-beatles-now-and-then",
     "artist": "The Beatles",
     "title": "Now and Then",
-    "filename": "The Beatles - Now and Then.txt"
+    "filename": "The Beatles - Now and Then.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs",
+      "barre-chords"
+    ]
   },
   {
     "id": "the-calling-wherever-you-will-go",
     "artist": "The Calling",
     "title": "Wherever You Will Go",
-    "filename": "The Calling - Wherever You Will Go.txt"
+    "filename": "The Calling - Wherever You Will Go.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ]
   },
   {
     "id": "the-fray-how-to-save-a-life",
     "artist": "The Fray",
     "title": "How to Save a Life",
-    "filename": "The Fray - How to Save a Life.txt"
+    "filename": "The Fray - How to Save a Life.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "the-fray-you-found-me",
     "artist": "The Fray",
     "title": "You Found Me",
-    "filename": "The Fray - You Found Me.txt"
+    "filename": "The Fray - You Found Me.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE",
+      "OUTRO"
+    ]
   },
   {
     "id": "the-last-of-us-take-on-me",
     "artist": "The Last of Us",
     "title": "Take on Me",
-    "filename": "The Last of Us - Take on Me.txt"
+    "filename": "The Last of Us - Take on Me.txt",
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "the-script-the-man-who-can-t-be-moved",
@@ -2493,67 +5629,147 @@
     "id": "the-verve-lucky-man",
     "artist": "The Verve",
     "title": "Lucky Man",
-    "filename": "The Verve - Lucky Man.txt"
+    "filename": "The Verve - Lucky Man.txt",
+    "bpm": 82,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "the-who-behind-blue-eyes",
     "artist": "The Who",
     "title": "Behind Blue Eyes",
-    "filename": "The Who - Behind Blue Eyes.txt"
+    "filename": "The Who - Behind Blue Eyes.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "tom-odell-another-love",
     "artist": "Tom Odell",
     "title": "Another Love",
-    "filename": "Tom Odell - Another Love.txt"
+    "filename": "Tom Odell - Another Love.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "train-hey-soul-sister",
     "artist": "Train",
     "title": "Hey Soul Sister",
-    "filename": "Train - Hey Soul Sister.txt"
+    "filename": "Train - Hey Soul Sister.txt",
+    "sections": [
+      "INTRO",
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "techniques": [
+      "barre-chords",
+      "strumming"
+    ]
   },
   {
     "id": "u2-one",
     "artist": "U2",
     "title": "One",
-    "filename": "U2 - One.txt"
+    "filename": "U2 - One.txt",
+    "sections": [
+      "ESTROFA"
+    ]
   },
   {
     "id": "van-morrison-brown-eyed-girl",
     "artist": "Van Morrison",
     "title": "Brown Eyed Girl",
-    "filename": "Van Morrison - Brown Eyed Girl.txt"
+    "filename": "Van Morrison - Brown Eyed Girl.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "vetusta-morla-copenhague",
     "artist": "Vetusta Morla",
     "title": "Copenhague",
-    "filename": "Vetusta Morla - Copenhague.txt"
+    "filename": "Vetusta Morla - Copenhague.txt",
+    "sections": [
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "palm-mute",
+      "barre-chords"
+    ]
   },
   {
     "id": "vetusta-morla-de-junio",
     "artist": "Vetusta Morla",
     "title": "De Junio",
-    "filename": "Vetusta Morla - De Junio.txt"
+    "filename": "Vetusta Morla - De Junio.txt",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "vetusta-morla-finisterre",
     "artist": "Vetusta Morla",
     "title": "Finisterre",
-    "filename": "Vetusta Morla - Finisterre.txt"
+    "filename": "Vetusta Morla - Finisterre.txt",
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "vetusta-morla-maldita-dulzura",
     "artist": "Vetusta Morla",
     "title": "Maldita Dulzura",
-    "filename": "Vetusta Morla - Maldita Dulzura.txt"
+    "filename": "Vetusta Morla - Maldita Dulzura.txt",
+    "bpm": 126,
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ]
   },
   {
     "id": "yesterday-beatles-tabs-tablatures-lyrics-chords-guitar-bass-tab-power",
     "artist": "Yesterday",
     "title": "Beatles Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power",
-    "filename": "Yesterday - Beatles Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power.txt"
+    "filename": "Yesterday - Beatles Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power.txt",
+    "techniques": [
+      "tabs",
+      "strumming"
+    ]
   },
   {
     "id": "zenttricc-solo-quiero-bailar",

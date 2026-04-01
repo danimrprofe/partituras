@@ -7,6 +7,17 @@ document.addEventListener("DOMContentLoaded", () => {
     const songTitle = document.getElementById("songTitle");
     const songMeta = document.getElementById("songMeta");
     const songBody = document.getElementById("songBody");
+    const capoContainer = document.getElementById("capoContainer");
+    const songCapo = document.getElementById("songCapo");
+    const bpmContainer = document.getElementById("bpmContainer");
+    const songBpm = document.getElementById("songBpm");
+    const techniquesContainer = document.getElementById("techniquesContainer");
+    const songTechniques = document.getElementById("songTechniques");
+    const musicalInfoContainer = document.getElementById("musicalInfoContainer");
+    const keyContainer = document.getElementById("keyContainer");
+    const songKey = document.getElementById("songKey");
+    const timeSignatureContainer = document.getElementById("timeSignatureContainer");
+    const songTimeSignature = document.getElementById("songTimeSignature");
 
     const fontDown = document.getElementById("fontDown");
     const fontReset = document.getElementById("fontReset");
@@ -43,6 +54,17 @@ document.addEventListener("DOMContentLoaded", () => {
         !songMeta ||
         !songView ||
         !emptyState ||
+        !capoContainer ||
+        !songCapo ||
+        !bpmContainer ||
+        !songBpm ||
+        !techniquesContainer ||
+        !songTechniques ||
+        !musicalInfoContainer ||
+        !keyContainer ||
+        !songKey ||
+        !timeSignatureContainer ||
+        !songTimeSignature ||
         !fontDown ||
         !fontReset ||
         !fontUp ||
@@ -104,6 +126,22 @@ document.addEventListener("DOMContentLoaded", () => {
         5: "Sale muy bien"
     };
 
+    const TECHNIQUE_LABELS = {
+        "palm-mute": "Palm Mute",
+        "fingerpicking": "Fingerpicking",
+        "tabs": "Tabs",
+        "barre-chords": "Cejilla",
+        "strumming": "Rasgueos"
+    };
+
+    const TECHNIQUE_COLORS = {
+        "palm-mute": "#e2e8f0",
+        "fingerpicking": "#fce7f3",
+        "tabs": "#dcccff",
+        "barre-chords": "#fecaca",
+        "strumming": "#fef08a"
+    };
+
     const NOTE_TO_INDEX = {
         C: 0,
         "C#": 1,
@@ -130,6 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let songs = [];
     let activeSongId = "";
     let activeSongRawText = "";
+    let activeSongCapo = "";
     let transposeShift = 0;
     let autoscrollTimer = null;
     let fontSizeRem = 0.92;
@@ -147,6 +186,63 @@ document.addEventListener("DOMContentLoaded", () => {
             .toLowerCase()
             .normalize("NFD")
             .replace(/[\u0300-\u036f]/g, "");
+
+    function extractCapoInfo(rawText) {
+        if (!rawText) {
+            return { capo: "", cleanText: rawText };
+        }
+
+        const lines = rawText.split("\n");
+        let capoLine = "";
+        let capoLineIndex = -1;
+        const cleanLines = [];
+
+        lines.forEach((line, index) => {
+            const trimmed = line.trim().toUpperCase();
+            const hasCapoPrefix = trimmed.startsWith("CEJILLA/CAPO:") ||
+                                  trimmed.startsWith("CEJILLA:") ||
+                                  trimmed.startsWith("CAPO:");
+            const hasCapoKeyword = /\bcapo\s+[0-9]/i.test(line);
+
+            if ((hasCapoPrefix || hasCapoKeyword) && capoLineIndex === -1) {
+                capoLine = line.trim();
+                capoLineIndex = index;
+            } else if (index !== capoLineIndex) {
+                cleanLines.push(line);
+            }
+        });
+
+        let capoText = "";
+        if (capoLine) {
+            const match = capoLine.match(/(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(.+)/i) ||
+                          capoLine.match(/\bcapo\s+(.+?)(?:\s*$|\.|\||para)/i);
+            if (match) {
+                capoText = match[1].trim();
+            }
+        }
+
+        return {
+            capo: capoText,
+            cleanText: cleanLines.join("\n")
+        };
+    }
+
+    function highlightSections(text) {
+        if (!text) {
+            return text;
+        }
+
+        const lines = text.split("\n");
+        const sectionPattern = /^\s*(\[?(?:INTRO|VERSO|ESTROFA|ESTRIBILLO|PUENTE|BRIDGE|OUTRO)\]?)\s*$/i;
+
+        return lines.map((line) => {
+            if (sectionPattern.test(line)) {
+                const sectionName = line.trim();
+                return `\n>>> ${sectionName} <<<\n`;
+            }
+            return line;
+        }).join("\n");
+    }
 
     const fileUrl = (filename) => `partituras/${encodeURIComponent(filename)}`;
 
@@ -616,8 +712,35 @@ document.addEventListener("DOMContentLoaded", () => {
             .join("\n");
     }
 
+    function highlightSections(text) {
+        if (!text) {
+            return text;
+        }
+
+        const lines = text.split("\n");
+        const sectionPattern = /^\s*(\[?(?:INTRO|VERSO|ESTROFA|ESTRIBILLO|PUENTE|BRIDGE|OUTRO)\]?)\s*$/i;
+
+        return lines.map((line) => {
+            if (sectionPattern.test(line)) {
+                // Usar un marcador especial para identificar secciones después
+                const sectionName = line.trim();
+                return `|||SECTION_START|||${sectionName}|||SECTION_END|||`;
+            }
+            return line;
+        }).join("\n");
+    }
+
     function renderSongBody() {
-        songBody.textContent = applyTransposition(activeSongRawText);
+        const { cleanText } = extractCapoInfo(activeSongRawText);
+        const highlighted = highlightSections(cleanText);
+        const transposed = applyTransposition(highlighted);
+        
+        // Escapar HTML para seguridad, luego reemplazar marcadores con HTML
+        songBody.innerHTML = transposed
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/\|\|\|SECTION_START\|\|\|(.+?)\|\|\|SECTION_END\|\|\|/g, '<span class="song-section">$1</span>');
     }
 
     function hideSongPanel() {
@@ -627,6 +750,11 @@ document.addEventListener("DOMContentLoaded", () => {
         songTitle.textContent = "";
         songMeta.textContent = "";
         activeSongRawText = "";
+        activeSongCapo = "";
+        capoContainer.classList.add("d-none");
+        bpmContainer.classList.add("d-none");
+        techniquesContainer.classList.add("d-none");
+        musicalInfoContainer.classList.add("d-none");
         renderActiveSongProfile();
         stopAutoscroll();
     }
@@ -639,10 +767,67 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             activeSongRawText = await response.text();
+            const { capo } = extractCapoInfo(activeSongRawText);
+            activeSongCapo = capo;
             activeSongId = song.id;
 
             songTitle.textContent = song.title;
             songMeta.textContent = song.artist;
+            
+            // Mostrar u ocultar la cejilla
+            if (activeSongCapo) {
+                songCapo.textContent = `Cejilla: ${activeSongCapo}`;
+                capoContainer.classList.remove("d-none");
+            } else {
+                capoContainer.classList.add("d-none");
+            }
+            
+            // Mostrar BPM si existe
+            if (song.bpm) {
+                songBpm.textContent = `${song.bpm} BPM`;
+                bpmContainer.classList.remove("d-none");
+            } else {
+                bpmContainer.classList.add("d-none");
+            }
+            
+            // Mostrar técnicas si existen
+            if (song.techniques && song.techniques.length > 0) {
+                songTechniques.innerHTML = song.techniques
+                    .map((tech) => {
+                        const label = TECHNIQUE_LABELS[tech] || tech;
+                        const badgeClass = tech === "barre-chords" ? "text-bg-danger" : "text-bg-secondary";
+                        return `<span class="badge ${badgeClass}">${label}</span>`;
+                    })
+                    .join("");
+                techniquesContainer.classList.remove("d-none");
+            } else {
+                techniquesContainer.classList.add("d-none");
+            }
+            
+            // Mostrar Tonalidad y Compás
+            let hasMusicInfo = false;
+            if (song.key) {
+                songKey.textContent = song.key;
+                keyContainer.classList.remove("d-none");
+                hasMusicInfo = true;
+            } else {
+                keyContainer.classList.add("d-none");
+            }
+            
+            if (song.timeSignature) {
+                songTimeSignature.textContent = song.timeSignature;
+                timeSignatureContainer.classList.remove("d-none");
+                hasMusicInfo = true;
+            } else {
+                timeSignatureContainer.classList.add("d-none");
+            }
+            
+            if (hasMusicInfo) {
+                musicalInfoContainer.classList.remove("d-none");
+            } else {
+                musicalInfoContainer.classList.add("d-none");
+            }
+            
             renderSongBody();
             renderActiveSongProfile();
 

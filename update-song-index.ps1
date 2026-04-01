@@ -82,6 +82,135 @@ function Get-SongMetadata {
     }
 }
 
+function Get-SongBpm {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$FileContent
+    )
+
+    $bpmPattern = "(?i)(?:BPM|TEMPO)[\s:]*([0-9]+)"
+    $matches = [regex]::Matches($FileContent, $bpmPattern)
+    
+    if ($matches.Count -gt 0) {
+        return [int]$matches[0].Groups[1].Value
+    }
+    
+    return $null
+}
+
+function Get-SongSections {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$FileContent
+    )
+
+    $sections = [System.Collections.Generic.HashSet[string]]::new()
+    $sectionPattern = "(?i)^\s*(\[?(?:INTRO|VERSO|ESTROFA|ESTRIBILLO|PUENTE|BRIDGE|OUTRO)\]?)"
+    
+    $lines = $FileContent -split "`n"
+    foreach ($line in $lines) {
+        if ($line -match $sectionPattern) {
+            $match = $matches[1].ToUpper() -replace '[\[\]]', ''
+            [void]$sections.Add($match)
+        }
+    }
+    
+    return @($sections)
+}
+
+function Get-SongTechniques {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$FileContent
+    )
+
+    $techniques = [System.Collections.Generic.HashSet[string]]::new()
+    $contentUpper = $FileContent.ToUpper()
+    
+    $techniquePatterns = @{
+        "palm-mute" = "PALM\s+MUTE|PALM\s+MUTING|HINCHAPIÉ"
+        "fingerpicking" = "FINGERPICKING|FINGER\s+PICKING|ARPEGIOS"
+        "tabs" = "\[TAB\]|TAB:|TABS?(?:\s|:|$)|(?:^|\s)[0-2][-0-9]{3,}"
+        "barre-chords" = "CEJILLA|BARRE|BARRÉ"
+        "strumming" = "STRUMMING|RASGUEO|RASGUEOS"
+    }
+    
+    foreach ($technique in $techniquePatterns.Keys) {
+        if ($contentUpper -match $techniquePatterns[$technique]) {
+            [void]$techniques.Add($technique)
+        }
+    }
+    
+    return @($techniques)
+}
+
+function Get-SongKeyAndTimeFromTable {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$FileContent
+    )
+
+    $result = @{
+        key = $null
+        time = $null
+        bpm = $null
+    }
+    
+    $lines = $FileContent -split "`n"
+    for ($i = 0; $i -lt $lines.Count - 2; $i++) {
+        $currentLine = $lines[$i]
+        
+        # Buscar línea de encabezado con tabla markdown
+        if ($currentLine -match "^\|" -and $currentLine -match "Tonalidad" -and $currentLine -match "Compás") {
+            # Verificar siguiente línea sea separador
+            if ($i + 1 -lt $lines.Count -and $lines[$i + 1] -match "^\|.*-.*\|") {
+                # Leer línea de datos
+                if ($i + 2 -lt $lines.Count) {
+                    $headerLine = $currentLine
+                    $dataLine = $lines[$i + 2]
+                    
+                    # Parsear con split, eliminando espacios en blanco
+                    $headerRaw = $headerLine -split "\|" 
+                    $dataRaw = $dataLine -split "\|"
+                    
+                    # Filtrar celdas (eliminar primero y último que son vacío)
+                    $headers = @()
+                    $data = @()
+                    
+                    for ($j = 1; $j -lt $headerRaw.Count - 1; $j++) {
+                        $headers += $headerRaw[$j].Trim()
+                    }
+                    for ($j = 1; $j -lt $dataRaw.Count - 1; $j++) {
+                        $data += $dataRaw[$j].Trim()
+                    }
+                    
+                    # Mapear datos a headers
+                    for ($j = 0; $j -lt $headers.Count -and $j -lt $data.Count; $j++) {
+                        $header = $headers[$j]
+                        $value = $data[$j]
+                        
+                        if ($header -match "^Tonalidad" -and $value -and $value -ne "") {
+                            $result.key = $value
+                        }
+                        elseif ($header -match "^Tempo" -and $value -and $value -ne "") {
+                            if ($value -match "[0-9]+") {
+                                $result.bpm = [int]($value -replace "[^0-9]", "")
+                            }
+                        }
+                        elseif ($header -match "^Compás" -and $value -and $value -match "^\d+/\d+$") {
+                            $result.time = $value
+                        }
+                    }
+                    
+                    break
+                }
+            }
+        }
+    }
+    
+    return $result
+}
+
 function Normalize-LookupText {
     param(
         [string]$Value
@@ -291,7 +420,10 @@ $songsPath = Resolve-ProjectPath -Path $SongsDirectory -ProjectRoot $projectRoot
 $outputPath = Resolve-ProjectPath -Path $OutputFile -ProjectRoot $projectRoot
 $seedOutputPath = Resolve-ProjectPath -Path $SeedOutputFile -ProjectRoot $projectRoot
 
-$resolvedMetadataCsvPath = Resolve-ProjectPath -Path $MetadataCsvPath -ProjectRoot $projectRoot
+$resolvedMetadataCsvPath = ""
+if (-not [string]::IsNullOrWhiteSpace($MetadataCsvPath)) {
+    $resolvedMetadataCsvPath = Resolve-ProjectPath -Path $MetadataCsvPath -ProjectRoot $projectRoot
+}
 if ([string]::IsNullOrWhiteSpace($resolvedMetadataCsvPath)) {
     $defaultMetadataCsvPath = Join-Path $projectRoot "canciones.txt"
     if (Test-Path -LiteralPath $defaultMetadataCsvPath) {
@@ -308,6 +440,25 @@ $songs = Get-ChildItem -LiteralPath $songsPath -File -Filter "*.txt" |
     Sort-Object Name |
     ForEach-Object {
         $metadata = Get-SongMetadata -File $_
+        
+        try {
+            $fileContent = Get-Content -LiteralPath $_.FullName -Encoding UTF8 -Raw -ErrorAction Stop
+        } catch {
+            $fileContent = ""
+        }
+        
+        $bpm = if ($fileContent) { Get-SongBpm -FileContent $fileContent } else { $null }
+        $sections = if ($fileContent) { Get-SongSections -FileContent $fileContent } else { @() }
+        $techniques = if ($fileContent) { Get-SongTechniques -FileContent $fileContent } else { @() }
+        $tableData = if ($fileContent) { Get-SongKeyAndTimeFromTable -FileContent $fileContent } else { @{ key = $null; time = $null; bpm = $null } }
+        
+        # BPM desde tabla tiene prioridad, sino usa búsqueda de texto
+        if ($tableData.bpm) {
+            $bpm = $tableData.bpm
+        } elseif (-not $bpm -and $tableData.bpm) {
+            $bpm = $tableData.bpm
+        }
+        
         $baseId = New-Slug $metadata.BaseName
 
         if ([string]::IsNullOrWhiteSpace($baseId)) {
@@ -322,15 +473,37 @@ $songs = Get-ChildItem -LiteralPath $songsPath -File -Filter "*.txt" |
             $id = $baseId
         }
 
-        [pscustomobject]@{
+        $song = [pscustomobject]@{
             id = $id
             artist = $metadata.Artist
             title = $metadata.Title
             filename = $_.Name
         }
+        
+        if ($bpm) {
+            $song | Add-Member -NotePropertyName "bpm" -NotePropertyValue $bpm
+        }
+        
+        if ($sections -and $sections.Length -gt 0) {
+            $song | Add-Member -NotePropertyName "sections" -NotePropertyValue @($sections)
+        }
+        
+        if ($techniques -and $techniques.Length -gt 0) {
+            $song | Add-Member -NotePropertyName "techniques" -NotePropertyValue @($techniques)
+        }
+        
+        if ($tableData.key) {
+            $song | Add-Member -NotePropertyName "key" -NotePropertyValue $tableData.key
+        }
+        
+        if ($tableData.time) {
+            $song | Add-Member -NotePropertyName "timeSignature" -NotePropertyValue $tableData.time
+        }
+        
+        $song
     }
 
-$songs | ConvertTo-Json -Depth 3 | Set-Content -LiteralPath $outputPath -Encoding UTF8
+$songs | ConvertTo-Json -Depth 3 -AsArray | Set-Content -LiteralPath $outputPath -Encoding UTF8
 
 Write-Host "Indice actualizado: $($songs.Count) canciones -> $OutputFile"
 

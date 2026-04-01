@@ -148,6 +148,17 @@ body.app-body {
     overflow: auto;
 }
 
+.song-body .song-section {
+    display: block;
+    background: #f0f4f8;
+    margin: 0.5rem 0;
+    padding: 0.3rem 0.5rem;
+    border-left: 3px solid var(--accent);
+    border-radius: 0.3rem;
+    font-weight: 600;
+    color: var(--accent);
+}
+
 .song-profile {
     background: #fff9f2;
 }
@@ -212,6 +223,61 @@ body.app-body {
     letter-spacing: 0.08em;
     color: var(--accent);
     font-weight: 700;
+}
+
+#capoContainer {
+    flex-shrink: 0;
+}
+
+#songCapo {
+    font-weight: 700;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    padding: 0.5rem 0.9rem !important;
+}
+
+#bpmContainer {
+    flex-shrink: 0;
+}
+
+#songBpm {
+    font-weight: 700;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    padding: 0.5rem 0.9rem !important;
+}
+
+#techniquesContainer {
+    padding: 1rem;
+    background: #f8fafc;
+    border-left: 3px solid #3b82f6;
+    border-radius: 0.5rem;
+}
+
+#techniquesContainer p {
+    margin: 0 0 0.5rem 0;
+}
+
+#songTechniques .badge {
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+#musicalInfoContainer {
+    padding: 1rem;
+    background: #f0f9ff;
+    border-left: 3px solid #06b6d4;
+    border-radius: 0.5rem;
+}
+
+#musicalInfoContainer .col-auto {
+    margin-right: 2rem;
+}
+
+#musicalInfoContainer .text-muted {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #64748b !important;
 }
 
 .status-badges .badge {
