@@ -1,8 +1,84 @@
 {
-  "el-canto-del-loco-otra-vez": {
+  "3-doors-down-be-like-that": {
     "instruments": [],
-    "rating": 4,
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "D",
+      "G",
+      "Em",
+      "C",
+      "E",
+      "A",
+      "B"
+    ]
+  },
+  "3-doors-down-here-without-you": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "a-great-big-world-say-something": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "adam-levine-go-now": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
     "tuning": ""
+  },
+  "alannis-morrisset-ironic": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "D5/F",
+      "G5",
+      "Em",
+      "D",
+      "A",
+      "E",
+      "D6",
+      "G",
+      "B",
+      "F",
+      "C/E",
+      "D7",
+      "C",
+      "Cadd9",
+      "Dadd9"
+    ]
   },
   "astola-cojo-el-saco-y-me-retiro": {
     "instruments": [
@@ -11,12 +87,124 @@
     "rating": 4,
     "tuning": ""
   },
-  "adam-levine-go-now": {
+  "band-of-horses-the-funeral": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "G",
+      "C",
+      "F",
+      "Am",
+      "E",
+      "A",
+      "D",
+      "B"
+    ]
+  },
+  "ben-harper-walk-away": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "ben-kweller-ben-kweller": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "bon-iver-skinny-love": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "calum-scott-dancing-on-my-own": {
     "instruments": [
       "piano"
     ],
     "rating": 0,
-    "tuning": ""
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "D",
+      "C",
+      "G",
+      "Em",
+      "E",
+      "A",
+      "B"
+    ]
+  },
+  "cat-stevens-father-and-son": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "chayanne-lo-dejar-a-todo": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "chris-isaak-wicked-game": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
   },
   "coldplay-clocks": {
     "instruments": [
@@ -26,45 +214,6 @@
     "tuning": "",
     "capo": "",
     "bpm": "130",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "coldplay-fix-you": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "85",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "coldplay-yellow": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "83",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "coldplay-viva-la-vida": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "172",
     "key": "",
     "timeSignature": "",
     "techniques": [],
@@ -83,7 +232,7 @@
     "techniques": [],
     "chords": []
   },
-  "coldplay-scientist": {
+  "coldplay-fix-you": {
     "instruments": [
       "piano"
     ],
@@ -104,6 +253,208 @@
     "tuning": "",
     "capo": "",
     "bpm": "96",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "coldplay-scientist": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "85",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "coldplay-trouble": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "Em",
+      "G",
+      "Bm",
+      "A",
+      "F",
+      "Am",
+      "F#m7",
+      "Gm7",
+      "F#m",
+      "E",
+      "D",
+      "B"
+    ]
+  },
+  "coldplay-viva-la-vida": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "172",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "coldplay-yellow": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "83",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "countin-crows-a-long-december": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "A",
+      "F",
+      "Gm",
+      "C",
+      "E",
+      "D",
+      "G",
+      "B"
+    ]
+  },
+  "countin-crows-accidentally-in-love": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "countin-crows-colorblind": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "countin-crows-hard-candy": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "countin-crows-mr-jones": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "cristina-aguilera-cristina-aguilera": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "damien-rice-damien-rice": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "damien-rice-the-blower-s-daughter": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "death-cab-for-cutie-i-will-follow-you-into-the-dark": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "don-mclean-american-pie": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
     "key": "",
     "timeSignature": "",
     "techniques": [],
@@ -148,265 +499,36 @@
     "techniques": [],
     "chords": []
   },
-  "damien-rice-damien-rice": {
-    "instruments": [
-      "piano"
-    ],
+  "el-canto-del-loco-busco-la-vida": {
+    "instruments": [],
     "rating": 0,
-    "tuning": "",
+    "tuning": "medio-tono-abajo",
     "capo": "",
     "bpm": "",
     "key": "",
     "timeSignature": "",
     "techniques": [],
-    "chords": []
+    "chords": [
+      "D",
+      "G",
+      "Cadd9",
+      "Em7",
+      "C",
+      "Am",
+      "E",
+      "Eb",
+      "A",
+      "B",
+      "Ab",
+      "Db",
+      "Gb",
+      "Bb"
+    ]
   },
-  "damien-rice-the-blower-s-daughter": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "chayanne-lo-dejar-a-todo": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "a-great-big-world-say-something": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "cristina-aguilera-cristina-aguilera": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "chris-isaak-wicked-game": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "cat-stevens-father-and-son": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "bon-iver-skinny-love": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "ben-harper-walk-away": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "countin-crows-mr-jones": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "countin-crows-accidentally-in-love": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "countin-crows-colorblind": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "countin-crows-hard-candy": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "death-cab-for-cutie-i-will-follow-you-into-the-dark": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "don-mclean-american-pie": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "joaquin-sabina-pajaros-de-portugal": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "ben-kweller-ben-kweller": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "marea-barniz": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "marea-incandescente": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "3-doors-down-here-without-you": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
+  "el-canto-del-loco-otra-vez": {
+    "instruments": [],
+    "rating": 4,
+    "tuning": ""
   },
   "estopa-a-ninguna-parte": {
     "instruments": [
@@ -539,6 +661,623 @@
     "chords": []
   },
   "goo-goo-dolls-slide-by-the-goo-goo-dolls": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "joaquin-sabina-pajaros-de-portugal": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "leiva-a-ti-te-ocurre-algo": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-afuera-en-la-ciudad": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-amelie": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-animales": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-aproximacion": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-aunque-sea-un-rato": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-bajo-presion": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-blancos-fáciles": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-breaking-bad": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-caida-libre": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-cerca": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-ciencia-ficcion": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-ciencia-ficción": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-como-lo-tienes-tu": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-como-si-fueras-a-morir-mañana": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-costa-de-oaxaca": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-dejándose-caer": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-del-hueso-una-flor": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-diazepam": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-el-gigante-de-big-fish": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-el-polvo-de-los-dias-raros": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-el-ultimo-incendio": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-electricidad": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-eme": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-en-el-espacio": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-estrella-polar": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-expertos": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-extasis": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-feat-nina-de-juan-blancos-f-ciles": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "leiva-feat-nina-de-juan-blancos-fáciles": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-ft-silvana-estrada-peligrosamente-dark": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-gigante": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-godzilla": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-guerra-mundial": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-hermosa-taquicardia": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-histericos": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-hoy-no-me-encuentro": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-hoy-tus-ojos": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-iceberg": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-index": {
+    "tuning": "",
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "leiva-infinitos": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-la-estacion-eterna": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-la-estación-eterna": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-la-francesita": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-la-llamada": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-la-lluvia-en-los-zapatos": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-lady-madrid": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-las-cuentas": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-leiva": {
+    "tuning": "",
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0
+  },
+  "leiva-lobos": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-los-cantantes": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-maniobras-suicidas": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-medicina": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-mi-mejor-version": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-mi-pequeño-chernobyl": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-miedo": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-mirada-perdida": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-monstruos": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-no-te-preocupes-por-mi": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-nuclear": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-nunca-nadie": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-palomas": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-peligrosamente-dark": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-penaltis": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-pienso-en-aquella-tarde": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-polvora": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-premio-de-consolacion": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-princesas": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-si-quieres-bailamos": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-sin-titulo": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-sincericidio": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-stranger-things": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-stranger-things-sin-capo": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-superpoderes": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-terriblemente-cruel": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-todo": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-todo-lo-que-tu-quieras": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-todo-lo-que-tú-quieras": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-vertigo": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-vértigo": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-violento-amor": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "leiva-vis-a-vis": {
+    "tuning": "",
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0
+  },
+  "marea-barniz": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "marea-incandescente": {
     "instruments": [
       "guitarra-electrica"
     ],
@@ -693,177 +1432,5 @@
     "timeSignature": "",
     "techniques": [],
     "chords": []
-  },
-  "leiva-feat-nina-de-juan-blancos-f-ciles": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "3-doors-down-be-like-that": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "D",
-      "G",
-      "Em",
-      "C",
-      "E",
-      "A",
-      "B"
-    ]
-  },
-  "band-of-horses-the-funeral": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "G",
-      "C",
-      "F",
-      "Am",
-      "E",
-      "A",
-      "D",
-      "B"
-    ]
-  },
-  "calum-scott-dancing-on-my-own": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "D",
-      "C",
-      "G",
-      "Em",
-      "E",
-      "A",
-      "B"
-    ]
-  },
-  "coldplay-trouble": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "estandar",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "Em",
-      "G",
-      "Bm",
-      "A",
-      "F",
-      "Am",
-      "F#m7",
-      "Gm7",
-      "F#m",
-      "E",
-      "D",
-      "B"
-    ]
-  },
-  "countin-crows-a-long-december": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "A",
-      "F",
-      "Gm",
-      "C",
-      "E",
-      "D",
-      "G",
-      "B"
-    ]
-  },
-  "alannis-morrisset-ironic": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "D5/F",
-      "G5",
-      "Em",
-      "D",
-      "A",
-      "E",
-      "D6",
-      "G",
-      "B",
-      "F",
-      "C/E",
-      "D7",
-      "C",
-      "Cadd9",
-      "Dadd9"
-    ]
-  },
-  "el-canto-del-loco-busco-la-vida": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "D",
-      "G",
-      "Cadd9",
-      "Em7",
-      "C",
-      "Am",
-      "E",
-      "Eb",
-      "A",
-      "B",
-      "Ab",
-      "Db",
-      "Gb",
-      "Bb"
-    ]
   }
 }
