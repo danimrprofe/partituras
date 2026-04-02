@@ -1916,6 +1916,18 @@ document.addEventListener("DOMContentLoaded", () => {
             resetAllFilters();
         });
 
+        // Event listeners para botones de artistas frecuentes
+        document.querySelectorAll("[data-artist]").forEach((button) => {
+            button.addEventListener("click", () => {
+                const artist = button.dataset.artist;
+                searchInput.value = artist;
+                searchInput.focus();
+                const event = new Event("input", { bubbles: true });
+                searchInput.dispatchEvent(event);
+                saveSearchHistory(artist);
+            });
+        });
+
         instrumentFilter.addEventListener("change", (event) => {
             instrumentFilterValue = event.target.value;
             saveInstrumentFilter();
