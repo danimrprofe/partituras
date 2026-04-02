@@ -1081,6 +1081,27 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         }
 
+        if (capoFilterValue !== "all") {
+            const capoNum = profile.capo ? Number(profile.capo) : 0;
+            if (capoFilterValue === "sin-cejilla") {
+                if (capoNum !== 0) {
+                    return false;
+                }
+            } else if (capoFilterValue === "1-2") {
+                if (capoNum < 1 || capoNum > 2) {
+                    return false;
+                }
+            } else if (capoFilterValue === "3-plus") {
+                if (capoNum < 3) {
+                    return false;
+                }
+            } else if (capoFilterValue === "sin-definir") {
+                if (profile.capo !== "") {
+                    return false;
+                }
+            }
+        }
+
         if (!query) {
             return true;
         }
