@@ -89,6 +89,84 @@
       "B"
     ]
   },
+  "coldplay-clocks": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "130",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "coldplay-fix-you": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "85",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "coldplay-yellow": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "83",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "coldplay-viva-la-vida": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "172",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "coldplay-dont-panic": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "89",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "coldplay-scientist": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "85",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
   "coldplay-trouble": {
     "instruments": [
       "piano"
@@ -114,5 +192,161 @@
       "D",
       "B"
     ]
+  },
+  "coldplay-lost": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "96",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "ed-sheeran-perfect": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "94",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "ed-sheeran-photograph": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "97",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "ed-sheeran-thinking-out-loud": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "95",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "damien-rice-damien-rice": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "damien-rice-the-blower-s-daughter": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "chayanne-lo-dejar-a-todo": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "a-great-big-world-say-something": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "alannis-morrisset-ironic": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "cristina-aguilera-cristina-aguilera": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "chris-isaak-wicked-game": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "cat-stevens-father-and-son": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
   }
 }
