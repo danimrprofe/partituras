@@ -17,5 +17,102 @@
     ],
     "rating": 0,
     "tuning": ""
+  },
+  "leiva-feat-nina-de-juan-blancos-f-ciles": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "3-doors-down-be-like-that": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "D",
+      "G",
+      "Em",
+      "C",
+      "E",
+      "A",
+      "B"
+    ]
+  },
+  "band-of-horses-the-funeral": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "G",
+      "C",
+      "F",
+      "Am",
+      "E",
+      "A",
+      "D",
+      "B"
+    ]
+  },
+  "calum-scott-dancing-on-my-own": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "D",
+      "C",
+      "G",
+      "Em",
+      "E",
+      "A",
+      "B"
+    ]
+  },
+  "coldplay-trouble": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "Em",
+      "G",
+      "Bm",
+      "A",
+      "F",
+      "Am",
+      "F#m7",
+      "Gm7",
+      "F#m",
+      "E",
+      "D",
+      "B"
+    ]
   }
 }
