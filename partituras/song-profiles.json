@@ -18,77 +18,6 @@
     "rating": 0,
     "tuning": ""
   },
-  "leiva-feat-nina-de-juan-blancos-f-ciles": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "3-doors-down-be-like-that": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "D",
-      "G",
-      "Em",
-      "C",
-      "E",
-      "A",
-      "B"
-    ]
-  },
-  "band-of-horses-the-funeral": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "G",
-      "C",
-      "F",
-      "Am",
-      "E",
-      "A",
-      "D",
-      "B"
-    ]
-  },
-  "calum-scott-dancing-on-my-own": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "D",
-      "C",
-      "G",
-      "Em",
-      "E",
-      "A",
-      "B"
-    ]
-  },
   "coldplay-clocks": {
     "instruments": [
       "piano"
@@ -166,32 +95,6 @@
     "timeSignature": "",
     "techniques": [],
     "chords": []
-  },
-  "coldplay-trouble": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "estandar",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": [
-      "Em",
-      "G",
-      "Bm",
-      "A",
-      "F",
-      "Am",
-      "F#m7",
-      "Gm7",
-      "F#m",
-      "E",
-      "D",
-      "B"
-    ]
   },
   "coldplay-lost": {
     "instruments": [
@@ -297,19 +200,6 @@
     "techniques": [],
     "chords": []
   },
-  "alannis-morrisset-ironic": {
-    "instruments": [
-      "piano"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
   "cristina-aguilera-cristina-aguilera": {
     "instruments": [
       "piano"
@@ -376,19 +266,6 @@
     "chords": []
   },
   "countin-crows-mr-jones": {
-    "instruments": [
-      "guitarra-acustica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "countin-crows-a-long-december": {
     "instruments": [
       "guitarra-acustica"
     ],
@@ -506,19 +383,6 @@
     "chords": []
   },
   "marea-incandescente": {
-    "instruments": [
-      "guitarra-electrica"
-    ],
-    "rating": 0,
-    "tuning": "",
-    "capo": "",
-    "bpm": "",
-    "key": "",
-    "timeSignature": "",
-    "techniques": [],
-    "chords": []
-  },
-  "3-doors-down-be-like-that": {
     "instruments": [
       "guitarra-electrica"
     ],
@@ -829,5 +693,177 @@
     "timeSignature": "",
     "techniques": [],
     "chords": []
+  },
+  "leiva-feat-nina-de-juan-blancos-f-ciles": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "3-doors-down-be-like-that": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "D",
+      "G",
+      "Em",
+      "C",
+      "E",
+      "A",
+      "B"
+    ]
+  },
+  "band-of-horses-the-funeral": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "G",
+      "C",
+      "F",
+      "Am",
+      "E",
+      "A",
+      "D",
+      "B"
+    ]
+  },
+  "calum-scott-dancing-on-my-own": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "D",
+      "C",
+      "G",
+      "Em",
+      "E",
+      "A",
+      "B"
+    ]
+  },
+  "coldplay-trouble": {
+    "instruments": [
+      "piano"
+    ],
+    "rating": 0,
+    "tuning": "estandar",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "Em",
+      "G",
+      "Bm",
+      "A",
+      "F",
+      "Am",
+      "F#m7",
+      "Gm7",
+      "F#m",
+      "E",
+      "D",
+      "B"
+    ]
+  },
+  "countin-crows-a-long-december": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "A",
+      "F",
+      "Gm",
+      "C",
+      "E",
+      "D",
+      "G",
+      "B"
+    ]
+  },
+  "alannis-morrisset-ironic": {
+    "instruments": [
+      "guitarra-acustica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "D5/F",
+      "G5",
+      "Em",
+      "D",
+      "A",
+      "E",
+      "D6",
+      "G",
+      "B",
+      "F",
+      "C/E",
+      "D7",
+      "C",
+      "Cadd9",
+      "Dadd9"
+    ]
+  },
+  "el-canto-del-loco-busco-la-vida": {
+    "instruments": [],
+    "rating": 0,
+    "tuning": "medio-tono-abajo",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": [
+      "D",
+      "G",
+      "Cadd9",
+      "Em7",
+      "C",
+      "Am",
+      "E",
+      "Eb",
+      "A",
+      "B",
+      "Ab",
+      "Db",
+      "Gb",
+      "Bb"
+    ]
   }
 }
