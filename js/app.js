@@ -138,6 +138,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const INSTRUMENT_LABELS = {
         "sin-definir": "Sin definir",
         "guitarra-electrica": "Guitarra electrica",
+        "guitarra-acustica": "Guitarra acustica",
         piano: "Piano"
     };
 
@@ -359,10 +360,23 @@ document.addEventListener("DOMContentLoaded", () => {
     function normalizeProfileData(profile) {
         const normalizedProfile = profile && typeof profile === "object" ? profile : {};
         const rawTuning = normalizedProfile.tuning ?? "";
+        const capo = normalizedProfile.capo ?? "";
+        const bpm = normalizedProfile.bpm ?? "";
+        const key = normalizedProfile.key ?? "";
+        const timeSignature = normalizedProfile.timeSignature ?? "";
+        const techniques = Array.isArray(normalizedProfile.techniques) ? normalizedProfile.techniques.filter(Boolean) : [];
+        const chords = Array.isArray(normalizedProfile.chords) ? normalizedProfile.chords.filter(Boolean) : [];
+        
         return {
             instruments: normalizeInstrumentList(normalizedProfile.instruments ?? normalizedProfile.instrument),
             rating: Number.isInteger(normalizedProfile.rating) ? Math.max(0, Math.min(5, normalizedProfile.rating)) : 0,
-            tuning: Object.prototype.hasOwnProperty.call(TUNING_LABELS, rawTuning) ? rawTuning : ""
+            tuning: Object.prototype.hasOwnProperty.call(TUNING_LABELS, rawTuning) ? rawTuning : "",
+            capo: String(capo).trim(),
+            bpm: String(bpm).trim(),
+            key: String(key).trim(),
+            timeSignature: String(timeSignature).trim(),
+            techniques: techniques,
+            chords: chords
         };
     }
 
@@ -444,6 +458,11 @@ document.addEventListener("DOMContentLoaded", () => {
                     songProfiles[songId] = normalizeProfileData(profile);
                 });
                 saveSongProfiles();
+            }
+
+            // Mensaje informativo sobre nuevo formato
+            if (data.songProfiles && Object.keys(data.songProfiles).length > 0) {
+                console.log("Perfiles importados con soporte para: capo, BPM, técnicas, clave y compás");
             }
 
             // Restaurar favoritas
@@ -926,12 +945,30 @@ document.addEventListener("DOMContentLoaded", () => {
         return normalizeProfileData(seedSongProfiles[songId]);
     }
 
+    function saveSongProfileWithDetectedChords(songId, nextProfile) {
+        const currentSong = findSongById(songId);
+        const detectedChords = (currentSong && currentSong.detectedChords) ? currentSong.detectedChords : [];
+        
+        const profileToSave = {
+            ...nextProfile,
+            chords: nextProfile.chords || detectedChords
+        };
+        
+        saveSongProfile(songId, profileToSave);
+    }
+
     function saveSongProfile(songId, nextProfile) {
         const rawTuning = nextProfile.tuning ?? "";
         songProfiles[songId] = {
             instruments: normalizeInstrumentList(nextProfile.instruments),
             rating: Number.isInteger(nextProfile.rating) ? Math.max(0, Math.min(5, nextProfile.rating)) : 0,
-            tuning: Object.prototype.hasOwnProperty.call(TUNING_LABELS, rawTuning) ? rawTuning : ""
+            tuning: Object.prototype.hasOwnProperty.call(TUNING_LABELS, rawTuning) ? rawTuning : "",
+            capo: String(nextProfile.capo ?? "").trim(),
+            bpm: String(nextProfile.bpm ?? "").trim(),
+            key: String(nextProfile.key ?? "").trim(),
+            timeSignature: String(nextProfile.timeSignature ?? "").trim(),
+            techniques: Array.isArray(nextProfile.techniques) ? nextProfile.techniques.filter(Boolean) : [],
+            chords: Array.isArray(nextProfile.chords) ? nextProfile.chords.filter(Boolean) : []
         };
 
         saveSongProfiles();
@@ -981,9 +1018,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 const profile = getSongProfile(activeSongId);
                 const nextRating = profile.rating === value ? 0 : value;
-                saveSongProfile(activeSongId, {
+                saveSongProfileWithDetectedChords(activeSongId, {
                     instruments: profile.instruments,
-                    rating: nextRating
+                    rating: nextRating,
+                    tuning: profile.tuning,
+                    capo: profile.capo,
+                    bpm: profile.bpm,
+                    key: profile.key,
+                    timeSignature: profile.timeSignature,
+                    techniques: profile.techniques
                 });
                 renderActiveSongProfile();
                 renderSongList(searchInput.value);
@@ -1279,7 +1322,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const speed = Number(autoscrollSpeed.value);
         autoscrollTimer = window.setInterval(() => {
             songBody.scrollTop += speed;
-        }, 80);
+        }, 200);
 
         autoscrollToggle.textContent = "Parar";
         autoscrollToggle.classList.remove("btn-outline-secondary");
@@ -1906,9 +1949,15 @@ document.addEventListener("DOMContentLoaded", () => {
                 .filter((input) => input.checked)
                 .map((input) => input.value);
 
-            saveSongProfile(activeSongId, {
+            saveSongProfileWithDetectedChords(activeSongId, {
                 instruments,
-                rating: profile.rating
+                rating: profile.rating,
+                tuning: profile.tuning,
+                capo: profile.capo,
+                bpm: profile.bpm,
+                key: profile.key,
+                timeSignature: profile.timeSignature,
+                techniques: profile.techniques
             });
             renderActiveSongProfile();
             renderSongList(searchInput.value);
@@ -1920,10 +1969,15 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             const profile = getSongProfile(activeSongId);
-            saveSongProfile(activeSongId, {
+            saveSongProfileWithDetectedChords(activeSongId, {
                 instruments: profile.instruments,
                 rating: profile.rating,
-                tuning: songTuning.value
+                tuning: songTuning.value,
+                capo: profile.capo,
+                bpm: profile.bpm,
+                key: profile.key,
+                timeSignature: profile.timeSignature,
+                techniques: profile.techniques
             });
             renderSongList(searchInput.value);
         });
