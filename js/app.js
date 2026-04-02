@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", () => {
         sortDirection: "partituras:sort-direction"
     };
 
-    const SEED_PROFILES_URL = "partituras/song-profiles.seed.json";
+    const SEED_PROFILES_URL = "./partituras/song-profiles.seed.json";
 
     const INSTRUMENT_LABELS = {
         "sin-definir": "Sin definir",
@@ -324,7 +324,7 @@ document.addEventListener("DOMContentLoaded", () => {
         return `${path}${separator}${CACHE_BUSTER}`;
     };
 
-    const fileUrl = (filename) => withCacheBuster(`partituras/${encodeURIComponent(filename)}`);
+    const fileUrl = (filename) => withCacheBuster(`./partituras/${encodeURIComponent(filename)}`);
 
     function loadFavoriteIds() {
         try {
@@ -406,7 +406,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     async function loadSharedProfiles() {
         try {
-            const response = await fetch("partituras/song-profiles.json");
+            const response = await fetch("./partituras/song-profiles.json");
             if (response.ok) {
                 const data = await response.json();
                 if (data && typeof data === "object") {
@@ -1674,7 +1674,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     async function loadSongsIndex() {
-        const response = await fetch(withCacheBuster("partituras/index.json"));
+        const response = await fetch(withCacheBuster("./partituras/index.json"));
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}`);
         }
