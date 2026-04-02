@@ -491,5 +491,31 @@
     "timeSignature": "",
     "techniques": [],
     "chords": []
+  },
+  "marea-barniz": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
+  },
+  "marea-incandescente": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "rating": 0,
+    "tuning": "",
+    "capo": "",
+    "bpm": "",
+    "key": "",
+    "timeSignature": "",
+    "techniques": [],
+    "chords": []
   }
 }
