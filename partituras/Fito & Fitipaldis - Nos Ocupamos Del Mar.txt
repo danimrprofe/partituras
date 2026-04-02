@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: Fito & Fitipaldis
 CANCION: NOS OCUPAMOS DEL MAR
@@ -15,13 +15,13 @@ FITO & FITIPALDIS
 NOS OCUPAMOS DEL MAR
 Fito & Fitipaldis
 Capo 2
-[INTRO PIANO]
+INTRO
 G D
 G C
 Em D 
 C G/B Am G
  
-[INTRO GUITARS]
+INTRO
 G D
 G C
 Em D G

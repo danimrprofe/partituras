@@ -120,7 +120,7 @@ Sin palabras, Fuimos al mar y abrazamos el alba Nos olvidamos
                A/E            C#/F   F#m           E/G#
 de lo que nos falta. Hoy juraría que fue, La mejor noche de mi vida...
 
-[Outro]
+FINAL
 
 A    D     A/C#  D
 A/E  C#/F  F#m   E/G#

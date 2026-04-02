@@ -81,7 +81,7 @@ Si vienes y perdemos la cabeza
 Ab                 Eb
 y rompernos a quereeeeeeeeeer
 
-[Bridge]
+PUENTE
 
     Bbm    Ab      Eb
 Qué toooorpeee desliz

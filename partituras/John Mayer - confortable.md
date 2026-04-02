@@ -26,7 +26,7 @@ youThey throw me
 G/E  A/E  Bm/E
 High fives
 
-[Verse 4]
+ESTROFA 4
 
 D                     Daug/A#
 She says the Bible is all that she reads
@@ -37,7 +37,7 @@ Your mouth was
 G/E  A/E   Bm/E
 So    dir - ty
 
-[Bridge]
+PUENTE
 
 G          A
 Life of the party
@@ -48,7 +48,7 @@ But you could distinguish
            Bm/G#
 Miles from Coltrane
 
-[Chorus]
+ESTRIBILLO
 
 D
   Our love was
@@ -66,7 +66,7 @@ Fmaj7 Am7     Bm7   E7   G   Em7b5
 Bm7   E7   G   Em7b5
 say - ay - ay - ay
 
-[Verse 5]
+ESTROFA 5
 
 D                          Daug/A#
 She thinks I can't see the smile that she's faking
@@ -81,7 +81,7 @@ G  A/G  Bm/G
 A   Bm/A  A7
  So per - fect
 
-[Chorus]
+ESTRIBILLO
 
 D
   Our love was
@@ -99,7 +99,7 @@ Fmaj7 Am7   Bm7   E7
 Fmaj7 Am7      Bm7  E7   G   A7
   I    want you ba - aa - aa - ack
 
-[Outro]
+FINAL
 
 D   Daug/A#    D/A
 D   Daug/A#    D/A  D

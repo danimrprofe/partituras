@@ -1,7 +1,7 @@
 # El mundo
 
 <<<<<<< HEAD
-[Intro]
+INTRO
 ```
 =======
 ## El mundo
@@ -86,6 +86,6 @@ A                       B    C#m
 Quiero escapar de este mundo así
 
 
-[Outro]
+FINAL
 C#m E C#m E
 ```

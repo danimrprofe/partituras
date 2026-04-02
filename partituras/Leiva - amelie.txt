@@ -1,9 +1,3 @@
-# Amelie
-
-| Tonalidad | Tempo  | Compás | Capo |
-| --------- | ------ | ------ | ---- |
-| Si menor  | 85 bpm |        | 2    |
-
 ESTROFA
 ```
 Am              F                      C

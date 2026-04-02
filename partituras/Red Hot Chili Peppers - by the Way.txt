@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: Red Hot Chili Peppers
 CANCION: BY THE WAY
@@ -26,7 +26,7 @@ Dani the girl is singing songs to me
             Am
 Beneath the marquee, overload
  
-[Verse 1]***
+ESTROFA 1***
 Dm
 Steak knife
 Dm
@@ -63,7 +63,7 @@ F            C                Am        Bb
 By the way I tried to say I'd be there, waiting for
 Page 1/3
  
-[Verse 2]***
+ESTROFA 2***
 Dm
 Black jack
 Dm

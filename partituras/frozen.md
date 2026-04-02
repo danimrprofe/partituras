@@ -486,7 +486,7 @@ D#m         G#    D#m         G#
 Ooh ooh oh ooooh, Ooh ooh oh ooooh
 ```
 
-[Verse 1]
+ESTROFA 1
 ```
       D#m         D#m9    D#m
 Puedo oírte, déjalo
@@ -503,7 +503,7 @@ Ooh ooh oh ooooh (oh ooh)
 D#m         G#
 Ooh ooh oh ooooh oooh
 ```
-[Verse 2]
+ESTROFA 2
 ```
              D#
 No habla una voz, eres un ruido en mi interior
@@ -532,7 +532,7 @@ D#m         G#
 Ooh ooh oh ooooh
 ```
 
-[Verse 2]
+ESTROFA 2
 ```
              D#
 ¿Qué quieres tú? Ya no me dejas ni dormir

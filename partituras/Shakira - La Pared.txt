@@ -1,16 +1,4 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Shakira
-CANCIÓN: La pared
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-Cejilla: Sin cejilla
+﻿
 ESTROFA
 Am           G       Am         G
 Eres como una predicción de las buenas

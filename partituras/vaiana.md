@@ -26,7 +26,7 @@ Sólo quiero ser la hija perfecta, Pero regreso a la orilla,
 no hay nada que pueda hacer.
 ```
 
-[Bridge]
+PUENTE
 ```
       C#m                           B/D#
 Cada amanecer, cada sensación, Cada atardecer, al caer el sol,
@@ -48,7 +48,7 @@ Me llevará,
       Am6                         E
 Si me voy un mundo nuevo descubriré.
 ```
-[Bridge]
+PUENTE
 ```
 B C#m A
 ```
@@ -65,7 +65,7 @@ Tiene un sitio concreto,
              C#m/B  A
 Todos tienen su lugar.
 ```
-[Bridge]
+PUENTE
 ```
       C#m
 Puedo liberar, con fuerza y pasión,
@@ -302,7 +302,7 @@ Muy lejos navegaré –de nada (de nada)-,
 E7                            Am
 todo menos flotar puedo hacer yo.
 ```
-[Outro]
+FINAL
 ```
               F/C
 (De nada) De nada

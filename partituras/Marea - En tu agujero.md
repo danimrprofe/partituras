@@ -3,7 +3,7 @@ D C A# D C A# F
 D C A# D C A# F
 D C A# D C A# F
 
-[Verse 1]
+ESTROFA 1
  
 Dm                   C                     A#
 Me importa una mierda los labios que quieras bordar,
@@ -25,14 +25,14 @@ de apilarlos para sombrear
       C                  A#       F
 y anudarme desnudo en tus brazos,
  
-[Bridge]
+PUENTE
  
 Dm                      C                      A#
 que teja en las tejas la lluvia, que a mi me da igual,
       C             Dm         C                    A#     F
 más difícil para resbalar, más sencillo quedarme enredado,
  
-[Chorus]
+ESTRIBILLO
  
 Dm      A    G        C    
 después de pasar la noche en tu 
@@ -57,7 +57,7 @@ Dm C A# C
 Dm C A# F
  
  
-[Verse 2]
+ESTROFA 2
  
 Dm                   C                     A#
 no busque razones de piedra, no vas a encontrar
@@ -81,7 +81,7 @@ calendarios que tiran patrás,
      C                     A#       F
 tengo los dedos amarillentos
  
-[Bridge]
+PUENTE
  
 Dm                   C                     A#
 de buscar candela en la estela que haces al pasar,
@@ -91,7 +91,7 @@ de estañarme a tu enjambre y libar
 con el humo de mis pensamientos,
  
  
-[Chorus]
+ESTRIBILLO
  
 Dm      A    G        C    
 después de pasar la noche en tu 
@@ -112,7 +112,7 @@ pa cuando te enteras ya soy tu abanico,
      A#                    C              Am
 que me hice con varas del aire pa no molestar,
  
-[Verse 3]
+ESTROFA 3
  
 Dm                   C                     A#
 corté la garganta del gallo que quiso cantar
@@ -122,7 +122,7 @@ alboradas para celebrar
 que la noche se estaba muriendo,
 
  
-[Bridge]
+PUENTE
  
 Dm                   C                     A#
 que si no amanezco, me crezco, y me puedo tragar
@@ -132,7 +132,7 @@ cucharadas de la oscuridad
 de tus ojos,y así me alimento.
  
  
-[Chorus]
+ESTRIBILLO
  
 Dm      A    G        C    
 después de pasar la noche en tu 

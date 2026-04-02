@@ -1,10 +1,5 @@
 # Brave
 
-
-
-
-## Volaré
-
 - Artista: Russian Red
 - Álbum: Brave
 - Fecha de lanzamiento: 2012
@@ -88,7 +83,7 @@ Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
 Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
 ```
 
-[Outro]
+FINAL
 ```
 D   G   D    G
 D   G   D

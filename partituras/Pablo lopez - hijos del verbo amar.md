@@ -4,7 +4,7 @@
 # Hijos del verbo amar
 
 ```
-[Intro]
+INTRO
 =======
 ```
 **Intro**
@@ -44,7 +44,7 @@ Han incendiado la ropa, ya han aprendido a bailar la vida
 E                    B     C#      D#              G#m
 Que no les roben su libertad, son hijos del verbo amar
 
-[Solo]
+SOLO
 
 G#m E C#   x2
 
@@ -84,7 +84,7 @@ Han incendiado la ropa, ya han aprendido a bailar la vida
 E                    B    C#       D#               C#
 Que no les roben su libertad, son hijos del verbo amar
 
-[Solo]
+SOLO
 
 C#   G#m   B   F#
 A   G#m   G#m/D#   D#

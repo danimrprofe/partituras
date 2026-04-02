@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: Goo Goo Dolls
 CANCION: SLIDE BY THE GOO GOO DOLLS
@@ -37,7 +37,7 @@ guess you should opt for my version.
  
  
  
-[INTRO]                                     2x
+INTRO                                     2x
 e||-----------------------------------------||
 B||*-----3--------3----------3-------3---3-*||
 G||----0---0----0---0------0---0---0--------||
@@ -69,7 +69,7 @@ Em                       D
 *Riff 1                                             G------0---0-----0------|
   I won't say anything at all.                      D--0H2-----------2------|
                                                     A------------2---3------|
-[CHORUS 1]                                          E-----------------------|
+ESTRIBILLO                                          E-----------------------|
      D             C9   G   C9   G   C9   G    D
   So why don't you slide.
        (D)               C9   G   C9   G   C9  G   D
@@ -124,7 +124,7 @@ C9 (pause)
   Oh May, do you wanna get married or run away?
  
  
-[INSTRUMENTAL :]
+SOLO
      C9- G- C9- G- C9- G- D--
  
       C9         G              C9               G

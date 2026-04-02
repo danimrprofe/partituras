@@ -41,7 +41,7 @@ They'll be damn proud of me. I'll carry this flag, to the grave if I must
 **Estrofa**
 ```
 
-[Verse 3]
+ESTROFA 3
 I kicked in the door
 C
  I yelled my commands
@@ -57,7 +57,7 @@ C                        G
 They took off his clothes
 
 
-[Verse 4]
+ESTROFA 4
 C                   Em                    Fmaj7                   C
  They pissed in his hands, I told them to stop, but then I joined in
                  Fmaj7                       C                   G
@@ -93,7 +93,7 @@ Fadd11               C
 And I fired away
 
 
-[Verse 6]
+ESTROFA 6
               C
 And the shells jumped through the smoke
 Em

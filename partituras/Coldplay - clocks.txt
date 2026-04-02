@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: Coldplay
 CANCION: CLOCKS2
@@ -31,7 +31,7 @@ D                 Am                            Em
 D              Am                             Em
   Trouble that can't be named, tigers waiting to be tamed - singing
 
-[Hook]
+ESTRIBILLO
 (Piano Riff)
 D      Am      Am      Em      D      Am      Am      Em
      You              are           You              are
@@ -49,7 +49,7 @@ D           Am                             Em
 D        Am                             Em
   A part of the cure, or am I a part of the disease? - singing
 
-[Hook]
+ESTRIBILLO
 (w/Piano Riff)
 D      Am      Am      Em      D      Am      Am      Em
      You              are           You              are
@@ -71,7 +71,7 @@ Fmaj7                  C     G
 Fmaj7                  C     G    Fmaj7
       And nothing else compares
 
-[Hook]
+ESTRIBILLO
 (Piano Riff)
 D  Am  Am  Em  x2
 

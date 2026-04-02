@@ -10,12 +10,12 @@ Cmaj7   x3200(0)
 Generally don't play the high e string.
  
  
-[Intro]
+INTRO
  
 G   G5/F#   Em   Cmaj7   x2
  
  
-[Verse 1]
+ESTROFA 1
  
 G               G5/F#
   The dawn is breaking
@@ -27,7 +27,7 @@ G                G5/F#          Em            Cmaj7
 Yeah
  
  
-[Verse 2]
+ESTROFA 2
  
 G               G5/F#
   I'm open, you're closed
@@ -37,7 +37,7 @@ G         G5/F#             Em   Cmaj7
   I worry I won't see your face light up again
  
  
-[Chorus]
+ESTRIBILLO
  
           G                  G5/F#
 Even the best fall down sometimes
@@ -49,7 +49,7 @@ Out of the doubt that fills my mind
 I somehow find you and I collide
  
  
-[Verse 3]
+ESTROFA 3
  
 G              G5/F#
   I'm quiet you know
@@ -59,7 +59,7 @@ G                 G5/F#              Em             Cmaj7
   I've found I'm scared to know I'm always on your mind
  
  
-[Chorus]
+ESTRIBILLO
  
           G                  G5/F#
 Even the best fall down sometimes
@@ -71,7 +71,7 @@ Out of the back you fall in time
 I somehow find you and I collide
  
  
-[Bridge]
+PUENTE
  
 Em  C  D
           Don't stop here
@@ -83,7 +83,7 @@ Em  C  D                G   G5/F#   Em   Cmaj7
 G   G5/F#   Em   Cmaj7
  
  
-[Chorus]
+ESTRIBILLO
  
           G                  G5/F#
 Even the best fall down sometimes
@@ -95,7 +95,7 @@ Out of the doubt that fills your mind
 You finally find you and I collide
  
  
-[Outro]
+FINAL
  
       Em          Cmaj7       G     G5/F#
 You finally find you and I collide

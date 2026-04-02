@@ -1,8 +1,8 @@
-[Intro]
+INTRO
 F#m D F#m E x2
 D#m B F# C# x2
  
-[Verse]
+ESTROFA
 F#m                   D
 Todavía estoy mal cosido,
 F#m                E
@@ -30,7 +30,7 @@ Donde nunca pienso si me kieres
                               C#
 Donde todo es mentira, y en giros de penas desconchan paredes...
  
-[Chorus]
+ESTRIBILLO
 B    C#    D#m
 Duerme conmigo,
          B
@@ -45,7 +45,7 @@ yo te canto, te arrullo, te arropo,
              D#m
 te abrigo te mimo
  
-[Verse]
+ESTROFA
 F#m                   D
 Sé que me cuentan los días
 F#m                E
@@ -73,7 +73,7 @@ embrear mi camino con lodo y cagandome en todo
       C#
 volar y ya ves despierto como me acoste
  
-[Chorus]
+ESTRIBILLO
 B    C#    D#m
 Duerme conmigo,
          B
@@ -88,11 +88,11 @@ yo te canto, te arrullo, te arropo,
              D#m
 te abrigo te mimo
  
-[Solo]
+SOLO
 F#m D F#m E x2
 D#m B G#m C x4
  
-[Verse]
+ESTROFA
 F#m            D  F#m                     E
 Y me mira de reojo cuando cree que no la miro,
 F#m            D                      F#m                     E
@@ -102,10 +102,10 @@ Que su mirada es un tiro de sal al que ose chorar en el bosque frutal
            D            F#m                    E
 De su libertad, de mi soledad, de nuestro vendaval.
  
-[Solo]
+SOLO
 D#m B G#m C# x2
  
-[Chorus]
+ESTRIBILLO
 B    C#    D#m
 Duerme conmigo,
          B

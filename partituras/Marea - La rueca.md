@@ -19,7 +19,7 @@ B G                   D                 A
 B G                   D                 A     
      Se cansó de esperar a su sueño despierto.
  
-[Chorus]
+ESTRIBILLO
  
 G                     A
 ¿mi sueño donde está?, durmiendo la tajá
@@ -41,7 +41,7 @@ B A G
 B
 
 
-[Verse 2]
+ESTROFA 2
  
 Bm                
 La boca se cansó de lengua de madera
@@ -56,7 +56,7 @@ B G                   D                 A
 B G                   D                 A    
    Las mañanas de hablarnos con el papo lleno.
  
-[Chorus]
+ESTRIBILLO
  
 G                     A
 ¿mi sueño donde está?, durmiendo la tajá
@@ -80,7 +80,7 @@ B G D A
 
 F C G F
 
-[Verse 3]
+ESTROFA 3
  
 F 
 Y si me canso de vender los perdigones
@@ -98,7 +98,7 @@ Que me cambian la cara a su vez
  
 B A G A
 
-[Chorus]
+ESTRIBILLO
  
 G                     A
 ¿mi sueño donde está?, durmiendo la tajá

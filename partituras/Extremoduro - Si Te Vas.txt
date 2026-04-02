@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: Extremoduro
 CANCION: SI TE VAS
@@ -196,7 +196,7 @@ Que este bar
    Dm         C              Bb      C
 Está cansado ya de despedidas...Uh, de despedidas
  
-[Solo as in intro]
+SOLO
      F     Gm7   C              F     Gm7   C                    F Gm7  C 
 E|--1--1--3--3--------5--------1--1--3--3--------5-------5--5---3--3------
 B|--1--1--3--3--5--6-----8-----1--1--3--3--5--6-----8----6--6---3--3---5--
@@ -247,7 +247,7 @@ Que este bar
    Dm         C              Bb    C             C A7 D
 Está cansado ya de despedidas..,uh, de despedidas
  
-[Chorus] Tone Change
+ESTRIBILLO Tone Change
  
 G     D
 Quédate

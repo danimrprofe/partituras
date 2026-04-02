@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: Red Hot Chili Peppers
 CANCION: DANI CALIFORNIA
@@ -127,7 +127,7 @@ California, show your teeth,
       G  F          C        | Dm |
 She's my priestess, I'm your priest, yeah, yeah
  
-[Outro Solo]
+FINAL
 | F C | Dm G | F C | Dm G |
 | F C | Dm G | F C | Dm G |
 | Dm  |

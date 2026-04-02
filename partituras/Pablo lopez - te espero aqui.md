@@ -133,7 +133,7 @@ Vuelve, yo te espero aqui...
 B       C#        F#
 yo te espero aqui...
 
-[Outro] (Arpegiar)
+FINAL (Arpegiar)
 F# Bm/D
 F# Bm/D
 ```

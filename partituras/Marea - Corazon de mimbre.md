@@ -1,10 +1,10 @@
-[Intro]
+INTRO
 
 Am    F     G     Em
 F     G     Am
 
 
-[Verse 1]
+ESTROFA 1
 
           Am           F         G                 Em
 Quieto parao, no te arrimes ya son demasiados abriles
@@ -48,7 +48,7 @@ Pero se asustó
 que se encabrita cuando oye tu voz el muy cabrón...
 
 
-[Chorus]
+ESTRIBILLO
 F     G          C         D            
 ¿Qué coño le pasará que ya no sale 
    F               G           C           D         
@@ -64,7 +64,7 @@ Am  C D
 Am  C D
 
 
-[Verse 2]
+ESTROFA 2
 
          Am
 Y me enamoró, ya ves
@@ -79,7 +79,7 @@ Nos queremos más que nadie pá que no corra ni el aire entre tú y yo
     C                          D
 sentí que me iba faltandoel calor y digo yo...
 
-[Chorus]
+ESTRIBILLO
 
 F     G          C         D            
 ¿Qué coño le pasará que ya no sale 
@@ -107,7 +107,7 @@ que se dobla antes que partirse, que
     Am    C          D      F G
 partirse.......  que partirse
 
-[Solo]
+SOLO
 
 Am  C D
 Am  C D
@@ -119,7 +119,7 @@ F G C D
 F G C D
 F G C D
 
-[Verse 3]
+ESTROFA 3
 
      Am          C                     D     
 Amaneció. La vi irse sonriendo con lo puesto por la puerta 
@@ -131,7 +131,7 @@ Porque decidió Que ya estaba hasta las tetas de poetas de bragueta
 y revolcón, de trovadores de contenedooorr!
 
 
-[Chorus]
+ESTRIBILLO
 
 F     G          C         D            F
 ¿Qué coño le pasará que ya no sale a volar?

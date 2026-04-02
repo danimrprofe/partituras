@@ -1,8 +1,8 @@
-[Intro]
+INTRO
 A5 C5 G5
 A5 C5 G5
  
-[Verse 1]
+ESTROFA 1
 A5                  F5
 Me envalentono y te digo,
      G5                    A5         C5
@@ -18,7 +18,7 @@ con un ojo abierto y el otro entornao,
             F5               G5                 A5
 pa ver si caemos mis penas y yo en algún descampao
  
-[Chorus]
+ESTRIBILLO
                      A5 C5
 y me encaramo como puedo,
                         A5 F5
@@ -28,7 +28,7 @@ en cuanto le dije 'te quiero',
              C5          D5       E5
 ya estaba roncando, soñando de nuevo,
  
-[Verse 2]
+ESTROFA 2
  A5                    F5
 me encorajino y decido,
 G5                                  A5          C5
@@ -48,7 +48,7 @@ ella me cierra la puerta, a cualquier cosa
 C5          A5
 le llaman poeta,
  
-[Chorus]
+ESTRIBILLO
                            A5 C5
 si es cierto mejor me despido,
                         A5 F5
@@ -58,13 +58,13 @@ me acuna y dice que se ha ido
              C5          D5       E5
 para que no sufra, que duerma tranquilo,
  
-[Solo]
+SOLO
 A5 F5 G5  A5 C5
 A5 F5 G5  A5 C5
 A5 C5 G5
 A5 C5 G5
  
-[Verse 3]
+ESTROFA 3
 A5                  F5
 Me envalentono y te digo,
      G5                    A5         C5
@@ -80,7 +80,7 @@ con un ojo abierto y el otro entornao,
             F5               G5                 A5
 pa ver si caemos mis penas y yo en algún descampao
  
-[Chorus]
+ESTRIBILLO
                      A5 C5
 y me encaramo como puedo,
                         A5 F5
@@ -90,10 +90,10 @@ en cuanto le dije 'te quiero',
              C5          D5       E5
 ya estaba roncando, soñando de nuevo,
  
-[Solo]
+SOLO
 A5 F5 G5 C5
  
-[Bridge]
+PUENTE
 A5                               F5
 no quiero tu amor temporero tu flujo de hiel tus ganas de perder
        G5                                    C5
@@ -111,7 +111,7 @@ porque se que me acecha el dia y el sol pa follarme la cara de perro
    G5                                C5
 decirme lo que vas a hacer con tu mierda de poema sin su olor sin su piel
  
-[Outro]
+FINAL
 A5        F5
 Ordeñaré las ubres de la luna y en cuanto amanezca
 G5                             C5            D5

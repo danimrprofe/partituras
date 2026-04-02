@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: QUIQUE GONZALEZ
 CANCIÓN: DE HABERLO SABIDO
@@ -65,8 +65,7 @@ Em7   B7/E   Em*    B7/E G
 
 [Cejilla en el segundo traste]
 
-[Intro. Es un patrón que se repite 4 veces cambiando detalles
-y, en la última, el acorde]
+INTRO
 
 
    Em7add9                   D7/E

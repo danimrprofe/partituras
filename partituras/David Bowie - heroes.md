@@ -4,11 +4,11 @@ Heroes chords
 David Bowie  1977 (Heroes)  *'this version'
 
 ```
-[Intro]
+INTRO
 
 D  G  D  G
 
-[Verse]
+ESTROFA
 
 D                    G
 I - I wish you could swim
@@ -21,11 +21,11 @@ We can beat them  forever and ever
              C     G             D
 Oh we can be Heroes just for one day
 
-[Instrumental]
+SOLO
 
 D  G  D  G
 
-[Verse]
+ESTROFA
 
 D             G
 I - I will be King
@@ -38,7 +38,7 @@ We can be Heroes - just for one day
           C  G              D
 We can be us - just for one day
 
-[Verse]
+ESTROFA
 
 D           G
 I - I can remember (I remember)
@@ -49,7 +49,7 @@ And the guards shot above our heads (Over our heads)
        D                              G
 And we kissed as though nothing would fall (Nothing could fall)
 
-[Bridge]
+PUENTE
 
         C                D
 And the shame was on the other side
@@ -58,11 +58,11 @@ Oh we can beat them forever and ever
                C      G             D
 Then we can be Heroes  just for one day
 
-[Instrumental]
+SOLO
 
 D  G  D  G
 
-[Outro]
+FINAL
 
 D         G      D
 We can be Heroes

@@ -2,7 +2,7 @@
 
 ```
 Tuning: E A D G B EKey: AmCapo: no capo
-[Intro]
+INTRO
  
 Am F Dm G
           Sha la la la la        
@@ -10,7 +10,7 @@ Am             F   G
 la la                 uh huh...
  
  
-[Verse 1]
+ESTROFA 1
 Am                     F         Dm               G
  I was down at the New Amsterdam  staring at this yellow-haired girl
     Am                       F                G
@@ -34,7 +34,7 @@ Am           F   Dm                  G
 'Cause I want to be someone who believes, yeah
  
  
-[Chorus 1]
+ESTRIBILLO
 C    F           G
  Mr. Jones and me, tell each other fairy tales
     C                          F
@@ -46,7 +46,7 @@ Smiling in the bright lights, coming through in stereo
      C              F    G
 When everybody loves you, you can never be lonely
  
-[Verse 2]
+ESTROFA 2
  
       Am              F       Dm                G
 Well, I will paint my picture.  Paint myself in blue and red and black and 
@@ -59,7 +59,7 @@ Am           F             G
  If I knew Picasso I would buy myself a gray guitar and play
  
  
-[Chorus 2]
+ESTRIBILLO
  
 C    F            G
  Mr. Jones and me, look into the future
@@ -72,7 +72,7 @@ Standing in the spotlight, I bought myself a gray guitar
      C           F       G                        Am
 When everybody lo-ves me,  I will never be lo-one-ly
  
-[Bridge]
+PUENTE
                 Fmaj7
 I will never be lonely
           Am              G
@@ -87,7 +87,7 @@ Am                       F
 And I want to be someone to believe, to believe, to believe.
  
  
-[Chorus 3]
+ESTRIBILLO
  
 C    F            G
  Mr. Jones and me, stumbling through the barrio

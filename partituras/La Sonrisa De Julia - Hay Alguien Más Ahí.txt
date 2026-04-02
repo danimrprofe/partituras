@@ -1,19 +1,4 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LA SONRISA DE JULIA
-CANCIÓN: HAY ALGUIEN MÁS AHÍ
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Sin cejilla
-COMPÁS: 4/4
-NOTAS ADICIONALES: Mantener un rasgueo constante para el estilo pop/rock.
-================================================================================
+ESTROFA
 F       G          F       G               
 Puedo llegar hasta ti, si cierro los ojos  
    F         G         F       G       

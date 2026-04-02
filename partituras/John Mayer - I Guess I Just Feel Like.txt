@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: John Mayer
 CANCION: I GUESS I JUST FEEL LIKE
@@ -87,7 +87,7 @@ A D/A A D/A
 A D/A A D/A
  
  
-[Outro (Fade Out)]
+FINAL
 A D/A A D/A
 A D/A A D/A
 

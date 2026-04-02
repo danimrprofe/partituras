@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: Ed Sheeran
 CANCION: IM A MESS
@@ -37,7 +37,7 @@ Going through the motions
 F               G
 Going through us
 
-[Pre-Hook]
+PRE-ESTRIBILLO
     F                                C
 And oh I've known it for the longest time
               G            F
@@ -48,7 +48,7 @@ Are all over written on the signs
 But you're on my road walking me home
 Home, home
 
-[Hook]
+ESTRIBILLO
 Am                         G
   See the flames inside my eyes
             F                        C        Am
@@ -78,7 +78,7 @@ We're going through the motions
 F            G
 Hopin' you'd stop
 
-[Pre-Hook 2]
+PRE-ESTRIBILLO
     F
 And oh I've only caused you pain
   C                  G
@@ -91,7 +91,7 @@ Although all the lie we spoke
 When you're on my road walking me home
 Home, home, home
 
-[Hook]
+ESTRIBILLO
 Am                         G
   See the flames inside my eyes
             F                        C        Am

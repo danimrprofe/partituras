@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: Desconocido
 CANCION: LENNY KRAVITZ -
@@ -57,7 +57,7 @@ And if that day comes, I know we could win
 I wonder if I’ll ever see you again
  
  
-[Bridge] (a cappella)
+PUENTE (a cappella)
 Am
 (Through time)
 I’ve always known
@@ -74,10 +74,10 @@ SOLO
 Asus2   F#m11
 E    D
  
-[Chorus] (2x)
+ESTRIBILLO (2x)
  
  
-[Outro] (2x)
+FINAL (2x)
 A   A7            D         Dm
 I wonder if I’ll ever see you again
  

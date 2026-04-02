@@ -36,7 +36,7 @@ Deja el equipaje en la ribera Y quémalo.
 Dm E Am (x4)
 
 
-[Verse 2]
+ESTROFA 2
               Dm      E        Am
 Haz que este baile merezca la pena
              Dm        E      Am

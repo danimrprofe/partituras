@@ -1,11 +1,3 @@
-# Éxtasis
-
-**Información**
-
-| Tonalidad | Tempo | Compás | Capo |
-| --------- | ----- | ------ | ---- |
-| Sol Mayor | X bpm | 4/4    | No   |
-
 INTRO
 ```
 G  G  D  C  G

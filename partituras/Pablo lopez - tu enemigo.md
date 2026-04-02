@@ -90,7 +90,7 @@ Olvidaron que el hombre no es más que un hombre
     A#                   F           D7                        Gm
 Que tus manos son mi bandera y que tengo de frontera una canción
 
-[Outro]
+FINAL
  D#       F           Gm
 She le le le le le ...  una canción
  D#       F      Gm

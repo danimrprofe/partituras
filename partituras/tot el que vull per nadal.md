@@ -5,79 +5,47 @@
 |           | Estándar  | 4/4    | 4    |
 
 ```
-G
-no vull massa aquest nadal
-G/B
-una cosa em falta a mi
-C
-no m'importen els regals
-Cm
-sota l'arbre de nadal
+G                           G/B
+no vull massa aquest nadal una cosa em falta a mi
+C                         Cm
+no m'importen els regals sota l'arbre de nadal
 
-G/B             B7
-sols amb tu al meu costat
-Em           Cm
-mai podras imaginar
-G/D
-el meu desig ets tu
-Am7             Am/D       G
-el que vull per nadal ets tu
+G/B             B7        Em           Cm
+sols amb tu al meu costat mai podras imaginar
+G/D                  Am7             Am/D       G
+el meu desig ets tu el que vull per nadal ets tu
 
-G Em C D
+[G Em C D]
 
-G
-no vull massa aquest nadal
-G/B
-que podre necessitar
-C
-no m'importen els regals
-Cm
-sota l'arbre els trobaran
+G                           G/B
+no vull massa aquest nadal que podre necessitar
+C                         Cm
+no m'importen els regals sota l'arbre els trobaran
 
-G
-les figures del pesebre
-G/B
-fan posar de llurament
-C
-santa claus no em fara riure
-Cm
-si em regala un juguet
+G                       G/B
+les figures del pesebre fan posar de llurament
+C                            Cm
+santa claus no em fara riure si em regala un juguet
 
-G/B             B7
-sols amb tu al meu costat
-Em               Cm
-mai t'ho hauràs imaginat
-G/D              E7
-el meu desig ets tu
-Am7             Am/D       G
-el que vull per nadal ets tu
+G/B             B7        Em           Cm
+sols amb tu al meu costat mai t'ho hauràs imaginat
+G/D              E7           Am7             Am/D       G
+el meu desig ets tu el que vull per nadal ets tu
 
-G Em C D
+[G Em C D]
 
-G
-no demano masses coses
-G/B
-ni que nevi vull tan sols
-C
-seguire sempre esperante
-Cm
-sota el vesc de la bona sort
-s
-G
-no escriure una llista apart
-G/B
-enviarla al pol nord
-C
-no estare la nit desperta
-Cm
-per sentir els picarols
+G                              G/B
+no demano masses coses ni que nevi vull tan sols
+C                          Cm
+seguire sempre esperante sota el vesc de la bona sort
 
-G/B             B7
-tu i jo junts aquesta nit
-Em               Cm
-abraçant-nos infinit
-G/D              E7
-no hi ha res millor, si
-Am7             Am/D       G
-si el que vull per nadal ets tuu
+G                              G/B
+no escriure una llista apart enviarla al pol nord
+C                              Cm
+no estare la nit desperta per sentir els picarols
+
+G/B             B7        Em           Cm
+tu i jo junts aquesta nit abraçant-nos infinit
+G/D              E7           Am7             Am/D       G
+no hi ha res millor, si si el que vull per nadal ets tu
 ```

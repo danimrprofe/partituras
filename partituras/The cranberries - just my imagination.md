@@ -2,10 +2,10 @@
 
 ```
 Tuning: E A D G B EKey: GCapo: 3rd fret
-[Intro]
+INTRO
 G    D    Am    Em  D
  
-[Verse]
+ESTROFA
 G                           D
 There was a game we used to play
          Am
@@ -19,7 +19,7 @@ We were living for the love we had and
 Em               D
 Living not for reality
  
-[Chorus]
+ESTRIBILLO
         G
 It was just my imagination
         D
@@ -40,7 +40,7 @@ It was
  
 G    D    Am    Em  D
  
-[Verse]
+ESTROFA
 G                          D
 There was a time I used to pray
        Am
@@ -54,7 +54,7 @@ I've always put my cards upon the table
        Em                     D
 Let it never be said that I'd be unstable
  
-[Chorus]
+ESTRIBILLO
         G
 It was just my imagination
         D
@@ -73,7 +73,7 @@ It was just my imagination
 Em  D
 It was
  
-[Verse]
+ESTROFA
 G                         D
 There is a game I like to play
           Am
@@ -87,7 +87,7 @@ We will be living for the love we have
 Em               D
 Living not for reality
  
-[Chorus]
+ESTRIBILLO
       G
 It's not my imagination
       D

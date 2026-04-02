@@ -1,4 +1,4 @@
-﻿# PARTITURA v1
+# PARTITURA v1
 ================================================================================
 ARTISTA: Incubus
 CANCION: LOVE HURTS
@@ -90,7 +90,7 @@ Love sings when it transcends the bad things
 Have a heart and try me cause without love I won't survive
  
  
-[Instrumental Break]
+SOLO
  
  
 Chorus 3:

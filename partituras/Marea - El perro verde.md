@@ -1,10 +1,10 @@
-º[Intro]
+ºINTRO
 B
 G5 A5 B5
 G5 A5 B5
 G5 A5 B5
  
-[Verse]
+ESTROFA
 G5            A5      B5
 Ayer puse el sol a remojo,
 G5              A5      B5
@@ -26,11 +26,11 @@ y no volveré a verte,
 D5           A5               F#5
   no pude juntar el agua con aceite,
  
-[Solo]
+SOLO
 C#5 E5 A5 B5
 C#5 E5 A5 B5
  
-[Verse]
+ESTROFA
 G5            A5      B5
 y cuando las estrellas salen
 G5               A5      B5
@@ -69,13 +69,13 @@ D5           A5
 B5
 soy el pellizco pa cuando te olvidas
  
-[Chorus]
+ESTRIBILLO
 D5     A5              B5   F#5
 de que soy... el perro verde,
 D5     A5              B5
 de que soy... el perro verde,
  
-[Solo]
+SOLO
 C#5 E5 A5 B5
 C#5 E5 A5 B5
 C#5 E5 A5 B5
@@ -85,7 +85,7 @@ D5 A5 B5
 D5 A5 B5 F#5
 D5 A5 B5
  
-[Verse]
+ESTROFA
 G5            A5      B5
 dejame ladrar en tu alcoba,
 G5            A5         B5
@@ -107,11 +107,11 @@ y te he visto esconderte,
 D5          A5               F#5
 no pude juntar el agua con aceite
  
-[Solo]
+SOLO
 C#5 E5 A5 B5
 C#5 E5 A5 B5
  
-[Bridge]
+PUENTE
 C#5               E5 A5
 Hoy siembro a punzón mi cuerpo
    B5

@@ -1,8 +1,8 @@
-[Intro]
+INTRO
 G Am F C G
 Am F C D
 
-[Verse]
+ESTROFA
 G      G A                    F
 Sera por ti,k no hay mas velo k tu pelo
                         C         G               A
@@ -18,7 +18,7 @@ de asomarme a la ventana,ni para verla reir
 A         F          C               D
 Sera por ti,k me invite la vida a rascar mi barriga
 
-[Chorus]    
+ESTRIBILLO    
 C                 G      
 Me repica el corazon por bulerias,
           Am                  G
@@ -35,7 +35,7 @@ y se me pudre la madera,1500 primaveras,sin dormir
 G Am F C G
 Am F C Dm
 
-[Verse]
+ESTROFA
 G      G A                    F
 Será por ti que caben tos mis malos ratos
                    C         G               A
@@ -51,7 +51,7 @@ Y otra vez soy carcelero de unos besos sin carmín
           F                     C                   D
 Será por ti que lo mío en las nubes solo es un desliz
 
-[Chorus]    
+ESTRIBILLO    
 C                 G      
 Me repica el corazon por bulerias,
           Am                   G
@@ -67,14 +67,14 @@ y se me pudre la madera,1500 primaveras,sin dormir
             C F Am G
 como el barníz
 
-[Solo]
+SOLO
 C F Am G
 C D Am G
 C D Am G
 C G Am G
 C G Am G A
 
-[Bridge]
+PUENTE
 Am                       N.C.
 Seras cabron murmure al sol, con la bokita pekeña
 
@@ -90,7 +90,7 @@ seras hijoputa,guiñandome un ojo,me dijo la luna
     
 al pasar 
 
-[Chorus] 
+ESTRIBILLO 
 C           D            Am
 Me apego a ti como el barniz,
 G                    C    D       Am             G
