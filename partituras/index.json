@@ -1,3050 +1,3320 @@
 [
   {
-    "id": "3-doors-down-be-like-that",
     "artist": "3 Doors Down",
     "title": "Be Like That",
+    "id": "3-doors-down-be-like-that",
     "filename": "3 Doors Down - Be Like That.txt"
   },
   {
-    "id": "3-doors-down-here-without-you",
     "artist": "3 Doors Down",
     "title": "Here Without You",
+    "id": "3-doors-down-here-without-you",
     "filename": "3 Doors Down - Here Without You.txt"
   },
   {
-    "id": "a-great-big-world-say-something",
-    "artist": "A Great Big World",
-    "title": "Say Something",
-    "filename": "A Great Big World - Say Something.txt"
-  },
-  {
-    "id": "adam-levine-go-now",
     "artist": "Adam Levine",
     "title": "Go Now",
+    "id": "adam-levine-go-now",
     "filename": "Adam Levine - Go Now.txt"
   },
   {
-    "id": "alannis-morrisset-ironic",
+    "artist": "A Great Big World",
+    "title": "Say Something",
+    "id": "a-great-big-world-say-something",
+    "filename": "A Great Big World - Say Something.txt"
+  },
+  {
     "artist": "Alannis Morrisset",
     "title": "Ironic",
+    "id": "alannis-morrisset-ironic",
     "filename": "Alannis Morrisset - Ironic.txt"
   },
   {
-    "id": "amaral-c-mo-hablar",
     "artist": "Amaral",
     "title": "Cómo Hablar",
+    "id": "amaral-cómo-hablar",
     "filename": "Amaral - Cómo Hablar.txt"
   },
   {
-    "id": "amaral-sin-ti-no-soy-nada",
     "artist": "Amaral",
     "title": "Sin Ti No Soy Nada",
+    "id": "amaral-sin-ti-no-soy-nada",
     "filename": "Amaral - Sin Ti No Soy Nada.txt"
   },
   {
-    "id": "amaral-te-necesito",
     "artist": "Amaral",
     "title": "Te Necesito",
+    "id": "amaral-te-necesito",
     "filename": "Amaral - Te Necesito.txt"
   },
   {
-    "id": "andres-calamaro-andres-calamaro",
     "artist": "Andres Calamaro",
-    "title": "Andres Calamaro",
-    "filename": "Andres Calamaro - Andres Calamaro.txt"
+    "title": "Flaca",
+    "id": "andres-calamaro-flaca",
+    "filename": "Andres Calamaro - Flaca.txt"
   },
   {
-    "id": "andres-calamaro-mi-enfermedad",
     "artist": "Andres Calamaro",
     "title": "Mi Enfermedad",
+    "id": "andres-calamaro-mi-enfermedad",
     "filename": "Andres Calamaro - Mi Enfermedad.txt"
   },
   {
-    "id": "andres-calamaro-te-quiero-igual",
     "artist": "Andres Calamaro",
     "title": "Te Quiero Igual",
+    "id": "andres-calamaro-te-quiero-igual",
     "filename": "Andres Calamaro - Te Quiero Igual.txt"
   },
   {
-    "id": "arctic-monkeys-mardy-bum",
     "artist": "Arctic Monkeys",
     "title": "Mardy Bum",
+    "id": "arctic-monkeys-mardy-bum",
     "filename": "Arctic Monkeys - Mardy Bum.txt"
   },
   {
-    "id": "astola-cojo-el-saco-y-me-retiro",
     "artist": "Astola",
     "title": "Cojo El Saco Y Me Retiro",
+    "id": "astola-cojo-el-saco-y-me-retiro",
     "filename": "Astola - Cojo El Saco Y Me Retiro.txt"
   },
   {
-    "id": "avril-lavigne-sk8ter-boy",
     "artist": "Avril Lavigne",
     "title": "Sk8ter Boy",
+    "id": "avril-lavigne-sk8ter-boy",
     "filename": "Avril Lavigne - Sk8ter Boy.txt"
   },
   {
-    "id": "avril-lavigne-skater-boy",
     "artist": "Avril Lavigne",
     "title": "Skater Boy",
+    "id": "avril-lavigne-skater-boy",
     "filename": "Avril Lavigne - Skater Boy.txt"
   },
   {
-    "id": "band-of-horses-the-funeral",
     "artist": "Band of Horses",
     "title": "the Funeral",
+    "id": "band-of-horses-the-funeral",
     "filename": "Band of Horses - the Funeral.txt"
   },
   {
-    "id": "ben-harper-walk-away",
     "artist": "Ben Harper",
     "title": "Walk Away",
+    "id": "ben-harper-walk-away",
     "filename": "Ben Harper - Walk Away.txt"
   },
   {
-    "id": "ben-kweller-ben-kweller",
     "artist": "Ben Kweller",
-    "title": "Ben Kweller",
-    "filename": "Ben Kweller - Ben Kweller.txt"
+    "title": "Fallin",
+    "id": "ben-kweller-fallin",
+    "filename": "Ben Kweller - Fallin.txt"
   },
   {
-    "id": "bon-iver-skinny-love",
     "artist": "Bon Iver",
     "title": "Skinny Love",
+    "id": "bon-iver-skinny-love",
     "filename": "Bon Iver - Skinny Love.txt"
   },
   {
-    "id": "calum-scott-dancing-on-my-own",
+    "artist": "BSO Brave",
+    "title": "Brave",
+    "id": "bso-brave-brave",
+    "filename": "BSO Brave - Brave.md"
+  },
+  {
+    "artist": "BSO Coco",
+    "title": "El latido de mi corazón",
+    "id": "bso-coco-el-latido-de-mi-corazón",
+    "filename": "BSO Coco - El latido de mi corazón.md"
+  },
+  {
+    "artist": "BSO Coco",
+    "title": "Recuérdame",
+    "id": "bso-coco-recuérdame",
+    "filename": "BSO Coco - Recuérdame.md"
+  },
+  {
+    "artist": "BSO Coco",
+    "title": "Un poco loco",
+    "id": "bso-coco-un-poco-loco",
+    "filename": "BSO Coco - Un poco loco.md"
+  },
+  {
     "artist": "Calum Scott",
     "title": "Dancing on My Own",
+    "id": "calum-scott-dancing-on-my-own",
     "filename": "Calum Scott - Dancing on My Own.txt"
   },
   {
-    "id": "carlos-sadness-so-contigo",
     "artist": "Carlos Sadness",
     "title": "Soñé Contigo",
+    "id": "carlos-sadness-soñé-contigo",
     "filename": "Carlos Sadness - Soñé Contigo.txt"
   },
   {
-    "id": "cat-stevens-father-and-son",
     "artist": "Cat Stevens",
     "title": "Father and Son",
+    "id": "cat-stevens-father-and-son",
     "filename": "Cat Stevens - Father and Son.txt"
   },
   {
-    "id": "chayanne-lo-dejar-a-todo",
     "artist": "Chayanne",
     "title": "Lo Dejaría Todo",
+    "id": "chayanne-lo-dejaría-todo",
     "filename": "Chayanne - Lo Dejaría Todo.txt"
   },
   {
-    "id": "chris-isaak-wicked-game",
     "artist": "Chris Isaak",
     "title": "Wicked Game",
+    "id": "chris-isaak-wicked-game",
     "filename": "Chris Isaak - Wicked Game.txt"
   },
   {
-    "id": "coldplay-adventure-of-a-lifetime",
-    "artist": "Coldplay",
-    "title": "adventure of a lifetime",
-    "filename": "Coldplay - adventure of a lifetime.txt"
-  },
-  {
-    "id": "coldplay-clocks",
     "artist": "Coldplay",
     "title": "clocks",
+    "id": "coldplay-clocks",
     "filename": "Coldplay - clocks.txt"
   },
   {
-    "id": "coldplay-dont-panic",
     "artist": "Coldplay",
     "title": "dont panic",
+    "id": "coldplay-dont-panic",
     "filename": "Coldplay - dont panic.txt"
   },
   {
-    "id": "coldplay-fix-you",
     "artist": "Coldplay",
     "title": "fix you",
+    "id": "coldplay-fix-you",
     "filename": "Coldplay - fix you.txt"
   },
   {
-    "id": "coldplay-lost",
     "artist": "Coldplay",
     "title": "lost",
+    "id": "coldplay-lost",
     "filename": "Coldplay - lost.txt"
   },
   {
-    "id": "coldplay-scientist",
     "artist": "Coldplay",
     "title": "scientist",
+    "id": "coldplay-scientist",
     "filename": "Coldplay - scientist.txt"
   },
   {
-    "id": "coldplay-trouble",
     "artist": "Coldplay",
     "title": "trouble",
+    "id": "coldplay-trouble",
     "filename": "Coldplay - trouble.txt"
   },
   {
-    "id": "coldplay-viva-la-vida",
     "artist": "Coldplay",
     "title": "viva la vida",
+    "id": "coldplay-viva-la-vida",
     "filename": "Coldplay - viva la vida.txt"
   },
   {
-    "id": "coldplay-yellow",
-    "artist": "Coldplay",
-    "title": "yellow",
-    "filename": "Coldplay - yellow.txt"
-  },
-  {
-    "id": "complices-es-por-ti",
     "artist": "Complices",
     "title": "Es Por Ti",
+    "id": "complices-es-por-ti",
     "filename": "Complices - Es Por Ti.txt"
   },
   {
-    "id": "coque-malla-hasta-el-final",
     "artist": "Coque Malla",
     "title": "Hasta El Final",
+    "id": "coque-malla-hasta-el-final",
     "filename": "Coque Malla - Hasta El Final.txt"
   },
   {
-    "id": "coque-malla-sin-titulo",
-    "artist": "Coque Malla",
-    "title": "Sin titulo",
-    "filename": "Coque Malla - Sin titulo.txt"
-  },
-  {
-    "id": "corey-taylor-corey-taylor",
     "artist": "Corey Taylor",
     "title": "Corey Taylor",
+    "id": "corey-taylor-corey-taylor",
     "filename": "Corey Taylor - Corey Taylor.txt"
   },
   {
-    "id": "coti-nada-fue-un-error",
     "artist": "Coti",
     "title": "Nada Fue Un Error",
+    "id": "coti-nada-fue-un-error",
     "filename": "Coti - Nada Fue Un Error.txt"
   },
   {
-    "id": "countin-crows-a-long-december",
-    "artist": "Countin Crows",
-    "title": "a Long December",
-    "filename": "Countin Crows - a Long December.txt"
-  },
-  {
-    "id": "countin-crows-accidentally-in-love",
     "artist": "Countin Crows",
     "title": "Accidentally in Love",
+    "id": "countin-crows-accidentally-in-love",
     "filename": "Countin Crows - Accidentally in Love.txt"
   },
   {
-    "id": "countin-crows-colorblind",
+    "artist": "Countin Crows",
+    "title": "a Long December",
+    "id": "countin-crows-a-long-december",
+    "filename": "Countin Crows - a Long December.txt"
+  },
+  {
     "artist": "Countin Crows",
     "title": "Colorblind",
+    "id": "countin-crows-colorblind",
     "filename": "Countin Crows - Colorblind.txt"
   },
   {
-    "id": "countin-crows-hard-candy",
     "artist": "Countin Crows",
     "title": "Hard Candy",
+    "id": "countin-crows-hard-candy",
     "filename": "Countin Crows - Hard Candy.txt"
   },
   {
-    "id": "cristina-aguilera-cristina-aguilera",
+    "artist": "Countin Crows",
+    "title": "mr jones",
+    "id": "countin-crows-mr-jones",
+    "filename": "Countin Crows - mr jones.md"
+  },
+  {
     "artist": "Cristina Aguilera",
     "title": "Cristina Aguilera",
+    "id": "cristina-aguilera-cristina-aguilera",
     "filename": "Cristina Aguilera - Cristina Aguilera.txt"
   },
   {
-    "id": "damien-rice-damien-rice",
     "artist": "Damien Rice",
     "title": "Damien Rice",
+    "id": "damien-rice-damien-rice",
     "filename": "Damien Rice - Damien Rice.txt"
   },
   {
-    "id": "dani-fernandez-solo-tienes-que-avisar",
     "artist": "Dani Fernandez",
     "title": "Solo Tienes Que Avisar",
+    "id": "dani-fernandez-solo-tienes-que-avisar",
     "filename": "Dani Fernandez - Solo Tienes Que Avisar.txt"
   },
   {
-    "id": "dani-mart-n-cero",
     "artist": "Dani Martín",
     "title": "cero",
+    "id": "dani-martín-cero",
     "filename": "Dani Martín - cero.txt"
   },
   {
-    "id": "dani-mart-n-contigo",
     "artist": "Dani Martín",
     "title": "contigo",
+    "id": "dani-martín-contigo",
     "filename": "Dani Martín - contigo.txt"
   },
   {
-    "id": "dani-mart-n-emocional",
     "artist": "Dani Martín",
     "title": "emocional",
+    "id": "dani-martín-emocional",
     "filename": "Dani Martín - emocional.txt"
   },
   {
-    "id": "dani-mart-n-la-suerte-de-mi-vida",
     "artist": "Dani Martín",
     "title": "la-suerte-de-mi-vida",
+    "id": "dani-martín-la-suerte-de-mi-vida",
     "filename": "Dani Martín - la-suerte-de-mi-vida.txt"
   },
   {
-    "id": "dani-martin-me-vuelves-puto-loco",
     "artist": "Dani Martin",
     "title": "Me Vuelves Puto Loco",
+    "id": "dani-martin-me-vuelves-puto-loco",
     "filename": "Dani Martin - Me Vuelves Puto Loco.txt"
   },
   {
-    "id": "dani-mart-n-no-vuelven",
-    "artist": "Dani Martín",
-    "title": "no-vuelven",
-    "filename": "Dani Martín - no-vuelven.txt"
-  },
-  {
-    "id": "dani-mart-n-no-no-vuelve",
     "artist": "Dani Martín",
     "title": "No, No Vuelve",
+    "id": "dani-martín-no-no-vuelve",
     "filename": "Dani Martín - No, No Vuelve.txt"
   },
   {
-    "id": "dani-mart-n-novedades-viernes",
     "artist": "Dani Martín",
     "title": "Novedades Viernes",
+    "id": "dani-martín-novedades-viernes",
     "filename": "Dani Martín - Novedades Viernes.txt"
   },
   {
-    "id": "dani-mart-n-portales",
+    "artist": "Dani Martín",
+    "title": "no-vuelven",
+    "id": "dani-martín-no-vuelven",
+    "filename": "Dani Martín - no-vuelven.txt"
+  },
+  {
     "artist": "Dani Martín",
     "title": "portales",
+    "id": "dani-martín-portales",
     "filename": "Dani Martín - portales.txt"
   },
   {
-    "id": "dani-mart-n-puede-ser",
     "artist": "Dani Martín",
     "title": "puede-ser",
+    "id": "dani-martín-puede-ser",
     "filename": "Dani Martín - puede-ser.txt"
   },
   {
-    "id": "dani-mart-n-que-bonita-la-vida",
     "artist": "Dani Martín",
     "title": "Que Bonita La Vida",
+    "id": "dani-martín-que-bonita-la-vida",
     "filename": "Dani Martín - Que Bonita La Vida.txt"
   },
   {
-    "id": "dani-mart-n-quecaroeseltiempo",
     "artist": "Dani Martín",
     "title": "quecaroeseltiempo",
+    "id": "dani-martín-quecaroeseltiempo",
     "filename": "Dani Martín - quecaroeseltiempo.txt"
   },
   {
-    "id": "dani-mart-n-sin-titulo",
-    "artist": "Dani Martín",
-    "title": "Sin titulo",
-    "filename": "Dani Martín - Sin titulo.txt"
-  },
-  {
-    "id": "dani-mart-n-son-sue-os",
     "artist": "Dani Martín",
     "title": "son sueños",
+    "id": "dani-martín-son-sueños",
     "filename": "Dani Martín - son sueños.txt"
   },
   {
-    "id": "dani-mart-n-tal-como-eres",
     "artist": "Dani Martín",
     "title": "tal-como-eres",
+    "id": "dani-martín-tal-como-eres",
     "filename": "Dani Martín - tal-como-eres.txt"
   },
   {
-    "id": "dani-mart-n-todo-lo-que-vimos-se-nos-fue",
     "artist": "Dani Martín",
     "title": "Todo Lo Que Vimos Se Nos Fue",
+    "id": "dani-martín-todo-lo-que-vimos-se-nos-fue",
     "filename": "Dani Martín - Todo Lo Que Vimos Se Nos Fue.txt"
   },
   {
-    "id": "death-cab-for-cutie-i-will-follow-you-into-the-dark",
+    "artist": "David Bowie",
+    "title": "heroes",
+    "id": "david-bowie-heroes",
+    "filename": "David Bowie - heroes.md"
+  },
+  {
     "artist": "Death Cab for Cutie",
     "title": "I Will Follow You Into the Dark",
+    "id": "death-cab-for-cutie-i-will-follow-you-into-the-dark",
     "filename": "Death Cab for Cutie - I Will Follow You Into the Dark.txt"
   },
   {
-    "id": "desconocido-con-las-ganas",
     "artist": "Desconocido",
     "title": "CON LAS GANAS",
+    "id": "desconocido-con-las-ganas",
     "filename": "Desconocido - CON LAS GANAS.txt"
   },
   {
-    "id": "don-mclean-american-pie",
     "artist": "Don Mclean",
     "title": "American Pie",
+    "id": "don-mclean-american-pie",
     "filename": "Don Mclean - American Pie.txt"
   },
   {
-    "id": "ed-sheeran-boat",
     "artist": "Ed Sheeran",
     "title": "Boat",
+    "id": "ed-sheeran-boat",
     "filename": "Ed Sheeran - Boat.txt"
   },
   {
-    "id": "ed-sheeran-im-a-mess",
     "artist": "Ed Sheeran",
     "title": "im a mess",
+    "id": "ed-sheeran-im-a-mess",
     "filename": "Ed Sheeran - im a mess.txt"
   },
   {
-    "id": "ed-sheeran-perfect",
-    "artist": "Ed Sheeran",
-    "title": "perfect",
-    "filename": "Ed Sheeran - perfect.txt"
-  },
-  {
-    "id": "ed-sheeran-photograph",
     "artist": "Ed Sheeran",
     "title": "photograph",
+    "id": "ed-sheeran-photograph",
     "filename": "Ed Sheeran - photograph.txt"
   },
   {
-    "id": "ed-sheeran-thinking-out-loud",
-    "artist": "Ed Sheeran",
-    "title": "thinking out loud",
-    "filename": "Ed Sheeran - thinking out loud.txt"
+    "artist": "eels",
+    "title": "end times",
+    "id": "eels-end-times",
+    "filename": "eels - end times.md"
   },
   {
-    "id": "efecto-mariposa-calles-que-te-ven",
     "artist": "Efecto Mariposa",
     "title": "Calles Que Te Ven",
+    "id": "efecto-mariposa-calles-que-te-ven",
     "filename": "Efecto Mariposa - Calles Que Te Ven.txt"
   },
   {
-    "id": "efecto-mariposa-no-me-crees",
     "artist": "Efecto Mariposa",
     "title": "No Me Crees",
+    "id": "efecto-mariposa-no-me-crees",
     "filename": "Efecto Mariposa - No Me Crees.txt"
   },
   {
-    "id": "el-canto-del-loco-a-contracorriente-a-d-e",
-    "artist": "El Canto Del Loco",
-    "title": "a Contracorriente - - a D E",
-    "filename": "El Canto Del Loco - a Contracorriente - - a D E.txt"
-  },
-  {
-    "id": "el-canto-del-loco-acabado-en-a",
     "artist": "El Canto Del Loco",
     "title": "Acabado en A",
+    "id": "el-canto-del-loco-acabado-en-a",
     "filename": "El Canto Del Loco - Acabado en A.txt"
   },
   {
-    "id": "el-canto-del-loco-aquellos-a-os-locos-afinaci-n-est-ndar",
+    "artist": "El Canto Del Loco",
+    "title": "a Contracorriente - - a D E",
+    "id": "el-canto-del-loco-a-contracorriente-a-d-e",
+    "filename": "El Canto Del Loco - a Contracorriente - - a D E.txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Aquellos Años Locos - Afinación Estándar",
+    "id": "el-canto-del-loco-aquellos-años-locos-afinación-estándar",
     "filename": "El Canto Del Loco - Aquellos Años Locos - Afinación Estándar.txt"
   },
   {
-    "id": "el-canto-del-loco-busco-la-vida-11-busco-la-vida",
     "artist": "El Canto Del Loco",
     "title": "Busco La Vida - 11. Busco La Vida",
+    "id": "el-canto-del-loco-busco-la-vida-11-busco-la-vida",
     "filename": "El Canto Del Loco - Busco La Vida - 11. Busco La Vida.txt"
   },
   {
-    "id": "el-canto-del-loco-canalla-e-am",
     "artist": "El Canto Del Loco",
     "title": "Canalla - - E Am",
+    "id": "el-canto-del-loco-canalla-e-am",
     "filename": "El Canto Del Loco - Canalla - - E Am.txt"
   },
   {
-    "id": "el-canto-del-loco-canciones",
     "artist": "El Canto Del Loco",
     "title": "CANCIONES",
+    "id": "el-canto-del-loco-canciones",
     "filename": "El Canto Del Loco - CANCIONES.txt"
   },
   {
-    "id": "el-canto-del-loco-como-un-perro-ladrando",
     "artist": "El Canto Del Loco",
     "title": "Como Un Perro Ladrando",
+    "id": "el-canto-del-loco-como-un-perro-ladrando",
     "filename": "El Canto Del Loco - Como Un Perro Ladrando.txt"
   },
   {
-    "id": "el-canto-del-loco-contigo-am-dm",
-    "artist": "El Canto Del Loco",
-    "title": "Contigo - Am Dm",
-    "filename": "El Canto Del Loco - Contigo - Am Dm.txt"
-  },
-  {
-    "id": "el-canto-del-loco-contigo",
     "artist": "El Canto Del Loco",
     "title": "Contigo",
+    "id": "el-canto-del-loco-contigo",
     "filename": "El Canto Del Loco - Contigo.txt"
   },
   {
-    "id": "el-canto-del-loco-corazon-alt",
     "artist": "El Canto Del Loco",
-    "title": "Corazon (alt)",
-    "filename": "El Canto Del Loco - Corazon (alt).txt"
+    "title": "Contigo - Am Dm",
+    "id": "el-canto-del-loco-contigo-am-dm",
+    "filename": "El Canto Del Loco - Contigo - Am Dm.txt"
   },
   {
-    "id": "el-canto-del-loco-corazon",
     "artist": "El Canto Del Loco",
     "title": "Corazon",
+    "id": "el-canto-del-loco-corazon",
     "filename": "El Canto Del Loco - Corazon.txt"
   },
   {
-    "id": "el-canto-del-loco-crash",
+    "artist": "El Canto Del Loco",
+    "title": "Corazon (alt)",
+    "id": "el-canto-del-loco-corazon-alt",
+    "filename": "El Canto Del Loco - Corazon (alt).txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Crash",
+    "id": "el-canto-del-loco-crash",
     "filename": "El Canto Del Loco - Crash.txt"
   },
   {
-    "id": "el-canto-del-loco-dentro-de-m",
     "artist": "El Canto Del Loco",
     "title": "Dentro De Mí",
+    "id": "el-canto-del-loco-dentro-de-mí",
     "filename": "El Canto Del Loco - Dentro De Mí.txt"
   },
   {
-    "id": "el-canto-del-loco-desaparece",
     "artist": "El Canto Del Loco",
     "title": "Desaparece",
+    "id": "el-canto-del-loco-desaparece",
     "filename": "El Canto Del Loco - Desaparece.txt"
   },
   {
-    "id": "el-canto-del-loco-despiertame",
     "artist": "El Canto Del Loco",
     "title": "Despiertame",
+    "id": "el-canto-del-loco-despiertame",
     "filename": "El Canto Del Loco - Despiertame.txt"
   },
   {
-    "id": "el-canto-del-loco-eh-tu-la-vida-05",
     "artist": "El Canto Del Loco",
     "title": "Eh Tu - La Vida (05)",
+    "id": "el-canto-del-loco-eh-tu-la-vida-05",
     "filename": "El Canto Del Loco - Eh Tu - La Vida (05).txt"
   },
   {
-    "id": "el-canto-del-loco-ekix-alt",
-    "artist": "El Canto Del Loco",
-    "title": "Ekix (alt)",
-    "filename": "El Canto Del Loco - Ekix (alt).txt"
-  },
-  {
-    "id": "el-canto-del-loco-ekix",
     "artist": "El Canto Del Loco",
     "title": "Ekix",
+    "id": "el-canto-del-loco-ekix",
     "filename": "El Canto Del Loco - Ekix.txt"
   },
   {
-    "id": "el-canto-del-loco-el-pescao",
+    "artist": "El Canto Del Loco",
+    "title": "Ekix (alt)",
+    "id": "el-canto-del-loco-ekix-alt",
+    "filename": "El Canto Del Loco - Ekix (alt).txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "El Pescao",
+    "id": "el-canto-del-loco-el-pescao",
     "filename": "El Canto Del Loco - El Pescao.txt"
   },
   {
-    "id": "el-canto-del-loco-el-ltimo-d-a-de-nuestras-vidas",
     "artist": "El Canto Del Loco",
     "title": "El Último Día De Nuestras Vidas",
+    "id": "el-canto-del-loco-el-último-día-de-nuestras-vidas",
     "filename": "El Canto Del Loco - El Último Día De Nuestras Vidas.txt"
   },
   {
-    "id": "el-canto-del-loco-eres-tonto",
     "artist": "El Canto Del Loco",
     "title": "Eres Tonto",
+    "id": "el-canto-del-loco-eres-tonto",
     "filename": "El Canto Del Loco - Eres Tonto.txt"
   },
   {
-    "id": "el-canto-del-loco-fin-de-semana-la-vida-05",
     "artist": "El Canto Del Loco",
     "title": "Fin De Semana - La Vida (05)",
+    "id": "el-canto-del-loco-fin-de-semana-la-vida-05",
     "filename": "El Canto Del Loco - Fin De Semana - La Vida (05).txt"
   },
   {
-    "id": "el-canto-del-loco-he-vuelto-a-caer-he-vuelto-a-caer",
     "artist": "El Canto Del Loco",
     "title": "He Vuelto a Caer - He Vuelto a Caer",
+    "id": "el-canto-del-loco-he-vuelto-a-caer-he-vuelto-a-caer",
     "filename": "El Canto Del Loco - He Vuelto a Caer - He Vuelto a Caer.txt"
   },
   {
-    "id": "el-canto-del-loco-insoportable",
     "artist": "El Canto Del Loco",
     "title": "Insoportable",
+    "id": "el-canto-del-loco-insoportable",
     "filename": "El Canto Del Loco - Insoportable.txt"
   },
   {
-    "id": "el-canto-del-loco-la-madre-de-jos",
     "artist": "El Canto Del Loco",
     "title": "La Madre De José",
+    "id": "el-canto-del-loco-la-madre-de-josé",
     "filename": "El Canto Del Loco - La Madre De José.txt"
   },
   {
-    "id": "el-canto-del-loco-la-suerte-de-mi-vida-alt",
-    "artist": "El Canto Del Loco",
-    "title": "La Suerte De Mi Vida (alt)",
-    "filename": "El Canto Del Loco - La Suerte De Mi Vida (alt).txt"
-  },
-  {
-    "id": "el-canto-del-loco-la-suerte-de-mi-vida",
     "artist": "El Canto Del Loco",
     "title": "La Suerte De Mi Vida",
+    "id": "el-canto-del-loco-la-suerte-de-mi-vida",
     "filename": "El Canto Del Loco - La Suerte De Mi Vida.txt"
   },
   {
-    "id": "el-canto-del-loco-la-vida-la-vida-05",
+    "artist": "El Canto Del Loco",
+    "title": "La Suerte De Mi Vida (alt)",
+    "id": "el-canto-del-loco-la-suerte-de-mi-vida-alt",
+    "filename": "El Canto Del Loco - La Suerte De Mi Vida (alt).txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "La Vida - La Vida (05)",
+    "id": "el-canto-del-loco-la-vida-la-vida-05",
     "filename": "El Canto Del Loco - La Vida - La Vida (05).txt"
   },
   {
-    "id": "el-canto-del-loco-llueve-en-m-alt",
-    "artist": "El Canto Del Loco",
-    "title": "Llueve en Mí (alt)",
-    "filename": "El Canto Del Loco - Llueve en Mí (alt).txt"
-  },
-  {
-    "id": "el-canto-del-loco-llueve-en-m",
     "artist": "El Canto Del Loco",
     "title": "Llueve en Mí",
+    "id": "el-canto-del-loco-llueve-en-mí",
     "filename": "El Canto Del Loco - Llueve en Mí.txt"
   },
   {
-    "id": "el-canto-del-loco-no-quiero-nada-08-no-quiero-nada",
+    "artist": "El Canto Del Loco",
+    "title": "Llueve en Mí (alt)",
+    "id": "el-canto-del-loco-llueve-en-mí-alt",
+    "filename": "El Canto Del Loco - Llueve en Mí (alt).txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "No Quiero Nada - 08. No Quiero Nada",
+    "id": "el-canto-del-loco-no-quiero-nada-08-no-quiero-nada",
     "filename": "El Canto Del Loco - No Quiero Nada - 08. No Quiero Nada.txt"
   },
   {
-    "id": "el-canto-del-loco-no-voy-a-parar",
     "artist": "El Canto Del Loco",
     "title": "No Voy a Parar",
+    "id": "el-canto-del-loco-no-voy-a-parar",
     "filename": "El Canto Del Loco - No Voy a Parar.txt"
   },
   {
-    "id": "el-canto-del-loco-otra-vez",
     "artist": "El Canto Del Loco",
     "title": "Otra Vez",
+    "id": "el-canto-del-loco-otra-vez",
     "filename": "El Canto Del Loco - Otra Vez.txt"
   },
   {
-    "id": "el-canto-del-loco-para-siempre",
     "artist": "El Canto Del Loco",
     "title": "Para Siempre",
+    "id": "el-canto-del-loco-para-siempre",
     "filename": "El Canto Del Loco - Para Siempre.txt"
   },
   {
-    "id": "el-canto-del-loco-pasion-tu-mirada-de-inocencia-me-da-esa-fuerza-fuera-de-control",
-    "artist": "El Canto Del Loco",
-    "title": "Pasion - Tu Mirada De Inocencia Me Da Esa Fuerza Fuera De Control",
-    "filename": "El Canto Del Loco - Pasion - Tu Mirada De Inocencia Me Da Esa Fuerza Fuera De Control.txt"
-  },
-  {
-    "id": "el-canto-del-loco-pasion",
     "artist": "El Canto Del Loco",
     "title": "Pasion",
+    "id": "el-canto-del-loco-pasion",
     "filename": "El Canto Del Loco - Pasion.txt"
   },
   {
-    "id": "el-canto-del-loco-peque-ita",
+    "artist": "El Canto Del Loco",
+    "title": "Pasion - Tu Mirada De Inocencia Me Da Esa Fuerza Fuera De Control",
+    "id": "el-canto-del-loco-pasion-tu-mirada-de-inocencia-me-da-esa-fuerza-fuera-de-control",
+    "filename": "El Canto Del Loco - Pasion - Tu Mirada De Inocencia Me Da Esa Fuerza Fuera De Control.txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Pequeñita",
+    "id": "el-canto-del-loco-pequeñita",
     "filename": "El Canto Del Loco - Pequeñita.txt"
   },
   {
-    "id": "el-canto-del-loco-personas",
     "artist": "El Canto Del Loco",
     "title": "Personas",
+    "id": "el-canto-del-loco-personas",
     "filename": "El Canto Del Loco - Personas.txt"
   },
   {
-    "id": "el-canto-del-loco-peter-pan-alt",
-    "artist": "El Canto Del Loco",
-    "title": "Peter Pan (alt)",
-    "filename": "El Canto Del Loco - Peter Pan (alt).txt"
-  },
-  {
-    "id": "el-canto-del-loco-peter-pan",
     "artist": "El Canto Del Loco",
     "title": "Peter Pan",
+    "id": "el-canto-del-loco-peter-pan",
     "filename": "El Canto Del Loco - Peter Pan.txt"
   },
   {
-    "id": "el-canto-del-loco-por-ti-por-t",
     "artist": "El Canto Del Loco",
-    "title": "Por Ti - - Por Tí",
-    "filename": "El Canto Del Loco - Por Ti - - Por Tí.txt"
+    "title": "Peter Pan (alt)",
+    "id": "el-canto-del-loco-peter-pan-alt",
+    "filename": "El Canto Del Loco - Peter Pan (alt).txt"
   },
   {
-    "id": "el-canto-del-loco-por-ti",
-    "artist": "El Canto Del Loco",
-    "title": "Por Ti",
-    "filename": "El Canto Del Loco - Por Ti.txt"
-  },
-  {
-    "id": "el-canto-del-loco-portales",
     "artist": "El Canto Del Loco",
     "title": "Portales",
+    "id": "el-canto-del-loco-portales",
     "filename": "El Canto Del Loco - Portales.txt"
   },
   {
-    "id": "el-canto-del-loco-preguntas-alt-2",
     "artist": "El Canto Del Loco",
-    "title": "PREGUNTAS (alt 2)",
-    "filename": "El Canto Del Loco - PREGUNTAS (alt 2).txt"
+    "title": "Por Ti",
+    "id": "el-canto-del-loco-por-ti",
+    "filename": "El Canto Del Loco - Por Ti.txt"
   },
   {
-    "id": "el-canto-del-loco-preguntas",
+    "artist": "El Canto Del Loco",
+    "title": "Por Ti - - Por Tí",
+    "id": "el-canto-del-loco-por-ti-por-tí",
+    "filename": "El Canto Del Loco - Por Ti - - Por Tí.txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Preguntas",
+    "id": "el-canto-del-loco-preguntas",
     "filename": "El Canto Del Loco - Preguntas.txt"
   },
   {
-    "id": "el-canto-del-loco-puede-ser",
+    "artist": "El Canto Del Loco",
+    "title": "PREGUNTAS (alt 2)",
+    "id": "el-canto-del-loco-preguntas-alt-2",
+    "filename": "El Canto Del Loco - PREGUNTAS (alt 2).txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Puede Ser",
+    "id": "el-canto-del-loco-puede-ser",
     "filename": "El Canto Del Loco - Puede Ser.txt"
   },
   {
-    "id": "el-canto-del-loco-que-caro-es-el-tiempo-alt",
-    "artist": "El Canto Del Loco",
-    "title": "Que Caro Es El Tiempo (alt)",
-    "filename": "El Canto Del Loco - Que Caro Es El Tiempo (alt).txt"
-  },
-  {
-    "id": "el-canto-del-loco-que-caro-es-el-tiempo",
     "artist": "El Canto Del Loco",
     "title": "Que Caro Es El Tiempo",
+    "id": "el-canto-del-loco-que-caro-es-el-tiempo",
     "filename": "El Canto Del Loco - Que Caro Es El Tiempo.txt"
   },
   {
-    "id": "el-canto-del-loco-sera",
+    "artist": "El Canto Del Loco",
+    "title": "Que Caro Es El Tiempo (alt)",
+    "id": "el-canto-del-loco-que-caro-es-el-tiempo-alt",
+    "filename": "El Canto Del Loco - Que Caro Es El Tiempo (alt).txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "SERA",
+    "id": "el-canto-del-loco-sera",
     "filename": "El Canto Del Loco - SERA.txt"
   },
   {
-    "id": "el-canto-del-loco-siempre-cerca-alt",
-    "artist": "El Canto Del Loco",
-    "title": "Siempre Cerca (alt)",
-    "filename": "El Canto Del Loco - Siempre Cerca (alt).txt"
-  },
-  {
-    "id": "el-canto-del-loco-siempre-cerca",
     "artist": "El Canto Del Loco",
     "title": "Siempre Cerca",
+    "id": "el-canto-del-loco-siempre-cerca",
     "filename": "El Canto Del Loco - Siempre Cerca.txt"
   },
   {
-    "id": "el-canto-del-loco-sin-mitad-7-sin-mitad",
+    "artist": "El Canto Del Loco",
+    "title": "Siempre Cerca (alt)",
+    "id": "el-canto-del-loco-siempre-cerca-alt",
+    "filename": "El Canto Del Loco - Siempre Cerca (alt).txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Sin Mitad - 7. Sin Mitad",
+    "id": "el-canto-del-loco-sin-mitad-7-sin-mitad",
     "filename": "El Canto Del Loco - Sin Mitad - 7. Sin Mitad.txt"
   },
   {
-    "id": "el-canto-del-loco-sin-titulo",
-    "artist": "El Canto Del Loco",
-    "title": "Sin titulo",
-    "filename": "El Canto Del Loco - Sin titulo.txt"
-  },
-  {
-    "id": "el-canto-del-loco-son-sue-os-son-sue-os",
-    "artist": "El Canto Del Loco",
-    "title": "Son Sueños - Son Sueños",
-    "filename": "El Canto Del Loco - Son Sueños - Son Sueños.txt"
-  },
-  {
-    "id": "el-canto-del-loco-son-sue-os",
     "artist": "El Canto Del Loco",
     "title": "Son Sueños",
+    "id": "el-canto-del-loco-son-sueños",
     "filename": "El Canto Del Loco - Son Sueños.txt"
   },
   {
-    "id": "el-canto-del-loco-super-heroe-eres-tonto",
+    "artist": "El Canto Del Loco",
+    "title": "Son Sueños - Son Sueños",
+    "id": "el-canto-del-loco-son-sueños-son-sueños",
+    "filename": "El Canto Del Loco - Son Sueños - Son Sueños.txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Super Heroe - Eres Tonto",
+    "id": "el-canto-del-loco-super-heroe-eres-tonto",
     "filename": "El Canto Del Loco - Super Heroe - Eres Tonto.txt"
   },
   {
-    "id": "el-canto-del-loco-tal-como-eres",
     "artist": "El Canto Del Loco",
     "title": "Tal Como Eres",
+    "id": "el-canto-del-loco-tal-como-eres",
     "filename": "El Canto Del Loco - Tal Como Eres.txt"
   },
   {
-    "id": "el-canto-del-loco-te-recuerdo-alt",
-    "artist": "El Canto Del Loco",
-    "title": "Te Recuerdo (alt)",
-    "filename": "El Canto Del Loco - Te Recuerdo (alt).txt"
-  },
-  {
-    "id": "el-canto-del-loco-te-recuerdo",
     "artist": "El Canto Del Loco",
     "title": "Te Recuerdo",
+    "id": "el-canto-del-loco-te-recuerdo",
     "filename": "El Canto Del Loco - Te Recuerdo.txt"
   },
   {
-    "id": "el-canto-del-loco-traidora-medio-tono-menos-el-ctrica",
+    "artist": "El Canto Del Loco",
+    "title": "Te Recuerdo (alt)",
+    "id": "el-canto-del-loco-te-recuerdo-alt",
+    "filename": "El Canto Del Loco - Te Recuerdo (alt).txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Traidora - Medio Tono Menos Eléctrica",
+    "id": "el-canto-del-loco-traidora-medio-tono-menos-eléctrica",
     "filename": "El Canto Del Loco - Traidora - Medio Tono Menos Eléctrica.txt"
   },
   {
-    "id": "el-canto-del-loco-tremendo-f-e",
     "artist": "El Canto Del Loco",
     "title": "Tremendo - F E",
+    "id": "el-canto-del-loco-tremendo-f-e",
     "filename": "El Canto Del Loco - Tremendo - F E.txt"
   },
   {
-    "id": "el-canto-del-loco-un-millon-de-cicatrices",
-    "artist": "El Canto Del Loco",
-    "title": "Un Millon De Cicatrices",
-    "filename": "El Canto Del Loco - Un Millon De Cicatrices.txt"
-  },
-  {
-    "id": "el-canto-del-loco-una-foto-en-blanco-y-negro",
     "artist": "El Canto Del Loco",
     "title": "Una Foto en Blanco Y Negro",
+    "id": "el-canto-del-loco-una-foto-en-blanco-y-negro",
     "filename": "El Canto Del Loco - Una Foto en Blanco Y Negro.txt"
   },
   {
-    "id": "el-canto-del-loco-una-salida-dm-a-dm-a",
     "artist": "El Canto Del Loco",
     "title": "Una Salida - - Dm a Dm A",
+    "id": "el-canto-del-loco-una-salida-dm-a-dm-a",
     "filename": "El Canto Del Loco - Una Salida - - Dm a Dm A.txt"
   },
   {
-    "id": "el-canto-del-loco-usanos",
+    "artist": "El Canto Del Loco",
+    "title": "Un Millon De Cicatrices",
+    "id": "el-canto-del-loco-un-millon-de-cicatrices",
+    "filename": "El Canto Del Loco - Un Millon De Cicatrices.txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Usanos",
+    "id": "el-canto-del-loco-usanos",
     "filename": "El Canto Del Loco - Usanos.txt"
   },
   {
-    "id": "el-canto-del-loco-vamonos-dm-am",
     "artist": "El Canto Del Loco",
     "title": "Vamonos - Dm Am",
+    "id": "el-canto-del-loco-vamonos-dm-am",
     "filename": "El Canto Del Loco - Vamonos - Dm Am.txt"
   },
   {
-    "id": "el-canto-del-loco-volver-a-disfrutar",
-    "artist": "El Canto Del Loco",
-    "title": "Volver a Disfrutar",
-    "filename": "El Canto Del Loco - Volver a Disfrutar.txt"
-  },
-  {
-    "id": "el-canto-del-loco-volvera",
     "artist": "El Canto Del Loco",
     "title": "Volvera",
+    "id": "el-canto-del-loco-volvera",
     "filename": "El Canto Del Loco - Volvera.txt"
   },
   {
-    "id": "el-canto-del-loco-vuelve",
+    "artist": "El Canto Del Loco",
+    "title": "Volver a Disfrutar",
+    "id": "el-canto-del-loco-volver-a-disfrutar",
+    "filename": "El Canto Del Loco - Volver a Disfrutar.txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Vuelve",
+    "id": "el-canto-del-loco-vuelve",
     "filename": "El Canto Del Loco - Vuelve.txt"
   },
   {
-    "id": "el-canto-del-loco-y-si-el-miedo-10-y-si-el-miedo",
-    "artist": "El Canto Del Loco",
-    "title": "Y Si El Miedo - 10. Y Si El Miedo",
-    "filename": "El Canto Del Loco - Y Si El Miedo - 10. Y Si El Miedo.txt"
-  },
-  {
-    "id": "el-canto-del-loco-ya-nada-volvera-a-ser-como-antes-ya-nada-volver-a-ser-como-antes",
     "artist": "El Canto Del Loco",
     "title": "Ya Nada Volvera a Ser Como Antes - - Ya Nada Volverá a Ser Como Antes",
+    "id": "el-canto-del-loco-ya-nada-volvera-a-ser-como-antes-ya-nada-volverá-a-ser-como-antes",
     "filename": "El Canto Del Loco - Ya Nada Volvera a Ser Como Antes - - Ya Nada Volverá a Ser Como Antes.txt"
   },
   {
-    "id": "el-canto-del-loco-zapatillas",
+    "artist": "El Canto Del Loco",
+    "title": "Y Si El Miedo - 10. Y Si El Miedo",
+    "id": "el-canto-del-loco-y-si-el-miedo-10-y-si-el-miedo",
+    "filename": "El Canto Del Loco - Y Si El Miedo - 10. Y Si El Miedo.txt"
+  },
+  {
     "artist": "El Canto Del Loco",
     "title": "Zapatillas",
+    "id": "el-canto-del-loco-zapatillas",
     "filename": "El Canto Del Loco - Zapatillas.txt"
   },
   {
-    "id": "el-ni-o-de-la-hipoteca-romeo-y-julieta",
-    "artist": "El Niño De La Hipoteca",
-    "title": "Romeo Y Julieta",
-    "filename": "El Niño De La Hipoteca - Romeo Y Julieta.txt"
-  },
-  {
-    "id": "el-ultimo-de-la-fila-el-ltimo-de-la-fila",
-    "artist": "El Ultimo De La Fila",
-    "title": "El Último De La Fila",
-    "filename": "El Ultimo De La Fila - El Último De La Fila.txt"
-  },
-  {
-    "id": "el-ultimo-de-la-fila-llanto-de-pasi-n",
-    "artist": "El Ultimo De La Fila",
-    "title": "Llanto De Pasión",
-    "filename": "El Ultimo De La Fila - Llanto De Pasión.txt"
-  },
-  {
-    "id": "el-ultimo-de-la-fila-sin-llaves",
-    "artist": "El Ultimo De La Fila",
-    "title": "Sin Llaves",
-    "filename": "El Ultimo De La Fila - Sin Llaves.txt"
-  },
-  {
-    "id": "el-ultimo-de-la-fila-uva-de-la-vieja-parra",
-    "artist": "El Ultimo De La Fila",
-    "title": "Uva De La Vieja Parra",
-    "filename": "El Ultimo De La Fila - Uva De La Vieja Parra.txt"
-  },
-  {
-    "id": "elefantes-que-yo-no-lo-sab-a",
     "artist": "Elefantes",
     "title": "Que Yo No Lo Sabía",
+    "id": "elefantes-que-yo-no-lo-sabía",
     "filename": "Elefantes - Que Yo No Lo Sabía.txt"
   },
   {
-    "id": "els-pets-bon-dia",
+    "artist": "El Niño De La Hipoteca",
+    "title": "Romeo Y Julieta",
+    "id": "el-niño-de-la-hipoteca-romeo-y-julieta",
+    "filename": "El Niño De La Hipoteca - Romeo Y Julieta.txt"
+  },
+  {
     "artist": "Els Pets",
     "title": "Bon Dia",
+    "id": "els-pets-bon-dia",
     "filename": "Els Pets - Bon Dia.txt"
   },
   {
-    "id": "enrique-urquijo-aunque-t-no-lo-sepas",
+    "artist": "El Ultimo De La Fila",
+    "title": "El Último De La Fila",
+    "id": "el-ultimo-de-la-fila-el-último-de-la-fila",
+    "filename": "El Ultimo De La Fila - El Último De La Fila.txt"
+  },
+  {
+    "artist": "El Ultimo De La Fila",
+    "title": "Llanto De Pasión",
+    "id": "el-ultimo-de-la-fila-llanto-de-pasión",
+    "filename": "El Ultimo De La Fila - Llanto De Pasión.txt"
+  },
+  {
+    "artist": "El Ultimo De La Fila",
+    "title": "Sin Llaves",
+    "id": "el-ultimo-de-la-fila-sin-llaves",
+    "filename": "El Ultimo De La Fila - Sin Llaves.txt"
+  },
+  {
+    "artist": "El Ultimo De La Fila",
+    "title": "Uva De La Vieja Parra",
+    "id": "el-ultimo-de-la-fila-uva-de-la-vieja-parra",
+    "filename": "El Ultimo De La Fila - Uva De La Vieja Parra.txt"
+  },
+  {
     "artist": "Enrique Urquijo",
     "title": "Aunque Tú No Lo Sepas",
+    "id": "enrique-urquijo-aunque-tú-no-lo-sepas",
     "filename": "Enrique Urquijo - Aunque Tú No Lo Sepas.txt"
   },
   {
-    "id": "eric-clapton-wonderful-tonight",
     "artist": "Eric Clapton",
     "title": "Wonderful Tonight",
+    "id": "eric-clapton-wonderful-tonight",
     "filename": "Eric Clapton - Wonderful Tonight.txt"
   },
   {
-    "id": "estopa-a-ninguna-parte",
     "artist": "Estopa",
     "title": "a Ninguna Parte",
+    "id": "estopa-a-ninguna-parte",
     "filename": "Estopa - a Ninguna Parte.txt"
   },
   {
-    "id": "estopa-esc-chame-princesa",
     "artist": "Estopa",
     "title": "Escúchame Princesa",
+    "id": "estopa-escúchame-princesa",
     "filename": "Estopa - Escúchame Princesa.txt"
   },
   {
-    "id": "estopa-ya-no-me-acuerdo",
     "artist": "Estopa",
     "title": "Ya No Me Acuerdo",
+    "id": "estopa-ya-no-me-acuerdo",
     "filename": "Estopa - Ya No Me Acuerdo.txt"
   },
   {
-    "id": "extremoduro-la-realidad",
     "artist": "Extremoduro",
     "title": "La Realidad",
+    "id": "extremoduro-la-realidad",
     "filename": "Extremoduro - La Realidad.txt"
   },
   {
-    "id": "extremoduro-la-vereda-de-la-puerta-de-atr-s",
     "artist": "Extremoduro",
     "title": "La Vereda De La Puerta De Atrás",
+    "id": "extremoduro-la-vereda-de-la-puerta-de-atrás",
     "filename": "Extremoduro - La Vereda De La Puerta De Atrás.txt"
   },
   {
-    "id": "extremoduro-salir",
     "artist": "Extremoduro",
     "title": "Salir",
+    "id": "extremoduro-salir",
     "filename": "Extremoduro - Salir.txt"
   },
   {
-    "id": "extremoduro-si-te-vas",
     "artist": "Extremoduro",
     "title": "Si Te Vas",
+    "id": "extremoduro-si-te-vas",
     "filename": "Extremoduro - Si Te Vas.txt"
   },
   {
-    "id": "extremoduro-standby",
     "artist": "Extremoduro",
     "title": "Standby",
+    "id": "extremoduro-standby",
     "filename": "Extremoduro - Standby.txt"
   },
   {
-    "id": "extremoduro-sucede",
     "artist": "Extremoduro",
     "title": "Sucede",
+    "id": "extremoduro-sucede",
     "filename": "Extremoduro - Sucede.txt"
   },
   {
-    "id": "fito-fitipaldis-a-la-luna-se-le-ve-el-ombligo",
-    "artist": "Fito & Fitipaldis",
-    "title": "a La Luna Se Le Ve El Ombligo",
-    "filename": "Fito & Fitipaldis - a La Luna Se Le Ve El Ombligo.txt"
-  },
-  {
-    "id": "fito-fitipaldis-a-quemarropa",
-    "artist": "Fito & Fitipaldis",
-    "title": "a Quemarropa",
-    "filename": "Fito & Fitipaldis - a Quemarropa.txt"
-  },
-  {
-    "id": "fito-fitipaldis-abrazado-a-la-tristeza",
     "artist": "Fito & Fitipaldis",
     "title": "Abrazado a La Tristeza",
+    "id": "fito-fitipaldis-abrazado-a-la-tristeza",
     "filename": "Fito & Fitipaldis - Abrazado a La Tristeza.txt"
   },
   {
-    "id": "fito-fitipaldis-acabo-de-llegar",
     "artist": "Fito & Fitipaldis",
     "title": "Acabo De Llegar",
+    "id": "fito-fitipaldis-acabo-de-llegar",
     "filename": "Fito & Fitipaldis - Acabo De Llegar.txt"
   },
   {
-    "id": "fito-fitipaldis-al-cantar",
+    "artist": "Fito & Fitipaldis",
+    "title": "a La Luna Se Le Ve El Ombligo",
+    "id": "fito-fitipaldis-a-la-luna-se-le-ve-el-ombligo",
+    "filename": "Fito & Fitipaldis - a La Luna Se Le Ve El Ombligo.txt"
+  },
+  {
     "artist": "Fito & Fitipaldis",
     "title": "Al Cantar",
+    "id": "fito-fitipaldis-al-cantar",
     "filename": "Fito & Fitipaldis - Al Cantar.txt"
   },
   {
-    "id": "fito-fitipaldis-antes-de-que-cuente-diez",
     "artist": "Fito & Fitipaldis",
     "title": "Antes De Que Cuente Diez",
+    "id": "fito-fitipaldis-antes-de-que-cuente-diez",
     "filename": "Fito & Fitipaldis - Antes De Que Cuente Diez.txt"
   },
   {
-    "id": "fito-fitipaldis-cada-vez-cad-ver",
+    "artist": "Fito & Fitipaldis",
+    "title": "a Quemarropa",
+    "id": "fito-fitipaldis-a-quemarropa",
+    "filename": "Fito & Fitipaldis - a Quemarropa.txt"
+  },
+  {
     "artist": "Fito & Fitipaldis",
     "title": "Cada Vez Cadáver",
+    "id": "fito-fitipaldis-cada-vez-cadáver",
     "filename": "Fito & Fitipaldis - Cada Vez Cadáver.txt"
   },
   {
-    "id": "fito-fitipaldis-cerca-de-las-v-as",
     "artist": "Fito & Fitipaldis",
     "title": "Cerca De Las Vías",
+    "id": "fito-fitipaldis-cerca-de-las-vías",
     "filename": "Fito & Fitipaldis - Cerca De Las Vías.txt"
   },
   {
-    "id": "fito-fitipaldis-cielo-herm-tico",
     "artist": "Fito & Fitipaldis",
     "title": "Cielo Hermético",
+    "id": "fito-fitipaldis-cielo-hermético",
     "filename": "Fito & Fitipaldis - Cielo Hermético.txt"
   },
   {
-    "id": "fito-fitipaldis-coraz-n-oxidado",
     "artist": "Fito & Fitipaldis",
     "title": "Corazón Oxidado",
+    "id": "fito-fitipaldis-corazón-oxidado",
     "filename": "Fito & Fitipaldis - Corazón Oxidado.txt"
   },
   {
-    "id": "fito-fitipaldis-despu-s-del-naufragio",
     "artist": "Fito & Fitipaldis",
     "title": "Después Del Naufragio",
+    "id": "fito-fitipaldis-después-del-naufragio",
     "filename": "Fito & Fitipaldis - Después Del Naufragio.txt"
   },
   {
-    "id": "fito-fitipaldis-donde-todo-empieza",
     "artist": "Fito & Fitipaldis",
     "title": "Donde Todo Empieza",
+    "id": "fito-fitipaldis-donde-todo-empieza",
     "filename": "Fito & Fitipaldis - Donde Todo Empieza.txt"
   },
   {
-    "id": "fito-fitipaldis-el-vencido",
     "artist": "Fito & Fitipaldis",
     "title": "El Vencido",
+    "id": "fito-fitipaldis-el-vencido",
     "filename": "Fito & Fitipaldis - El Vencido.txt"
   },
   {
-    "id": "fito-fitipaldis-entre-la-espada-y-la-pared",
     "artist": "Fito & Fitipaldis",
     "title": "Entre La Espada Y La Pared",
+    "id": "fito-fitipaldis-entre-la-espada-y-la-pared",
     "filename": "Fito & Fitipaldis - Entre La Espada Y La Pared.txt"
   },
   {
-    "id": "fito-fitipaldis-fito-fitipaldis",
     "artist": "Fito & Fitipaldis",
     "title": "Fito & Fitipaldis",
+    "id": "fito-fitipaldis-fito-fitipaldis",
     "filename": "Fito & Fitipaldis - Fito & Fitipaldis.txt"
   },
   {
-    "id": "fito-fitipaldis-la-casa-por-el-tejado",
     "artist": "Fito & Fitipaldis",
     "title": "La Casa Por El Tejado",
+    "id": "fito-fitipaldis-la-casa-por-el-tejado",
     "filename": "Fito & Fitipaldis - La Casa Por El Tejado.txt"
   },
   {
-    "id": "fito-fitipaldis-lo-que-sobra-de-m",
     "artist": "Fito & Fitipaldis",
     "title": "Lo Que Sobra De Mí",
+    "id": "fito-fitipaldis-lo-que-sobra-de-mí",
     "filename": "Fito & Fitipaldis - Lo Que Sobra De Mí.txt"
   },
   {
-    "id": "fito-fitipaldis-me-acord-de-ti",
     "artist": "Fito & Fitipaldis",
     "title": "Me Acordé De Ti",
+    "id": "fito-fitipaldis-me-acordé-de-ti",
     "filename": "Fito & Fitipaldis - Me Acordé De Ti.txt"
   },
   {
-    "id": "fito-fitipaldis-me-equivocar-a-otra-vez",
     "artist": "Fito & Fitipaldis",
     "title": "Me Equivocaría Otra Vez",
+    "id": "fito-fitipaldis-me-equivocaría-otra-vez",
     "filename": "Fito & Fitipaldis - Me Equivocaría Otra Vez.txt"
   },
   {
-    "id": "fito-fitipaldis-nada-de-nada",
     "artist": "Fito & Fitipaldis",
     "title": "Nada De Nada",
+    "id": "fito-fitipaldis-nada-de-nada",
     "filename": "Fito & Fitipaldis - Nada De Nada.txt"
   },
   {
-    "id": "fito-fitipaldis-nos-ocupamos-del-mar",
     "artist": "Fito & Fitipaldis",
     "title": "Nos Ocupamos Del Mar",
+    "id": "fito-fitipaldis-nos-ocupamos-del-mar",
     "filename": "Fito & Fitipaldis - Nos Ocupamos Del Mar.txt"
   },
   {
-    "id": "fito-fitipaldis-p-jaros-disecados",
     "artist": "Fito & Fitipaldis",
     "title": "Pájaros Disecados",
+    "id": "fito-fitipaldis-pájaros-disecados",
     "filename": "Fito & Fitipaldis - Pájaros Disecados.txt"
   },
   {
-    "id": "fito-fitipaldis-para-toda-la-vida",
     "artist": "Fito & Fitipaldis",
     "title": "Para Toda La Vida",
+    "id": "fito-fitipaldis-para-toda-la-vida",
     "filename": "Fito & Fitipaldis - Para Toda La Vida.txt"
   },
   {
-    "id": "fito-fitipaldis-por-la-boca-vive-el-pez",
     "artist": "Fito & Fitipaldis",
     "title": "Por La Boca Vive El Pez",
+    "id": "fito-fitipaldis-por-la-boca-vive-el-pez",
     "filename": "Fito & Fitipaldis - Por La Boca Vive El Pez.txt"
   },
   {
-    "id": "fito-fitipaldis-que-me-arrastre-el-viento",
     "artist": "Fito & Fitipaldis",
     "title": "Que Me Arrastre El Viento",
+    "id": "fito-fitipaldis-que-me-arrastre-el-viento",
     "filename": "Fito & Fitipaldis - Que Me Arrastre El Viento.txt"
   },
   {
-    "id": "fito-fitipaldis-quiero-ser-una-estrella",
     "artist": "Fito & Fitipaldis",
     "title": "Quiero Ser Una Estrella",
+    "id": "fito-fitipaldis-quiero-ser-una-estrella",
     "filename": "Fito & Fitipaldis - Quiero Ser Una Estrella.txt"
   },
   {
-    "id": "fito-fitipaldis-rojitas-las-orejas",
     "artist": "Fito & Fitipaldis",
     "title": "Rojitas Las Orejas",
+    "id": "fito-fitipaldis-rojitas-las-orejas",
     "filename": "Fito & Fitipaldis - Rojitas Las Orejas.txt"
   },
   {
-    "id": "fito-fitipaldis-si-me-ves-as",
-    "artist": "Fito & Fitipaldis",
-    "title": "Si Me Ves Así",
-    "filename": "Fito & Fitipaldis - Si Me Ves Así.txt"
-  },
-  {
-    "id": "fito-fitipaldis-siempre-estoy-so-ando",
     "artist": "Fito & Fitipaldis",
     "title": "Siempre Estoy Soñando",
+    "id": "fito-fitipaldis-siempre-estoy-soñando",
     "filename": "Fito & Fitipaldis - Siempre Estoy Soñando.txt"
   },
   {
-    "id": "fito-fitipaldis-sobra-la-luz",
+    "artist": "Fito & Fitipaldis",
+    "title": "Si Me Ves Así",
+    "id": "fito-fitipaldis-si-me-ves-así",
+    "filename": "Fito & Fitipaldis - Si Me Ves Así.txt"
+  },
+  {
     "artist": "Fito & Fitipaldis",
     "title": "Sobra La Luz",
+    "id": "fito-fitipaldis-sobra-la-luz",
     "filename": "Fito & Fitipaldis - Sobra La Luz.txt"
   },
   {
-    "id": "fito-fitipaldis-soldadito-marinero",
     "artist": "Fito & Fitipaldis",
     "title": "Soldadito Marinero",
+    "id": "fito-fitipaldis-soldadito-marinero",
     "filename": "Fito & Fitipaldis - Soldadito Marinero.txt"
   },
   {
-    "id": "fito-fitipaldis-tarde-o-temprano",
     "artist": "Fito & Fitipaldis",
     "title": "Tarde O Temprano",
+    "id": "fito-fitipaldis-tarde-o-temprano",
     "filename": "Fito & Fitipaldis - Tarde O Temprano.txt"
   },
   {
-    "id": "fito-fitipaldis-todo-a-cien",
     "artist": "Fito & Fitipaldis",
     "title": "Todo a Cien",
+    "id": "fito-fitipaldis-todo-a-cien",
     "filename": "Fito & Fitipaldis - Todo a Cien.txt"
   },
   {
-    "id": "fito-fitipaldis-trozos-de-cristal",
     "artist": "Fito & Fitipaldis",
     "title": "Trozos De Cristal",
+    "id": "fito-fitipaldis-trozos-de-cristal",
     "filename": "Fito & Fitipaldis - Trozos De Cristal.txt"
   },
   {
-    "id": "fito-fitipaldis-un-buen-castigo",
     "artist": "Fito & Fitipaldis",
     "title": "Un Buen Castigo",
+    "id": "fito-fitipaldis-un-buen-castigo",
     "filename": "Fito & Fitipaldis - Un Buen Castigo.txt"
   },
   {
-    "id": "fito-fitipaldis-vidas-son-dos-gatos",
     "artist": "Fito & Fitipaldis",
     "title": "Vidas Son Dos Gatos",
+    "id": "fito-fitipaldis-vidas-son-dos-gatos",
     "filename": "Fito & Fitipaldis - Vidas Son Dos Gatos.txt"
   },
   {
-    "id": "fito-fitipaldis-viene-y-va",
     "artist": "Fito & Fitipaldis",
     "title": "Viene Y Va",
+    "id": "fito-fitipaldis-viene-y-va",
     "filename": "Fito & Fitipaldis - Viene Y Va.txt"
   },
   {
-    "id": "fito-fitipaldis-whisky-barato",
     "artist": "Fito & Fitipaldis",
     "title": "Whisky Barato",
+    "id": "fito-fitipaldis-whisky-barato",
     "filename": "Fito & Fitipaldis - Whisky Barato.txt"
   },
   {
-    "id": "foo-fighters-learn-to-fly",
     "artist": "Foo Fighters",
     "title": "Learn to Fly",
+    "id": "foo-fighters-learn-to-fly",
     "filename": "Foo Fighters - Learn to Fly.txt"
   },
   {
-    "id": "formato-recomendado",
-    "artist": "Desconocido",
+    "artist": "Formato_Recomendado",
     "title": "Formato_Recomendado",
+    "id": "formato_recomendado",
     "filename": "Formato_Recomendado.txt"
   },
   {
-    "id": "frente-bizarre-love-triangle",
     "artist": "Frente!",
     "title": "Bizarre Love Triangle",
+    "id": "frente-bizarre-love-triangle",
     "filename": "Frente! - Bizarre Love Triangle.txt"
   },
   {
-    "id": "goo-goo-dolls-black-balloon",
+    "artist": "BSO Frozen",
+    "title": "Suéltalo",
+    "id": "bso-frozen-sueltalo",
+    "filename": "BSO Frozen - Suéltalo.md"
+  },
+  {
+    "artist": "BSO Frozen",
+    "title": "Muéstrate",
+    "id": "bso-frozen-mustrate",
+    "filename": "BSO Frozen - Muéstrate.md"
+  },
+  {
     "artist": "Goo Goo Dolls",
     "title": "Black Balloon",
+    "id": "goo-goo-dolls-black-balloon",
     "filename": "Goo Goo Dolls - Black Balloon.txt"
   },
   {
-    "id": "goo-goo-dolls-slide-by-the-goo-goo-dolls",
     "artist": "Goo Goo Dolls",
     "title": "Slide by the Goo Goo Dolls",
+    "id": "goo-goo-dolls-slide-by-the-goo-goo-dolls",
     "filename": "Goo Goo Dolls - Slide by the Goo Goo Dolls.txt"
   },
   {
-    "id": "grupo-01-cancion",
     "artist": "grupo",
     "title": "01-CANCION",
+    "id": "grupo-01-cancion",
     "filename": "grupo - 01-CANCION.txt"
   },
   {
-    "id": "guaran-noche-en-vela",
     "artist": "Guaraná",
     "title": "Noche en Vela",
+    "id": "guaraná-noche-en-vela",
     "filename": "Guaraná - Noche en Vela.txt"
   },
   {
-    "id": "heroes-del-silencio-la-chispa-adecuada",
     "artist": "Heroes Del Silencio",
     "title": "La Chispa Adecuada",
+    "id": "heroes-del-silencio-la-chispa-adecuada",
     "filename": "Heroes Del Silencio - La Chispa Adecuada.txt"
   },
   {
-    "id": "hombres-g-la-carretera",
     "artist": "Hombres G",
     "title": "La Carretera",
+    "id": "hombres-g-la-carretera",
     "filename": "Hombres G - La Carretera.txt"
   },
   {
-    "id": "incubus-love-hurts",
+    "artist": "Howie day",
+    "title": "collide",
+    "id": "howie-day-collide",
+    "filename": "Howie day - collide.md"
+  },
+  {
     "artist": "Incubus",
     "title": "Love Hurts",
+    "id": "incubus-love-hurts",
     "filename": "Incubus - Love Hurts.txt"
   },
   {
-    "id": "ivan-ferreiro-piensa-en-frio",
     "artist": "Ivan Ferreiro",
     "title": "Piensa en Frio",
+    "id": "ivan-ferreiro-piensa-en-frio",
     "filename": "Ivan Ferreiro - Piensa en Frio.txt"
   },
   {
-    "id": "izal-qu-bien",
     "artist": "Izal",
     "title": "Qué Bien",
+    "id": "izal-qué-bien",
     "filename": "Izal - Qué Bien.txt"
   },
   {
-    "id": "jarabe-de-palo-dos-d-as-en-la-vida",
     "artist": "Jarabe De Palo",
     "title": "Dos Días en La Vida",
+    "id": "jarabe-de-palo-dos-días-en-la-vida",
     "filename": "Jarabe De Palo - Dos Días en La Vida.txt"
   },
   {
-    "id": "jarabe-de-palo-duerme-conmigo",
     "artist": "Jarabe De Palo",
     "title": "Duerme Conmigo",
+    "id": "jarabe-de-palo-duerme-conmigo",
     "filename": "Jarabe De Palo - Duerme Conmigo.txt"
   },
   {
-    "id": "jarabe-de-palo-eso-que-tu-me-das",
     "artist": "Jarabe De Palo",
     "title": "Eso Que Tu Me Das",
+    "id": "jarabe-de-palo-eso-que-tu-me-das",
     "filename": "Jarabe De Palo - Eso Que Tu Me Das.txt"
   },
   {
-    "id": "jarabe-de-palo-jarabe-de-palo",
     "artist": "Jarabe De Palo",
     "title": "Jarabe De Palo",
+    "id": "jarabe-de-palo-jarabe-de-palo",
     "filename": "Jarabe De Palo - Jarabe De Palo.txt"
   },
   {
-    "id": "jarabe-de-palo-la-flaca",
     "artist": "Jarabe De Palo",
     "title": "La Flaca",
+    "id": "jarabe-de-palo-la-flaca",
     "filename": "Jarabe De Palo - La Flaca.txt"
   },
   {
-    "id": "jarabe-de-palo-misteriosamente-hoy",
     "artist": "Jarabe De Palo",
     "title": "Misteriosamente Hoy",
+    "id": "jarabe-de-palo-misteriosamente-hoy",
     "filename": "Jarabe De Palo - Misteriosamente Hoy.txt"
   },
   {
-    "id": "jarabe-de-palo-sin-titulo",
-    "artist": "Jarabe De Palo",
-    "title": "Sin titulo",
-    "filename": "Jarabe De Palo - Sin titulo.txt"
-  },
-  {
-    "id": "joaqu-n-sabina-a-la-orilla-de-la-chimenea",
     "artist": "Joaquín Sabina",
     "title": "a La Orilla De La Chimenea",
+    "id": "joaquín-sabina-a-la-orilla-de-la-chimenea",
     "filename": "Joaquín Sabina - a La Orilla De La Chimenea.txt"
   },
   {
-    "id": "joaqu-n-sabina-amor-se-llama-el-juego",
     "artist": "Joaquín Sabina",
     "title": "Amor Se Llama El Juego",
+    "id": "joaquín-sabina-amor-se-llama-el-juego",
     "filename": "Joaquín Sabina - Amor Se Llama El Juego.txt"
   },
   {
-    "id": "joaqu-n-sabina-as-estoy-yo-sin-ti",
     "artist": "Joaquín Sabina",
     "title": "Así Estoy Yo Sin Ti",
+    "id": "joaquín-sabina-así-estoy-yo-sin-ti",
     "filename": "Joaquín Sabina - Así Estoy Yo Sin Ti.txt"
   },
   {
-    "id": "joaqu-n-sabina-aves-de-paso",
     "artist": "Joaquín Sabina",
     "title": "Aves De Paso",
+    "id": "joaquín-sabina-aves-de-paso",
     "filename": "Joaquín Sabina - Aves De Paso.txt"
   },
   {
-    "id": "joaqu-n-sabina-barbi-superestar",
     "artist": "Joaquín Sabina",
     "title": "Barbi Superestar",
+    "id": "joaquín-sabina-barbi-superestar",
     "filename": "Joaquín Sabina - Barbi Superestar.txt"
   },
   {
-    "id": "joaqu-n-sabina-calle-melancol-a",
     "artist": "Joaquín Sabina",
     "title": "Calle Melancolía",
+    "id": "joaquín-sabina-calle-melancolía",
     "filename": "Joaquín Sabina - Calle Melancolía.txt"
   },
   {
-    "id": "joaqu-n-sabina-cerrado-por-derribo",
     "artist": "Joaquín Sabina",
     "title": "Cerrado Por Derribo",
+    "id": "joaquín-sabina-cerrado-por-derribo",
     "filename": "Joaquín Sabina - Cerrado Por Derribo.txt"
   },
   {
-    "id": "joaqu-n-sabina-contra-todo-pron-stico",
     "artist": "Joaquín Sabina",
     "title": "Contra Todo Pronóstico",
+    "id": "joaquín-sabina-contra-todo-pronóstico",
     "filename": "Joaquín Sabina - Contra Todo Pronóstico.txt"
   },
   {
-    "id": "joaqu-n-sabina-donde-habita-el-olvido",
     "artist": "Joaquín Sabina",
     "title": "Donde Habita El Olvido",
+    "id": "joaquín-sabina-donde-habita-el-olvido",
     "filename": "Joaquín Sabina - Donde Habita El Olvido.txt"
   },
   {
-    "id": "joaqu-n-sabina-el-blues-del-autob-s",
     "artist": "Joaquín Sabina",
     "title": "El Blues Del Autobús",
+    "id": "joaquín-sabina-el-blues-del-autobús",
     "filename": "Joaquín Sabina - El Blues Del Autobús.txt"
   },
   {
-    "id": "joaqu-n-sabina-esta-boca-es-m-a",
     "artist": "Joaquín Sabina",
     "title": "Esta Boca Es Mía",
+    "id": "joaquín-sabina-esta-boca-es-mía",
     "filename": "Joaquín Sabina - Esta Boca Es Mía.txt"
   },
   {
-    "id": "joaqu-n-sabina-joaqu-n-sabina",
     "artist": "Joaquín Sabina",
     "title": "Joaquín Sabina",
+    "id": "joaquín-sabina-joaquín-sabina",
     "filename": "Joaquín Sabina - Joaquín Sabina.txt"
   },
   {
-    "id": "joaqu-n-sabina-juegos-de-azar",
     "artist": "Joaquín Sabina",
     "title": "Juegos De Azar",
+    "id": "joaquín-sabina-juegos-de-azar",
     "filename": "Joaquín Sabina - Juegos De Azar.txt"
   },
   {
-    "id": "joaqu-n-sabina-la-canci-n-m-s-hermosa-del-mundo",
     "artist": "Joaquín Sabina",
     "title": "La Canción Más Hermosa Del Mundo",
+    "id": "joaquín-sabina-la-canción-más-hermosa-del-mundo",
     "filename": "Joaquín Sabina - La Canción Más Hermosa Del Mundo.txt"
   },
   {
-    "id": "joaqu-n-sabina-lo-niego-todo",
     "artist": "Joaquín Sabina",
     "title": "Lo Niego Todo",
+    "id": "joaquín-sabina-lo-niego-todo",
     "filename": "Joaquín Sabina - Lo Niego Todo.txt"
   },
   {
-    "id": "joaqu-n-sabina-m-s-de-100-mentiras",
     "artist": "Joaquín Sabina",
     "title": "Más De 100 Mentiras",
+    "id": "joaquín-sabina-más-de-100-mentiras",
     "filename": "Joaquín Sabina - Más De 100 Mentiras.txt"
   },
   {
-    "id": "joaqu-n-sabina-nos-sobran-los-motivos",
     "artist": "Joaquín Sabina",
     "title": "Nos Sobran Los Motivos",
+    "id": "joaquín-sabina-nos-sobran-los-motivos",
     "filename": "Joaquín Sabina - Nos Sobran Los Motivos.txt"
   },
   {
-    "id": "joaqu-n-sabina-p-jaros-de-portugal",
     "artist": "Joaquín Sabina",
     "title": "Pájaros De Portugal",
+    "id": "joaquín-sabina-pájaros-de-portugal",
     "filename": "Joaquín Sabina - Pájaros De Portugal.txt"
   },
   {
-    "id": "joaqu-n-sabina-pastillas-para-no-so-ar",
     "artist": "Joaquín Sabina",
     "title": "Pastillas Para No Soñar",
+    "id": "joaquín-sabina-pastillas-para-no-soñar",
     "filename": "Joaquín Sabina - Pastillas Para No Soñar.txt"
   },
   {
-    "id": "joaqu-n-sabina-peces-de-ciudad",
     "artist": "Joaquín Sabina",
     "title": "Peces De Ciudad",
+    "id": "joaquín-sabina-peces-de-ciudad",
     "filename": "Joaquín Sabina - Peces De Ciudad.txt"
   },
   {
-    "id": "joaqu-n-sabina-peor-para-el-sol",
     "artist": "Joaquín Sabina",
     "title": "Peor Para El Sol",
+    "id": "joaquín-sabina-peor-para-el-sol",
     "filename": "Joaquín Sabina - Peor Para El Sol.txt"
   },
   {
-    "id": "joaqu-n-sabina-pongamos-que-hablo-de-madrid",
     "artist": "Joaquín Sabina",
     "title": "Pongamos Que Hablo De Madrid",
+    "id": "joaquín-sabina-pongamos-que-hablo-de-madrid",
     "filename": "Joaquín Sabina - Pongamos Que Hablo De Madrid.txt"
   },
   {
-    "id": "joaqu-n-sabina-por-el-boulevard-de-los-sue-os-rotos",
     "artist": "Joaquín Sabina",
     "title": "Por El Boulevard De Los Sueños Rotos",
+    "id": "joaquín-sabina-por-el-boulevard-de-los-sueños-rotos",
     "filename": "Joaquín Sabina - Por El Boulevard De Los Sueños Rotos.txt"
   },
   {
-    "id": "joaqu-n-sabina-princesa",
     "artist": "Joaquín Sabina",
     "title": "princesa",
+    "id": "joaquín-sabina-princesa",
     "filename": "Joaquín Sabina - princesa.txt"
   },
   {
-    "id": "joaqu-n-sabina-quien-me-ha-robado-el-mes-de-abril",
     "artist": "Joaquín Sabina",
     "title": "Quien Me Ha Robado El Mes De Abril",
+    "id": "joaquín-sabina-quien-me-ha-robado-el-mes-de-abril",
     "filename": "Joaquín Sabina - Quien Me Ha Robado El Mes De Abril.txt"
   },
   {
-    "id": "joaqu-n-sabina-rebajas-de-enero",
     "artist": "Joaquín Sabina",
     "title": "Rebajas De Enero",
+    "id": "joaquín-sabina-rebajas-de-enero",
     "filename": "Joaquín Sabina - Rebajas De Enero.txt"
   },
   {
-    "id": "joaqu-n-sabina-rosa-de-lima",
     "artist": "Joaquín Sabina",
     "title": "Rosa De Lima",
+    "id": "joaquín-sabina-rosa-de-lima",
     "filename": "Joaquín Sabina - Rosa De Lima.txt"
   },
   {
-    "id": "joaqu-n-sabina-tiramis-de-lim-n",
     "artist": "Joaquín Sabina",
     "title": "Tiramisú De Limón",
+    "id": "joaquín-sabina-tiramisú-de-limón",
     "filename": "Joaquín Sabina - Tiramisú De Limón.txt"
   },
   {
-    "id": "joaqu-n-sabina-y-sin-embargo",
     "artist": "Joaquín Sabina",
     "title": "Y, Sin Embargo",
+    "id": "joaquín-sabina-y-sin-embargo",
     "filename": "Joaquín Sabina - Y, Sin Embargo.txt"
   },
   {
-    "id": "john-lenon-working-class-hero",
     "artist": "John Lenon",
     "title": "Working Class Hero",
+    "id": "john-lenon-working-class-hero",
     "filename": "John Lenon - Working Class Hero.txt"
   },
   {
-    "id": "john-mayer-i-guess-i-just-feel-like",
+    "artist": "John Mayer",
+    "title": "confortable",
+    "id": "john-mayer-confortable",
+    "filename": "John Mayer - confortable.md"
+  },
+  {
     "artist": "John Mayer",
     "title": "I Guess I Just Feel Like",
+    "id": "john-mayer-i-guess-i-just-feel-like",
     "filename": "John Mayer - I Guess I Just Feel Like.txt"
   },
   {
-    "id": "john-mayer-in-the-blood",
     "artist": "John Mayer",
     "title": "in the Blood",
+    "id": "john-mayer-in-the-blood",
     "filename": "John Mayer - in the Blood.txt"
   },
   {
-    "id": "john-mayer-love-on-the-weekend",
     "artist": "John Mayer",
     "title": "Love on the Weekend",
+    "id": "john-mayer-love-on-the-weekend",
     "filename": "John Mayer - Love on the Weekend.txt"
   },
   {
-    "id": "john-mayer-slow-dancing-in-a-burning-room",
     "artist": "John Mayer",
     "title": "Slow Dancing in a Burning Room",
+    "id": "john-mayer-slow-dancing-in-a-burning-room",
     "filename": "John Mayer - Slow Dancing in a Burning Room.txt"
   },
   {
-    "id": "johnny-cash-sin-titulo",
-    "artist": "Johnny Cash",
-    "title": "Sin titulo",
-    "filename": "Johnny Cash - Sin titulo.txt"
-  },
-  {
-    "id": "julieta-venegas-lento",
     "artist": "Julieta Venegas",
     "title": "Lento",
+    "id": "julieta-venegas-lento",
     "filename": "Julieta Venegas - Lento.txt"
   },
   {
-    "id": "julieta-venegas-lim-n-y-sal",
     "artist": "Julieta Venegas",
     "title": "Limón Y Sal",
+    "id": "julieta-venegas-limón-y-sal",
     "filename": "Julieta Venegas - Limón Y Sal.txt"
   },
   {
-    "id": "justin-timberlake-justin-timberlake",
     "artist": "Justin Timberlake",
     "title": "Justin Timberlake",
+    "id": "justin-timberlake-justin-timberlake",
     "filename": "Justin Timberlake - Justin Timberlake.txt"
   },
   {
-    "id": "justin-timberlake-true-colors",
     "artist": "Justin Timberlake",
     "title": "True Colors",
+    "id": "justin-timberlake-true-colors",
     "filename": "Justin Timberlake - True Colors.txt"
   },
   {
-    "id": "knockin-on-heavens-door-guns-n-roses-tabs-tablatures-lyrics-chords-guitar-bass-tab-power",
     "artist": "Knockin on Heavens Door",
     "title": "Guns N Roses Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power",
+    "id": "knockin-on-heavens-door-guns-n-roses-tabs-tablatures-lyrics-chords-guitar-bass-tab-power",
     "filename": "Knockin on Heavens Door - Guns N Roses Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power.txt"
   },
   {
-    "id": "la-fuga-baja-por-diversion",
-    "artist": "La Fuga",
-    "title": "Baja Por Diversion",
-    "filename": "La Fuga - Baja Por Diversion.txt"
-  },
-  {
-    "id": "la-fuga-balada-del-despertador",
-    "artist": "La Fuga",
-    "title": "Balada Del Despertador",
-    "filename": "La Fuga - Balada Del Despertador.txt"
-  },
-  {
-    "id": "la-fuga-buscando-en-la-basura",
-    "artist": "La Fuga",
-    "title": "Buscando en La Basura",
-    "filename": "La Fuga - Buscando en La Basura.txt"
-  },
-  {
-    "id": "la-fuga-en-vela",
-    "artist": "La Fuga",
-    "title": "en Vela",
-    "filename": "La Fuga - en Vela.txt"
-  },
-  {
-    "id": "la-fuga-mundo-raro",
-    "artist": "La Fuga",
-    "title": "Mundo Raro",
-    "filename": "La Fuga - Mundo Raro.txt"
-  },
-  {
-    "id": "la-fuga-no-solo-respirar",
-    "artist": "La Fuga",
-    "title": "No Solo Respirar",
-    "filename": "La Fuga - No Solo Respirar.txt"
-  },
-  {
-    "id": "la-la-love-you-el-principio-de-algo",
-    "artist": "La La Love You",
-    "title": "El Principio De Algo",
-    "filename": "La La Love You - El Principio De Algo.txt"
-  },
-  {
-    "id": "la-moda-h-roes-del-sabado",
-    "artist": "La Moda",
-    "title": "Héroes Del Sabado",
-    "filename": "La Moda - Héroes Del Sabado.txt"
-  },
-  {
-    "id": "la-sonrisa-de-julia-hay-alguien-m-s-ah",
-    "artist": "La Sonrisa De Julia",
-    "title": "Hay Alguien Más Ahí",
-    "filename": "La Sonrisa De Julia - Hay Alguien Más Ahí.txt"
-  },
-  {
-    "id": "lady-gaga-lady-gaga",
     "artist": "Lady Gaga",
     "title": "Lady Gaga",
+    "id": "lady-gaga-lady-gaga",
     "filename": "Lady Gaga - Lady Gaga.txt"
   },
   {
-    "id": "leiva-a-ti-te-ocurre-algo",
-    "artist": "Leiva",
-    "title": "a Ti Te Ocurre Algo",
-    "filename": "Leiva - a Ti Te Ocurre Algo.txt"
+    "artist": "La Fuga",
+    "title": "Baja Por Diversion",
+    "id": "la-fuga-baja-por-diversion",
+    "filename": "La Fuga - Baja Por Diversion.txt"
   },
   {
-    "id": "leiva-afuera-en-la-ciudad",
+    "artist": "La Fuga",
+    "title": "Balada Del Despertador",
+    "id": "la-fuga-balada-del-despertador",
+    "filename": "La Fuga - Balada Del Despertador.txt"
+  },
+  {
+    "artist": "La Fuga",
+    "title": "Buscando en La Basura",
+    "id": "la-fuga-buscando-en-la-basura",
+    "filename": "La Fuga - Buscando en La Basura.txt"
+  },
+  {
+    "artist": "La Fuga",
+    "title": "en Vela",
+    "id": "la-fuga-en-vela",
+    "filename": "La Fuga - en Vela.txt"
+  },
+  {
+    "artist": "La Fuga",
+    "title": "Mundo Raro",
+    "id": "la-fuga-mundo-raro",
+    "filename": "La Fuga - Mundo Raro.txt"
+  },
+  {
+    "artist": "La Fuga",
+    "title": "No Solo Respirar",
+    "id": "la-fuga-no-solo-respirar",
+    "filename": "La Fuga - No Solo Respirar.txt"
+  },
+  {
+    "artist": "La La Love You",
+    "title": "El Principio De Algo",
+    "id": "la-la-love-you-el-principio-de-algo",
+    "filename": "La La Love You - El Principio De Algo.txt"
+  },
+  {
+    "artist": "La Moda",
+    "title": "Héroes Del Sabado",
+    "id": "la-moda-héroes-del-sabado",
+    "filename": "La Moda - Héroes Del Sabado.txt"
+  },
+  {
+    "artist": "La Sonrisa De Julia",
+    "title": "Hay Alguien Más Ahí",
+    "id": "la-sonrisa-de-julia-hay-alguien-más-ahí",
+    "filename": "La Sonrisa De Julia - Hay Alguien Más Ahí.txt"
+  },
+  {
     "artist": "Leiva",
     "title": "Afuera en La Ciudad",
+    "id": "leiva-afuera-en-la-ciudad",
     "filename": "Leiva - Afuera en La Ciudad.txt"
   },
   {
-    "id": "leiva-amelie",
     "artist": "Leiva",
     "title": "amelie",
+    "id": "leiva-amelie",
     "filename": "Leiva - amelie.txt"
   },
   {
-    "id": "leiva-animales",
     "artist": "Leiva",
     "title": "animales",
+    "id": "leiva-animales",
     "filename": "Leiva - animales.txt"
   },
   {
-    "id": "leiva-aproximacion",
     "artist": "Leiva",
     "title": "aproximacion",
+    "id": "leiva-aproximacion",
     "filename": "Leiva - aproximacion.txt"
   },
   {
-    "id": "leiva-aunque-sea-un-rato",
+    "artist": "Leiva",
+    "title": "a Ti Te Ocurre Algo",
+    "id": "leiva-a-ti-te-ocurre-algo",
+    "filename": "Leiva - a Ti Te Ocurre Algo.txt"
+  },
+  {
     "artist": "Leiva",
     "title": "Aunque Sea Un Rato",
+    "id": "leiva-aunque-sea-un-rato",
     "filename": "Leiva - Aunque Sea Un Rato.txt"
   },
   {
-    "id": "leiva-bajo-presion",
     "artist": "Leiva",
     "title": "Bajo Presion",
+    "id": "leiva-bajo-presion",
     "filename": "Leiva - Bajo Presion.txt"
   },
   {
-    "id": "leiva-blancos-f-ciles",
     "artist": "Leiva",
     "title": "blancos fáciles",
+    "id": "leiva-blancos-fáciles",
     "filename": "Leiva - blancos fáciles.txt"
   },
   {
-    "id": "leiva-breaking-bad",
     "artist": "Leiva",
     "title": "Breaking Bad",
+    "id": "leiva-breaking-bad",
     "filename": "Leiva - Breaking Bad.txt"
   },
   {
-    "id": "leiva-caida-libre",
     "artist": "Leiva",
     "title": "caida libre",
+    "id": "leiva-caida-libre",
     "filename": "Leiva - caida libre.txt"
   },
   {
-    "id": "leiva-cerca",
     "artist": "Leiva",
     "title": "Cerca",
+    "id": "leiva-cerca",
     "filename": "Leiva - Cerca.txt"
   },
   {
-    "id": "leiva-ciencia-ficcion",
     "artist": "Leiva",
     "title": "ciencia ficcion",
+    "id": "leiva-ciencia-ficcion",
     "filename": "Leiva - ciencia ficcion.txt"
   },
   {
-    "id": "leiva-ciencia-ficci-n",
     "artist": "Leiva",
     "title": "Ciencia Ficción",
+    "id": "leiva-ciencia-ficción",
     "filename": "Leiva - Ciencia Ficción.txt"
   },
   {
-    "id": "leiva-como-lo-tienes-tu",
     "artist": "Leiva",
     "title": "como lo tienes tu",
+    "id": "leiva-como-lo-tienes-tu",
     "filename": "Leiva - como lo tienes tu.txt"
   },
   {
-    "id": "leiva-como-si-fueras-a-morir-ma-ana",
     "artist": "Leiva",
     "title": "Como Si Fueras a Morir Mañana",
+    "id": "leiva-como-si-fueras-a-morir-mañana",
     "filename": "Leiva - Como Si Fueras a Morir Mañana.txt"
   },
   {
-    "id": "leiva-costa-de-oaxaca",
     "artist": "Leiva",
     "title": "Costa De Oaxaca",
+    "id": "leiva-costa-de-oaxaca",
     "filename": "Leiva - Costa De Oaxaca.txt"
   },
   {
-    "id": "leiva-dej-ndose-caer",
     "artist": "Leiva",
     "title": "Dejándose Caer",
+    "id": "leiva-dejándose-caer",
     "filename": "Leiva - Dejándose Caer.txt"
   },
   {
-    "id": "leiva-del-hueso-una-flor",
     "artist": "Leiva",
     "title": "Del Hueso Una Flor",
+    "id": "leiva-del-hueso-una-flor",
     "filename": "Leiva - Del Hueso Una Flor.txt"
   },
   {
-    "id": "leiva-diazepam",
     "artist": "Leiva",
     "title": "diazepam",
+    "id": "leiva-diazepam",
     "filename": "Leiva - diazepam.txt"
   },
   {
-    "id": "leiva-el-gigante-de-big-fish",
-    "artist": "Leiva",
-    "title": "El Gigante De Big Fish",
-    "filename": "Leiva - El Gigante De Big Fish.txt"
-  },
-  {
-    "id": "leiva-el-polvo-de-los-dias-raros",
-    "artist": "Leiva",
-    "title": "el polvo de los dias raros",
-    "filename": "Leiva - el polvo de los dias raros.txt"
-  },
-  {
-    "id": "leiva-el-ultimo-incendio",
-    "artist": "Leiva",
-    "title": "el ultimo incendio",
-    "filename": "Leiva - el ultimo incendio.txt"
-  },
-  {
-    "id": "leiva-electricidad",
     "artist": "Leiva",
     "title": "electricidad",
+    "id": "leiva-electricidad",
     "filename": "Leiva - electricidad.txt"
   },
   {
-    "id": "leiva-eme",
+    "artist": "Leiva",
+    "title": "El Gigante De Big Fish",
+    "id": "leiva-el-gigante-de-big-fish",
+    "filename": "Leiva - El Gigante De Big Fish.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "el polvo de los dias raros",
+    "id": "leiva-el-polvo-de-los-dias-raros",
+    "filename": "Leiva - el polvo de los dias raros.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "el ultimo incendio",
+    "id": "leiva-el-ultimo-incendio",
+    "filename": "Leiva - el ultimo incendio.txt"
+  },
+  {
     "artist": "Leiva",
     "title": "Eme",
+    "id": "leiva-eme",
     "filename": "Leiva - Eme.txt"
   },
   {
-    "id": "leiva-en-el-espacio",
     "artist": "Leiva",
     "title": "en El Espacio",
+    "id": "leiva-en-el-espacio",
     "filename": "Leiva - en El Espacio.txt"
   },
   {
-    "id": "leiva-estrella-polar",
     "artist": "Leiva",
     "title": "estrella polar",
+    "id": "leiva-estrella-polar",
     "filename": "Leiva - estrella polar.txt"
   },
   {
-    "id": "leiva-expertos",
     "artist": "Leiva",
     "title": "Expertos",
+    "id": "leiva-expertos",
     "filename": "Leiva - Expertos.txt"
   },
   {
-    "id": "leiva-extasis",
     "artist": "Leiva",
     "title": "Extasis",
+    "id": "leiva-extasis",
     "filename": "Leiva - Extasis.txt"
   },
   {
-    "id": "leiva-gigante",
-    "artist": "Leiva",
-    "title": "Gigante",
-    "filename": "Leiva - Gigante.txt"
-  },
-  {
-    "id": "leiva-godzilla",
-    "artist": "Leiva",
-    "title": "Godzilla",
-    "filename": "Leiva - Godzilla.txt"
-  },
-  {
-    "id": "leiva-guerra-mundial",
-    "artist": "Leiva",
-    "title": "Guerra Mundial",
-    "filename": "Leiva - Guerra Mundial.txt"
-  },
-  {
-    "id": "leiva-hermosa-taquicardia",
-    "artist": "Leiva",
-    "title": "Hermosa Taquicardia",
-    "filename": "Leiva - Hermosa Taquicardia.txt"
-  },
-  {
-    "id": "leiva-histericos",
-    "artist": "Leiva",
-    "title": "histericos",
-    "filename": "Leiva - histericos.txt"
-  },
-  {
-    "id": "leiva-hoy-no-me-encuentro",
-    "artist": "Leiva",
-    "title": "hoy no me encuentro",
-    "filename": "Leiva - hoy no me encuentro.txt"
-  },
-  {
-    "id": "leiva-hoy-tus-ojos",
-    "artist": "Leiva",
-    "title": "hoy tus ojos",
-    "filename": "Leiva - hoy tus ojos.txt"
-  },
-  {
-    "id": "leiva-iceberg",
-    "artist": "Leiva",
-    "title": "Iceberg",
-    "filename": "Leiva - Iceberg.txt"
-  },
-  {
-    "id": "leiva-index",
-    "artist": "Leiva",
-    "title": "index",
-    "filename": "Leiva - index.txt"
-  },
-  {
-    "id": "leiva-infinitos",
-    "artist": "Leiva",
-    "title": "Infinitos",
-    "filename": "Leiva - Infinitos.txt"
-  },
-  {
-    "id": "leiva-la-estacion-eterna",
-    "artist": "Leiva",
-    "title": "la estacion eterna",
-    "filename": "Leiva - la estacion eterna.txt"
-  },
-  {
-    "id": "leiva-la-estaci-n-eterna",
-    "artist": "Leiva",
-    "title": "La Estación Eterna",
-    "filename": "Leiva - La Estación Eterna.txt"
-  },
-  {
-    "id": "leiva-la-francesita",
-    "artist": "Leiva",
-    "title": "La Francesita",
-    "filename": "Leiva - La Francesita.txt"
-  },
-  {
-    "id": "leiva-la-llamada",
-    "artist": "Leiva",
-    "title": "La Llamada",
-    "filename": "Leiva - La Llamada.txt"
-  },
-  {
-    "id": "leiva-la-lluvia-en-los-zapatos",
-    "artist": "Leiva",
-    "title": "La Lluvia en Los Zapatos",
-    "filename": "Leiva - La Lluvia en Los Zapatos.txt"
-  },
-  {
-    "id": "leiva-lady-madrid",
-    "artist": "Leiva",
-    "title": "lady madrid",
-    "filename": "Leiva - lady madrid.txt"
-  },
-  {
-    "id": "leiva-las-cuentas",
-    "artist": "Leiva",
-    "title": "las cuentas",
-    "filename": "Leiva - las cuentas.txt"
-  },
-  {
-    "id": "leiva-leiva",
-    "artist": "Leiva",
-    "title": "Leiva",
-    "filename": "Leiva - Leiva.txt"
-  },
-  {
-    "id": "leiva-lobos",
-    "artist": "Leiva",
-    "title": "Lobos",
-    "filename": "Leiva - Lobos.txt"
-  },
-  {
-    "id": "leiva-los-cantantes",
-    "artist": "Leiva",
-    "title": "Los Cantantes",
-    "filename": "Leiva - Los Cantantes.txt"
-  },
-  {
-    "id": "leiva-maniobras-suicidas",
-    "artist": "Leiva",
-    "title": "Maniobras Suicidas",
-    "filename": "Leiva - Maniobras Suicidas.txt"
-  },
-  {
-    "id": "leiva-medicina",
-    "artist": "Leiva",
-    "title": "medicina",
-    "filename": "Leiva - medicina.txt"
-  },
-  {
-    "id": "leiva-mi-mejor-version",
-    "artist": "Leiva",
-    "title": "mi mejor version",
-    "filename": "Leiva - mi mejor version.txt"
-  },
-  {
-    "id": "leiva-mi-peque-o-chernobyl",
-    "artist": "Leiva",
-    "title": "mi pequeño chernobyl",
-    "filename": "Leiva - mi pequeño chernobyl.txt"
-  },
-  {
-    "id": "leiva-miedo",
-    "artist": "Leiva",
-    "title": "Miedo",
-    "filename": "Leiva - Miedo.txt"
-  },
-  {
-    "id": "leiva-mirada-perdida",
-    "artist": "Leiva",
-    "title": "Mirada Perdida",
-    "filename": "Leiva - Mirada Perdida.txt"
-  },
-  {
-    "id": "leiva-monstruos",
-    "artist": "Leiva",
-    "title": "monstruos",
-    "filename": "Leiva - monstruos.txt"
-  },
-  {
-    "id": "leiva-no-te-preocupes-por-mi",
-    "artist": "Leiva",
-    "title": "No Te Preocupes Por Mi",
-    "filename": "Leiva - No Te Preocupes Por Mi.txt"
-  },
-  {
-    "id": "leiva-nuclear",
-    "artist": "Leiva",
-    "title": "Nuclear",
-    "filename": "Leiva - Nuclear.txt"
-  },
-  {
-    "id": "leiva-nunca-nadie",
-    "artist": "Leiva",
-    "title": "Nunca Nadie",
-    "filename": "Leiva - Nunca Nadie.txt"
-  },
-  {
-    "id": "leiva-palomas",
-    "artist": "Leiva",
-    "title": "Palomas",
-    "filename": "Leiva - Palomas.txt"
-  },
-  {
-    "id": "leiva-peligrosamente-dark",
-    "artist": "Leiva",
-    "title": "peligrosamente dark",
-    "filename": "Leiva - peligrosamente dark.txt"
-  },
-  {
-    "id": "leiva-penaltis",
-    "artist": "Leiva",
-    "title": "Penaltis",
-    "filename": "Leiva - Penaltis.txt"
-  },
-  {
-    "id": "leiva-pienso-en-aquella-tarde",
-    "artist": "Leiva",
-    "title": "pienso en aquella tarde",
-    "filename": "Leiva - pienso en aquella tarde.txt"
-  },
-  {
-    "id": "leiva-polvora",
-    "artist": "Leiva",
-    "title": "polvora",
-    "filename": "Leiva - polvora.txt"
-  },
-  {
-    "id": "leiva-premio-de-consolacion",
-    "artist": "Leiva",
-    "title": "premio de consolacion",
-    "filename": "Leiva - premio de consolacion.txt"
-  },
-  {
-    "id": "leiva-princesas",
-    "artist": "Leiva",
-    "title": "princesas",
-    "filename": "Leiva - princesas.txt"
-  },
-  {
-    "id": "leiva-si-quieres-bailamos",
-    "artist": "Leiva",
-    "title": "si quieres bailamos",
-    "filename": "Leiva - si quieres bailamos.txt"
-  },
-  {
-    "id": "leiva-sin-titulo",
-    "artist": "Leiva",
-    "title": "Sin titulo",
-    "filename": "Leiva - Sin titulo.txt"
-  },
-  {
-    "id": "leiva-sincericidio",
-    "artist": "Leiva",
-    "title": "Sincericidio",
-    "filename": "Leiva - Sincericidio.txt"
-  },
-  {
-    "id": "leiva-stranger-things-sin-capo",
-    "artist": "Leiva",
-    "title": "stranger things SIN CAPO",
-    "filename": "Leiva - stranger things SIN CAPO.txt"
-  },
-  {
-    "id": "leiva-stranger-things",
-    "artist": "Leiva",
-    "title": "Stranger Things",
-    "filename": "Leiva - Stranger Things.txt"
-  },
-  {
-    "id": "leiva-superpoderes",
-    "artist": "Leiva",
-    "title": "Superpoderes",
-    "filename": "Leiva - Superpoderes.txt"
-  },
-  {
-    "id": "leiva-terriblemente-cruel",
-    "artist": "Leiva",
-    "title": "Terriblemente Cruel",
-    "filename": "Leiva - Terriblemente Cruel.txt"
-  },
-  {
-    "id": "leiva-todo-lo-que-tu-quieras",
-    "artist": "Leiva",
-    "title": "todo lo que tu quieras",
-    "filename": "Leiva - todo lo que tu quieras.txt"
-  },
-  {
-    "id": "leiva-todo-lo-que-t-quieras",
-    "artist": "Leiva",
-    "title": "Todo Lo Que Tú Quieras",
-    "filename": "Leiva - Todo Lo Que Tú Quieras.txt"
-  },
-  {
-    "id": "leiva-todo",
-    "artist": "Leiva",
-    "title": "todo",
-    "filename": "Leiva - todo.txt"
-  },
-  {
-    "id": "leiva-vertigo",
-    "artist": "Leiva",
-    "title": "vertigo",
-    "filename": "Leiva - vertigo.txt"
-  },
-  {
-    "id": "leiva-v-rtigo",
-    "artist": "Leiva",
-    "title": "Vértigo",
-    "filename": "Leiva - Vértigo.txt"
-  },
-  {
-    "id": "leiva-violento-amor",
-    "artist": "Leiva",
-    "title": "violento amor",
-    "filename": "Leiva - violento amor.txt"
-  },
-  {
-    "id": "leiva-vis-a-vis",
-    "artist": "Leiva",
-    "title": "Vis a Vis",
-    "filename": "Leiva - Vis a Vis.txt"
-  },
-  {
-    "id": "leiva-feat-nina-de-juan-blancos-f-ciles",
     "artist": "Leiva Feat. Nina De Juan",
     "title": "Blancos Fáciles",
+    "id": "leiva-feat-nina-de-juan-blancos-fáciles",
     "filename": "Leiva Feat. Nina De Juan - Blancos Fáciles.txt"
   },
   {
-    "id": "leiva-ft-silvana-estrada-peligrosamente-dark",
     "artist": "Leiva Ft. Silvana Estrada",
     "title": "Peligrosamente Dark",
+    "id": "leiva-ft-silvana-estrada-peligrosamente-dark",
     "filename": "Leiva Ft. Silvana Estrada - Peligrosamente Dark.txt"
   },
   {
-    "id": "lenny-kravitz-sin-titulo",
-    "artist": "Lenny Kravitz",
-    "title": "Sin titulo",
-    "filename": "Lenny Kravitz - Sin titulo.txt"
+    "artist": "Leiva",
+    "title": "Gigante",
+    "id": "leiva-gigante",
+    "filename": "Leiva - Gigante.txt"
   },
   {
-    "id": "lewis-capaldi-someone-you-loved",
+    "artist": "Leiva",
+    "title": "Godzilla",
+    "id": "leiva-godzilla",
+    "filename": "Leiva - Godzilla.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Guerra Mundial",
+    "id": "leiva-guerra-mundial",
+    "filename": "Leiva - Guerra Mundial.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Hermosa Taquicardia",
+    "id": "leiva-hermosa-taquicardia",
+    "filename": "Leiva - Hermosa Taquicardia.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "histericos",
+    "id": "leiva-histericos",
+    "filename": "Leiva - histericos.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "hoy no me encuentro",
+    "id": "leiva-hoy-no-me-encuentro",
+    "filename": "Leiva - hoy no me encuentro.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "hoy tus ojos",
+    "id": "leiva-hoy-tus-ojos",
+    "filename": "Leiva - hoy tus ojos.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Iceberg",
+    "id": "leiva-iceberg",
+    "filename": "Leiva - Iceberg.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "index",
+    "id": "leiva-index",
+    "filename": "Leiva - index.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Infinitos",
+    "id": "leiva-infinitos",
+    "filename": "Leiva - Infinitos.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "lady madrid",
+    "id": "leiva-lady-madrid",
+    "filename": "Leiva - lady madrid.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "la estacion eterna",
+    "id": "leiva-la-estacion-eterna",
+    "filename": "Leiva - la estacion eterna.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "La Estación Eterna",
+    "id": "leiva-la-estación-eterna",
+    "filename": "Leiva - La Estación Eterna.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "La Francesita",
+    "id": "leiva-la-francesita",
+    "filename": "Leiva - La Francesita.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "La Llamada",
+    "id": "leiva-la-llamada",
+    "filename": "Leiva - La Llamada.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "La Lluvia en Los Zapatos",
+    "id": "leiva-la-lluvia-en-los-zapatos",
+    "filename": "Leiva - La Lluvia en Los Zapatos.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "las cuentas",
+    "id": "leiva-las-cuentas",
+    "filename": "Leiva - las cuentas.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Leiva",
+    "id": "leiva-leiva",
+    "filename": "Leiva - Leiva.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Lobos",
+    "id": "leiva-lobos",
+    "filename": "Leiva - Lobos.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Los Cantantes",
+    "id": "leiva-los-cantantes",
+    "filename": "Leiva - Los Cantantes.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Maniobras Suicidas",
+    "id": "leiva-maniobras-suicidas",
+    "filename": "Leiva - Maniobras Suicidas.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "medicina",
+    "id": "leiva-medicina",
+    "filename": "Leiva - medicina.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Miedo",
+    "id": "leiva-miedo",
+    "filename": "Leiva - Miedo.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "mi mejor version",
+    "id": "leiva-mi-mejor-version",
+    "filename": "Leiva - mi mejor version.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "mi pequeño chernobyl",
+    "id": "leiva-mi-pequeño-chernobyl",
+    "filename": "Leiva - mi pequeño chernobyl.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Mirada Perdida",
+    "id": "leiva-mirada-perdida",
+    "filename": "Leiva - Mirada Perdida.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "monstruos",
+    "id": "leiva-monstruos",
+    "filename": "Leiva - monstruos.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "No Te Preocupes Por Mi",
+    "id": "leiva-no-te-preocupes-por-mi",
+    "filename": "Leiva - No Te Preocupes Por Mi.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Nuclear",
+    "id": "leiva-nuclear",
+    "filename": "Leiva - Nuclear.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Nunca Nadie",
+    "id": "leiva-nunca-nadie",
+    "filename": "Leiva - Nunca Nadie.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Palomas",
+    "id": "leiva-palomas",
+    "filename": "Leiva - Palomas.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "peligrosamente dark",
+    "id": "leiva-peligrosamente-dark",
+    "filename": "Leiva - peligrosamente dark.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Penaltis",
+    "id": "leiva-penaltis",
+    "filename": "Leiva - Penaltis.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "pienso en aquella tarde",
+    "id": "leiva-pienso-en-aquella-tarde",
+    "filename": "Leiva - pienso en aquella tarde.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "polvora",
+    "id": "leiva-polvora",
+    "filename": "Leiva - polvora.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "premio de consolacion",
+    "id": "leiva-premio-de-consolacion",
+    "filename": "Leiva - premio de consolacion.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "princesas",
+    "id": "leiva-princesas",
+    "filename": "Leiva - princesas.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Sincericidio",
+    "id": "leiva-sincericidio",
+    "filename": "Leiva - Sincericidio.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "si quieres bailamos",
+    "id": "leiva-si-quieres-bailamos",
+    "filename": "Leiva - si quieres bailamos.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Stranger Things",
+    "id": "leiva-stranger-things",
+    "filename": "Leiva - Stranger Things.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "stranger things SIN CAPO",
+    "id": "leiva-stranger-things-sin-capo",
+    "filename": "Leiva - stranger things SIN CAPO.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Superpoderes",
+    "id": "leiva-superpoderes",
+    "filename": "Leiva - Superpoderes.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Terriblemente Cruel",
+    "id": "leiva-terriblemente-cruel",
+    "filename": "Leiva - Terriblemente Cruel.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "todo",
+    "id": "leiva-todo",
+    "filename": "Leiva - todo.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "todo lo que tu quieras",
+    "id": "leiva-todo-lo-que-tu-quieras",
+    "filename": "Leiva - todo lo que tu quieras.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Todo Lo Que Tú Quieras",
+    "id": "leiva-todo-lo-que-tú-quieras",
+    "filename": "Leiva - Todo Lo Que Tú Quieras.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "vertigo",
+    "id": "leiva-vertigo",
+    "filename": "Leiva - vertigo.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Vértigo",
+    "id": "leiva-vértigo",
+    "filename": "Leiva - Vértigo.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "violento amor",
+    "id": "leiva-violento-amor",
+    "filename": "Leiva - violento amor.txt"
+  },
+  {
+    "artist": "Leiva",
+    "title": "Vis a Vis",
+    "id": "leiva-vis-a-vis",
+    "filename": "Leiva - Vis a Vis.txt"
+  },
+  {
     "artist": "Lewis Capaldi",
     "title": "Someone You Loved",
+    "id": "lewis-capaldi-someone-you-loved",
     "filename": "Lewis Capaldi - Someone You Loved.txt"
   },
   {
-    "id": "lifehouse-you-and-me",
     "artist": "Lifehouse",
     "title": "YOU AND ME",
+    "id": "lifehouse-you-and-me",
     "filename": "Lifehouse - YOU AND ME.txt"
   },
   {
-    "id": "los-piratas-sin-titulo",
-    "artist": "Los Piratas",
-    "title": "Sin titulo",
-    "filename": "Los Piratas - Sin titulo.txt"
-  },
-  {
-    "id": "los-piratas-te-echare-de-menos",
     "artist": "Los Piratas",
     "title": "Te Echare De Menos",
+    "id": "los-piratas-te-echare-de-menos",
     "filename": "Los Piratas - Te Echare De Menos.txt"
   },
   {
-    "id": "los-rodriguez-dulce-condena",
     "artist": "Los Rodriguez",
     "title": "Dulce Condena",
+    "id": "los-rodriguez-dulce-condena",
     "filename": "Los Rodriguez - Dulce Condena.txt"
   },
   {
-    "id": "los-ronaldos-no-puedo-vivir-sin-ti",
     "artist": "Los Ronaldos",
     "title": "No Puedo Vivir Sin Ti",
+    "id": "los-ronaldos-no-puedo-vivir-sin-ti",
     "filename": "Los Ronaldos - No Puedo Vivir Sin Ti.txt"
   },
   {
-    "id": "los-secretos-cada-d-a",
     "artist": "Los Secretos",
     "title": "Cada Día",
+    "id": "los-secretos-cada-día",
     "filename": "Los Secretos - Cada Día.txt"
   },
   {
-    "id": "los-secretos-los-secretos",
     "artist": "Los Secretos",
     "title": "Los Secretos",
+    "id": "los-secretos-los-secretos",
     "filename": "Los Secretos - Los Secretos.txt"
   },
   {
-    "id": "los-secretos-sin-titulo",
-    "artist": "Los Secretos",
-    "title": "Sin titulo",
-    "filename": "Los Secretos - Sin titulo.txt"
-  },
-  {
-    "id": "los-secretos-y-no-amanece",
     "artist": "Los Secretos",
     "title": "Y No Amanece",
+    "id": "los-secretos-y-no-amanece",
     "filename": "Los Secretos - Y No Amanece.txt"
   },
   {
-    "id": "los-zigarros-desde-que-ya-no-eres-mia",
     "artist": "Los Zigarros",
     "title": "Desde Que Ya No Eres Mia",
+    "id": "los-zigarros-desde-que-ya-no-eres-mia",
     "filename": "Los Zigarros - Desde Que Ya No Eres Mia.txt"
   },
   {
-    "id": "love-of-lesbian-all-donde-sol-amos-gritar",
     "artist": "Love of Lesbian",
     "title": "Allí Donde Solíamos Gritar",
+    "id": "love-of-lesbian-allí-donde-solíamos-gritar",
     "filename": "Love of Lesbian - Allí Donde Solíamos Gritar.txt"
   },
   {
-    "id": "lp-lost-on-you",
     "artist": "Lp",
     "title": "LOST ON YOU",
+    "id": "lp-lost-on-you",
     "filename": "Lp - LOST ON YOU.txt"
   },
   {
-    "id": "lucas-masciano-me-gustas-cuando",
     "artist": "Lucas Masciano",
     "title": "Me Gustas Cuando",
+    "id": "lucas-masciano-me-gustas-cuando",
     "filename": "Lucas Masciano - Me Gustas Cuando.txt"
   },
   {
-    "id": "lynyrd-skynyrd-free-birdtxt",
     "artist": "Lynyrd Skynyrd",
     "title": "Free Birdtxt",
+    "id": "lynyrd-skynyrd-free-birdtxt",
     "filename": "Lynyrd Skynyrd - Free Birdtxt.txt"
   },
   {
-    "id": "lynyrd-skynyrd-simple-man",
     "artist": "Lynyrd Skynyrd",
     "title": "Simple Man",
+    "id": "lynyrd-skynyrd-simple-man",
     "filename": "Lynyrd Skynyrd - Simple Man.txt"
   },
   {
-    "id": "m-clan-saltamos-sin-mirar",
-    "artist": "M",
-    "title": "Clan - Saltamos Sin Mirar",
-    "filename": "M - Clan - Saltamos Sin Mirar.txt"
-  },
-  {
-    "id": "m-clan-arenas-movedizas",
-    "artist": "m-clan",
-    "title": "arenas movedizas",
-    "filename": "m-clan - arenas movedizas.txt"
-  },
-  {
-    "id": "m-clan-caminos-secundarios",
-    "artist": "m-clan",
-    "title": "caminos secundarios",
-    "filename": "m-clan - caminos secundarios.txt"
-  },
-  {
-    "id": "m-clan-caroilna",
-    "artist": "m-clan",
-    "title": "caroilna",
-    "filename": "m-clan - caroilna.txt"
-  },
-  {
-    "id": "m-clan-chilaba-y-cachimba",
-    "artist": "m-clan",
-    "title": "chilaba y cachimba",
-    "filename": "m-clan - chilaba y cachimba.txt"
-  },
-  {
-    "id": "m-clan-concierto-salvaje",
-    "artist": "m-clan",
-    "title": "concierto-salvaje",
-    "filename": "m-clan - concierto-salvaje.txt"
-  },
-  {
-    "id": "m-clan-corazon-en-transito",
-    "artist": "m-clan",
-    "title": "corazon en transito",
-    "filename": "m-clan - corazon en transito.txt"
-  },
-  {
-    "id": "m-clan-el-tren-que-nunca-cogimos",
-    "artist": "m-clan",
-    "title": "el tren que nunca cogimos",
-    "filename": "m-clan - el tren que nunca cogimos.txt"
-  },
-  {
-    "id": "m-clan-grupos-americanos",
-    "artist": "m-clan",
-    "title": "grupos-americanos",
-    "filename": "m-clan - grupos-americanos.txt"
-  },
-  {
-    "id": "m-clan-inmigrante",
-    "artist": "m-clan",
-    "title": "inmigrante",
-    "filename": "m-clan - inmigrante.txt"
-  },
-  {
-    "id": "m-clan-la-calma",
-    "artist": "m-clan",
-    "title": "la calma",
-    "filename": "m-clan - la calma.txt"
-  },
-  {
-    "id": "m-clan-la-esperanza",
-    "artist": "m-clan",
-    "title": "la-esperanza",
-    "filename": "m-clan - la-esperanza.txt"
-  },
-  {
-    "id": "m-clan-los-periodicos-de-ma-ana",
-    "artist": "m-clan",
-    "title": "los periodicos de mañana",
-    "filename": "m-clan - los periodicos de mañana.txt"
-  },
-  {
-    "id": "m-clan-maggie-despierta",
-    "artist": "m-clan",
-    "title": "maggie despierta",
-    "filename": "m-clan - maggie despierta.txt"
-  },
-  {
-    "id": "m-clan-miedo",
-    "artist": "m-clan",
-    "title": "miedo",
-    "filename": "m-clan - miedo.txt"
-  },
-  {
-    "id": "m-clan-noche-de-desolacion",
-    "artist": "m-clan",
-    "title": "noche de desolacion",
-    "filename": "m-clan - noche de desolacion.txt"
-  },
-  {
-    "id": "m-clan-polvo-de-estrellas",
-    "artist": "m-clan",
-    "title": "polvo de estrellas",
-    "filename": "m-clan - polvo de estrellas.txt"
-  },
-  {
-    "id": "m-clan-que-esta-pasando",
-    "artist": "m-clan",
-    "title": "que esta pasando",
-    "filename": "m-clan - que esta pasando.txt"
-  },
-  {
-    "id": "m-clan-quedate-a-dormir",
-    "artist": "m-clan",
-    "title": "quedate a dormir",
-    "filename": "m-clan - quedate a dormir.txt"
-  },
-  {
-    "id": "m-clan-roto-por-dentro",
-    "artist": "m-clan",
-    "title": "roto por dentro",
-    "filename": "m-clan - roto por dentro.txt"
-  },
-  {
-    "id": "m-clan-saltamos-sin-mirar",
-    "artist": "m-clan",
-    "title": "saltamos sin mirar",
-    "filename": "m-clan - saltamos sin mirar.txt"
-  },
-  {
-    "id": "m-clan-souvenir",
-    "artist": "m-clan",
-    "title": "souvenir",
-    "filename": "m-clan - souvenir.txt"
-  },
-  {
-    "id": "m-clan-todo-lo-joven-muere-hoy",
-    "artist": "m-clan",
-    "title": "todo lo joven muere hoy",
-    "filename": "m-clan - todo lo joven muere hoy.txt"
-  },
-  {
-    "id": "m-clan-traeme-tu-amor",
-    "artist": "m-clan",
-    "title": "traeme tu amor",
-    "filename": "m-clan - traeme tu amor.txt"
-  },
-  {
-    "id": "m-clan-usar-y-tirar",
-    "artist": "m-clan",
-    "title": "usar y tirar",
-    "filename": "m-clan - usar y tirar.txt"
-  },
-  {
-    "id": "m-clan-viaje-al-sur",
-    "artist": "m-clan",
-    "title": "viaje al sur",
-    "filename": "m-clan - viaje al sur.txt"
-  },
-  {
-    "id": "maldita-nerea-cuando-todas-las-historias-se-acaban",
     "artist": "Maldita Nerea",
     "title": "Cuando Todas Las Historias Se Acaban",
+    "id": "maldita-nerea-cuando-todas-las-historias-se-acaban",
     "filename": "Maldita Nerea - Cuando Todas Las Historias Se Acaban.txt"
   },
   {
-    "id": "maldita-nerea-piedra-papel-o-tijera",
     "artist": "Maldita Nerea",
     "title": "Piedra Papel O Tijera",
+    "id": "maldita-nerea-piedra-papel-o-tijera",
     "filename": "Maldita Nerea - Piedra Papel O Tijera.txt"
   },
   {
-    "id": "man-clavado-en-un-bar",
     "artist": "Maná",
     "title": "Clavado en Un Bar",
+    "id": "maná-clavado-en-un-bar",
     "filename": "Maná - Clavado en Un Bar.txt"
   },
   {
-    "id": "man-rayando-el-sol",
     "artist": "Maná",
     "title": "Rayando El Sol",
+    "id": "maná-rayando-el-sol",
     "filename": "Maná - Rayando El Sol.txt"
   },
   {
-    "id": "manolo-garc-a-carb-n-y-ramas-secas",
     "artist": "Manolo García",
     "title": "Carbón Y Ramas Secas",
+    "id": "manolo-garcía-carbón-y-ramas-secas",
     "filename": "Manolo García - Carbón Y Ramas Secas.txt"
   },
   {
-    "id": "manolo-garcia-p-jaros-de-barro",
     "artist": "Manolo Garcia",
     "title": "Pájaros De Barro",
+    "id": "manolo-garcia-pájaros-de-barro",
     "filename": "Manolo Garcia - Pájaros De Barro.txt"
   },
   {
-    "id": "marea-barniz",
+    "artist": "Marea",
+    "title": "Amor temporero",
+    "id": "marea-amor-temporero",
+    "filename": "Marea - Amor temporero.md"
+  },
+  {
     "artist": "Marea",
     "title": "Barniz",
+    "id": "marea-barniz",
     "filename": "Marea - Barniz.txt"
   },
   {
-    "id": "marea-incandescente",
     "artist": "Marea",
-    "title": "Incandescente",
-    "filename": "Marea - Incandescente.txt"
+    "title": "Corazon de mimbre",
+    "id": "marea-corazon-de-mimbre",
+    "filename": "Marea - Corazon de mimbre.md"
   },
   {
-    "id": "matchbox-twenty-sin-titulo",
-    "artist": "Matchbox Twenty",
-    "title": "Sin titulo",
-    "filename": "Matchbox Twenty - Sin titulo.txt"
+    "artist": "Marea",
+    "title": "Duerme conmigo",
+    "id": "marea-duerme-conmigo",
+    "filename": "Marea - Duerme conmigo.md"
   },
   {
-    "id": "mclan-clan",
+    "artist": "Marea",
+    "title": "El hijo de la ines",
+    "id": "marea-el-hijo-de-la-ines",
+    "filename": "Marea - El hijo de la ines.md"
+  },
+  {
+    "artist": "Marea",
+    "title": "El perro verde",
+    "id": "marea-el-perro-verde",
+    "filename": "Marea - El perro verde.md"
+  },
+  {
+    "artist": "Marea",
+    "title": "En tu agujero",
+    "id": "marea-en-tu-agujero",
+    "filename": "Marea - En tu agujero.md"
+  },
+  {
+    "artist": "Marea",
+    "title": "La rueca",
+    "id": "marea-la-rueca",
+    "filename": "Marea - La rueca.md"
+  },
+  {
+    "artist": "Marea",
+    "title": "Que se joda el viento",
+    "id": "marea-que-se-joda-el-viento",
+    "filename": "Marea - Que se joda el viento.md"
+  },
+  {
+    "artist": "Marea",
+    "title": "Romance de José E",
+    "id": "marea-romance-de-josé-e",
+    "filename": "Marea - Romance de José E.md"
+  },
+  {
+    "artist": "m-clan",
+    "title": "arenas movedizas",
+    "id": "m-clan-arenas-movedizas",
+    "filename": "m-clan - arenas movedizas.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "caminos secundarios",
+    "id": "m-clan-caminos-secundarios",
+    "filename": "m-clan - caminos secundarios.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "caroilna",
+    "id": "m-clan-caroilna",
+    "filename": "m-clan - caroilna.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "chilaba y cachimba",
+    "id": "m-clan-chilaba-y-cachimba",
+    "filename": "m-clan - chilaba y cachimba.txt"
+  },
+  {
     "artist": "MClan",
     "title": "Clan",
+    "id": "mclan-clan",
     "filename": "MClan - Clan.txt"
   },
   {
-    "id": "melon-diesel-quiero-un-camino",
+    "artist": "m-clan",
+    "title": "concierto-salvaje",
+    "id": "m-clan-concierto-salvaje",
+    "filename": "m-clan - concierto-salvaje.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "corazon en transito",
+    "id": "m-clan-corazon-en-transito",
+    "filename": "m-clan - corazon en transito.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "el tren que nunca cogimos",
+    "id": "m-clan-el-tren-que-nunca-cogimos",
+    "filename": "m-clan - el tren que nunca cogimos.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "grupos-americanos",
+    "id": "m-clan-grupos-americanos",
+    "filename": "m-clan - grupos-americanos.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "inmigrante",
+    "id": "m-clan-inmigrante",
+    "filename": "m-clan - inmigrante.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "la calma",
+    "id": "m-clan-la-calma",
+    "filename": "m-clan - la calma.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "la-esperanza",
+    "id": "m-clan-la-esperanza",
+    "filename": "m-clan - la-esperanza.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "los periodicos de mañana",
+    "id": "m-clan-los-periodicos-de-mañana",
+    "filename": "m-clan - los periodicos de mañana.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "maggie despierta",
+    "id": "m-clan-maggie-despierta",
+    "filename": "m-clan - maggie despierta.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "miedo",
+    "id": "m-clan-miedo",
+    "filename": "m-clan - miedo.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "noche de desolacion",
+    "id": "m-clan-noche-de-desolacion",
+    "filename": "m-clan - noche de desolacion.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "polvo de estrellas",
+    "id": "m-clan-polvo-de-estrellas",
+    "filename": "m-clan - polvo de estrellas.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "quedate a dormir",
+    "id": "m-clan-quedate-a-dormir",
+    "filename": "m-clan - quedate a dormir.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "que esta pasando",
+    "id": "m-clan-que-esta-pasando",
+    "filename": "m-clan - que esta pasando.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "roto por dentro",
+    "id": "m-clan-roto-por-dentro",
+    "filename": "m-clan - roto por dentro.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "saltamos sin mirar",
+    "id": "m-clan-saltamos-sin-mirar",
+    "filename": "m-clan - saltamos sin mirar.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "souvenir",
+    "id": "m-clan-souvenir",
+    "filename": "m-clan - souvenir.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "todo lo joven muere hoy",
+    "id": "m-clan-todo-lo-joven-muere-hoy",
+    "filename": "m-clan - todo lo joven muere hoy.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "traeme tu amor",
+    "id": "m-clan-traeme-tu-amor",
+    "filename": "m-clan - traeme tu amor.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "usar y tirar",
+    "id": "m-clan-usar-y-tirar",
+    "filename": "m-clan - usar y tirar.txt"
+  },
+  {
+    "artist": "m-clan",
+    "title": "viaje al sur",
+    "id": "m-clan-viaje-al-sur",
+    "filename": "m-clan - viaje al sur.txt"
+  },
+  {
     "artist": "Melon Diesel",
     "title": "Quiero Un Camino",
+    "id": "melon-diesel-quiero-un-camino",
     "filename": "Melon Diesel - Quiero Un Camino.txt"
   },
   {
-    "id": "michelle-branch-it-s-you",
     "artist": "Michelle Branch",
     "title": "It's You",
+    "id": "michelle-branch-its-you",
     "filename": "Michelle Branch - It's You.txt"
   },
   {
-    "id": "morgan-cruel",
     "artist": "Morgan",
     "title": "Cruel",
+    "id": "morgan-cruel",
     "filename": "Morgan - Cruel.txt"
   },
   {
-    "id": "morgan-intro",
     "artist": "Morgan",
     "title": "Intro",
+    "id": "morgan-intro",
     "filename": "Morgan - Intro.txt"
   },
   {
-    "id": "morgan-radio",
     "artist": "Morgan",
     "title": "Radio",
+    "id": "morgan-radio",
     "filename": "Morgan - Radio.txt"
   },
   {
-    "id": "morgan-sargento-de-hierro",
     "artist": "Morgan",
     "title": "Sargento De Hierro",
+    "id": "morgan-sargento-de-hierro",
     "filename": "Morgan - Sargento De Hierro.txt"
   },
   {
-    "id": "morgan-volver",
     "artist": "Morgan",
     "title": "Volver",
+    "id": "morgan-volver",
     "filename": "Morgan - Volver.txt"
   },
   {
-    "id": "nacha-pop-lucha-de-gigantes",
     "artist": "Nacha Pop",
     "title": "Lucha De Gigantes",
+    "id": "nacha-pop-lucha-de-gigantes",
     "filename": "Nacha Pop - Lucha De Gigantes.txt"
   },
   {
-    "id": "nena-daconte-en-que-estrella-estar",
     "artist": "Nena Daconte",
     "title": "en Que Estrella Estará",
+    "id": "nena-daconte-en-que-estrella-estará",
     "filename": "Nena Daconte - en Que Estrella Estará.txt"
   },
   {
-    "id": "nickelback-rockstar",
     "artist": "Nickelback",
     "title": "Rockstar",
+    "id": "nickelback-rockstar",
     "filename": "Nickelback - Rockstar.txt"
   },
   {
-    "id": "of-monsters-and-men-love-love-love",
     "artist": "Of Monsters and Men",
     "title": "Love Love Love",
+    "id": "of-monsters-and-men-love-love-love",
     "filename": "Of Monsters and Men - Love Love Love.txt"
   },
   {
-    "id": "paolo-nutini-candy",
+    "artist": "Otis redding",
+    "title": "sitting on the dock of the bay",
+    "id": "otis-redding-sitting-on-the-dock-of-the-bay",
+    "filename": "Otis redding - sitting on the dock of the bay.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "Dos palabras",
+    "id": "pablo-lopez-dos-palabras",
+    "filename": "Pablo lopez - Dos palabras.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "El camino",
+    "id": "pablo-lopez-el-camino",
+    "filename": "Pablo lopez - El camino.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "el futuro",
+    "id": "pablo-lopez-el-futuro",
+    "filename": "Pablo lopez - el futuro.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "El gato",
+    "id": "pablo-lopez-el-gato",
+    "filename": "Pablo lopez - El gato.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "el incendio",
+    "id": "pablo-lopez-el-incendio",
+    "filename": "Pablo lopez - el incendio.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "el mundo",
+    "id": "pablo-lopez-el-mundo",
+    "filename": "Pablo lopez - el mundo.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "El Patio",
+    "id": "pablo-lopez-el-patio",
+    "filename": "Pablo lopez - El Patio.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "el telefono",
+    "id": "pablo-lopez-el-telefono",
+    "filename": "Pablo lopez - el telefono.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "hijos del verbo amar",
+    "id": "pablo-lopez-hijos-del-verbo-amar",
+    "filename": "Pablo lopez - hijos del verbo amar.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "la dobleuve",
+    "id": "pablo-lopez-la-dobleuve",
+    "filename": "Pablo lopez - la dobleuve.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "la libertad",
+    "id": "pablo-lopez-la-libertad",
+    "filename": "Pablo lopez - la libertad.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "la mejor noche de mi vida",
+    "id": "pablo-lopez-la-mejor-noche-de-mi-vida",
+    "filename": "Pablo lopez - la mejor noche de mi vida.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "las 1700",
+    "id": "pablo-lopez-las-1700",
+    "filename": "Pablo lopez - las 1700.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "lo imposible",
+    "id": "pablo-lopez-lo-imposible",
+    "filename": "Pablo lopez - lo imposible.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "Lo saben mis zapatos",
+    "id": "pablo-lopez-lo-saben-mis-zapatos",
+    "filename": "Pablo lopez - Lo saben mis zapatos.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "te espero aqui",
+    "id": "pablo-lopez-te-espero-aqui",
+    "filename": "Pablo lopez - te espero aqui.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "tu enemigo",
+    "id": "pablo-lopez-tu-enemigo",
+    "filename": "Pablo lopez - tu enemigo.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "ven",
+    "id": "pablo-lopez-ven",
+    "filename": "Pablo lopez - ven.md"
+  },
+  {
+    "artist": "Pablo lopez",
+    "title": "vi",
+    "id": "pablo-lopez-vi",
+    "filename": "Pablo lopez - vi.md"
+  },
+  {
     "artist": "Paolo Nutini",
     "title": "candy",
+    "id": "paolo-nutini-candy",
     "filename": "Paolo Nutini - candy.txt"
   },
   {
-    "id": "pereza-amelie",
+    "artist": "Pavlo lopez",
+    "title": "El niño",
+    "id": "pavlo-lopez-el-niño",
+    "filename": "Pavlo lopez - El niño.md"
+  },
+  {
     "artist": "Pereza",
     "title": "Amelie",
+    "id": "pereza-amelie",
     "filename": "Pereza - Amelie.txt"
   },
   {
-    "id": "pereza-animales",
     "artist": "Pereza",
     "title": "Animales",
+    "id": "pereza-animales",
     "filename": "Pereza - Animales.txt"
   },
   {
-    "id": "pereza-aproximaci-n",
     "artist": "Pereza",
     "title": "Aproximación",
+    "id": "pereza-aproximación",
     "filename": "Pereza - Aproximación.txt"
   },
   {
-    "id": "pereza-como-lo-tienes-tu",
     "artist": "Pereza",
     "title": "Como Lo Tienes Tu",
+    "id": "pereza-como-lo-tienes-tu",
     "filename": "Pereza - Como Lo Tienes Tu.txt"
   },
   {
-    "id": "pereza-estrella-polar",
     "artist": "Pereza",
     "title": "Estrella Polar",
+    "id": "pereza-estrella-polar",
     "filename": "Pereza - Estrella Polar.txt"
   },
   {
-    "id": "pereza-la-noria",
-    "artist": "Pereza",
-    "title": "La Noria",
-    "filename": "Pereza - La Noria.txt"
-  },
-  {
-    "id": "pereza-lady-madrid",
     "artist": "Pereza",
     "title": "Lady Madrid",
+    "id": "pereza-lady-madrid",
     "filename": "Pereza - Lady Madrid.txt"
   },
   {
-    "id": "pereza-madrid",
+    "artist": "Pereza",
+    "title": "La Noria",
+    "id": "pereza-la-noria",
+    "filename": "Pereza - La Noria.txt"
+  },
+  {
     "artist": "Pereza",
     "title": "Madrid",
+    "id": "pereza-madrid",
     "filename": "Pereza - Madrid.txt"
   },
   {
-    "id": "pereza-pienso-en-aquella-tarde",
     "artist": "Pereza",
     "title": "Pienso en Aquella Tarde",
+    "id": "pereza-pienso-en-aquella-tarde",
     "filename": "Pereza - Pienso en Aquella Tarde.txt"
   },
   {
-    "id": "pereza-por-mi-tripa",
     "artist": "Pereza",
     "title": "Por Mi Tripa",
+    "id": "pereza-por-mi-tripa",
     "filename": "Pereza - Por Mi Tripa.txt"
   },
   {
-    "id": "pereza-princesas",
     "artist": "Pereza",
     "title": "Princesas",
+    "id": "pereza-princesas",
     "filename": "Pereza - Princesas.txt"
   },
   {
-    "id": "pereza-si-quieres-bailamos",
     "artist": "Pereza",
     "title": "Si Quieres Bailamos",
+    "id": "pereza-si-quieres-bailamos",
     "filename": "Pereza - Si Quieres Bailamos.txt"
   },
   {
-    "id": "pereza-todo",
     "artist": "Pereza",
     "title": "Todo",
+    "id": "pereza-todo",
     "filename": "Pereza - Todo.txt"
   },
   {
-    "id": "pereza-violento-amor",
     "artist": "Pereza",
     "title": "Violento Amor",
+    "id": "pereza-violento-amor",
     "filename": "Pereza - Violento Amor.txt"
   },
   {
-    "id": "pereza-yo-solo-quiero",
     "artist": "Pereza",
     "title": "Yo Solo Quiero",
+    "id": "pereza-yo-solo-quiero",
     "filename": "Pereza - Yo Solo Quiero.txt"
   },
   {
-    "id": "quique-gonz-lez-charo",
+    "artist": "Pol 314",
+    "title": "lo-que-no-ves",
+    "id": "pol-314-lo-que-no-ves",
+    "filename": "Pol 314 - lo-que-no-ves.md"
+  },
+  {
     "artist": "Quique González",
     "title": "Charo",
+    "id": "quique-gonzález-charo",
     "filename": "Quique González - Charo.txt"
   },
   {
-    "id": "quique-gonzalez-de-haberlo-sabido",
     "artist": "Quique Gonzalez",
     "title": "De Haberlo Sabido",
+    "id": "quique-gonzalez-de-haberlo-sabido",
     "filename": "Quique Gonzalez - De Haberlo Sabido.txt"
   },
   {
-    "id": "r-e-m-losing-my-religion",
-    "artist": "R.E.M",
-    "title": "Losing My Religion",
-    "filename": "R.E.M - Losing My Religion.txt"
-  },
-  {
-    "id": "r-e-m-man-on-the-moon",
-    "artist": "R.E.M",
-    "title": "Man on the Moon",
-    "filename": "R.E.M - Man on the Moon.txt"
-  },
-  {
-    "id": "red-hot-chili-peppers-by-the-way",
     "artist": "Red Hot Chili Peppers",
     "title": "by the Way",
+    "id": "red-hot-chili-peppers-by-the-way",
     "filename": "Red Hot Chili Peppers - by the Way.txt"
   },
   {
-    "id": "red-hot-chili-peppers-dani-california",
     "artist": "Red Hot Chili Peppers",
     "title": "Dani California",
+    "id": "red-hot-chili-peppers-dani-california",
     "filename": "Red Hot Chili Peppers - Dani California.txt"
   },
   {
-    "id": "red-hot-chili-peppers-otherside",
     "artist": "Red Hot Chili Peppers",
     "title": "Otherside",
+    "id": "red-hot-chili-peppers-otherside",
     "filename": "Red Hot Chili Peppers - Otherside.txt"
   },
   {
-    "id": "red-hot-chili-peppers-scar-tissue",
     "artist": "Red Hot Chili Peppers",
     "title": "Scar Tissue",
+    "id": "red-hot-chili-peppers-scar-tissue",
     "filename": "Red Hot Chili Peppers - Scar Tissue.txt"
   },
   {
-    "id": "revolver-dos-por-dos",
+    "artist": "R.E.M",
+    "title": "Losing My Religion",
+    "id": "rem-losing-my-religion",
+    "filename": "R.E.M - Losing My Religion.txt"
+  },
+  {
+    "artist": "R.E.M",
+    "title": "Man on the Moon",
+    "id": "rem-man-on-the-moon",
+    "filename": "R.E.M - Man on the Moon.txt"
+  },
+  {
     "artist": "Revolver",
     "title": "Dos Por Dos",
+    "id": "revolver-dos-por-dos",
     "filename": "Revolver - Dos Por Dos.txt"
   },
   {
-    "id": "revolver-el-dorado",
     "artist": "Revolver",
     "title": "EL DORADO",
+    "id": "revolver-el-dorado",
     "filename": "Revolver - EL DORADO.txt"
   },
   {
-    "id": "revolver-el-peligro",
     "artist": "Revolver",
     "title": "El Peligro",
+    "id": "revolver-el-peligro",
     "filename": "Revolver - El Peligro.txt"
   },
   {
-    "id": "revolver-el-roce-de-tu-piel",
     "artist": "Revolver",
     "title": "El Roce De Tu Piel",
+    "id": "revolver-el-roce-de-tu-piel",
     "filename": "Revolver - El Roce De Tu Piel.txt"
   },
   {
-    "id": "revolver-es-mejor-caminar",
-    "artist": "Revolver",
-    "title": "Es Mejor Caminar",
-    "filename": "Revolver - Es Mejor Caminar.txt"
-  },
-  {
-    "id": "revolver-esclavo-de-tu-amor",
     "artist": "Revolver",
     "title": "Esclavo De Tu Amor",
+    "id": "revolver-esclavo-de-tu-amor",
     "filename": "Revolver - Esclavo De Tu Amor.txt"
   },
   {
-    "id": "revolver-eso-de-saber",
+    "artist": "Revolver",
+    "title": "Es Mejor Caminar",
+    "id": "revolver-es-mejor-caminar",
+    "filename": "Revolver - Es Mejor Caminar.txt"
+  },
+  {
     "artist": "Revolver",
     "title": "Eso De Saber",
+    "id": "revolver-eso-de-saber",
     "filename": "Revolver - Eso De Saber.txt"
   },
   {
-    "id": "revolver-mi-rendici-n",
     "artist": "Revolver",
     "title": "MI RENDICIÓN",
+    "id": "revolver-mi-rendición",
     "filename": "Revolver - MI RENDICIÓN.txt"
   },
   {
-    "id": "revolver-odio",
     "artist": "Revolver",
     "title": "Odio",
+    "id": "revolver-odio",
     "filename": "Revolver - Odio.txt"
   },
   {
-    "id": "revolver-san-pedro",
     "artist": "Revolver",
     "title": "San Pedro",
+    "id": "revolver-san-pedro",
     "filename": "Revolver - San Pedro.txt"
   },
   {
-    "id": "revolver-sara",
     "artist": "Revolver",
     "title": "Sara",
+    "id": "revolver-sara",
     "filename": "Revolver - Sara.txt"
   },
   {
-    "id": "revolver-si-es-tan-solo-amor",
     "artist": "Revolver",
     "title": "Si Es Tan Solo Amor",
+    "id": "revolver-si-es-tan-solo-amor",
     "filename": "Revolver - Si Es Tan Solo Amor.txt"
   },
   {
-    "id": "revolver-tu-canci-n",
     "artist": "Revolver",
     "title": "Tu Canción",
+    "id": "revolver-tu-canción",
     "filename": "Revolver - Tu Canción.txt"
   },
   {
-    "id": "revolver-tu-noche-y-la-m-a",
     "artist": "Revolver",
     "title": "Tu Noche Y La Mía",
+    "id": "revolver-tu-noche-y-la-mía",
     "filename": "Revolver - Tu Noche Y La Mía.txt"
   },
   {
-    "id": "rise-against-hero-of-war",
     "artist": "Rise Against",
     "title": "Hero of War",
-    "filename": "Rise Against - Hero of War.txt"
+    "id": "rise-against-hero-of-war",
+    "filename": "Rise Against - Hero of War.md"
   },
   {
-    "id": "ron-pope-a-drop-in-the-ocean",
-    "artist": "Ron Pope",
-    "title": "a Drop in the Ocean",
-    "filename": "Ron Pope - a Drop in the Ocean.txt"
-  },
-  {
-    "id": "ronan-keating-when-you-say-nothing-at-all",
     "artist": "Ronan Keating",
     "title": "When You Say Nothing at All",
+    "id": "ronan-keating-when-you-say-nothing-at-all",
     "filename": "Ronan Keating - When You Say Nothing at All.txt"
   },
   {
-    "id": "rosana-llegaremos-a-tiempo",
+    "artist": "Ron Pope",
+    "title": "a Drop in the Ocean",
+    "id": "ron-pope-a-drop-in-the-ocean",
+    "filename": "Ron Pope - a Drop in the Ocean.txt"
+  },
+  {
     "artist": "Rosana",
     "title": "Llegaremos a Tiempo",
+    "id": "rosana-llegaremos-a-tiempo",
     "filename": "Rosana - Llegaremos a Tiempo.txt"
   },
   {
-    "id": "seal-crazy",
     "artist": "Seal",
     "title": "Crazy",
+    "id": "seal-crazy",
     "filename": "Seal - Crazy.txt"
   },
   {
-    "id": "seal-kiss-from-a-rose",
     "artist": "Seal",
     "title": "Kiss From a Rose",
+    "id": "seal-kiss-from-a-rose",
     "filename": "Seal - Kiss From a Rose.txt"
   },
   {
-    "id": "shakira-ciega-sordomuda",
     "artist": "Shakira",
     "title": "Ciega Sordomuda",
+    "id": "shakira-ciega-sordomuda",
     "filename": "Shakira - Ciega Sordomuda.txt"
   },
   {
-    "id": "shakira-dia-de-enero",
     "artist": "Shakira",
     "title": "Dia De Enero",
+    "id": "shakira-dia-de-enero",
     "filename": "Shakira - Dia De Enero.txt"
   },
   {
-    "id": "shakira-dia-especial",
     "artist": "Shakira",
     "title": "Dia Especial",
+    "id": "shakira-dia-especial",
     "filename": "Shakira - Dia Especial.txt"
   },
   {
-    "id": "shakira-donde-estas-corazon",
     "artist": "Shakira",
     "title": "Donde Estas Corazon",
+    "id": "shakira-donde-estas-corazon",
     "filename": "Shakira - Donde Estas Corazon.txt"
   },
   {
-    "id": "shakira-el-octavo-d-a",
     "artist": "Shakira",
     "title": "El Octavo Día",
+    "id": "shakira-el-octavo-día",
     "filename": "Shakira - El Octavo Día.txt"
   },
   {
-    "id": "shakira-estoy-aqui",
     "artist": "Shakira",
     "title": "Estoy Aqui",
+    "id": "shakira-estoy-aqui",
     "filename": "Shakira - Estoy Aqui.txt"
   },
   {
-    "id": "shakira-la-pared",
     "artist": "Shakira",
     "title": "La Pared",
+    "id": "shakira-la-pared",
     "filename": "Shakira - La Pared.txt"
   },
   {
-    "id": "shakira-no",
     "artist": "Shakira",
     "title": "No",
+    "id": "shakira-no",
     "filename": "Shakira - No.txt"
   },
   {
-    "id": "shakira-pies-descalzos-sue-os-blancos",
     "artist": "Shakira",
     "title": "Pies Descalzos Sueños Blancos",
+    "id": "shakira-pies-descalzos-sueños-blancos",
     "filename": "Shakira - Pies Descalzos Sueños Blancos.txt"
   },
   {
-    "id": "shakira-que-me-quedes-t",
     "artist": "Shakira",
     "title": "Que Me Quedes Tú",
+    "id": "shakira-que-me-quedes-tú",
     "filename": "Shakira - Que Me Quedes Tú.txt"
   },
   {
-    "id": "shakira-si-te-vas",
     "artist": "Shakira",
     "title": "Si Te Vas",
+    "id": "shakira-si-te-vas",
     "filename": "Shakira - Si Te Vas.txt"
   },
   {
-    "id": "shakira-te-dejo-madrid",
     "artist": "Shakira",
     "title": "Te Dejo Madrid",
+    "id": "shakira-te-dejo-madrid",
     "filename": "Shakira - Te Dejo Madrid.txt"
   },
   {
-    "id": "shakira-underneath-your-clothes",
     "artist": "Shakira",
     "title": "Underneath Your Clothes",
+    "id": "shakira-underneath-your-clothes",
     "filename": "Shakira - Underneath Your Clothes.txt"
   },
   {
-    "id": "sidecars-contra-las-cuerdas",
     "artist": "Sidecars",
     "title": "Contra Las Cuerdas",
+    "id": "sidecars-contra-las-cuerdas",
     "filename": "Sidecars - Contra Las Cuerdas.txt"
   },
   {
-    "id": "sidecars-dinamita",
     "artist": "Sidecars",
     "title": "Dinamita",
+    "id": "sidecars-dinamita",
     "filename": "Sidecars - Dinamita.txt"
   },
   {
-    "id": "sidecars-la-tormenta",
     "artist": "Sidecars",
     "title": "La Tormenta",
+    "id": "sidecars-la-tormenta",
     "filename": "Sidecars - La Tormenta.txt"
   },
   {
-    "id": "siloe-que-merezca-la-pena",
     "artist": "siloe",
     "title": "que merezca la pena",
+    "id": "siloe-que-merezca-la-pena",
     "filename": "siloe - que merezca la pena.txt"
   },
   {
-    "id": "simple-plan-i-m-just-a-kid",
     "artist": "Simple Plan",
     "title": "I’m Just a Kid",
+    "id": "simple-plan-im-just-a-kid",
     "filename": "Simple Plan - I’m Just a Kid.txt"
   },
   {
-    "id": "simple-plan-im-just-a-kid",
-    "artist": "Simple Plan",
-    "title": "Im Just a Kid",
-    "filename": "Simple Plan - Im Just a Kid.txt"
-  },
-  {
-    "id": "sin-bandera-entra-en-mi-vida",
     "artist": "Sin Bandera",
     "title": "Entra en Mi Vida",
+    "id": "sin-bandera-entra-en-mi-vida",
     "filename": "Sin Bandera - Entra en Mi Vida.txt"
   },
   {
-    "id": "sin-bandera-mientes-tan-bien",
     "artist": "Sin Bandera",
     "title": "Mientes Tan Bien",
+    "id": "sin-bandera-mientes-tan-bien",
     "filename": "Sin Bandera - Mientes Tan Bien.txt"
   },
   {
-    "id": "sin-bandera-que-lloro",
     "artist": "Sin Bandera",
     "title": "Que Lloro",
+    "id": "sin-bandera-que-lloro",
     "filename": "Sin Bandera - Que Lloro.txt"
   },
   {
-    "id": "smashing-pumpkins-tonight-tonight",
     "artist": "Smashing Pumpkins",
     "title": "Tonight Tonight",
+    "id": "smashing-pumpkins-tonight-tonight",
     "filename": "Smashing Pumpkins - Tonight Tonight.txt"
   },
   {
-    "id": "snow-patrol-the-finish-line",
     "artist": "Snow Patrol",
     "title": "the Finish Line",
+    "id": "snow-patrol-the-finish-line",
     "filename": "Snow Patrol - the Finish Line.txt"
   },
   {
-    "id": "snow-patrol-you-could-be-happy",
     "artist": "Snow Patrol",
     "title": "You Could Be Happy",
+    "id": "snow-patrol-you-could-be-happy",
     "filename": "Snow Patrol - You Could Be Happy.txt"
   },
   {
-    "id": "sopa-de-cabra-camins",
     "artist": "Sopa De Cabra",
     "title": "Camins",
+    "id": "sopa-de-cabra-camins",
     "filename": "Sopa De Cabra - Camins.txt"
   },
   {
-    "id": "sopa-de-cabra-l-emporda",
     "artist": "Sopa De Cabra",
     "title": "L’emporda",
+    "id": "sopa-de-cabra-lemporda",
     "filename": "Sopa De Cabra - L’emporda.txt"
   },
   {
-    "id": "sting-englishman-in-new-york",
     "artist": "Sting",
     "title": "Englishman in New York",
+    "id": "sting-englishman-in-new-york",
     "filename": "Sting - Englishman in New York.txt"
   },
   {
-    "id": "stone-sour-through-glass",
     "artist": "Stone Sour",
     "title": "Through Glass",
+    "id": "stone-sour-through-glass",
     "filename": "Stone Sour - Through Glass.txt"
   },
   {
-    "id": "tam-tam-go-espaldas-mojadas",
     "artist": "Tam Tam Go",
     "title": "Espaldas Mojadas",
+    "id": "tam-tam-go-espaldas-mojadas",
     "filename": "Tam Tam Go - Espaldas Mojadas.txt"
   },
   {
-    "id": "taxi-perdido-en-la-calle",
     "artist": "Taxi",
     "title": "Perdido en La Calle",
+    "id": "taxi-perdido-en-la-calle",
     "filename": "Taxi - Perdido en La Calle.txt"
   },
   {
-    "id": "taylor-swift-treacherous",
     "artist": "Taylor Swift",
     "title": "treacherous",
+    "id": "taylor-swift-treacherous",
     "filename": "Taylor Swift - treacherous.txt"
   },
   {
-    "id": "tequila-mucho-mejor",
     "artist": "Tequila",
     "title": "Mucho Mejor",
+    "id": "tequila-mucho-mejor",
     "filename": "Tequila - Mucho Mejor.txt"
   },
   {
-    "id": "the-beatles-now-and-then",
     "artist": "The Beatles",
     "title": "Now and Then",
+    "id": "the-beatles-now-and-then",
     "filename": "The Beatles - Now and Then.txt"
   },
   {
-    "id": "the-calling-wherever-you-will-go",
     "artist": "The Calling",
     "title": "Wherever You Will Go",
+    "id": "the-calling-wherever-you-will-go",
     "filename": "The Calling - Wherever You Will Go.txt"
   },
   {
-    "id": "the-fray-how-to-save-a-life",
+    "artist": "The cranberries",
+    "title": "just my imagination",
+    "id": "the-cranberries-just-my-imagination",
+    "filename": "The cranberries - just my imagination.md"
+  },
+  {
     "artist": "The Fray",
     "title": "How to Save a Life",
+    "id": "the-fray-how-to-save-a-life",
     "filename": "The Fray - How to Save a Life.txt"
   },
   {
-    "id": "the-fray-you-found-me",
     "artist": "The Fray",
     "title": "You Found Me",
+    "id": "the-fray-you-found-me",
     "filename": "The Fray - You Found Me.txt"
   },
   {
-    "id": "the-last-of-us-take-on-me",
     "artist": "The Last of Us",
     "title": "Take on Me",
+    "id": "the-last-of-us-take-on-me",
     "filename": "The Last of Us - Take on Me.txt"
   },
   {
-    "id": "the-script-the-man-who-can-t-be-moved",
     "artist": "The Script",
     "title": "the Man Who Can’t Be Moved",
+    "id": "the-script-the-man-who-cant-be-moved",
     "filename": "The Script - the Man Who Can’t Be Moved.txt"
   },
   {
-    "id": "the-verve-lucky-man",
     "artist": "The Verve",
     "title": "Lucky Man",
+    "id": "the-verve-lucky-man",
     "filename": "The Verve - Lucky Man.txt"
   },
   {
-    "id": "the-who-behind-blue-eyes",
     "artist": "The Who",
     "title": "Behind Blue Eyes",
+    "id": "the-who-behind-blue-eyes",
     "filename": "The Who - Behind Blue Eyes.txt"
   },
   {
-    "id": "tom-odell-another-love",
     "artist": "Tom Odell",
     "title": "Another Love",
+    "id": "tom-odell-another-love",
     "filename": "Tom Odell - Another Love.txt"
   },
   {
-    "id": "train-hey-soul-sister",
+    "artist": "Josep Thió",
+    "title": "Quan somrius",
+    "id": "josep-thio-quan-somrius",
+    "filename": "Josep Thió - Quan somrius.md"
+  },
+  {
+    "artist": "Villancicos",
+    "title": "Tot el que vull per nadal",
+    "id": "villancicos-tot-el-que-vull-per-nadal",
+    "filename": "Villancicos - Tot el que vull per nadal.md"
+  },
+  {
+    "artist": "BSO Toy Story",
+    "title": "Hay un amigo en mi",
+    "id": "bso-toy-story-hay-un-amigo-en-mi",
+    "filename": "BSO Toy Story - Hay un amigo en mi.md"
+  },
+  {
     "artist": "Train",
     "title": "Hey Soul Sister",
+    "id": "train-hey-soul-sister",
     "filename": "Train - Hey Soul Sister.txt"
   },
   {
-    "id": "u2-one",
     "artist": "U2",
     "title": "One",
+    "id": "u2-one",
     "filename": "U2 - One.txt"
   },
   {
-    "id": "van-morrison-brown-eyed-girl",
+    "artist": "BSO Vaiana",
+    "title": "Que hay más allá",
+    "id": "bso-vaiana-que-hay-mas-alla",
+    "filename": "BSO Vaiana - Que hay más allá.md"
+  },
+  {
+    "artist": "BSO Vaiana",
+    "title": "Un nuevo hogar",
+    "id": "bso-vaiana-un-nuevo-hogar",
+    "filename": "BSO Vaiana - Un nuevo hogar.md"
+  },
+  {
+    "artist": "BSO Vaiana",
+    "title": "De nada",
+    "id": "bso-vaiana-de-nada",
+    "filename": "BSO Vaiana - De nada.md"
+  },
+  {
     "artist": "Van Morrison",
     "title": "Brown Eyed Girl",
+    "id": "van-morrison-brown-eyed-girl",
     "filename": "Van Morrison - Brown Eyed Girl.txt"
   },
   {
-    "id": "vetusta-morla-copenhague",
+    "artist": "Vetusta Morla",
+    "title": "23 de junio",
+    "id": "vetusta-morla-23-de-junio",
+    "filename": "Vetusta Morla - 23 de junio.md"
+  },
+  {
     "artist": "Vetusta Morla",
     "title": "Copenhague",
+    "id": "vetusta-morla-copenhague",
     "filename": "Vetusta Morla - Copenhague.txt"
   },
   {
-    "id": "vetusta-morla-de-junio",
     "artist": "Vetusta Morla",
     "title": "De Junio",
+    "id": "vetusta-morla-de-junio",
     "filename": "Vetusta Morla - De Junio.txt"
   },
   {
-    "id": "vetusta-morla-finisterre",
     "artist": "Vetusta Morla",
     "title": "Finisterre",
+    "id": "vetusta-morla-finisterre",
     "filename": "Vetusta Morla - Finisterre.txt"
   },
   {
-    "id": "vetusta-morla-maldita-dulzura",
     "artist": "Vetusta Morla",
     "title": "Maldita Dulzura",
+    "id": "vetusta-morla-maldita-dulzura",
     "filename": "Vetusta Morla - Maldita Dulzura.txt"
   },
   {
-    "id": "yesterday-beatles-tabs-tablatures-lyrics-chords-guitar-bass-tab-power",
     "artist": "Yesterday",
     "title": "Beatles Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power",
+    "id": "yesterday-beatles-tabs-tablatures-lyrics-chords-guitar-bass-tab-power",
     "filename": "Yesterday - Beatles Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power.txt"
   },
   {
-    "id": "zenttricc-solo-quiero-bailar",
     "artist": "Zenttricc",
     "title": "Solo Quiero Bailar",
+    "id": "zenttricc-solo-quiero-bailar",
     "filename": "Zenttricc - Solo Quiero Bailar.txt"
+  },
+  {
+    "artist": "Josep Thió",
+    "title": "Quan somrius",
+    "id": "josep-thio-quan-somrius",
+    "filename": "Josep Thió - Quan somrius.md"
+  },
+  {
+    "artist": "Villancicos",
+    "title": "Tot el que vull per nadal",
+    "id": "villancicos-tot-el-que-vull-per-nadal",
+    "filename": "Villancicos - Tot el que vull per nadal.md"
+  },
+  {
+    "artist": "Coque Malla",
+    "title": "Berlín",
+    "filename": "Coque Malla - Berlín.txt",
+    "id": "coque-malla-berlin"
+  },
+  {
+    "artist": "Johnny Cash",
+    "title": "Hurt",
+    "filename": "Johnny Cash - Hurt.txt",
+    "id": "johnny-cash-hurt"
+  },
+  {
+    "artist": "Los Secretos",
+    "title": "Dejame",
+    "filename": "Los Secretos - Dejame.txt",
+    "id": "los-secretos-dejame"
+  },
+  {
+    "artist": "Leiva",
+    "title": "92",
+    "filename": "Leiva - 92.txt",
+    "id": "leiva-92"
+  },
+  {
+    "artist": "Dani Martín",
+    "title": "Cuatro Likes",
+    "filename": "Dani Martín - Cuatro Likes.txt",
+    "id": "dani-martin-cuatro-likes"
+  },
+  {
+    "artist": "El Canto Del Loco",
+    "title": "Besos",
+    "filename": "El Canto Del Loco - Besos.txt",
+    "id": "el-canto-del-loco-besos"
+  },
+  {
+    "artist": "Jarabe De Palo",
+    "title": "Vecina",
+    "filename": "Jarabe De Palo - Vecina.txt",
+    "id": "jarabe-de-palo-vecina"
+  },
+  {
+    "artist": "Lenny Kravitz",
+    "title": "Again",
+    "filename": "Lenny Kravitz - Again.txt",
+    "id": "lenny-kravitz-again"
+  },
+  {
+    "artist": "Los Piratas",
+    "title": "M",
+    "filename": "Los Piratas - M.txt",
+    "id": "los-piratas-m"
+  },
+  {
+    "artist": "Matchbox Twenty",
+    "title": "Unwell",
+    "filename": "Matchbox Twenty - Unwell.txt",
+    "id": "matchbox-twenty-unwell"
   }
 ]

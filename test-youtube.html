@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test YouTube</title>
+    <style>
+        body { font-family: Arial; padding: 20px; }
+        #container { max-width: 600px; margin: 0 auto; }
+        input { width: 100%; padding: 10px; margin: 10px 0; font-size: 16px; }
+        button { padding: 10px 20px; margin: 10px 5px 10px 0; cursor: pointer; }
+        iframe { margin: 20px 0; }
+        #output { background: #f0f0f0; padding: 10px; margin: 10px 0; border-radius: 5px; white-space: pre-wrap; font-family: monospace; font-size: 12px; }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>Test YouTube para Partituras</h1>
+        
+        <h3>Ingresa una URL de YouTube:</h3>
+        <input id="urlInput" type="url" placeholder="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        
+        <button onclick="testExtract()">Test Extraer ID</button>
+        <button onclick="testEmbed()">Test Embed</button>
+        <button onclick="loadVideo()">Cargar Video</button>
+        
+        <div id="output"></div>
+        
+        <div id="playerContainer" style="display:none;">
+            <h3>Video:</h3>
+            <iframe 
+                id="player"
+                width="100%" 
+                height="315" 
+                frameborder="0"
+                allowfullscreen
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                style="border-radius: 5px;"
+            ></iframe>
+        </div>
+    </div>
+
+    <script>
+        function log(msg) {
+            const output = document.getElementById('output');
+            output.textContent += msg + '\n';
+            console.log(msg);
+        }
+
+        function extractYouTubeVideoId(url) {
+            if (!url) return null;
+            const patterns = [
+                /(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&\n?#]+)/,
+                /youtube\.com\/embed\/([^&\n?#]+)/,
+                /youtube\.com\/v\/([^&\n?#]+)/,
+                /^([a-zA-Z0-9_-]{11})$/
+            ];
+            for (const pattern of patterns) {
+                const match = url.match(pattern);
+                if (match && match[1]) return match[1];
+            }
+            return null;
+        }
+
+        function createYouTubeEmbedUrl(videoId) {
+            if (!videoId) return null;
+            return `https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1`;
+        }
+
+        function testExtract() {
+            const url = document.getElementById('urlInput').value;
+            const output = document.getElementById('output');
+            output.textContent = '';
+            log('URL: ' + url);
+            const videoId = extractYouTubeVideoId(url);
+            log('Video ID: ' + (videoId || 'NO FOUND'));
+        }
+
+        function testEmbed() {
+            const url = document.getElementById('urlInput').value;
+            const output = document.getElementById('output');
+            output.textContent = '';
+            const videoId = extractYouTubeVideoId(url);
+            if (!videoId) {
+                log('Error: No se pudo extraer el ID del video');
+                return;
+            }
+            const embedUrl = createYouTubeEmbedUrl(videoId);
+            log('Embed URL: ' + embedUrl);
+        }
+
+        function loadVideo() {
+            const url = document.getElementById('urlInput').value;
+            const output = document.getElementById('output');
+            output.textContent = '';
+            
+            if (!url) {
+                log('Error: Ingresa una URL');
+                return;
+            }
+
+            const videoId = extractYouTubeVideoId(url);
+            if (!videoId) {
+                log('Error: No se pudo extraer el ID del video');
+                return;
+            }
+
+            const embedUrl = createYouTubeEmbedUrl(videoId);
+            log('Cargando: ' + embedUrl);
+            
+            document.getElementById('player').src = embedUrl;
+            document.getElementById('playerContainer').style.display = 'block';
+            log('✓ Video cargado correctamente');
+        }
+    </script>
+</body>
+</html>

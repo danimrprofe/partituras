@@ -686,6 +686,14 @@
     "techniques": [],
     "chords": []
   },
+  "leiva-92": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "techniques": [],
+    "rating": 0,
+    "tuning": ""
+  },
   "leiva-a-ti-te-ocurre-algo": {
     "tuning": "",
     "instruments": [
@@ -696,7 +704,7 @@
   "leiva-afuera-en-la-ciudad": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
@@ -724,7 +732,8 @@
   "leiva-aunque-sea-un-rato": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-acustica",
+      "piano"
     ],
     "rating": 0
   },
@@ -759,7 +768,7 @@
   "leiva-cerca": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
@@ -794,6 +803,7 @@
   "leiva-costa-de-oaxaca": {
     "tuning": "",
     "instruments": [
+      "piano",
       "guitarra-acustica"
     ],
     "rating": 0
@@ -878,7 +888,7 @@
   "leiva-extasis": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
@@ -900,6 +910,16 @@
     ],
     "rating": 0
   },
+  "leiva-francesita": {
+    "instruments": [
+      "guitarra-electrica"
+    ],
+    "techniques": [
+      "fingerpicking"
+    ],
+    "rating": 0,
+    "tuning": ""
+  },
   "leiva-ft-silvana-estrada-peligrosamente-dark": {
     "tuning": "",
     "instruments": [
@@ -917,14 +937,14 @@
   "leiva-godzilla": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
   "leiva-guerra-mundial": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
@@ -1008,7 +1028,7 @@
   "leiva-la-lluvia-en-los-zapatos": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
@@ -1036,14 +1056,14 @@
   "leiva-lobos": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
   "leiva-los-cantantes": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
@@ -1078,14 +1098,14 @@
   "leiva-miedo": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
   "leiva-mirada-perdida": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
@@ -1148,7 +1168,7 @@
   "leiva-polvora": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "piano"
     ],
     "rating": 0
   },
@@ -1183,14 +1203,14 @@
   "leiva-sincericidio": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
   "leiva-stranger-things": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
@@ -1211,7 +1231,7 @@
   "leiva-terriblemente-cruel": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
@@ -1239,7 +1259,7 @@
   "leiva-vertigo": {
     "tuning": "",
     "instruments": [
-      "guitarra-acustica"
+      "guitarra-electrica"
     ],
     "rating": 0
   },
