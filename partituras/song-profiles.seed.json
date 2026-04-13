@@ -1,257 +1,1397 @@
 {
-  "el-canto-del-loco-por-ti-por-ti": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
+  "songProfiles": {
+    "leiva-feat-nina-de-juan-blancos-f-ciles": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "3-doors-down-be-like-that": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "band-of-horses-the-funeral": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "calum-scott-dancing-on-my-own": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "coldplay-trouble": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "countin-crows-a-long-december": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "A",
+        "F",
+        "Gm",
+        "C",
+        "E",
+        "D",
+        "G",
+        "B"
+      ]
+    },
+    "alannis-morrisset-ironic": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "el-canto-del-loco-busco-la-vida-11-busco-la-vida": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "medio-tono-abajo",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-la-llamada": {
+      "instruments": [
+        "guitarra-acustica",
+        "piano"
+      ],
+      "rating": 5,
+      "tuning": "estandar",
+      "capo": "2",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "Am",
+        "Em",
+        "D",
+        "Dm",
+        "G#7",
+        "G7"
+      ]
+    },
+    "leiva-todo": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-ft-silvana-estrada-peligrosamente-dark": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-costa-de-oaxaca": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "medio-tono-abajo",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "D",
+        "G",
+        "C",
+        "Em",
+        "Dsus4",
+        "Am",
+        "F",
+        "A",
+        "Cm",
+        "Fm7/E",
+        "B"
+      ]
+    },
+    "fito-fitipaldis-para-toda-la-vida": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "fito-fitipaldis-soldadito-marinero": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "joaquín-sabina-juegos-de-azar": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "F",
+        "Am",
+        "C",
+        "G/B",
+        "Am/G",
+        "C/G",
+        "A",
+        "E",
+        "Fmaj7",
+        "D",
+        "B"
+      ]
+    },
+    "siloe-la-verdad": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "Am7",
+        "G",
+        "D2",
+        "D/A",
+        "A"
+      ]
+    },
+    "complices-es-por-ti": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "Dm",
+        "F",
+        "Am",
+        "C",
+        "E",
+        "A",
+        "D",
+        "B"
+      ]
+    },
+    "pablo-lopez-el-gato": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "Db",
+        "Ab",
+        "Gb",
+        "Bbm",
+        "F",
+        "A",
+        "B",
+        "Abm",
+        "Gbm",
+        "Ebm",
+        "E",
+        "Fm",
+        "Eb"
+      ]
+    },
+    "chris-isaak-wicked-game": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "E",
+        "A",
+        "Bm",
+        "D",
+        "G",
+        "B"
+      ]
+    },
+    "coque-malla-berlin": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "Em",
+        "G",
+        "G/F",
+        "C",
+        "D",
+        "E",
+        "A",
+        "B",
+        "Am/G",
+        "Am"
+      ]
+    },
+    "coque-malla-hasta-el-final": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "Dm",
+        "Em",
+        "Am",
+        "C/B",
+        "Am/G",
+        "Csus",
+        "C/E",
+        "E",
+        "A",
+        "D",
+        "B",
+        "Dsus",
+        "D/C",
+        "Bm7",
+        "Bm/A"
+      ]
+    },
+    "countin-crows-colorblind": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "A#maj7",
+        "Am",
+        "F",
+        "C6",
+        "E",
+        "A",
+        "D",
+        "G",
+        "B"
+      ]
+    },
+    "bso-brave-brave": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "D",
+        "G",
+        "A",
+        "C",
+        "Am",
+        "Bm",
+        "Bm7"
+      ]
+    },
+    "ron-pope-a-drop-in-the-ocean": {
+      "instruments": [
+        "guitarra-acustica",
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "F",
+        "C",
+        "Bb",
+        "Dm",
+        "A",
+        "Gm",
+        "Dm7",
+        "E",
+        "D",
+        "G",
+        "B"
+      ]
+    },
+    "ronan-keating-when-you-say-nothing-at-all": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "D",
+        "G",
+        "C",
+        "Cadd9",
+        "B",
+        "E",
+        "Asus2",
+        "A"
+      ]
+    },
+    "rosana-llegaremos-a-tiempo": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "D",
+        "C",
+        "Em",
+        "A",
+        "E",
+        "B",
+        "Dsus4",
+        "Gsus4",
+        "Asus4"
+      ]
+    },
+    "sopa-de-cabra-camins": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "D",
+        "Am",
+        "G",
+        "C",
+        "E",
+        "Dsus2",
+        "A",
+        "B"
+      ]
+    },
+    "arctic-monkeys-mardy-bum": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "E",
+        "Em",
+        "Dm",
+        "G/B",
+        "Am",
+        "Am/G",
+        "E5",
+        "F5",
+        "A",
+        "D",
+        "B",
+        "G5"
+      ]
+    },
+    "ben-kweller-fallin": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "A",
+        "E",
+        "F#m",
+        "B",
+        "G#m",
+        "B/A",
+        "B/G",
+        "B/F",
+        "C#m",
+        "D",
+        "G"
+      ]
+    },
+    "bon-iver-skinny-love": {
+      "instruments": [
+        "guitarra-acustica",
+        "piano"
+      ],
+      "rating": 5,
+      "tuning": "",
+      "capo": "4",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "Am",
+        "C",
+        "F",
+        "Em",
+        "Dm",
+        "E",
+        "A",
+        "D",
+        "G",
+        "B"
+      ]
+    },
+    "cat-stevens-father-and-son": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "D",
+        "Am7",
+        "C",
+        "Em",
+        "Am",
+        "Bm",
+        "E",
+        "D/F",
+        "A",
+        "B",
+        "C/G",
+        "G/D"
+      ]
+    },
+    "dani-martin-que-bonita-la-vida": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "D",
+        "C",
+        "B7",
+        "Em",
+        "A",
+        "E",
+        "Dsus4",
+        "B"
+      ]
+    },
+    "ben-harper-walk-away": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "estandar",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G5/F",
+        "G5",
+        "G5/E",
+        "G5/C",
+        "G5/B",
+        "G5/A",
+        "Am",
+        "Em",
+        "D/F"
+      ]
+    },
+    "dani-martin-la-suerte-de-mi-vida": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "medio-tono-abajo",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "F#m",
+        "Bm",
+        "Eb",
+        "C#m",
+        "Bb",
+        "Gb",
+        "Db",
+        "Ab"
+      ]
+    },
+    "dani-martin-quecaroeseltiempo": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "dani-martin-son-suenos": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "dani-martin-portales": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "2",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "dani-martin-cero": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "F",
+        "B",
+        "E",
+        "G#m",
+        "C#m",
+        "C#m7",
+        "D#m",
+        "A",
+        "Bm",
+        "D",
+        "F#m"
+      ]
+    },
+    "damien-rice-cannonball": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "6",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "dani-martin-no-vuelven": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "el-canto-del-loco-a-contracorriente-a-d-e": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "el-canto-del-loco-aquellos-anos-locos-afinacion-estandar": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "3",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "el-canto-del-loco-he-vuelto-a-caer-he-vuelto-a-caer": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "el-canto-del-loco-pasion-tu-mirada-de-inocencia-me-da-esa-fuerza-fuera-de-control": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "el-canto-del-loco-por-ti": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "Am",
+        "F",
+        "Asus2",
+        "C",
+        "Dm",
+        "C/B"
+      ]
+    },
+    "el-canto-del-loco-zapatillas": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "medio-tono-abajo",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "E",
+        "A",
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "Ab",
+        "Db",
+        "Gb",
+        "Bb",
+        "Am",
+        "Em"
+      ]
+    },
+    "leiva-afuera-en-la-ciudad": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "4",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-bajo-presion": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "Am",
+        "C/B",
+        "A"
+      ]
+    },
+    "leiva-caida-libre": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "5",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "C",
+        "Am",
+        "F",
+        "Dm",
+        "C/B",
+        "Gsus4",
+        "Em",
+        "G/F",
+        "A"
+      ]
+    },
+    "leiva-cerca": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "2",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "Am",
+        "Dm",
+        "Em"
+      ]
+    },
+    "leiva-como-si-fueras-a-morir-manana": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "A",
+        "G",
+        "D",
+        "Bm",
+        "Dsus4"
+      ]
+    },
+    "leiva-dejandose-caer": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "Am",
+        "Dm",
+        "Fm"
+      ]
+    },
+    "leiva-del-hueso-una-flor": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "3",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-el-gigante-de-big-fish": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-eme": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "2",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "Am",
+        "F",
+        "C",
+        "G",
+        "G7",
+        "E",
+        "Dm",
+        "Em"
+      ]
+    },
+    "leiva-godzilla": {
+      "instruments": [
+        "guitarra-electrica",
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "3",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "Am",
+        "C/E",
+        "G/B",
+        "Dm",
+        "Am7",
+        "Dm/C",
+        "Fm",
+        "Am7/G",
+        "D9/F",
+        "C/B",
+        "D",
+        "Am/G",
+        "D/F",
+        "A"
+      ]
+    },
+    "leiva-guerra-mundial": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-hermosa-taquicardia": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "2",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-histericos": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-la-lluvia-en-los-zapatos": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-lobos": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "2",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-los-cantantes": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-maniobras-suicidas": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-92": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "C/E",
+        "Am",
+        "A"
+      ]
+    },
+    "leiva-a-ti-te-ocurre-algo": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "Em",
+        "A",
+        "Am",
+        "D/F",
+        "C/B",
+        "Am/G",
+        "Bm",
+        "D/C"
+      ]
+    },
+    "leiva-amelie": {
+      "instruments": [
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "2",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "Am",
+        "F",
+        "C",
+        "E7",
+        "G",
+        "G7"
+      ]
+    },
+    "leiva-animales": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "1",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "C",
+        "Am",
+        "D"
+      ]
+    },
+    "leiva-aproximacion": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "2",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "Em",
+        "Am",
+        "Dm",
+        "D",
+        "Fm"
+      ]
+    },
+    "leiva-blancos-faciles": {
+      "instruments": [
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "Am",
+        "F",
+        "C",
+        "G/B",
+        "Em",
+        "Dm",
+        "E",
+        "A",
+        "D",
+        "B",
+        "Bm",
+        "F9"
+      ]
+    },
+    "leiva-breaking-bad": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "C",
+        "D",
+        "Bm",
+        "Em",
+        "Am",
+        "G/B",
+        "C/B",
+        "Ebdim7",
+        "D7",
+        "Bbm6",
+        "A",
+        "Dsus2",
+        "G/F",
+        "D/F",
+        "Cm7"
+      ]
+    },
+    "leiva-ciencia-ficcion": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "Dm",
+        "C/E",
+        "Am"
+      ]
+    },
+    "leiva-diazepam": {
+      "instruments": [],
+      "rating": 0,
+      "tuning": "",
+      "capo": "4",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": []
+    },
+    "leiva-expertos": {
+      "instruments": [
+        "guitarra-electrica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "Bm",
+        "F#m",
+        "C",
+        "B",
+        "C#m",
+        "F",
+        "G"
+      ]
+    },
+    "leiva-extasis": {
+      "instruments": [
+        "guitarra-electrica",
+        "guitarra-acustica"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "G",
+        "C",
+        "D",
+        "Am",
+        "Em",
+        "F",
+        "Fm",
+        "Bm",
+        "G/B",
+        "A",
+        "Cm",
+        "Dm",
+        "Abdim"
+      ]
+    },
+    "leiva-gigante": {
+      "instruments": [
+        "guitarra-electrica",
+        "piano"
+      ],
+      "rating": 0,
+      "tuning": "",
+      "capo": "",
+      "bpm": "",
+      "key": "",
+      "timeSignature": "",
+      "techniques": [],
+      "chords": [
+        "C",
+        "Bb",
+        "F",
+        "A"
+      ]
+    }
   },
-  "red-hot-chili-peppers-otherside": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-eh-tu": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-siempre-cerca": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-llueve-en-mi-alt": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-sin-mitad-7-sin-mitad": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "leiva-blancos-faciles": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-volvera": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-como-un-perro-ladrando": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-aquellos-anos-locos-afinacion-estandar": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-y-si-el-miedo-10-y-si-el-miedo": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-el-pescao": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "shakira-underneath-your-clothes": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-despiertame": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-pequenita": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-una-foto-en-blanco-y-negro": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-super-heroe-eres-tonto": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "ed-sheeran-boat": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "simple-plan-i-m-just-a-kid": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-usanos": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "red-hot-chili-peppers-scar-tissue": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-la-madre-de-jose": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-dentro-de-mi": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-corazon": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-sera": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "red-hot-chili-peppers-dani-california": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-crash": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "la-fuga-buscando-en-la-basura": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-canciones": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-he-vuelto-a-caer-he-vuelto-a-caer": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-te-recuerdo": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-la-vida-la-vida-05": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-para-siempre": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-eres-tonto": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-son-suenos-son-suenos": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-que-caro-es-el-tiempo-alt": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-vuelve": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-busco-la-vida": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-insoportable": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-no-quiero-nada-08-no-quiero-nada": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-no-voy-a-parar": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-besos": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-otra-vez": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-volver-a-disfrutar": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-acabado-en-a": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-zapatillas": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "train-hey-soul-sister": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-fin-de-semana-la-vida-05": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "the-last-of-us-take-on-me": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "estandar"
-  },
-  "el-canto-del-loco-personas": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  },
-  "el-canto-del-loco-desaparece": {
-    "instruments": [],
-    "rating": 0,
-    "tuning": "medio-tono-abajo"
-  }
+  "favorites": [],
+  "fontSize": 0.72,
+  "searchHistory": [
+    "Leiva",
+    "Vis a Vis",
+    "mi mejor version",
+    "medicina",
+    "Maniobras Suicidas",
+    "Los Cantantes",
+    "Lobos",
+    "Lady Madrid",
+    "La Lluvia en Los Zapatos",
+    "La Llamada",
+    "histericos",
+    "Hermosa Taquicardia",
+    "Guerra Mundial",
+    "Godzilla",
+    "Extasis"
+  ],
+  "exportDate": "2026-04-13T09:04:49.630Z"
 }

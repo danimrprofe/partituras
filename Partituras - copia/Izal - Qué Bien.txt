@@ -1,0 +1,97 @@
+# PARTITURA v1
+================================================================================
+ARTISTA: IZAL
+CANCIÓN: Qué bien
+ÁLBUM:   —
+================================================================================
+AFINACIÓN: Estándar (E A D G B E)
+CEJILLA/CAPO: Capo 1
+================================================================================
+LEYENDA / NOTAS ADICIONALES:
+A [X07655]   Bmaj7 [X07604]
+D* = acorde con variante / acento (opcional)
+================================================================================
+
+INTRO
+A  Bmaj7 D Dsus2
+A  Bmaj7 D D
+
+ESTROFA
+      A                Bmaj7         D            Dsus2
+Qué bien que en mis pupilas siga entrando luz del sol
+      A              Bmaj7          D                           Bm
+Qué bien que en mi cerebro se produzcan intercambios de información
+       D
+Y a tiempo te pusiste en medio.
+
+A Bmaj7 D Dsus2
+A Bmaj7 D Dsus2
+
+      A              Bmaj7         D      Dsus2
+Qué bien que con mis dedos note frío y tu calor
+      A               Bmaj7            D
+Qué bien que por mis nervios corran impulsos que me
+Dsus2                      Bm
+cuentan que estás en mi habitación
+              D              Dsus
+Que no te has ido y que te tengo cerca.
+
+A A A A A A A A
+
+ESTRIBILLO
+      E                Bm
+No sería lo mismo imaginarte
+      E                 Bm
+que poder estudiarte con detalle.
+      E                Bm
+Usaré cada segundo que pase
+      E*              Bm*           D*         E
+para poner a prueba nuestras capacidades corporales.
+
+A          Amaj7           Bm     D
+Sólo quedará sin probar un sentido,
+A           Amaj7              D         Bm Bm
+el del ridículo por sentirnos libres y vivos.
+
+A Bmaj7 D Dsus2
+A Bmaj7 D Dsus2
+
+PUENTE
+      A6
+Y qué genial, qué astuto, qué indecente,
+               D
+qué maravillosamente oportuno.
+               A6
+El soplo de viento que ha unido atrevido
+                D
+tu olor con el mío.
+       A6
+Y qué manera de perder las formas
+       D
+y qué forma de perder las maneras.
+           A6                                    D
+Ya nada importa el mundo ya se acaba no quedará nada.
+                           Bm   D
+Disfrutemos de la última cena.
+
+CORO
+      D                Bm
+No sería lo mismo imaginarte
+      D                  Bm
+que poder estudiarte con detalle.
+      D                Bm
+Usaré cada segundo que pase
+      D              Bm              D
+para poner a prueba nuestras capacidades corporales.
+
+A          Bmaj7           Bm     D
+Sólo quedará sin probar un sentido,
+A             Bmaj7           Bm           D
+el del ridículo por sentirnos libres y vivos.
+A            Bmaj7          Bm     D
+Sólo quedará sin probar un sentido,
+A             Bmaj7           D           Bm
+el del ridículo por sentirnos libres y vivos.
+
+FINAL
+A  Bmaj7 Bm  D (Fade)

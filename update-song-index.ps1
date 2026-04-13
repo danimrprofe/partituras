@@ -124,7 +124,7 @@ function Get-SongCapo {
 
     $candidates = [System.Collections.Generic.List[int]]::new()
 
-    $capoPattern = "(?im)(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(?:TRASTE\s+)?([0-9]+)|\bcapo\s+([0-9]+)"
+    $capoPattern = "(?im)(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(?:TRASTE\s+)?(-?[0-9]+)|\bcapo\s+(-?[0-9]+)"
     $matches = [regex]::Matches($normalizedContent, $capoPattern)
     foreach ($match in $matches) {
         $rawValue = if (-not [string]::IsNullOrWhiteSpace($match.Groups[1].Value)) {
@@ -140,31 +140,31 @@ function Get-SongCapo {
     }
 
     # Patrón para números directos: "Cejilla en traste 4" y "Cejilla: Traste 3"
-    $numericCapoPattern = "(?im)(?:cejilla|capo)(?:\s+en)?\s+traste\s+([0-9]+)"
+    $numericCapoPattern = "(?im)(?:cejilla|capo)(?:\s+en)?\s+traste\s+(-?[0-9]+)"
     $numericMatches = [regex]::Matches($normalizedContent, $numericCapoPattern)
     foreach ($numericMatch in $numericMatches) {
         $capoValue = [int]$numericMatch.Groups[1].Value
-        if ($capoValue -gt 0) {
+        if ($capoValue -ne 0) {
             [void]$candidates.Add($capoValue)
         }
     }
 
     # Patrón para números ordinales: "Cejilla: 4o traste"
-    $ordinalNumericCapoPattern = "(?im)(?:cejilla|capo).*?([0-9]+)o\s+traste"
+    $ordinalNumericCapoPattern = "(?im)(?:cejilla|capo).*?(-?[0-9]+)o\s+traste"
     $ordinalNumericMatches = [regex]::Matches($normalizedContent, $ordinalNumericCapoPattern)
     foreach ($ordinalNumericMatch in $ordinalNumericMatches) {
         $capoValue = [int]$ordinalNumericMatch.Groups[1].Value
-        if ($capoValue -gt 0) {
+        if ($capoValue -ne 0) {
             [void]$candidates.Add($capoValue)
         }
     }
 
     # Patrón para "Cejilla: X" o "Capo: X" (solo números)
-    $simpleCapoPattern = "(?im)^(?:CEJILLA|CAPO)\s*:\s*([0-9]+)"
+    $simpleCapoPattern = "(?im)^(?:CEJILLA|CAPO)\s*:\s*(-?[0-9]+)"
     $simpleMatches = [regex]::Matches($normalizedContent, $simpleCapoPattern)
     foreach ($simpleMatch in $simpleMatches) {
         $capoValue = [int]$simpleMatch.Groups[1].Value
-        if ($capoValue -gt 0) {
+        if ($capoValue -ne 0) {
             [void]$candidates.Add($capoValue)
         }
     }

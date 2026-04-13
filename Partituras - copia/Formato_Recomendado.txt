@@ -1,0 +1,41 @@
+# PARTITURA v1
+================================================================================
+ESTRUCTURA CANÓNICA (todos los .txt deberían seguir este orden)
+================================================================================
+
+1) Línea 1 obligatoria (identificación automática):
+   # PARTITURA v1
+
+2) Bloque principal (líneas con ===):
+   ================================================================================
+   ARTISTA: Nombre
+   CANCIÓN: Título
+   ÁLBUM:   (opcional) Álbum y año, o "—" si no aplica
+   ================================================================================
+   AFINACIÓN: Estándar (E A D G B E)   u otra (Drop D, DADGAD…)
+   CEJILLA/CAPO: Sin cejilla | Capo N | texto libre
+   ================================================================================
+   (Opcional, solo si aplica:)
+   TONALIDAD: (ej. Mi mayor)
+   BPM:       (número o —)
+   COMPÁS:    (ej. 4/4)
+   ================================================================================
+   LEYENDA / NOTAS ADICIONALES:
+   (texto libre: rasgueo, técnica, referencias, tab de leyenda h/p/b…)
+   ================================================================================
+
+3) Cuerpo (a partir de una línea en blanco tras la cabecera):
+   - Acordes alineados con la letra, y/o tab en fuente monoespaciada.
+   - Secciones recomendadas (nombres en mayúsculas, una por línea):
+     INTRO | ESTROFA | ESTRIBILLO | PUENTE | SOLO | FINAL
+   - Si prefieres términos en inglés (CHORUS, VERSE), no pasa nada; lo coherente
+     es usar siempre el mismo criterio dentro de cada canción.
+
+4) PDF y otros formatos:
+   No se normalizan con este esquema; el criterio de nombres sigue siendo
+   "Artista - Canción.ext" en la carpeta del artista.
+
+================================================================================
+Herramienta: normalize-partitura-txt.ps1 añade "# PARTITURA v1" y, si falta
+toda la cabecera, inserta el bloque mínimo sin reescribir el cuerpo.
+================================================================================

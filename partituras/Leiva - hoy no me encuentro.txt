@@ -1,9 +1,6 @@
-
-**Información**
-
-
 INTRO
 G Bm F#m Em x2
+
 ESTROFA
 Bm    G           D            F#7
  Amanecí con un millón de dudas,
@@ -29,10 +26,9 @@ D                 Bm     F#m             Gm     A
  hoy no me encuentro,
     F#m    F#7
  hoy noooooo.
+
 SOLO
 G Bm F#m Em x2
-
-
 
 ESTROFA
 Bm    G             D       F#7

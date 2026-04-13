@@ -1,3 +1,6 @@
+CEJILLA/CAPO: 5
+
+INTRO
 C Dm Gsus4 G  x2
 
 ESTROFA
@@ -47,7 +50,8 @@ Voy a hacerme una foto en un fotomatón
 INSTRUMENTAL
 C Dm Gsus4 G  x2
 Dm   C  x2
- 
+
+PUENTE 
        Dm
 ¿Quién es que llama a mi cabeza a todas horas?
                               C

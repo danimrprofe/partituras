@@ -1,3 +1,9 @@
+CEJILLA/CAPO: 1
+Tonalidad Mi b mayor
+
+INTRO
+D Dsus4 x2
+
 ESTROFA
 D                                                               Bm		   
 Tú sabes que te va a alcanzar y que a veces lo mereces 

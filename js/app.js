@@ -671,10 +671,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (typeof rawCapo === "number" && Number.isFinite(rawCapo)) {
             const val = Math.round(rawCapo);
-            return val > 0 && val <= 12 ? val : null; // Capo válido: 1-12
+            // Aceptar capo negativo (-1) o positivos (1-12)
+            return (val < 0 && val >= -12) || (val > 0 && val <= 12) ? val : null;
         }
 
-        const match = String(rawCapo).match(/\d+/);
+        const match = String(rawCapo).match(/-?\d+/);
         if (!match) {
             return null;
         }
@@ -682,8 +683,8 @@ document.addEventListener("DOMContentLoaded", () => {
         const parsed = Number(match[0]);
         if (!Number.isFinite(parsed)) return null;
         
-        // Solo aceptar capo entre 1 y 12 (rango válido de guitarra)
-        return parsed > 0 && parsed <= 12 ? parsed : null;
+        // Aceptar capo negativo (-1 a -12) o positivo (1-12)
+        return (parsed < 0 && parsed >= -12) || (parsed > 0 && parsed <= 12) ? parsed : null;
     }
 
     function extractChords(rawText) {
@@ -1197,9 +1198,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 button.classList.add("active");
             }
 
+            const capoValue = parseCapoValue(song.capo);
+            const capoBadgeClass = capoValue < 0 ? "text-bg-danger" : "text-bg-warning";
+            const capoBadge = capoValue ? `<span class="badge ${capoBadgeClass} ms-2" style="font-size: 0.75rem; font-weight: 700;">Capo ${capoValue}</span>` : "";
+            
             button.innerHTML = `
                 <div class="song-item-main">
-                    <div class="fw-semibold small" style="line-height: 1.2;">${song.artist} - ${song.title}</div>
+                    <div class="fw-semibold small" style="line-height: 1.2; display: flex; align-items: center; flex-wrap: wrap;">${song.artist} - ${song.title}${capoBadge}</div>
                     <div class="song-tags" style="font-size: 0.7rem; gap: 0.3rem;">
                         ${chordTag}
                         ${instrumentTags.join("")}
@@ -1607,7 +1612,7 @@ document.addEventListener("DOMContentLoaded", () => {
             
             const { capo } = extractCapoInfo(activeSongRawText);
             const resolvedCapoValue = parseCapoValue(capo || song.capo);
-            activeSongCapo = resolvedCapoValue && resolvedCapoValue > 0 ? String(resolvedCapoValue) : "";
+            activeSongCapo = resolvedCapoValue ? String(resolvedCapoValue) : "";
             activeSongId = song.id;
             activeSongFilename = song.filename;
 
@@ -1616,6 +1621,9 @@ document.addEventListener("DOMContentLoaded", () => {
             
             // Mostrar u ocultar la cejilla
             if (activeSongCapo) {
+                const capoNumValue = parseInt(activeSongCapo, 10);
+                const capoDisplayClass = capoNumValue < 0 ? "text-bg-danger" : "text-bg-warning";
+                songCapo.className = `badge ${capoDisplayClass}`;
                 songCapo.textContent = `Cejilla: ${activeSongCapo}`;
                 capoContainer.classList.remove("d-none");
             } else {
@@ -1927,7 +1935,10 @@ document.addEventListener("DOMContentLoaded", () => {
             // Actualizar vista
             songMeta.textContent = newArtist;
             songTitle.textContent = newTitle;
-            if (newCapo && newCapo > 0) {
+            if (newCapo) {
+                const capoNumValue = parseInt(newCapo, 10);
+                const capoDisplayClass = capoNumValue < 0 ? "text-bg-danger" : "text-bg-warning";
+                songCapo.className = `badge ${capoDisplayClass}`;
                 songCapo.textContent = `Cejilla: ${newCapo}`;
                 capoContainer.classList.remove("d-none");
                 activeSongCapo = String(newCapo);

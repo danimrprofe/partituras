@@ -87,11 +87,11 @@
     "artist": "Amaral",
     "title": "Cómo Hablar",
     "filename": "Amaral - Cómo Hablar.txt",
-    "defaultTuning": null,
+    "defaultTuning": "estandar",
     "capo": 1,
     "techniques": [
-      "strumming",
       "fingerpicking",
+      "strumming",
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Amaral%20C%C3%B3mo%20Hablar"
@@ -722,7 +722,12 @@
     "artist": "Countin Crows",
     "title": "Colorblind",
     "filename": "Countin Crows - Colorblind.txt",
-    "defaultTuning": null,
+    "defaultTuning": "estandar",
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
     "techniques": [
       "barre-chords"
     ],
@@ -821,7 +826,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=HUGuH7NPb4g"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20cero"
   },
   {
     "id": "dani-martin-contigo",
@@ -832,7 +837,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=npEmskFwEps"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20contigo"
   },
   {
     "id": "dani-martin-cuatro-likes",
@@ -848,7 +853,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=e33nqgV9Pkc"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20Cuatro%20Likes"
   },
   {
     "id": "dani-martin-emocional",
@@ -862,7 +867,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=U0-iZ-MXM34"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20emocional"
   },
   {
     "id": "dani-martin-la-suerte-de-mi-vida",
@@ -877,7 +882,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=73zbvbJJ3Ks"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20la-suerte-de-mi-vida"
   },
   {
     "id": "dani-martin-me-vuelves-puto-loco",
@@ -894,7 +899,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=VTKRbuoteow"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Martin%20Me%20Vuelves%20Puto%20Loco"
   },
   {
     "id": "dani-martin-no-vuelven",
@@ -911,7 +916,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=UOyu9dOf2u0"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20no-vuelven"
   },
   {
     "id": "dani-martin-no-no-vuelve",
@@ -928,7 +933,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=UOyu9dOf2u0"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20No%2C%20No%20Vuelve"
   },
   {
     "id": "dani-martin-novedades-viernes",
@@ -946,7 +951,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=EcTJwuq8Ypk"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20Novedades%20Viernes"
   },
   {
     "id": "dani-martin-portales",
@@ -964,7 +969,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=Zlf5DkuKMhU"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20portales"
   },
   {
     "id": "dani-martin-puede-ser",
@@ -981,7 +986,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=O1j8QiB6_ws"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20puede-ser"
   },
   {
     "id": "dani-martin-que-bonita-la-vida",
@@ -998,7 +1003,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=XBuYmneAQ28"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20Que%20Bonita%20La%20Vida"
   },
   {
     "id": "dani-martin-quecaroeseltiempo",
@@ -1028,7 +1033,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=Xb3LUSwT2wQ"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20son%20sue%C3%B1os"
   },
   {
     "id": "dani-martin-tal-como-eres",
@@ -1046,7 +1051,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=vgRkdG5P3Sg"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20tal-como-eres"
   },
   {
     "id": "dani-martin-todo-lo-que-vimos-se-nos-fue",
@@ -1060,7 +1065,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/watch?v=HUGuH7NPb4g"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20Todo%20Lo%20Que%20Vimos%20Se%20Nos%20Fue"
   },
   {
     "id": "david-bowie-heroes",
@@ -1255,8 +1260,8 @@
     "filename": "El Canto Del Loco - Besos.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Besos"
   },
@@ -1289,8 +1294,8 @@
     "filename": "El Canto Del Loco - CANCIONES.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20CANCIONES"
   },
@@ -1367,8 +1372,8 @@
     "filename": "El Canto Del Loco - Desaparece.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Desaparece"
   },
@@ -1379,8 +1384,8 @@
     "filename": "El Canto Del Loco - Despiertame.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Despiertame"
   },
@@ -1395,8 +1400,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "palm-mute",
-      "barre-chords"
+      "barre-chords",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Eh%20Tu"
   },
@@ -1416,8 +1421,8 @@
     "filename": "El Canto Del Loco - El Pescao.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20El%20Pescao"
   },
@@ -1662,8 +1667,8 @@
       "SOLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Personas"
   },
@@ -1703,8 +1708,8 @@
     "defaultTuning": "medio-tono-abajo",
     "capo": 3,
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Por%20Ti%20-%20-%20Por%20T%C3%AD"
   },
@@ -1791,8 +1796,8 @@
     "filename": "El Canto Del Loco - Que Caro Es El Tiempo (alt).txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Que%20Caro%20Es%20El%20Tiempo%20%28alt%29"
   },
@@ -1821,8 +1826,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20SERA"
   },
@@ -1962,8 +1967,8 @@
       "SOLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Tremendo%20-%20F%20E"
   },
@@ -2010,8 +2015,8 @@
     "filename": "El Canto Del Loco - Usanos.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Usanos"
   },
@@ -2052,8 +2057,8 @@
     "filename": "El Canto Del Loco - Volvera.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Volvera"
   },
@@ -2068,8 +2073,8 @@
       "ESTROFA"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Vuelve"
   },
@@ -2112,10 +2117,10 @@
     "filename": "El Canto Del Loco - Zapatillas.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "palm-mute",
       "strumming",
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "palm-mute",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Zapatillas"
   },
@@ -2380,10 +2385,11 @@
     "artist": "Extremoduro",
     "title": "Standby",
     "filename": "Extremoduro - Standby.txt",
-    "defaultTuning": null,
+    "defaultTuning": "estandar",
     "capo": 0,
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Extremoduro%20Standby"
   },
@@ -2798,8 +2804,8 @@
     "filename": "Fito & Fitipaldis - Que Me Arrastre El Viento.txt",
     "defaultTuning": null,
     "techniques": [
-      "palm-mute",
-      "barre-chords"
+      "barre-chords",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Fito%20%26%20Fitipaldis%20Que%20Me%20Arrastre%20El%20Viento"
   },
@@ -3028,8 +3034,8 @@
     ],
     "techniques": [
       "strumming",
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "key": "(ej. Mi Mayor)",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Desconocido%20Formato_Recomendado"
@@ -3084,8 +3090,8 @@
       "OUTRO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Goo%20Goo%20Dolls%20Slide%20by%20the%20Goo%20Goo%20Dolls"
   },
@@ -3572,11 +3578,17 @@
     "artist": "Joaquín Sabina",
     "title": "Pájaros De Portugal",
     "filename": "Joaquín Sabina - Pájaros De Portugal.txt",
-    "defaultTuning": null,
+    "defaultTuning": "estandar",
     "bpm": 124,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
     "techniques": [
       "barre-chords"
     ],
+    "key": "Do Mayor (C Major)",
     "timeSignature": "4/4",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Joaqu%C3%ADn%20Sabina%20P%C3%A1jaros%20De%20Portugal"
   },
@@ -3937,8 +3949,14 @@
     "artist": "Justin Timberlake",
     "title": "True Colors",
     "filename": "Justin Timberlake - True Colors.txt",
-    "defaultTuning": null,
-    "capo": 0,
+    "defaultTuning": "estandar",
+    "capo": 4,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "PUENTE",
+      "ESTRIBILLO"
+    ],
     "techniques": [
       "barre-chords"
     ],
@@ -3956,8 +3974,8 @@
       "SOLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Knockin%20on%20Heavens%20Door%20Guns%20N%20Roses%20Tabs-Tablatures-Lyrics-Chords%20-%20Guitar-Bass%20-%20Tab%20Power"
   },
@@ -4081,8 +4099,8 @@
       "PUENTE"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=La%20Moda%20H%C3%A9roes%20Del%20Sabado"
   },
@@ -4133,6 +4151,7 @@
     "filename": "Leiva - a Ti Te Ocurre Algo.txt",
     "defaultTuning": null,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
     ],
@@ -4144,9 +4163,14 @@
     "title": "Afuera en La Ciudad",
     "filename": "Leiva - Afuera en La Ciudad.txt",
     "defaultTuning": null,
+    "capo": 2,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Afuera%20en%20La%20Ciudad"
   },
@@ -4196,6 +4220,7 @@
     "filename": "Leiva - Aunque Sea Un Rato.txt",
     "defaultTuning": null,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE"
@@ -4208,9 +4233,13 @@
     "title": "Bajo Presion",
     "filename": "Leiva - Bajo Presion.txt",
     "defaultTuning": null,
+    "capo": 1,
     "sections": [
       "ESTROFA",
       "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Bajo%20Presion"
   },
@@ -4237,6 +4266,7 @@
     "filename": "Leiva - Breaking Bad.txt",
     "defaultTuning": null,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "SOLO"
@@ -4249,9 +4279,15 @@
     "title": "caida libre",
     "filename": "Leiva - caida libre.txt",
     "defaultTuning": null,
+    "capo": 5,
     "sections": [
+      "INTRO",
       "ESTROFA",
-      "ESTRIBILLO"
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20caida%20libre"
   },
@@ -4261,32 +4297,25 @@
     "title": "Cerca",
     "filename": "Leiva - Cerca.txt",
     "defaultTuning": null,
+    "capo": 2,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Cerca"
   },
   {
     "id": "leiva-ciencia-ficcion",
     "artist": "Leiva",
-    "title": "ciencia ficcion",
-    "filename": "Leiva - ciencia ficcion.txt",
-    "defaultTuning": null,
-    "sections": [
-      "INTRO",
-      "ESTROFA",
-      "ESTRIBILLO"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20ciencia%20ficcion"
-  },
-  {
-    "id": "leiva-ciencia-ficcion-2",
-    "artist": "Leiva",
     "title": "Ciencia Ficción",
     "filename": "Leiva - Ciencia Ficción.txt",
     "defaultTuning": null,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
     ],
@@ -4312,9 +4341,14 @@
     "title": "Como Si Fueras a Morir Mañana",
     "filename": "Leiva - Como Si Fueras a Morir Mañana.txt",
     "defaultTuning": null,
+    "capo": 1,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Como%20Si%20Fueras%20a%20Morir%20Ma%C3%B1ana"
   },
@@ -4324,6 +4358,15 @@
     "title": "Costa De Oaxaca",
     "filename": "Leiva - Costa De Oaxaca.txt",
     "defaultTuning": null,
+    "capo": -1,
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
+    ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Costa%20De%20Oaxaca"
   },
   {
@@ -4332,9 +4375,13 @@
     "title": "Dejándose Caer",
     "filename": "Leiva - Dejándose Caer.txt",
     "defaultTuning": null,
+    "capo": 1,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Dej%C3%A1ndose%20Caer"
   },
@@ -4344,10 +4391,14 @@
     "title": "Del Hueso Una Flor",
     "filename": "Leiva - Del Hueso Una Flor.txt",
     "defaultTuning": null,
+    "capo": 3,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Del%20Hueso%20Una%20Flor"
   },
@@ -4371,9 +4422,14 @@
     "title": "El Gigante De Big Fish",
     "filename": "Leiva - El Gigante De Big Fish.txt",
     "defaultTuning": null,
+    "capo": 1,
     "sections": [
-      "ESTRIBILLO",
-      "ESTROFA"
+      "ESTROFA",
+      "SOLO",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20El%20Gigante%20De%20Big%20Fish"
   },
@@ -4401,8 +4457,7 @@
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
-      "SOLO",
-      "CODA"
+      "SOLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20el%20ultimo%20incendio"
   },
@@ -4412,7 +4467,6 @@
     "title": "electricidad",
     "filename": "Leiva - electricidad.txt",
     "defaultTuning": null,
-    "capo": 1,
     "sections": [
       "INTRO",
       "ESTROFA",
@@ -4428,9 +4482,13 @@
     "title": "Eme",
     "filename": "Leiva - Eme.txt",
     "defaultTuning": null,
+    "capo": 2,
     "sections": [
-      "ESTRIBILLO",
-      "ESTROFA"
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Eme"
   },
@@ -4466,6 +4524,7 @@
     "filename": "Leiva - Expertos.txt",
     "defaultTuning": null,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "SOLO",
       "ESTRIBILLO"
@@ -4492,6 +4551,7 @@
     "filename": "Leiva - Gigante.txt",
     "defaultTuning": null,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "SOLO"
     ],
@@ -4503,9 +4563,13 @@
     "title": "Godzilla",
     "filename": "Leiva - Godzilla.txt",
     "defaultTuning": null,
+    "capo": 5,
     "sections": [
-      "ESTRIBILLO",
-      "ESTROFA"
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Godzilla"
   },
@@ -4516,8 +4580,8 @@
     "filename": "Leiva - Guerra Mundial.txt",
     "defaultTuning": null,
     "sections": [
-      "ESTRIBILLO",
-      "ESTROFA"
+      "ESTROFA",
+      "ESTRIBILLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Guerra%20Mundial"
   },
@@ -4527,9 +4591,13 @@
     "title": "Hermosa Taquicardia",
     "filename": "Leiva - Hermosa Taquicardia.txt",
     "defaultTuning": null,
+    "capo": 2,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Hermosa%20Taquicardia"
   },
@@ -4539,9 +4607,13 @@
     "title": "histericos",
     "filename": "Leiva - histericos.txt",
     "defaultTuning": null,
+    "capo": 1,
     "sections": [
-      "ESTRIBILLO",
-      "ESTROFA"
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20histericos"
   },
@@ -4578,8 +4650,8 @@
     "filename": "Leiva - Iceberg.txt",
     "defaultTuning": null,
     "sections": [
-      "ESTRIBILLO",
-      "ESTROFA"
+      "ESTROFA",
+      "ESTRIBILLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Iceberg"
   },
@@ -4601,8 +4673,8 @@
     "filename": "Leiva - Infinitos.txt",
     "defaultTuning": null,
     "sections": [
-      "ESTRIBILLO",
-      "ESTROFA"
+      "ESTROFA",
+      "ESTRIBILLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Infinitos"
   },
@@ -4626,6 +4698,7 @@
     "filename": "Leiva - La Francesita.txt",
     "defaultTuning": null,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE"
@@ -4638,10 +4711,14 @@
     "title": "La Llamada",
     "filename": "Leiva - La Llamada.txt",
     "defaultTuning": null,
+    "capo": 2,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20La%20Llamada"
   },
@@ -4651,9 +4728,14 @@
     "title": "La Lluvia en Los Zapatos",
     "filename": "Leiva - La Lluvia en Los Zapatos.txt",
     "defaultTuning": null,
+    "capo": 1,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20La%20Lluvia%20en%20Los%20Zapatos"
   },
@@ -4689,26 +4771,19 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20las%20cuentas"
   },
   {
-    "id": "leiva-leiva",
-    "artist": "Leiva",
-    "title": "Leiva",
-    "filename": "Leiva - Leiva.txt",
-    "defaultTuning": null,
-    "techniques": [
-      "tabs"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Leiva"
-  },
-  {
     "id": "leiva-lobos",
     "artist": "Leiva",
     "title": "Lobos",
     "filename": "Leiva - Lobos.txt",
     "defaultTuning": null,
+    "capo": 2,
     "sections": [
-      "ESTROFA",
       "SOLO",
+      "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Lobos"
   },
@@ -4718,10 +4793,15 @@
     "title": "Los Cantantes",
     "filename": "Leiva - Los Cantantes.txt",
     "defaultTuning": null,
+    "capo": 1,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Los%20Cantantes"
   },
@@ -4731,9 +4811,13 @@
     "title": "Maniobras Suicidas",
     "filename": "Leiva - Maniobras Suicidas.txt",
     "defaultTuning": null,
+    "capo": 1,
     "sections": [
-      "ESTRIBILLO",
-      "ESTROFA"
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Maniobras%20Suicidas"
   },
@@ -4755,10 +4839,6 @@
     "title": "mi mejor version",
     "filename": "Leiva - mi mejor version.txt",
     "defaultTuning": null,
-    "sections": [
-      "ESTROFA",
-      "ESTRIBILLO"
-    ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20mi%20mejor%20version"
   },
   {
@@ -4794,9 +4874,13 @@
     "title": "Mirada Perdida",
     "filename": "Leiva - Mirada Perdida.txt",
     "defaultTuning": null,
+    "capo": 4,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Mirada%20Perdida"
   },
@@ -4843,21 +4927,6 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Nunca%20Nadie"
   },
   {
-    "id": "leiva-palomas",
-    "artist": "Leiva",
-    "title": "Palomas",
-    "filename": "Leiva - Palomas.txt",
-    "defaultTuning": null,
-    "capo": 1,
-    "sections": [
-      "ESTROFA"
-    ],
-    "techniques": [
-      "barre-chords"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Palomas"
-  },
-  {
     "id": "leiva-peligrosamente-dark",
     "artist": "Leiva",
     "title": "peligrosamente dark",
@@ -4870,6 +4939,23 @@
       "PUENTE"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20peligrosamente%20dark"
+  },
+  {
+    "id": "leiva-peligrosamente-dark2",
+    "artist": "Leiva",
+    "title": "Peligrosamente Dark2",
+    "filename": "Leiva - Peligrosamente Dark2.txt",
+    "defaultTuning": "estandar",
+    "capo": 2,
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "SOLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Peligrosamente%20Dark2"
   },
   {
     "id": "leiva-penaltis",
@@ -4956,24 +5042,11 @@
     "filename": "Leiva - Sincericidio.txt",
     "defaultTuning": null,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Sincericidio"
-  },
-  {
-    "id": "leiva-stranger-things-sin-capo",
-    "artist": "Leiva",
-    "title": "stranger things SIN CAPO",
-    "filename": "Leiva - stranger things SIN CAPO.txt",
-    "defaultTuning": null,
-    "capo": 2,
-    "sections": [
-      "ESTRIBILLO",
-      "ESTROFA",
-      "PUENTE"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20stranger%20things%20SIN%20CAPO"
   },
   {
     "id": "leiva-stranger-things",
@@ -4981,10 +5054,14 @@
     "title": "Stranger Things",
     "filename": "Leiva - Stranger Things.txt",
     "defaultTuning": null,
+    "capo": 2,
     "sections": [
-      "ESTRIBILLO",
       "ESTROFA",
+      "ESTRIBILLO",
       "PUENTE"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Stranger%20Things"
   },
@@ -5017,23 +5094,10 @@
     "filename": "Leiva - todo lo que tu quieras.txt",
     "defaultTuning": null,
     "sections": [
-      "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20todo%20lo%20que%20tu%20quieras"
-  },
-  {
-    "id": "leiva-todo",
-    "artist": "Leiva",
-    "title": "todo",
-    "filename": "Leiva - todo.txt",
-    "defaultTuning": null,
-    "sections": [
-      "INTRO",
-      "SOLO"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20todo"
   },
   {
     "id": "leiva-vertigo",
@@ -5041,9 +5105,14 @@
     "title": "vertigo",
     "filename": "Leiva - vertigo.txt",
     "defaultTuning": null,
+    "capo": 1,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20vertigo"
   },
@@ -5066,8 +5135,13 @@
     "title": "Vis a Vis",
     "filename": "Leiva - Vis a Vis.txt",
     "defaultTuning": null,
+    "capo": 4,
     "sections": [
+      "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Vis%20a%20Vis"
   },
@@ -5334,246 +5408,6 @@
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Lynyrd%20Skynyrd%20Simple%20Man"
-  },
-  {
-    "id": "m-clan-arenas-movedizas",
-    "artist": "MClan",
-    "title": "arenas movedizas",
-    "filename": "m-clan - arenas movedizas.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20arenas%20movedizas"
-  },
-  {
-    "id": "m-clan-caminos-secundarios",
-    "artist": "MClan",
-    "title": "caminos secundarios",
-    "filename": "m-clan - caminos secundarios.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20caminos%20secundarios"
-  },
-  {
-    "id": "m-clan-carolina",
-    "artist": "MClan",
-    "title": "carolina",
-    "filename": "m-clan - carolina.txt",
-    "defaultTuning": null,
-    "sections": [
-      "INTRO",
-      "ESTROFA",
-      "ESTRIBILLO",
-      "SOLO",
-      "OUTRO"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20carolina"
-  },
-  {
-    "id": "m-clan-chilaba-y-cachimba",
-    "artist": "MClan",
-    "title": "chilaba y cachimba",
-    "filename": "m-clan - chilaba y cachimba.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20chilaba%20y%20cachimba"
-  },
-  {
-    "id": "m-clan-concierto-salvaje",
-    "artist": "MClan",
-    "title": "concierto-salvaje",
-    "filename": "m-clan - concierto-salvaje.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20concierto-salvaje"
-  },
-  {
-    "id": "m-clan-corazon-en-transito",
-    "artist": "MClan",
-    "title": "corazon en transito",
-    "filename": "m-clan - corazon en transito.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20corazon%20en%20transito"
-  },
-  {
-    "id": "m-clan-el-tren-que-nunca-cogimos",
-    "artist": "MClan",
-    "title": "el tren que nunca cogimos",
-    "filename": "m-clan - el tren que nunca cogimos.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20el%20tren%20que%20nunca%20cogimos"
-  },
-  {
-    "id": "m-clan-grupos-americanos",
-    "artist": "MClan",
-    "title": "grupos-americanos",
-    "filename": "m-clan - grupos-americanos.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20grupos-americanos"
-  },
-  {
-    "id": "m-clan-inmigrante",
-    "artist": "MClan",
-    "title": "inmigrante",
-    "filename": "m-clan - inmigrante.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20inmigrante"
-  },
-  {
-    "id": "m-clan-la-calma",
-    "artist": "MClan",
-    "title": "la calma",
-    "filename": "m-clan - la calma.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20la%20calma"
-  },
-  {
-    "id": "m-clan-la-esperanza",
-    "artist": "MClan",
-    "title": "la-esperanza",
-    "filename": "m-clan - la-esperanza.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20la-esperanza"
-  },
-  {
-    "id": "m-clan-los-periodicos-de-manana",
-    "artist": "MClan",
-    "title": "los periodicos de mañana",
-    "filename": "m-clan - los periodicos de mañana.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20los%20periodicos%20de%20ma%C3%B1ana"
-  },
-  {
-    "id": "m-clan-maggie-despierta",
-    "artist": "MClan",
-    "title": "maggie despierta",
-    "filename": "m-clan - maggie despierta.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20maggie%20despierta"
-  },
-  {
-    "id": "m-clan-miedo",
-    "artist": "MClan",
-    "title": "miedo",
-    "filename": "m-clan - miedo.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20miedo"
-  },
-  {
-    "id": "m-clan-noche-de-desolacion",
-    "artist": "MClan",
-    "title": "noche de desolacion",
-    "filename": "m-clan - noche de desolacion.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20noche%20de%20desolacion"
-  },
-  {
-    "id": "m-clan-polvo-de-estrellas",
-    "artist": "MClan",
-    "title": "polvo de estrellas",
-    "filename": "m-clan - polvo de estrellas.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20polvo%20de%20estrellas"
-  },
-  {
-    "id": "m-clan-que-esta-pasando",
-    "artist": "MClan",
-    "title": "que esta pasando",
-    "filename": "m-clan - que esta pasando.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20que%20esta%20pasando"
-  },
-  {
-    "id": "m-clan-quedate-a-dormir",
-    "artist": "MClan",
-    "title": "quedate a dormir",
-    "filename": "m-clan - quedate a dormir.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20quedate%20a%20dormir"
-  },
-  {
-    "id": "m-clan-roto-por-dentro",
-    "artist": "MClan",
-    "title": "roto por dentro",
-    "filename": "m-clan - roto por dentro.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20roto%20por%20dentro"
-  },
-  {
-    "id": "m-clan-saltamos-sin-mirar",
-    "artist": "MClan",
-    "title": "Saltamos Sin Mirar",
-    "filename": "M-Clan - Saltamos Sin Mirar.txt",
-    "defaultTuning": null,
-    "sections": [
-      "ESTROFA",
-      "ESTRIBILLO",
-      "PUENTE",
-      "SOLO"
-    ],
-    "techniques": [
-      "tabs",
-      "barre-chords"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20Saltamos%20Sin%20Mirar"
-  },
-  {
-    "id": "m-clan-souvenir",
-    "artist": "MClan",
-    "title": "souvenir",
-    "filename": "m-clan - souvenir.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20souvenir"
-  },
-  {
-    "id": "m-clan-todo-lo-joven-muere-hoy",
-    "artist": "MClan",
-    "title": "todo lo joven muere hoy",
-    "filename": "m-clan - todo lo joven muere hoy.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20todo%20lo%20joven%20muere%20hoy"
-  },
-  {
-    "id": "m-clan-traeme-tu-amor",
-    "artist": "MClan",
-    "title": "traeme tu amor",
-    "filename": "m-clan - traeme tu amor.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20traeme%20tu%20amor"
-  },
-  {
-    "id": "m-clan-usar-y-tirar",
-    "artist": "MClan",
-    "title": "usar y tirar",
-    "filename": "m-clan - usar y tirar.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20usar%20y%20tirar"
-  },
-  {
-    "id": "m-clan-viaje-al-sur",
-    "artist": "MClan",
-    "title": "viaje al sur",
-    "filename": "m-clan - viaje al sur.txt",
-    "defaultTuning": null,
-    "key": "—",
-    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20viaje%20al%20sur"
   },
   {
     "id": "maldita-nerea-cuando-todas-las-historias-se-acaban",
@@ -5843,6 +5677,375 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Matchbox%20Twenty%20Unwell"
   },
   {
+    "id": "mclan-arenas-movedizas",
+    "artist": "MClan",
+    "title": "arenas movedizas",
+    "filename": "MClan - arenas movedizas.txt",
+    "defaultTuning": null,
+    "sections": [
+      "ESTRIBILLO",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20arenas%20movedizas"
+  },
+  {
+    "id": "mclan-caminos-secundarios",
+    "artist": "MClan",
+    "title": "caminos secundarios",
+    "filename": "MClan - caminos secundarios.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20caminos%20secundarios"
+  },
+  {
+    "id": "mclan-caroilna",
+    "artist": "MClan",
+    "title": "caroilna",
+    "filename": "MClan - caroilna.txt",
+    "defaultTuning": null,
+    "capo": 4,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "SOLO",
+      "OUTRO"
+    ],
+    "key": "Sol Mayor",
+    "timeSignature": "4/4",
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20caroilna"
+  },
+  {
+    "id": "mclan-carolina",
+    "artist": "MClan",
+    "title": "carolina",
+    "filename": "MClan - carolina.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "SOLO",
+      "OUTRO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20carolina"
+  },
+  {
+    "id": "mclan-chilaba-y-cachimba",
+    "artist": "MClan",
+    "title": "chilaba y cachimba",
+    "filename": "MClan - chilaba y cachimba.txt",
+    "defaultTuning": null,
+    "sections": [
+      "ESTRIBILLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20chilaba%20y%20cachimba"
+  },
+  {
+    "id": "mclan-concierto-salvaje",
+    "artist": "MClan",
+    "title": "concierto-salvaje",
+    "filename": "MClan - concierto-salvaje.txt",
+    "defaultTuning": null,
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20concierto-salvaje"
+  },
+  {
+    "id": "mclan-corazon-en-transito",
+    "artist": "MClan",
+    "title": "corazon en transito",
+    "filename": "MClan - corazon en transito.txt",
+    "defaultTuning": null,
+    "capo": 4,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "SOLO"
+    ],
+    "timeSignature": "4/4",
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20corazon%20en%20transito"
+  },
+  {
+    "id": "mclan-el-tren-que-nunca-cogimos",
+    "artist": "MClan",
+    "title": "el tren que nunca cogimos",
+    "filename": "MClan - el tren que nunca cogimos.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20el%20tren%20que%20nunca%20cogimos"
+  },
+  {
+    "id": "mclan-grupos-americanos",
+    "artist": "MClan",
+    "title": "grupos-americanos",
+    "filename": "MClan - grupos-americanos.txt",
+    "defaultTuning": null,
+    "capo": 1,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "BRIDGE"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20grupos-americanos"
+  },
+  {
+    "id": "mclan-inmigrante",
+    "artist": "MClan",
+    "title": "inmigrante",
+    "filename": "MClan - inmigrante.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20inmigrante"
+  },
+  {
+    "id": "mclan-la-calma",
+    "artist": "MClan",
+    "title": "la calma",
+    "filename": "MClan - la calma.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20la%20calma"
+  },
+  {
+    "id": "mclan-la-esperanza",
+    "artist": "MClan",
+    "title": "la-esperanza",
+    "filename": "MClan - la-esperanza.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "BRIDGE"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20la-esperanza"
+  },
+  {
+    "id": "mclan-los-periodicos-de-manana",
+    "artist": "MClan",
+    "title": "los periodicos de mañana",
+    "filename": "MClan - los periodicos de mañana.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "SOLO",
+      "OUTRO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20los%20periodicos%20de%20ma%C3%B1ana"
+  },
+  {
+    "id": "mclan-maggie-despierta",
+    "artist": "MClan",
+    "title": "maggie despierta",
+    "filename": "MClan - maggie despierta.txt",
+    "defaultTuning": null,
+    "capo": 2,
+    "sections": [
+      "INTRO",
+      "SOLO"
+    ],
+    "timeSignature": "4/4",
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20maggie%20despierta"
+  },
+  {
+    "id": "mclan-miedo",
+    "artist": "MClan",
+    "title": "miedo",
+    "filename": "MClan - miedo.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "PUENTE",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20miedo"
+  },
+  {
+    "id": "mclan-noche-de-desolacion",
+    "artist": "MClan",
+    "title": "noche de desolacion",
+    "filename": "MClan - noche de desolacion.txt",
+    "defaultTuning": null,
+    "capo": 2,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "SOLO",
+      "ESTRIBILLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20noche%20de%20desolacion"
+  },
+  {
+    "id": "mclan-polvo-de-estrellas",
+    "artist": "MClan",
+    "title": "polvo de estrellas",
+    "filename": "MClan - polvo de estrellas.txt",
+    "defaultTuning": null,
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20polvo%20de%20estrellas"
+  },
+  {
+    "id": "mclan-que-esta-pasando",
+    "artist": "MClan",
+    "title": "que esta pasando",
+    "filename": "MClan - que esta pasando.txt",
+    "defaultTuning": null,
+    "capo": 2,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "SOLO",
+      "ESTRIBILLO",
+      "OUTRO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20que%20esta%20pasando"
+  },
+  {
+    "id": "mclan-quedate-a-dormir",
+    "artist": "MClan",
+    "title": "quedate a dormir",
+    "filename": "MClan - quedate a dormir.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "BRIDGE",
+      "ESTRIBILLO",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20quedate%20a%20dormir"
+  },
+  {
+    "id": "mclan-roto-por-dentro",
+    "artist": "MClan",
+    "title": "roto por dentro",
+    "filename": "MClan - roto por dentro.txt",
+    "defaultTuning": null,
+    "capo": 4,
+    "sections": [
+      "INTRO",
+      "SOLO"
+    ],
+    "timeSignature": "4/4",
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20roto%20por%20dentro"
+  },
+  {
+    "id": "mclan-saltamos-sin-mirar-2",
+    "artist": "MClan",
+    "title": "Saltamos Sin Mirar (2)",
+    "filename": "MClan - Saltamos Sin Mirar (2).txt",
+    "defaultTuning": null,
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE",
+      "SOLO"
+    ],
+    "techniques": [
+      "barre-chords",
+      "tabs"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20Saltamos%20Sin%20Mirar%20%282%29"
+  },
+  {
+    "id": "mclan-saltamos-sin-mirar",
+    "artist": "MClan",
+    "title": "saltamos sin mirar",
+    "filename": "MClan - saltamos sin mirar.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20saltamos%20sin%20mirar"
+  },
+  {
+    "id": "mclan-souvenir",
+    "artist": "MClan",
+    "title": "souvenir",
+    "filename": "MClan - souvenir.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "SOLO",
+      "OUTRO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20souvenir"
+  },
+  {
+    "id": "mclan-todo-lo-joven-muere-hoy",
+    "artist": "MClan",
+    "title": "todo lo joven muere hoy",
+    "filename": "MClan - todo lo joven muere hoy.txt",
+    "defaultTuning": null,
+    "capo": 3,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20todo%20lo%20joven%20muere%20hoy"
+  },
+  {
+    "id": "mclan-traeme-tu-amor",
+    "artist": "MClan",
+    "title": "traeme tu amor",
+    "filename": "MClan - traeme tu amor.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO",
+      "BRIDGE"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20traeme%20tu%20amor"
+  },
+  {
+    "id": "mclan-usar-y-tirar",
+    "artist": "MClan",
+    "title": "usar y tirar",
+    "filename": "MClan - usar y tirar.txt",
+    "defaultTuning": null,
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20usar%20y%20tirar"
+  },
+  {
+    "id": "mclan-viaje-al-sur",
+    "artist": "MClan",
+    "title": "viaje al sur",
+    "filename": "MClan - viaje al sur.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "SOLO",
+      "ESTRIBILLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20viaje%20al%20sur"
+  },
+  {
     "id": "melon-diesel-quiero-un-camino",
     "artist": "Melon Diesel",
     "title": "Quiero Un Camino",
@@ -5895,10 +6098,16 @@
     "artist": "Morgan",
     "title": "Intro",
     "filename": "Morgan - Intro.txt",
-    "defaultTuning": null,
+    "defaultTuning": "estandar",
+    "bpm": 68,
+    "sections": [
+      "ESTROFA"
+    ],
     "techniques": [
       "barre-chords"
     ],
+    "key": "Fa Mayor (F)",
+    "timeSignature": "4/4",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Morgan%20Intro"
   },
   {
@@ -6423,8 +6632,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Pereza%20Lady%20Madrid"
   },
@@ -6473,8 +6682,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Pereza%20Por%20Mi%20Tripa"
   },
@@ -6483,12 +6692,13 @@
     "artist": "Pereza",
     "title": "Princesas",
     "filename": "Pereza - Princesas.txt",
-    "defaultTuning": null,
+    "defaultTuning": "estandar",
     "bpm": 124,
     "capo": 0,
     "techniques": [
       "barre-chords"
     ],
+    "key": "Mi Mayor (E Major)",
     "timeSignature": "4/4",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Pereza%20Princesas"
   },
@@ -6497,11 +6707,17 @@
     "artist": "Pereza",
     "title": "Si Quieres Bailamos",
     "filename": "Pereza - Si Quieres Bailamos.txt",
-    "defaultTuning": null,
+    "defaultTuning": "estandar",
     "capo": 0,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
     "techniques": [
       "barre-chords"
     ],
+    "key": "La Mayor (A)",
     "timeSignature": "4/4",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Pereza%20Si%20Quieres%20Bailamos"
   },
@@ -6519,6 +6735,18 @@
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Pereza%20Todo"
+  },
+  {
+    "id": "pereza-todo2",
+    "artist": "Pereza",
+    "title": "todo2",
+    "filename": "Pereza - todo2.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Pereza%20todo2"
   },
   {
     "id": "pereza-violento-amor",
@@ -6627,8 +6855,8 @@
       "INTRO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=R.E.M%20Man%20on%20the%20Moon"
   },
@@ -7171,8 +7399,8 @@
       "ESTROFA"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Shakira%20Pies%20Descalzos%20Sue%C3%B1os%20Blancos"
   },
@@ -7280,7 +7508,11 @@
     "artist": "Sidecars",
     "title": "La Tormenta",
     "filename": "Sidecars - La Tormenta.txt",
-    "defaultTuning": null,
+    "defaultTuning": "estandar",
+    "capo": 1,
+    "techniques": [
+      "barre-chords"
+    ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Sidecars%20La%20Tormenta"
   },
   {
@@ -7534,8 +7766,8 @@
       "PUENTE"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20treacherous"
   },
@@ -7569,8 +7801,8 @@
       "SOLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=The%20Beatles%20Now%20and%20Then"
   },
@@ -7797,8 +8029,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "palm-mute",
-      "barre-chords"
+      "barre-chords",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Vetusta%20Morla%20Copenhague"
   },
@@ -7868,8 +8100,8 @@
     "filename": "Yesterday - Beatles Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power.txt",
     "defaultTuning": null,
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Yesterday%20Beatles%20Tabs-Tablatures-Lyrics-Chords%20-%20Guitar-Bass%20-%20Tab%20Power"
   },
