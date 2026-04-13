@@ -277,13 +277,30 @@ document.addEventListener("DOMContentLoaded", () => {
             const trimmed = line.trim();
             const normalizedTrimmed = normalize(trimmed);
             const upperTrimmed = trimmed.toUpperCase();
+            
+            // Filtrar metadatos (ALBUM, AÑO, AFINACION, etc)
+            const isMetadata = /^(?:ALBUM|A[ÑN]O|YEAR|AFINACION|TUNING|BPM|TEMPO|KEY|CLAVE|COMPAS|TIME)\s*:/i.test(trimmed);
+            
             const hasCapoPrefix = upperTrimmed.startsWith("CEJILLA/CAPO:") ||
                                   upperTrimmed.startsWith("CEJILLA:") ||
                                   upperTrimmed.startsWith("CAPO:");
             const hasCapoKeyword = /\bcapo\s+[0-9]/i.test(trimmed);
             const hasCapoOrdinal = /\b(?:con\s+)?(?:cejilla|capo)\s+en\s+el\s+(primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|septimo|octavo|noveno|decimo|undecimo|duodecimo)\s+traste\b/i.test(normalizedTrimmed);
 
-            if (hasCapoPrefix || hasCapoKeyword || hasCapoOrdinal) {
+            if (isMetadata) {
+                // Extraer capo si es una línea de metadatos
+                if ((hasCapoPrefix || hasCapoKeyword || hasCapoOrdinal) && !trimmed.match(/^(?:ALBUM|A[ÑN]O|YEAR|AFINACION|TUNING)\s*:/i)) {
+                    let candidate = "";
+                    const match = trimmed.match(/(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(.+)/i);
+                    if (match) {
+                        candidate = match[1].trim();
+                    }
+                    if (candidate) {
+                        capoCandidates.push(candidate);
+                    }
+                }
+                // No agregar líneas de metadatos al texto limpio
+            } else if (hasCapoPrefix || hasCapoKeyword || hasCapoOrdinal) {
                 let candidate = "";
 
                 const match = trimmed.match(/(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(.+)/i) ||
@@ -1617,7 +1634,14 @@ document.addEventListener("DOMContentLoaded", () => {
             activeSongFilename = song.filename;
 
             songTitle.textContent = song.title;
-            songMeta.textContent = song.artist;
+            let metaText = song.artist;
+            if (song.year) {
+                metaText += ` (${song.year})`;
+            }
+            if (song.album) {
+                metaText += ` - ${song.album}`;
+            }
+            songMeta.textContent = metaText;
             
             // Mostrar u ocultar la cejilla
             if (activeSongCapo) {

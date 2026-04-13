@@ -114,6 +114,57 @@ function Get-SongBpm {
     return $null
 }
 
+function Get-FeaturingArtist {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$Title
+    )
+
+    # Buscar patrones como "feat. Nombre" o "ft. Nombre"
+    $featPattern = "(?i)(?:feat|ft)\.?\s+(.+?)(?:\)|$)"
+    $match = [regex]::Match($Title, $featPattern)
+    
+    if ($match.Success) {
+        return $match.Groups[1].Value.Trim() -replace "[().]$"
+    }
+    
+    return $null
+}
+
+function Get-SongAlbum {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$FileContent
+    )
+
+    # Buscar patrón "ALBUM: Nombre del álbum"
+    $albumPattern = "(?im)^ALBUM\s*:\s*(.+?)\s*$"
+    $match = [regex]::Match($FileContent, $albumPattern)
+    
+    if ($match.Success) {
+        return $match.Groups[1].Value.Trim()
+    }
+    
+    return $null
+}
+
+function Get-SongYear {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$FileContent
+    )
+
+    # Buscar patrón "AÑO: 2012" o "YEAR: 2012"
+    $yearPattern = "(?im)^(?:A[Ñ]O|YEAR)\s*:\s*(\d{4})\s*$"
+    $match = [regex]::Match($FileContent, $yearPattern)
+    
+    if ($match.Success) {
+        return [int]$match.Groups[1].Value
+    }
+    
+    return $null
+}
+
 function Get-SongCapo {
     param(
         [Parameter(Mandatory = $true)]
@@ -785,6 +836,24 @@ ForEach-Object {
 
     if ($null -ne $capo) {
         $song | Add-Member -NotePropertyName "capo" -NotePropertyValue $capo
+    }
+    
+    # Extraer artista feat. del título
+    $featuring = Get-FeaturingArtist -Title $metadata.Title
+    if ($featuring) {
+        $song | Add-Member -NotePropertyName "featuring" -NotePropertyValue $featuring
+    }
+    
+    # Extraer álbum del contenido del archivo
+    $album = if ($fileContent) { Get-SongAlbum -FileContent $fileContent } else { $null }
+    if ($album) {
+        $song | Add-Member -NotePropertyName "album" -NotePropertyValue $album
+    }
+    
+    # Extraer año del contenido del archivo
+    $year = if ($fileContent) { Get-SongYear -FileContent $fileContent } else { $null }
+    if ($year) {
+        $song | Add-Member -NotePropertyName "year" -NotePropertyValue $year
     }
         
     if ($sections -and $sections.Length -gt 0) {

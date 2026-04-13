@@ -1177,6 +1177,7 @@
     "filename": "eels - end times.md",
     "defaultTuning": null,
     "capo": 2,
+    "album": "End Times",
     "sections": [
       "INTRO"
     ],
@@ -1260,8 +1261,8 @@
     "filename": "El Canto Del Loco - Besos.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Besos"
   },
@@ -1294,8 +1295,8 @@
     "filename": "El Canto Del Loco - CANCIONES.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20CANCIONES"
   },
@@ -1372,8 +1373,8 @@
     "filename": "El Canto Del Loco - Desaparece.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Desaparece"
   },
@@ -1384,8 +1385,8 @@
     "filename": "El Canto Del Loco - Despiertame.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Despiertame"
   },
@@ -1400,8 +1401,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords",
-      "palm-mute"
+      "palm-mute",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Eh%20Tu"
   },
@@ -1421,8 +1422,8 @@
     "filename": "El Canto Del Loco - El Pescao.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20El%20Pescao"
   },
@@ -1667,8 +1668,8 @@
       "SOLO"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Personas"
   },
@@ -1708,8 +1709,8 @@
     "defaultTuning": "medio-tono-abajo",
     "capo": 3,
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Por%20Ti%20-%20-%20Por%20T%C3%AD"
   },
@@ -1796,8 +1797,8 @@
     "filename": "El Canto Del Loco - Que Caro Es El Tiempo (alt).txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Que%20Caro%20Es%20El%20Tiempo%20%28alt%29"
   },
@@ -1826,8 +1827,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20SERA"
   },
@@ -1967,8 +1968,8 @@
       "SOLO"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Tremendo%20-%20F%20E"
   },
@@ -2015,8 +2016,8 @@
     "filename": "El Canto Del Loco - Usanos.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Usanos"
   },
@@ -2057,8 +2058,8 @@
     "filename": "El Canto Del Loco - Volvera.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Volvera"
   },
@@ -2073,8 +2074,8 @@
       "ESTROFA"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Vuelve"
   },
@@ -2117,10 +2118,10 @@
     "filename": "El Canto Del Loco - Zapatillas.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "strumming",
-      "barre-chords",
       "palm-mute",
-      "tabs"
+      "tabs",
+      "strumming",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Zapatillas"
   },
@@ -2388,8 +2389,8 @@
     "defaultTuning": "estandar",
     "capo": 0,
     "techniques": [
-      "barre-chords",
-      "palm-mute"
+      "palm-mute",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Extremoduro%20Standby"
   },
@@ -2804,8 +2805,8 @@
     "filename": "Fito & Fitipaldis - Que Me Arrastre El Viento.txt",
     "defaultTuning": null,
     "techniques": [
-      "barre-chords",
-      "palm-mute"
+      "palm-mute",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Fito%20%26%20Fitipaldis%20Que%20Me%20Arrastre%20El%20Viento"
   },
@@ -3033,9 +3034,9 @@
       "INTRO"
     ],
     "techniques": [
+      "tabs",
       "strumming",
-      "barre-chords",
-      "tabs"
+      "barre-chords"
     ],
     "key": "(ej. Mi Mayor)",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Desconocido%20Formato_Recomendado"
@@ -3090,8 +3091,8 @@
       "OUTRO"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Goo%20Goo%20Dolls%20Slide%20by%20the%20Goo%20Goo%20Dolls"
   },
@@ -3974,8 +3975,8 @@
       "SOLO"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Knockin%20on%20Heavens%20Door%20Guns%20N%20Roses%20Tabs-Tablatures-Lyrics-Chords%20-%20Guitar-Bass%20-%20Tab%20Power"
   },
@@ -4099,8 +4100,8 @@
       "PUENTE"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=La%20Moda%20H%C3%A9roes%20Del%20Sabado"
   },
@@ -4591,13 +4592,9 @@
     "title": "Hermosa Taquicardia",
     "filename": "Leiva - Hermosa Taquicardia.txt",
     "defaultTuning": null,
-    "capo": 2,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
-    ],
-    "techniques": [
-      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Hermosa%20Taquicardia"
   },
@@ -4637,6 +4634,7 @@
     "filename": "Leiva - hoy tus ojos.txt",
     "defaultTuning": null,
     "sections": [
+      "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "OUTRO"
@@ -4654,17 +4652,6 @@
       "ESTRIBILLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Iceberg"
-  },
-  {
-    "id": "leiva-index",
-    "artist": "Leiva",
-    "title": "index",
-    "filename": "Leiva - index.txt",
-    "defaultTuning": null,
-    "techniques": [
-      "tabs"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20index"
   },
   {
     "id": "leiva-infinitos",
@@ -5111,8 +5098,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords",
-      "palm-mute"
+      "palm-mute",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20vertigo"
   },
@@ -5963,8 +5950,8 @@
       "SOLO"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20Saltamos%20Sin%20Mirar%20%282%29"
   },
@@ -6632,8 +6619,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Pereza%20Lady%20Madrid"
   },
@@ -6682,8 +6669,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Pereza%20Por%20Mi%20Tripa"
   },
@@ -6855,8 +6842,8 @@
       "INTRO"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=R.E.M%20Man%20on%20the%20Moon"
   },
@@ -7399,8 +7386,8 @@
       "ESTROFA"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Shakira%20Pies%20Descalzos%20Sue%C3%B1os%20Blancos"
   },
@@ -7759,6 +7746,7 @@
     "filename": "Taylor Swift - treacherous.txt",
     "defaultTuning": null,
     "capo": 0,
+    "album": "Red",
     "sections": [
       "INTRO",
       "ESTROFA",
@@ -7766,8 +7754,8 @@
       "PUENTE"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20treacherous"
   },
@@ -7801,8 +7789,8 @@
       "SOLO"
     ],
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=The%20Beatles%20Now%20and%20Then"
   },
@@ -8029,8 +8017,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords",
-      "palm-mute"
+      "palm-mute",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Vetusta%20Morla%20Copenhague"
   },
@@ -8100,8 +8088,8 @@
     "filename": "Yesterday - Beatles Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power.txt",
     "defaultTuning": null,
     "techniques": [
-      "barre-chords",
-      "tabs"
+      "tabs",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Yesterday%20Beatles%20Tabs-Tablatures-Lyrics-Chords%20-%20Guitar-Bass%20-%20Tab%20Power"
   },
