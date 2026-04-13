@@ -1,19 +1,4 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: El Niño de la Hipoteca
-CANCIÓN: Romeo y Julieta
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Acordes: G 032003 · C x32010 · C* x32033 · D 000232
-Dadd9 (variación con C en 3.er traste) x54030 · D* (C* en 4.º traste) x54055
-C/G 332010 · Em 022000 · Am 002210
-Ritmo: palm muting en la mayor parte; en el estribillo puede variar (probad qué os encaja más).
-================================================================================
-
 ESTROFA
 G              C*                   G        C*
 Apaguen móviles abróchense los cinturones

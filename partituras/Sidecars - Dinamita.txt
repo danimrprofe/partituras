@@ -1,23 +1,7 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Sidecars
-CANCIÓN: DINAMITA
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Traste 3
+
 COMPÁS: 4/4
-================================================================================
-NOTAS DE ACORDES:
-- D* = Re Mayor (D)
-- Bm* = Si menor 7 añadida 11 (0 2 0 2 3 0)
-================================================================================
-INTRO: G
+INTRO
 G                   Em   G                  Em
 Cómo habré llegado aquí Me tortura al despertarme.
 C      G/B      D*     Am      G/B        D
@@ -48,13 +32,13 @@ C        G            D       G   C          G          D          G
 Como dinamita en una fuga de gas. Abre una rendija, ayúdame a respirar.
 C                                    D
 Tarde para andar detrás Decirte que no
-REPITE ESTRIBILLO
+ESTRIBILLO
 C              Am              G      Bm          Em
 Y a quién quiero engañar Ya sabes que bebo los vientos por ti.
       C
 Y no aguanto más así.
 Em D G Em D/#G C D G D C
-REPITE ESTRIBILLO
+ESTRIBILLO
 FINAL
 G      D          Em
 Cómo habré llegado aquí

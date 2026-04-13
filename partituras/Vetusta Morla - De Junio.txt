@@ -1,18 +1,7 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Vetusta Morla
-CANCIÓN: 23 DE JUNIO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 VETUSTA MORLA 
 23 DE JUNIO
-Sin capo
 
 INTRO
 Dm E Am

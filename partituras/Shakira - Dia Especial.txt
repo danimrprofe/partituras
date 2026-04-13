@@ -1,15 +1,5 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Shakira
-CANCIÓN: Dia especial
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 I didn't figure out these chords myself, I got them from another site but 
 they
 were for The Day and The Time, which is the English version of the song. I 
@@ -21,7 +11,6 @@ same
 time... I think it could just be omitted.
  
  
-Capo on the 1st fret
  
  
   Am G  Am           C          G

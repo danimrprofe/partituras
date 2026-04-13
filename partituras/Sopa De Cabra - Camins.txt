@@ -1,19 +1,8 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Sopa de Cabra
-CANCIÓN: CAMINS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 SOPA DE CABRA 
 CAMINS
 SOPA DE CABRA
-Cejilla en traste 4
 
 INTRO
 D Dsus2 D Dsus2 

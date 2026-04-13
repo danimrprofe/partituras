@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Manolo Garcia
-CANCIÓN: CARBÓN Y RAMAS SECAS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 MANOLO GARCÍA
 CARBÓN Y RAMAS SECAS
 Mejor bajando y capo 2
@@ -63,7 +53,7 @@ Yo te haré un vestido
                E
 De un rojo amapola.
  
-INTERLUDIO
+INSTRUMENTAL
  
 Bm  E
 Bm  E

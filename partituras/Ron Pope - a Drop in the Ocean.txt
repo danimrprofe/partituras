@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Ron Pope
-CANCION: A DROP IN THE OCEAN
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 RON POPE 
 A DROP IN THE OCEAN
-Sin capo. Guitarra me va bien -3 y capo 2
 
 ESTRIBILLO
    Dm          Bb       F               C
@@ -25,9 +14,10 @@ It's like wishing for rain as I stand in the desert
         Dm              Bb      F           C         Bb      F
 But I'm holding you closer than most 'cause you are my  heaven
  
-C Dm Bb F C        Bb                  F
-           I don't wanna waste the weekend
- 
+C Dm Bb F C        
+
+       Bb                  F
+I don't wanna waste the weekend
 C                    Dm7
  If you don't love me   pretend
   Bb            F              C

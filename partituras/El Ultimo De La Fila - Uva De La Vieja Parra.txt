@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Ultimo De La Fila
-CANCION: UVA DE LA VIEJA PARRA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 EL ULTIMO DE LA FILA 
 UVA DE LA VIEJA PARRA

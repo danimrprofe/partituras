@@ -1,6 +1,4 @@
-# 92
 
-```
 C                  C/E
 Caímos en el incendio
  F                   C
@@ -63,7 +61,6 @@ para luego separarnos,
 ¿cómo decírnoslo?
                F       G
 ¿es que nadie va a salvarnos?
-```
 
 
 

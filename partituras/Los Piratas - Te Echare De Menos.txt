@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Los Piratas
-CANCION: TE ECHARE DE MENOS
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-Tom: Bm
-Intro:
+INTRO
 (G)(D)(G)(D)
+
+ESTROFA
 G        D                     G               D
 Con cuidado se levanta de mi lado. Llámame mañana
                  G     D    G
@@ -32,7 +21,7 @@ no tienes porqué sentirte mal
       D
 Te echaré de menos hoy
 
-(Estribillo)
+ESTRIBILLO
        Em
 Te echaré tanto de menos
      F#/D                       G

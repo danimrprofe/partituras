@@ -1,17 +1,6 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Shakira
-CANCIÓN: Te dejo madrid
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-Cejilla: Sin cejilla
-Intro:
+
+Intro
  
 F#5 - Em - B5 - F#5 (bis)
 Uuuuuhhhh!!..

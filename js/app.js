@@ -62,6 +62,16 @@ document.addEventListener("DOMContentLoaded", () => {
     const importProfilesBtn = document.getElementById("importProfilesBtn");
     const importProfilesFile = document.getElementById("importProfilesFile");
 
+    const editSongBtn = document.getElementById("editSongBtn");
+    const youtubeBtn = document.getElementById("youtubeBtn");
+    const songViewMode = document.getElementById("songViewMode");
+    const songEditMode = document.getElementById("songEditMode");
+    const editArtist = document.getElementById("editArtist");
+    const editTitle = document.getElementById("editTitle");
+    const editCapo = document.getElementById("editCapo");
+    const saveEditBtn = document.getElementById("saveEditBtn");
+    const cancelEditBtn = document.getElementById("cancelEditBtn");
+
     if (
         !songList ||
         !searchInput ||
@@ -111,7 +121,15 @@ document.addEventListener("DOMContentLoaded", () => {
         !songRatingLabel ||
         !exportProfilesBtn ||
         !importProfilesBtn ||
-        !importProfilesFile
+        !importProfilesFile ||
+        !editSongBtn ||
+        !songViewMode ||
+        !songEditMode ||
+        !editArtist ||
+        !editTitle ||
+        !editCapo ||
+        !saveEditBtn ||
+        !cancelEditBtn
     ) {
         return;
     }
@@ -1082,21 +1100,25 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         if (capoFilterValue !== "all") {
-            const capoNum = profile.capo ? Number(profile.capo) : 0;
+            // Usar capo del perfil si existe, sino del índice
+            const profileCapo = profile.capo ? Number(profile.capo) : null;
+            const songCapoNum = profileCapo !== null ? profileCapo : (song.capo ? Number(song.capo) : 0);
+            
             if (capoFilterValue === "sin-cejilla") {
-                if (capoNum !== 0) {
+                if (songCapoNum !== 0) {
                     return false;
                 }
             } else if (capoFilterValue === "1-2") {
-                if (capoNum < 1 || capoNum > 2) {
+                if (songCapoNum < 1 || songCapoNum > 2) {
                     return false;
                 }
             } else if (capoFilterValue === "3-plus") {
-                if (capoNum < 3) {
+                if (songCapoNum < 3) {
                     return false;
                 }
             } else if (capoFilterValue === "sin-definir") {
-                if (profile.capo !== "") {
+                // Sin definir = que no tenga capo ni en perfil ni en canción
+                if (profileCapo !== null || (song.capo && song.capo > 0)) {
                     return false;
                 }
             }
@@ -1177,13 +1199,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
             button.innerHTML = `
                 <div class="song-item-main">
-                    <div class="fw-semibold">${song.title}</div>
-                    <div class="song-meta">${song.artist}</div>
-                    <div class="song-tags">
+                    <div class="fw-semibold small" style="line-height: 1.2;">${song.artist} - ${song.title}</div>
+                    <div class="song-tags" style="font-size: 0.7rem; gap: 0.3rem;">
                         ${chordTag}
                         ${instrumentTags.join("")}
                         ${tuningTag}
-                        ${techniqueTags}
                         <span class="song-tag rating-tag">${formatRatingStars(profile.rating)}</span>
                     </div>
                 </div>
@@ -1610,12 +1630,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 bpmContainer.classList.add("d-none");
             }
             
-            // Mostrar técnicas si existen
-            if (song.techniques && song.techniques.length > 0) {
-                songTechniques.innerHTML = song.techniques
+            // Mostrar técnicas si existen (excluyendo barre-chords que se muestra en cejilla)
+            const otherTechniques = song.techniques && song.techniques.filter(tech => tech !== "barre-chords") || [];
+            if (otherTechniques.length > 0) {
+                songTechniques.innerHTML = otherTechniques
                     .map((tech) => {
                         const label = TECHNIQUE_LABELS[tech] || tech;
-                        const badgeClass = tech === "barre-chords" ? "text-bg-danger" : "text-bg-secondary";
+                        const badgeClass = "text-bg-secondary";
                         return `<span class="badge ${badgeClass}">${label}</span>`;
                     })
                     .join("");
@@ -1650,6 +1671,10 @@ document.addEventListener("DOMContentLoaded", () => {
             
             renderSongBody();
             renderActiveSongProfile();
+
+            // Restaurar modo lectura
+            songViewMode.classList.remove("d-none");
+            songEditMode.classList.add("d-none");
 
             emptyState.classList.add("d-none");
             songView.classList.remove("d-none");
@@ -1839,6 +1864,89 @@ document.addEventListener("DOMContentLoaded", () => {
                 importProfilesFile.value = "";
             };
             reader.readAsText(file);
+        });
+
+        // Editar artista, canción y capo
+        editSongBtn.addEventListener("click", () => {
+            const activeSong = songs.find(s => s.id === activeSongId);
+            if (!activeSong) return;
+
+            const profile = songProfiles[activeSongId] || {};
+            
+            editArtist.value = profile.artist || activeSong.artist || "";
+            editTitle.value = profile.title || activeSong.title || "";
+            editCapo.value = profile.capo || activeSongCapo || "";
+
+            songViewMode.classList.add("d-none");
+            songEditMode.classList.remove("d-none");
+            editArtist.focus();
+        });
+
+        // Abrir YouTube
+        youtubeBtn.addEventListener("click", () => {
+            const activeSong = songs.find(s => s.id === activeSongId);
+            if (!activeSong || !activeSong.youtubeUrl) return;
+            window.open(activeSong.youtubeUrl, "youtube_video", "width=1280,height=720,resizable=yes,scrollbars=yes");
+        });
+
+        saveEditBtn.addEventListener("click", () => {
+            const newArtist = editArtist.value.trim();
+            const newTitle = editTitle.value.trim();
+            const newCapo = editCapo.value ? parseInt(editCapo.value, 10) : null;
+
+            if (!newArtist || !newTitle) {
+                alert("Artista y canción son requeridos");
+                return;
+            }
+
+            // Guardar en perfil
+            const profile = songProfiles[activeSongId] || {};
+            if (newArtist) profile.artist = newArtist;
+            if (newTitle) profile.title = newTitle;
+            if (newCapo !== null && newCapo > 0) {
+                profile.capo = newCapo;
+            } else {
+                delete profile.capo;
+            }
+            
+            songProfiles[activeSongId] = profile;
+            saveSongProfiles();
+
+            // Actualizar en songs (para que se refleje en la lista)
+            const songIndex = songs.findIndex(s => s.id === activeSongId);
+            if (songIndex >= 0) {
+                if (newArtist) songs[songIndex].artist = newArtist;
+                if (newTitle) songs[songIndex].title = newTitle;
+                if (newCapo !== null && newCapo > 0) {
+                    songs[songIndex].capo = newCapo;
+                } else {
+                    delete songs[songIndex].capo;
+                }
+            }
+
+            // Actualizar vista
+            songMeta.textContent = newArtist;
+            songTitle.textContent = newTitle;
+            if (newCapo && newCapo > 0) {
+                songCapo.textContent = `Cejilla: ${newCapo}`;
+                capoContainer.classList.remove("d-none");
+                activeSongCapo = String(newCapo);
+            } else {
+                capoContainer.classList.add("d-none");
+                activeSongCapo = "";
+            }
+
+            // Volver a modo lectura
+            songViewMode.classList.remove("d-none");
+            songEditMode.classList.add("d-none");
+            
+            // Refrescar la lista para mostrar cambios
+            renderSongList(searchInput.value);
+        });
+
+        cancelEditBtn.addEventListener("click", () => {
+            songViewMode.classList.remove("d-none");
+            songEditMode.classList.add("d-none");
         });
 
         searchInput.addEventListener("input", (event) => {

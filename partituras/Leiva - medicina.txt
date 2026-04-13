@@ -1,13 +1,7 @@
-# Medicina
 
 <<<<<<< HEAD
 =======
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | No   |
-
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
-```
 ESTROFA 1
 D          F#m
 Quería contarte
@@ -128,9 +122,7 @@ cuando te va alcanzar
 A   G   D
 tu medicina
 <<<<<<< HEAD
-```
 =======
-```
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 
 

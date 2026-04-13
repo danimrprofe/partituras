@@ -1,18 +1,7 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Tom Odell
-CANCIÓN: ANOTHER LOVE
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 TOM ODELL 
 ANOTHER LOVE
-SIN CAPO - PIANO
 INTRO
 Em    G  C
 Em    Bm

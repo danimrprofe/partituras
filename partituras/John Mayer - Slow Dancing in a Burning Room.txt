@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: John Mayer
-CANCION: SLOW DANCING IN A BURNING ROOM
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 JOHN MAYER 
 SLOW DANCING IN A BURNING ROOM

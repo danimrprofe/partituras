@@ -1,17 +1,12 @@
-# El mundo
 
 <<<<<<< HEAD
 INTRO
-```
 =======
 ## El mundo
-```
 **Intro**
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 C#m E C#m E
-```
 **Estrofa**
-```
 C#m         E
 El mundo ha roto
 C#m         E
@@ -32,9 +27,7 @@ Tampoco suplicarle que me espere
 
 
 
-```
 **Estribillo**
-```
 
                 A    B          C#m
 Y si mañana no queda más que un Ángel
@@ -44,9 +37,7 @@ Y si mañana tan solo somos aire
 Y si mañana nos encuentran enredados que nos dejen descansar, del mundo así
 
 
-```
 **Estrofa**
-```
 C#         E   C#         E
 El mundo salta por la ventana
   G#m                        F#m
@@ -62,9 +53,7 @@ Jugando a ser amantes inocentes
 
 
 
-```
 **Estribillo**
-```
 
                 A    B          C#m
 Y si mañana no queda más que un Ángel
@@ -88,4 +77,3 @@ Quiero escapar de este mundo así
 
 FINAL
 C#m E C#m E
-```

@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Don Mclean
-CANCION: AMERICAN PIE
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 DON MCLEAN 
 AMERICAN PIE
-Sin capo
 
 ESTROFA
   G     D/F# Em        Am            C

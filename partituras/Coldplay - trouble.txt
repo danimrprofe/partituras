@@ -1,23 +1,7 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: TROUBLE2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-# Trouble
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | No   |
 
-```
 INTRO
 G  Em   Bm
 G  Em   Bm
@@ -97,4 +81,3 @@ G  Em   Bm
 G  Em   Bm
 G  Em   Bm
 G  Em   Bm
-```

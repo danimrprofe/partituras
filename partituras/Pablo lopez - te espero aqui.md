@@ -1,4 +1,3 @@
-# Te espero aquí
 
 **Guitarra**
 - Subiéndola un semitono es más fácil de tocar, y se puede desafinar la guitarra medio tono para coincidir con la canción
@@ -7,11 +6,8 @@
 Arpegiar Intro -
 
 **Intro**
-```
 F# Bm/F# F# Bm/F#
-```
 **Estrofa**
-```
 G#m                Ebm
 No entiendo como fue
                     A#m
@@ -32,14 +28,10 @@ B                   C#
 Mordiendo el aire me he despertado y...
 
 <<<<<<< HEAD
-```
 **Estribillo**
-```
 =======
 
-```
 **Estribillo**
-```
 
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
               Gb   Abm   Gb/Bb             B
@@ -56,13 +48,9 @@ Que no debi­ bajar esa escalera. Solo quiero volver a
 O nos ganó la prisa traicionera
   Db     B    Bm/D    Gb
 Vuelve, yo te espero aqui...
-```
 **Instrumental (arpegiar)**
-```
 F# Bm/D F# Bm/D
-```
 **Estrofa**
-```
 G#m                 Ebm
    No se si fuiste tu
               A#m
@@ -83,9 +71,7 @@ Nunca dejo esa cama
     B                 C#
 Yo sigo en ella, sigo abrazando y...
 
-```
 **Estribillo**
-```
 <<<<<<< HEAD
 =======
 
@@ -105,14 +91,10 @@ O nos ganó la prisa traicionera
   Db     B
 Vuelve, yo
 <<<<<<< HEAD
-```
 **Estribillo**
-```
 =======
 
-```
 **Estribillo**
-```
 
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
  Bm/D        Gb   Abm   Gb/Bb             B
@@ -136,4 +118,3 @@ yo te espero aqui...
 FINAL (Arpegiar)
 F# Bm/D
 F# Bm/D
-```

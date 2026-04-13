@@ -8,7 +8,8 @@ Es un gran golpe que me ha quebrado el cristal.
 Bm                   E                  A D   A D
 Hoy te vi saliendo de un bar en Paseo de Gracia
 
-Solo: | A D | A D | A D |
+Solo
+| A D | A D | A D |
 
 ESTROFA
 A     D        A        D      A    D        A   D  

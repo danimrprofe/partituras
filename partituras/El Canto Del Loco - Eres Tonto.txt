@@ -1,19 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: ERES TONTO22
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 ERES TONTO
 ==========
-Afinación: Eb Ab Db Gb Bb Eb
+Afinación: 	Eb Ab Db Gb Bb Eb
 
 -----+------+-----+--------
 F#m  | C#m     | F#m    | C#m 
@@ -45,4 +35,6 @@ A E  | F#m C   | D      | -
 A E  | F#m C#m | D      | C#
 -----+------+-----+--------
 F#m  | C#m     | F#m    | C#m 
+
+
 

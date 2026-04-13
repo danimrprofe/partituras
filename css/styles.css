@@ -110,7 +110,7 @@ body.app-body {
 }
 
 .song-list {
-    max-height: 58vh;
+    max-height: 80vh;
     overflow: auto;
 }
 

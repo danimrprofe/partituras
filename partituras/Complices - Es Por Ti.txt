@@ -1,20 +1,4 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Complices
-CANCION: ES POR TI
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-COMPLICES 
-ES POR TI
-Piano
-
+﻿
 INTRO
 Dm  Am  G  F  x2
 

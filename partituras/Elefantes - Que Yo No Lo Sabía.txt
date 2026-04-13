@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Elefantes
-CANCION: QUE YO NO LO SABÍA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 ELEFANTES 
 QUE YO NO LO SABÍA
-Capo 3 (yo Sin capo)
 
 ESTRIBILLO
              G           Am

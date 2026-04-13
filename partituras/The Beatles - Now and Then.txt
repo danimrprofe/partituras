@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: The Beatles
-CANCIÓN: NOW AND THEN
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 THE BEATLES 
 NOW AND THEN
 BEATLES

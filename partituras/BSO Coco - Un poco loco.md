@@ -1,15 +1,11 @@
-# Un poco loco
 
  | Tonalidad | Tempo   | Compás | Capo |
  | --------- | ------- | ------ | ---- |
  | Sol mayor | 126 bpm | 3/4    | No   |
 
 **Intro**
-```
 G    C  G  D G
-```
 **Estrofa**
-```
     D              G           D            G
 Que el cielo no es azul ¡Ay mi amor! ¡Ay mi amor!
     D             G         D            G
@@ -26,13 +22,9 @@ Tú me traes un poco loco Un poquititito loco
 Estoy adivinando Que quieres y pa' cuando
   G         D              C            D       G
 Y así estoy celebrando Que me he vuelto un poco loco..
-```
 **Instrumental**
-```
 D  G  D  G  D  G  D  G  D  G  D  G  E
-```
 
-```
   A              D             E            A
   Chiflado tú me vuelves Y eso está un poco loco
    A         D          E           A
@@ -40,9 +32,7 @@ Tu mente que despega Tú siempre con ideas
 
     A         E           D  E       A
 Con mi cabeza juegas Todo es un poco loco..
-```
 FINAL
-```
      A          D        E         A
 Todo es un poco loco Con mi cabeza juegas
      A          D        E         A
@@ -53,4 +43,3 @@ Todo es un poco loco Con mi cabeza juegas
 Todo es un poco loco Con mi cabeza juegas
  A         D              E              A
 Un poquitititi titi titi titi tititito loco
-```

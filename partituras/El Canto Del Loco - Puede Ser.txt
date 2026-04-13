@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: PUEDE SER47
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 EL CANTO DEL LOCO - PUEDE SER
 El canto del loco
-Capo 2
 
 INTRO
 G D/F# Em7 Dsus4 C D

@@ -1,17 +1,4 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Sidecars
-CANCIÓN: Contra las cuerdas
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Ritmo sugerido en el intro: abajo ↓ abajo ↑ abajo ↑ (pulsos según tu mano).
-A* / A*2 según posición que uses en la transcripción (refuerzo o variante de La).
-================================================================================
-
 INTRO
 ↓ ↓ ↑ ↓ ↑
 

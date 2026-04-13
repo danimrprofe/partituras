@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Jarabe De Palo
-CANCION: MISTERIOSAMENTE HOY
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 JARABE DE PALO
 MISTERIOSAMENTE HOY
-Sin capo
 
 INTRO
 D  A  E X2

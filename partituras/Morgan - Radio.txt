@@ -1,24 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: _Sin Clasificar
-CANCIÓN: MORGAN – RADIO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Traste 4
-TONALIDAD: Mi Mayor (E Major) - (Acordes en posición de C con Capo 4)
+
+Key: B
 BPM:       131
 COMPÁS:    4/4
-================================================================================
-NOTAS ADICIONALES: "Versión para mí". 
-La canción tiene un fuerte componente de soul/rock. 
-Controlar bien la dinámica entre las estrofas y el estribillo.
-================================================================================
 INTRO
 C G C G
 C G C G

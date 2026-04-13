@@ -1,13 +1,10 @@
 
 INTRO
-```
 Am         C     D              Am         C    D
 Eeeeeeeeh  eeeh  ¿Cómo vas, cómo lo ves?
 Am         C     D              Am         C    D
 Eeeeeeeeh  eeeh  ¿Cómo vas, cómo lo ves?
-```
 ESTROFA
-```
       Am          C             D
 ¿Cómo vas, cómo lo ves, cómo lo mueves de bien?
     Am           C             D
@@ -17,9 +14,7 @@ Cómeme hasta que no me quede carne ni piel
    Am       C        D
 Amarte, en parte, porque eres todo arte
 
-```
 ESTRIBILLO
-```
 
 Am            C        D
     Como si fuéramos unos animales
@@ -39,9 +34,7 @@ Cógeme, no tengas miedo, no te voy a morder
    Am      C        D
 Atarte, mojarte y luego chulearte
 
-```
 ESTRIBILLO
-```
 
 Am            C        D
     Como si fuéramos unos animales
@@ -51,9 +44,7 @@ Am              C             D
   Que estamos solos y no hay nada que nos pare
 Am       C      D
 Nada que nos separe
-```
 FINAL
-```
 Am          C     D
    Ah ah ah ah ah Ah ah ah ah ah
 Am          C     D
@@ -61,6 +52,5 @@ Am          C     D
 
 Am
 Eh, ¿Cómo vas, cómo lo ves?…
-```
 
 

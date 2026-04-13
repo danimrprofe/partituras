@@ -1,4 +1,3 @@
-# Frozen
 
 ![](img/2021-04-13-15-06-31.png)
 
@@ -12,13 +11,10 @@
 
 **Intro**
 
-```
 | Em   | Cmaj7 | D    | Asus4 Am |
 | Em   | Cmaj7 | D    | Asus4 A  |
-```
 
 **Estrofa**
-```
    Em                Cmaj7                 D            Asus4  Am
 La nieve brilla esta noche aquí más ni una huella queda ya
 Em                 Cmaj7           D          Asus4  Am
@@ -27,10 +23,8 @@ Em           Cmaj7       D               Asus4
   el viento aúlla y se cuela en mi interior
 Em               D              Asus4  A
   lo quise contener pero se escapó
-```
 
 **Pre-chorus 1**
-```
 D                       C
  No dejes que sepan de ti
                                    D
@@ -39,10 +33,8 @@ D                       C
 "no has de sentir no han de saber"
              Cadd9*
 ¡ya que más da!
-```
 
 **Chorus**
-```
        G          Dsus4/F#  Em7           Cadd9
 ¡Suéltalo! ¡suéltalo! no lo puedo ya retener
         G          Dsus4/F#      Em7         Cadd9
@@ -53,27 +45,21 @@ que más da, ya se descubrió,
 déjalo escapar
    C                         Gsus4 G     D/F#
 el frío a mi nunca me molestó
-```
 
 **Verse 2**
-```
 Em                C         D          Am
    Desde la distancia que pequeño todo es
      Em             Dsus2      Asus4         A
 el temor que me aferraba no me va a hacer volver
-```
 
 **Pre-chorus 2**
 
-```
 D                         C                      D
 Soy libre y ahora intentaré, sobrepasar los límites
                            C       Cadd9
 ya no hay mas reglas para mi, ¡por fin!
-```
 
 **Chorus**
-```
        G          Dsus4/F#   Em7        Cadd9
 ¡Suéltalo! ¡suéltalo! que el frío reine ya
        G          Dsus4/F# Em7        Cadd9
@@ -82,15 +68,11 @@ G     Dsus4/F# Em7    Cadd9
 aquí estoy y aquí estaré,
     Bm     Bb
 déjalo escapar
-```
 
 **Interlude**
-```
 | Csus2 | Csus2 | Csus2 | Csus2 |
-```
 
 **Bridge**
-```
 Csus2
 En las entrañas de la tierra puedo entrar
 
@@ -99,11 +81,9 @@ D
   y un pensamiento en mi surgió y cristalizó
 Em          C           D         Am
    ya no regresaré el pasado ya pasó
-```
 
 **Chorus**
 
-```
        G          Dsus4/F# Em7           Cadd9
 ¡Suéltalo! ¡suéltalo! subiré con el amanecer
        G          Dsus4/F# Em7        Cadd9
@@ -115,14 +95,11 @@ Que la luz     salga otra vez
 ¡déjalo escapar!
    C
 el frío a mi nunca me molestó
-```
 Em                  C                    G        D
 Llevo esperando una vida y yo, quiero entendee ee eer
 N.C            Em C                A7
 Oh, muéstrate,      que ya te quiero ver
-```
 **Bridge**
-```
 D             D7
 Ven a mí ya, déjame entrar
 Em              C        G
@@ -131,10 +108,8 @@ D
 Ven a mí ya, déjame entrar
 Em              C       G
 No esperaré, ni un día más
-```
 
 **Verse 3**
-```
 B          D#m                  G#
  Donde el viento halla el mar (ah ah ah ah)
         B           F#
@@ -143,9 +118,7 @@ Por un río (ah ah ah ah) la memoria va (madre!)
 Ven, mi amor, hacia tu hogar
         B
 ¡Aquí estoooooy!
-```
 **Chorus**
-```
            Fm Db                    Eb
 Muéstrate,      Que el poder te dé fuerza
         Fm Db            Eb
@@ -156,16 +129,13 @@ Has esperado una vida, y tú
 ¡Y aquí estoy! - ¡Aquí estás!
               Fm  Db
 Muéstrateeeeeeeeeeeeee
-```
 **Outro**
-```
 Bb
 Túu (Ah-ah-ah)
 Db     E
 Ah-ah, ah-ah-ah
           Ab
 Ah-ah, ah-ah
-```
 
 
 
@@ -176,7 +146,6 @@ Ah-ah, ah-ah
  |           | 95 bpm | 4/4    | No   |
 
 **Verse**
-```
     F                   Bb/F
 La luz está entrando en el salón
     Fmaj7                 Bb/F
@@ -197,9 +166,7 @@ Y vendrán de todas partes
 Qué raro se me va a hacer
      Eb                         Csus2/4
 Hay tantas cosas que quiero emprender
-```
 **Chorus**
-```
            F/A          Bbadd2
 Hoy por primera vez en años
       C/E       Fadd2
@@ -217,16 +184,12 @@ Pero hay algo en mi interior
 Pues por primera vez en años
 C7sus                 F
       Me late el corazón
-```
 **Interlude**
-```
 N.C.
 Voy a conocer a muchas personas
 N.C.
 ¿Y si encuentro hoy la persona?
-```
 **Verse**
-```
 F#               B/F#
 Vestido de gala llevaré
     D#m               C#
@@ -247,9 +210,7 @@ Y luego reiremos juntos
 Charlaremos sin parar
 E                    C#
 Como nunca pude imaginar
-```
 **Chorus**
-```
     F#             B
 Por primera vez en años
       C#             F#
@@ -268,9 +229,7 @@ Pensar en el amor
 Mas por primera vez en años
 C#                F#
    Me late el corazón
-```
 **Interlude**
-```
           D#m               A#m
 (Elsa) No dejes que sepan de ti
 C#                    G#
@@ -284,9 +243,7 @@ Un paso en falso y se echará a perder
 Elsa: Pero pronto pasará (Pronto pasará)
            B                     C#
 Anna: Qué duro es esperar (Qué duro es esperar)
-```
 **Verse**
-```
        Em              Bm       C     F
 Que abran el portón de par en par (En par)
        G           C
@@ -308,7 +265,6 @@ Pues por primera vez en años
 Por primera vez en años
 F                 C
   Me late el corazón
-```
 
 
 
@@ -320,11 +276,8 @@ F                 C
 
 **Introduccion**
 
-```
 Ana:¿Elsa?
-```
 **Verse 1**
-```
                        C                    G/B
 Hazme un muñeco de nieve! Venga vamos a jugaaar
 G                F            Am                             Gm   C/E
@@ -343,9 +296,7 @@ Ab C | Ab C | C |
 Ab G
 
 
-```
 **Verse 2**
-```
                        C                    G/B
 Hazme un muñeco de nieve! O ven en bici a montar
                   F                   Am                              Gm   C
@@ -354,26 +305,20 @@ Que necesito compañía ya,, que a los cuadros ya les he empezado a hablar! (Án
 Me siento un poco sola, me aburro ya, mirando las horas pasaaaaar! (Tic-Tock, Tic-Tock)
                        C                        F
 Hazme un muñeco de nieve! O lo que sea me da igual!
-```
 
 **Interludio**
-```
 Ab | F | Ab | -
 - | C | - | -
-```
 **Hundimiento del barco**
-```
 Fm | Eb D
 Fm | Eb D
 Fm | Cm/G
 Ab | -
 G | -
 C |-
-```
 Ana: ¿Elsa?
 
 **Verse 3**
-```
                    C                               G
 Sé que estás ahí dentro. Siempre preguntan donde estás
                      F                     Am                  Em
@@ -382,13 +327,10 @@ Dicen que intenté tener valor, Pero ya no puedo más, déjame entrar
 Ya no nos queda nadie, solo tú y yo, ¿Y ahora qué va a pasa aaaar?
                        C
 Hazme un muñeco de nieve!
-```
 ## Final
-```
 C F | C G
 G | Am F
 F Am | F/A | -
-```
 
 
 
@@ -399,13 +341,10 @@ F Am | F/A | -
  | Re bemol Mayor | 148 bpm | 4/4    | No   |
 
 **Intro**
-```
 D#m         G#    D#m         G#
 Ooh ooh oh ooooh, Ooh ooh oh ooooh
-```
 
 ESTROFA 1
-```
       D#m         D#m9    D#m
 Puedo oírte, déjalo
               G#      G#9       G#
@@ -414,15 +353,11 @@ Hay quien se arriesga pero yo no
 Más de mil razones hay para seguir igual
      F#                    C#/F#             D#m
 Oigo tus susurros que ojalá se fueran yaa ooooh,
-```
-```
 D#m         G#
 Ooh ooh oh ooooh (oh ooh)
 D#m         G#
 Ooh ooh oh ooooh oooh
-```
 ESTROFA 2
-```
              D#
 No habla una voz, eres un ruido en mi interior
              G#             G#9           G#
@@ -431,27 +366,21 @@ F#                           C#/F#
 Todo aquel que he querido está en este lugar
    G#                   A#7
 Perdóname sirena no te voy a escuchar
-```
 **Pre-coro**
-```
   Cm
 Viví ya mi aventura y todo quedo ahí
       G#sus4            G#
 Tengo miedo de seguirte y arriesgarme a ir
-```
 
 **Estribillo**
-```
            D#               G#              Cm
 Mucho más allá, Mucho más allá, Mucho más allá
 D#m         G#
 Ooh ooh oh ooooh
 D#m         G#
 Ooh ooh oh ooooh
-```
 
 ESTROFA 2
-```
              D#
 ¿Qué quieres tú? Ya no me dejas ni dormir
        G#
@@ -460,25 +389,19 @@ ESTROFA 2
 O tal vez seas alguien que es muy parecido a mí
        G#sus4              A#
 Que en su interior sabe que no es de aquí
-```
 **Pre-coro**
-```
      Cm
 Cada día es más difícil según crece mi poder
 G#sus4            G#            A#m
 Algo hay en mi interior que quiere ir
-```
 
 **Estribillo**
-```
            D#               G#              Cm
 Mucho más allá, Mucho más allá, Mucho más allá
 G#         A#
 Ooh ooh oh ooooh
-```
 
 **Puente**
-```
       A#                    G#          G#
 Ahora puedes conocerme, arroparme, enseñarme
 
@@ -491,14 +414,11 @@ Ooh ooh (oohooh)
 Ooh ooh  ooh ooh
     C
 Ooh ooh ooh ooh
-```
 
 ## Final
-```
 Dm
 ¿A dónde vas? No me dejes atrás
 C#        C#m
 ¿Cómo te sigo a ti
            C
 Mucho más allá
-```

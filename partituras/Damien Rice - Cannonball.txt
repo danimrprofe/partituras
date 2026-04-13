@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Damien Rice
-CANCION: DAMIEN RICE
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 DAMIEN RICE 
 CANNONBALL 
-Capo en traste 6
 
 ESTROFA
 Em7                   Cadd9         G       G/F#		   

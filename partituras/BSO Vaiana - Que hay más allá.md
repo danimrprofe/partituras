@@ -1,4 +1,3 @@
-# Vaiana
 
 ![](img/2021-04-13-14-55-12.png)
 
@@ -15,7 +14,6 @@
 
 
 **Estrofa**
-```
 E                               B/F#                     C#m
 He buscado siempre aquí una respuesta, Esperando en la orilla
                     Asus2
@@ -24,18 +22,14 @@ Y no sé muy bien por qué,
 Sólo quiero ser la hija perfecta, Pero regreso a la orilla,
                       Asus2
 no hay nada que pueda hacer.
-```
 
 PUENTE
-```
       C#m                           B/D#
 Cada amanecer, cada sensación, Cada atardecer, al caer el sol,
            E                                 Am6
 Vuelvo a imaginar que hay algún lugar donde debo ir...
 
-```
 **Estribillo**
-```
 
        E                                B/D#
 Veo la línea entre el cielo y el mar en frente,
@@ -47,13 +41,9 @@ Y si el viento que sopla de cola es fuerte
 Me llevará,
       Am6                         E
 Si me voy un mundo nuevo descubriré.
-```
 PUENTE
-```
 B C#m A
-```
 **Estrofa**
-```
                            B/D#                       C#m
 Ya sé que aquí todos en la isla piensan que son muy felices,
                    A
@@ -64,9 +54,7 @@ Sé que todo el mundo en esta isla,
 Tiene un sitio concreto,
              C#m/B  A
 Todos tienen su lugar.
-```
 PUENTE
-```
       C#m
 Puedo liberar, con fuerza y pasión,
        B/D#
@@ -76,9 +64,7 @@ Pero esa voz canta otra canción,
         Am        Am6
 ¿que me pasa a mí?
 
-```
 **Estribillo**
-```
 
        E                                B/D#
 Hoy la línea entre el cielo y el mar me ciega,
@@ -97,12 +83,9 @@ Y ¿quien sabrá, a donde irá?
 Y si el viento que sopla de cola me lleva,
             Dm   Dm/C            G#
 Sabré al final yo que hay más alláa
-```
 estás justo frente a un semidios.
 
-```
 **Estribillo**
-```
 
 Am            F            C
 ¿Qué puedo decir? Solo «de nada»
@@ -112,10 +95,8 @@ por el cielo, el mar y el sol.
 No hay de qué, está bien, de nada;
      E7                    C
 soy sólo un tipo cachas muy normal.
-```
 
 **Estrofa**
-```
 C                                F/C
 ¡Hey! ¿Quién levantó el cielo con su pulgar
                         A#
@@ -135,10 +116,8 @@ para darte luz y calor.
 El viento también domé –¡de nada!-
    A#           C
 y así los barcos impulsé.
-```
 
 **Estribillo**
-```
 Am            F            C
 ¿Qué puedo decir? Solo «de nada»
         E7                  Am
@@ -151,9 +130,7 @@ para que podáis vivir –de nada-. ¡Ja
 ¡De nada! De nada.
     C
 de nada
-```
 [Rap]
-```
 Bien, piénsalo un poco...
 C
 Oye, puedo seguir y seguir aún más;
@@ -180,9 +157,7 @@ Mira, aquí hay un mini-Mauí bailando claqué.
 
 Ja, ja, ja, ja, ja, ja. ¡Ey!
 
-```
 **Estribillo**
-```
 
 Am          F              C
 Deja que diga otra vez «de nada» (de nada)
@@ -201,16 +176,13 @@ pues en tu barco me voy.
 Muy lejos navegaré –de nada (de nada)-,
 E7                            Am
 todo menos flotar puedo hacer yo.
-```
 FINAL
-```
               F/C
 (De nada) De nada
               C
 (De nada) de nada
              C
 Y gracias!
-```
 
 
 
@@ -221,7 +193,6 @@ Y gracias!
  | Do mayor  | 73 bpm | 4/4    | No   |
 
 **Estrofa**
-```
 Em        Am
    Hace tiempo no tenía este
     Em    Am
@@ -240,9 +211,7 @@ Em         Am
     Cm            Am7b5
 desmontar, Ella mintió. Mejor ser:
 
-```
 **Estribillo**
-```
 
      G            C
 ¡Brillante! Cual tesoro de un navío que se
@@ -270,9 +239,7 @@ Eb
 Ven, pescadito (pescadito)
 Eb
 con vestidito (¡pescadito!)
-```
 **Descanso**
-```
 
 ¡Vaya, vaya,
 Em       Am
@@ -293,9 +260,7 @@ Em           Am
   Cm            Am7b5
 creé. ¿O no lo ves? Yo soy muy
 
-```
 **Estribillo**
-```
 
 
       G           C
@@ -315,9 +280,7 @@ Em              C
   Tú ahora morirás,
                   Am           D
 Yo te sacaré con precisión Tu corazón.
-```
 **Puente**
-```
 
 Eb         Bb                  Eb
 Lejos de aquellos que te abandonaron
@@ -333,9 +296,7 @@ Bb
               G#
 ¡Ahora voy a patearte! ¿Viste a alguien tan...
 
-```
 **Estribillo**
-```
 
        G          C
 ...Brillante? Lo último que tú verás será a
@@ -345,13 +306,10 @@ mí. C'est la vie, mon ami...
 ¡Soy brillante! Un deseo antes de comerte
     G         D
 pedirás. ¡Morirás!
-```
 ## Final
-```
 Eb
 Jamás serás tan radiante,
 Eb
 Jamás serás tan
 G
 ¡brillante!
-```

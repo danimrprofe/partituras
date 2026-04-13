@@ -1,24 +1,8 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: The Verve
-CANCIÓN: LUCKY MAN
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Sin cejilla
-TONALIDAD: Sol Mayor (G Major)
+
+Key: G
 BPM:       82
 COMPÁS:    4/4
-================================================================================
-NOTAS ADICIONALES: Los acordes principales son G, D, Em7 y Cadd9. 
-Mantener un rasgueo fluido y constante con énfasis en las cuerdas agudas.
-================================================================================
-
 INTRO
 G D Dsus2 Asus2 x 8
 

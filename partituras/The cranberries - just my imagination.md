@@ -1,6 +1,4 @@
-# Just my imagionation
 
-```
 Tuning: E A D G B EKey: GCapo: 3rd fret
 INTRO
 G    D    Am    Em  D
@@ -107,4 +105,3 @@ Em  D
 It was
  
 Not my x18
-```

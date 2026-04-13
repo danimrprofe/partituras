@@ -1,22 +1,16 @@
-# Hoy Tus Ojos
 
 
 **Intro**  x2
-```
 C  | Am | F  | C
 Am | F  | G  | -
 
-```
 ESTROFA
-```
   C                                   Em                  Am                   G
 Sentado con las piernas cruzadas queriendo desaparecer ojalá lo consiguiera alguna vez.
   C                                   Em                       Am                       G
 Las pocas estrellas que quedan están todas de alquiler. Hoy me desperté con ella no lo puedo creer.
-```
 PRE-ESTRIBILLO
 
-```
 
     C
 Vámonos a los tejados
@@ -28,9 +22,7 @@ Hoy tus ojos mañana el mundo,
 algún día los dos, algún día los dos.
 
 
-```
 ESTRIBILLO
-```
 
  F         C    G     C     F
 ¡Va a explotar, salta rápido!
@@ -38,14 +30,10 @@ ESTRIBILLO
 Fuerza la máquina, sonrisa mágica,
      F           G    C
 un poco más, un poco más
-```
 INSTRUMENTAL
-```
 C  | Am | F  | C
 Am | F  | G  | -
-```
 ESTROFA
-```
     C                             Em                  Am                     G
 Andando por la arena mojada queriéndote sin querer, ojalá lo descubrieras alguna vez
     C                                 Em                     Am                        G
@@ -75,13 +63,10 @@ C       F            Am
  Oooooooooh un poco más.
 C        F  G
  Oooooooooh
-```
 
 FINAL
 
-```
 C  | Am | F  | C
 Am | F  | G  | C
-```
 
 

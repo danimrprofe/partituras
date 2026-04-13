@@ -1,24 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Johnny Cash
-CANCIÓN: HURT
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Sin cejilla
-TONALIDAD: La Menor (A Minor)
+
+Key: Em
 BPM:       92
 COMPÁS:    4/4
-================================================================================
-NOTAS ADICIONALES: Versión del tema original de Nine Inch Nails. 
-Estructura creciente en intensidad (inicia suave, termina con fuerza).
-================================================================================
-
 INTRO
 | Am | C Dsus2 |
 | Am | C Dadd9 | Am |

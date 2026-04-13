@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: BUSCO LA VIDA - 11. BUSCO LA VIDA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Artista:	El Canto del loco
 Disco:		El canto del loco
@@ -76,4 +66,6 @@ Am              C
 Entre luz de colores,
             D
 Colores sin más
+
+
 

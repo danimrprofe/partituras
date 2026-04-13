@@ -1,30 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: SCIENTIST2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-# Scientist
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 5    |
 
-Intro:
+Intro
+Am7 - F Fadd9 - C - Csus2
+Am7 - F Fadd9 - C - Csus2
 
-| 1 | 2 | 3 | 4 |
-| --------- | --------- | ------ | ---- |
-| Am7       | F       Fadd9| C         | Csus2     |
-| Am7       | F       Fadd9| C         | Csus2     |
-
-```
 
         Am7           F                     Fadd9 C                         Csus2
 V1:       Come up to meet you, tell you I'm so----orry, you don't know how lovely you are
@@ -82,7 +63,7 @@ Int2:   |(C)        | F         | C         | C         |
         | Am7       | F         | C         | C         |
 
 
-Outro:
+Outro
 
 Am7    F            C Csus2
 Oh - ooo-oo-oo-oo-ooo
@@ -93,4 +74,3 @@ Oh - ooo-oo-oo-oo-ooo
 Am7    F            C Csus2
 Oh - ooo-oo-oo-oo-ooo
 
-```

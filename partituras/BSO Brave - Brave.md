@@ -1,4 +1,3 @@
-# Brave
 
 - Artista: Russian Red
 - Álbum: Brave
@@ -7,44 +6,33 @@
 
 **Intro Violín**
 
-```
 | D   | D   | D   | C C C |
 | D   | D   | D   | C C C |
 | D   | D   | D   | C C C |
 | Am  | Am  | Am  | Am    |
-```
 
 **Estrofa**
 
-```
      D               G            D           G
 Allá donde el viento habla y el cielo es más azul
      Bm    A     G              D            A
 allá donde las estrellas te iluminan con su luz
-```
 
 **Estribillo**
 
-```
     Bm7       G          D      A      Bm7
 Correré, volaré, con el viento cabalgaré
      G           D     A     D
 Volaré, con el viento cabalgaré
-```
 
 
-```
    D          G             D             A
 Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
    D          G             D             A
 Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
-```
-```
 Bm (mantener) | A
-```
 
 **Estrofa**
-```
   D                    G
 Allá donde el bosque esconde
    D                   G
@@ -62,29 +50,22 @@ y a las cumbres subiré
 seré fuerte como las rocas
         A        D
 y orgullosa gritaré
-```
 
 **Estribillo**
 
-```
     Bm7       G          D      A      Bm7
 Correré, volaré, con el viento cabalgaré
      G           D     A     D
 Volaré, con el viento cabalgaré
-```
 
 **Instrumental**
-```
    D          G             D             A
 Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
    D          G             D             A
 Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
    D          G             D             A
 Na-na   Na-na Na-na Na-na   Na Na   Na-na Na
-```
 
 FINAL
-```
 D   G   D    G
 D   G   D
-```

@@ -1,20 +1,6 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martin
-CANCION: ME VUELVES PUTO LOCO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-Afinación medio tono abajo
-E A D G B E
-Cejilla:
-sin cejilla
+
 ESTROFA 1
 D                                        A
 Pregunto: Oye, ¿quieres hacer el amor conmigo?

@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Knockin on Heavens Door
-CANCION: GUNS N ROSES TABS-TABLATURES-LYRICS-CHORDS - GUITAR-BASS - TAB POWER
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 knockin on heavens door - GUNS N ROSES Tabs/Tablatures/Lyrics/Chords - Guitar/Bass - TAB POWERSearch 
                   tabs by artist/band name or song title:     
@@ -25,8 +15,6 @@ knockin on heavens door - GUNS N ROSES Tabs/Tablatures/Lyrics/Chords - Guitar/Ba
 
 
 #----------------------------------PLEASE NOTE----------------------------------#
-# This file is the author's own work and represents their interpretation of the #
-# song. You may only use this file for private study, scholarship, or research. #
 #-------------------------------------------------------------------------------#
 
 
@@ -76,7 +64,7 @@ G5              D                  Am
 
 Song goes like this:
 
-Intro:
+Intro
  Twice with picking      G5 D C
  Twic   e just power chords G5 D C
 
@@ -193,7 +181,7 @@ A|--5--|--5--|--3--|--3--|
 E|--3--|-----|-----|-----|
 
 
-Solo 1:
+Solo 1
 
 E|-------------------------------------------------------|
 B|-----------------15-------------------------15/17--15--|
@@ -224,7 +212,7 @@ A|------------------------||
 E|------------------------||
 
 
-Solo 2:
+Solo 2
 
 E|-------------------------------------------------------|
 B|--19b~~~~~~~r-19---19brp17-19-1717----20-17--20-17br---|

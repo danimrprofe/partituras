@@ -1,23 +1,7 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: VIVA LA VIDA2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-# Viva la vida
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 1    |
 
-```
 INTRO
 C D G Em    x2
 
@@ -33,7 +17,7 @@ Now in the morning I sleep alone
 Sweep the streets I used to own
 
 
-INTERLUDIO
+INSTRUMENTAL
 C D G Em    x2
 
 
@@ -73,7 +57,7 @@ Once you go there was never, never an honest word
 That was when I ruled the world
 
 
-INTERLUDIO
+INSTRUMENTAL
 C D G Em    x2
 
 
@@ -115,7 +99,7 @@ never an honest word
 But that was when I ruled the world
 
 
-INTERLUDIO
+INSTRUMENTAL
 C  Em x3
 D  D
   C   D    G   Em
@@ -148,4 +132,3 @@ C    D  Bm   Em
 Oooooh  Ooooooh
 C    D  Bm   Em
 Oooooh  Ooooooh
-```

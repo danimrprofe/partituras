@@ -1,15 +1,5 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Goo Goo Dolls
-CANCION: SLIDE BY THE GOO GOO DOLLS
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Capo:
 1st fret
@@ -20,7 +10,6 @@ Guitar transcription by Nathan Gilera Hayag, RRT
 For comments, suggestions & violent reactions, Email me at nathanhayag@gmail.com
  
 STANDARD TUNING with open d ( E A D G B d )
-CAPO ON 1ST FRET
  
  
 CHORDS :   Em - 022030   D   - xx0230   C9 - x32030

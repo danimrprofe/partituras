@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: POR TI - - POR TÍ
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Artista:	El Canto del loco
 Disco:		Zapatillas, 2005
@@ -17,7 +7,6 @@ Canción:	Por tí
 Afinación: 	Eb Ab Db Gb Bb Eb
 =========
 
-Capo 3 | | |X|
 
 Am                                     Dm
    siempre estado pensando como agradecerte
@@ -65,3 +54,5 @@ y por tu calor y por tanta magia me quedo contigo
 y por tu calor y por tu carisma te llevo conmigo
  Am       Asus2
 Te llevo conmigo. Te llevo conmigo
+
+

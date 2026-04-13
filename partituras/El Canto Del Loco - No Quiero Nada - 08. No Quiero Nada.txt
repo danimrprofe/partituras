@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: NO QUIERO NADA - 08. NO QUIERO NADA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Artista:	El Canto del loco
 Disco:		El canto del loco
@@ -94,5 +84,7 @@ E      D       G      A
 Na, na, na, na, na, na, na...
 E      D       G      A
 Na, na, na, na, na, na, na...
+
+
 
 

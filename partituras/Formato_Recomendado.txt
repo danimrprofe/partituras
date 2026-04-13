@@ -1,8 +1,3 @@
-# PARTITURA v1
-================================================================================
-ESTRUCTURA CANÓNICA (todos los .txt deberían seguir este orden)
-================================================================================
-
 1) Línea 1 obligatoria (identificación automática):
    # PARTITURA v1
 
@@ -12,7 +7,6 @@ ESTRUCTURA CANÓNICA (todos los .txt deberían seguir este orden)
    CANCIÓN: Título
    ÁLBUM:   (opcional) Álbum y año, o "—" si no aplica
    ================================================================================
-   AFINACIÓN: Estándar (E A D G B E)   u otra (Drop D, DADGAD…)
    CEJILLA/CAPO: Sin cejilla | Capo N | texto libre
    ================================================================================
    (Opcional, solo si aplica:)
@@ -35,7 +29,3 @@ ESTRUCTURA CANÓNICA (todos los .txt deberían seguir este orden)
    No se normalizan con este esquema; el criterio de nombres sigue siendo
    "Artista - Canción.ext" en la carpeta del artista.
 
-================================================================================
-Herramienta: normalize-partitura-txt.ps1 añade "# PARTITURA v1" y, si falta
-toda la cabecera, inserta el bloque mínimo sin reescribir el cuerpo.
-================================================================================

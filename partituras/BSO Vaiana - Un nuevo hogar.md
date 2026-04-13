@@ -1,4 +1,3 @@
-# Vaiana
 
 ## Un nuevo hogar
 
@@ -7,7 +6,6 @@
  | La mayor  | 101 bpm | 4/4    | No   |
 
 **Estrofa**
-```
 A
 Tatou o tagata folau e vala'auina
 A
@@ -17,9 +15,7 @@ Ia ava'e le lu'itau e lelei
 E        A
 Tapenapena
 
-```
 **Estribillo**
-```
 
 D
 Aue, aue
@@ -34,9 +30,7 @@ A
 Te fenua, te malie,
 E
 Nae ko hakilia mo kaiga e
-```
 **Estrofa**
-```
 A
 Sabemos el viento leer Con gran nitidez,
 A
@@ -46,9 +40,7 @@ Y cada estrella ahí está Justo en su lugar,
 A
 Sabemos mirar de verdad
 
-```
 **Estribillo**
-```
 
 D          A                  E                    A
 Aue, aue, Vamos a donde hay, una isla nueva donde enraizar,
@@ -68,4 +60,3 @@ E
 Nā heko hakilia
 E               A
 Un nuevo hogar
-```

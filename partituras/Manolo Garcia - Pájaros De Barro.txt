@@ -1,18 +1,7 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Manolo Garcia
-CANCIÓN: PÁJAROS DE BARRO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 MANOLO GARCIA - PÁJAROS DE BARRO
 Manolo garcía
-Capo 1
 Em                    D		    Am7    Em
 Por si el tiempo me arrastra a playas desiertas,
 Em                D		             Am7    Em

@@ -1,20 +1,9 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: NOS OCUPAMOS DEL MAR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 FITO & FITIPALDIS 
 NOS OCUPAMOS DEL MAR
 Fito & Fitipaldis
-Capo 2
 INTRO
 G D
 G C

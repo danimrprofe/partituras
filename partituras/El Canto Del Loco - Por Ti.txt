@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: POR TI43
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 EL CANTO DEL LOCO - POR TI
 EL CANTO DEL LOCO
-Capo 3
 Am                                     Dm
 siempre estado pensando como agradecerte
 G                                           C    C/B

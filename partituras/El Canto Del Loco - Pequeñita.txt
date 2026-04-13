@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: PEQUEÑITA38
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Artista:	El Canto del loco
 Canción:	Pequeñita
@@ -114,3 +104,5 @@ Pequeñita donde vas pequeñita no me fio ni un pelo de tu carita bonita
 Pequeñita donde vas pequeñita no me fio ni un pelo de tu carita bonita
      A                     Bm          A                          G
 Pequeñita donde vas pequeñita no me fio ni un pelo de tu carita bonita
+
+

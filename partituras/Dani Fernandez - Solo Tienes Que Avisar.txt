@@ -1,18 +1,4 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Dani Fernández
-CANCIÓN: Solo tienes que avisar
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: (sin especificar)
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Intro: Cmaj7 → C · Asus2 → Am (transiciones suaves entre formas).
-G/B = Sol con bajo en Si.
-Cada dos versos de letra van en una sola línea (pareados).
-================================================================================
-
 INTRO
 Cmaj7 → C
 Asus2 → Am

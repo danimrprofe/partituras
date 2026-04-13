@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: EH TU - LA VIDA (05)
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Artista:	El Canto del loco
 Disco:		Personas
@@ -106,3 +96,5 @@ No puedo más, teneis cero de criterio
                  D                 E   A D E
 llenos de resentimiento que pena me da.           Eh!tú!
                                                   Sí!tú!
+
+

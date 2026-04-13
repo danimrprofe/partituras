@@ -1,17 +1,10 @@
-# Hoy no me encuentro
 
 **Información**
 
-| Tonalidad | Tempo | Compás | Capo |
-| --------- | ----- | ------ | ---- |
-| Si Menor  | X bpm | 4/4    | No   |
 
 INTRO
-```
 G Bm F#m Em x2
-```
 ESTROFA
-```
 Bm    G           D            F#7
  Amanecí con un millón de dudas,
 Bm         G           Em   F#7
@@ -36,16 +29,12 @@ D                 Bm     F#m             Gm     A
  hoy no me encuentro,
     F#m    F#7
  hoy noooooo.
-```
 SOLO
-```
 G Bm F#m Em x2
-```
 
 
 
 ESTROFA
-```
 Bm    G             D       F#7
  Aparecí dormido en la basura,
 Bm      G             Em   F#7
@@ -62,19 +51,14 @@ D
 D                 Bm     F#7           G      A
  me busco en otra dimensión, quiero regalarme.
 
-```
 **REPITE Estribillo**
-```
 Em | - | A | D
 Bm | G | Gm | A
-```
 **REPITE Estribillo**
 
 FINAL
-```
 G Bm F#m Em x2
 Bm
-```
 
 
 

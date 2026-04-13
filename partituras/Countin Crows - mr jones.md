@@ -1,6 +1,4 @@
-# Mr Jones
 
-```
 Tuning: E A D G B EKey: AmCapo: no capo
 INTRO
  
@@ -113,4 +111,3 @@ But when everybody loves me, I'm going to be just about as happy as I can be.
  
 C   F            G
 Mr. Jones and me, we're gonna be big stars.....
-```

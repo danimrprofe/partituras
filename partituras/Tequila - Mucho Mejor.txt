@@ -1,15 +1,5 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Tequila
-CANCIÓN: MUCHO MEJOR
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 MUCHO MEJOR
 G						
 Huy huy hu, huy huy uh, huy huy hu, huy huy hu,

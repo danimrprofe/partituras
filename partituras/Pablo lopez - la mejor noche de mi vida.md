@@ -1,15 +1,11 @@
-# La mejor noche de mi vida
 
 **Intro**
-```
 A    | F#m    | C#m | F#m
 A    | F#m Bm | F#m | E
 A    | B      | F#m | E
 A/C# | D      | F#m | C#m/G#
-```
 
 **Estrofa**
-```
 Bm               A
 Entre la felicidad
                  F#m
@@ -35,16 +31,12 @@ Besamos la libertad
 Nos abrazamos a todo
                  E
 lo que nos sonreía
-```
 
 **Pre-estribillo**
-```
      Bm    F#m     E     D           Bm    F#m     E
 Como niños sin preocupación, Como el ave que escapó...
 
-```
 **Estribillo**
-```
 <<<<<<< HEAD
 =======
 
@@ -57,13 +49,9 @@ Nos perdonamos las viejas heridas. Así fue, la mejor noche de mi vida
 Sin palabras, Fuimos al mar y abrazamos el alba Nos olvidamos
                A/E            C#/F   F#m           E/G#
 de lo que nos falta. Hoy juraría que fue, La mejor noche de mi vida...
-```
 **Instrumental**
-```
 Bm F#m | E D | Bm F#m | E
-```
 **Estrofa**
-```
 Bm               A
 Que te podría contar
                  F#m
@@ -90,15 +78,11 @@ Cantarle a cielo otra vez
                   E
 Con ese grito profundo
 
-```
 **Pre-estribillo**
-```
      Bm    F#m     E     D           Bm    F#m     E
 Como niños sin preocupación, Como el ave que escapó...
 
-```
 **Estribillo**
-```
 <<<<<<< HEAD
 =======
 
@@ -124,4 +108,3 @@ FINAL
 
 A    D     A/C#  D
 A/E  C#/F  F#m   E/G#
-```

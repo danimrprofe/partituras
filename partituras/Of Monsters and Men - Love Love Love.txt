@@ -1,24 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Of Monsters and Men
-CANCIÓN: LOVE LOVE LOVE
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Traste 7
-TONALIDAD: Re Mayor (D Major) - (Acordes en posición de G con Capo 7)
+
+Key: D
 BPM:       133
 COMPÁS:    4/4
-================================================================================
-NOTAS ADICIONALES: Estilo Indie Folk. El Capo 7 es fundamental para lograr 
-ese sonido brillante y agudo característico de la guitarra acústica en el disco.
-================================================================================
-
 INTRO
 Am          G         C
 Well maybe I'm a crook for stealing your heart away

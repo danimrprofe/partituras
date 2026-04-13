@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Lynyrd Skynyrd
-CANCION: SIMPLE MAN
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 4
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 LYNYRD SKYNYRD - SIMPLE MAN
 Lynyrd Skynyrd (1973)
@@ -322,7 +312,7 @@ Colgar el batín, Cambiar bisturí
                   D    B
 Por chilaba y cachimba.
  
-INTERLUDIO
+INSTRUMENTAL
 F# B F# B  C#
 
 ESTRIBILLO
@@ -418,7 +408,6 @@ FINAL
 A  Bm  D  A
 5. M-CLAN - CORAZÓN EN TRÁNSITO
 M-clan
-Capo 4
 
 INTRO
 D D D C G D
@@ -637,7 +626,7 @@ Filosofía barata no lo quieres ver
 Gsus4
 Juegos de palabras.
  
-INTERLUDIO
+INSTRUMENTAL
 F C G C  x2 
  
 ESTROFA 3
@@ -714,7 +703,6 @@ OUTRO
 F C G C  x4
 8. M-CLAN - GRUPOS AMERICANOS
 M-clan
-Capo 1
 
 ESTROFA
 A D
@@ -817,7 +805,6 @@ A D
 A D
 9. M-CLAN - HASTA QUE SE ACOSTUMBRE A LA OSCURIDAD
 M-Clan
-Sin capo
 
 INTRO
 A  D  A  D  A  D  A  D
@@ -1037,7 +1024,7 @@ Solo  de piano y acordeón
 Fsus    D    G
 Em    Fsus    D    G
 Em    Fsus    D    G    C    F
-Solo de guitarra:
+Solo de guitarra
 G    Cadd9    G    Cadd9
 G    Cadd9    G    Cadd9
 
@@ -1087,7 +1074,7 @@ Yo soy aquel que tú conoces bien
           G           D        G
 Y la esperanza, me empuja a seguir
  
-INTERLUDIO
+INSTRUMENTAL
 C D C D C D
  
 ESTROFA 3
@@ -1135,7 +1122,6 @@ Y la esperanza, me empuja a seguir, ohhh...
 Y la esperanza, me empuja a seguir
 13. M-CLAN - LOS PERIÓDICOS DE MAÑANA
 m-clan
-Sin capo
 
  
 e|---------------3p0-3p0h3----------------0---0----|
@@ -1230,7 +1216,6 @@ La mentira está escrita en los periódicos de mañana
 Oooooooooh
 14. M-CLAN - MAGGIE DESPIERTA
 M-Clan
-Sin capo
 
 INTRO
 A Bsus4 D A
@@ -1320,7 +1305,6 @@ Me hiciste polvo Maggie pero yo te quiero igual
 A Bsus4 D D C#m Bm A
 15. M-CLAN - MIEDO
 M-CLAN
-Sin capo
 
 ESTROFA
 G        Em    Cm              G
@@ -1424,7 +1408,6 @@ G F C Cm  x4
 G
 16. M-CLAN - QUE ESTÁ PASANDO
 M-Clan
-Capo en traste 2. Am7s y Bm7s preferiblemente
 
 INTRO
 G Cadd9 G Cadd9 G Cadd9 G Cadd9

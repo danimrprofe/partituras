@@ -1,15 +1,5 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Tam Tam Go
-CANCIÓN: ESPALDAS MOJADAS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 TAM TAM GO 
 ESPALDAS MOJADAS
 TAM TAM GO

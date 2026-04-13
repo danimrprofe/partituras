@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Revolver
-CANCIÓN: EL PELIGRO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 REVOLVER - EL PELIGRO
 REVÓLVER
-CAPO 2
-INTRO: D  BM  EM  G
+INTRO
  
 
 ESTROFA
@@ -120,4 +109,4 @@ Pero aquí ¿Quién no es cobarde por amor?
       Am                 D          G
 Pero aquí ¿Quién no es cobarde por amor?
  
-FINAL: G EM AM C X2
+FINAL

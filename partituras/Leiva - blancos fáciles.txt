@@ -1,18 +1,18 @@
-# Blancos fáciles
+CEJILLA/CAPO: Estándar (E A D G B E)
 
-Leiva ft. Nina de Juan
+======================================
+ARTISTA: LEIVA feat. Nina de Juan
+CANCIÓN: Blancos Fáciles
+ÁLBUM: Cuando te muerdes el labio (2021)
+======================================
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | No    |
-
-```
+ESTROFA
 C
 Títeres en manos del nuevo poder
   G/B
 Esclavos de ladrones de datos
   Am
-Voyeur recluidos, fantasmas de la red
+Voyeur recluidos fantasmas de la red
  G
 Yonkis del placer inmediato
           F
@@ -27,7 +27,8 @@ Em                    Dm
 Todos con el rifle cargado
         G  Am G/B     C
 Todo el mundo va armado
-
+ 
+ESTRIBILLO
  C              Em
 Hay un abismo detrás
                 Am       G           F
@@ -38,9 +39,10 @@ Es un placer esencial vaciar el cargador
 Mientras el mundo está normalizándolo
                       G              Am        Bm
 Me he vuelto a preguntar: son los demás o seré yo
-
-INSTRUMENTAL: C      F
-
+ 
+C      F
+ 
+ESTROFA
 C
 Zombies viviendo tres vidas a la vez
 G/B
@@ -49,7 +51,7 @@ Am
 Filtros adictivos jugando su papel
 G
 Marcas registrando tus pasos
-
+ 
         F                 F9
 Falsa felicidad como la química
       Am
@@ -60,7 +62,8 @@ Em                      Dm
 Todos con el rifle cargado
         G  Am G/B     C
 Todo el mundo va armado
-
+ 
+ESTRIBILLO
 C                 Em
 Hay un abismo detrás
                   Am    G           F
@@ -71,16 +74,15 @@ Es un placer esencial vaciar el cargador
 Mientras el mundo está normalizándolo
                       G              Am       G/B
 Me he vuelto a preguntar: son los demás o seré yo
-
-INSTRUMENTAL: F  Am  G  G (x3)
-              F  Am  G  C
-
+ 
+INSTRUMENTAL
+F  Am  G  G (x3)
+F  Am  G  C
+ 
+OUTRO
 C                 Em
 Hay un abismo detrás
                   Am     G           C
 De los egos salvajes y blancos fáciles
-
-```
-
-
+X
 

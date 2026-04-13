@@ -1,10 +1,8 @@
-# Si quieres bailamos
 
 - Fecha de lanzamiento: 2003
 - Artista: Pereza
 - Álbum: Algo para cantar
 
-```
 A                      E                           F#m
 Estaba pensando en escribirte una canción y no me sale
 A                 E                 F#m
@@ -53,6 +51,5 @@ olvidarnos del tiempo perdido despertar y ver que aún estás"
 A        E      F#m
 Donde me kieras llevar  x3
 
-```
 
 

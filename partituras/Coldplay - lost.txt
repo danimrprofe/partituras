@@ -1,28 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: LOST2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-# Lost
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-| Sol Mayor | Estándar  | 4/4    | No   |
 
-```
 when you get to the first D in the chorus, try to play around
 with Dsus4(x00233) and Dsus?(x00235).
 Em7 can be replaced with Em.(022000)
 
-CHORUS RIFF:
+CHORUS RIFF
 This riff is played over the C and G at the end of the chorus.
 ("Oh and I'm just waiting til the shine wears off).
 
@@ -156,4 +140,3 @@ E|--------------|------------------|
 
 Em7   C   G   D      |clearly two times
 Em7   C   G          |and then fading
-```

@@ -1,27 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: SOLDADITO MARINERO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla (Para mi un tono más bajo)
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-================================================================================
-ARTISTA: FITO & FITIPALDIS
-CANCIÓN: SOLDADITO MARINERO 
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla (Para mi un tono más bajo)
-================================================================================
-NOTAS ADICIONALES: Al bajar un tono, el tema empieza en F. Es ideal si la 
-voz original te queda un poco alta. Mantén el rasgueo característico de 
-pop-rock con acento en el segundo y cuarto pulso.
-================================================================================
 
 INTRO
 G | D | D | A | 

@@ -139,6 +139,36 @@ function Get-SongCapo {
         }
     }
 
+    # Patrón para números directos: "Cejilla en traste 4" y "Cejilla: Traste 3"
+    $numericCapoPattern = "(?im)(?:cejilla|capo)(?:\s+en)?\s+traste\s+([0-9]+)"
+    $numericMatches = [regex]::Matches($normalizedContent, $numericCapoPattern)
+    foreach ($numericMatch in $numericMatches) {
+        $capoValue = [int]$numericMatch.Groups[1].Value
+        if ($capoValue -gt 0) {
+            [void]$candidates.Add($capoValue)
+        }
+    }
+
+    # Patrón para números ordinales: "Cejilla: 4o traste"
+    $ordinalNumericCapoPattern = "(?im)(?:cejilla|capo).*?([0-9]+)o\s+traste"
+    $ordinalNumericMatches = [regex]::Matches($normalizedContent, $ordinalNumericCapoPattern)
+    foreach ($ordinalNumericMatch in $ordinalNumericMatches) {
+        $capoValue = [int]$ordinalNumericMatch.Groups[1].Value
+        if ($capoValue -gt 0) {
+            [void]$candidates.Add($capoValue)
+        }
+    }
+
+    # Patrón para "Cejilla: X" o "Capo: X" (solo números)
+    $simpleCapoPattern = "(?im)^(?:CEJILLA|CAPO)\s*:\s*([0-9]+)"
+    $simpleMatches = [regex]::Matches($normalizedContent, $simpleCapoPattern)
+    foreach ($simpleMatch in $simpleMatches) {
+        $capoValue = [int]$simpleMatch.Groups[1].Value
+        if ($capoValue -gt 0) {
+            [void]$candidates.Add($capoValue)
+        }
+    }
+
     $ordinalPattern = "(?im)\b(?:con\s+)?(?:cejilla|capo)\s+en\s+el\s+(primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|septimo|octavo|noveno|decimo|undecimo|duodecimo)\s+traste\b"
     $ordinalMap = @{
         "primer"    = 1
@@ -205,6 +235,9 @@ function Get-SongHeaderMetadata {
             if ($normalizedTuning -match "\bestandar\b|\bstandard\b") {
                 $result.tuningSlug = "estandar"
             }
+            elseif ($normalizedTuning -match "eb\W*ab\W*db\W*gb\W*bb\W*eb") {
+                $result.tuningSlug = "medio-tono-abajo"
+            }
             elseif ($normalizedTuning -match "medio\s*tono\s*abajo") {
                 $result.tuningSlug = "medio-tono-abajo"
             }
@@ -224,9 +257,13 @@ function Get-SongHeaderMetadata {
     if (-not $result.tuningSlug) {
         $hasStandardLabel = $normalizedContent -match "(?im)\b(?:AFINACION|TUNING)\s*[:\-]?\s*(?:ESTANDAR|STANDARD)\b"
         $hasEadgbePattern = $normalizedContent -match "(?im)\bE\W*A\W*D\W*G\W*B\W*E\b"
+        $hasEbPattern = $normalizedContent -match "(?im)\beb\W*ab\W*db\W*gb\W*bb\W*eb\b"
 
         if ($hasStandardLabel -or $hasEadgbePattern) {
             $result.tuningSlug = "estandar"
+        }
+        elseif ($hasEbPattern) {
+            $result.tuningSlug = "medio-tono-abajo"
         }
     }
 
@@ -373,6 +410,12 @@ function Get-SongKeyAndTimeFromTable {
     $lines = $FileContent -split "`n"
     for ($i = 0; $i -lt $lines.Count - 2; $i++) {
         $currentLine = $lines[$i]
+        
+        # Verificar si la línea está vacía antes de procesar
+        if ([string]::IsNullOrWhiteSpace($currentLine)) {
+            continue
+        }
+        
         $normalizedHeaderLine = Remove-Diacritics $currentLine
         
         # Buscar línea de encabezado con tabla markdown
@@ -759,6 +802,11 @@ ForEach-Object {
     if ($timeValue) {
         $song | Add-Member -NotePropertyName "timeSignature" -NotePropertyValue $timeValue
     }
+    
+    # Agregar URL de búsqueda de YouTube
+    $searchQuery = "$($metadata.Artist) $($metadata.Title)"
+    $encodedQuery = [Uri]::EscapeDataString($searchQuery)
+    $song | Add-Member -NotePropertyName "youtubeUrl" -NotePropertyValue "https://www.youtube.com/results?search_query=$encodedQuery"
         
     $song
 }

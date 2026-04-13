@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Chayanne
-CANCION: LO DEJARÍA TODO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 CHAYANNE
 LO DEJARÍA TODO
-Capo 1
 
 ESTROFA
 Am                                  D		

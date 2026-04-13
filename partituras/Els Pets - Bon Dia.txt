@@ -1,17 +1,6 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: ELS PETS
-CANCIÓN: BON DIA
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 ELS PETS - BON DIA
-Sin capo
 
 INTRO
 A E F#m C#m D A Bm E

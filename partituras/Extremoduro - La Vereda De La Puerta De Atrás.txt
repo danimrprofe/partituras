@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Extremoduro
-CANCION: LA VEREDA DE LA PUERTA DE ATRÁS
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 EXTREMODURO 
 LA VEREDA DE LA PUERTA DE ATRÁS 

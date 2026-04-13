@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: The Script
-CANCION: THE MAN WHO CAN’T BE MOVED
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 THE SCRIPT 
 THE MAN WHO CAN'T BE MOVED
-Capo 3
 G  D/F#  C
 
        G                       D/F#				     

@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: TIRAMISÚ DE LIMÓN
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 JOAQUÍN SABINA - Tiramisú de limón
 Joaquín Sabina
-Sin capo
 
 INTRO
 D G D Em  A
@@ -45,7 +34,7 @@ Tiramisú de limón. Helado de aguardiente
 A              Bm    G               D
 Muñequita de salón. Tanguita de serpiente
  
-INTERLUDIO
+INSTRUMENTAL
 
 D F#m G D F#m Bm G D
  

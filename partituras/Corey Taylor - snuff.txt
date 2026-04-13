@@ -1,20 +1,4 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Corey Taylor
-CANCION: COREY TAYLOR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-COREY TAYLOR 
-SNUFF
-
-INTRO
+﻿INTRO
 Am Em F C
 
 ESTROFA

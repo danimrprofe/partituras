@@ -1,18 +1,7 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: NO-VUELVEN2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 ## No vuelven
-```
 INTRO
 Em C7 G D
 
@@ -120,4 +109,3 @@ no vuelve, no
 Cadd9
      y sólo queda la canción.
 
-```

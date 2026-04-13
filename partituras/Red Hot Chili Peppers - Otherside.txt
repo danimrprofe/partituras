@@ -1,21 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Red Hot Chili Peppers
-CANCION: OTHERSIDE
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Afinación:
 E A D G B E
 Tonalidad:
 Am
-Cejilla:
 sin cejilla
 Strumming pattern: D DU UDU
 * = play the strumming pattern x2 on this chord

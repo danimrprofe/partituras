@@ -1,12 +1,8 @@
-# Lo saben mis zapatos
 
 **Intro**
-```
 C | Bm/F# | Em | Bm/F#
 C | Bm/F# | Em7
-```
 **Estrofa**
-```
 C/E           Bm/F#        C/E         Bm/D
  No quiero correr, lo saben mis zapatos
 C/E           Bm/F#        C/E         Bm/D
@@ -15,9 +11,7 @@ Em              Bm7       C          G   D/F#
   Quiero que aparezcas,    quiero verte cerca,
 Em            G/B      Dsus4     D
   Quiero merendarte al sol.
-```
 **Estrofa**
-```
 C/E           Bm/F#        C/E         Bm/D
  Quiero pelear,   lo saben los cobardes
 C/E           Bm/F#        C/E         Bm/D
@@ -27,9 +21,7 @@ Em               Bm7   C             G   D/F#
 Em             Bm7     Dsus4         D
  No quiero pensar que fue un delirio,
 
-```
 **Estribillo**
-```
 
 G      Cm/G    G
 Yooooooooooooooo   te quiero
@@ -39,14 +31,10 @@ matar, y no lo sabe nadie, no lo sabe nadie
 Te quiero matar de amor y no,
             G      Am7     G/B     C        Em   D    G
 No lo sabe nadie, nadie, naaadie puede imaginár  se   lo.
-```
 **Instrumental**
-```
 C Bm/F# Em Bm
 C Bm/F# Em7
-```
 **Estrofa**
-```
 C/E           Bm/F#        C/E         Bm/D
  No quiero volar,   lo saben mis amigos
 C/E           Bm/F#        C/E         Bm/D
@@ -55,9 +43,7 @@ Em              Bm7     C             G   D/F#
  Quiero que me abras,    quiero tus palabras
 Em              Bm      Dsus4      D
  Quiero que lo quieras hoy.
-```
 **Estrofa**
-```
 C/E           Bm/F#        C/E         Bm/D
 Quiero hacer sentir,  lo saben estas manos
 C/E         Bm/F#      C/E         Bm/D
@@ -67,9 +53,7 @@ No quiero perderte, no quiero soñarte
          Em              Bm      D      D
 No quiero escribirte   más historias.
 
-```
 **Estribillo**
-```
 
 G      Cm/G    G
 Yooooooooooooooo   te quiero
@@ -80,15 +64,11 @@ Te quiero matar de amor y no,
             G      Am7     G/B     C        Em   D    G
 No lo sabe nadie, nadie, naaadie puede imaginár  se   lo.
 
-```
 **Instrumental**
-```
 C Bm/F# Em Bm
 C Bm/F# Em7
 
-```
 **Estribillo**
-```
 
 G      Cm/G    G
 Yooooooooooooooo   te quiero
@@ -98,9 +78,6 @@ matar, y no lo sabe nadie, no lo sabe nadie
 Te quiero matar de amor y no,
             G      Am7     G/B     C        Em   D    G
 No lo sabe nadie, nadie, naaadie puede imaginár  se   lo.
-```
 ## Final
-```
 C Bm/F# Em Bm
 C Bm/F# Em7
-```

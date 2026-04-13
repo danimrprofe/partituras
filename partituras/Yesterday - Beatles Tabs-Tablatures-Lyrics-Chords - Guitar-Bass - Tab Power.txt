@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Yesterday
-CANCION: BEATLES TABS-TABLATURES-LYRICS-CHORDS - GUITAR-BASS - TAB POWER
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 yesterday - BEATLES Tabs/Tablatures/Lyrics/Chords - Guitar/Bass - TAB POWER 
                   Search tabs by artist/band name or song title:     
@@ -24,8 +14,6 @@ yesterday - BEATLES Tabs/Tablatures/Lyrics/Chords - Guitar/Bass - TAB POWER
 
 
 #----------------------------------PLEASE NOTE----------------------------------#
-# This file is the author's own work and represents their interpretation of the #
-# song. You may only use this file for private study, scholarship, or research. #
 #-------------------------------------------------------------------------------#
 
 
@@ -49,20 +37,7 @@ Date: Tue, 30 Jun 1998 00:27:56 +0200
 {chord: Dm7/C 0 2 0 0 0 0 1}
 {chord: Em 2 4 4 2 2 2 1}
 {chord: A7 2 2 4 2 4 2 1}
-# Yesterday, Lennon/McCartney
-# Transcribed from "Anthology 2" by Davor Raic (davor@wxs.nl)
 
-# I was playing this song for more than 30 years just like all
-# of us who wanted to make it sound right out of F major.
-# The chords were correct but the song never sounded right.
-# The explanation came from Paul in the introduction to the song
-# on the album "Anthology 2" (number 7): the guitar is tuned one
-# full tone lower and F should be played like G. Try it and you
-# will realise that this sounds as it should. The tricky bit is picking 
-# the bass strings and strumming the upper three strings, but listen
-# carefully and you will get around it. I am sure that this transcription 
-# can be improved but I liked my descovery so much that I left it as
-# transcribed for the first time. Enjoy and let me know what you think.
 
 [F]Yesterday,[Em]    all my [-]troubles seemed so [Dm]far away [Dm7/C]   
 [Bb]Now it [C7]looks as though they're [F]here to stay, 

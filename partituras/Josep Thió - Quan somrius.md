@@ -1,12 +1,6 @@
-# Quan somrius
-
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 4    |
 
 Me va mejor cejilla en traste 2
 
-```
 **Intro**
 C  FM7  C  (x2)
 
@@ -88,4 +82,3 @@ Am G F C Am F G7 C (x2)
 
 [Ending]
 C  FM7  C  (x2)
-```

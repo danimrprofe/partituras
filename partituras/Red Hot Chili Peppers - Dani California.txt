@@ -1,19 +1,8 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Red Hot Chili Peppers
-CANCION: DANI CALIFORNIA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Afinación:
 E A D G B E
-Cejilla:
 sin cejilla
 INTRO
 (drums)

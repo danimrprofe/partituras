@@ -1,27 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Extremoduro
-CANCION: SALIR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-================================================================================
-ARTISTA: EXTREMODURO
-CANCIÓN: SALIR
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-NOTAS ADICIONALES: Rock transgresivo. La canción comienza con un riff muy 
-reconocible y evoluciona hacia una estructura con mucha fuerza y cambios de 
-ritmo marcados por la letra de Robe.
-================================================================================
 
     G3               A3            G3             A3
 e|-----------------------------------------------------------
@@ -731,7 +709,7 @@ SOLO (Robe): Em-D-C-D (x2)
 
 SOLO (Uoho): G-Em-D-C-D (x2)
  
-ESTROFA3:
+ESTROFA3
 G                 Em --] D
 Y al llegar a casa
 G                   Em     D

@@ -1,21 +1,4 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: The Fray
-CANCIÓN: HOW TO SAVE A LIFE
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Traste 3
-================================================================================
-NOTAS ADICIONALES: Aunque la base original es de piano, el Capo 3 permite 
-adaptar los acordes a la guitarra de forma muy natural. Mantener un ritmo 
-constante y arpegiado en las estrofas.
-================================================================================
 
 INTRO
 G  D/F#  G  D/F#
@@ -86,7 +69,7 @@ And I would have stayed up with you all night Had I known how to save a
 G
 life 
  
-INTERLUDIO
+INSTRUMENTAL
 D/F#   Em7   D/F#          G
              How to save a life 
 D/F#   Em7   D/F#

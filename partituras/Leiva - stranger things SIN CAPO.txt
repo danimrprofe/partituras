@@ -1,8 +1,6 @@
-# Stranger things
 
 Capo 2. Re mayor. 79 bpm
 
-```
      Bm  	            F#m	  	            
 No recuerdo pasar por un enero tan hostil.
    D7  	              G
@@ -73,6 +71,5 @@ Hay una puerta abierta. Hay un dolor guardado.
     A                 G   Gm       D
 Hay algo más. Tenlo claro. Tenlo claro
 
-```
 
 

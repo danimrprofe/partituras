@@ -1,18 +1,7 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: PUEDE-SER2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 ## Puede ser
-```
 
 INTRO
 G D/F# Em7 Dsus4 C D
@@ -110,4 +99,3 @@ Que me ayude a imaginar
                   C
 Y yo lo quiero lograr
 
-```

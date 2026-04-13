@@ -1,15 +1,5 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Vetusta Morla
-CANCIÓN: COPENHAGUE
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 VETUSTA MORLA 
 COPENHAGUE
 Palm mute 3+3+2.

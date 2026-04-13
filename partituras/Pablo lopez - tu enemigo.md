@@ -1,12 +1,8 @@
-# Tu enemigo
 
-```
 **Intro**
 D# Cm Gm A#  Cm A# F
 
-```
 **Estrofa**
-```
 Gm
 Bajo sombra he visto otra montaña bebiendo sin permiso de otro río
 A#                             F   Cm       Gm
@@ -20,9 +16,7 @@ Quién sacará tus cosas de la calle. Tu enemigo
 =======
 
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
-```
 **Estribillo**
-```
 
            D#                             Gm
 Si estos idiotas supieran que yo soy el hombre
@@ -32,9 +26,7 @@ más rico del mundo así, viviendo de tus abrazos
 Olvidaron que el hombre no es más que un hombre
     A#                   F           D7                        Gm
 Que tus manos son mi bandera y que tengo de frontera una canción
-```
 **Estrofa**
-```
 Gm
 No me preguntes para qué he venido, pregúntate mejor cómo has llegado
 A#                               F Cm          Gm
@@ -54,9 +46,7 @@ Culpable de vivir en el camino por tu guerra  aaah
 =======
 
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
-```
 **Estribillo**
-```
 
             D#                            Gm
 Si estos idiotas supieran que yo soy el hombre
@@ -77,9 +67,7 @@ Cm  A#  F
 =======
 
 >>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
-```
 **Estribillo**
-```
 
            D#                             Gm
 Si estos idiotas supieran que yo soy el hombre
@@ -97,4 +85,3 @@ She le le le le le ...  una canción
    No no no no no no no no ...
  D#       F      Gm
 Te le le le le le...  una canción
-```

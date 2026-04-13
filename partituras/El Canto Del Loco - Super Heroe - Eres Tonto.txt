@@ -1,19 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: SUPER HEROE - ERES TONTO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 ERES TONTO
 ==========
-Afinación: Eb Ab Db Gb Bb Eb
+Afinación: 	Eb Ab Db Gb Bb Eb
 
 -----+------+-----+--------
 E D  | D    | A   | A
@@ -151,3 +141,5 @@ E D        A
  
   C5                    D5                   A
   te he vuelto a robaar: la fantasia ¡sexual!
+
+

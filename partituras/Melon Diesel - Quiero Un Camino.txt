@@ -1,20 +1,4 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Melon diesel
-CANCIÓN: QUIERO UN CAMINO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-NOTAS ADICIONALES: Rock enérgico con guitarras acústicas y eléctricas. 
-La estructura se apoya en acordes abiertos muy brillantes.
-================================================================================
 
 F - E7 - Am7 - D7
 F - E7 - Am7 - D7

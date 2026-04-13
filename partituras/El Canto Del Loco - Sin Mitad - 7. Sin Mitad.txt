@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: SIN MITAD - 7. SIN MITAD
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Artista:	El Canto del loco
 Disco:		El canto del loco
@@ -74,3 +64,5 @@ no hay canciones que llenen el vacío de mi soledad
 
             G
 ya no hay aay
+
+

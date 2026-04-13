@@ -1,20 +1,4 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Quique Gonzalez
-CANCIÓN: CHARO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Traste 5
-================================================================================
-NOTAS ADICIONALES: Cantada originalmente a dúo con Nina de Morgan. 
-El Capo 5 le da ese sonido agudo y melódico tan característico de este tema.
-================================================================================
 
 INTRO
 G  C  G  C  G  C  G  C

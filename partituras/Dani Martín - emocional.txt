@@ -1,20 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: EMOCIONAL2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 ## Emocional
 
-```
-Intro:
+Intro
 G    C    Am    D
 
                G
@@ -136,4 +125,3 @@ No hace falta,
 si sientes ya está y déjame que te rondeeeehhhh.
 
 
-```

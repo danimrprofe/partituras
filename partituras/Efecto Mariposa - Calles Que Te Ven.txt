@@ -1,18 +1,7 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Efecto Mariposa
-CANCION: CALLES QUE TE VEN
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 EFECTO MARIPOSA - CALLES QUE TE VEN
-Sin capo
 F#m                   B        E                   A
 Todo un mundo nuevo alrededor. Acostumbrado a no ver el sol
 F#m        B        E                  A

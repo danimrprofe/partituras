@@ -1,17 +1,6 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Pereza
-CANCIÓN: PIENSO EN AQUELLA TARDE
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 PIENSO EN AQUELLA TARDE
-Capo 3. Original en sol mayor.
 
 INTRO
 e|----------3---------------------|

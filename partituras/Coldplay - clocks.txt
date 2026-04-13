@@ -1,23 +1,7 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: CLOCKS2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-# Clocks
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 1    |
 
-```
 INTRO
 D  Am  Am  Em  x4
 
@@ -98,4 +82,3 @@ Home, home, where I wanted to go
 (w/High Piano Riff)
 D  Am  Am  Em  x3
 (fade out)
-```

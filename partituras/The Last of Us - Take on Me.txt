@@ -1,21 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: The Last of Us
-CANCION: TAKE ON ME
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Afinación:
 E A D G B E
 Tonalidad:
 E
-Cejilla:
 sin cejilla
 The Last Of Us Part II - Take On Me (acoustic cover of the a-ha song)
 https://www.youtube.com/watch?v=NKeU1twQYX4

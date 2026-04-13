@@ -1,20 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Efecto Mariposa
-CANCION: NO ME CREES
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 EFECTO MARIPOSA - NO ME CREES
 Efecto mariposa feat. Javier Ojeda (2005)
-Sin capo
-INTRO: A E F#M -- D A E B E-D-C#-BM
+INTRO
 
 ESTROFA
  

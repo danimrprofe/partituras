@@ -1,17 +1,6 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: TAXI
-CANCIÓN: PERDIDO EN LA CALLE
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 PERDIDO EN LA CALLE
-Capo 4
 G D Em C x2
 G             D          Em            C
 Por el tiempo que perdimos, que contigo, que sin ti. 

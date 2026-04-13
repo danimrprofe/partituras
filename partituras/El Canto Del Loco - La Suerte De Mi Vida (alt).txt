@@ -1,19 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: LA SUERTE DE MI VIDA28
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-EL CANTO DEL LOCO - LA SUERTE DE MI VIDA
-EL CANTO DEL LOCO
 MEDIO  TONO ABAJO
+
+F# 244XXX
+E  022XXX
+D  10-12-12-X-X
+C# 9-11-11-X-X
+B  7-9-9-X-X-X
+A  5-7-7-X-X-X
 
 -----+------+-----+--------
 F#   | E    | D   | - 

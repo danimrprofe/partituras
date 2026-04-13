@@ -1,6 +1,4 @@
-# Collide
 
-```
 Tuning: E A D G B EKey: GCapo: 4th fret
 G       32003(3)
 G5/F#   2x003(3)

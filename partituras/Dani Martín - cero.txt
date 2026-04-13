@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: CERO2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 ## Cero
 
-```
 
 B                       C#m7
 Todo lo que vimos se nos fue
@@ -106,7 +95,7 @@ Que todo venga de cero
       F#
 De cero...
 
-SOLO: B  F#   C#m   E   F#  B   C#m  F#  C#m  E   F#
+SOLO
 
       B                        F#
 Y siento que todo lo malo es pensar
@@ -123,4 +112,3 @@ ESTRIBILLO      (termina en B)
 Con cejilla en el segundo traste:
 B : A // F# : E // C#m : Bm // E : D // G#m : F#m
 
-```

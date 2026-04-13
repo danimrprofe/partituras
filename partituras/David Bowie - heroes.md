@@ -1,9 +1,7 @@
-# Heroes
 
 Heroes chords
 David Bowie  1977 (Heroes)  *'this version'
 
-```
 INTRO
 
 D  G  D  G
@@ -72,4 +70,3 @@ We can be Heroes
 We can be Heroes just for one day
           G
 We can be Heroes
-```

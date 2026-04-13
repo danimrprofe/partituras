@@ -1,17 +1,7 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Shakira
-CANCIÓN: Underneath your clothes
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 Inevitable
-Afinación: Eb Ab Db Gb Bb EbCejilla: Sin cejilla
+Afinación: 	Eb Ab Db Gb Bb EbCejilla: Sin cejilla
 
 ESTROFA
 G                       Cadd9
@@ -136,3 +126,5 @@ Empezar por uno mismo.
  
 G  D  Em  D  Cadd9
 X
+
+

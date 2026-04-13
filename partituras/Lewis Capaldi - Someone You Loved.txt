@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Lewis Capaldi
-CANCION: SOMEONE YOU LOVED
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 LEWIS CAPALDI - SOMEONE YOU LOVED
 Lewis Capaldi (2019)
-Sin capo
 
 INTRO
 G D Em C

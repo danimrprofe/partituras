@@ -1,24 +1,8 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Pereza
-CANCIÓN: ESTRELLA POLAR
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Traste 2
-TONALIDAD: Re Mayor (D Major) - (Sonando en E por el Capo)
+
+Key: D
 BPM:       120
 COMPÁS:    4/4
-================================================================================
-NOTAS ADICIONALES: La canción tiene un aire country/folk muy marcado. 
-Ideal para tocar con rasgueo acústico abierto.
-================================================================================
-
 INTRO
 D G | D A | D G | D A
 

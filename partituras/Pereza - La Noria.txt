@@ -1,15 +1,5 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Pereza
-CANCIÓN: LA NORIA
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 
 ESTROFA
 F#m                      E                              
@@ -69,7 +59,7 @@ Girando como una noria,  girando como una noria,
 D                     E
 girando como una noria.
 
-INTERLUDIO
+INSTRUMENTAL
 D            F#m             D        F#m               
 Girando como una noria,  girando como una noria,  
 D                     E

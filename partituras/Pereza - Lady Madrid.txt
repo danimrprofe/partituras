@@ -1,17 +1,6 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Pereza
-CANCIÓN: LADY MADRID
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 LADY MADRID
-Sin capo. Tonalidad: Do Mayor 
 Madrid Nuclear: +1
 
 INTRO

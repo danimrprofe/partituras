@@ -1,20 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: POR EL BOULEVARD DE LOS SUEÑOS ROTOS
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 JOAQUÍN SABINA 
 POR EL BOULEVARD DE LOS SUEÑOS ROTOS
 Joaquín Sabina (1994)
-Capo 2
 D         A                                   G 	               	G          A         D		        A                      G
 En el bulevar de los sueños rotos Vive una dama de poncho rojo Pelo de plata y carne morena
                   G                 A            D		       Bm                   A		         A7                      D

@@ -1,12 +1,8 @@
-# Mi pequeño Chernóbil
 
 INTRO
-```
 G | Bm | Em | Em
 G | Bm | Em | Em
-```
 ESTROFA
-```
 G           Bm              Em
 Soñaba con dar un bocado al mundo
 G              Bm         Em
@@ -20,9 +16,7 @@ C                         A
 Reírnos a morir, hasta agotar los argumentos
      G            G/F          C
 Desafiando los manuales de la fama y los excesos
-```
 PRE-ESTRIBILLO
-```
      Cm
 Solo es humo y nada más
       Cm                        D
@@ -36,9 +30,7 @@ La gloria enferma de los que quieren reinar, reinar
     D       Em
 Reinar el cielo…
 
-```
 ESTRIBILLO
-```
 
 G          D            Am          C
 Y no me da tregua mi Pequeño Chernóbil
@@ -65,9 +57,7 @@ Durmiendo con Rubén
 En las pensiones más inmundas
      G            G/F           C
 Rebañamos los manjares de la euforia y las burbujas
-```
 PRE-ESTRIBILLO
-```
      Cm
 Solo asumo y nada más
       Cm                        D
@@ -81,9 +71,7 @@ La gloria enferma de los que quieren reinar, reinar
     D       Em
 Reinar el cielo…
 
-```
 ESTRIBILLO
-```
 
 G          D            Am          C
 Y no me da tregua mi Pequeño Chernóbil
@@ -99,14 +87,11 @@ Ya no me deslumbra el efecto
 Solo pretendo aprender a vivir con ello
                             D      G     Bm  Em
 Solo pretendo aprender a vivir con ello
-```
 FINAL
-```
 G        Bm     Em           C           G        Bm     Em
 ¿Qué vendrá después? De los años muertos ¿Que vendrá después?
 G        Bm     Em           C           G        Bm     Em
 ¿Qué vendrá después? De los años muertos ¿Que vendrá después?
-```
 
 
 

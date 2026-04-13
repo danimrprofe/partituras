@@ -1,10 +1,4 @@
-# Lo que no ves
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 4    |
-
-```
 **Intro**
 
 G Em D C
@@ -193,4 +187,3 @@ lo que no ves
 Tú me enseñas que,
        D
 se puede querer,
-```

@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Avril Lavigne
-CANCION: SKATER BOY
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 AVRIL LAVIGNE
 SKATER BOY
-Sin capo
 D5 A5 B5 Bb5 A5
 D5 A5 B5 Bb5 A5
 

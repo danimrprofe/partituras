@@ -1,4 +1,3 @@
-# Vaiana
 
 ## De nada
 
@@ -8,7 +7,6 @@
 
 **Verse**
 
-```
 Jaja, vale vale
 C          F/C
  Ya sé qué pasa aquí
@@ -25,4 +23,3 @@ sí, asúmelo: soy Mauí de verdad.
              C                F/C
 Admírame bien -qué bueno estoy-,
         A#              C
-```

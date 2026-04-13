@@ -1,21 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Alannis Morrisset
-CANCION: IRONIC
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 Alannis Morrisset 
 IRONIC
-Tonalidad (Key): Si Mayor (B)
+Key: B
 Capo: Se recomienda Capo 2 (tonalidad A) o Capo 4 (tonalidad G)
-Afinación: Estándar (E A D G B E)
 
 INTRO
 Cadd9 Dadd9

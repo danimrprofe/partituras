@@ -1,17 +1,6 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Pereza
-CANCIÓN: APROXIMACIÓN
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 APROXIMACIÓN
-Capo 2
 
 ESTROFA
 C     G    C    F            C	       G    Em    F   

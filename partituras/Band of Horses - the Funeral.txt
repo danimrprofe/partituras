@@ -1,16 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Band of Horses
-CANCIÓN: The Funeral
-ÁLBUM:   Everything All the Time (2006)
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Letra en inglés. Intro en tab (afinación relativa al capo en traste 3).
-Acordes: F, C, G, Am según posiciones habituales con capo.
-================================================================================
 
 INTRO
    F            C         G         Am

@@ -1,15 +1,11 @@
 
-# El Teléfono
 
-Tonalidad: Re mayor
+Key: D
 
 **Intro**
-```
 A# G D
 A# G D
-```
 **Verse**
-```
         Bm           F#m         G
 Quiero dejar de perdonarme cada día
         A                         D
@@ -26,9 +22,7 @@ A ver si alguna me devuelve nuestro incendio
 No quiero más abrazos de tecnología
          G                      A
 Ni tu silencio atragantado de color
-```
 **Estribillo**
-```
        F#m    G
 Esa noche   juré
              D
@@ -41,14 +35,10 @@ Soy más simple de lo que me creía
 Esta es la historia de
 
 De un teléfono apagado
-```
 **Interludio**
-```
 A# G D
 A# G D A
-```
 **Verse**
-```
             Bm
 Cuando escribí
           F#m       G
@@ -73,10 +63,8 @@ Quiero que escuches
 A este idiota equivocado
            G                      A
 Y a su derrota de pantalla y cargador
-```
 
 **Estribillo**
-```
        F#m    G
 Esa noche   juré
              D
@@ -89,15 +77,11 @@ Soy más simple de lo que me creía
 Esta es la historia de
 
 De un teléfono apagado
-```
 **Interlude**
-```
 A# G Bm D
 A# G A D
 
-```
 **Estribillo**
-```
 
            G
 Esa noche juré
@@ -111,9 +95,6 @@ Soy más pequeño de lo que creía
 Esta es la historia de
 
 De un teléfono apagado
-```
 **Outro**
-```
 A# G D A/C# Bm A
 A# A G A
-```

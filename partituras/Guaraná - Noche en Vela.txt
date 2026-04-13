@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Guaraná
-CANCION: NOCHE EN VELA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 GUARANÁ 
 NOCHE EN VELA
-CEJILLA EN TERCER TRASTE
 
 INTRO
 Am7   Bm7   C

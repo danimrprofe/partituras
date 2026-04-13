@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: QUIEN ME HA ROBADO EL MES DE ABRIL
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 JOAQUÍN SABINA 
 QUIEN ME HA ROBADO EL MES DE ABRIL
-Sin capo
 
 INTRO
 C   Am7    C     G

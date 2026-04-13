@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: John Mayer
-CANCIÓN: IN THE BLOOD
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 John Mayer – In the Blood
 -------------------------
  
-Capo 1
  
 INTRO
 G     G/F# Em7    Em7/B Cadd9    C/B G
@@ -75,7 +64,7 @@ Could I change it if I wanted, can I rise above the flood
 Will it wash out in the water or is it always in the blood
  
  
-INTERLUDIO
+INSTRUMENTAL
 Em7     Cadd9 G  Em7      Cadd9 G
 Em7     Cadd9 G  Em7  G   D     G
  

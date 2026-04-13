@@ -20,353 +20,16 @@
     <script src="js/app.js" defer></script>
   </head>
   <body class="app-body">
-    <main class="container py-4 py-lg-5">
-      <section class="hero card border-0 mb-4">
-        <div class="card-body p-4 p-lg-5">
-          <div class="row g-4 align-items-center">
-            <div class="col-lg-8">
-              <p class="text-uppercase hero-kicker mb-2">Biblioteca personal</p>
-              <h1 class="display-6 fw-bold mb-3">
-                Tus canciones listas para tocar
-              </h1>
-              <p class="mb-0 opacity-75">
-                Busca por artista o título, abre la partitura y toca con
-                guitarra o piano sin perder tiempo.
-              </p>
-            </div>
-            <div class="col-lg-4">
-              <div class="search-shell">
-                <label for="searchInput" class="form-label mb-1"
-                  >Buscar canción</label
-                >
-                <input
-                  id="searchInput"
-                  type="search"
-                  class="form-control form-control-lg"
-                  placeholder="Ej: Vetusta Morla"
-                  autocomplete="off"
-                  aria-autocomplete="list"
-                  aria-expanded="false"
-                  aria-controls="searchSuggestions"
-                />
-                <div
-                  id="searchSuggestions"
-                  class="search-suggestions d-none"
-                  role="listbox"
-                  aria-label="Sugerencias de busqueda"
-                ></div>
-                <div class="search-actions d-flex justify-content-between mt-2">
-                  <small id="protocolNotice" class="text-danger d-none"
-                    >Abre con Live Server para evitar errores de carga.</small
-                  >
-                  <button
-                    id="clearSearchHistory"
-                    type="button"
-                    class="btn btn-link btn-sm p-0 ms-auto"
-                  >
-                    Limpiar historial
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="card border-0 mb-4">
-        <div class="card-body p-3 p-lg-4">
-          <div class="row g-3 align-items-end">
-            <div class="col-sm-6 col-lg-3">
-              <label class="form-label small text-uppercase mb-1"
-                >Tamano de letra</label
-              >
-              <div
-                class="btn-group w-100"
-                role="group"
-                aria-label="Controles de tamano de letra"
-              >
-                <button
-                  id="fontDown"
-                  type="button"
-                  class="btn btn-outline-secondary"
-                >
-                  A-
-                </button>
-                <button
-                  id="fontReset"
-                  type="button"
-                  class="btn btn-outline-secondary"
-                >
-                  Reset
-                </button>
-                <button
-                  id="fontUp"
-                  type="button"
-                  class="btn btn-outline-secondary"
-                >
-                  A+
-                </button>
-              </div>
-            </div>
-            <div class="col-sm-6 col-lg-3">
-              <label class="form-label small text-uppercase mb-1"
-                >Transposicion</label
-              >
-              <div
-                class="btn-group w-100"
-                role="group"
-                aria-label="Controles de transposicion"
-              >
-                <button
-                  id="transposeDown"
-                  type="button"
-                  class="btn btn-outline-secondary"
-                >
-                  -1
-                </button>
-                <button
-                  id="transposeReset"
-                  type="button"
-                  class="btn btn-outline-secondary"
-                >
-                  0
-                </button>
-                <button
-                  id="transposeUp"
-                  type="button"
-                  class="btn btn-outline-secondary"
-                >
-                  +1
-                </button>
-              </div>
-            </div>
-            <div class="col-sm-6 col-lg-3">
-              <label
-                for="autoscrollSpeed"
-                class="form-label small text-uppercase mb-1"
-                >Autoscroll</label
-              >
-              <div class="d-flex gap-2 align-items-center">
-                <button
-                  id="autoscrollToggle"
-                  type="button"
-                  class="btn btn-outline-secondary flex-shrink-0"
-                >
-                  Iniciar
-                </button>
-                <input
-                  id="autoscrollSpeed"
-                  type="range"
-                  class="form-range mb-0"
-                  min="1"
-                  max="8"
-                  step="1"
-                  value="3"
-                  aria-label="Velocidad de autoscroll"
-                />
-              </div>
-            </div>
-            <div class="col-sm-6 col-lg-3">
-              <p class="small text-uppercase mb-1">Estado</p>
-              <div class="status-badges d-flex flex-wrap gap-2">
-                <span id="transposeBadge" class="badge text-bg-light"
-                  >Transposicion: 0</span
-                >
-                <span id="favoritesBadge" class="badge text-bg-light"
-                  >Favoritas: 0</span
-                >
-                <span id="profileBadge" class="badge text-bg-light"
-                  >Perfiles: 0</span
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
+    <main class="container-fluid py-2 py-lg-3">
       <section class="row g-4">
-        <aside class="col-lg-4">
+        <!-- IZQUIERDA: Lista de canciones -->
+        <aside class="col-lg-3">
           <div class="card h-100 border-0">
             <div
               class="card-header bg-transparent border-0 pt-4 px-4 d-flex justify-content-between align-items-center"
             >
               <h2 class="h5 mb-0">Canciones</h2>
               <span id="songCount" class="badge text-bg-light">0</span>
-            </div>
-            <div class="px-4 pb-2 d-flex gap-2">
-              <button id="filterAll" type="button" class="btn btn-sm btn-dark">
-                Todas
-              </button>
-              <button
-                id="filterFavorites"
-                type="button"
-                class="btn btn-sm btn-outline-dark"
-              >
-                Favoritas
-              </button>
-              <button
-                id="resetFilters"
-                type="button"
-                class="btn btn-sm btn-outline-secondary ms-auto"
-              >
-                Reset
-              </button>
-            </div>
-            <div class="px-4 pb-3">
-              <label class="form-label small text-uppercase mb-2">Artistas frecuentes</label>
-              <div class="d-flex flex-wrap gap-2">
-                <button id="artistBtn-leiva" type="button" class="btn btn-sm btn-outline-primary" data-artist="Leiva">
-                  Leiva
-                </button>
-                <button id="artistBtn-elcantodelloco" type="button" class="btn btn-sm btn-outline-primary" data-artist="El Canto Del Loco">
-                  El Canto Del Loco
-                </button>
-                <button id="artistBtn-fitofitipaldis" type="button" class="btn btn-sm btn-outline-primary" data-artist="Fito & Fitipaldis">
-                  Fito & Fitipaldis
-                </button>
-                <button id="artistBtn-joaquinsabina" type="button" class="btn btn-sm btn-outline-primary" data-artist="Joaquín Sabina">
-                  Joaquín Sabina
-                </button>
-                <button id="artistBtn-mclan" type="button" class="btn btn-sm btn-outline-primary" data-artist="m-clan">
-                  m-clan
-                </button>
-              </div>
-            </div>
-            <div class="px-4 pb-3">
-              <div class="row g-2">
-                <div class="col-12 col-md-6 col-lg-12 col-xl-6">
-                  <label
-                    for="instrumentFilter"
-                    class="form-label small text-uppercase mb-1"
-                    >Instrumento</label
-                  >
-                  <select
-                    id="instrumentFilter"
-                    class="form-select form-select-sm"
-                  >
-                    <option value="all">Todos</option>
-                    <option value="guitarra-electrica">
-                      Guitarra electrica
-                    </option>
-                    <option value="guitarra-acustica">
-                      Guitarra acustica
-                    </option>
-                    <option value="piano">Piano</option>
-                    <option value="sin-definir">Sin definir</option>
-                  </select>
-                </div>
-                <div class="col-12 col-md-6 col-lg-12 col-xl-6">
-                  <label
-                    for="ratingFilter"
-                    class="form-label small text-uppercase mb-1"
-                    >Como te sale</label
-                  >
-                  <select id="ratingFilter" class="form-select form-select-sm">
-                    <option value="0">Todas</option>
-                    <option value="1">1 estrella o mas</option>
-                    <option value="2">2 estrellas o mas</option>
-                    <option value="3">3 estrellas o mas</option>
-                    <option value="4">4 estrellas o mas</option>
-                    <option value="5">5 estrellas</option>
-                  </select>
-                </div>
-                <div class="col-12 col-md-6 col-lg-12 col-xl-6">
-                  <label
-                    for="tuningFilter"
-                    class="form-label small text-uppercase mb-1"
-                    >Afinacion</label
-                  >
-                  <select id="tuningFilter" class="form-select form-select-sm">
-                    <option value="all">Todas</option>
-                    <option value="estandar">Estandar</option>
-                    <option value="medio-tono-abajo">Medio tono abajo</option>
-                    <option value="tono-abajo">Tono abajo</option>
-                    <option value="drop-d">Drop D</option>
-                    <option value="drop-c">Drop C</option>
-                    <option value="sin-definir">Sin definir</option>
-                  </select>
-                </div>
-                <div class="col-12 col-md-6 col-lg-12 col-xl-6">
-                  <label
-                    for="capoFilter"
-                    class="form-label small text-uppercase mb-1"
-                    >Cejilla</label
-                  >
-                  <select id="capoFilter" class="form-select form-select-sm">
-                    <option value="all">Todas</option>
-                    <option value="sin-cejilla">Sin cejilla</option>
-                    <option value="1-2">Cejilla 1-2</option>
-                    <option value="3-plus">Cejilla 3+</option>
-                    <option value="sin-definir">Sin definir</option>
-                  </select>
-                </div>
-                <div class="col-12 col-md-6 col-lg-12 col-xl-6">
-                  <label
-                    for="techniqueFilter"
-                    class="form-label small text-uppercase mb-1"
-                    >Tecnica</label
-                  >
-                  <select
-                    id="techniqueFilter"
-                    class="form-select form-select-sm"
-                  >
-                    <option value="all">Todas</option>
-                    <option value="sin-definir">Sin definir</option>
-                  </select>
-                </div>
-                <div class="col-12 col-md-6 col-lg-12 col-xl-6">
-                  <label
-                    for="keyFilter"
-                    class="form-label small text-uppercase mb-1"
-                    >Tonalidad</label
-                  >
-                  <select id="keyFilter" class="form-select form-select-sm">
-                    <option value="all">Todas</option>
-                    <option value="sin-definir">Sin definir</option>
-                  </select>
-                </div>
-                <div class="col-12 col-md-6 col-lg-12 col-xl-6">
-                  <label
-                    for="timeSignatureFilter"
-                    class="form-label small text-uppercase mb-1"
-                    >Compas</label
-                  >
-                  <select
-                    id="timeSignatureFilter"
-                    class="form-select form-select-sm"
-                  >
-                    <option value="all">Todos</option>
-                    <option value="sin-definir">Sin definir</option>
-                  </select>
-                </div>
-              </div>
-            </div>
-            <div class="px-4 pb-3">
-              <label class="form-label small text-uppercase mb-2">Datos</label>
-              <div class="d-flex gap-2">
-                <button
-                  id="exportProfilesBtn"
-                  type="button"
-                  class="btn btn-sm btn-outline-info flex-grow-1"
-                  title="Copia tus datos (instrumentos, ratings, favoritas) para sincronizar entre ordenadores"
-                >
-                  📥 Exportar
-                </button>
-                <button
-                  id="importProfilesBtn"
-                  type="button"
-                  class="btn btn-sm btn-outline-info flex-grow-1"
-                  title="Carga datos exportados desde otro ordenador"
-                >
-                  📤 Importar
-                </button>
-              </div>
-              <input
-                id="importProfilesFile"
-                type="file"
-                accept=".json"
-                style="display: none"
-              />
             </div>
             <div class="card-body pt-2 px-2 pb-2">
               <div class="song-list-header mb-2 d-flex gap-1 px-2">
@@ -404,24 +67,58 @@
           </div>
         </aside>
 
-        <section class="col-lg-8">
+        <!-- CENTRO: Partitura -->
+        <section class="col-lg-6">
           <div id="songView" class="card border-0 h-100 d-none">
             <div class="card-body p-4 p-lg-5">
-              <p id="songMeta" class="small text-uppercase mb-2"></p>
-              <div
-                class="d-flex align-items-center justify-content-between gap-3 mb-4"
-              >
-                <h2 id="songTitle" class="h3 mb-0"></h2>
+              <!-- Modo lectura -->
+              <div id="songViewMode" class="view-mode">
+                <p id="songMeta" class="small text-uppercase mb-2"></p>
                 <div
-                  class="d-flex gap-2 align-items-center flex-wrap"
-                  style="justify-content: flex-end"
+                  class="d-flex align-items-center justify-content-between gap-3 mb-4"
                 >
-                  <div id="capoContainer" class="d-none">
-                    <span id="songCapo" class="badge text-bg-warning"></span>
+                  <h2 id="songTitle" class="h3 mb-0"></h2>
+                  <div
+                    class="d-flex gap-2 align-items-center flex-wrap"
+                    style="justify-content: flex-end"
+                  >
+                    <button id="editSongBtn" class="btn btn-sm btn-outline-secondary" title="Editar artista, canción y capo">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M12.146.292a.5.5 0 0 1 .708 0l2.854 2.854a.5.5 0 0 1 0 .708l-10.5 10.5a.5.5 0 0 1-.168.11l-5 1.667a.5.5 0 0 1-.65-.65l1.667-5a.5.5 0 0 1 .11-.168l10.5-10.5zm.707 1.414L2.05 11.6.14 15.86a1 1 0 0 0 1.674 1.674l4.26-2.909 9.538-9.538-2.122-2.122z"/>
+                      </svg>
+                    </button>
+                    <button id="youtubeBtn" class="btn btn-sm btn-danger" title="Ver en YouTube">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.307 1.697.165 1.799.745 4.05 1.404 5.389.072.143.265.27.495.371.13.027.23.090.23.146v.694c0 .476-.561.976-1.236.976h-.5a.5.5 0 0 0-.5.5v.5H15a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-.64c.497-1.389 1.05-3.594 1.202-5.313.032-.307.051-.635.051-.852a3.5 3.5 0 0 0-3.5-3.5c-1.363 0-2.526.923-2.845 2.176.855.37 1.445 1.156 1.445 2.07 0 1.297-1.055 2.351-2.353 2.351-1.297 0-2.352-1.054-2.352-2.35 0-.912.59-1.693 1.407-2.069a3.5 3.5 0 0 0-3.5 3.5 .5.5 0 0 0 .5.5H.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h15.5a.5.5 0 0 0 .5-.5v-.5a.5.5 0 0 0-.5-.5H15v-1a.5.5 0 0 0-.5-.5h-.641c.457-1.387.99-3.583 1.125-5.278.01-.148.02-.295.02-.447a1.5 1.5 0 0 0-1.5-1.5c-.563 0-1.045.28-1.335.721-.21-.451-.555-.764-.95-.764-.406 0-.752.313-.963.766-.21-.452-.556-.765-.95-.765-.406 0-.752.3-.963.765-.21-.45-.556-.764-.95-.764-.406 0-.752.31-.963.764-.21-.45-.556-.765-.95-.765-.405 0-.751.3-.963.765-.21-.45-.555-.764-.95-.764z"/>
+                      </svg> YouTube
+                    </button>
+                    <div id="capoContainer" class="d-none">
+                      <span id="songCapo" class="badge text-bg-warning"></span>
+                    </div>
+                    <div id="bpmContainer" class="d-none">
+                      <span id="songBpm" class="badge text-bg-info"></span>
+                    </div>
                   </div>
-                  <div id="bpmContainer" class="d-none">
-                    <span id="songBpm" class="badge text-bg-info"></span>
-                  </div>
+                </div>
+              </div>
+
+              <!-- Modo edición -->
+              <div id="songEditMode" class="edit-mode d-none">
+                <div class="mb-3">
+                  <label for="editArtist" class="form-label small text-uppercase mb-1">Artista</label>
+                  <input type="text" class="form-control" id="editArtist" />
+                </div>
+                <div class="mb-3">
+                  <label for="editTitle" class="form-label small text-uppercase mb-1">Canción</label>
+                  <input type="text" class="form-control" id="editTitle" />
+                </div>
+                <div class="mb-3">
+                  <label for="editCapo" class="form-label small text-uppercase mb-1">Cejilla/Capo</label>
+                  <input type="number" class="form-control" id="editCapo" min="0" max="12" />
+                </div>
+                <div class="d-flex gap-2">
+                  <button id="saveEditBtn" class="btn btn-sm btn-success">Guardar</button>
+                  <button id="cancelEditBtn" class="btn btn-sm btn-secondary">Cancelar</button>
                 </div>
               </div>
               <div id="techniquesContainer" class="d-none mb-3">
@@ -535,6 +232,164 @@
             </div>
           </div>
         </section>
+
+        <!-- DERECHA: Búsqueda y Controles -->
+        <aside class="col-lg-3">
+          <div class="card h-100 border-0">
+            <!-- Búsqueda -->
+            <div class="card-header bg-transparent border-0 pt-4 px-4">
+              <h2 class="h5 mb-3">Búsqueda</h2>
+              <div class="search-shell">
+                <input
+                  id="searchInput"
+                  type="search"
+                  class="form-control"
+                  placeholder="Ej: Vetusta Morla"
+                  autocomplete="off"
+                  aria-autocomplete="list"
+                  aria-expanded="false"
+                  aria-controls="searchSuggestions"
+                />
+                <div
+                  id="searchSuggestions"
+                  class="search-suggestions d-none"
+                  role="listbox"
+                  aria-label="Sugerencias de busqueda"
+                ></div>
+                <div class="search-actions d-flex justify-content-between mt-2">
+                  <small id="protocolNotice" class="text-danger d-none">Abre con Live Server para evitar errores de carga.</small>
+                  <button id="clearSearchHistory" type="button" class="btn btn-link btn-sm p-0 ms-auto">
+                    Limpiar historial
+                  </button>
+                </div>
+              </div>
+            </div>
+
+            <div class="card-body px-4 pb-3">
+              <!-- Tamaño de letra -->
+              <p class="small text-uppercase mb-2">Tamaño de letra</p>
+              <div class="btn-group w-100 mb-3" role="group" aria-label="Controles de tamaño de letra">
+                <button id="fontDown" type="button" class="btn btn-sm btn-outline-secondary">A-</button>
+                <button id="fontReset" type="button" class="btn btn-sm btn-outline-secondary">Reset</button>
+                <button id="fontUp" type="button" class="btn btn-sm btn-outline-secondary">A+</button>
+              </div>
+
+              <!-- Transposición -->
+              <p class="small text-uppercase mb-2">Transposición</p>
+              <div class="btn-group w-100 mb-2" role="group" aria-label="Controles de transposición">
+                <button id="transposeDown" type="button" class="btn btn-sm btn-outline-secondary">-1</button>
+                <button id="transposeReset" type="button" class="btn btn-sm btn-outline-secondary">0</button>
+                <button id="transposeUp" type="button" class="btn btn-sm btn-outline-secondary">+1</button>
+              </div>
+              <span id="transposeBadge" class="badge text-bg-light d-block mb-3">Transposición: 0</span>
+
+              <!-- Autoscroll -->
+              <p class="small text-uppercase mb-2">Autoscroll</p>
+              <button id="autoscrollToggle" type="button" class="btn btn-sm btn-outline-secondary w-100 mb-2">Iniciar</button>
+              <input id="autoscrollSpeed" type="range" class="form-range mb-3" min="1" max="8" step="1" value="3" aria-label="Velocidad de autoscroll" />
+
+              <!-- Estado -->
+              <p class="small text-uppercase mb-2">Estado</p>
+              <div class="status-badges d-flex flex-wrap gap-2 mb-3">
+                <span id="favoritesBadge" class="badge text-bg-light">Favoritas: 0</span>
+                <span id="profileBadge" class="badge text-bg-light">Perfiles: 0</span>
+              </div>
+
+              <!-- Filtros -->
+              <div class="border-top pt-3">
+                <p class="small text-uppercase mb-2">Filtros</p>
+                
+                <div class="mb-2">
+                  <div class="d-flex gap-2 mb-2">
+                    <button id="filterAll" type="button" class="btn btn-sm btn-dark flex-grow-1">Todas</button>
+                    <button id="filterFavorites" type="button" class="btn btn-sm btn-outline-dark flex-grow-1">Favoritas</button>
+                    <button id="resetFilters" type="button" class="btn btn-sm btn-outline-secondary flex-grow-1">Reset</button>
+                  </div>
+                </div>
+
+                <label class="form-label small text-uppercase mb-2">Artistas frecuentes</label>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                  <button id="artistBtn-leiva" type="button" class="btn btn-sm btn-outline-primary" data-artist="Leiva">Leiva</button>
+                  <button id="artistBtn-elcantodelloco" type="button" class="btn btn-sm btn-outline-primary" data-artist="El Canto Del Loco">El Canto Del Loco</button>
+                  <button id="artistBtn-fitofitipaldis" type="button" class="btn btn-sm btn-outline-primary" data-artist="Fito & Fitipaldis">Fito & Fitipaldis</button>
+                  <button id="artistBtn-joaquinsabina" type="button" class="btn btn-sm btn-outline-primary" data-artist="Joaquín Sabina">Joaquín Sabina</button>
+                  <button id="artistBtn-mclan" type="button" class="btn btn-sm btn-outline-primary" data-artist="m-clan">m-clan</button>
+                </div>
+
+                <label for="instrumentFilter" class="form-label small text-uppercase mb-1">Instrumento</label>
+                <select id="instrumentFilter" class="form-select form-select-sm mb-2">
+                  <option value="all">Todos</option>
+                  <option value="guitarra-electrica">Guitarra electrica</option>
+                  <option value="guitarra-acustica">Guitarra acustica</option>
+                  <option value="piano">Piano</option>
+                  <option value="sin-definir">Sin definir</option>
+                </select>
+
+                <label for="ratingFilter" class="form-label small text-uppercase mb-1">Como te sale</label>
+                <select id="ratingFilter" class="form-select form-select-sm mb-2">
+                  <option value="0">Todas</option>
+                  <option value="1">1 estrella o mas</option>
+                  <option value="2">2 estrellas o mas</option>
+                  <option value="3">3 estrellas o mas</option>
+                  <option value="4">4 estrellas o mas</option>
+                  <option value="5">5 estrellas</option>
+                </select>
+
+                <label for="tuningFilter" class="form-label small text-uppercase mb-1">Afinacion</label>
+                <select id="tuningFilter" class="form-select form-select-sm mb-2">
+                  <option value="all">Todas</option>
+                  <option value="estandar">Estandar</option>
+                  <option value="medio-tono-abajo">Medio tono abajo</option>
+                  <option value="tono-abajo">Tono abajo</option>
+                  <option value="drop-d">Drop D</option>
+                  <option value="drop-c">Drop C</option>
+                  <option value="sin-definir">Sin definir</option>
+                </select>
+
+                <label for="capoFilter" class="form-label small text-uppercase mb-1">Cejilla</label>
+                <select id="capoFilter" class="form-select form-select-sm mb-2">
+                  <option value="all">Todas</option>
+                  <option value="sin-cejilla">Sin cejilla</option>
+                  <option value="1-2">Cejilla 1-2</option>
+                  <option value="3-plus">Cejilla 3+</option>
+                  <option value="sin-definir">Sin definir</option>
+                </select>
+
+                <label for="techniqueFilter" class="form-label small text-uppercase mb-1">Tecnica</label>
+                <select id="techniqueFilter" class="form-select form-select-sm mb-2">
+                  <option value="all">Todas</option>
+                  <option value="sin-definir">Sin definir</option>
+                </select>
+
+                <label for="keyFilter" class="form-label small text-uppercase mb-1">Tonalidad</label>
+                <select id="keyFilter" class="form-select form-select-sm mb-2">
+                  <option value="all">Todas</option>
+                  <option value="sin-definir">Sin definir</option>
+                </select>
+
+                <label for="timeSignatureFilter" class="form-label small text-uppercase mb-1">Compas</label>
+                <select id="timeSignatureFilter" class="form-select form-select-sm mb-3">
+                  <option value="all">Todos</option>
+                  <option value="sin-definir">Sin definir</option>
+                </select>
+              </div>
+
+              <!-- Datos -->
+              <div class="border-top pt-3">
+                <label class="form-label small text-uppercase mb-2">Datos</label>
+                <div class="d-flex gap-2">
+                  <button id="exportProfilesBtn" type="button" class="btn btn-sm btn-outline-info flex-grow-1" title="Copia tus datos (instrumentos, ratings, favoritas)">
+                    📥 Exportar
+                  </button>
+                  <button id="importProfilesBtn" type="button" class="btn btn-sm btn-outline-info flex-grow-1" title="Carga datos exportados">
+                    📤 Importar
+                  </button>
+                </div>
+                <input id="importProfilesFile" type="file" accept=".json" style="display: none" />
+              </div>
+            </div>
+          </div>
+        </aside>
       </section>
     </main>
   </body>

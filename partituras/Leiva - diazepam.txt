@@ -1,10 +1,4 @@
-# Diazepam
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 4    |
-
-```
 INTRO
 | C | Dm7 | G7sus4 | Cadd9 |
 
@@ -86,6 +80,5 @@ Hasta que me quede sin voz
 Dm          G7        Fmaj7    G6   Fmaj7 G6 C
 Hasta que me quede sin voz, sin voz.
 
-```
 
 

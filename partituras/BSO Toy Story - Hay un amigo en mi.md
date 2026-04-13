@@ -1,10 +1,8 @@
-# Toy story
 
 ## Hay un amigo en mi
 
 Capo 3
 
-```
 C         Gaug     C C9
 Hay un amigo en mí
 F         F#dim    C  C7
@@ -34,10 +32,8 @@ D7      G7             C
 Porque hay un amigo en mí
 D7    G7                 C C7
 Hay un amigo en mí
-```
 **Puente**
 
-```
 F                   B
 Otros habrá tal vez mucho más listos que yo
 C6    B7  C6
@@ -58,4 +54,3 @@ D7           G7         C A7
 Hay un amigo en mí
 D7          G7         C
 Hay un amigo en mí
-```

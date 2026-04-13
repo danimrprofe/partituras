@@ -1,16 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: MORGAN
-CANCIÓN: Sargento de hierro
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin capo
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Adaptación “a mí” (sin cejilla); ajusta si tu versión usa otro traste o tonalidad.
-================================================================================
-
 ESTROFA
 C               G       C                  G
 Voy a pensar en ti. A no olvidar tu nombre
@@ -18,22 +5,23 @@ C        Am    Em                    G  C G
 Creo que me perdí, no sé por qué ni dónde
 C               G       C                  G
 Tengo nubes en los ojos. Y en los recuerdos humo
-C        Am    Em                    G  C G
+C               Am    Em                    G  C G
 Tengo los pies rotos y en la garganta un nudo
 
 ESTRIBILLO
-D               Em          C        G                D
+D               Em         C             G                
 Cúrame, viento, ven a mí. Llévame lejos, sácame de aquí
-               Em          C            G             D
+D               Em             C                G             
 Cúrame, tiempo, pasa para mí. Sálvalos a ellos, sálvalos a ellos
 
 INSTRUMENTAL
-Am Em C G Am Em
+D Am Em C 
+G Am Em
 
 ESTROFA
 C          G       C       G
 No me despedí. Y lo siento
-C                Am    Em                    G  C G
+C             Am    Em                    G  C G
 No me dio tiempo a decir lo mucho que te quiero
 
 ESTRIBILLO

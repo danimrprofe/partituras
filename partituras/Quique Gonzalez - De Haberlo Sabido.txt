@@ -1,20 +1,4 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: QUIQUE GONZALEZ
-CANCIÓN: DE HABERLO SABIDO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-NOTAS ADICIONALES: Estilo rock de autor. Es una de sus canciones más icónicas, 
-ideal para tocar con un rasgueo acústico constante y con mucho peso.
-================================================================================
 
 INTRO
 Em7 - B7/E - Em* - B7/E (x3)

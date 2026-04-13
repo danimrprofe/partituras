@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: QUIERO SER UNA ESTRELLA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 FITO & FITIPALDIS
 QUIERO SER UNA ESTRELLA
-Sin capo
 D                               G           D	                                                                        
 He firmado un buen contrato con una multinacional 
 	G    

@@ -1,18 +1,7 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Revolver
-CANCIÓN: ESO DE SABER
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 REVOLVER - ESO DE SABER
 REVÓLVER
-SIN CAPO
 
 ESTRIBILLO
          A                Am7                   E

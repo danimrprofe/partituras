@@ -1,19 +1,12 @@
-# Penaltis
 
 
 **Información**
 
-| Tonalidad | Tempo | Compás | Capo |
-| --------- | ----- | ------ | ---- |
-| Do Mayor  | X bpm | 4/4    | No   |
 
 INTRO
-```
 A E/G# | E  | B | C#m
 A      | E  | B
-```
 ESTROFA
-```
            E                      B
 No era la luz del Sol, no era mi fantasía.
               A                      E
@@ -66,7 +59,6 @@ Las previsiones son malas
             A            E
 ¡Mamá, me vuelvo a casa con los demás!
 
-```
 **Repite estribillo**
 
 

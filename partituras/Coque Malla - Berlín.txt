@@ -1,18 +1,4 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Coque Malla
-CANCIÓN: Berlín
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 6
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Mezcla de bajo + rasgueo: pulgar en cuerda grave (marca el bajo); rasgueo suave
-en cuerdas finas. Ejemplo: bajo → rasgueo abajo/arriba → bajo → rasgueo.
-G/F# = Sol con bajo en fa#.
-================================================================================
-
 INTRO
 G G/F# Em C G G/F# Em Em x2
 

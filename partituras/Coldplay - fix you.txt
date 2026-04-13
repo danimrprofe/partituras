@@ -1,23 +1,7 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: FIX YOU2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-# Fixc you
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 3    |
 
-```
 INTRO
 C  Em  Am7  G  x2
 
@@ -97,4 +81,3 @@ F   C  G            F
 And ignite your bones,
 F      C   G               C
 And I will try to fix you.
-```

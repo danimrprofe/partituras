@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Love of Lesbian
-CANCION: ALLÍ DONDE SOLÍAMOS GRITAR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 LOVE OF LESBIAN - ALLÍ DONDE SOLÍAMOS GRITAR
 Love of lesbian
-Capo 1
 
 INTRO
 E  Bm  D  C#m E  Bm  D  A

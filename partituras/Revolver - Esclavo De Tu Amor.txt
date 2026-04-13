@@ -1,18 +1,7 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Revolver
-CANCIÓN: ESCLAVO DE TU AMOR
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 REVOLVER - ESCLAVO DE TU AMOR
 REVÓLVER
-SIN CAPO
 
 INTRO
 G  C  Am  D

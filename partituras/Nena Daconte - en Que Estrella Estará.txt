@@ -1,18 +1,7 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Nena Daconte
-CANCIÓN: EN QUE ESTRELLA ESTARÁ
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 NENA DACONTE 
 EN QUE ESTRELLA ESTARÁ
-Capo 3
 
 INTRO
  

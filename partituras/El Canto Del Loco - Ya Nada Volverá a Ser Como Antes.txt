@@ -1,28 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: YA NADA VOLVERA A SER COMO ANTES - - YA NADA VOLVERÁ A SER COMO ANTES
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-================================================================================
-ARTISTA: EL CANTO DEL LOCO
-CANCIÓN: YA NADA VOLVERÁ A SER COMO ANTES
-ÁLBUM:   ESTADOS DE ÁNIMO (2003)
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: 1
-================================================================================
-NOTAS ADICIONALES: Un himno del pop-rock español. Los acordes en los 
-estribillos deben sonar con mucha fuerza, preferiblemente usando "power chords" 
-si la tocas con eléctrica, o acordes abiertos muy rítmicos en acústica.
-================================================================================
 
 ESTROFA 1
  G                     D

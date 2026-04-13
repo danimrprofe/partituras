@@ -1,10 +1,4 @@
-# El que vull per nadal
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 4    |
-
-```
 G                           G/B
 no vull massa aquest nadal una cosa em falta a mi
 C                         Cm
@@ -48,4 +42,3 @@ G/B             B7        Em           Cm
 tu i jo junts aquesta nit abraçant-nos infinit
 G/D              E7           Am7             Am/D       G
 no hi ha res millor, si si el que vull per nadal ets tu
-```

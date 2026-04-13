@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Pereza
-CANCION: VIOLENTO AMOR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 4
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 PEREZA 
 VIOLENTO AMOR
-Capo 4
 G        D C            G     D   C		
 Violento amor, semanas rotas en dos,  
 G       D  C      G        D         C

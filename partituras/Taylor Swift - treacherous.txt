@@ -1,22 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Taylor Swift
-CANCIÓN: treacherous
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 Treacherous by Taylor Swift
 Album: Red
 Track 3
 2012
  
 Standard Tuning
-Capo on the 7th fret
  
 Chords:
  

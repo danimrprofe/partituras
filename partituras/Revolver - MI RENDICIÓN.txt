@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Revolver
-CANCION: MI RENDICIÓN -
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 REVOLVER - MI RENDICIÓN
 REVÓLVER
-SIN CAPO
 
 INTRO
 G C D  G C D  

@@ -1,24 +1,8 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Vetusta Morla
-CANCIÓN: MALDITA DULZURA
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Sin cejilla
-TONALIDAD: Re Mayor (D Major)
+
+Key: D
 BPM:       126
 COMPÁS:    4/4
-================================================================================
-NOTAS ADICIONALES: La canción se basa en un arpegio constante. 
-Mantener la intensidad contenida hasta el estribillo final.
-================================================================================
-
 ESTROFA
 Em                  Bm      Em                  Bm
 Hablemos de ruina y espina Hablemos de polvo y herida

@@ -1,12 +1,8 @@
-# Ven
 
-```
 **Intro**
 
 Eb
-```
 **Estrofa**
-```
 Eb             Bb               Cm7
 Están calladas, están calladas, sí
 Ab
@@ -23,9 +19,7 @@ Bb
 Maldita luz
 
 
-```
 **Estribillo**
-```
 
 
 Eb
@@ -40,9 +34,7 @@ Eb                        Cm
 Si vienes y perdemos la cabeza
 Ab               Eb     Bb   Eb
 Y rompemos a mordeeeeeeeeeernos
-```
 **Estrofa**
-```
 
 Eb             Bb
   Serán las horas que llevo sin
@@ -54,9 +46,7 @@ Ab
 Quimera de las madrugadas
 
 
-```
 **Estribillo**
-```
 
 
 Eb
@@ -92,9 +82,7 @@ Si vienes, si vieneeeeeeees
 
 
 
-```
 **Estribillo**
-```
 
 
 Eb
@@ -118,4 +106,3 @@ Si vienes voy a celebrar lo bueno y malo de vivir
 Si vienes y perdemos la cabeza
 Ab                 Eb     Bb   Eb
 y rompernos a quereeeeeeeeeernoooos
-```

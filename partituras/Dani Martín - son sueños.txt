@@ -1,26 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: SON SUEÑOS2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-# Son sueños
 
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 1    |
+
 
 Em C D
 
-```
 Em      C   D
 Son sueños
 G             C  D Em
@@ -123,4 +107,3 @@ Te Sigo buscando tanto
 Te sigo esperando tanto
     Am            D             C Cm
 Que por eso te tento que inventar
-```

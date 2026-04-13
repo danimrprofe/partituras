@@ -1,6 +1,4 @@
-# El polvo de los días raros
 
-```
 ESTROFA
        G#m
 Se me duerme el Cielo De La Boca
@@ -117,6 +115,5 @@ Huele Demasiado
 Huele Demasiado A Tí
  F#          B E B E B E
 Huele Demasiado
-```
 
 

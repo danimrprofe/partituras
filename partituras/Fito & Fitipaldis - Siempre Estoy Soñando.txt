@@ -1,19 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: SIEMPRE ESTOY SOÑANDO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 FITO & FITIPALDIS 
 SIEMPRE ESTOY SOÑANDO
-Sin capo. Mejor con quintas y palm mute
  C  x4
 C                                                    G
 Mientras me aguanten los huesos yo quiero seguir cantando   

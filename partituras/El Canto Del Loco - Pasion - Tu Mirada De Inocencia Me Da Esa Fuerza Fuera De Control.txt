@@ -1,17 +1,6 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: PASION - TU MIRADA DE INOCENCIA ME DA ESA FUERZA FUERA DE CONTROL
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-CAPO 1
+
 D      Bm        F#m             G          Em            A
 La distancia nos acerca. Y nos regala la ilusión y mi emoción
 D    Bm          F#m              G          Em       A

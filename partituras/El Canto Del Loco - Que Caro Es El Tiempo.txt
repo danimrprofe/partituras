@@ -1,15 +1,5 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: QUE CARO ES EL TIEMPO49
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
 CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+
 
 EL CANTO DEL LOCO - QUE CARO ES EL TIEMPO
 El canto del loco
@@ -31,7 +21,7 @@ Y qué caro es el tiempo que me pone contra la pared
 Dm   Em              F                G         F
 Y si digo que miento me estaré escondiendo otra vezs
           G               Am            C           F
-Perdona,  si digo , que quiero seguir siendo lo de ayer
+Perdona,  si digo , que quiero seguir siendo lo de liveayer
            G               C     G/B   Am        G       F
 Un niño,  sin miedo, que regala su cariño y no sabe porqué
 

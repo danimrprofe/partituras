@@ -1,12 +1,8 @@
-# Hero of war
 
 **Intro**
-```
 Fsus2 G
-```
 
 **Estrofa**
-```
 
          C                         Em                       Fmaj7
 He said "Son, have you seen the world? Well, what would you say
@@ -26,9 +22,7 @@ C                     G
  As we learned how to fight
 
 
-```
 **Estribillo**
-```
 
            Am                       Fmaj7                   C
 A hero of war, Yeah that's what I'll be, and when I come home
@@ -37,9 +31,7 @@ They'll be damn proud of me. I'll carry this flag, to the grave if I must
                           C                          G
 'cause it's a flag that I love, and a flag that I trust
 
-```
 **Estrofa**
-```
 
 ESTROFA 3
 I kicked in the door
@@ -65,9 +57,7 @@ We beat him with guns, and batons not just once, but again and again
 
 
 
-```
 **Estribillo**
-```
 
            Am                       Fmaj7                   C
 A hero of war, Yeah that's what I'll be, and when I come home
@@ -77,9 +67,7 @@ They'll be damn proud of me. I'll carry this flag, to the grave if I must
 'cause it's a flag that I love, and a flag that I trust
 
 Fmaj7 G
-```
 **Estrofa**
-```
 
     Csus2                      Em
 She walked through bullets and haze
@@ -107,9 +95,7 @@ A flag white as snow
 A hero of war
 
 
-```
 **Estribillo**
-```
 
            Am                    Fmaj7                   C
 A hero of war, Is that what they see , Just medals and scars
@@ -119,12 +105,9 @@ A hero of war, Is that what they see , Just medals and scars
 But it's a flag that I love, It's the only flag I trust
 
 
-```
 ## Final
-```
 
          Am                        Em                       Fmaj7
 He said, "Son, have you seen the world? Well what would you say,
                     C
 if I said that you could?"
-```
