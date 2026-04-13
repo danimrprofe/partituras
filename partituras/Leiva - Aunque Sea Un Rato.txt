@@ -1,3 +1,6 @@
+ALBUM: Diciembre
+AÑO: 2012
+
 INTRO
 | C   | Em  | F   | C   |
 | Dm  | Am  | F   | G   |

@@ -90,8 +90,8 @@
     "defaultTuning": "estandar",
     "capo": 1,
     "techniques": [
-      "fingerpicking",
       "strumming",
+      "fingerpicking",
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Amaral%20C%C3%B3mo%20Hablar"
@@ -4143,6 +4143,11 @@
     "title": "92",
     "filename": "Leiva - 92.txt",
     "defaultTuning": null,
+    "album": "Diciembre",
+    "year": 2012,
+    "techniques": [
+      "tabs"
+    ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%2092"
   },
   {
@@ -4220,11 +4225,16 @@
     "title": "Aunque Sea Un Rato",
     "filename": "Leiva - Aunque Sea Un Rato.txt",
     "defaultTuning": null,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Aunque%20Sea%20Un%20Rato"
   },
@@ -4484,11 +4494,14 @@
     "filename": "Leiva - Eme.txt",
     "defaultTuning": null,
     "capo": 2,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
+      "tabs",
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Eme"
@@ -4538,10 +4551,15 @@
     "title": "Extasis",
     "filename": "Leiva - Extasis.txt",
     "defaultTuning": null,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "INTRO",
       "ESTROFA",
       "SOLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Extasis"
   },
@@ -4620,10 +4638,15 @@
     "title": "hoy no me encuentro",
     "filename": "Leiva - hoy no me encuentro.txt",
     "defaultTuning": null,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "INTRO",
       "ESTROFA",
       "SOLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20hoy%20no%20me%20encuentro"
   },
@@ -4633,11 +4656,16 @@
     "title": "hoy tus ojos",
     "filename": "Leiva - hoy tus ojos.txt",
     "defaultTuning": null,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "OUTRO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20hoy%20tus%20ojos"
   },
@@ -4749,11 +4777,16 @@
     "title": "las cuentas",
     "filename": "Leiva - las cuentas.txt",
     "defaultTuning": null,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "SOLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20las%20cuentas"
   },
@@ -4848,10 +4881,15 @@
     "title": "Miedo",
     "filename": "Leiva - Miedo.txt",
     "defaultTuning": null,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "ESTRIBILLO",
       "ESTROFA",
       "PUENTE"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Miedo"
   },
@@ -4908,8 +4946,13 @@
     "title": "Nunca Nadie",
     "filename": "Leiva - Nunca Nadie.txt",
     "defaultTuning": null,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "ESTROFA"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Nunca%20Nadie"
   },
@@ -4950,9 +4993,14 @@
     "title": "Penaltis",
     "filename": "Leiva - Penaltis.txt",
     "defaultTuning": null,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "INTRO",
       "ESTROFA"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Penaltis"
   },
@@ -5080,9 +5128,14 @@
     "title": "todo lo que tu quieras",
     "filename": "Leiva - todo lo que tu quieras.txt",
     "defaultTuning": null,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20todo%20lo%20que%20tu%20quieras"
   },
@@ -5123,11 +5176,14 @@
     "filename": "Leiva - Vis a Vis.txt",
     "defaultTuning": null,
     "capo": 4,
+    "album": "Diciembre",
+    "year": 2012,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
+      "tabs",
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Vis%20a%20Vis"
