@@ -1,3 +1,6 @@
+ALBUM: Nuclear
+AÑO: 2019
+
 CEJILLA/CAPO: 5
 
 ESTROFA

@@ -90,8 +90,8 @@
     "defaultTuning": "estandar",
     "capo": 1,
     "techniques": [
-      "strumming",
       "fingerpicking",
+      "strumming",
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Amaral%20C%C3%B3mo%20Hablar"
@@ -1261,8 +1261,8 @@
     "filename": "El Canto Del Loco - Besos.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Besos"
   },
@@ -1295,8 +1295,8 @@
     "filename": "El Canto Del Loco - CANCIONES.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20CANCIONES"
   },
@@ -1373,8 +1373,8 @@
     "filename": "El Canto Del Loco - Desaparece.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Desaparece"
   },
@@ -1385,8 +1385,8 @@
     "filename": "El Canto Del Loco - Despiertame.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Despiertame"
   },
@@ -1401,8 +1401,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "palm-mute",
-      "barre-chords"
+      "barre-chords",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Eh%20Tu"
   },
@@ -1422,8 +1422,8 @@
     "filename": "El Canto Del Loco - El Pescao.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20El%20Pescao"
   },
@@ -1668,8 +1668,8 @@
       "SOLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Personas"
   },
@@ -1709,8 +1709,8 @@
     "defaultTuning": "medio-tono-abajo",
     "capo": 3,
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Por%20Ti%20-%20-%20Por%20T%C3%AD"
   },
@@ -1797,8 +1797,8 @@
     "filename": "El Canto Del Loco - Que Caro Es El Tiempo (alt).txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Que%20Caro%20Es%20El%20Tiempo%20%28alt%29"
   },
@@ -1827,8 +1827,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20SERA"
   },
@@ -1968,8 +1968,8 @@
       "SOLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Tremendo%20-%20F%20E"
   },
@@ -2016,8 +2016,8 @@
     "filename": "El Canto Del Loco - Usanos.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Usanos"
   },
@@ -2058,8 +2058,8 @@
     "filename": "El Canto Del Loco - Volvera.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Volvera"
   },
@@ -2074,8 +2074,8 @@
       "ESTROFA"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Vuelve"
   },
@@ -2118,10 +2118,10 @@
     "filename": "El Canto Del Loco - Zapatillas.txt",
     "defaultTuning": "medio-tono-abajo",
     "techniques": [
-      "palm-mute",
-      "tabs",
       "strumming",
-      "barre-chords"
+      "barre-chords",
+      "tabs",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Zapatillas"
   },
@@ -2389,8 +2389,8 @@
     "defaultTuning": "estandar",
     "capo": 0,
     "techniques": [
-      "palm-mute",
-      "barre-chords"
+      "barre-chords",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Extremoduro%20Standby"
   },
@@ -2805,8 +2805,8 @@
     "filename": "Fito & Fitipaldis - Que Me Arrastre El Viento.txt",
     "defaultTuning": null,
     "techniques": [
-      "palm-mute",
-      "barre-chords"
+      "barre-chords",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Fito%20%26%20Fitipaldis%20Que%20Me%20Arrastre%20El%20Viento"
   },
@@ -3034,9 +3034,9 @@
       "INTRO"
     ],
     "techniques": [
-      "tabs",
       "strumming",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "key": "(ej. Mi Mayor)",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Desconocido%20Formato_Recomendado"
@@ -3091,8 +3091,8 @@
       "OUTRO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Goo%20Goo%20Dolls%20Slide%20by%20the%20Goo%20Goo%20Dolls"
   },
@@ -3975,8 +3975,8 @@
       "SOLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Knockin%20on%20Heavens%20Door%20Guns%20N%20Roses%20Tabs-Tablatures-Lyrics-Chords%20-%20Guitar-Bass%20-%20Tab%20Power"
   },
@@ -4100,8 +4100,8 @@
       "PUENTE"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=La%20Moda%20H%C3%A9roes%20Del%20Sabado"
   },
@@ -4170,13 +4170,16 @@
     "filename": "Leiva - Afuera en La Ciudad.txt",
     "defaultTuning": null,
     "capo": 2,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Afuera%20en%20La%20Ciudad"
   },
@@ -4245,12 +4248,15 @@
     "filename": "Leiva - Bajo Presion.txt",
     "defaultTuning": null,
     "capo": 1,
+    "album": "Gigante",
+    "year": 2025,
     "sections": [
       "ESTROFA",
       "PUENTE"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Bajo%20Presion"
   },
@@ -4260,13 +4266,16 @@
     "title": "Blancos Fáciles",
     "filename": "Leiva - Blancos Fáciles.txt",
     "defaultTuning": "estandar",
+    "album": "Cuando te muerdes el labio",
+    "year": 2021,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO",
       "OUTRO"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Blancos%20F%C3%A1ciles"
   },
@@ -4276,11 +4285,16 @@
     "title": "Breaking Bad",
     "filename": "Leiva - Breaking Bad.txt",
     "defaultTuning": null,
+    "album": "Monstruos",
+    "year": 2016,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "SOLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Breaking%20Bad"
   },
@@ -4291,6 +4305,8 @@
     "filename": "Leiva - caida libre.txt",
     "defaultTuning": null,
     "capo": 5,
+    "album": "Gigante",
+    "year": 2025,
     "sections": [
       "INTRO",
       "ESTROFA",
@@ -4298,7 +4314,8 @@
       "PUENTE"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20caida%20libre"
   },
@@ -4309,13 +4326,16 @@
     "filename": "Leiva - Cerca.txt",
     "defaultTuning": null,
     "capo": 2,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Cerca"
   },
@@ -4325,10 +4345,15 @@
     "title": "Ciencia Ficción",
     "filename": "Leiva - Ciencia Ficción.txt",
     "defaultTuning": null,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Ciencia%20Ficci%C3%B3n"
   },
@@ -4353,13 +4378,16 @@
     "filename": "Leiva - Como Si Fueras a Morir Mañana.txt",
     "defaultTuning": null,
     "capo": 1,
+    "album": "Nuclear",
+    "year": 2019,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Como%20Si%20Fueras%20a%20Morir%20Ma%C3%B1ana"
   },
@@ -4370,13 +4398,16 @@
     "filename": "Leiva - Costa De Oaxaca.txt",
     "defaultTuning": null,
     "capo": -1,
+    "album": "Nuclear",
+    "year": 2019,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Costa%20De%20Oaxaca"
   },
@@ -4403,13 +4434,16 @@
     "filename": "Leiva - Del Hueso Una Flor.txt",
     "defaultTuning": null,
     "capo": 3,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Del%20Hueso%20Una%20Flor"
   },
@@ -4419,11 +4453,16 @@
     "title": "diazepam",
     "filename": "Leiva - diazepam.txt",
     "defaultTuning": null,
+    "album": "Cuando te muerdes el labio",
+    "year": 2021,
     "sections": [
       "INTRO",
       "ESTROFA",
       "SOLO",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20diazepam"
   },
@@ -4450,6 +4489,8 @@
     "title": "el polvo de los dias raros",
     "filename": "Leiva - el polvo de los dias raros.txt",
     "defaultTuning": null,
+    "album": "Gigante",
+    "year": 2025,
     "sections": [
       "ESTROFA"
     ],
@@ -4464,11 +4505,16 @@
     "title": "el ultimo incendio",
     "filename": "Leiva - el ultimo incendio.txt",
     "defaultTuning": null,
+    "album": "Monstruos",
+    "year": 2016,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "SOLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20el%20ultimo%20incendio"
   },
@@ -4478,12 +4524,17 @@
     "title": "electricidad",
     "filename": "Leiva - electricidad.txt",
     "defaultTuning": null,
+    "album": "Monstruos",
+    "year": 2016,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE",
       "SOLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20electricidad"
   },
@@ -4501,8 +4552,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Eme"
   },
@@ -4512,8 +4563,13 @@
     "title": "en El Espacio",
     "filename": "Leiva - en El Espacio.txt",
     "defaultTuning": null,
+    "album": "Nuclear",
+    "year": 2019,
     "sections": [
       "ESTROFA"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20en%20El%20Espacio"
   },
@@ -4537,11 +4593,16 @@
     "title": "Expertos",
     "filename": "Leiva - Expertos.txt",
     "defaultTuning": null,
+    "album": "Nuclear",
+    "year": 2019,
     "sections": [
       "INTRO",
       "ESTROFA",
       "SOLO",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Expertos"
   },
@@ -4569,10 +4630,15 @@
     "title": "Gigante",
     "filename": "Leiva - Gigante.txt",
     "defaultTuning": null,
+    "album": "Gigante",
+    "year": 2025,
     "sections": [
       "INTRO",
       "ESTROFA",
       "SOLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Gigante"
   },
@@ -4583,12 +4649,15 @@
     "filename": "Leiva - Godzilla.txt",
     "defaultTuning": null,
     "capo": 5,
+    "album": "Nuclear",
+    "year": 2019,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Godzilla"
   },
@@ -4598,9 +4667,14 @@
     "title": "Guerra Mundial",
     "filename": "Leiva - Guerra Mundial.txt",
     "defaultTuning": null,
+    "album": "Monstruos",
+    "year": 2016,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Guerra%20Mundial"
   },
@@ -4610,9 +4684,14 @@
     "title": "Hermosa Taquicardia",
     "filename": "Leiva - Hermosa Taquicardia.txt",
     "defaultTuning": null,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Hermosa%20Taquicardia"
   },
@@ -4675,9 +4754,14 @@
     "title": "Iceberg",
     "filename": "Leiva - Iceberg.txt",
     "defaultTuning": null,
+    "album": "Cuando te muerdes el labio",
+    "year": 2021,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Iceberg"
   },
@@ -4687,9 +4771,14 @@
     "title": "Infinitos",
     "filename": "Leiva - Infinitos.txt",
     "defaultTuning": null,
+    "album": "Cuando te muerdes el labio",
+    "year": 2021,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Infinitos"
   },
@@ -4712,11 +4801,16 @@
     "title": "La Francesita",
     "filename": "Leiva - La Francesita.txt",
     "defaultTuning": null,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20La%20Francesita"
   },
@@ -4744,13 +4838,16 @@
     "filename": "Leiva - La Lluvia en Los Zapatos.txt",
     "defaultTuning": null,
     "capo": 1,
+    "album": "Monstruos",
+    "year": 2016,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20La%20Lluvia%20en%20Los%20Zapatos"
   },
@@ -4797,13 +4894,16 @@
     "filename": "Leiva - Lobos.txt",
     "defaultTuning": null,
     "capo": 2,
+    "album": "Nuclear",
+    "year": 2019,
     "sections": [
       "SOLO",
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Lobos"
   },
@@ -4814,6 +4914,8 @@
     "filename": "Leiva - Los Cantantes.txt",
     "defaultTuning": null,
     "capo": 1,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "INTRO",
       "ESTROFA",
@@ -4821,7 +4923,8 @@
       "PUENTE"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Los%20Cantantes"
   },
@@ -4832,12 +4935,15 @@
     "filename": "Leiva - Maniobras Suicidas.txt",
     "defaultTuning": null,
     "capo": 1,
+    "album": "Nuclear",
+    "year": 2019,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Maniobras%20Suicidas"
   },
@@ -4847,9 +4953,14 @@
     "title": "medicina",
     "filename": "Leiva - medicina.txt",
     "defaultTuning": null,
+    "album": "Monstruos",
+    "year": 2016,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20medicina"
   },
@@ -4859,6 +4970,11 @@
     "title": "mi mejor version",
     "filename": "Leiva - mi mejor version.txt",
     "defaultTuning": null,
+    "album": "Pólvora",
+    "year": 2014,
+    "techniques": [
+      "tabs"
+    ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20mi%20mejor%20version"
   },
   {
@@ -4900,12 +5016,15 @@
     "filename": "Leiva - Mirada Perdida.txt",
     "defaultTuning": null,
     "capo": 4,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Mirada%20Perdida"
   },
@@ -4915,9 +5034,14 @@
     "title": "monstruos",
     "filename": "Leiva - monstruos.txt",
     "defaultTuning": null,
+    "album": "Monstruos",
+    "year": 2016,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20monstruos"
   },
@@ -4927,6 +5051,11 @@
     "title": "No Te Preocupes Por Mi",
     "filename": "Leiva - No Te Preocupes Por Mi.txt",
     "defaultTuning": null,
+    "album": "Nuclear",
+    "year": 2019,
+    "techniques": [
+      "tabs"
+    ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20No%20Te%20Preocupes%20Por%20Mi"
   },
   {
@@ -4957,16 +5086,36 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Nunca%20Nadie"
   },
   {
+    "id": "leiva-palomas",
+    "artist": "Leiva",
+    "title": "Palomas",
+    "filename": "Leiva - Palomas.txt",
+    "defaultTuning": null,
+    "capo": 1,
+    "sections": [
+      "ESTROFA"
+    ],
+    "techniques": [
+      "barre-chords"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Palomas"
+  },
+  {
     "id": "leiva-peligrosamente-dark",
     "artist": "Leiva",
     "title": "peligrosamente dark",
     "filename": "Leiva - peligrosamente dark.txt",
     "defaultTuning": null,
+    "album": "Cuando te muerdes el labio",
+    "year": 2021,
     "sections": [
       "INTRO",
       "ESTROFA",
       "SOLO",
       "PUENTE"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20peligrosamente%20dark"
   },
@@ -5023,11 +5172,16 @@
     "title": "polvora",
     "filename": "Leiva - polvora.txt",
     "defaultTuning": null,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20polvora"
   },
@@ -5037,11 +5191,16 @@
     "title": "premio de consolacion",
     "filename": "Leiva - premio de consolacion.txt",
     "defaultTuning": null,
+    "album": "Cuando te muerdes el labio",
+    "year": 2021,
     "sections": [
       "ESTRIBILLO",
       "ESTROFA",
       "PUENTE",
       "OUTRO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20premio%20de%20consolacion"
   },
@@ -5065,6 +5224,12 @@
     "title": "si quieres bailamos",
     "filename": "Leiva - si quieres bailamos.txt",
     "defaultTuning": null,
+    "album": "Algo para cantar",
+    "year": 2003,
+    "sections": [
+      "INTRO",
+      "ESTROFA"
+    ],
     "techniques": [
       "tabs"
     ],
@@ -5076,10 +5241,15 @@
     "title": "Sincericidio",
     "filename": "Leiva - Sincericidio.txt",
     "defaultTuning": null,
+    "album": "Monstruos",
+    "year": 2016,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Sincericidio"
   },
@@ -5090,13 +5260,16 @@
     "filename": "Leiva - Stranger Things.txt",
     "defaultTuning": null,
     "capo": 2,
+    "album": "Cuando te muerdes el labio",
+    "year": 2021,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE"
     ],
     "techniques": [
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Stranger%20Things"
   },
@@ -5106,8 +5279,13 @@
     "title": "Superpoderes",
     "filename": "Leiva - Superpoderes.txt",
     "defaultTuning": null,
+    "album": "Nuclear",
+    "year": 2019,
     "sections": [
       "ESTROFA"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Superpoderes"
   },
@@ -5117,8 +5295,13 @@
     "title": "Terriblemente Cruel",
     "filename": "Leiva - Terriblemente Cruel.txt",
     "defaultTuning": null,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "ESTROFA"
+    ],
+    "techniques": [
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Terriblemente%20Cruel"
   },
@@ -5146,13 +5329,16 @@
     "filename": "Leiva - vertigo.txt",
     "defaultTuning": null,
     "capo": 1,
+    "album": "Pólvora",
+    "year": 2014,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
     ],
     "techniques": [
-      "palm-mute",
-      "barre-chords"
+      "barre-chords",
+      "tabs",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20vertigo"
   },
@@ -5183,8 +5369,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Vis%20a%20Vis"
   },
@@ -6006,8 +6192,8 @@
       "SOLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=MClan%20Saltamos%20Sin%20Mirar%20%282%29"
   },
@@ -6675,8 +6861,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Pereza%20Lady%20Madrid"
   },
@@ -6725,8 +6911,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Pereza%20Por%20Mi%20Tripa"
   },
@@ -6898,8 +7084,8 @@
       "INTRO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=R.E.M%20Man%20on%20the%20Moon"
   },
@@ -7442,8 +7628,8 @@
       "ESTROFA"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Shakira%20Pies%20Descalzos%20Sue%C3%B1os%20Blancos"
   },
@@ -7810,8 +7996,8 @@
       "PUENTE"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20treacherous"
   },
@@ -7845,8 +8031,8 @@
       "SOLO"
     ],
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=The%20Beatles%20Now%20and%20Then"
   },
@@ -8073,8 +8259,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "palm-mute",
-      "barre-chords"
+      "barre-chords",
+      "palm-mute"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Vetusta%20Morla%20Copenhague"
   },
@@ -8144,8 +8330,8 @@
     "filename": "Yesterday - Beatles Tabs-Tablatures-Lyrics-Chords - Guitar-Bass - Tab Power.txt",
     "defaultTuning": null,
     "techniques": [
-      "tabs",
-      "barre-chords"
+      "barre-chords",
+      "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Yesterday%20Beatles%20Tabs-Tablatures-Lyrics-Chords%20-%20Guitar-Bass%20-%20Tab%20Power"
   },

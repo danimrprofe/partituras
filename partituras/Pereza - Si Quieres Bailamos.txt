@@ -1,20 +1,3 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Pereza
-CANCIÓN: SI QUIERES BAILAMOS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Sin cejilla (Tonalidad original)
-TONALIDAD: La Mayor (A)
-COMPÁS: 4/4
-================================================================================
-
 INTRO
 A E F#m x2
 

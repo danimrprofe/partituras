@@ -1,3 +1,6 @@
+ALBUM: Monstruos
+AÑO: 2016
+
 CEJILLA/CAPO: 1
 
 INTRO
