@@ -1,14 +1,14 @@
-FITO & FITIPALDIS 
+FITO & FITIPALDIS
 CERCA DE LAS VÍAS
 
 ESTROFA
-D               C                      G                  
-Hay días que parece que nunca se va a apagar el sol, 
-D               C                             G                  
-y otros son más tristes que una despedida en la estación. 
+D               C                      G
+Hay días que parece que nunca se va a apagar el sol,
+D               C                             G
+y otros son más tristes que una despedida en la estación.
 C                      B7             Em
-es igual que nuestra vida que cuando todo va bien,  
-D               C                       G                  
+es igual que nuestra vida que cuando todo va bien,
+D               C                       G
 un día tuerces una esquina y te tuerces tú también.
 D        C                       G
 Esa telaraña que cuelga en mi habitación
@@ -40,7 +40,3 @@ D         C                          G
 Todo lo malo y lo bueno caben dentro de un papel.
 D(sorda)         C                       G
 ¿Quieres ver el mundo? Mira, está debajo de tus pies.
-
-
-
-

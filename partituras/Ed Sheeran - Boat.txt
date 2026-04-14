@@ -1,7 +1,6 @@
 AFINACION: E A D G B E
 CEJILLA/CAPO: Capo 4
 
-
 Tuning:
 E A D G B E
 Capo:
@@ -19,8 +18,8 @@ Am7          G          C/E
   Stuck out long before lights down
 Fadd9                          Fadd9
  Why do I breathe? Oh, I know
- 
- 
+
+
 ESTRIBILLO
                 C         G           F
 The more that I love, the less that I feel
@@ -34,8 +33,8 @@ Maybe I won't
 But the waves won't break my boat
         C     C/D   C/E   G/B    Fadd9
 But the waves won't break my boat
- 
- 
+
+
 ESTROFA 2
 Am7                    G  C/E
   Stones crash on the boardwalk
@@ -51,8 +50,8 @@ Am7       G  C/E
   Let out long before last call
 Fadd9
  What do I need? Oh, I know
- 
- 
+
+
 ESTRIBILLO
                 C         G           F
 The more that I love, the less that I feel
@@ -70,8 +69,8 @@ But the waves won't break my boat
 But the waves won't break my boat
         C     C/D   C/E   G/B    Fadd9
 But the waves won't break my boat
- 
- 
+
+
 ESTRIBILLO
                 C         G           Fadd9
 The more that I love, the less that I feel
@@ -84,4 +83,3 @@ Maybe I won't
         C     C/D   C/E   G/B    Fadd9
 But the waves won't break my boat
 X
-

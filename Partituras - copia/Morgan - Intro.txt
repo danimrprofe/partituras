@@ -5,7 +5,7 @@ CANCIÓN: Intro Delta
 ÁLBUM:   North
 ================================================================================
 AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
+
 ================================================================================
 TONALIDAD: Fa mayor (F)
 BPM:       68 (aprox.; rubato)

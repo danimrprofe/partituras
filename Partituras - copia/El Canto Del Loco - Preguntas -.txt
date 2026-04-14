@@ -7,7 +7,7 @@ D    | B    | E   | G A
 D    | B    | E   | G A (Mirame)
 D    | B    | E   | G A
 -----+------+-----+--------
-D    | B    | E   | G A 
+D    | B    | E   | G A
 D    | B    | E   | G A G A
 -----+------+-----+--------
 D    | B    | G   | A (est)

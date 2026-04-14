@@ -1,7 +1,7 @@
 # La calma
 
-```
-**Intro**
+
+INTRO
 
 Em  Fsus  Em  D/B
 Em  Fsus  Em  D/B
@@ -22,7 +22,7 @@ yo he caminado mucho y me encuentro cansado
 Cadd9            G        Cadd9
 pero tranquilo.
 
-**Estribillo**
+ESTRIBILLO
 
 D            Cadd9
 Amiga risa, hermana nostalgia
@@ -33,7 +33,7 @@ ahora que el viaje termina
         D    G      Cadd9    G    Cadd9
 me invade la calma.
 
-[Solo]
+SOLO
 
 G Cadd9 G Cadd9
 
@@ -52,7 +52,7 @@ salen a flote algunos errores y faltas
 Cadd9            G                 Cadd9
 pequeñas faltas.
 
-**Estribillo**
+ESTRIBILLO
 
 D                 Cadd9
 Rojos demonios de la venganza
@@ -61,7 +61,7 @@ negros bufones de la ignorancia
 D          G/B      Cadd9      D         F
 ahora que viaje termina me invade la calma.
 
-[Solo]
+SOLO
 
 Instrumental de piano y acordeon:
 
@@ -74,7 +74,7 @@ Solo de gruitarra:
 G    Cadd9    G    Cadd9
 G    Cadd9    G    Cadd9
 
-**Estribillo**
+ESTRIBILLO
 
 D            Cadd9
 Amiga risa, hermana nostalgia
@@ -94,7 +94,7 @@ ahora que el viaje termina
     D      G        Cadd9
 me invade la calma.
 
-[Solo]
+SOLO
 
 G    Cadd9    G    Cadd9
 Em    Fsus    D    G
@@ -117,4 +117,3 @@ sino que los arpegia.
 
 Fsus:   x x x 3 1 1
 D/B:    x 2 0 2 3 3
-```

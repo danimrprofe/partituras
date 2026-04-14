@@ -1,4 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
 
 
 REVOLVER - EL DORADO
@@ -19,7 +18,7 @@ trabajaba y llegaba a casa siempre tarde
 una vez y otra vez treinta días al mes.
        C                Em7
 Cada noche después de estar ya acostado
-  Fmaj7                  C   C/B      
+  Fmaj7                  C   C/B
 la sentía abrir la puerta de mi cuarto
           Am                 G             F Em Dm7 C
 cambió el verme crecer por comer a diario
@@ -145,5 +144,3 @@ lo mejor de sus vidas dónde se ha quedado oh oh oh
 Vi a mis padres correr...
    C          G             C       F
 Vi a mis padres luchar
-
-

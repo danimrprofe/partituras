@@ -1,10 +1,7 @@
-CEJILLA/CAPO: Sin cejilla
-
 
 
 INTRO
 C D G Em    x2
-
 
 ESTROFA 1
           C        D
@@ -16,10 +13,8 @@ Now in the morning I sleep alone
           G                 Em
 Sweep the streets I used to own
 
-
 INSTRUMENTAL
 C D G Em    x2
-
 
 ESTROFA 2
           C        D
@@ -39,7 +34,6 @@ And I discovered that my castles stand
      G                       Em
 Upon pillars of salt and pillars of sand
 
-
 ESTRIBILLO
   C              D
 I hear Jerusalem bells are ringing
@@ -56,10 +50,8 @@ Once you go there was never, never an honest word
          Bm               Em
 That was when I ruled the world
 
-
 INSTRUMENTAL
 C D G Em    x2
-
 
 ESTROFA 3
                       C    D
@@ -79,7 +71,6 @@ Just a puppet on a lonely string
    G                         Em
 Oh who would ever want to be king?
 
-
 ESTRIBILLO
   C              D
 I hear Jerusalem bells are ringing
@@ -97,7 +88,6 @@ I know Saint Peter won't call my name,
 never an honest word
              Bm               Em
 But that was when I ruled the world
-
 
 INSTRUMENTAL
 C  Em x3
@@ -107,7 +97,6 @@ Ohhhhhh  Ohhhhhhh
   C   D    G   Em
 Ohhhhhh  Ohhhhhhh
 
-
 ESTRIBILLO
   C              D
 I hear Jerusalem bells are ringing
@@ -125,7 +114,6 @@ I know Saint Peter won't call my name,
 never an honest word
              Bm               Em
 But that was when I ruled the world
-
 
 OUTRO
 C    D  Bm   Em

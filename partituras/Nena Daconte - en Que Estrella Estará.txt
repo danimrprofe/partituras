@@ -1,10 +1,10 @@
 CEJILLA/CAPO: Capo 0
 
-NENA DACONTE 
+NENA DACONTE
 EN QUE ESTRELLA ESTARÁ
 
 INTRO
- 
+
    D      A       Bm      G
 e|-----2------0---------------3-3--|
 B|-----3------2-------3-------3-3--|
@@ -12,9 +12,9 @@ G|---2----------------4------------|
 D|-0--------2-------4-------0------|
 A|--------0-------2----------------|
 E|------------------------3--------|
- 
+
 (*Repeat this way of playing the chords during the verses*)
- 
+
 D              A              Bm
   He creado un ángel verde y gris
                  G
@@ -27,7 +27,7 @@ Bm                      G
   donde se escapan los niños y no quieres más
 Bm                      G
   donde se ahogan los gritos de mi mitad.
- 
+
 D              A              Bm
   He creado un ángel verde y gris
                     G
@@ -40,7 +40,7 @@ Bm                         G
   a veces tengo que hacer de tripas corazón,
 Bm                         G
   a veces tengo que huir, porque no puedo más
- 
+
 D                         G
   ¿En que estrella estará, para cuidar de él?
 Bm              A
@@ -53,10 +53,10 @@ D                 G
   Dime quién vendrá a ocupar su lugar,
 Bm                     A
   porque mi sueños se rompen de golpe.
- 
+
 
 INTRO (X3)
- 
+
    D      A      Bm       G
 e|-----2------0---------------3-3--|
 B|-----3------2-------3-------3-3--|
@@ -64,25 +64,25 @@ G|---2----------------4------------|
 D|-0--------2-------4-------0------|
 A|--------0-------2----------------|
 E|------------------------3--------|
- 
+
 N.C.
- 
+
 PUENTE
- 
+
 Bm                    G
 ¿Dónde terminan los sueños de la realidad?
 Bm                     G
 ¿Dónde se ahogan los gritos de mi mitad?
- 
- 
+
+
 PRE-ESTRIBILLO
- 
+
 N.C.
 ¿En qué estrella estará? (Ah, ¿en qué estrella estará?)
- 
+
 
 ESTRIBILLO
- 
+
 D                         G
   ¿En que estrella estará, para cuidar de él?
 Bm              A
@@ -95,10 +95,10 @@ D                 G
   Dime quién vendrá a ocupar su lugar,
 Bm                     A
   porque mi sueños se rompen de golpe.
- 
- 
+
+
 [FINAL] (x3)
- 
+
    D      A      Bm       G
 e|-----2------0---------------3-3--|
 B|-----3------2-------3-------3-3--|
@@ -106,5 +106,5 @@ G|---2----------------4------------|
 D|-0--------2-------4-------0------|
 A|--------0-------2----------------|
 E|------------------------3--------|
- 
+
 Quiero irme con él

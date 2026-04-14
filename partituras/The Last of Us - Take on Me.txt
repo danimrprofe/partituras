@@ -1,4 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
 
 
 Afinación:
@@ -8,9 +7,9 @@ E
 sin cejilla
 The Last Of Us Part II - Take On Me (acoustic cover of the a-ha song)
 https://www.youtube.com/watch?v=NKeU1twQYX4
- 
+
 I added some picking patterns for those of you that ache to reproduce this yourself :D
- 
+
 Regular verse chords:
    C#m        F#         B          E          G#m        E*
 e|-4--------|-----2----|----------|----------|----------|----------|
@@ -19,7 +18,7 @@ G|------6---|-3--------|-4----4---|----------|-4----4---|-4----4---|
 D|---6---6--|-4--------|-4-4---4--|--6-6-----|---6---6--|---6---6--|
 A|-4---4----|---4------|-2---2----|-7-6------|----------|-7---7----|
 E|----------|-2--------|----------|----------|-4---4----|----------|
- 
+
 Chorus chords:
    B          F#         G#m        E          F#
 e|----------|----------|----------|----------|----------|
@@ -28,8 +27,8 @@ G|------4---|-3----3---|-4----4---|-4--------|-6--------|
 D|-------4--|-4--------|-6--------|-6--------|-8--------|
 A|-2--------|---4------|---6---6--|-7--------|-9--------|
 E|----------|-2---2----|-4---4----|----------|----------|
- 
- 
+
+
 ESTROFA 1
 C#m          F#
 Talking away
@@ -43,8 +42,8 @@ C#m         F#  G#m
 Shying away
                         E*
 I'll be coming for your love, okay
- 
- 
+
+
 ESTRIBILLO
 B    F#  G#m   E F#
 Take on  me
@@ -54,8 +53,8 @@ B    F#  G#m   E F#
 I'll be  gone
             B    F#  G#m  E
 In a day or two...
- 
- 
+
+
 ESTROFA 2
 C#m            F#
 Needless to say
@@ -69,8 +68,8 @@ C#m          F#  G#m
 Say after me
                      E*
 It's no better to be safe than sorry
- 
- 
+
+
 ESTRIBILLO
 B    F#  G#m   E F#
 Take on  me
@@ -83,4 +82,3 @@ In a day or two...
             B    F#  G#m  E
 In a day or two...
 X
-

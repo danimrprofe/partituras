@@ -2,7 +2,7 @@ CEJILLA/CAPO: Capo 0
 
 INTRO
 F  C  F  C
- 
+
 ESTROFA
 C                        F
     Se me acaba el argumento
@@ -25,7 +25,7 @@ porque ya hasta me ha quebrado los talones
                   F           G
 aunque me levante volvere a caer, si te acercas nada es util
 para esta inutil
- 
+
 ESTRIBILLO
 F
 bruta, ciega, sordomuda, torpe, traste, testaruda
@@ -35,10 +35,10 @@ F
 en una cosa que no hace otra cosa mas que amarte
 C
 pienso en ti dia y noche y no se como olvidarte
- 
+
 INSTRUMENTAL
 F C F C
- 
+
 ESTROFA
 C                            F
        cuantas veces he intentado
@@ -57,7 +57,7 @@ si pudiera exorcizarme de tu voz, si pudiera escaparme de tu nombre
                  F             G
 si pudiera arrancarme del corazon, y esconderme para no
 sentirme nuevamente
- 
+
 ESTRIBILLO
 F
 bruta, ciega sordomuda, torpe, traste, testaruda
@@ -67,10 +67,10 @@ F
 en una cosa que no hace otra cosa mas que amarte
 C
 pienso en ti dia y noche, y no se como olvidarte
- 
+
 INSTRUMENTAL
 F C F C
- 
+
 ESTROFA
 F
 ojerosa, flaca, fea, desgreñada, torpe, tonta, lenta, necia, desquiciada
@@ -80,10 +80,10 @@ F
 ves que se me ha vuelto la cabeza un nido, donde solamente tu tienes asilo
 C
 y no me escuchas lo que te digo, mira bien lo que vas a hacer conmigo
- 
+
 INSTRUMENTAL
 F C F C
- 
+
 ESTRIBILLO
 F
 bruta, ciega, sordomuda, torpe, traste, testaruda
@@ -93,7 +93,7 @@ F
 en una cosa que no hace otra cosa mas que amarte
 C
 pienso en ti dia y noche, y no se como olvidarte
- 
+
 F
 bruta, ciega, sordomuda, torpe, traste, testaruda
 C
@@ -102,7 +102,7 @@ F
 en una cosa que no hace otra cosa mas que amarte
 C
 pienso en ti dia y noche, y no se como olvidarte
- 
+
 F
 bruta, ciega, sordomuda, torpe, traste, testaruda
 C

@@ -13,7 +13,6 @@ d'una sola cosa pots estar segur,
 B                    E
 quan més vell més tocat de l'ala.
 
-
 A                                     E
 Sempre deia que a la matinada es mataria,
 B                        C#m     A
@@ -39,7 +38,6 @@ E                              A
 dormint la mona a la vora del Ter
 B                  E
 però ell mai no s'hi tirava
-
 
 A                                     E
 Sempre deia que a la matinada es mataria,
@@ -68,7 +66,6 @@ i anar a l'infern no m'interessa,
 C#m    A    B        A
 és molt més bonic l'Empordà.
 
-
 C#m       A      E      A
 I quan veig la llum de l'alba
 C#m    A    B        A
@@ -77,4 +74,3 @@ C#m       A      E      A
 potser que avui no es suicidi
 C#m    A    B        A
 potser ho deixi fins demà.
-

@@ -6,9 +6,10 @@ C EM F G X2
 
 ESTROFA
         C                     Em           F                     G
-De los cielos a la pólvora mojada De la magia a la oscura esclavitud               C                              Em
+De los cielos a la pólvora mojada De la magia a la oscura esclavitud
+        C                          Em
 Hace tiempo que no pienso en tu cornada
-     F                             G
+        F                          G
 Hace tiempo que lo echo a cara o cruz
 
 ESTRIBILLO
@@ -19,15 +20,14 @@ En mi eterna despedida y no me resbala tu actitud
      F           G         C
 Esto se que no te va a gustar
 
-Interludio
-
+INSTRUMENTAL
 C | Em | F | G
 
 ESTROFA
     C                        Em         F                          G
 Prisioneros de las drogas delicadas Atrapados en un plano a contraluz
-      C                          Em           F                          
-Hace tiempo que no siento una punzada Hace tiempo que me estrello a tu 
+      C                          Em           F
+Hace tiempo que no siento una punzada Hace tiempo que me estrello a tu
    G
 salud
 
@@ -59,4 +59,3 @@ Esto sé que no se va a acabar
 FINAL
 C Em F G
 F
-

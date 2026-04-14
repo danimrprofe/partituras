@@ -1,7 +1,6 @@
-CEJILLA/CAPO: Sin cejilla
 
 
-FITO & FITIPALDIS 
+FITO & FITIPALDIS
 UN BUEN CASTIGO
 
 INTRO
@@ -9,7 +8,7 @@ Bm A A Bm
 Bm A A Bm
 
 ESTROFA
- 
+
 Bm                                                  A
 Lo he intentado muchas veces pero nunca me ha salido
 A                                               Bm
@@ -20,12 +19,12 @@ A                                                      Bm
 La verdad es que me interesa sólo porque esta prohibido
 
 ESTRIBILLO
-Em                       G             A   Bm              
-El mejor de los pecados el de haberte conocido. 
+Em                       G             A   Bm
+El mejor de los pecados el de haberte conocido.
 D                                 A
 tú no eres sin mi yo solo soy contigo
-Em                         A            F#/Bb    Bm     
-y cuidar de las estrellas puede ser un buen castigo. 
+Em                         A            F#/Bb    Bm
+y cuidar de las estrellas puede ser un buen castigo.
 G  D   A   Bm
 Ah ahh aah ahh
 
@@ -44,8 +43,8 @@ Em                       G            A          Bm
 nunca pido nada a cambio eso es algo que he aprendido
 D                                                   A
 yo siempre te dao los versos que tú nunca me has pedido
-Em                         A            F#/Bb    Bm     
-y cuidar de las estrellas puede ser un buen castigo. 
+Em                         A            F#/Bb    Bm
+y cuidar de las estrellas puede ser un buen castigo.
 G  D   A   Bm
 Ah ahh aah ahh
 Instrumwental
@@ -57,8 +56,8 @@ Em                       G              A    Bm
 Que te metes Don Quijote pa flipar con los molinos
      D                                      A
 los ojos como el coyote cuando ve al correcaminos
-Em                         A            F#/Bb    Bm     
-y cuidar de las estrellas puede ser un buen castigo. 
+Em                         A            F#/Bb    Bm
+y cuidar de las estrellas puede ser un buen castigo.
 G  D   A   Bm
 Ah ahh aah ahh
 G  D   A   Bm
@@ -66,5 +65,3 @@ Ah ahh aah ahh
 
 FINAL
 G A | Bm | G A | Bm (hasta el FINAL)
-
-

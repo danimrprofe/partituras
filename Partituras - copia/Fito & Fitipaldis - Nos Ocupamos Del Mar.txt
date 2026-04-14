@@ -1,18 +1,18 @@
-﻿FITO & FITIPALDIS 
+﻿FITO & FITIPALDIS
 NOS OCUPAMOS DEL MAR
 Fito & Fitipaldis
 Capo 2
 [INTRO PIANO]
 G D
 G C
-Em D 
+Em D
 C G/B Am G
- 
+
 [INTRO GUITARS]
 G D
 G C
 Em D G
- 
+
 G                D        B                   C
 Nos ocupamos del mar Y tenemos dividida la tarea
                   G                   D
@@ -45,4 +45,3 @@ B              C         D        G          G   D       Em
 Es cansado Por eso al llegar la noche Ella descansa a mi lado
         G   D         G
 Y mis manos en su costado
-

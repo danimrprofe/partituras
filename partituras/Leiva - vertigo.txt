@@ -1,14 +1,3 @@
-ALBUM: Pólvora
-AÑO: 2014
-
-CEJILLA/CAPO: 1
-
-Versión acústica:
-
-https://www.youtube.com/watch?v=w8Yakp5fh1E
-
-Palm mute con la eléctrica
-
 ESTROFA
 A        C#m   F#m     D
 Luces, vértigos, pequeña agonía,
@@ -34,8 +23,6 @@ Se ha roto algo por dentro, soy una historia mas en la ciudad
      E      F#m     E    D     A
 y yo se que tu también estas así
 
-
-
 ESTRIBILLO
          D            E              F#m         D
 No volveré a ser como antes, no volveré a ser igual,
@@ -52,5 +39,3 @@ porque la vida nos parte y yo me quiero soltar,
 no encuentro ni un instante de paz.
       Bm               E    D       A
 no encuentro ni un instaaanteee de paaaz
-
-

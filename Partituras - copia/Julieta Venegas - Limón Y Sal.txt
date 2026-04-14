@@ -1,10 +1,10 @@
-JULIETA VENEGAS 
+JULIETA VENEGAS
 LIMÓN Y SAL
 Capo 4 para tonalidad original
 
 INTRO
 C D Em D G A
-C D Em D A D 
+C D Em D A D
 
 ESTROFA
 G         D              C
@@ -31,7 +31,7 @@ C       D    Em
 Sólo tenerte cerca
  D                      G   D
 Siento que vuelvo a empezar
- 
+
 
 ESTRIBILLO
 G            D           Em
@@ -46,13 +46,13 @@ Yo te quiero si vienes o si vas
 Si subes y bajas y no estás
                   D
 Seguro, de lo que sientes
- 
- 
-[Bridge]
+
+
+PUENTE
 C D Em D G A
 C D Em D A D
- 
- 
+
+
 [Verse]
 G         D            C
 Tengo que confesarte ahora
@@ -68,10 +68,10 @@ Luego me vengo a encontrar
 Con tus ojos me dan algo más
 C      D      Em
 Solo tenerte cerca
- 
+
 D                       G    D
 Siento que vuelvo a empezar
- 
+
 
 ESTRIBILLO
 G            D           Em
@@ -85,8 +85,8 @@ Yo te quiero si vienes o si vas
            D            C
 Si subes y bajas y no estás
                   D
-Seguro, de lo que sientes 
- 
+Seguro, de lo que sientes
+
 G            D           Em
 Yo te quiero con limón y sal
              D            C
@@ -98,13 +98,12 @@ Yo te quiero si vienes o si vas
            D            C
 Si subes y bajas y no estás
                   D
-Seguro, de lo que sientes 
- 
+Seguro, de lo que sientes
+
 G D Em D C D
 C D Em D F# A
- 
+
     C      D    Em
 Con sólo tenerte cerca
 D                       G
 Siento que vuelvo a empezar.
-

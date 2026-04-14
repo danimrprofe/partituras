@@ -29,7 +29,7 @@ A    | A#   | C   | C
 F    | G    | C   | C
 A    | A#   | C   | C
 F    | G    | C   | C
-A    | A#   | C A#| A  G 
+A    | A#   | C A#| A  G
 C  A#| A  G |
 -----+------+-----+--------
 F    | A#   | C   | C
@@ -55,7 +55,7 @@ A    | A#   | C   | C
 F    | G    | C   | C
 A    | A#   | C   | C
 F    | G    | C   | C
-A    | A#   | C A#| A  G 
+A    | A#   | C A#| A  G
 C  A#| A  G |
 
 F

@@ -1,4 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
 
 
 ## Contigo
@@ -14,7 +13,6 @@ Y conseguir que todo el tiempo sea estar junto a ti
 Contigo, quiero estar contigo
      Dm                            F    E
 Y decirte que ya no puedo vivir sin ti.
-
 
    F     E      Am     G
 Y sólo quiero vivir contigo
@@ -51,7 +49,6 @@ Contigo, quiero estar contigo
      Dm                            F    E
 Y decirte que ya no puedo vivir sin ti.
 
-
    F     E      Am     G
 Y sólo quiero vivir contigo
    F      E      Am     G
@@ -73,5 +70,3 @@ Dm               Em          F              Em
 Siento cuando estás, y tú me das tu voz con esa fuerza
 Dm          Em          F
 Quiero oírte más tu voz gritar.
-
-

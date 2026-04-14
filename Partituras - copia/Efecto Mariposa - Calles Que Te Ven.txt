@@ -10,17 +10,17 @@ F#m                  B         E          A
 Y no es cuestión de raza. Sino de tener o no tener nada
 
 C#m  A              E  B           C#m
-De nada le sirven, lamentos pan y miel. 
-    A            E       B             
+De nada le sirven, lamentos pan y miel.
+    A            E       B
 Botellas de ron, y su cantar al anochecer
-C#m  A              E    G#m          C#m     
+C#m  A              E    G#m          C#m
 De nada le sirven, una mano que no es fiel.
 A            E             B
 Nada cambió, tiemblan las calles que te ven
 
 C#m A E B
 C#m A E B
-  
+
 N.C.                            E               A
 Sin dueño, un vivir sin calma. Sin tener propiedad privada
 F#m              B                E              A
@@ -33,7 +33,6 @@ Y no es cuestión de raza. Sino de tener o no tener nada.
 ESTRIBILLO
 F#m7   E            A  B
 Y no quisiera verte caer
- 
+
 
 ESTRIBILLO
-

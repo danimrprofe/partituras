@@ -3,9 +3,9 @@ REVÓLVER
 SIN CAPO
 
 INTRO
-G C D  G C D  
+G C D  G C D
 G C D  G C D (eléctrica)
-G C D  C D G D	
+G C D  C D G D
 
 ESTROFA
 G                   C          G
@@ -66,7 +66,7 @@ Tu rompiste en pedazos mis cimientos y mi fé.
 
 Instrumental
 
-G C D  G C D  
+G C D  G C D
 G C D  C D G C D G
 
 Am                         D
@@ -91,5 +91,3 @@ Ya no volveré a apostar por nadie Ya no volveré a ser como soy
 Ya no volveré a nuestra calle Ya no volveré a firmar mi rendición.
 C                D      G
 Ya no volveré a firmar mi rendición.
-
-

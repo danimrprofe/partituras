@@ -2,7 +2,7 @@
 
 Artista: M-Clan
 
-```
+
 [Verse 1]
 Dm
 Arenas movedizas cuchillos del revés
@@ -24,7 +24,7 @@ construir un muro alto para encerrarme dentro
                     Dm
 y tirar la llave al mar.
 
-**Estribillo**
+ESTRIBILLO
                      Bb     F
 Para que ya no me encuentreee
                     Bb   F
@@ -47,7 +47,7 @@ que se borren todas mis huellas y se inunde este lugar
 Gm                  Bb                   C
 en un lago de ceniza   poder ahogar esta pena
 
-**Estribillo**
+ESTRIBILLO
                      Bb     F
 Para que ya no me encuentreee
                     Bb   F
@@ -61,11 +61,11 @@ y no parar de correr
 D           C         G    A     A#   C    Dm
 olvidar la vida que soñé   eeee eeee eee eeee
 
-[Solo]
+SOLO
 Bm | A  | Dm | Dm
 Bb | Am | Dm | Dm
 
-**Estribillo**
+ESTRIBILLO
                      Bb     F
 Para que ya no me encuentreee
                     Bb   F
@@ -75,4 +75,3 @@ olvidar la vida que soñé   eeee eeee eee eeee
 
 Gm     Am    Bb  C
 Soñé   eeee eeee eee
-```

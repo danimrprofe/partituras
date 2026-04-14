@@ -1,7 +1,6 @@
 CEJILLA/CAPO: Capo 2
 
-
-Alannis Morrisset 
+Alannis Morrisset
 IRONIC
 Key: B
 Capo: Se recomienda Capo 2 (tonalidad A) o Capo 4 (tonalidad G)
@@ -22,7 +21,7 @@ It's a death row pardon two minutes to late
 Isn't it ironic...  don't you...  think
 
 ESTRIBILLO
-           D  G5         D       Em  
+           D  G5         D       Em
 It's like rain. On your wedding day
              D  G5            D        Em
 It's a free ride  when you've already paid
@@ -38,15 +37,15 @@ Mr. play it safe was afraid to fly
 He packed his suitcase and kissed his kids good-bye
                 D5/F#     G5           D5/F#      Em
 He waited his whole damn life just to take that flight
-             D5/F#        G5            
-And as the plane crashed down, he thought 
+             D5/F#        G5
+And as the plane crashed down, he thought
       D5/F#       Em
 "Well, isn't this nice"
            D5/F#  G5       D5/F#    Em
 Isn't it ironic...  don't you...  think
 
 ESTRIBILLO
-           D  G5         D       Em  
+           D  G5         D       Em
 It's like rain. On your wedding day
              D  G5            D        Em
 It's a free ride  when you've already paid
@@ -58,14 +57,14 @@ Who would've       thought... it figures
 PUENTE
       C7M                                D6(11)
 Well life has a funny way of sneaking up on you
-                                  
-When you think everything is okay 
+
+When you think everything is okay
       C7M                    D6(11)
 And everything's going right
      C7M                                D6(11)
 And life has a funny way of helping you out when
-                                   
-You think everything's gone wrong 
+
+You think everything's gone wrong
       C7M
 And everything blows up in your face
 
@@ -85,7 +84,7 @@ Isn't it ironic...  don't you...  think
 A little too ironic... yeah I really do think
 
 ESTRIBILLO
-           D  G5         D       Em  
+           D  G5         D       Em
 It's like rain. On your wedding day
              D  G5            D        Em
 It's a free ride  when you've already paid
@@ -95,5 +94,3 @@ It's the good advice  that you just didn't take
 Who would've       thought... it figures
 
 ( C7M  D6(11)  C7M )
-
-

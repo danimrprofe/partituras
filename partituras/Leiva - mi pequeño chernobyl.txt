@@ -2,6 +2,7 @@
 INTRO
 G | Bm | Em | Em
 G | Bm | Em | Em
+
 ESTROFA
 G           Bm              Em
 Soñaba con dar un bocado al mundo
@@ -16,6 +17,7 @@ C                         A
 Reírnos a morir, hasta agotar los argumentos
      G            G/F          C
 Desafiando los manuales de la fama y los excesos
+
 PRE-ESTRIBILLO
      Cm
 Solo es humo y nada más
@@ -31,7 +33,6 @@ La gloria enferma de los que quieren reinar, reinar
 Reinar el cielo…
 
 ESTRIBILLO
-
 G          D            Am          C
 Y no me da tregua mi Pequeño Chernóbil
 G          D             Am    C
@@ -89,9 +90,6 @@ Solo pretendo aprender a vivir con ello
 Solo pretendo aprender a vivir con ello
 FINAL
 G        Bm     Em           C           G        Bm     Em
-¿Qué vendrá después? De los años muertos ¿Que vendrá después?
+¿Qué vendrá después? De los años muertos ¿Qué vendrá después?
 G        Bm     Em           C           G        Bm     Em
-¿Qué vendrá después? De los años muertos ¿Que vendrá después?
-
-
-
+¿Qué vendrá después? De los años muertos ¿Qué vendrá después?

@@ -1,15 +1,15 @@
-
-**Intro**
+INTRO
 
 G Em D C
 
 [Estrofa]
 
        G
+
 Antes de que amaneciera,
-        Em
+Em
 salí huyendo de tu cama
-         D
+D
 en tu espejo un testamento,
 C
 No nos queda nada.
@@ -17,81 +17,87 @@ No nos queda nada.
 [Estrofa]
 
       G
+
 Deje tu barra de labios,
-      Em
+Em
 y con ella un par de años.
-       D
+D
 De quererte por las tardes,
-      C
+C
 de mañanas sin llamarte.
 
 [Estribillo]
 
         C
+
 Tú me enseñas que,
-       D
+D
 se puede querer,
-        G
+G
 lo que no ves.
 
 [Estrofa]
 
       G
+
 Tropezamos de repente,
-        Em
+Em
 como en un nuevo 11S.
-     D
+D
 Sonreíste a quema ropa,
-           C
+C
 contra el filo de mi boca.
 
 [Estrofa]
 
         G
+
 Y susurraste que el pasado,
-        Em
+Em
 solo es como un día malo.
-       D
+D
 Y la lluvia abrió las puertas,
-       C
+C
 de mi vida en tu Ford Fiesta.
 
 [Estribillo]
 
         C
+
 Tú me enseñas que,
-       D
+D
 se puede querer,
-        G
+G
 lo que no ves.
 
 [Preestribillo]
 
 C
- No consigo recordar,
-                  Am
+No consigo recordar,
+Am
 porque motivo me fui,
-        Em
+Em
 pero en tu cuarto de baño,
-       D
+D
 sigue tu rojo de labios.
 
 C
- No consigo recordar,
-                         Am
+No consigo recordar,
+Am
 como he llegado hasta aquí,
-     Em
+Em
 solo sé que estoy borrando,
-           D
+D
 lo que un día te hizo daño.
 
 [Estribillo]
 
         C
+
 Tú me enseñas que,
-      D
+D
 se puede querer,
-       G
+G
 lo que no ves.
 
 [Interludio]
@@ -101,89 +107,95 @@ G Em D C
 [Estrofa]
 
                  G
+
 Siempre fui poniendo parches,
-           Em
+Em
 negando segundas partes.
-                D
+D
 Hasta que me demostraste,
-         C
+C
 que no quiero olvidarte.
 
 [Estribillo]
 
         C
+
 Tú me enseñas que,
-      D
+D
 se puede querer,
-       G
+G
 lo que no ves.
 
 [Preestribillo]
 
 C
- No consigo recordar,
-                  Am
+No consigo recordar,
+Am
 porque motivo me fui,
-        Em
+Em
 pero en tu cuarto de baño,
-       D
+D
 sigue tu rojo de labios.
 
 C
- No consigo recordar,
-                         Am
+No consigo recordar,
+Am
 como he llegado hasta aquí,
-     Em
+Em
 solo sé que estoy borrando,
-           D
+D
 lo que un día te hizo daño.
 
 [Estribillo]
 
         C
+
 Tú me enseñas que,
-      D
+D
 se puede querer,
-       G
+G
 lo que no ves.
 
 [Preestribillo]
 
 C
- No consigo recordar,
-                  Am
+No consigo recordar,
+Am
 porque motivo me fui,
-        Em
+Em
 pero en tu cuarto de baño,
-       D
+D
 sigue tu rojo de labios.
 
 C
- No consigo recordar,
-                         Am
+No consigo recordar,
+Am
 como he llegado hasta aquí,
-     Em
+Em
 solo sé que estoy borrando,
-           D
+D
 lo que un día te hizo daño.
 
 [Estribillo]
 
          C
+
 Tú me enseñas que,
-       D
+D
 se puede querer,
-        G
+G
 lo que no ves
 
          C
+
 Tú me enseñas que,
-       D
+D
 se puede querer,
-        G
+G
 lo que no ves
 
          C
+
 Tú me enseñas que,
-       D
+D
 se puede querer,

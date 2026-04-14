@@ -1,4 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
 
 
 **************************************************
@@ -22,7 +21,7 @@ A | - | F  | -
 C | - | G  | -
 A | - | F  | -
 
-D | - | G | - 
+D | - | G | -
 E | - | A | -
 F | - | G | -
 
@@ -30,7 +29,7 @@ ESTRIBILLO
 C  | G  | F | G
 C  | G  | F | G
 A  | G  | F | D
-G  | -  | F | G 
+G  | -  | F | G
 
 ESTROFA
 C | - | G  | -
@@ -38,7 +37,7 @@ A | - | F  | -
 C | - | G  | -
 A | - | F  | -
 
-D | - | G | - 
+D | - | G | -
 E | - | A | -
 F | - | G | -
 
@@ -46,12 +45,12 @@ ESTRIBILLO
 C  | G  | F  | G
 C  | G  | F  | G
 A | G | F|  D
-G | - |F | G 
+G | - |F | G
 
-C - - - 
+C - - -
 E - B -
 
-D | - | G | - 
+D | - | G | -
 E | - | A | -
 F | - | G | -
 
@@ -59,7 +58,6 @@ ESTRIBILLO
 C | G | F | G
 C | G | F | G
 A | G | F | D
-G | - | F | G 
+G | - | F | G
 
 C
-

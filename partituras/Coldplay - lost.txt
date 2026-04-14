@@ -1,5 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
-
 
 
 when you get to the first D in the chorus, try to play around
@@ -17,12 +15,9 @@ D|--------------|------------------|
 A|--------------|------------------|
 E|--------------|------------------|
 
-
-
 INTRO
 
  Em7   C   G   D     x2
-
 
 ESTROFA 1
 
@@ -35,7 +30,6 @@ Doesn't mean I'll stop
         D            Em7     C   G  D
 Doesn't mean I would cross
 
-
 ESTROFA 2
 
 Em7              C         G
@@ -46,7 +40,6 @@ Doesn't mean I'm hurt
 Doesn't mean I didn't get what I deserved
    D             Em7     C   G
 No better and no worse
-
 
 ESTRIBILLO
 
@@ -68,7 +61,6 @@ D|--------------|------------------|
 A|--------------|------------------|
 E|--------------|------------------|
 
-
 ESTROFA 3
 
 Em7             C         G
@@ -79,7 +71,6 @@ In a little pond
 Doesn't mean you've won
         C        G      D      Em7     C      G
 'Cause along may come a bigger one
-
 
 ESTRIBILLO
 
@@ -105,7 +96,6 @@ D|--------------|------------------|
 A|--------------|------------------|
 E|--------------|------------------|
 
-
 SOLO
 
 Em7+   C+   D+   Bm+     x4
@@ -116,7 +106,6 @@ G|-9-9-9-----------------------------------------------|
 D|-----------------------------------------------------|    x4
 A|-----------------------------------------------------|
 E|-----------------------------------------------------|
-
 
 OUTRO
 
@@ -136,7 +125,6 @@ G|-5--7---------|--4--5------------|
 D|--------------|------------------|
 A|--------------|------------------|
 E|--------------|------------------|
-
 
 Em7   C   G   D      |clearly two times
 Em7   C   G          |and then fading

@@ -3,7 +3,7 @@ CEJILLA/CAPO: Capo 0
 REVOLVER - EL PELIGRO
 REVÓLVER
 INTRO
- 
+
 
 ESTROFA
      D                          D/C#   Bm
@@ -14,7 +14,7 @@ El peligro es no saber a donde ir
 El peligro es no encontrar jamás tu sitio
      Em                        G
 Y sentir que ya llegaste sin salir
- 
+
 
 ESTROFA
      D                    D/C#   Bm
@@ -27,7 +27,7 @@ Y te ata de las manos, mientras graba en tu pellejo
 Una cifra, una letra y a volar
     Em         A           D    G A
 Una cifra, una letra y a volar
- 
+
 
 ESTRIBILLO
     D                 Em        Asus   A
@@ -40,11 +40,11 @@ Yo lo soy y no me importa confesar que más que nadie
 Pero aquí ¿Quién no es cobarde por amor?
       Em                 A          D
 Pero aquí ¿Quién no es cobarde por amor?
- 
+
 INSTRUMENTAL
 
 D  Bm  Em  G
- 
+
 
 ESTROFA
      D                 D/C#     Bm
@@ -57,7 +57,7 @@ Comprobar que en casa ya no espera nadie
 Y que no hay nadie a quien puedas esperar
       Em                   A          D    G A
 Y que no hay nadie a quien puedas esperar
- 
+
 
 ESTRIBILLO
     D                 Em        Asus   A
@@ -70,10 +70,10 @@ Yo lo soy y no me importa confesar que más que nadie
 Pero aquí ¿Quién no es cobarde por amor?
       Em                 A          G
 Pero aquí ¿Quién no es cobarde por amor?
- 
+
 INSTRUMENTAL
 G  Em  Am  C
- 
+
 
 ESTROFA
      G               D/F#         Em
@@ -86,7 +86,7 @@ Y el valor se te hace escarcha y el aire explota y amarga
 En tu pecho por la mujer que se va
       Am           D           G   C   D
 En tu pecho por la mujer que se va
- 
+
 
 ESTRIBILLO
     G                 Am        D
@@ -97,7 +97,7 @@ Pero todos somos carne de cañón
 Yo lo soy y no me importa confesar que más que nadie
       Am                            D
 Pero aquí ¿Quién no es cobarde por amor?
- 
+
     G                 Am        D
 Y correr dicen que es cosa de cobardes
      G           Am         D
@@ -108,5 +108,5 @@ Yo lo soy y no me importa confesar que más que nadie
 Pero aquí ¿Quién no es cobarde por amor?
       Am                 D          G
 Pero aquí ¿Quién no es cobarde por amor?
- 
+
 FINAL

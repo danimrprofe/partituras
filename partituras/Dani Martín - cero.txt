@@ -1,8 +1,6 @@
-CEJILLA/CAPO: Sin cejilla
 
 
 ## Cero
-
 
 B                       C#m7
 Todo lo que vimos se nos fue
@@ -38,7 +36,6 @@ Que todo vuelva a girar
 Que todo venga de cero
           F#
 De cero...
-
 
        B                     F#
 Y quiero que todo vuelva a sonar
@@ -84,8 +81,6 @@ Que todo venga de cero
       F#
 De cero...
 
-
-
       B                      F#
 Y quiero que todo vuelva a sonar
                       C#m
@@ -106,9 +101,7 @@ Que todo se va consumiendo
                         F#
 Y el silencio manda hoy más
 
-
 ESTRIBILLO      (termina en B)
 
 Con cejilla en el segundo traste:
 B : A // F# : E // C#m : Bm // E : D // G#m : F#m
-

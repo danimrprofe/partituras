@@ -1,4 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
 
 
 INTRO
@@ -10,7 +9,7 @@ A contracorriente, a contracorriente
 
 A D E
 A D E
- 
+
 ESTROFA
 A           B        C#      B      A B C# B
 Todo lo que hacía ese día me salía muy mal
@@ -22,7 +21,7 @@ B                C#                     D
 Quiero volver a sentir. Escuchar solo tu voz.
                         E
 Que me diga aquello que todas las mañanas repetía en sueños.
- 
+
 ESTRIBILLO
      A                  Bm                  D
 Si salgo y te busco y no veo el momento me asusto,
@@ -38,7 +37,7 @@ Te vuelvo a buscar
 Sentir que nadie me escucha
 D                         E
 Escondo mis palabras me vuelvo a la ducha.
- 
+
 ESTROFA
 A              B             C#           B      A B C# B
 Ahora y desde entonces nunca nadie me ha vuelto a engañar
@@ -46,12 +45,12 @@ A             B          C#      B         A B C# B
 Perdí todo o dado y nunca más lo voy a recuperar
 A              B       C#      B      A B C# B
 El canto del loco tiene eso que tú no tenías.
- 
+
 B                C#                     D
 Quiero volver a sentir. Escuchar solo tu voz.
                         E
 Que me diga aquello que todas las mañanas repetía en sueños.
- 
+
 ESTRIBILLO
      A                  Bm                  D
 Si salgo y te busco y no veo el momento me asusto,
@@ -67,10 +66,10 @@ Te vuelvo a buscar
 Sentir que nadie me escucha
 D                         E
 Escondo mis palabras me vuelvo a la ducha.
- 
+
 INSTRUMENTAL
 A B D E
- 
+
 OUTRO
 A     B          D     E
 A contracorriente, a contracorriente
@@ -83,4 +82,3 @@ A contracorriente, A contracorriente.
 N.C.
 A contracorriente, A contracorriente.
 -----+------+-----+--------
-

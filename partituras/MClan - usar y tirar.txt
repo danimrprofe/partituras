@@ -1,6 +1,6 @@
 # Usar y tirar
 
-```
+
 
 E E A E
 
@@ -51,7 +51,6 @@ un antiguo amor
       B        A
 que no conseguí.
 
-
 E
 No hagas mucho caso al sermón,
                            A
@@ -60,7 +59,6 @@ E
 compra tres botellas de Ron,
 C#m                     B
 el tiempo nos dará la razón.
-
 
                C#m
 Si hemos de cambiar,
@@ -72,4 +70,3 @@ no veo la razón,
 siempre nos gustó
 B        A
 usar y tirar
-```

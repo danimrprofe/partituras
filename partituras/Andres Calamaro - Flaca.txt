@@ -1,7 +1,6 @@
-CEJILLA/CAPO: Sin cejilla
 
 
-ANDRES CALAMARO 
+ANDRES CALAMARO
 FLACA
 
 G            B7           Em               C
@@ -65,12 +64,6 @@ SOLO G  B7  EM  C
              G  B7  Em  C
              G  D  G  D
 
-
-
-
 2
 
-
 2
-
-

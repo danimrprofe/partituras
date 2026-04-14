@@ -10,13 +10,13 @@ CEJILLA/CAPO: Capo 0
 LEYENDA / NOTAS ADICIONALES:
 (Acordes e información adicional)
 ================================================================================
-SOPA DE CABRA 
+SOPA DE CABRA
 CAMINS
 SOPA DE CABRA
 Cejilla en traste 4
 
 INTRO
-D Dsus2 D Dsus2 
+D Dsus2 D Dsus2
 
 ESTRIBILLO
 D*                     Am*    D*                       Am*
@@ -33,7 +33,7 @@ D*                                 Am*
 Érem dos ocells de foc sembrant tempestes;
 G                                      D*
 ara som dos fills del sol en aquest desert.
- 
+
 
 PUENTE
 Am                C           G          D*

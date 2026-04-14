@@ -1,7 +1,6 @@
-CEJILLA/CAPO: Sin cejilla
 
 
-FITO & FITIPALDIS 
+FITO & FITIPALDIS
 SOBRA LA LUZ
 
 ESTROFA
@@ -36,10 +35,8 @@ Cuando más tratas de olvidarlo con más fuerza lo recuerdas
 ESTRIBILLO
 INSTRUMENTAL
 Am Dm E7 Am x2
-F Am E7 - 
+F Am E7 -
 HASTA FINAL
 Am                        Dm            E                  Am
 Como venganza de la buena suerte. O recompensa de la mala vida
 Am Dm E7 Am
-
-

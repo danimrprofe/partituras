@@ -1,134 +1,134 @@
-
 ![](img/2021-04-13-14-55-12.png)
 
-##  Que hay más allá
+## Que hay más allá
 
 - Artista: María Parrado
 - Película musical: Vaiana
 - Fecha de lanzamiento: 2016
 
- | Tonalidad | Tempo  | Compás | Capo |
- | --------- | ------ | ------ | ---- |
- | Mi mayor  | 84 bpm | 4/4    | No   |
+| Tonalidad | Tempo  | Compás | Capo |
+| --------- | ------ | ------ | ---- |
+| Mi mayor  | 84 bpm | 4/4    | No   |
 
-
-
-**Estrofa**
-E                               B/F#                     C#m
+ESTROFA
+E B/F# C#m
 He buscado siempre aquí una respuesta, Esperando en la orilla
-                    Asus2
+Asus2
 Y no sé muy bien por qué,
- E                         B/F#                       C#m
+E B/F# C#m
 Sólo quiero ser la hija perfecta, Pero regreso a la orilla,
-                      Asus2
+Asus2
 no hay nada que pueda hacer.
 
 PUENTE
-      C#m                           B/D#
+C#m B/D#
 Cada amanecer, cada sensación, Cada atardecer, al caer el sol,
-           E                                 Am6
+E Am6
 Vuelvo a imaginar que hay algún lugar donde debo ir...
 
-**Estribillo**
+ESTRIBILLO
 
        E                                B/D#
+
 Veo la línea entre el cielo y el mar en frente,
-       C#m                 A
+C#m A
 ¿quién sabrá si hay más allá?
-          E                         B/D#
+E B/D#
 Y si el viento que sopla de cola es fuerte
-      C#m
+C#m
 Me llevará,
-      Am6                         E
+Am6 E
 Si me voy un mundo nuevo descubriré.
 PUENTE
 B C#m A
-**Estrofa**
-                           B/D#                       C#m
+ESTROFA
+B/D# C#m
 Ya sé que aquí todos en la isla piensan que son muy felices,
-                   A
+A
 Todos se dejan llevar,
-E                             B/D#
+E B/D#
 Sé que todo el mundo en esta isla,
-                  C#m
+C#m
 Tiene un sitio concreto,
-             C#m/B  A
+C#m/B A
 Todos tienen su lugar.
 PUENTE
-      C#m
+C#m
 Puedo liberar, con fuerza y pasión,
-       B/D#
+B/D#
 Lo puedo intentar, seguiré en mi rol,
-     E
+E
 Pero esa voz canta otra canción,
-        Am        Am6
+Am Am6
 ¿que me pasa a mí?
 
-**Estribillo**
+ESTRIBILLO
 
        E                                B/D#
+
 Hoy la línea entre el cielo y el mar me ciega,
-         C#m               A
+C#m A
 ¿quien sabrá si hay más allá?
-    E                                  B/D#
+E B/D#
 Y parece llamarme desde allí con gran fuerza,
-       C#m                       Am                Am6
+C#m Am Am6
 Aquel lugar, que hay detrás del sol allí quiero ir yo.
 
        F                                  C
+
 Hoy la línea entre el cielo y el mar me llama,
-           Dm             A#
+Dm A#
 Y ¿quien sabrá, a donde irá?
-          F                          C
+F C
 Y si el viento que sopla de cola me lleva,
-            Dm   Dm/C            G#
+Dm Dm/C G#
 Sabré al final yo que hay más alláa
 estás justo frente a un semidios.
 
-**Estribillo**
+ESTRIBILLO
 
-Am            F            C
+Am F C
 ¿Qué puedo decir? Solo «de nada»
-        E7               Am
+E7 Am
 por el cielo, el mar y el sol.
-                F            C
+F C
 No hay de qué, está bien, de nada;
-     E7                    C
+E7 C
 soy sólo un tipo cachas muy normal.
 
-**Estrofa**
-C                                F/C
+ESTROFA
+C F/C
 ¡Hey! ¿Quién levantó el cielo con su pulgar
-                        A#
+A#
 cuándo ni caminabais? ¡El menda!
-C                  C
+C C
 Cuándo el frío llegó,
-                  F/C
+F/C
 ¿quién piensas que el fuego robó?
-       A#
+A#
 ¡Lo tienes delante!
 
-C                           F/C
+C F/C
 ¡Oh! También cacé un día el sol–de nada-
-          A#                    C
+A# C
 para darte luz y calor.
-          C       F/C
+C F/C
 El viento también domé –¡de nada!-
-   A#           C
+A# C
 y así los barcos impulsé.
 
-**Estribillo**
-Am            F            C
+ESTRIBILLO
+Am F C
 ¿Qué puedo decir? Solo «de nada»
-        E7                  Am
+E7 Am
 por las islas que hice emerger
-              F                  C
+F C
 por las islas que hice emerger
-         E7                     Am
+E7 Am
 para que podáis vivir –de nada-. ¡Ja
-    F        C
+F C
 ¡De nada! De nada.
-    C
+C
 de nada
 [Rap]
 Bien, piénsalo un poco...
@@ -145,7 +145,6 @@ C
 ¿Cuál es el punto? Aprende la lección:
 ojo con Mauí si ves que está en plena acción.
 
-
 Am
 Y el tapiz que he pintado en mi piel
 F
@@ -157,83 +156,82 @@ Mira, aquí hay un mini-Mauí bailando claqué.
 
 Ja, ja, ja, ja, ja, ja. ¡Ey!
 
-**Estribillo**
+ESTRIBILLO
 
-Am          F              C
+Am F C
 Deja que diga otra vez «de nada» (de nada)
-           E7              Am
+E7 Am
 por crearos un mundo así.
-                 F           C
+F C
 No hay de qué, está bien, de nada (de nada).
-    E7                     Am
+E7 Am
 Medítalo muy bien, te digo adiós.
 
           F            C
+
 Te toca a ti decir «de nada» (de nada),
-       E7             Am
+E7 Am
 pues en tu barco me voy.
-             F          C
+F C
 Muy lejos navegaré –de nada (de nada)-,
-E7                            Am
+E7 Am
 todo menos flotar puedo hacer yo.
 FINAL
-              F/C
+F/C
 (De nada) De nada
-              C
+C
 (De nada) de nada
-             C
+C
 Y gracias!
-
-
 
 ## Brillante
 
- | Tonalidad | Tempo  | Compás | Capo |
- | --------- | ------ | ------ | ---- |
- | Do mayor  | 73 bpm | 4/4    | No   |
+| Tonalidad | Tempo  | Compás | Capo |
+| --------- | ------ | ------ | ---- |
+| Do mayor  | 73 bpm | 4/4    | No   |
 
-**Estrofa**
-Em        Am
-   Hace tiempo no tenía este
-    Em    Am
-glamour  Fui un cangrejito muy soso...
-Em       Am
-  Pero ahora estoy feliz y en
-      Cm          Am7b5
+ESTROFA
+Em Am
+Hace tiempo no tenía este
+Em Am
+glamour Fui un cangrejito muy soso...
+Em Am
+Pero ahora estoy feliz y en
+Cm Am7b5
 plenitud, Porque soy muy bello, nena.
 
-Em       Am
-  Tu corazón tu abuela te hizo
-     Em             Am
+Em Am
+Tu corazón tu abuela te hizo
+Em Am
 escuchar. Sé cómo eres por dentro.
-Em         Am
-  Ese argumento yo lo voy a
-    Cm            Am7b5
+Em Am
+Ese argumento yo lo voy a
+Cm Am7b5
 desmontar, Ella mintió. Mejor ser:
 
-**Estribillo**
+ESTRIBILLO
 
      G            C
+
 ¡Brillante! Cual tesoro de un navío que se
-    G         C
+G C
 hundió. La cubierta tengo
-     G           C
+G C
 ¡Brillante! Igualito que un collar de un
-    D
+D
 millón ¡Un segundo! ¿Sabes que...
 
-
-Em                   C
+Em C
 ...Los peces tontos son:
-                          Em
+Em
 Buscan siempre algo brillante.
-      C    D
+C D
 ¡Principiantes!
-Em                   C
+Em C
 Oh Y van sin ton ni son
-                      Am
+Am
 Hacia aquello más radiante.
-           D
+D
 ¡Mmm qué rico!
 Eb
 Ven, pescadito (pescadito)
@@ -242,71 +240,74 @@ con vestidito (¡pescadito!)
 **Descanso**
 
 ¡Vaya, vaya,
-Em       Am
+Em Am
 vaya...! Maui tiene, con su aspecto, un
-      Em           Am
+Em Am
 problemín. Pequeño semi-mini-mini-dios.
-Em                   Am
- ¡Auch! ¡Qué espectáculo terrible!¡Ven
- Cm               D
+Em Am
+¡Auch! ¡Qué espectáculo terrible!¡Ven
+Cm D
 aquí! Vale. El anzuelo grande ya te
 
-Em         Am
+Em Am
 va. Sin embargo algo te he de
-Em                    Am
+Em Am
 agradecer, Y a los tatoos de tu cuerpo,
-Em           Am
- Pues yo también de mí una obra de arte
-  Cm            Am7b5
+Em Am
+Pues yo también de mí una obra de arte
+Cm Am7b5
 creé. ¿O no lo ves? Yo soy muy
 
-**Estribillo**
-
+ESTRIBILLO
 
       G           C
+
 ¡Brillante! Yo reluzco cual diamante o cual
-   G       C        D
+G C D
 rubí, Soy así, un tipo
-     G              C
+G C
 ¡Brillante! Ni un ejército me haría
-     Am              D
+Am D
 sucumbir. Me basto a mí. Maui, tío...
 
-Em               C
-  Lo puedes intentar,
-                    Am                    D
+Em C
+Lo puedes intentar,
+Am D
 Pero nunca antes un semi-dios Ganó a un decápodo.¡Míralo!
-Em              C
-  Tú ahora morirás,
-                  Am           D
+Em C
+Tú ahora morirás,
+Am D
 Yo te sacaré con precisión Tu corazón.
-**Puente**
+PUENTE
 
-Eb         Bb                  Eb
+Eb Bb Eb
 Lejos de aquellos que te abandonaron
-Bb              Eb             Bb
+Bb Eb Bb
 Buscaste entre humanos amor y cariño.
- C            Dm
+C Dm
 Muy duro te crees,
-         Eb            F
+Eb F
 Pero tu coraza frágil es.
 
 Bb
 ¡Maui!
-              G#
+G#
 ¡Ahora voy a patearte! ¿Viste a alguien tan...
 
-**Estribillo**
+ESTRIBILLO
 
        G          C
+
 ...Brillante? Lo último que tú verás será a
-G             C         F
+G C F
 mí. C'est la vie, mon ami...
-          G         Am
+G Am
 ¡Soy brillante! Un deseo antes de comerte
-    G         D
+G D
 pedirás. ¡Morirás!
+
 ## Final
+
 Eb
 Jamás serás tan radiante,
 Eb

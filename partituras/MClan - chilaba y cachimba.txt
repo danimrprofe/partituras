@@ -2,7 +2,7 @@
 
 Artista: M-Clan
 
-```
+
 E
 Brillante cirujano, con brillante porvenir,
 deslumbrado por el brillo, "acabao" por el anís.
@@ -24,9 +24,9 @@ casarme con cuatro mujeres
   B
 y fumar mejor hachís.
 
-```
-**Estribillo**
-```
+
+ESTRIBILLO
+
 
       A            E
 Oh, Adiós mundo cruel,
@@ -50,9 +50,9 @@ que nadie malinterprete
      B
 pero hay que sobrevivir.
 
-```
-**Estribillo**
-```
+
+ESTRIBILLO
+
 
       A            E
 Oh, Adiós mundo cruel,
@@ -101,4 +101,3 @@ colgar el batín,
 cambiar bisturí
                 E    C#
 por chilaba y cachimba.
-```

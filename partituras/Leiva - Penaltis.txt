@@ -1,13 +1,7 @@
-
-ALBUM: Diciembre
-AÑO: 2012
-
-**Información**
-
-
 INTRO
 A E/G# | E  | B | C#m
 A      | E  | B
+
 ESTROFA
            E                      B
 No era la luz del Sol, no era mi fantasía.
@@ -19,7 +13,6 @@ No había sensación de malestar aquel día.
 A                      E
 No era tu intención joderme la vida.
 
-
 E                      B
 Las cosas fáciles se vuelven tan difíciles
 A                     E
@@ -28,7 +21,6 @@ E                     B
 Las sensaciones son claraaaaas,
             A            E
 ¡Mamá, me vuelvo a casa con los demás!
-
 
 C#m                A             E                  B
 Era el aliento lo único que cabía entre nosotros dos,
@@ -50,8 +42,6 @@ No me diste plantón, ni calidad de vida,
 A                 E
 fuimos portada a los pocos días.
 
-
-
 E                      B
 Las cosas fáciles se vuelven tan difíciles
 A                     E
@@ -62,6 +52,3 @@ Las previsiones son malas
 ¡Mamá, me vuelvo a casa con los demás!
 
 **Repite estribillo**
-
-
-

@@ -1,8 +1,3 @@
-CEJILLA/CAPO: Capo 0
-
-ENGLISHMAN IN NEW YORK
-Sting
-
 ESTROFA
 Em               A          Bm          A
 I don't drink coffee I take tea my dear
@@ -12,7 +7,7 @@ Em          A               Bm
 And you can hear it in my accent when I talk
 A       Em            A     Bm   A
 I'm an Englishman in New York
- 
+
 Em       A            Bm         A
 See me walking down Fifth Avenue
 Em         A               Bm   A
@@ -21,7 +16,7 @@ Em         A               Bm   A
 I take it everywhere I walk
 Em                A       Bm   A
 I'm an Englishman in New York Woo-ooh
- 
+
 
 ESTRIBILLO
 Em      A    Bm
@@ -32,7 +27,7 @@ Em      A    Bm
 I'm an alien   I'm a legal alien
 A        Em        A      Bm   A
 I'm an Englishman in New York
- 
+
 
 ESTROFA
 Em                A                 Bm   A
@@ -48,7 +43,7 @@ ESTRIBILLO
 Em      A    Bm
 I'm an alien   I'm a legal alien
 A        Em        A        Bm   A
-I'm an Englishman in New York   Woo-ooh 
+I'm an Englishman in New York   Woo-ooh
 Em      A    Bm
 I'm an alien   I'm a legal alien
 A        Em        A      Bm   A
@@ -63,11 +58,9 @@ You could end up as the only one
 Gentleness, sobriety are rare in this society
   A#dim7                             Bm
 At night a candle's brighter than the sun
- 
-Instrumental
 
+Instrumental
 Em   A   Bm  A  x4
- 
 
 ESTROFA
 Em                A                   Bm   A
@@ -78,7 +71,7 @@ Em                A                Bm
 Confront your enemies, avoid them when you can
 A       Em         A             Bm   A
 A gentleman will walk but never run
- 
+
 Em                A                 Bm   A
 If, "Manners maketh man" as someone said
 Em            A           Bm   A

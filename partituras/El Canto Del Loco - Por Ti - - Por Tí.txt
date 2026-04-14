@@ -1,12 +1,10 @@
 CEJILLA/CAPO: Capo 3
 
-
 Artista:	El Canto del loco
 Disco:		Zapatillas, 2005
 Canción:	Por tí
 Afinación: 	Eb Ab Db Gb Bb Eb
 =========
-
 
 Am                                     Dm
    siempre estado pensando como agradecerte
@@ -16,7 +14,7 @@ F                                 Dm
    haberme regalado todo lo que tienes
        G       Am   Asus2
  si es asi, es asi
- 
+
 Am                                    Dm
    Has perdido tu tiempo por mis ilusiones,
 G                                       C     Dadd4
@@ -25,7 +23,7 @@ F                                        Dm
    por buscarme un lugar donde fuera valiente
               G              Am   Asus2
    para ser feliz,  conmigo mismo
- 
+
              F                 G                   C
 por ti lucharè, por todo el cariño que has puesto conmigo
               F                G              C
@@ -54,5 +52,3 @@ y por tu calor y por tanta magia me quedo contigo
 y por tu calor y por tu carisma te llevo conmigo
  Am       Asus2
 Te llevo conmigo. Te llevo conmigo
-
-

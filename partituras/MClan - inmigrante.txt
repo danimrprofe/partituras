@@ -1,10 +1,10 @@
 # Inmigrante
 
-```
+
 G D/F# Em D chord sequence at end of chorus parts can also be played
 as single notes, G F# E D
 
-**Intro**
+INTRO
 | Bm   |(Bm)  | x2
 
 [Verse 1]
@@ -22,7 +22,7 @@ oigo llamadas de voces del ayer
   G   Em              Bm
 y no, yo no llego a tiempo.
 
-**Estribillo**
+ESTRIBILLO
 Em
 Hoy encontré todas las ventanas rotas
 D
@@ -45,7 +45,7 @@ dejé mi alma por todos lados
     G      Em          Bm
 se fue, se fue desmenuzando.
 
-**Estribillo**
+ESTRIBILLO
 Em
 Hoy encontré todas las ventanas rotas
 D
@@ -60,11 +60,11 @@ hoy soy aquí solo un extranjero más
    F#          G D/F#   Em D   Bm
 un inmigrante del desaliento - o.
 
-[Solo]
+SOLO
 | G    | D    | F#   | Bm   | x3
 | G    | D    | F#   | F#   |
 
-**Estribillo**
+ESTRIBILLO
 Em
 Hoy encontré todas las ventanas rotas
 D
@@ -79,12 +79,11 @@ hoy soy aquí solo un extranjero más
    F#          G  D/F# Em    D      Bm
 un inmigrante de - el  desaliento - o.
 
-**Instrumental**
+INSTRUMENTAL
 | G    | D    | F#   | Bm   | x4
 
-[Solo]
+SOLO
 | G    | D    | F#   | Bm   | x3
 | G    | D    | F#   | Bm
                 rit.
 X
-```

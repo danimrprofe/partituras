@@ -1,7 +1,6 @@
 CEJILLA/CAPO: Capo 2
 
-
-REVOLVER 
+REVOLVER
 TU CANCIÓN
 
 ESTROFA
@@ -13,11 +12,11 @@ Yo no estoy y no me importa estarlo mucho más aún,
 Pues quizás un día de estos alguien vibre con mi voz
       F                       C
 Y por fin tendrá sentido mi canción.
- 
+
 
 ESTRIBILLO
 C    G/B      Am     Am/G        C      G/B      Am     Am/G
-    uooooh oooooh         mi canción    uooooh oooooh     
+    uooooh oooooh         mi canción    uooooh oooooh
 
 ESTROFA
         C           G/B              Am    Am/G
@@ -31,7 +30,7 @@ Y por fin tendrá sentido mi canción.
 
 ESTRIBILLO
 C    G/B      Am     Am/G        C      G/B      Am     Am/G
-    uooooh oooooh         mi canción    uooooh oooooh     
+    uooooh oooooh         mi canción    uooooh oooooh
 
 ESTROFA
         C           G/B              Am     Am/G
@@ -44,9 +43,7 @@ que la fuerza os acompañe, buena suerte y recordad
 que sin vosotros no hay cantante ni canción.
 
 ESTRIBILLO
- 
+
 C    G/B      Am     Am/G
     uooooh oooooh         ni canción x4
 C
-
-

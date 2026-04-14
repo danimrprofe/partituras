@@ -1,4 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
 
 
 Artista:	El Canto del loco
@@ -35,8 +34,3 @@ C    | E    | A   | G
 C    | G    | A   | G (EST)
 C    | E    | A   | G
 -----+------+-----+--------
-
-
-
-
-

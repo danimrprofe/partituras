@@ -5,7 +5,7 @@ AÑO: 2016
 - Para el acorde D, jugar a poner el dedo 4 en traste 3 de primera cuerda.
 
 INTRO
-G Cadd9 
+G Cadd9
 
 ESTROFA
            G                      Cadd9
@@ -25,7 +25,6 @@ para siempre doblada una pagina
 cuando ya no esté esperando nunca nada
       Am                    D
 quizá pueda despegar, pueda despegar
-
 
 ESTRIBILLO
            Em                      G
@@ -93,5 +92,3 @@ fin dela historia oh oh oh oh oh oh oh
 Oh, ohhh oh.. Oh, ohhh oh.. Oh, ohhh oh
 
 Em D G
-
-

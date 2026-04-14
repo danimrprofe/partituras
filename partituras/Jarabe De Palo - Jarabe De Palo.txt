@@ -1,7 +1,6 @@
-CEJILLA/CAPO: Sin cejilla
 
 
-JARABE DE PALO 
+JARABE DE PALO
 GRITA
 
 INTRO
@@ -12,7 +11,7 @@ G                         B7
   Hace días que te obsevo,   y he contado con los dedos,
 Em                           C
   Cuantas veces te has reído, una mano me ha valido.
- 
+
 G                       B7
   Hace días que me fijo,  no sé qué guardas ahí dentro
 Em                        D
@@ -26,7 +25,7 @@ G                     B7
   De qué tienes miedo, a reír y a llorar luego,
 Em                  C
   A romper el hielo, que recubre tu silencio.
- 
+
 G                          B7
   ­Suéltate ya! y cuéntame,   que aquí estamos para eso,
 Em                             D
@@ -41,10 +40,10 @@ C                   D
   Te tiendo la mano, tú agarra todo el brazo,
 Em                      Am
   Y si quieres más pues, ­Grita!
- 
+
 SOLO
 G B7 Em C    G B7 Em D  N.C.
- 
+
 ESTROFA
 G                            B7
   Hace tiempo alguien me dijo cuál era el mejor remedio
@@ -77,6 +76,3 @@ Em                      Am
 
 FINAL
 C D Em Am
-
-
-

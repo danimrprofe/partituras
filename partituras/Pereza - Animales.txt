@@ -1,5 +1,3 @@
-CEJILLA/CAPO: Capo 1
-
 
 e|-----------------------------------|
 B|-----------------------------------|
@@ -8,7 +6,7 @@ D|-7-7-7-10-7-10-7------------10-7---|
 A|---------------------------------10|
 E|-----------------------------------|
 
-
+INTRO
 Am    C    D                  Am         C    D
 Eeeeeeeeh  eeeh  ¿Cómo vas, cómo lo ves?
 Am    C    D                  Am         C    D
@@ -23,7 +21,6 @@ Cómeme hasta que no me quede carne ni piel
 ¡Cómo quisiera tenerte, besarte entre la frente!
    Am       C        D
 Amarte, en parte, porque eres todo arte
- 
 
 Am            C        D
     Como si fuéramos unos animales
@@ -33,7 +30,6 @@ Am              C             D
   Que estamos solos y no hay nada que nos pare
 Am       C      D
 Nada que nos separe
- 
 
 ESTROFA
       Am          C             D
@@ -44,7 +40,6 @@ Cógeme, no tengas miedo, no te voy a morder
 ¡Cómo quisiera roerte y luego socorrerte!
    Am      C        D
 Atarte, mojarte y luego chulearte
- 
 
 Am            C        D
     Como si fuéramos unos animales
@@ -61,12 +56,6 @@ Am          C     D
    Ah ah ah ah ah Ah ah ah ah ah
 Am          C     D
    Ah ah ah ah ah Ah ah ah ah ah
- 
+
 Am
 Eh, ¿Cómo vas, cómo lo ves?...
-
-
-
-
-
-

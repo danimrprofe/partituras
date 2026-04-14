@@ -1,7 +1,7 @@
 # Tráeme tu amor
 
-```
-**Intro**
+
+INTRO
 C#m     B      A
 uh uh  uh uh  uuuh
 C#m     B      A
@@ -29,7 +29,7 @@ Quiero soñar quiero estar tranquilo
 B                 A         E
 Tráeme tu amor y tápame con él
 
-**Estribillo**
+ESTRIBILLO
 C#m     B      A
 uh uh  uh uh  uuuh, tráeme tu amor
 C#m     B      A
@@ -45,7 +45,7 @@ Del negro torbellino que te ahoga sin parar
             E
 Vamos a escapar
 
-**Estribillo**
+ESTRIBILLO
 C#m     B      A
 uh uh  uh uh  uuuh, vamos a escapar
 C#m     B      A
@@ -53,7 +53,7 @@ uh uh  uh uh  uuuh, fuera de la realidad.
 C#m     B      A
 uh uh  uh uh  uuuh,
 
-[Bridge]
+PUENTE
 F#m            B       A         B
 La grava del camino es lo que dejas atrás
 F#m                B       A         B   E
@@ -68,4 +68,3 @@ B             A               E
 Quiero soñar quiero estar contigo
 B                 A         E
 Tráeme tu amor y tápame con él
-```

@@ -8,7 +8,7 @@ TONALIDAD: Sib Mayor (Bb Major) - (Acordes en posición de G con Capo 3)
 BPM:       72
 COMPÁS:    4/4
 ================================================================================
-NOTAS ADICIONALES: Tocar con un ritmo marcado y pausado (estilo mid-tempo). 
+NOTAS ADICIONALES: Tocar con un ritmo marcado y pausado (estilo mid-tempo).
 El Capo 3 permite usar las posiciones abiertas de Sol Mayor (G) para sonar
 en la tonalidad original de Sib (Bb).
 ================================================================================
@@ -36,14 +36,14 @@ I want a new tour bus full of old guitars,
 My own star on Hollywood Boulevard,
     D                                             E
 Somewhere between Cher and James Dean is fine for me.
- 
+
              G
 I'm gonna trade this life for fortune and fame,
          A
 I'd even cut my hair and change my name.
 
 ESTRIBILLO
- 
+
           E
 'Cause we all just want to be big rock stars,
                 G
@@ -64,7 +64,7 @@ G      A                 E
 Hey hey I wanna be a rock star!
      G      A                 E
 Hey hey I wanna be a rock star!
- 
+
            E
 I wanna be great like Elvis without the tassels,
      A
@@ -77,7 +77,7 @@ I'm gonna dress my ass with the latest fashion,
 Get a front door key to the Playboy Mansion,
       D                                                  E
 Gonna date a centerfold that loves to blow my money for me.
- 
+
               G
 I'm gonna trade this life for fortune and fame,
          A
@@ -111,7 +111,7 @@ They'll get you anything with that evil smile,
 Everybodys got a drug dealer on speed dial,
     G       A                 E
 Well Hey hey I wanna be a rock star!
- 
+
           C
 I'm gonna sing those songs that offend the censors,
          G
@@ -120,7 +120,7 @@ Gonna pop my pills from a pez despenser,
 Get washed up singers writing all my songs,
     A                               D
 Lip sync 'em every night so i won't get them wrong!
- 
+
           E
 Well we all just want to be big rock stars,
                 G
@@ -149,4 +149,3 @@ Everybody's got a drug dealer on speed dial...
 Well...Hey Hey I wanna be a rock star!
      G      A                 E
 Hey hey I wanna Be a rock star!
-

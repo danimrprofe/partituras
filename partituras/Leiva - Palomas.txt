@@ -1,13 +1,9 @@
-CEJILLA/CAPO: Capo 1
-
-LEIVA - PALOMAS
-
 ESTROFA
-       C                           Em                            
-Hay miles de palomas volando en círculo, 
+       C                           Em
+Hay miles de palomas volando en círculo,
               Am                     Em
 alrededor del sol. Se acaban de encontrar
-     F               	        C                              
+     F               	        C
 Hay días para decírnoslo, semanas para pensar.
 Dm                          G
 Veranos vestidos de alquitrán
@@ -23,32 +19,31 @@ VERANOS EN VILO HASTA EL FINAL
    F  G   Am       G
 No es más que un grito
 
-C                              G     
+C                              G
 Déjalo ya, déjalo ya Se quedó frío.
 Am                             F
 cada momento tiene que ser especial
-C                               G      
-Déjalo ya déjalo ya o me quedo frío. 
+C                               G
+Déjalo ya déjalo ya o me quedo frío.
 Am                      F
 Es un aviso más del huracán
 
 ESTROFA
-     C                            Em                      
-Hay luces de farolas de barrio mítico, 
+     C                            Em
+Hay luces de farolas de barrio mítico,
               Am	          Em
 perfume de ciudad Espinas que se caen
-    F                              C		 		
-Hay vicios que son magníficos, semanas para frenar. 
+    F                              C
+Hay vicios que son magníficos, semanas para frenar.
   Dm               G
 Veranos que sufro de verdad
 
-
-C                              G     
+C                              G
 Déjalo ya, déjalo ya Se quedó frío.
 Am                             F
 cada momento tiene que ser especial
-C                               G      
-Déjalo ya déjalo ya o me quedo frío. 
+C                               G
+Déjalo ya déjalo ya o me quedo frío.
 Am                      F
 Es un aviso más del huracán
 
@@ -58,12 +53,12 @@ Am Am/G D A C D
    F  G   Am       G
 No es más que un grito
 
-C                              G     
+C                              G
 Déjalo ya, déjalo ya Se quedó frío.
 Am                             F
 cada momento tiene que ser especial
-C                               G      
-Déjalo ya déjalo ya o me quedo frío. 
+C                               G
+Déjalo ya déjalo ya o me quedo frío.
 Am                      F
 Es un aviso más del huracán
 

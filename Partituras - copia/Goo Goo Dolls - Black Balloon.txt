@@ -24,7 +24,7 @@ G/B (2x0033)
 ================================================================================
 
 RIFF
- 
+
 e|----------------------------------|
 B|-------1----------1---------3-----|
 G|----0----0------0---0-----0-------|
@@ -101,13 +101,13 @@ PUENTE
 C/E   F   Am7   G
 C/E   F   Am7  G  C/E  F
 F  C/E  Dm7
- 
+
     *90's Dramatic Pause*
 C/E                 F                G
        And there's no time left for losin'
           G
 When you stand they'll fall
- 
+
 ESTRIBILLO
 Am7      G        F            C
 Comin' down the world turned over
@@ -133,6 +133,6 @@ Dm7
 I'll become
       F             C
 What you became to me
- 
+
 OUTRO
 Riff over Am7

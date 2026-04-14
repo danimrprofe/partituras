@@ -8,10 +8,10 @@ B  7-9-9-X-X-X
 A  5-7-7-X-X-X
 
 -----+------+-----+--------
-F#   | E    | D   | - 
-F#   | E    | D   | - 
-F#   | E    | D   | C# 
-B    | B    | D   | E 
+F#   | E    | D   | -
+F#   | E    | D   | -
+F#   | E    | D   | C#
+B    | B    | D   | E
 -----+------+-----+--------
 A    | B    | D   | A E
 A    | B    | G D | A E
@@ -19,10 +19,10 @@ A    | B    | G D | A E
 B    | A    | E   | -
 B    | A    | E   | -
 -----+------+-----+--------
-F#   | E    | D   | - 
-F#   | E    | D   | - 
-F#   | E    | D   | C# 
-B    | B    | D   | E 
+F#   | E    | D   | -
+F#   | E    | D   | -
+F#   | E    | D   | C#
+B    | B    | D   | E
 -----+------+-----+--------
 A    | B    | D   | A E
 A    | B    | G D | A E
@@ -49,11 +49,11 @@ Te quiero pensar, quiero sentirte siempre muy cerca mío
 Y quiero pensar, que eres la suerte que me arropa del frío
                  F#             E                     D
 Que has visto en mí, que me regalas tu verdad y tu cielo,
-             C#                     B 
+             C#                     B
 que en esta vida ya no quiero otros besos
         B                D  E
 y cada día tú me das tu total.
-  
+
 ESTRIBILLO
      A                           B
 Y pienso que si no existes yo me muero,
@@ -100,5 +100,3 @@ Y voy, a mirarte, a morirme y a luchar,
 llorar de alegría y quererte aún más,
                              D#      Fm
 que tú eres la suerte de mi vida.
-
-

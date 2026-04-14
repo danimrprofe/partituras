@@ -1,4 +1,4 @@
-CEJILLA/CAPO: Sin cejilla
+
 ESTROFA
 G              C*                   G        C*
 Apaguen móviles abróchense los cinturones
@@ -36,7 +36,7 @@ Ella sueña que un ala pierde el rotor
 Y el avión se dispara hacia unas montañas que son de ficción
 
 ESTRIBILLO
-G    C*          Em  
+G    C*          Em
 Mi amigo y nada más
                      D
 ¿Qué me dices si te digo la verdad?
@@ -71,7 +71,7 @@ Am              C/G                Am                D
 Para decirle sincero con todo su aliento esta declaración
 
 ESTRIBILLO
-G    C*          Em  
+G    C*          Em
 Mi amigo y nada más
                      D
 ¿Qué me dices si te digo la verdad?

@@ -1,4 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
 
 
 C                       Dm7
@@ -9,7 +8,7 @@ C                        Dm7
 Eso que inventamos ya no es
 G                     C              Em
 Ahora solo existe el pasado
- 
+
 Am             F
 Y me toca entender
 G                    C
@@ -24,7 +23,7 @@ G                   F
 Que igual que vino fue
               G
 Que hoy es CERO
- 
+
 C
 Quiero
                        G
@@ -35,8 +34,8 @@ Que todo vuelva a girar
 Que todo venga de cero
           G
 De cero...
- 
- 
+
+
        C                     G
 Y quiero que todo vuelva a sonar
                       Dm
@@ -45,7 +44,7 @@ Que todo vuelva a brillar
 Que todo venga de cero
           G
 De cero...
- 
+
 C                       Dm7
 Eso, desaparece y no lo ves
 G                               C
@@ -54,7 +53,7 @@ C                         Dm7
 Dura lo que dura y ya se fue
 G                        C       Em
 Ni tu ni yo lo hemos cuidado
- 
+
 Am                F
 Y ahora toca entender
 G                     C
@@ -69,7 +68,7 @@ G                  F
 Que igual que vino fue
            G
 Y es tan feo
- 
+
 C
 Quiero
                        G
@@ -80,9 +79,9 @@ Que todo vuelva a girar
 Que todo venga de cero
       G
 De cero...
- 
- 
- 
+
+
+
       C                      G
 Y quiero que todo vuelva a sonar
                       Dm
@@ -91,9 +90,9 @@ Que todo vuelva a brillar
 Que todo venga de cero
       G
 De cero...
- 
+
 SOLO: C  G   Dm   F   G  C   Dm  G  Dm  F   G
- 
+
       C                        G
 Y siento que todo lo malo es pensar
                      Dm
@@ -102,4 +101,3 @@ Que todo lo que viene va
 Que todo se va consumiendo
                         G
 Y el silencio manda hoy más
- 

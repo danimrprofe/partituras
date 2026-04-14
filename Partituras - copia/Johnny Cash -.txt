@@ -10,12 +10,12 @@ CEJILLA/CAPO: Capo 0
 LEYENDA / NOTAS ADICIONALES:
 (Acordes e información adicional)
 ================================================================================
-CEJILLA/CAPO: Sin cejilla
+
 TONALIDAD: La Menor (A Minor)
 BPM:       92
 COMPÁS:    4/4
 ================================================================================
-NOTAS ADICIONALES: Versión del tema original de Nine Inch Nails. 
+NOTAS ADICIONALES: Versión del tema original de Nine Inch Nails.
 Estructura creciente en intensidad (inicia suave, termina con fuerza).
 ================================================================================
 
@@ -62,10 +62,10 @@ Everyone I know, goes away in the end
 And you could have it all,  my empire of dirt
 Am7            Fadd9 G
 I will let you down, I will make you hurt
- 
- 
+
+
 [Coda]
- 
+
    Am7            Fadd9   G
 If I could start again, a million miles away
 Am7            Fadd9  G

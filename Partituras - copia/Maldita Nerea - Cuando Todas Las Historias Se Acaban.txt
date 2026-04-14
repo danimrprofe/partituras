@@ -33,7 +33,7 @@ Y nunca lo quisiste ver
 [ESTRIBILLO]
        F#m            D        Bm E
 Y hubo tanto amor que no queda nada
-        F#m            D       
+        F#m            D
 Y ahora mírate, no, no, no, no
             Bm          E
 No puedes ver bien la luz
@@ -84,12 +84,12 @@ Y ya solo quedas tú
 
                  Em  Bm  C Am
 Y ya solo quedas tú
-                 Em  Bm  C Am 
+                 Em  Bm  C Am
 Y ya solo quedas tú
 
 Em  Bm  C Am
-Em  Bm  C Am     
-F    C      D           
+Em  Bm  C Am
+F    C      D
 
 Em                C
 Quién mira y no te ve
@@ -103,7 +103,7 @@ No puede amar quién solo engaña
 [ESTRIBILLO]
        F#m            D        Bm E
 Y hubo tanto amor que no queda nada
-        F#m            D       
+        F#m            D
 Y ahora mírate, no, no, no, no
             Bm          E
 No puedes ver bien la luz
@@ -113,7 +113,7 @@ Cuando todas las historias se acaban
 Y ya solo quedas tú
        F#m            D        Bm E
 Y hubo tanto amor que no queda nada
-        F#m            D       
+        F#m            D
 Y ahora mírate, no, no, no, no
             Bm          E
 No puedes ver bien la luz

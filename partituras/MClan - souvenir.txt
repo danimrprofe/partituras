@@ -1,12 +1,11 @@
 # Souvenir
 
-```
-**Intro**
+
+INTRO
 
 | D  C  | Bm Am |
 | D  C  | D  Am |
 | G     | G
-
 
 [Verse 1]
 
@@ -25,8 +24,7 @@ algunos souvenirs,
 G  D                  G
    Uh, lugares que conocí.
 
-
-**Estribillo**
+ESTRIBILLO
 
 Am
 Madrid, Bilbao, Sevilla, Ibiza,
@@ -45,7 +43,6 @@ cuando me acuerde de estos nombres,
    Am       D            G
 estaré imaginando oír tu voz.
 
-
 [Verse 2]
 
                  G
@@ -63,8 +60,7 @@ me estaré volviendo humano,
 G    D                     G
 Uh, se me ha pegado de ti.
 
-
-**Estribillo**
+ESTRIBILLO
 
 Am
 Madrid, Bilbao, Sevilla, Ibiza,
@@ -83,14 +79,12 @@ cuando me acuerde de estos nombres,
    Am       D            G
 estaré imaginando oír tu voz.
 
-
-[Solo]
+SOLO
 
 | C  A  | G  D  |
 | Am C  | G  D  |
 
-
-**Estribillo**
+ESTRIBILLO
 
 Am
 Madrid, Bilbao, Sevilla, Ibiza,
@@ -119,7 +113,6 @@ estaré imaginando ....
 D    Am      G
     Oir tu voz
 
-
 [Outro]
 
 G
@@ -130,4 +123,3 @@ G
 uoh oh ooh
 G
 uoh oh ooh
-```

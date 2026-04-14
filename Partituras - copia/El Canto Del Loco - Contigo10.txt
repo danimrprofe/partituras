@@ -2,16 +2,16 @@ EL CANTO DEL LOCO - CONTIGO
 EL CANTO DEL LOCO
 
 ESTROFA
-C#m                      F#m           
-Contigo, quiero estar contigo. 
+C#m                      F#m
+Contigo, quiero estar contigo.
      B                              A  G#7
 Y decirte que ya no puedo vivir sin ti
-   C#m                   F#m                         
+   C#m                   F#m
 Contigo, quiero ganar contigo.
          B                                 A      G#7
  Y conseguir que todo el tiempo sea estar junto a ti
-    F#m B                 E    A           
-Contigo, quiero estar contigo.  
+    F#m B                 E    A
+Contigo, quiero estar contigo.
    F#m                              A  G#7
 Y decirte que ya no puedo vivir sin ti
 
@@ -58,5 +58,3 @@ F#m            G#m            A             G#m
 Siento cuando estás, y tú me das tu voz con esa fuerza
 F#m            G#m          A
 Quiero oírte más tu voz gritar
-
-

@@ -1,15 +1,14 @@
 CEJILLA/CAPO: Capo 2
 
-
 Key: B
 BPM:       81
 COMPÁS:    4/4
 ESTROFA
-C     D     G              Em           
-All day Staring at the ceiling making. 
+C     D     G              Em
+All day Staring at the ceiling making.
 C            D              Em
 Friends with shadows on my wall
-C     D          G              Em 
+C     D          G              Em
 All night. I'm hearing voices telling me
      C
 That I should get some sleep
@@ -23,19 +22,19 @@ Breakdown. I don't know why
 
 ESTRIBILLO
 G                                 C
-I'm not crazy I'm just a little unwell. 
+I'm not crazy I'm just a little unwell.
 N.C.
 I know right now you can't tell
 Em                                     D
-But stay awhile and maybe then you'll see. 
+But stay awhile and maybe then you'll see.
 N.C.
 A different side of me
 G                                  C
-I'm not crazy I'm just a little impaired. 
+I'm not crazy I'm just a little impaired.
 N.C.
 I know right now you don't care
-Em                                    D                
-But soon enough you're gonna think of me 
+Em                                    D
+But soon enough you're gonna think of me
 N.C.
 and how I used to be
 
@@ -55,11 +54,11 @@ Somehow. I've lost my mind
 G                                 C
 
 ESTRIBILLO
-I'm not crazy I'm just a little unwell. 
+I'm not crazy I'm just a little unwell.
 N.C.
 I know right now you can't tell
 Em                                     D
-But stay awhile and maybe then you'll see. 
+But stay awhile and maybe then you'll see.
 N.C.
 A different side of me
                     C
@@ -75,22 +74,20 @@ They'll be taking me away
 
 ESTRIBILLO
 G                                 C
-I'm not crazy I'm just a little unwell. 
+I'm not crazy I'm just a little unwell.
 N.C.
 I know right now you can't tell
 Em                                     D
-But stay awhile and maybe then you'll see. 
+But stay awhile and maybe then you'll see.
 N.C.
 A different side of me
 G                                  C
-I'm not crazy I'm just a little impaired. 
+I'm not crazy I'm just a little impaired.
 N.C.
 I know right now you don't care
-Em                                    D                
-But soon enough you're gonna think of me 
+Em                                    D
+But soon enough you're gonna think of me
 N.C.
 and how I used to be
 N.C.
 Yeah, how I used to be...
-
-

@@ -2,7 +2,7 @@ EL CANTO DEL LOCO - PREGUNTAS
 EL CANTO DEL LOCO
 Medio tono abajo
 D  B  E  G  A
- 
+
 
 ESTROFA
     D             B          E            G           A
@@ -22,12 +22,12 @@ La vida se pierde y yo quiero la vida otra vez.
 
 ESTRIBILLO
 D        B            G        A
-Preguntas, preguntas, preguntas  
+Preguntas, preguntas, preguntas
 D        B            G        A
-Preguntas, preguntas, preguntas  
+Preguntas, preguntas, preguntas
 
 ESTROFA
- 
+
        D                          B
 Ya está bien, mira, no quiero volver a ser, el juguete que pisas
      E             G         A                  D
@@ -47,19 +47,19 @@ Que me has pillado y todo lo que digo te da igual.
 
 ESTRIBILLO
 D        B            G        A
-Preguntas, preguntas, preguntas  
+Preguntas, preguntas, preguntas
 D        B            G        A
-Preguntas, preguntas, preguntas  
- 
+Preguntas, preguntas, preguntas
+
 D                   G
 Y te vuelvo a recordar, recuerda
 D                   G            A
 Y me vuelvo a preguntar, de que vas
- 
+
 D        B            G        A
- 
+
 D        B            G        A
-Preguntas, preguntas, preguntas  
+Preguntas, preguntas, preguntas
          D                          B
 Porque tu sabes hacer que no vaya bien,
                                   G
@@ -70,4 +70,3 @@ nadie me vuelva a creer.
 Que yo te busco, intento que te vuelvas y sientas lo que es,
              A
 La vida se pierde
-

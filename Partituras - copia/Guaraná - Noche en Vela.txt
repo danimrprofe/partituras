@@ -1,11 +1,11 @@
-GUARANÁ 
+GUARANÁ
 NOCHE EN VELA
 CEJILLA EN TERCER TRASTE
 
 INTRO
 Am7   Bm7   C
- 
- 
+
+
 Em     D                G        Am7             Bm7
 Cuanto tiempo he de esperar    para tenerte   bajo la luna
           C
@@ -24,10 +24,10 @@ G        D              Em   C              G
 No quedan luces en el puerto, asi que estare atento
     D              C
 por si confundiste el mar
- 
+
 Am7   Bm7   C
- 
- 
+
+
 Em     D                G        Am7             Bm7
 Dices que es para mejor      que la distancia    es el olvido
           C
@@ -46,11 +46,11 @@ G       D               Em  C            G
 No quedan luces en el puerto, asi que estare atento
     D                C
 por si confundiste el mar
- 
- 
+
+
 Am7   Bm7   C
- 
- 
+
+
          Am7            Bm7
 Que la distancia    es el olvido
         C
@@ -65,4 +65,3 @@ G       D               Em  C            G
 No quedan luces en el puerto, asi que estare atento
     D                C
 por si confundiste el mar
-

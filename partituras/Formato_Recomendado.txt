@@ -7,7 +7,7 @@
    CANCIÓN: Título
    ÁLBUM:   (opcional) Álbum y año, o "—" si no aplica
    ================================================================================
-   CEJILLA/CAPO: Sin cejilla | Capo N | texto libre
+    | Capo N | texto libre
    ================================================================================
    (Opcional, solo si aplica:)
    TONALIDAD: (ej. Mi mayor)
@@ -28,4 +28,3 @@
 4) PDF y otros formatos:
    No se normalizan con este esquema; el criterio de nombres sigue siendo
    "Artista - Canción.ext" en la carpeta del artista.
-

@@ -10,12 +10,12 @@ CEJILLA/CAPO: Capo 0
 LEYENDA / NOTAS ADICIONALES:
 (Acordes e información adicional)
 ================================================================================
-CEJILLA/CAPO: Sin cejilla
+
 TONALIDAD: Sol Mayor (G Major)
 BPM:       82
 COMPÁS:    4/4
 ================================================================================
-NOTAS ADICIONALES: Los acordes principales son G, D, Em7 y Cadd9. 
+NOTAS ADICIONALES: Los acordes principales son G, D, Em7 y Cadd9.
 Mantener un rasgueo fluido y constante con énfasis en las cuerdas agudas.
 ================================================================================
 
@@ -26,14 +26,14 @@ ESTROFA
 G         D Dsus2      Asus2
 Happiness more or less it's just a change in me something in my liberty
 G  D Dsus2 Asus2
-o-o-h m-y m-y.. 
+o-o-h m-y m-y..
 G         D Dsus2         Asus2
-happiness coming and going I watch you look at me watch my fever growing, 
+happiness coming and going I watch you look at me watch my fever growing,
    G         D Dsus2 Asus2
 I know just where I a-m
 
-      Em                                  G          
-well, how many corners do I have to turn how many times do I have to 
+      Em                                  G
+well, how many corners do I have to turn how many times do I have to
        D                          Asus2
 learn all the love I have is in my mind.
 
@@ -43,15 +43,15 @@ But I'm A lucky m-a-a-a-n with fire in my h-a-a-a-nds
 
 ESTROFA
 G         D Dsus2                  Asus2                  G
-happiness something in my own place I'm stood here naked smiling I feel 
+happiness something in my own place I'm stood here naked smiling I feel
        G        D Dsus2  Asus2
 no disgrace with who I a-m
-G          D Dsus2       Asus2                  
-happiness coming and going I watch you look at me watch my fever growing, 
+G          D Dsus2       Asus2
+happiness coming and going I watch you look at me watch my fever growing,
 G      D Dsus2  Asus2
 I know just who I a-m
-      Em                                  G          
-well, how many corners do I have to turn how many times do I have to 
+      Em                                  G
+well, how many corners do I have to turn how many times do I have to
        D                          Asus2
 learn all the love I have is in my mind.
 
@@ -67,7 +67,7 @@ PUENTE
 G         D Dsus2      Asus2
 Happiness more or less it's just a change in me something in my liberty
 G         D Dsus2         Asus2
-happiness coming and going I watch you look at me watch my fever growing, 
+happiness coming and going I watch you look at me watch my fever growing,
 G D Dsus2 Asus2
 o-o-h, my my - X 4
         G            D Dsus2  Asus2

@@ -1,7 +1,6 @@
 ono: Db
 C#– F#– G#– F#
 
-
 [Verse]
   C#                F#
 I woke up, it was seven
@@ -20,7 +19,6 @@ When you're spending every day on your own
 
 And here it goes ..
 
-
 [Chorus]
 C#          F#        G#
 I'm just a kid and life is a nightmare
@@ -33,10 +31,8 @@ Is havin' more fun than me
 
 Tonight
 
-
 [Interlude]
 C#– F#– G#– F#
-
 
 [Verse]
             C#               F#
@@ -56,7 +52,6 @@ And they're gonna leave me here on my own
 
 And here it goes
 
-
 [Chorus]
 C#          F#        G#
 I'm just a kid and life is a nightmare
@@ -67,22 +62,20 @@ Nobody cares  cause I'm alone and the world
 D#m             F#      G#
 Is havin' more fun than me
 
-
-[Bridge]
+PUENTE
 F#
 What the fuck is wrong with me?
-  G#               
+  G#
 Dont fit in with anybody
 C#                  G# C#    F#– C#
 How did this happen to me?
-F#                           G#          C#  
+F#                           G#          C#
 Wide awake, I'm bored and I can't fall asleep
     D#m                                  G#
 And every night is the worst night ever
 
 C#– F#– G#– F#
 I'm just a kid (just a kid) x5
-
 
 [Chorus]
 C#           F#      G#

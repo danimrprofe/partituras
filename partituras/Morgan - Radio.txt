@@ -6,7 +6,7 @@ COMPÁS:    4/4
 INTRO
 C G C G
 C G C G
- 
+
 ESTROFA
 Em     C         G
 No me queda nada más
@@ -16,7 +16,7 @@ Em     C                 G
 Y ya no importa, que más da
        Em           C         G
 Aunque no esperaba verlo terminar
- 
+
 ESTROFA
 Em         C           G
 Y en el momento, no lo ves
@@ -26,13 +26,13 @@ Em      C           G
 Pero cayó la oscuridad
              Em          C    G
 Y ya no hay nada que decir o dar
- 
+
 PRE-ESTRIBILLO
         D    C
 Fuiste real, tú
              D    C
 Me hiciste volar, tú
- 
+
 ESTRIBILLO
              G
 Y ahora no estás
@@ -48,11 +48,11 @@ Tiemblo frente al tiempo
 Y el futuro me encontró mirando atrás
         D  C           D7   C
 ¿Dónde parar antes de empezar?
- 
+
 INSTRUMENTAL
 G G G G
- 
- 
+
+
 ESTROFA
 Em     C         G
 Ya no estoy aquí
@@ -62,7 +62,7 @@ Em        C            G
 Porque alejarme es respirar
 Em                 C              G
 Sólo espero recordarte siempre igual
- 
+
 PRE-ESTRIBILLO
        D  C
 Quise volar
@@ -72,7 +72,7 @@ Me hiciste volar, tú
 Fue de verdad
         D     C
 Fuiste real, tú
- 
+
 ESTRIBILLO
              G
 Y ahora no estás
@@ -88,13 +88,13 @@ Tiemblo frente al tiempo
 Y el futuro me encontró mirando atrás
         D  C           D7   C
 ¿Dónde parar antes de empezar?
- 
+
 INSTRUMENTAL
 G G G A C
 G G G A C
 G G G A C
 G G G A C
- 
+
 PUENTE
 C          Cmaj7
 Ha pasado lento
@@ -110,7 +110,7 @@ G                         Am Am/G# Am/G Am/F#
 ¿Dónde está el alma que cuidamos?
 Am
 ¿Y amamos?
- 
+
 Am                    Em
 Siento que esto va estallar
 Em                Bm

@@ -5,10 +5,10 @@ Medio tono abajo
 INTRO
 C G Am C G Am
 C G Am
- 
+
 [Pre-Verse]
 C G
- 
+
 
 ESTROFA
 Am     C      G          Am
@@ -19,10 +19,10 @@ Am     C      G          Am
 And listen closely  to what I   say
            C                  G  Am
 And if you do this it'll help you some sunny day"
- 
+
 [Break]
 C G Am C G
- 
+
 [Verse 2]
 Am          C         G           Am
    "Oh, take your time,  don't live too fast
@@ -32,7 +32,7 @@ Troubles will come  and they will   pass
 You'll find a woman and  you'll find love
               C                     G    Am
 And don't forget, son, there is someone up   above"
- 
+
 
           C     G        Am
 "And be a simple  kind of man
@@ -42,7 +42,7 @@ Oh, be something  you love and understand
 Baby be a simple  kind of   man
               C           G              Am
 Oh, won't you do this for me, son, if you can"
- 
+
 [Verse 3]
 C G Am             C       G         Am
         "Forget your lust for  the rich man's gold
@@ -52,8 +52,8 @@ All that you need  is in your   soul
 And you can do this, oh baby,  if you try
 Am           C                G           Am
    All that I want for you, my son, is to be   satisfied"
- 
- 
+
+
 
           C     G        Am
 "And be a simple  kind of man
@@ -64,18 +64,18 @@ Baby be a simple  kind of   man
               C           G              Am
 Oh, won't you do this for me, son, if you can"
 Oh yes, I will
- 
- 
-[Solo]
+
+
+SOLO
 C G Am C G Am
 C G Am C G Am
 C G Am
- 
- 
+
+
 [Break]
 C G Am C G
- 
- 
+
+
 [Verse 4]
 Am                C     G            Am
    "Boy, don't you worry,  you'll find yourself
@@ -85,8 +85,8 @@ Follow your heart  and nothing   else
 And you can do this, oh baby,  if you try
 Am           C                G           Am
    All that I want for you, my son, is to be   satisfied"
- 
- 
+
+
 
           C     G        Am
 "And be a simple  kind of man
@@ -96,14 +96,14 @@ Oh, be something  you love and understand
 Baby be a simple  kind of   man
               C           G              Am
 Oh, won't you do this for me, son, if you can"
- 
- 
+
+
 [Fade Out]
            C      G              Am
 Baby, be a simple,  really simple man
        C        G             Am
 Oh, be something  you love and understand
-1. M-CLAN - CAMINOS SECUNDARIOS 
+1. M-CLAN - CAMINOS SECUNDARIOS
 M-Clan
 
 INTRO
@@ -127,12 +127,12 @@ C                                  A                D
 La mala vida que tuve me tienta con luces que dicen Stop
 
 ESTRIBILLO
-         C   G       C       G			 
-Caminos secundarios, carga ilegal. 
+         C   G       C       G
+Caminos secundarios, carga ilegal.
        C       G        D
 Los controles quiero evitar
-        C        G   C       G      
-Cuando llegue a casa tu estarás 
+        C        G   C       G
+Cuando llegue a casa tu estarás
 C          D   G        C      D    G
 dormida en el sofá. Dormida en el sofá.
 Instrumental
@@ -148,22 +148,21 @@ Si yo pudiera cruzar la frontera y llevarte conmigo esta vez
 C                                 A                D
 Abandonar las sirenas las noches en vela dejar de correr
 
-
 ESTRIBILLO
-         C   G       C       G			 
-Caminos secundarios, carga ilegal. 
+         C   G       C       G
+Caminos secundarios, carga ilegal.
        C       G        D
 Los controles quiero evitar
-        C        G   C       G      
-Cuando llegue a casa tu estarás 
+        C        G   C       G
+Cuando llegue a casa tu estarás
 C          D   G        C      D    G
 dormida en el sofá. Dormida en el sofá.
-         C   G       C       G			 
-Caminos secundarios, carga ilegal. 
+         C   G       C       G
+Caminos secundarios, carga ilegal.
        C       G        D
 Los controles quiero evitar
-        C        G   C       G      
-Cuando llegue a casa tu estarás 
+        C        G   C       G
+Cuando llegue a casa tu estarás
 C          D   G        C      D    G
 dormida en el sofá. Dormida en el sofá.
 
@@ -175,14 +174,14 @@ Em C x2
 Em C G D x3   Bb F G
 
 ESTROFA
-C              G	        D 		           Am	      
+C              G	        D 		           Am
 La dulce niña Carolina, no tiene edad para hacer el amor.
 C               G 			      D
 Su madre la estará buscando, o eso es lo que creo.
-C                 G	       D                      Am 
-No puedo echarla de mi casa, me dice que no tiene donde dormir. 
+C                 G	       D                      Am
+No puedo echarla de mi casa, me dice que no tiene donde dormir.
 C	           G  			     D
-Después se mete en mi cama,  eso es mucho para mí. 
+Después se mete en mi cama,  eso es mucho para mí.
 Am        D            Am      D         C    G      D
 Esa va a ser mi ruina, pequeña Carolina, vete por favor.
 
@@ -196,18 +195,16 @@ Em C G D x3
 Bb F G
 
 ESTROFA
-C                  G          D                  Am		       	
+C                  G          D                  Am
 No queda en la ciudad esquina tras la que yo me pueda esconder.
 C			G	        D
 Siempre aparece Carolina con algún tipo de interés
-C                 G	       D                     Am		
+C                 G	       D                     Am
 La reina de las medicinas, que no se venden en farmacia legal.
   C            G     D
-VINAGRE PARA LAS HERIDAS DULCE AZÚCAR AL FINAL. 
+VINAGRE PARA LAS HERIDAS DULCE AZÚCAR AL FINAL.
 Am        D            Am      D         C    G      D
 Esa va a ser mi ruina, pequeña Carolina, vete por favor.
-
-
 
 ESTRIBILLO
 Em    C  G         D         Em      C            G           D
@@ -229,7 +226,7 @@ Em   C   G         D          Bb         F         G
 CAROLINA TRÁTAME BIEN, O AL FINAL TE TENDRÉ QUE COMER
 
 FINAL
-Em C G D x3  
+Em C G D x3
 Bb F G x3
 3. M-CLAN - CHILABA Y CACHIMBA
 M-clan
@@ -251,7 +248,7 @@ Deslumbrado por el brillo,
 Pero ha llegado la hora,
 F#       B
 Me ha costado decidir
- 
+
            E                 E A
 Y es que estoy bastante harto
         E
@@ -274,7 +271,7 @@ Me voy a Marruecos para nunca volver,
 Colgar el batín, Cambiar bisturí
                   D    B
 Por chilaba y cachimba.
- 
+
 E A D [x2]
 
      E                    E A D
@@ -308,12 +305,12 @@ Me voy a Marruecos para nunca volver,
 Colgar el batín, Cambiar bisturí
                   D    B
 Por chilaba y cachimba.
- 
+
 [Interlude]
 F# B F# B  C#
 
 ESTRIBILLO
- 
+
       A       B           E
 Oh, adiós, adiós mundo cruel,
               A         B        E
@@ -342,42 +339,42 @@ F#
 M-clan
 
 ESTRIBILLO
-A                    Bm                                                 
-Quémame solo quiero arder y arder. 
+A                    Bm
+Quémame solo quiero arder y arder.
                 D                          A
 Luciérnaga al anochecer en un concierto salvaje
-A                        Bm              
-Enciéndeme solo quiero arder y arder. 
+A                        Bm
+Enciéndeme solo quiero arder y arder.
             D                      A
 Vivir eternamente en esta noche salvaje
 
 ESTROFA
-G                  D           A	  	
+G                  D           A
 Dicen que hemos cambiado la letra y la canción.
      G             D                  A
 O quizás su oído gastado ya no oiga igual
-          Bm			        C#m		     
+          Bm			        C#m
 PERO AL FINAL ME QUEDARÉ, SERÉ EL ÚLTIMO EN SALIR.
           D                 E
 Déjame acabar este tatuaje así
 
 ESTRIBILLO
-A                    Bm                                                 
-Quémame solo quiero arder y arder. 
+A                    Bm
+Quémame solo quiero arder y arder.
                 D                          A
 Luciérnaga al anochecer en un concierto salvaje
-A                        Bm              
-Enciéndeme solo quiero arder y arder. 
+A                        Bm
+Enciéndeme solo quiero arder y arder.
             D                      A
 Vivir eternamente en esta noche salvaje
 
 ESTROFA
-G              D             A		           
-En la cola del paro no hay sitio para soñar. 
+G              D             A
+En la cola del paro no hay sitio para soñar.
      G            D              A
 Y llegaron los Zigarros a la ciudad
-           Bm                    C#m	
-Y en el retiro flotaran flores blancas para ti. 
+           Bm                    C#m
+Y en el retiro flotaran flores blancas para ti.
 	    D                          E
 No preguntes y acompáñame hasta el fin
 
@@ -386,18 +383,18 @@ A  Bm  D  A
 A  Bm  D  A
 
 ESTROFA
-G               D           A                                 
-Rosas y anillos poemas de pino y ron, 
+G               D           A
+Rosas y anillos poemas de pino y ron,
   G                D                  A
 saben que estamos vivos y eso es lo mejor
 
 ESTRIBILLO
-A                    Bm                                                 
-Quémame solo quiero arder y arder. 
+A                    Bm
+Quémame solo quiero arder y arder.
                 D                          A
 Luciérnaga al anochecer en un concierto salvaje
-A                        Bm              
-Enciéndeme solo quiero arder y arder. 
+A                        Bm
+Enciéndeme solo quiero arder y arder.
             D                      A
 Vivir eternamente en esta noche salvaje
 
@@ -409,7 +406,7 @@ Capo 4
 
 INTRO
 D D D C G D
- 
+
 
 ESTRIBILLO
 D
@@ -420,7 +417,7 @@ D
 Corazón en tránsito a punto de embarcar
 D                           C      G      D   C G D
 No hay calor humano en el desierto donde vas
- 
+
 
 ESTROFA
 Bm C           D
@@ -431,7 +428,7 @@ Bm      C                 D
  Hace tiempo cortaste la raíz
 A
 Ya es tarde para cambiar
- 
+
 Bm C           D
    Yo que te estuve esperando
 Bm C              D
@@ -440,7 +437,7 @@ Bm       C                  D
    Eres libre y sabes donde ir
 A
 Corriendo a otro lugar
- 
+
 
 ESTRIBILLO
 D
@@ -451,7 +448,6 @@ D
 Corazón en tránsito a punto de embarcar
 D                         C      G   D   C G D
 No hay calor humano entre tanta soledad
- 
 
 
 ESTROFA
@@ -463,7 +459,7 @@ Bm     C                        D
  Esta noche te acuestas junto a mi
 A
 Mañana ya no estarás
- 
+
 Solo
 
 D D D C G D
@@ -472,7 +468,7 @@ D D D C G D
 D D D C G D
 D D D C G D
 D D D C G D
- 
+
 
 PUENTE
 G           A
@@ -483,7 +479,7 @@ G             A
  Uuuhh, puedo ver tu espejismo
      Bb                      C
 Pero ya no estás, ya no estás
- 
+
 
 ESTRIBILLO
 D
@@ -494,7 +490,7 @@ D
 Corazón en tránsito a punto de embarcar
 D                           C      G     D
 No hay calor humano en el desierto donde vas
- 
+
 D
 Corazón en tránsito de paso en la ciudad
     D                    C     G         D
@@ -503,7 +499,7 @@ D
 Corazón en tránsito a punto de embarcar
 D                           C      G      D
 No hay calor humano en el desierto donde vas
- 
+
 
 FINAL
 C G D
@@ -515,7 +511,7 @@ INTRO
 Am B Em Em
 Am B C C
 Cm Cm
-  
+
 
 ESTROFA
    G
@@ -537,12 +533,12 @@ Juntos coleccionamos derrotas,
 Botellas vacias y puestas de sol.
 
 ESTRIBILLO
-              C                        G                                   
-Dónde fue a parar el tren que nunca cogimos. 
+              C                        G
+Dónde fue a parar el tren que nunca cogimos.
                C                    G
 Dónde fue a parar el eco de aquel sonido.
-                C                      G                              
-Ahora quién lo dio por perdido aquel sonido. 
+                C                      G
+Ahora quién lo dio por perdido aquel sonido.
              Am   C                G
 El humo nos cegó ooh el humo nos cegó
 
@@ -556,8 +552,6 @@ La orquesta anunció la última danza
      D                           G
 Pero no tuvimos fuerzas para bailar.
 
-
-
 Am                      C
  Y ahora me temo que se ha hecho muy tarde
 Am               G
@@ -568,20 +562,20 @@ B                 C
 Las uvas en pasas y el amor en dolor.
 
 ESTRIBILLO
-              C                        G                                   
-Dónde fue a parar el tren que nunca cogimos. 
+              C                        G
+Dónde fue a parar el tren que nunca cogimos.
                C                    G
 Dónde fue a parar el eco de aquel sonido.
-                C                      G                              
-Ahora quién lo dio por perdido aquel sonido. 
+                C                      G
+Ahora quién lo dio por perdido aquel sonido.
              Am   C                G
 El humo nos cegó ooh el humo nos cegó
-              C                        G                                   
-Dónde fue a parar el tren que nunca cogimos. 
+              C                        G
+Dónde fue a parar el tren que nunca cogimos.
                C                    G
 Dónde fue a parar el eco de aquel sonido.
-                C                      G                              
-Ahora quién lo dio por perdido aquel sonido. 
+                C                      G
+Ahora quién lo dio por perdido aquel sonido.
              Am   C                G
 El humo nos cegó ooh el humo nos cegó
              Am   C                G
@@ -592,7 +586,7 @@ M-clan
 
 INTRO ARPEGIANDO
 F C Gsus4 C  x6
- 
+
 
 ESTROFA
            F   C   G   C
@@ -603,7 +597,7 @@ No es Jueves santo
 No es el amor
             F   C   G   C
 Son tus encantos.
- 
+
          F    C        G        C
 La pena máxima, sería no verte más
        F      C       G        C
@@ -612,7 +606,7 @@ Operación fracaso, a mí no me va
 Una mina como tú puede explotar
    F        C         G        C
 Quiero ser un veterano de Vietnam.
- 
+
 
 ESTRIBILLO
 F            C    G  C
@@ -623,10 +617,10 @@ F                        E     Am
 Filosofía barata no lo quieres ver
 Gsus4
 Juegos de palabras.
- 
+
 [Interlude]
-F C G C  x2 
- 
+F C G C  x2
+
 [Verse 3]
 F        C   G   C
 Hablemos
@@ -636,8 +630,8 @@ De arte moderno
 Por que te quedes hoy
 G       C             F  C  G  C
 Soportaría el infierno
- 
- 
+
+
 [Verse 4]
 F           C           G       C
 A estas alturas no me quiero caer
@@ -647,7 +641,7 @@ F             C      G          C
 Salimos de dudas, salimos de aquí
      F         C          G          C
 No es literatura ni te hablo de dormir.
- 
+
 
 ESTRIBILLO
 F            C    G  C
@@ -658,13 +652,13 @@ F                        E     Am
 Filosofía barata no lo quieres ver
 Gsus4
 Juegos de palabras.
- 
+
 Solo
 
 F C G C  x4
 Am F G Am Gsus4
 F C Gsus4 C  x2
- 
+
 
 PUENTE
      F       C     Gsus4   C
@@ -675,7 +669,7 @@ Y hoy es ayer
 Me desperté con resaca
 F              C       Gsus4  C
 Y ese no es un nombre de mujer.
- 
+
 
 ESTRIBILLO
 F            C    G  C
@@ -686,7 +680,7 @@ F                        E     Am
 Filosofía barata no lo quieres ver
 Gsus4
 Juegos de palabras.
- 
+
 F            C    G  C
 Piensa que mañana
 F           C    G  C
@@ -695,8 +689,8 @@ F                        E     Am
 Filosofía barata no lo quieres ver
 Gsus4
 Juegos de palabras.
- 
- 
+
+
 [Outro]
 F C G C  x4
 8. M-CLAN - GRUPOS AMERICANOS
@@ -706,7 +700,7 @@ Capo 1
 ESTROFA
 A D
 A D
- 
+
 
 ESTROFA
                A           D
@@ -715,7 +709,7 @@ Fue flor del vientre del león
 El viento suave levantó
     A             D           E    D
 Vestía un abrigo de segunda mano
- 
+
   A           D
 Soñaba con rodar,
       A                 D
@@ -728,11 +722,11 @@ N.C.           A  D              A   D
 Grupos americanos, cintas de casete
           A        E     D           E      A
 Yo lo recuerdo a día de hoy, se me eriza la piel
- 
+
 Instrumental
 
 A D A D
- 
+
 
 ESTROFA
         A          D
@@ -741,15 +735,15 @@ Se vistió, se afeitó,
 Su guitarra afinó
      A         D            E  D
 Preparado para un largo viaje
- 
+
         A          D
 Dejó el nido maternal ,
             A            D
 Como un halcón echó a volar
      A              D           E
 Iluminado siempre por un sol mayor
- 
- 
+
+
 
 ESTRIBILLO
 N.C.           A  D              A   D
@@ -760,7 +754,7 @@ Yo lo recuerdo a día de hoy, se me eriza la piel
 Grupos americanos, cintas de casete
           A        E     D            E      A
 Yo lo recuerdo a día de hoy, se me eriza la piel
- 
+
 
 F#m      D          A          E
   Y los días rápidos libres y etílicos,
@@ -772,7 +766,7 @@ Algo que no tiene cura
 Instrumental
 
 A D A D
- 
+
 
 ESTROFA
            A           D
@@ -781,7 +775,7 @@ Escucha el ruido del motor
 El autocar le despertó
          A            D              E
 Otra ciudad otro escenario otra canción
- 
+
 
 ESTRIBILLO
 N.C.           A  D              A   D
@@ -796,7 +790,7 @@ Y lo recuerdo a día de hoy,
 Lo recuerdo a día de hoy,
        A       E      D           E      A
 Lo recuerdo a día de hoy, se me eriza la piel
- 
+
 
 FINAL
 A D
@@ -808,7 +802,7 @@ Sin capo
 
 INTRO
 A  D  A  D  A  D  A  D
- 
+
 
 ESTROFA
 A         D   A          D
@@ -821,7 +815,7 @@ Se quedó sumergido engañando al tiempo... bajo un iceberg
 Burbujas que se pierden y ya no alcanzo a ver
 
 ESTRIBILLO
- 
+
 F#m                E                 D
  Hasta que se acostumbre a la oscuridad
 F#m  E                       D
@@ -836,7 +830,7 @@ F                             G      A
  Hasta que se acostumbre a la oscuridad
 
 ESTROFA
- 
+
 A              D   A                 D
  Ahora es el centro de un radio infinito
 A                D    F#m          Bm
@@ -858,23 +852,23 @@ No dejéis de hablar
 F                    G      A
 ¿Cuánto tiempo tiene que pasar
 F                             G      A
- Hasta que se acostumbre a la oscuridad 
+ Hasta que se acostumbre a la oscuridad
 
 Solo
 
 A G F - F E D - D C A (en quintas con distorsión) (x3)
- 
+
 A  D  A  D  A  D  A  D (ahora sin distorsión, imitando al piano)
 
 PUENTE
- 
+
 A           D      A             D
 ¡Ey, vosotros! No sé si estáis ahí...
        A           D      F#m             Bm
 ¿Por qué no contestáis? ¿O es que no me oís?
 
 ESTRIBILLO
- 
+
 F#m                E                 D
  Hasta que me acostumbre a la oscuridad
 F#m  E                       D
@@ -889,13 +883,12 @@ F                              G     A
  Hasta que me acostumbre a la oscuridad?
 A G F                               F E D        D C A
       Hasta que me acostumbre a la oscuridad...
- 
+
 A G F - F E D - D C A (en quintas con distorsión) (x6)
 A B C D (x3)
 A B C D F G   G A A G A   G A A G A
 (esto se toca mejor haciendo cejilla en todos los acordes y
 bajando hasta terminar con el LA en el traste 12)
-
 
 10. M-CLAN - INMIGRANTE
 M-Clan
@@ -903,7 +896,7 @@ Guitarra eléctrica. Fingerpicking
 
 INTRO
 Bm   Bm   x2
- 
+
 
 ESTROFA
 Bm
@@ -912,14 +905,14 @@ A
 guardaron mis secretos de niñez
       G       Em               Bm     A
 y hoy no, hoy no, no los encuentro.
- 
+
 Bm
 Algún ladrido rebota en la pared
 A
 oigo llamadas de voces del ayer
   G   Em              Bm
 y no, yo no llego a tiempo.
- 
+
 
 ESTRIBILLO
 Em
@@ -930,14 +923,14 @@ F#                  G   D/F# Em      D   Bm     A
 todo ha cambiado y yo - o    no me encuentro.
 
 ESTROFA
- 
+
 Bm
 Las grúas de hierro destruyeron mi país
 A
 solo hay cemento es el progreso gris
     G      Em            Bm     A
 perdón, perdón, yo no lo veo.
- 
+
 Bm
 Como un camión de paja mal tapado
 A
@@ -945,9 +938,8 @@ dejé mi alma por todos lados
     G      Em          Bm
 se fue, se fue desmenuzando.
 
-
 ESTRIBILLO
- 
+
 Em
 Hoy encontré todas las ventanas rotas
 D
@@ -961,7 +953,7 @@ D
 hoy soy aquí solo un extranjero más
    F#          G D/F#   Em D   Bm
 un inmigrante del desaliento - o.
- 
+
 Solo
 
 | G    | D    | F#   | Bm   | x3
@@ -973,18 +965,18 @@ D
 y vuelvo a ser un recién llegado más
 F#                  G   D/F# Em      D   Bm
 todo ha cambiado y yo - o    no me encuentro.
- 
+
 Em
 Y es que es verdad que el tiempo no te espera
 D
 hoy soy aquí solo un extranjero más
    F#          G  D/F# Em    D      Bm
 un inmigrante de - el  desaliento - o.
- 
+
 Instrumental
 
 | G    | D    | F#   | Bm   | x4
- 
+
 Solo
 
 | G    | D    | F#   | Bm   | x3
@@ -1045,74 +1037,73 @@ Em    Fsus    D    G
 12. M-CLAN - LA ESPERANZA
 M-Clan
 
-
 C D
 C D
 C D C D C D
- 
+
 [Verse 1]
     G       C        G
 Yo soy el que te habló
      C            G          C        G
 Una vez de las estrellas, traía souvenirs
- 
+
 [Verse 2]
      G      C     G
 También viajé al sur
     C              G        C           G
 Llegué a islas desiertas y nunca más te vi
- 
+
 [Pre-Chorus]
               Am      G        Am                Em
 Pero ahora estoy de vuelta, no veo la justicia aquí
 Am                G                 D
 Dime dónde se encuentra si puede venir
- 
+
 
     G     C       G           C
 Yo soy aquel que tú conoces bien
           G           D        G
 Y la esperanza, me empuja a seguir
- 
+
 [Interlude]
 C D C D C D
- 
+
 [Verse 3]
    G     C        G
 Dejad entrar, la luz
   C             G           C               G
 Aquí en las tinieblas que llegue el sol por fin
- 
+
 [Verse 4]
         G      C       G     C
 Y si crees que hay un Dios ahí
                 G       C          G
 Da igual quien sea, no nos parece oír
- 
+
 [Pre-Chorus]
              Am       G           Am                   Em
 Pero ahora estoy de vuelta, no encuentro la justicia aquí
 Am             G                D
 Quítate ya la venda y deja de huir
- 
+
 
     G     C       G           C
 Yo soy aquel que tú conoces bien
           G           D        G
 Y la esperanza, me empuja a seguir
- 
-[Solo]
+
+SOLO
 G C G C
 G C G G
 G C G C
 G C G G
- 
+
 [Pre-Chorus]
              Am       G        Am                Em
 Pero ahora estoy de vuelta, buscando la verdad aquí
 Am            G                 D
 Quítate ya la venda y deja de huir
- 
+
 
     G     C       G           C
 Yo soy aquel que tú conoces bien
@@ -1124,21 +1115,21 @@ Y la esperanza, me empuja a seguir
 m-clan
 Sin capo
 
- 
+
 e|---------------3p0-3p0h3----------------0---0----|
 B|--0--1--3--5---------------0--1--3---------0-----|
 G|--0--2--4--5---------------0--2--4--2------------|
 D|------------------------------------2------------|
 A|-------------------------------------------------|
 E|-------------------------------------------------|
- 
+
 e|--------------3p0-3p0h3-2~-2-------------|
 B|--0--1--3--5-----------------------------|
 G|--0--2--4--5-----------------------------|
 D|------------------------------0--2--4----|
 A|-----------------------------------------|
 E|-----------------------------------------|
- 
+
 G          C                 G          D7                G
 Desnudo al sol, mientras el mundo se derrumba a mí alrededor,
            C               G            D7
@@ -1147,7 +1138,7 @@ Em          C              G            D7            Em
 Me sorprendió una gran tormenta de energía positiva y yo
            C           D   C D
 Desnudo al sol y nada más.
- 
+
           G                      C             G
 Hay quien dice que puede ser perjudicial sin embargo
                 D7
@@ -1160,7 +1151,7 @@ No me interesa lo que digan los políticos,
 No me creo de la misa la mitad
       G                            C           D
 La mentira está escrita en los periódicos de mañana
- 
+
 
 G          C              G        D7              G
 Desnudo al sol como en la era del hombre paleolítico
@@ -1170,7 +1161,7 @@ Em         C              G            D7              Em
 Se me olvidó que te gustaría haber montado una revolución
            C              D   C D
 Hazme el amor desnudo al sol
- 
+
           G                      C             G
 Hay quien dice que puede ser perjudicial sin embargo
                 D7
@@ -1183,11 +1174,11 @@ No me interesa lo que digan los políticos,
 No me creo de la misa la mitad
       G                            C           D
 La mentira está escrita en los periódicos de mañana
- 
- 
+
+
 Bm C Bm D
 Em C Bm D
- 
+
           G                      C             G
 Hay quien dice que puede ser perjudicial sin embargo
                 D7
@@ -1200,7 +1191,7 @@ No me interesa lo que digan los políticos,
 No me creo de la misa la mitad
       G                            C           D
 La mentira está escrita en los periódicos de mañana
- 
+
      G                     C
 Nara na na nara nara na ra na
      G               D
@@ -1222,7 +1213,7 @@ Sin capo
 INTRO
 A Bsus4 D A
 A Bsus4 D A Bm C#m
- 
+
 
 ESTROFA
 E                D                   A
@@ -1231,7 +1222,7 @@ Vamos Maggie despierta tengo algo que decir
 Llegó septiembre y creo que me tengo que ir
     D                A         D                    E
 El curso ha empezado ya y mis libros no sé dónde están
- 
+
 
 ESTRIBILLO
    Bm                 C#m   Bm E
@@ -1240,7 +1231,7 @@ OH MAGGIE NO ES EL MEJOR FINAL
 Pero sé que te repondrás y que a mí me costará mucho más
         Bm             E               A
 Me has destrozado pero yo te quiero igual
- 
+
 
 ESTROFA
        E               D                     A
@@ -1249,7 +1240,7 @@ Si el sol te da en la cara deja ver tu verdadera edad
 Pero esto nunca me ha importado, esa es la verdad
     D                A          D                    E
 Rompiste mi cama en dos y ahora tengo que decirte adiós
- 
+
 
 ESTRIBILLO
    Bm           C#m       Bm E
@@ -1260,13 +1251,12 @@ Sé que te repondrás y que a mí me costará mucho más
 Estoy cansado pero aún te quiero igual
 
 Instrumental
- 
+
 Bm E A D
 Bm E A A
 
-
 ESTROFA
- 
+
 E              D         A
 Creo que volveré a clase otra vez
        E             D                  A
@@ -1277,14 +1267,14 @@ D                     E
 Eso es lo que hago mejor
 
 ESTRIBILLO
- 
+
    Bm                    C#m   Bm E
 OH MAGGIE SÉ QUE NO ES BUEN FINAL
 Bm               E          Bm                   E
 Sé que te repondrás y que a mí me costará mucho más
       Bm              E               A
 Me hiciste polvo pero yo te quiero igual
- 
+
 Instrumental
 
 Bm E A D
@@ -1295,7 +1285,7 @@ A Bsus4 D A
 A Bsus4 D A
 A Bsus4 D A
 A Bsus4 D A
- 
+
 
 PUENTE
  A          Bsus4  D              A
@@ -1303,7 +1293,7 @@ Maggie despierta tengo que irme ya
 A Bsus4 D A
       A          Bsus4       D               A
 Me hiciste polvo Maggie pero yo te quiero igual
- 
+
 A Bsus4 D D C#m Bm A
 15. M-CLAN - MIEDO
 M-CLAN
@@ -1316,7 +1306,7 @@ G           Em            Cm            G
 NO ES UN FINAL FELIZ TAN SÓLO ES UN FINAL
         Em          A/C#                C   Cm
 pero parece ser que ya no hay vuelta atrás.
- 
+
 G         Em   Cm            G
 Sólo te di diamantes de carbón
 G         Em            Cm         G
@@ -1325,7 +1315,7 @@ rompí tu mundo en dos rompí tu corazón
 y ahora tu mundo está burlándose de mí.
 
 ESTRIBILLO
- 
+
 Am       D           G
 Miedo de volver a los infiernos
         Em             Am
@@ -1340,14 +1330,14 @@ de encontrarte de repente
 de no verte nunca más.
 
 ESTROFA
- 
+
 G        Em        Cm           G
 Oigo tu voz siempre antes de dormir
 G           Em     Cm              G
 me acuesto junto a ti y aunque no estás aquí
           Em          A/C            C  Cm
 en esta oscuridad la claridad eres tú.
- 
+
 
 ESTRIBILLO
 Am       D           G
@@ -1362,19 +1352,19 @@ Miedo de quererte sin quererlo
 de encontrarte de repente
        D   D#dim7 Em
 de no verte nunca más
- 
+
 A/C#
 YA SÉ QUE ES EL FINAL
 C                      Em
 no habrá segunda parte.
 A/C#               C
 Y no sé cómo hacer para borrarte.
- 
+
 Em A C  x4
- 
+
 G        Em  Cm              G
-PARA EMPEZAR DIRÉ QUE ES EL FINAL. 
- 
+PARA EMPEZAR DIRÉ QUE ES EL FINAL.
+
 
 ESTRIBILLO
 Am       D           G
@@ -1397,16 +1387,16 @@ de no verte nunca más.
 de no verte nunca más.
 
 PUENTE
- 
-G    F           C     Cm
-y aquí en el infierno
-G  F        C     Cm
-   oigo tu voz. 
+
 G    F           C     Cm
 y aquí en el infierno
 G  F        C     Cm
    oigo tu voz.
- 
+G    F           C     Cm
+y aquí en el infierno
+G  F        C     Cm
+   oigo tu voz.
+
 G F C Cm  x4
 G
 16. M-CLAN - QUE ESTÁ PASANDO
@@ -1415,7 +1405,7 @@ Capo en traste 2. Am7s y Bm7s preferiblemente
 
 INTRO
 G Cadd9 G Cadd9 G Cadd9 G Cadd9
- 
+
 
 ESTROFA
 Am                       D
@@ -1426,11 +1416,11 @@ Am                       D
 Romperé mi lupa y compraré reparador,
 Cadd9                   D             G
 quiero como nuevo este viejo corazóoo ooon.
- 
+
 Solo
 
 G Cadd9 G Cadd9
- 
+
 
 ESTROFA
 Am                       D
@@ -1446,36 +1436,36 @@ ESTRIBILLO
 Cadd9         G Cadd9 Cadd9            G Cadd9
 Qué está pasando,    que no me dejas,
 Cadd9            Am           D
-soy como un perro y mis ladridos 
+soy como un perro y mis ladridos
           Cadd9      Bm
 ya no te llegaaa aan.
 Cadd9            G Cadd9
-Qué está pasando, 
+Qué está pasando,
 Cadd9        G Cadd9
-que me gustaría 
+que me gustaría
 Cadd9             Am              D
-mojar mi dinero,no echarte de menos, 
+mojar mi dinero,no echarte de menos,
             Cadd9            Bm
 secarme contigo.
             Cadd9            Bm
 secarme contigo.
- 
+
 Solo
 
 | Am | D  | Bm | Em |
 | Am | Bm | Cadd9 | D |
 
 ESTRIBILLO
- 
+
 Cadd9            G Cadd9
-Qué está pasando, 
+Qué está pasando,
 Cadd9            G Cadd9
 que no me dejas,
 Cadd9            Am           D
-soy como un perro y mis ladridos 
+soy como un perro y mis ladridos
           Cadd9      Bm
 ya no te llegaaa aan.
- 
+
 
 PUENTE
 Am                            D
@@ -1488,32 +1478,32 @@ cuando lo conectes, pensarás solo en mí,
 si suena esta canción,
           D              G      Cadd9
 es la que hice para tii  iiii.
- 
+
 
 ESTRIBILLO
- 
+
 Cadd9            G Cadd9
-Qué está pasando, 
+Qué está pasando,
 Cadd9            G Cadd9
 que no me dejas,
 Cadd9            Am           D
-soy como un perro y mis ladridos 
+soy como un perro y mis ladridos
           Cadd9      Bm
 ya no te llegaaa aan.
- 
+
 Cadd9              G            Cadd9
-Qué está pasando, 
+Qué está pasando,
 Cadd9        G            Cadd9
-que me gustaría 
+que me gustaría
 Cadd9             Am
 mojar mi dinero,
 Am            D
-no echarte de menos, 
+no echarte de menos,
             Cadd9     Bm
 secarme contigooo oooooo
             Cadd9     Bm
 secarme contigooo oooooo
- 
+
 
 D      G      Cadd9
 Huhuhuuuu
@@ -1530,17 +1520,17 @@ INTRO
 C F   C G x4
 
 ESTROFA
-C F              C G      C F                C G			
-No quiero ser soldado no quiero ser el hijo del patrón, 
-C F              C G      C F               C G		
+C F              C G      C F                C G
+No quiero ser soldado no quiero ser el hijo del patrón,
+C F              C G      C F               C G
 no quiero ser el malo, ni el bueno, ni el feo por favor,
 C F              C G           C F                    C G
 no quiero estar encima de ti, dudo que pudiera estar debajo,
 C F              C G        C F              C G
 no tengo prisa por llegar nunca he cogido un atajo...
 
-Am             C         D            E	       
-No quiero ser río, ni tampoco ser un barco, 
+Am             C         D            E
+No quiero ser río, ni tampoco ser un barco,
 Am          G            D           G
 no quiero remar y mucho menos naufragar
 
@@ -1560,12 +1550,10 @@ C F                  C G     C F                      C G
 No quiero hablar más alto, y es que ni siquiera quiero hablar.
 C F                C G          C F                    C G
 no hay nada que te pueda decir, que no hayas escuchado ya...
-Am             C         D            E	       
-No quiero quedarme en tu memoria para siempre, 
+Am             C         D            E
+No quiero quedarme en tu memoria para siempre,
 Am          G            D           G
 no quiero ser lastre que no te permita andar...
-
-
 
 ESTRIBILLO
 C            F  C G           C     F             C    G
@@ -1575,7 +1563,7 @@ quédate a dormir, que pasen 30 años antes de mañana...
 Dm7     Em     Dm7    Em F       G     Am   G
 uh   uh,uh  uh,uh  uh,uh uh   uh,uh   uh,uh,uh
 
-Solo 
+Solo
 
 C F C G x6
 
@@ -1632,8 +1620,6 @@ estoy todo roto y no quiero seguir así.
 Solo
 Bb  Am  G / Bb  Am  G / Bb  Am  D
 
-
-
 PUENTE
 C               D  Em            A7
 Pero el día amanece y nada me parece
@@ -1649,6 +1635,3 @@ ESTRIBILLO
 Y es que estoy todo roto por dentro, estoy todo roto y desecho,
 D                      C            G
 estoy todo roto y no quiero seguir así.
-
-
-

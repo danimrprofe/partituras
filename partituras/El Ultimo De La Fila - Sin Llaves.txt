@@ -1,7 +1,6 @@
-CEJILLA/CAPO: Sin cejilla
 
 
-EL ULTIMO DE LA FILA 
+EL ULTIMO DE LA FILA
 SIN LLAVES
 
 INTRO
@@ -10,7 +9,7 @@ Am C Am G
 Am C Am G D
 
 ESTROFA
-    Am                  C          
+    Am                  C
 La vida que espero y esperaré
 Am                   G              Am
 a la sombra en el oasis que me inventé.
@@ -80,6 +79,3 @@ Am            C                    Am
 Candiles de aceite habrá que encender
                     G             D             Am
 Sin llaves, a las puertas del instante estoy...
-
-
-

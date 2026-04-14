@@ -1,12 +1,7 @@
-# Roto por dentro
+Intro
+G - Bm - Em - Bm - C - D - G
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 4    |
-
-```
-Intro: G - Bm - Em - Bm - C - D - G
-
+ESTROFA
 C         D       G
 Aun me cuesta admitir
 C         D       G
@@ -64,8 +59,5 @@ Estoy  todo roto por dentro, estoy todo roto y desecho,
 D                     C            G
 estoy todo roto y no quiero seguir así.
 
-
 le modifiqué los acordes del solo
 y algunos acordes de las estrofas que estaban mal
-
-```

@@ -1,4 +1,4 @@
-JOAQUÍN SABINA 
+JOAQUÍN SABINA
 AVES DE PASO
 G   G/C G   G/C
 
@@ -19,12 +19,12 @@ A la flor de lis de las peluqueras que me trajo el tren de la primavera
                Cm            G
 y el tren del invierno me arrebato
 
-      C            G             Am        C      G          
-A las flores de un día que no duraban, que no dolían, 
+      C            G             Am        C      G
+A las flores de un día que no duraban, que no dolían,
          D          C      G
 que te besaban, que se perdían
-C          G               Am         C           
-Damas de noche que en el asiento de atrás de un coche 
+C          G               Am         C
+Damas de noche que en el asiento de atrás de un coche
          Am        C      D
 no preguntaban si las querías
 C        G         Dsus4    C      G
@@ -64,4 +64,3 @@ de un cuarto de hotel, dulce hotel
 ESTRIBILLO
 G G/C G G/A
 G G/C G G/A
-

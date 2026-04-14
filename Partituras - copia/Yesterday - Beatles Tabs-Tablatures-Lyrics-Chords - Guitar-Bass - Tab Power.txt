@@ -1,20 +1,17 @@
-yesterday - BEATLES Tabs/Tablatures/Lyrics/Chords - Guitar/Bass - TAB POWER 
-                  Search tabs by artist/band name or song title:     
+yesterday - BEATLES Tabs/Tablatures/Lyrics/Chords - Guitar/Bass - TAB POWER
+                  Search tabs by artist/band name or song title:
 
-                  Browse by artist/band:  A B C D E F G H I J K L M N O P Q R S 
-                  T U V W X Y Z # 
+                  Browse by artist/band:  A B C D E F G H I J K L M N O P Q R S
+                  T U V W X Y Z #
 
-              HomeAdd / Correct TablatureGuideLinksBookmark Us 
-
+              HomeAdd / Correct TablatureGuideLinksBookmark Us
 
             BEATLES Tablatures - yesterday Guitar Tablature/Chords
-
 
 #----------------------------------PLEASE NOTE----------------------------------#
 # This file is the author's own work and represents their interpretation of the #
 # song. You may only use this file for private study, scholarship, or research. #
 #-------------------------------------------------------------------------------#
-
 
 From: Davor Raic <davor@wxs.nl>
 Subject: b/beatles/yesterday.pro
@@ -45,58 +42,52 @@ Date: Tue, 30 Jun 1998 00:27:56 +0200
 # The explanation came from Paul in the introduction to the song
 # on the album "Anthology 2" (number 7): the guitar is tuned one
 # full tone lower and F should be played like G. Try it and you
-# will realise that this sounds as it should. The tricky bit is picking 
+# will realise that this sounds as it should. The tricky bit is picking
 # the bass strings and strumming the upper three strings, but listen
-# carefully and you will get around it. I am sure that this transcription 
+# carefully and you will get around it. I am sure that this transcription
 # can be improved but I liked my descovery so much that I left it as
 # transcribed for the first time. Enjoy and let me know what you think.
 
-[F]Yesterday,[Em]    all my [-]troubles seemed so [Dm]far away [Dm7/C]   
-[Bb]Now it [C7]looks as though they're [F]here to stay, 
+[F]Yesterday,[Em]    all my [-]troubles seemed so [Dm]far away [Dm7/C]
+[Bb]Now it [C7]looks as though they're [F]here to stay,
 [Em]oh    [Dm]I be-  [G]lieve in  [Bb]yester[F]day
-[F]Suddenly,[Em]     I'm not [A7]half the man I [Dm]used to be [Dm7/C]    
-[Bb]Theres a [C7]shadow hanging [F]over me, 
+[F]Suddenly,[Em]     I'm not [A7]half the man I [Dm]used to be [Dm7/C]
+[Bb]Theres a [C7]shadow hanging [F]over me,
 [Em]oh   [Dm]yester[G]day came [Bb]sudden[F]ly
 
 {start_of_bridge}
-[Em]Why    [A7]she    [Dm]had [Dm7/C]   to         [Bbmaj7]go         
+[Em]Why    [A7]she    [Dm]had [Dm7/C]   to         [Bbmaj7]go
 [Dmadd9]I do-      [Dm]nt     [Gm6]know she [C7]wouldn't [F]say
 [Em]I     [A7]said [Dm]some- [Dm7/C]thing   [Bbmaj7] wrong
 [Dmadd9]now       [Dm]I      [Gm6]long for [C7]yester[F]day
 {end_of_bridge}
 
-[F]Yesterday,[Em]     love was [A7]such an easy [Dm]game to play[Dm7/C]   
+[F]Yesterday,[Em]     love was [A7]such an easy [Dm]game to play[Dm7/C]
 [Bb]Now I [C]need a place to [F]hide away,
 [Em]oh   [Dm]I be- [G]lieve in [C]yester[F]day
- 
+
 {start_of_bridge}
-[Em]Why    [A7]she    [Dm]had [Dm7/C]   to         [Bbmaj7]go         
+[Em]Why    [A7]she    [Dm]had [Dm7/C]   to         [Bbmaj7]go
 [Dmadd9]I do-      [Dm]nt     [Gm6]know she [C7]wouldn't [F]say
 [Em]I     [A7]said [Dm]some- [Dm7/C]thing   [Bbmaj7] wrong
 [Dmadd9]now       [Dm]I      [Gm6]long for [C7]yester[F]day
 {end_of_bridge}
- 
-[F]Yesterday,[Em]     love was [A7]such an easy [Dm]game to play[Dm7/C]   
-[Bb]Now I [C]need a place to [F]hide away, 
+
+[F]Yesterday,[Em]     love was [A7]such an easy [Dm]game to play[Dm7/C]
+[Bb]Now I [C]need a place to [F]hide away,
 [Em]oh   [Dm]I be- [G]lieve in [C]yester[F]day
-[F/C]Mm mm[G/B] mm mm  [Bb]mm [F] mm 
-
-
-
-
-
-
+[F/C]Mm mm[G/B] mm mm  [Bb]mm [F] mm
 
             BEATLES Chords - yesterday Tab
-            Site contains tabs (tablatures), chords, song lyrics of popular 
+            Site contains tabs (tablatures), chords, song lyrics of popular
             songs, compilations.
-            You may find new text or lyric, free tabs for guitars and basses 
+            You may find new text or lyric, free tabs for guitars and basses
             here.
-             
 
-            © 2002 TabPower.comAll tabs are the author's own work and represents 
+
+            ï¿½ 2002 TabPower.comAll tabs are the author's own work and represents
             their interpretation of the song.
-            You may only use this file for private study, scholarship, or 
-            research. 
+            You may only use this file for private study, scholarship, or
+            research.
 
-Tablatures for: yesterday - Song: BEATLES Tablature/Chords 
+Tablatures for: yesterday - Song: BEATLES Tablature/Chords

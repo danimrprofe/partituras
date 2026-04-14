@@ -1,4 +1,4 @@
-JARABE DE PALO 
+JARABE DE PALO
 DOS DÍAS EN LA VIDA
 
 ESTRIBILLO
@@ -34,7 +34,7 @@ Hay dos días en la vida para los que no nací
 SOLO
 F Am E7 Am
 F Am E7 Am N.C.
- 
+
 
 ESTROFA
                    Am
@@ -81,6 +81,5 @@ FINAL
 Hay dos días en la vida
                    F   Am E7 Am
 Dos momentos en la vida
- 
-(Fade out)
 
+(Fade out)

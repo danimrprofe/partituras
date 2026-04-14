@@ -4,11 +4,11 @@
 | --------- | --------- | ------ | ---- |
 |           | Estándar  | 4/4    | 4    |
 
-```
-**Intro**
+
+INTRO
 D D D G C D
 
-**Estribillo**
+ESTRIBILLO
 D
 Corazón en transito de paso en la ciudad
 D                        C     G         D
@@ -37,7 +37,7 @@ Bm       C       D
 A
 Corriendo a otro lugar
 
-**Estribillo**
+ESTRIBILLO
 D
 Corazón en transito de paso en la ciudad
 D                        C     G         D
@@ -56,7 +56,7 @@ Bm     C                        D
 A
 Mañana ya no estarás
 
-[Solo]
+SOLO
 D D D C G D
 D D D C G D
 
@@ -70,7 +70,7 @@ Puedo ver tu espejismo
      A#                   C
 Pero ya no estas ya no estas
 
-**Estribillo**
+ESTRIBILLO
 D
 Corazón en transito de paso en la ciudad
 D                        C     G         D
@@ -87,4 +87,3 @@ D
 Corazón en transito a punto de embarcar
 D                           C      G      D   C G D
 No hay calor humano en el desierto donde vas
-```

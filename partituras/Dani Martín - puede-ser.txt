@@ -1,4 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
 
 
 ## Puede ser
@@ -98,4 +97,3 @@ Algo que pueda encontrar
 Que me ayude a imaginar
                   C
 Y yo lo quiero lograr
-

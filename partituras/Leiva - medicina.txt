@@ -11,7 +11,6 @@ los arboles ardían
 A                 D
 y tu ibas a callártelo
 
-
 ESTROFA 2
 D           F#m
 quería avanzarte
@@ -37,7 +36,6 @@ A   G  D
 tu medicina
 
 D
-
 
 ESTROFA 3
 D          F#m
@@ -72,7 +70,6 @@ cuando vas a probar
 A   G   D
 tu medicina
 
-
 ESTROFA 4
 D          F#m
 quería aclararte
@@ -105,7 +102,3 @@ G          D
 cuando te va alcanzar
 A   G   D
 tu medicina
-
-
-
-

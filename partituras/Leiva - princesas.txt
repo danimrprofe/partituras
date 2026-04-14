@@ -2,7 +2,6 @@
 INTRO
 G
 
-
 ESTROFA 1
         G
 Sigo buscando una sonrisa de repente en un bar,
@@ -17,7 +16,6 @@ cualquier excusa, una chorrada, es buena para brindar
           Em                    C                       G
 soltar en una carcajada todo el aire y después respirar.
 
-
 PRE-ESTRIBILLO
          C                    D      Em
 Sentirme como una colilla entre unos labios al fumar,
@@ -28,13 +26,11 @@ qué inoportuno fue decirte “me tengo que largar”,
          C                D                     G
 pero qué bien estoy ahora, no quiero volver a hablar
 
-
 ESTRIBILLO
        C     D      G         Am    C     G
 De princesas que buscan tipos que coleccionar
       C    D     Em         F               C    G
 a los pies de su cama, eres algo que he olvidado ya
-
 
 ESTROFA 2
 G
@@ -50,7 +46,6 @@ G                                          D/F#
         Em         C                       G
 a veces pienso que algo malo viene detrás.
 
-
 PRE-ESTRIBILLO
           C                    D      Em
 Me siento como una colilla entre unos labios al fumar,
@@ -60,7 +55,6 @@ Me cuelgo de cualquiera que le guste trasnochar,
 qué inoportuno fue decirte “me tengo que largar”,
          C                D                     G
 pero qué bien estoy ahora, no quiero volver a hablar
-
 
 ESTRIBILLO
        C     D      G         Am    C     G
@@ -72,7 +66,6 @@ de princesas que buscan tipos que coleccionar
       C     D    Em         F               C    G
 a los pies de su cama, eres algo que he olvidado ya
 
-
 ESTROFA 3
         G
 Sigo buscando una sonrisa de repente en un bar,
@@ -80,7 +73,6 @@ G                                       D/F#
 una calada de algo que me pueda colocar,
        Em                     C         G
 una película que consiga hacerme llorar…
-
 
 ESTRIBILLO
        C     D       G        Am    C     G
@@ -92,9 +84,5 @@ de princesas que buscan tipos que coleccionar
       C    D     Em         F               C    G
 a los pies de su cama, eres algo que he olvidado ya
 
-
 OUTRO
 G
-
-
-

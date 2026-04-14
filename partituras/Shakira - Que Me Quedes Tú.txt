@@ -1,7 +1,3 @@
-CEJILLA/CAPO: Capo 0
-
- 
-
 ESTROFA 1
 E                      Bm
 Que se arruinen los canales de noticias
@@ -19,8 +15,8 @@ Bm            F#m          A                E
    que se destruyan en el mundo los placeres,
   Bm                      F#m            E
 y que se escriba hoy una ultima canción.
- 
- 
+
+
 ESTRIBILLO
                    A
 Pero que me quedes tú
@@ -38,14 +34,14 @@ para siempre tu melancolía.
 Porque yo, yo sé, sí que dependo de ti
       A                   E     F F#m
 Si me quedas tu, me queda la vi-i-da.
- 
- 
+
+
 [Post-coro]
- 
+
 Bm  F#m  A  E  x2
 (Repeat intro tab)
- 
- 
+
+
 ESTROFA 2
 E                   Bm
 Que desaparezcan todos los vecinos
@@ -63,8 +59,8 @@ Bm          F#m            A               E
    o que renuncien los filántropos y sabios,
       Bm                    F#m           E
 y que se muera hoy hasta el ultimo poeta.
- 
- 
+
+
 ESTRIBILLO
                    A
 Pero que me quedes tú
@@ -82,16 +78,16 @@ para siempre tu melancolía.
 Porque yo, yo sé, sí que dependo de ti
       A                   E     F F#m
 Si me quedas tu, me queda la vi-i-da.
- 
- 
+
+
 PUENTE
- 
+
 Bm  F#m  A  E
 Bm  F#m  A  E
 Bm  F#m  A  E
 Bm  F#m  D
- 
- 
+
+
 ESTRIBILLO
                    A
 Pero que me quedes tú

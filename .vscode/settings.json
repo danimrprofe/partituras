@@ -1,15 +1,6 @@
 {
-    "spellright.language": [
-        "es"
-    ],
-    "spellright.documentTypes": [
-        "markdown",
-        "latex",
-        "plaintext"
-    ],
-    "cSpell.language": "en,es-ES",
-    "cSpell.words": [
-        "colocón",
-        "Ojillos"
-    ]
+  "spellright.language": ["es"],
+  "spellright.documentTypes": ["markdown", "latex", "plaintext"],
+  "cSpell.language": "en,es-ES",
+  "cSpell.words": ["colocón", "Ojillos"]
 }

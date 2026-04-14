@@ -13,7 +13,7 @@ ESTRUCTURA CANÓNICA (todos los .txt deberían seguir este orden)
    ÁLBUM:   (opcional) Álbum y año, o "—" si no aplica
    ================================================================================
    AFINACIÓN: Estándar (E A D G B E)   u otra (Drop D, DADGAD…)
-   CEJILLA/CAPO: Sin cejilla | Capo N | texto libre
+    | Capo N | texto libre
    ================================================================================
    (Opcional, solo si aplica:)
    TONALIDAD: (ej. Mi mayor)

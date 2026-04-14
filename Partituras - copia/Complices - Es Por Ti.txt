@@ -1,4 +1,4 @@
-COMPLICES 
+COMPLICES
 ES POR TI
 Piano
 
@@ -6,9 +6,9 @@ INTRO
 Dm  Am  G  F  x2
 
 ESTROFA
-Dm             Am             G         F	     
-Es por ti que veo ríos donde solo hay asfalto, 
-Dm                 Am             G         F	   
+Dm             Am             G         F
+Es por ti que veo ríos donde solo hay asfalto,
+Dm                 Am             G         F
 Es por ti que hay océanos donde solo había charcos.
 
 ESTRIBILLO
@@ -47,6 +47,3 @@ Dm                 C                       F	   G                             C
 Tus besos la tinta de mis versos, Que siempre te cuentan.
 Dm    Am      G   F  (3) Dm    Am     G		E                 Am
 Uo, oh, oh, oh, oh, ...        Uo, oh, oh, oh, oh, ... ...Que siempre te cuentan.
-
-
-

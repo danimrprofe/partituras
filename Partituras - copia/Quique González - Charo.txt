@@ -12,7 +12,7 @@ LEYENDA / NOTAS ADICIONALES:
 ================================================================================
 CEJILLA/CAPO: Traste 5
 ================================================================================
-NOTAS ADICIONALES: Cantada originalmente a dúo con Nina de Morgan. 
+NOTAS ADICIONALES: Cantada originalmente a dúo con Nina de Morgan.
 El Capo 5 le da ese sonido agudo y melódico tan característico de este tema.
 ================================================================================
 
@@ -58,8 +58,8 @@ Fmaj7  Em  Fmaj7/C  C  Fmaj7  G  Fmaj7  C
 Fmaj7  Em  Fmaj7/C  C  Fmaj7
 
 PUENTE
-G         Am             G     C     Fmaj7          
-Si tienes prisa Si se te hace raro Vete de aquí 
+G         Am             G     C     Fmaj7
+Si tienes prisa Si se te hace raro Vete de aquí
    Am       G             C                           Fmaj7
 Si vas con los cristales empañados ¿cuándo vienes a por mi?
 

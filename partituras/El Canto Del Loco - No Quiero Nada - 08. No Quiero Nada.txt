@@ -1,4 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
 
 
 Artista:	El Canto del loco
@@ -10,11 +9,11 @@ E F# G A D
 
 E   F#       G       A          D          E   F#       G       A          D
 Na, na, na, na, na, na, na, na, na, na... Na, na, na, na, na, na, na, na, na, na...
-       E               F#             G       
+       E               F#             G
 No te quiero ver más, te he dicho que me dejes en paz
         A                  D
 que no quedo contigo esta tarde
-        E                   F#  
+        E                   F#
 que te largues ya que no quiero más
         G                 A               D
 que te vayas al cine que vuelvas jamás a llamarme
@@ -33,18 +32,18 @@ si me voy corriendo y miro para atrás, me sigues de cerca, quieres espiar
        D           G              A
 todo lo que hago a ti te sienta mal
          D                  G                D                  G
-eres la persona que no quiero ya, eres esa historia que quiero olvidar 
+eres la persona que no quiero ya, eres esa historia que quiero olvidar
        D           G      A
 eres un estorbo, entérate ya
 
 E   F#       G       A          D          E   F#       G       A          D
 Na, na, na, na, na, na, na, na, na, na... Na, na, na, na, na, na, na, na, na, na...
 
-           E                F#      
+           E                F#
 Y creo que es normal lo que te he dicho ya,
         G                     A                   D
 que tu cara espanta, que te compres un mono y le cantes
-       E               F#       
+       E               F#
 no me mires mal que me das igual
      G                 A                D
 intenta pillar lo que dicen hoy estas frases
@@ -63,7 +62,7 @@ si me voy corriendo y miro para atrás, me sigues de cerca, quieres espiar
        D           G              A
 todo lo que hago a ti te sienta mal
      D                  G               D                   G
-eres la persona que no quiero ya, eres esa historia que quiero olvidar 
+eres la persona que no quiero ya, eres esa historia que quiero olvidar
       D           G         A
 eres un estorbo, entérate ya
 
@@ -84,7 +83,3 @@ E      D       G      A
 Na, na, na, na, na, na, na...
 E      D       G      A
 Na, na, na, na, na, na, na...
-
-
-
-

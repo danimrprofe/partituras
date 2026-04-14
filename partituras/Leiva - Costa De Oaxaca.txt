@@ -4,7 +4,7 @@ AÑO: 2019
 CEJILLA/CAPO: -1
 
 ESTROFA
-```
+
          G              G/B                 C
 Si algún día me pierdo, búscame en Mazunte, Costa de Oaxaca
       Am                   G                    D
@@ -25,9 +25,9 @@ Y pinté media luna en el techo, Como hacía mi hermana
 C       D         G
 Como hacía mi hermana
 
-```
-**Estribillo**
-```
+
+ESTRIBILLO
+
 
 Em      C                  G         Bm                Em
 Voy a tumbarme sobre la maleza, A mirar cómo las horas pasan
@@ -37,9 +37,9 @@ Em       C                G             Bm          Em
 No, yo no tengo tu naturaleza, Y he empezado cuatrocientas cartas
      D                     G
 Aquí todo aunque no lo parezca, avanza
-```
-**Puente**
-```
+
+PUENTE
+
       C                    Cm              G          D         Em
 Si me dejas te cuento un secreto, No me atrevo a agarrar la guitarra
          F                                            D
@@ -47,9 +47,9 @@ La otra noche escribí una canción, Que no hablaba de nada
 C        D         G
 Que no hablaba de nada
 
-```
-**Estribillo**
-```
+
+ESTRIBILLO
+
 
 Em      C                  G         Bm                Em
 Voy a tumbarme sobre la maleza, A mirar cómo las horas pasan

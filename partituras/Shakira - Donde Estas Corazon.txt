@@ -2,51 +2,51 @@ CEJILLA/CAPO: Capo 0
 
 ESTROFA 1
                  D   G
-¿Dónde estas corazón? 
+¿Dónde estas corazón?
              D   G
 Ayer te busqué
            D                    G
 Entre el suelo y el cielo, mi cielo
                A
-Y no te encontré 
+Y no te encontré
           Em  G
-Puedo pensar 
+Puedo pensar
               D
-Que huyes de mi 
+Que huyes de mi
              Em               G
-Porque mi silencio una corazonada 
+Porque mi silencio una corazonada
              A
 Me dice que sí
- 
- 
+
+
 ESTROFA 2
                  D   G
 ¿Dónde estás corazón?
                  D   G
-Ven regresa por mí  
+Ven regresa por mí
         D                     G
 Que la vida se me vuelve en ocho
               A
 Si no estás aqui
           Em  G
-Quiero pensar 
+Quiero pensar
               D
 Que no tardarás
                 Em                 G
 Porque en el planeta no existe más nadie
                   A
 A quien pueda yo amar
- 
+
 ESTRIBILLO
                  D   G
-¿Dónde estás corazón? 
+¿Dónde estás corazón?
          C    G
 Ayer te busqué
                D     G
-¿Dónde estás corazón? 
+¿Dónde estás corazón?
           C      G
 Y no te encontré
- 
+
 ESTROFA 3
                  D   G
 ¿Dónde estás corazón?
@@ -64,24 +64,24 @@ Que no tardarás
 Porque en el planeta no existe más nadie
                    A
 A quien puedo yo amar
- 
+
 ESTRIBILLO
                  D   G
-¿Dónde estás corazón? 
+¿Dónde estás corazón?
          C    G
 Ayer te busqué
                D     G
-¿Dónde estás corazón? 
+¿Dónde estás corazón?
           C      G
 Y no te encontré
- 
+
 PUENTE
                   D
 Te busqué en el armario, en el abecedario
            G
 Debajo del carro, en el negro, en el blanco
                     C
-En los libros de historia 
+En los libros de historia
                        G
 En las revistas, en la radio
                   D
@@ -98,24 +98,24 @@ Woah woah woah
 Woah woah woah
 D     G              C  G
 Noooo no no no no no no
- 
+
 ESTRIBILLO
                  D   G
-¿Dónde estás corazón? 
+¿Dónde estás corazón?
          C    G
 Ayer te busqué
                D     G
-¿Dónde estás corazón? 
+¿Dónde estás corazón?
           C      G
 Y no te encontré
- 
+
 FINAL
                   D
 Te busqué en el armario, en el abecedario
            G
 Debajo del carro, en el negro, en el blanco
                     C
-En los libros de historia 
+En los libros de historia
                        G
 En las revistas, en la radio
                   D
@@ -135,7 +135,7 @@ Te busqué en el armario, en el abecedario
            G
 Debajo del carro, en el negro, en el blanco
                     C
-En los libros de historia 
+En los libros de historia
                        G
 En las revistas, en la radio
                   D

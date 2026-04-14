@@ -1,13 +1,13 @@
-﻿ANDRES CALAMARO 
-TE QUIERO IGUAL 
+﻿ANDRES CALAMARO
+TE QUIERO IGUAL
 
 **ESTROFA 1**
         G       D              Em          C
 Te quiero, pero te llevaste la flor y me dejaste el florero.
        G       D           Em              C
 Te quiero, me dejaste las cenizas y te llevaste el cenicero.
-     G          D           Em           C		    	     G 
-Te quiero, pero te llevaste marzo y te rendiste en febrero. Primero, te 
+     G          D           Em           C		    	     G
+Te quiero, pero te llevaste marzo y te rendiste en febrero. Primero, te
  D        G
 quiero, igual.
 
@@ -16,8 +16,8 @@ quiero, igual.
 Te quiero, te llevaste la cabeza y me dejaste el sombrero.
     G           D            Em            C
 Te quiero, pero te olvidaste abril en el ropero, pero igual
-    G              D       Em          C			G              D       
-Te quiero, no me gusta esperar, pero igual te espero. Primero, te quiero, 
+    G              D       Em          C			G              D
+Te quiero, no me gusta esperar, pero igual te espero. Primero, te quiero,
 G
 igual.
 
@@ -26,8 +26,8 @@ igual.
 Te quiero, me dejaste el florero y te llevaste la flor.
      G          D           Em           C
 Te quiero, me dejaste el vestido y te llevaste el amor.
-    G            D            Em          C	   G              D       
-Te quiero, pero te olvidaste abril en el ropero. Primero, te quiero, 
+    G            D            Em          C	   G              D
+Te quiero, pero te olvidaste abril en el ropero. Primero, te quiero,
    G
 igual.
 
@@ -57,5 +57,3 @@ G                D             Em           C
 Te quiero, pero te llevaste marzo y te rendiste en febrero.
 G           D          G
 Primero, te quiero, igual.
-
-

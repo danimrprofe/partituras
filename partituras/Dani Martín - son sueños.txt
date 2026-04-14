@@ -1,6 +1,3 @@
-CEJILLA/CAPO: Sin cejilla
-
-
 
 
 Em C D
@@ -23,7 +20,6 @@ G         Gmaj7      G7
 En silencio te busco
        C       Cmaj7    Am
 Y sueño con poderte amar
-
 
 Am          D
 Te sigo buscando tanto

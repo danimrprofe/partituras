@@ -15,11 +15,11 @@ TONALIDAD: Re Mayor (D Major) - (Acordes en posición de G con Capo 7)
 BPM:       133
 COMPÁS:    4/4
 ================================================================================
-NOTAS ADICIONALES: Estilo Indie Folk. El Capo 7 es fundamental para lograr 
+NOTAS ADICIONALES: Estilo Indie Folk. El Capo 7 es fundamental para lograr
 ese sonido brillante y agudo característico de la guitarra acústica en el disco.
 ================================================================================
 
-INTRO 
+INTRO
 Am          G         C
 Well maybe I'm a crook for stealing your heart away
 Am         G         C
@@ -28,7 +28,7 @@ Am          G       C
 Yeah maybe I'm a bad, bad, bad, bad person
 Am    G          C
       Well baby, I know
- 
+
 Am         G         C
 And these fingertips, will never run through your skin
 Am        G               C
@@ -45,10 +45,10 @@ Fmaj7  G              C         G
 You love, love, love when you know I can't love
 Fmaj7  G              C         G
 You love, love, love when you know I can't love, you..
- 
+
 [INSTRUMENTAL]
 Am  G  C    x4
- 
+
 [ESTROFA]
 Am   G              C               Am        G        C
 So I think it's best we both forget before we dwell on it
@@ -64,13 +64,13 @@ Fmaj7  G              C         G
 You love, love, love when you know I can't love
 Fmaj7  G              C         G
 You love, love, love when you know I can't love, you..
- 
+
         Fmaj7  G              C        G
 Because you love, love, love when you know I can't love
 Fmaj7  G              C         G
 You love, love, love when you know I can't love
 Fmaj7  G              C         G
 You love, love, love when you know I can't love, you..
- 
+
 [FINAL]
 Am  G

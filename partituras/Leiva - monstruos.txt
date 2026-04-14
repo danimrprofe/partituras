@@ -16,7 +16,6 @@ Mira hacia el cielo; baja la guardia; que pase la tormenta;
                D                   G                       A     Asus  A
 que no estás solo; que estás de espaldas  y no te das ni cuenta.
 
-
 ESTRIBILLO
 
                 G          D                   A                       Bm
@@ -39,18 +38,16 @@ Mira hacia el cielo; baja la guardia; que pase la tormenta;
                D                   G                       A     Asus  A
 que no estás solo; que estás de espaldas  y no te das ni cuenta.
 
-
 ESTRIBILLO
-
                 G          D                   A                       Bm
 Que todos esos monstruos debajo de la cama se cuelan en tus sueños tan rápido.
    G                        D                         A             G   D
 Impúlsate en mis hombros; apóyate en mi espalda; perdona si no llega la calma.
+
 INSTRUMENTAL
 F#m | G | A | D F#m
 G | A | Bm |
 A | E | - | -
-
 
 ESTRIBILLO
 
@@ -58,5 +55,3 @@ ESTRIBILLO
 Que todos esos monstruos debajo de la cama se cuelan en tus sueños tan rápido.
    G                        D                         A             G     D
 Impúlsate en mis hombros; apóyate en mi espalda; perdona si no prende la llama.
-
-
