@@ -1,8 +1,4 @@
-
-
-ASTOLA
-COJO EL SACO Y ME RETIRO
-Astola
+INTRO
 Am F G Am G x2
 
 ESTROFA
@@ -15,6 +11,7 @@ En una nube trayendo tormenta
    G                         Am  G
 y yo no estoy listo pa la guerra
 
+ESTRIBILLO
                   F                       G
 Si quieres que me quede, tendrás que prometerme
                  Am                     G
@@ -33,6 +30,7 @@ te lo dije corazón que un día me cansaría
                  F                G              Am        E
 y te lo dije corazón que no iba a ser pa toa la vida   no nooo
 
+PUENTE
    F      G       Am         G
 yo yo no puedo quererte pa siempre yo
 F       G        Am                   E
@@ -49,6 +47,7 @@ de tu fortaleza, pidiendo clemencia.
 G                    Am G
 Ábreme o córtame la cabeza
 
+ESTRIBILLO
                   F                       G
 Si quieres que me quede, tendrás que prometerme
                  Am                     G
@@ -66,6 +65,8 @@ No llevo paraguas y to las noches hay tormenta.
 te lo dije corazón que un día me cansaría
                  F                G              Am        E
 y te lo dije corazón que no iba a ser pa toa la vida   no nooo
+
+PUENTE
    F      G       Am         G
 yo yo no puedo quererte pa siempre yo
 F       G        Am                   E

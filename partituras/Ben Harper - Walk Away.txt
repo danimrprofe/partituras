@@ -1,7 +1,4 @@
 
-
-BEN HARPER
-WALK AWAY
 G5    (3 X X 0 3 X)
 G5/F# (2 X X 0 3 X)
 G5/E  (0 X X 0 3 X)

@@ -1,6 +1,3 @@
-ALBUM: Cuando te muerdes el labio
-AÑO: 2021
-
 ESTROFA
 D         G                     D                G
 Tú estás más o menos bien Y no hay nada malo en ello
@@ -19,7 +16,7 @@ ESTRIBILLO
 Bm        A        G    Bm        A            G
 Y luego sales a bailar Lo pienso todo el puto rato
 F#m        Em                     A            D
-Quién te habrá robado un beso detràs De la fuente de los patos
+Quién te habrá robado un beso detrás De la fuente de los patos
 Bm G                  D       Bm G             D
 Ohh Oooh Todo está por empezar  Te he querido tanto
 Bm G          D      Bm G          D
