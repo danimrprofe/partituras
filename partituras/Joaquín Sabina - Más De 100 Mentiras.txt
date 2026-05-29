@@ -1,5 +1,3 @@
-
-
 JOAQUÍN SABINA
 MÁS DE 100 MENTIRAS
 Joaquín Sabina
@@ -20,13 +18,12 @@ E
 tenemos urgencias, amores que matan,
 Asus2
 tenemos silencio, tabaco, razones,
-E					        Asus2
+E					        
 tenemos Venecia, tenemos Manhattan,
 Asus2		              E
 tenemos cenizas de revoluciones.
 
 INSTRUMENTAL
-
 E Asus2
 
 ESTROFA
@@ -44,7 +41,7 @@ Tenemos el sexo y el rock y la droga,
 los pies en el barrio y el grito en el cielo,
   C	C#m
 Tenemos Quintero, León y Quiroga,
-       A                 B
+       D                 B
 y un business pendiente con Pedro Botero.
 
 ESTRIBILLO
@@ -54,7 +51,7 @@ Más de cien palabras, más de cien motivos
 para no cortarse de un tajo las venas,
 E              A                     E
 más de cien  pupilas donde vernos vivos,
-             G#m       B
+A             G#m      B
 más de cien mentiras que valen la pena.
 
 ESTROFA
@@ -97,8 +94,9 @@ Más de cien palabras, más de cien motivos
 para no cortarse de un tajo las venas,
 E              A                     E
 más de cien  pupilas donde vernos vivos,
-             G#m       B
+A             G#m      B
 más de cien mentiras que valen la pena.
+
 
 ESTROFA
 E
@@ -127,13 +125,14 @@ tenemos heridas, tenemos medallas,
 F#dimm         Am7           D
 laureles de gloria, coronas de espinas.
 
+ESTRIBILLO
 E              A                     E
 Más de cien palabras, más de cien motivos
      F#m   G#m         A        B
 para no cortarse de un tajo las venas,
 E              A                     E
 más de cien  pupilas donde vernos vivos,
-             G#m       B
+A             G#m      B
 más de cien mentiras que valen la pena.
 
 G

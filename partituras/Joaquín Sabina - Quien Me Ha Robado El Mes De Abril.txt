@@ -1,5 +1,3 @@
-
-
 JOAQUÍN SABINA
 QUIEN ME HA ROBADO EL MES DE ABRIL
 
@@ -27,7 +25,7 @@ G        D              C
 ¿Cómo pudo sucederme a mí? Pero,
 G              D                C
 ¿Quién me ha robado el mes de Abril?
-    Bm             Am	    C                  D
+    Bm             Am	       Am/G         D
 Lo guardaba en el cajón donde guardo el corazón
 
 ESTROFA
@@ -37,8 +35,8 @@ C                               G
 el curso que preñada-, aquel chaval la dejó.
 Em                           F                   C
  Y cuando en la pizarra pasa lista el profe de latín, (Riff 3)
-Bm                    Am 		                C
-Lágrimas de desamor ruedan por la página de un bloc, y en el escribe:-
+Bm                    Am          Am/B           C
+Lágrimas de desamor ruedan por la página de un bloc, y en el escribe:
 
 ESTRIBILLO
 G               D              C/G
@@ -47,7 +45,7 @@ G        D              C
 ¿Cómo pudo sucederme a mí? Pero,
 G              D                C
 ¿Quién me ha robado el mes de Abril?
-    Bm             Am	    C                  D
+    Bm             Am	       Am/G         D
 Lo guardaba en el cajón donde guardo el corazón
 
 INSTRUMENTAL
@@ -58,19 +56,19 @@ G  D  C  C
 ESTRIBILLO
 G              D                C
 ¿Quién me ha robado el mes de Abril?
-    Bm             Am	    C                  D
+    Bm             Am	       Am/G         D
 Lo guardaba en el cajón donde guardo el corazón
 
 ESTROFA
-G	                   	  F
+G*	                   	  F*
 El marido de mi madre en el último tren se largó.
-C                      G
+C*                     G*
 Con una peluquera 20 años menor.
 Em                           F                   C
  Y cuando exhiben esas risas de instamatic en París
 Bm                      Am
 Derrotada en un sillón, Se marchita viendo
-         C
+Am/B     C
 Falcon Crest, mi vieja, y piensa:
 
 ESTRIBILLO
@@ -80,7 +78,7 @@ G        D              C
 ¿Cómo pudo sucederme a mí? Pero,
 G              D                C
 ¿Quién me ha robado el mes de Abril?
-    Bm             Am	    C                  D
+    Bm             Am	       Am/G         D
 Lo guardaba en el cajón donde guardo el corazón
 
 G               D              C/G
@@ -104,5 +102,5 @@ G        D              C
 ¿Cómo pudo sucederme a mí? Pero,
 G              D                C
 ¿Quién me ha robado el mes de Abril?
-    Bm             Am	    C                  D
+    Bm             Am	       Am/G         D
 Lo guardaba en el cajón donde guardo el corazón

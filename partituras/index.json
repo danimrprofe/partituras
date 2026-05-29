@@ -43,6 +43,31 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=A%20Great%20Big%20World%20Say%20Something"
   },
   {
+    "id": "a-star-is-born-always-remember-us-this-way",
+    "artist": "A star is born",
+    "title": "Always remember us this way",
+    "filename": "A star is born - Always remember us this way.txt",
+    "defaultTuning": null,
+    "sections": [
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=A%20star%20is%20born%20Always%20remember%20us%20this%20way"
+  },
+  {
+    "id": "a-star-is-born-shallow",
+    "artist": "A star is born",
+    "title": "Shallow",
+    "filename": "A star is born - Shallow.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=A%20star%20is%20born%20Shallow"
+  },
+  {
     "id": "adam-levine-go-now",
     "artist": "Adam Levine",
     "title": "Go Now",
@@ -81,9 +106,9 @@
     "defaultTuning": "estandar",
     "capo": 1,
     "techniques": [
-      "fingerpicking",
+      "strumming",
       "barre-chords",
-      "strumming"
+      "fingerpicking"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Amaral%20C%C3%B3mo%20Hablar"
   },
@@ -123,18 +148,6 @@
       "SOLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Andres%20Calamaro%20Flaca"
-  },
-  {
-    "id": "andres-calamaro-mi-enfermedad",
-    "artist": "Andres Calamaro",
-    "title": "Mi Enfermedad",
-    "filename": "Andres Calamaro - Mi Enfermedad.txt",
-    "defaultTuning": null,
-    "sections": [
-      "INTRO",
-      "ESTRIBILLO"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Andres%20Calamaro%20Mi%20Enfermedad"
   },
   {
     "id": "andres-calamaro-te-quiero-igual",
@@ -634,8 +647,8 @@
       "ESTRIBILLO"
     ],
     "techniques": [
-      "barre-chords",
-      "strumming"
+      "strumming",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Coque%20Malla%20Hasta%20El%20Final"
   },
@@ -691,6 +704,22 @@
       "PUENTE"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Countin%20Crows%20Accidentally%20in%20Love"
+  },
+  {
+    "id": "countin-crows-big-yellow-taxi",
+    "artist": "Countin crows",
+    "title": "Big yellow taxi",
+    "filename": "Countin crows - Big yellow taxi.txt",
+    "defaultTuning": null,
+    "sections": [
+      "SOLO",
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "techniques": [
+      "tabs"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Countin%20crows%20Big%20yellow%20taxi"
   },
   {
     "id": "countin-crows-colorblind",
@@ -789,11 +818,11 @@
     "defaultTuning": null,
     "capo": 2,
     "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
       "SOLO",
-      "ESTRIBILLO"
-    ],
-    "techniques": [
-      "barre-chords"
+      "PUENTE"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20cero"
   },
@@ -804,19 +833,6 @@
     "filename": "Dani Martín - contigo.txt",
     "defaultTuning": null,
     "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20contigo"
-  },
-  {
-    "id": "dani-martin-cuatro-likes",
-    "artist": "Dani Martín",
-    "title": "Cuatro Likes",
-    "filename": "Dani Martín - Cuatro Likes.txt",
-    "defaultTuning": null,
-    "sections": [
-      "ESTROFA",
-      "ESTRIBILLO",
-      "PUENTE"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20Cuatro%20Likes"
   },
   {
     "id": "dani-martin-emocional",
@@ -904,12 +920,16 @@
     "title": "portales",
     "filename": "Dani Martín - portales.txt",
     "defaultTuning": null,
+    "capo": 2,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO",
       "PUENTE",
       "OUTRO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20portales"
   },
@@ -964,6 +984,19 @@
       "SOLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20son%20sue%C3%B1os"
+  },
+  {
+    "id": "dani-martin-surfista",
+    "artist": "Dani Martín",
+    "title": "surfista",
+    "filename": "Dani Martín - surfista.txt",
+    "defaultTuning": null,
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Dani%20Mart%C3%ADn%20surfista"
   },
   {
     "id": "dani-martin-tal-como-eres",
@@ -1024,17 +1057,6 @@
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Death%20Cab%20for%20Cutie%20I%20Will%20Follow%20You%20Into%20the%20Dark"
-  },
-  {
-    "id": "desconocido-con-las-ganas",
-    "artist": "Desconocido",
-    "title": "CON LAS GANAS",
-    "filename": "Desconocido - CON LAS GANAS.txt",
-    "defaultTuning": null,
-    "techniques": [
-      "barre-chords"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Desconocido%20CON%20LAS%20GANAS"
   },
   {
     "id": "don-mclean-american-pie",
@@ -1124,10 +1146,10 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Efecto%20Mariposa%20No%20Me%20Crees"
   },
   {
-    "id": "el-canto-del-loco-a-contracorriente-a-d-e",
+    "id": "el-canto-del-loco-a-contracorriente",
     "artist": "El Canto Del Loco",
-    "title": "a Contracorriente - - a D E",
-    "filename": "El Canto Del Loco - a Contracorriente - - a D E.txt",
+    "title": "A contracorriente",
+    "filename": "El Canto Del Loco - A contracorriente.txt",
     "defaultTuning": null,
     "sections": [
       "INTRO",
@@ -1135,7 +1157,7 @@
       "ESTRIBILLO",
       "OUTRO"
     ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20a%20Contracorriente%20-%20-%20a%20D%20E"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20A%20contracorriente"
   },
   {
     "id": "el-canto-del-loco-acabado-en-a",
@@ -1408,18 +1430,6 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Llueve%20en%20M%C3%AD%20%28alt%29"
   },
   {
-    "id": "el-canto-del-loco-llueve-en-mi",
-    "artist": "El Canto Del Loco",
-    "title": "Llueve en Mí",
-    "filename": "El Canto Del Loco - Llueve en Mí.txt",
-    "defaultTuning": null,
-    "sections": [
-      "ESTROFA",
-      "ESTRIBILLO"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Llueve%20en%20M%C3%AD"
-  },
-  {
     "id": "el-canto-del-loco-no-quiero-nada-08-no-quiero-nada",
     "artist": "El Canto Del Loco",
     "title": "No Quiero Nada - 08. No Quiero Nada",
@@ -1459,22 +1469,6 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Para%20Siempre"
   },
   {
-    "id": "el-canto-del-loco-pasion-tu-mirada-de-inocencia-me-da-esa-fuerza-fuera-de-control",
-    "artist": "El Canto Del Loco",
-    "title": "Pasion - Tu Mirada De Inocencia Me Da Esa Fuerza Fuera De Control",
-    "filename": "El Canto Del Loco - Pasion - Tu Mirada De Inocencia Me Da Esa Fuerza Fuera De Control.txt",
-    "defaultTuning": null,
-    "capo": 1,
-    "sections": [
-      "ESTRIBILLO",
-      "ESTROFA"
-    ],
-    "techniques": [
-      "barre-chords"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Pasion%20-%20Tu%20Mirada%20De%20Inocencia%20Me%20Da%20Esa%20Fuerza%20Fuera%20De%20Control"
-  },
-  {
     "id": "el-canto-del-loco-pasion",
     "artist": "El Canto Del Loco",
     "title": "Pasion",
@@ -1482,8 +1476,8 @@
     "defaultTuning": null,
     "capo": 1,
     "sections": [
-      "ESTROFA",
-      "ESTRIBILLO"
+      "ESTRIBILLO",
+      "ESTROFA"
     ],
     "techniques": [
       "barre-chords"
@@ -1516,77 +1510,30 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Personas"
   },
   {
-    "id": "el-canto-del-loco-peter-pan-alt",
-    "artist": "El Canto Del Loco",
-    "title": "Peter Pan (alt)",
-    "filename": "El Canto Del Loco - Peter Pan (alt).txt",
-    "defaultTuning": null,
-    "capo": 2,
-    "techniques": [
-      "barre-chords"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Peter%20Pan%20%28alt%29"
-  },
-  {
     "id": "el-canto-del-loco-peter-pan",
     "artist": "El Canto Del Loco",
     "title": "Peter Pan",
     "filename": "El Canto Del Loco - Peter Pan.txt",
     "defaultTuning": null,
-    "capo": 2,
+    "capo": 4,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
     ],
-    "techniques": [
-      "barre-chords"
-    ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Peter%20Pan"
-  },
-  {
-    "id": "el-canto-del-loco-por-ti-por-ti",
-    "artist": "El Canto Del Loco",
-    "title": "Por Ti - - Por Tí",
-    "filename": "El Canto Del Loco - Por Ti - - Por Tí.txt",
-    "defaultTuning": "medio-tono-abajo",
-    "capo": 3,
-    "techniques": [
-      "tabs",
-      "barre-chords"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Por%20Ti%20-%20-%20Por%20T%C3%AD"
   },
   {
     "id": "el-canto-del-loco-por-ti",
     "artist": "El Canto Del Loco",
     "title": "Por Ti",
     "filename": "El Canto Del Loco - Por Ti.txt",
-    "defaultTuning": null,
+    "defaultTuning": "medio-tono-abajo",
     "capo": 3,
-    "sections": [
-      "ESTRIBILLO",
-      "ESTROFA"
-    ],
     "techniques": [
+      "tabs",
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Por%20Ti"
-  },
-  {
-    "id": "el-canto-del-loco-portales",
-    "artist": "El Canto Del Loco",
-    "title": "Portales",
-    "filename": "El Canto Del Loco - Portales.txt",
-    "defaultTuning": null,
-    "capo": 2,
-    "sections": [
-      "ESTROFA",
-      "ESTRIBILLO"
-    ],
-    "techniques": [
-      "barre-chords"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Portales"
   },
   {
     "id": "el-canto-del-loco-preguntas-alt-2",
@@ -1625,17 +1572,6 @@
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Puede%20Ser"
-  },
-  {
-    "id": "el-canto-del-loco-que-caro-es-el-tiempo-alt",
-    "artist": "El Canto Del Loco",
-    "title": "Que Caro Es El Tiempo (alt)",
-    "filename": "El Canto Del Loco - Que Caro Es El Tiempo (alt).txt",
-    "defaultTuning": "medio-tono-abajo",
-    "techniques": [
-      "tabs"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Que%20Caro%20Es%20El%20Tiempo%20%28alt%29"
   },
   {
     "id": "el-canto-del-loco-que-caro-es-el-tiempo",
@@ -1694,18 +1630,6 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Sin%20Mitad%20-%207.%20Sin%20Mitad"
   },
   {
-    "id": "el-canto-del-loco-son-suenos-son-suenos",
-    "artist": "El Canto Del Loco",
-    "title": "Son Sueños - Son Sueños",
-    "filename": "El Canto Del Loco - Son Sueños - Son Sueños.txt",
-    "defaultTuning": "estandar",
-    "capo": 1,
-    "techniques": [
-      "barre-chords"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Son%20Sue%C3%B1os%20-%20Son%20Sue%C3%B1os"
-  },
-  {
     "id": "el-canto-del-loco-son-suenos",
     "artist": "El Canto Del Loco",
     "title": "Son Sueños",
@@ -1739,14 +1663,6 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Tal%20Como%20Eres"
   },
   {
-    "id": "el-canto-del-loco-te-recuerdo-alt",
-    "artist": "El Canto Del Loco",
-    "title": "Te Recuerdo (alt)",
-    "filename": "El Canto Del Loco - Te Recuerdo (alt).txt",
-    "defaultTuning": null,
-    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Te%20Recuerdo%20%28alt%29"
-  },
-  {
     "id": "el-canto-del-loco-te-recuerdo",
     "artist": "El Canto Del Loco",
     "title": "Te Recuerdo",
@@ -1775,6 +1691,23 @@
       "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Tremendo%20-%20F%20E"
+  },
+  {
+    "id": "el-canto-del-loco-un-millon-de-cicatrices-acustico",
+    "artist": "El Canto Del Loco",
+    "title": "Un Millon De Cicatrices (Acustico)",
+    "filename": "El Canto Del Loco - Un Millon De Cicatrices (Acustico).txt",
+    "defaultTuning": null,
+    "capo": 1,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Canto%20Del%20Loco%20Un%20Millon%20De%20Cicatrices%20%28Acustico%29"
   },
   {
     "id": "el-canto-del-loco-un-millon-de-cicatrices",
@@ -1923,10 +1856,10 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Ni%C3%B1o%20De%20La%20Hipoteca%20Romeo%20Y%20Julieta"
   },
   {
-    "id": "el-ultimo-de-la-fila-el-ultimo-de-la-fila",
+    "id": "el-ultimo-de-la-fila-insurreccion",
     "artist": "El Ultimo De La Fila",
-    "title": "El Último De La Fila",
-    "filename": "El Ultimo De La Fila - El Último De La Fila.txt",
+    "title": "Insurreccion",
+    "filename": "El Ultimo De La Fila - Insurreccion.txt",
     "defaultTuning": null,
     "capo": 1,
     "sections": [
@@ -1937,7 +1870,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Ultimo%20De%20La%20Fila%20El%20%C3%9Altimo%20De%20La%20Fila"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=El%20Ultimo%20De%20La%20Fila%20Insurreccion"
   },
   {
     "id": "el-ultimo-de-la-fila-llanto-de-pasion",
@@ -2058,8 +1991,7 @@
     "filename": "Estopa - Escúchame Princesa.txt",
     "defaultTuning": null,
     "sections": [
-      "SOLO",
-      "ESTRIBILLO"
+      "SOLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Estopa%20Esc%C3%BAchame%20Princesa"
   },
@@ -2075,6 +2007,14 @@
       "ESTRIBILLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Estopa%20Ya%20No%20Me%20Acuerdo"
+  },
+  {
+    "id": "extremoduro-golfa",
+    "artist": "Extremoduro",
+    "title": "Golfa",
+    "filename": "Extremoduro - Golfa.txt",
+    "defaultTuning": null,
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Extremoduro%20Golfa"
   },
   {
     "id": "extremoduro-la-realidad",
@@ -2137,8 +2077,8 @@
     "defaultTuning": "estandar",
     "capo": 0,
     "techniques": [
-      "barre-chords",
-      "palm-mute"
+      "palm-mute",
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Extremoduro%20Standby"
   },
@@ -2813,10 +2753,21 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Hombres%20G%20La%20Carretera"
   },
   {
+    "id": "hombres-g-un-par-de-palabras",
+    "artist": "Hombres g",
+    "title": "un par de palabras",
+    "filename": "Hombres g - un par de palabras.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Hombres%20g%20un%20par%20de%20palabras"
+  },
+  {
     "id": "howie-day-collide",
     "artist": "Howie day",
     "title": "collide",
-    "filename": "Howie day - collide.md",
+    "filename": "Howie day - collide.txt",
     "defaultTuning": null,
     "capo": 4,
     "sections": [
@@ -2905,13 +2856,20 @@
     "title": "Eso Que Tu Me Das",
     "filename": "Jarabe De Palo - Eso Que Tu Me Das.txt",
     "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTROFA",
+      "ESTRIBILLO",
+      "PUENTE",
+      "OUTRO"
+    ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Jarabe%20De%20Palo%20Eso%20Que%20Tu%20Me%20Das"
   },
   {
-    "id": "jarabe-de-palo-jarabe-de-palo",
+    "id": "jarabe-de-palo-grita",
     "artist": "Jarabe De Palo",
-    "title": "Jarabe De Palo",
-    "filename": "Jarabe De Palo - Jarabe De Palo.txt",
+    "title": "Grita",
+    "filename": "Jarabe De Palo - Grita.txt",
     "defaultTuning": null,
     "sections": [
       "INTRO",
@@ -2919,7 +2877,7 @@
       "SOLO",
       "ESTRIBILLO"
     ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Jarabe%20De%20Palo%20Jarabe%20De%20Palo"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Jarabe%20De%20Palo%20Grita"
   },
   {
     "id": "jarabe-de-palo-la-flaca",
@@ -3184,15 +3142,12 @@
     "artist": "Joaquín Sabina",
     "title": "Pájaros De Portugal",
     "filename": "Joaquín Sabina - Pájaros De Portugal.txt",
-    "defaultTuning": "estandar",
-    "bpm": 124,
+    "defaultTuning": null,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
     ],
-    "key": "Do Mayor (C Major)",
-    "timeSignature": "4/4",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Joaqu%C3%ADn%20Sabina%20P%C3%A1jaros%20De%20Portugal"
   },
   {
@@ -3213,10 +3168,14 @@
     "title": "Peces De Ciudad",
     "filename": "Joaquín Sabina - Peces De Ciudad.txt",
     "defaultTuning": null,
+    "capo": 2,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
+    ],
+    "techniques": [
+      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Joaqu%C3%ADn%20Sabina%20Peces%20De%20Ciudad"
   },
@@ -3327,6 +3286,18 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Joaqu%C3%ADn%20Sabina%20Tiramis%C3%BA%20De%20Lim%C3%B3n"
   },
   {
+    "id": "joaquin-sabina-una-cancion-para-la-magdalena",
+    "artist": "Joaquín Sabina",
+    "title": "Una canción para la magdalena",
+    "filename": "Joaquín Sabina - Una canción para la magdalena.txt",
+    "defaultTuning": null,
+    "sections": [
+      "ESTROFA",
+      "ESTRIBILLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Joaqu%C3%ADn%20Sabina%20Una%20canci%C3%B3n%20para%20la%20magdalena"
+  },
+  {
     "id": "joaquin-sabina-y-sin-embargo",
     "artist": "Joaquín Sabina",
     "title": "Y, Sin Embargo",
@@ -3355,7 +3326,7 @@
     "id": "john-mayer-confortable",
     "artist": "John Mayer",
     "title": "confortable",
-    "filename": "John Mayer - confortable.md",
+    "filename": "John Mayer - confortable.txt",
     "defaultTuning": null,
     "sections": [
       "ESTROFA",
@@ -3383,14 +3354,11 @@
     "title": "in the Blood",
     "filename": "John Mayer - in the Blood.txt",
     "defaultTuning": null,
-    "capo": 0,
+    "capo": 1,
     "sections": [
       "INTRO",
       "ESTROFA",
       "ESTRIBILLO"
-    ],
-    "techniques": [
-      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=John%20Mayer%20in%20the%20Blood"
   },
@@ -3486,10 +3454,10 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Julieta%20Venegas%20Lim%C3%B3n%20Y%20Sal"
   },
   {
-    "id": "justin-timberlake-justin-timberlake",
+    "id": "justin-timberlake-perfect",
     "artist": "Justin Timberlake",
-    "title": "Justin Timberlake",
-    "filename": "Justin Timberlake - Justin Timberlake.txt",
+    "title": "Perfect",
+    "filename": "Justin Timberlake - Perfect.txt",
     "defaultTuning": null,
     "capo": 2,
     "sections": [
@@ -3500,7 +3468,7 @@
     "techniques": [
       "barre-chords"
     ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Justin%20Timberlake%20Justin%20Timberlake"
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Justin%20Timberlake%20Perfect"
   },
   {
     "id": "justin-timberlake-true-colors",
@@ -3535,6 +3503,17 @@
       "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Knockin%20on%20Heavens%20Door%20Guns%20N%20Roses%20Tabs-Tablatures-Lyrics-Chords%20-%20Guitar-Bass%20-%20Tab%20Power"
+  },
+  {
+    "id": "la-fuga-abril",
+    "artist": "La fuga",
+    "title": "Abril",
+    "filename": "La fuga - Abril.txt",
+    "defaultTuning": null,
+    "sections": [
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=La%20fuga%20Abril"
   },
   {
     "id": "la-fuga-baja-por-diversion",
@@ -3661,19 +3640,6 @@
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=La%20Sonrisa%20De%20Julia%20Hay%20Alguien%20M%C3%A1s%20Ah%C3%AD"
-  },
-  {
-    "id": "lady-gaga-lady-gaga",
-    "artist": "Lady Gaga",
-    "title": "Lady Gaga",
-    "filename": "Lady Gaga - Lady Gaga.txt",
-    "defaultTuning": null,
-    "sections": [
-      "INTRO",
-      "ESTROFA",
-      "ESTRIBILLO"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Lady%20Gaga%20Lady%20Gaga"
   },
   {
     "id": "leiva-92",
@@ -4249,6 +4215,21 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Guerra%20Mundial"
   },
   {
+    "id": "leiva-hasta-que-me-quede-sin-voz",
+    "artist": "Leiva",
+    "title": "hasta que me quede sin voz",
+    "filename": "Leiva - hasta que me quede sin voz.txt",
+    "defaultTuning": null,
+    "sections": [
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "techniques": [
+      "tabs"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20hasta%20que%20me%20quede%20sin%20voz"
+  },
+  {
     "id": "leiva-hermosa-taquicardia",
     "artist": "Leiva",
     "title": "Hermosa Taquicardia",
@@ -4656,6 +4637,7 @@
     "title": "Palomas",
     "filename": "Leiva - Palomas.txt",
     "defaultTuning": null,
+    "capo": 1,
     "sections": [
       "ESTROFA"
     ],
@@ -4667,7 +4649,6 @@
     "title": "peligrosamente dark",
     "filename": "Leiva - peligrosamente dark.txt",
     "defaultTuning": null,
-    "album": "Cuando te muerdes el labio",
     "year": 2021,
     "sections": [
       "INTRO",
@@ -4679,23 +4660,6 @@
       "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20peligrosamente%20dark"
-  },
-  {
-    "id": "leiva-peligrosamente-dark2",
-    "artist": "Leiva",
-    "title": "Peligrosamente Dark2",
-    "filename": "Leiva - Peligrosamente Dark2.txt",
-    "defaultTuning": "estandar",
-    "capo": 2,
-    "sections": [
-      "ESTROFA",
-      "ESTRIBILLO",
-      "SOLO"
-    ],
-    "techniques": [
-      "barre-chords"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Leiva%20Peligrosamente%20Dark2"
   },
   {
     "id": "leiva-penaltis",
@@ -4945,11 +4909,29 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Lifehouse%20YOU%20AND%20ME"
   },
   {
+    "id": "los-piratas-el-equilibrio-es-imposible",
+    "artist": "Los Piratas",
+    "title": "El equilibrio es imposible",
+    "filename": "Los Piratas - El equilibrio es imposible.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Los%20Piratas%20El%20equilibrio%20es%20imposible"
+  },
+  {
     "id": "los-piratas-m",
     "artist": "Los Piratas",
     "title": "M",
     "filename": "Los Piratas - M.txt",
-    "defaultTuning": null,
+    "defaultTuning": "estandar",
+    "bpm": 128,
+    "techniques": [
+      "barre-chords"
+    ],
+    "key": "Mi Mayor (E Major)",
+    "timeSignature": "4/4",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Los%20Piratas%20M"
   },
   {
@@ -4964,6 +4946,18 @@
       "ESTRIBILLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Los%20Piratas%20Te%20Echare%20De%20Menos"
+  },
+  {
+    "id": "los-rodriguez-mi-enfermedad",
+    "artist": "Los rodriguez",
+    "title": "Mi Enfermedad",
+    "filename": "Los rodriguez  - Mi Enfermedad.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "ESTRIBILLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Los%20rodriguez%20Mi%20Enfermedad"
   },
   {
     "id": "los-rodriguez-dulce-condena",
@@ -4989,6 +4983,18 @@
       "ESTRIBILLO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Los%20Ronaldos%20No%20Puedo%20Vivir%20Sin%20Ti"
+  },
+  {
+    "id": "los-secretos-balsera",
+    "artist": "Los secretos",
+    "title": "balsera",
+    "filename": "Los secretos - balsera.txt",
+    "defaultTuning": null,
+    "capo": 3,
+    "sections": [
+      "INTRO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Los%20secretos%20balsera"
   },
   {
     "id": "los-secretos-cada-dia",
@@ -5017,23 +5023,6 @@
       "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Los%20Secretos%20Dejame"
-  },
-  {
-    "id": "los-secretos-los-secretos",
-    "artist": "Los Secretos",
-    "title": "Los Secretos",
-    "filename": "Los Secretos - Los Secretos.txt",
-    "defaultTuning": null,
-    "capo": 3,
-    "sections": [
-      "INTRO",
-      "ESTROFA",
-      "ESTRIBILLO"
-    ],
-    "techniques": [
-      "barre-chords"
-    ],
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Los%20Secretos%20Los%20Secretos"
   },
   {
     "id": "los-secretos-y-no-amanece",
@@ -5139,8 +5128,8 @@
       "OUTRO"
     ],
     "techniques": [
-      "fingerpicking",
-      "barre-chords"
+      "barre-chords",
+      "fingerpicking"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Lynyrd%20Skynyrd%20Simple%20Man"
   },
@@ -5215,6 +5204,10 @@
     "title": "Pájaros De Barro",
     "filename": "Manolo Garcia - Pájaros De Barro.txt",
     "defaultTuning": null,
+    "capo": 3,
+    "techniques": [
+      "barre-chords"
+    ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Manolo%20Garcia%20P%C3%A1jaros%20De%20Barro"
   },
   {
@@ -5896,14 +5889,6 @@
     "youtubeUrl": "https://www.youtube.com/results?search_query=Of%20Monsters%20and%20Men%20Love%20Love%20Love"
   },
   {
-    "id": "otis-redding-sitting-on-the-dock-of-the-bay",
-    "artist": "Otis redding",
-    "title": "sitting on the dock of the bay",
-    "filename": "Otis redding - sitting on the dock of the bay.txt",
-    "defaultTuning": null,
-    "youtubeUrl": "https://www.youtube.com/results?search_query=Otis%20redding%20sitting%20on%20the%20dock%20of%20the%20bay"
-  },
-  {
     "id": "pablo-lopez-dos-palabras",
     "artist": "Pablo lopez",
     "title": "Dos palabras",
@@ -6536,8 +6521,8 @@
       "PUENTE"
     ],
     "techniques": [
-      "barre-chords",
-      "strumming"
+      "strumming",
+      "barre-chords"
     ],
     "key": "Am",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Red%20Hot%20Chili%20Peppers%20Otherside"
@@ -6830,7 +6815,13 @@
     "artist": "Rosana",
     "title": "Llegaremos a Tiempo",
     "filename": "Rosana - Llegaremos a Tiempo.txt",
-    "defaultTuning": null,
+    "defaultTuning": "estandar",
+    "sections": [
+      "INTRO"
+    ],
+    "techniques": [
+      "barre-chords"
+    ],
     "timeSignature": "4/4",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Rosana%20Llegaremos%20a%20Tiempo"
   },
@@ -7093,16 +7084,17 @@
     "title": "Dinamita",
     "filename": "Sidecars - Dinamita.txt",
     "defaultTuning": null,
-    "capo": 0,
+    "capo": 3,
     "sections": [
       "INTRO",
       "ESTRIBILLO",
-      "ESTROFA"
+      "ESTROFA",
+      "PUENTE"
     ],
     "techniques": [
       "barre-chords"
     ],
-    "timeSignature": "4/4",
+    "timeSignature": "3/4",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Sidecars%20Dinamita"
   },
   {
@@ -7142,6 +7134,30 @@
       "OUTRO"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=siloe%20que%20merezca%20la%20pena"
+  },
+  {
+    "id": "siloe-todos-los-bes",
+    "artist": "Siloe",
+    "title": "todos los bes",
+    "filename": "Siloe - todos los bes.txt",
+    "defaultTuning": null,
+    "sections": [
+      "INTRO",
+      "SOLO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Siloe%20todos%20los%20bes"
+  },
+  {
+    "id": "siloe-si-me-necesitas-llamame",
+    "artist": "siloe",
+    "title": "si me necesitas llamame",
+    "filename": "siloe -si me necesitas llamame.txt",
+    "defaultTuning": null,
+    "sections": [
+      "BRIDGE",
+      "OUTRO"
+    ],
+    "youtubeUrl": "https://www.youtube.com/results?search_query=siloe%20si%20me%20necesitas%20llamame"
   },
   {
     "id": "simple-plan-im-just-a-kid",
@@ -7297,6 +7313,14 @@
       "PUENTE"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Stone%20Sour%20Through%20Glass"
+  },
+  {
+    "id": "suzanne-vega-my-name-is-luka",
+    "artist": "Suzanne vega",
+    "title": "my name is luka",
+    "filename": "Suzanne vega - my name is luka.txt",
+    "defaultTuning": null,
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Suzanne%20vega%20my%20name%20is%20luka"
   },
   {
     "id": "tam-tam-go-espaldas-mojadas",
@@ -7534,8 +7558,8 @@
       "OUTRO"
     ],
     "techniques": [
-      "barre-chords",
-      "strumming"
+      "strumming",
+      "barre-chords"
     ],
     "key": "E",
     "youtubeUrl": "https://www.youtube.com/results?search_query=Train%20Hey%20Soul%20Sister"
@@ -7605,13 +7629,10 @@
     "title": "Finisterre",
     "filename": "Vetusta Morla - Finisterre.txt",
     "defaultTuning": null,
-    "capo": 0,
+    "capo": 1,
     "sections": [
       "ESTROFA",
       "ESTRIBILLO"
-    ],
-    "techniques": [
-      "barre-chords"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Vetusta%20Morla%20Finisterre"
   },
@@ -7651,6 +7672,14 @@
       "tabs"
     ],
     "youtubeUrl": "https://www.youtube.com/results?search_query=Yesterday%20Beatles%20Tabs-Tablatures-Lyrics-Chords%20-%20Guitar-Bass%20-%20Tab%20Power"
+  },
+  {
+    "id": "zahara-con-las-ganas",
+    "artist": "Zahara",
+    "title": "con las ganas",
+    "filename": "Zahara - con las ganas.txt",
+    "defaultTuning": null,
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Zahara%20con%20las%20ganas"
   },
   {
     "id": "zenttricc-solo-quiero-bailar",

@@ -1,3 +1,8 @@
+LEIVA
+PALOMAS
+Capo 1
+Un strum por acorde hasta el estribillo
+
 ESTROFA
        C                           Em
 Hay miles de palomas volando en círculo,
@@ -16,7 +21,7 @@ Lo tienes que intentar
 Hay días para pedírtelo, semanas para dudar
    Dm            G
 VERANOS EN VILO HASTA EL FINAL
-   F  G   Am       G
+   F  
 No es más que un grito
 
 C                              G
@@ -27,6 +32,8 @@ C                               G
 Déjalo ya déjalo ya o me quedo frío.
 Am                      F
 Es un aviso más del huracán
+
+C C C C
 
 ESTROFA
      C                            Em
@@ -50,16 +57,17 @@ Es un aviso más del huracán
 Am Am/G D/F# x3
 Am Am/G D A C D
 
-   F  G   Am       G
+G
 No es más que un grito
 
-C                              G
+SUBIDA DE TONO
+D                              A
 Déjalo ya, déjalo ya Se quedó frío.
-Am                             F
+Bm                             G
 cada momento tiene que ser especial
-C                               G
+D                                A
 Déjalo ya déjalo ya o me quedo frío.
-Am                      F
+Bm                      G
 Es un aviso más del huracán
 
 G A Bm C#m D

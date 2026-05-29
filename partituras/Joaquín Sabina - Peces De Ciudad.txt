@@ -1,75 +1,74 @@
-
-
-JOAQUÍN SABINA
-PECES DE CIUDAD
+Joaquín Sabina
+Peces de ciudad
+Cejilla traste 2
 
 INTRO
 G D A
 
 ESTROFA
-                    A        F#m                  D
+                    G        Em                   C
 Se peinaba a lo garçon la viajera que quiso enseñarme a besar
-            A                F#m
+            G                Em
 en la Gare d'Austerlitz.  Primavera de un amor
-D                        Bm                E
+C                        Am                D
 amarillo y frugal como el sol del veranillo de San Martín.
-            D                   C#m
+            C                   Bm
 Hay quien dice que fui yo el primero en olvidar
-           G                       D                   E
+           F                       C                   D
 cuando en un si bemol de Jacques Brel conocí a "mademoiselle Amsterdam".
 
-      A                        F#m                D
+      G                        Em                C
 En la fatua Nueva York da más sombra que los limoneros
-              A
+              G
 la estatua de la libertad.
-            F#m                D                 Bm
+            Em                  C    C/B            Am
 Pero en "Desolation Row" las sirenas de los petroleros
-           E
+    Am/G   D
 no dejan reír ni volar.
-          D                C#m
+          C               Bm
 Y en el coro de Babel desafina un español.
-             G                    D                    A
+             F                    C                   G
 No hay más ley que la fiebre del oro en las minas del rey Salomón.
 
 ESTRIBILLO
-       E                    D
+       D                    C
 Y desafiando el oleaje sin timón ni timonel
-         C#m                   Bm
+         Bm                    Am
 por mis sueños va ligero de equipaje sobre un
-                       A                  E
+                       G         Em        D
 Sobre un cascarón de nuez mi corazón de viaje,
-                F#m                   D
+                Em                   C
 luciendo los tatuajes de un pasado bucanero
-                 A                 G     D    A
+                 G         F        C       G
 de un velero al abordaje de un liguero de mujer.
 
-        E                      D
+        D                      C
 Y como huir cuando no quedan islas para naufragar
-   C#m                        Bm
+   Bm                        Am
 al país donde los sabios se retiran
-                  A                          E
+                  G          Em                D
 del agravio de buscar labios que sacan de quicio,
 
-                      F#m                         D
+                      Em                         C
 mentiras que ganan juicios tan sumarios que envilecen
-                    A               G D         A
+                    G       F      C           G
 el cristal de los acuarios de los peces de ciudad
-G         D        A       E                    D
+F        C        G       Dm                    C
 que mordieron el anzuelo, que bucean a ras del suelo,
-                 A
+                 G
 que no merecen nadar.
 
 INSTRUMENTAL
 G  D  A
 
 ESTROFA
-A                    F#m
+                   G                    
 El dorado era un champú,
-                           D                  A
+    Em                     C                   G
 la virtud unos brazos en cruz, el pecado una página web.
-    F#m                     D
+    Em                     C
 En Comala comprendí que al lugar donde has sido
-Bm                   E
+Am                   D
 feliz no debieras tratar de volver.
            D                     C#m
 Cuando en vuelo regular pisé el cielo de Madrid
@@ -77,38 +76,34 @@ Cuando en vuelo regular pisé el cielo de Madrid
 me esperaba una recién casada que no se acordaba de mí.
 
 ESTRIBILLO
-        E                     D
+       D                    C
 Y desafiando el oleaje sin timón ni timonel
-         C#m                   Bm
-por mis sueños va ligero de equipaje
-                       A                 E
-sobre un cascarón de nuez mi corazón de viaje,
-                F#m                     D
-Luciendo los tatuajes de un pasado bucanero,
-                   A         G    D          A
+         Bm                    Am
+por mis sueños va ligero de equipaje sobre un
+                       G         Em        D
+Sobre un cascarón de nuez mi corazón de viaje,
+                Em                   C
+luciendo los tatuajes de un pasado bucanero
+                 G         F        C       G
 de un velero al abordaje de un liguero de mujer.
 
-        E                      D
+        D                      C
 Y como huir cuando no quedan islas para naufragar
-   C#m                        Bm
+   Bm                        Am
 al país donde los sabios se retiran
-                  A                          E
- del agravio de buscar labios que sacan de quicio,
-                      F#m                         D
- mentiras que ganan juicios tan sumarios que envilecen
-                    A               G D         A
-el cristal de los acuarios de los peces de ciudad
-G         D        A       E                    D
-que mordieron el anzuelo, que bucean a ras del suelo,
-                 A
-que no merecen nadar.
+                  G          Em                D
+del agravio de buscar labios que sacan de quicio,
 
+                      Em                         C
+mentiras que ganan juicios tan sumarios que envilecen
+                    G       F      C           G
+el cristal de los acuarios de los peces de ciudad
 G         D           A
 que perdieron las agallas
-E                 D
+D                 C
 en un banco de morralla,
-                 A
+                 G
 en una playa sin mar.
 
 FINAL
-G D A
+F C G

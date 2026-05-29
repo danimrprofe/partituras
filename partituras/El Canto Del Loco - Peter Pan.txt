@@ -1,98 +1,97 @@
-CEJILLA/CAPO: Capo 2
-
 EL CANTO DEL LOCO - PETER PAN
-EL CANTO DEL LOCO
+CAPO 4
+C con hammer ON en tercera cuerda
 
 ESTROFA
 D Em7 G F
 
 ESTROFA
-D                    Em7                        G
+C                    Dm7                        F
 Un día llega a mí la calma, mi Peter Pan hoy amenaza,
-                       D
+                       C
 aquí ya hay poco que hacer.
-D                      Em7                             G
+C                      Dm7                             F
 Me siento como en otra plaza en la de estar solito en casa
-                   D
+                   C
 será culpa de tu piel.
-D                        Em7
+C                        Dm7
 Será que me habré hecho mayor
-                                  G
+                                  F
 que algo nuevo ha tocado este botón
-                  D
+                  C
 para que Peter se largue.
-D                     Em7
+C                     Dm7
 Y tal vez viva ahora mejor,
-                                       G
+                                       F
 más a gusto y más tranquilo en mi interior.
-                   G           Gm
+                   F           Fm
 Que Campanilla te cuide y te guarde.
-D                A        G
+
+ESTRIBILLO
+C               G         F
 A veces gritas desde el cielo queriendo destrozar mi calma.
-D                 A        G
+C                 G        F
 Vas persiguiendo como un trueno para darme ese relámpago azul.
-D             A             G
+C                G         F
 Ahora me gritas desde el cielo
-          G/F#            Em7
+                           Dm7
 pero te encuentras con mi alma, conmigo ya no intentes nada,
-                          A
+                          G
 parece que el amor me calma, me calmaaa...
 
 ESTRIBILLO
-        Bm        Em7      A            D      A    Bm7
-Si te llevas mi niñez llévate la parte que me sobre en mí.
-               Em7           G         Gm                D
+        Am        Dm7     F         C          G      Am7
+Si te llevas mi niñez llévate la parte que me sobra a mí.
+               Dm7           F         Fm                C
 Si te marchas viviré con la paz que necesito y tanto ansié.
 
 ESTROFA
 C                       Dm7                                F
 Pasó un buen día junto a mí y parecía que quería quedarse aquí,
-C
+                         C
 no había manera de echarle.
-D                     Em7
+C                     Dm7
 Si Peter no se quiere ir
-                            G
+                                   F
 la soledad después querrá vivir en mí.
-                   Gm
+                              Fm
 La vida tiene sus fases, sus fases...
 
-D                A        G
+ESTRIBILLO
+C        G                F
 A veces gritas desde el cielo queriendo destrozar mi calma.
-D                 A        G
+C        G                F
 Vas persiguiendo como un trueno para darme ese relámpago azul.
-D             A             G
+C                G         F
 Ahora me gritas desde el cielo
-          G/F#            Em7
+                           Dm7
 pero te encuentras con mi alma, conmigo ya no intentes nada,
-                          A
+                          G
 parece que el amor me calma, me calmaaa...
 
 ESTRIBILLO
-        Bm        Em7      A            D      A    Bm7
-Si te llevas mi niñez llévate la parte que me sobre en mí.
-               Em7           G         Gm                D
+        Am        Dm7     F         C          G      Am7
+Si te llevas mi niñez llévate la parte que me sobra a mí.
+               Dm7           F         Fm                C
 Si te marchas viviré con la paz que necesito y tanto ansié.
 
-INSTRUMENTAL
-
-G  F  G
-Dm7  C/E   F  G  C
 
 ESTRIBILLO
-        Bm        Em7      A            D      A    Bm7
-Si te llevas mi niñez llévate la parte que me sobre en mí.
-               Em7           G         Gm                D
+        Am        Dm7     F         C          G      Am7
+Si te llevas mi niñez llévate la parte que me sobra a mí.
+               Dm7           F         Fm                C
 Si te marchas viviré con la paz que necesito y tanto ansié.
 
-D                       Em7
+FINAL
+C                       Dm7
 Espero que se no vuelva más,
-                              G
+                               F
 que se quede tranquilito como está,
-                  F
+                  C
 que él ya tuvo bastante.
-C                        Em7
+C                        Dm7
 Fue un tiempo para no olvidar,
-                                G
+                                F
 la zona mala quiere ahora descansar.
-                   Gm
+                               Fm
 Que Campanilla te cuide y te guarde.

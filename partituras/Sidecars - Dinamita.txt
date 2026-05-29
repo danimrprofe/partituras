@@ -1,8 +1,10 @@
-CEJILLA/CAPO: Capo 0
+CEJILLA/CAPO: Capo 3
+COMPÁS: 3/4
 
-COMPÁS: 4/4
+Bm7add11 x2023x
+
 INTRO
-G                   Em   G                  Em
+G     Bm7add11      Em   G    Bm7add11       Em   (bajo A B...)
 Cómo habré llegado aquí Me tortura al despertarme.
 C      G/B      D*     Am      G/B        D
 Cien maneras de mentir y mil formas de pillarme.
@@ -11,7 +13,8 @@ Hoy te alejo más de mí, Con tu música a otra parte.
 C        G/B          D     Am7    G/B        D
 Y me has vuelto a sonreír... Has debido equivocarte.
 
-C        G            D       G   C          G          D          G
+PRE-CORO
+C        G/B           D*          C          G          D          G
 Como dinamita en una fuga de gas. Abre una rendija, ayúdame a respirar.
 C                                    D
 Tarde para andar detrás Decirte que no
@@ -32,11 +35,21 @@ C        G            D       G   C          G          D          G
 Como dinamita en una fuga de gas. Abre una rendija, ayúdame a respirar.
 C                                    D
 Tarde para andar detrás Decirte que no
+
 ESTRIBILLO
-C              Am              G      Bm          Em
-Y a quién quiero engañar Ya sabes que bebo los vientos por ti.
-      C
+  Em      D       G    Em      D      G
+Creetelo, no hay Dios, que me cure de ti.
+      Em  C G   Em  D       G
+Pídemelo lento, sácame de aquí.
+
+PUENTE
+C          C/B       Am             
+Y a quién quiero engañar 
+             G         Bm         Em
+Ya sabes que bebo los vientos por ti.
+      C           D
 Y no aguanto más así.
+
 Em D G Em D/#G C D G D C
 ESTRIBILLO
 FINAL

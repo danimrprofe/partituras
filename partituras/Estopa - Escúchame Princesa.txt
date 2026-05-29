@@ -1,7 +1,6 @@
-
-
-ESTOPA
+﻿ESTOPA 
 ESCÚCHAME PRINCESA
+Sin capo
 Am7                        D7sus2
 Escuchame princesa que la lluvia no molesta
        Fmaj7                     Am7
@@ -24,12 +23,11 @@ Am7                  D7sus2
 Escuchame princesa, olvidare tu ultimo beso
       Fmaj7                   Am7
 solo dame algo de tiempo solo eso
-Am7       D7sus2
+     Am7                     D7sus2
 no intentes consolarme con tu amistad eterna
-
-Fmaj7        Am7
+        Fmaj7                    Am7
 no te inventes mas historias de novelas
-ESTRIBILLO
+REPITE  ESTRIBILLO
 Am                          Em7
 Escucha Escucha y no digas nada
                     F                       G
@@ -50,3 +48,4 @@ que no me caere a trozos ni me volare los sesos
 solo dame un abrazo y deseame lo mejor
           F      G          Am
 que no me caere a trozos ni me volare los sesos
+
