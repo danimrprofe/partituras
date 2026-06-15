@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: Sara
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 D Dmaj7 Em G Asus2
 D Dmaj7 Em G Asus2 D G Asus2
@@ -91,3 +96,4 @@ Sara ha vuelto a la ciudad.
 Sara ha vuelto a la ciudad.
          G        Asus2     D   Em
 Sara ha vuelto a la ciudad.
+

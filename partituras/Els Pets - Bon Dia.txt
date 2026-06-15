@@ -1,3 +1,8 @@
+Artista: Els Pets
+Canción: Bon Dia
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 ELS PETS - BON DIA
@@ -96,3 +101,4 @@ damunt dels caps un sol ben insolent
 il·lumina descarat
             Bm          E
 tot l'espectacle de la gent.
+

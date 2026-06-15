@@ -1,3 +1,8 @@
+Artista: Pereza
+Canción: Madrid
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 INTRO
@@ -71,3 +76,4 @@ Traigo rosas rojas para ti,
 C                  D          G    Em  G   Em  G   Em  F  C
 eres mi rincón favorito de Madrid.
 FINAL
+

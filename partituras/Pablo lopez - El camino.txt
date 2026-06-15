@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: El camino
+Capo: No
+Disco: 
+Afinación: 
 # <<<<<<< HEAD
 
 > > > > > > > 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
@@ -95,3 +100,4 @@ Te buscaré sin descansar, no dejaré de caminar
 
 Ab Bb C/G
 He llegado hasta aquí porque nunca dejé ... de buscarte
+

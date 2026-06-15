@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: grupos-americanos
+Capo: 1
+Disco: 
+Afinación: 
 Capo 1
 
 
@@ -105,3 +110,4 @@ A D
 A D
 A D
 A
+

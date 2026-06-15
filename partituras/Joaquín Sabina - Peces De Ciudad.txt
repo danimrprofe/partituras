@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Peces De Ciudad
+Capo: No
+Disco: 
+Afinación: 
 Joaquín Sabina
 Peces de ciudad
 Cejilla traste 2
@@ -107,3 +112,4 @@ en una playa sin mar.
 
 FINAL
 F C G
+

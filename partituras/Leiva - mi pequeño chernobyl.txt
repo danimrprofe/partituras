@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: mi pequeño chernobyl
+Capo: No
+Disco: más maduro
+Afinación: 
 
 INTRO
 G | Bm | Em | Em
@@ -93,3 +98,4 @@ G        Bm     Em           C           G        Bm     Em
 ¿Qué vendrá después? De los años muertos ¿Qué vendrá después?
 G        Bm     Em           C           G        Bm     Em
 ¿Qué vendrá después? De los años muertos ¿Qué vendrá después?
+

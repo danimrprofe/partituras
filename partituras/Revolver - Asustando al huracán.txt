@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: Asustando al huracán
+Capo: No
+Disco: 
+Afinación: 
 REVOLVER ASUSTANDO AL HURACÁN
 Revólver
 
@@ -88,3 +93,4 @@ asustando al huracán
 asustando al huracán
      Am      D    G
 asustando al huracán
+

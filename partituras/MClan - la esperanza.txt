@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: la esperanza
+Capo: No
+Disco: 
+Afinación: 
 # La esperanza
 
 Artista: M-Clan
@@ -73,3 +78,4 @@ Y la esperanza, me empuja a seguir Oohh...
 
          G           D           C   G
 Y la esperanza, me empuja a seguir
+

@@ -1,3 +1,8 @@
+Artista: Matchbox Twenty
+Canción: Unwell
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 Key: B
@@ -91,3 +96,4 @@ N.C.
 and how I used to be
 N.C.
 Yeah, how I used to be...
+

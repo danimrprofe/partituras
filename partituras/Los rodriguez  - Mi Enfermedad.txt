@@ -1,4 +1,9 @@
-﻿INTRO
+Artista: Los rodriguez
+Canción: Mi Enfermedad
+Capo: No
+Disco: 
+Afinación: 
+INTRO
 Dsus2 G A D 
 Dsus2 G A D Dsus2
 
@@ -40,3 +45,4 @@ que esta vez el esclavo se escapó.
 
 ESTRIBILLO
 G A D
+

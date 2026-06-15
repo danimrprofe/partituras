@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: Lo saben mis zapatos
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 C | Bm/F# | Em | Bm/F#
 C | Bm/F# | Em7
@@ -84,3 +89,4 @@ No lo sabe nadie, nadie, naaadie puede imaginár se lo.
 
 C Bm/F# Em Bm
 C Bm/F# Em7
+

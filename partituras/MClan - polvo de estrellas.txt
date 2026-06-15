@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: polvo de estrellas
+Capo: No
+Disco: 
+Afinación: 
 # Polvo de estrellas
 
 
@@ -57,3 +62,4 @@ A B                 A    B                G#m              C#m B
     Todo esta en su sitio todo esta en su sitio todo esta aquí
 
 E
+

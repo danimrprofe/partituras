@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Sin Mitad - 7. Sin Mitad
+Capo: No
+Disco: El canto del loco
+Afinación: Eb Ab Db Gb Bb Eb
 
 
 Artista:	El Canto del loco
@@ -63,3 +68,4 @@ no hay canciones que llenen el vacío de mi soledad
 
             G
 ya no hay aay
+

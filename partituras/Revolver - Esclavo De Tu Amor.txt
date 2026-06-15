@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: Esclavo De Tu Amor
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 REVOLVER - ESCLAVO DE TU AMOR
@@ -77,3 +82,4 @@ y le digo a dios que no hay nada mejor
 que seguir siendo el esclavo de tu amor
       Am               D           G Cadd9 G
 que seguir siendo el esclavo de tu amor
+

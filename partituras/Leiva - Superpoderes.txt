@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Superpoderes
+Capo: No
+Disco: Nuclear
+Afinación: 
 ALBUM: Nuclear
 AÑO: 2019
 
@@ -62,3 +67,4 @@ Bm                  A          D       G
 Siempre, siempre, siempre, siempre vas a perder.
 D                    A        D
 Siempre, siempre, siempre, siempre
+

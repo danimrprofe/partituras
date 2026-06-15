@@ -1,3 +1,8 @@
+Artista: Tam Tam Go
+Canción: Espaldas Mojadas
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 TAM TAM GO
@@ -54,3 +59,4 @@ no hay mucho dinero, lo he pasado mal.
 Tú me quieres, yo te quiero,
 tú me quieres, yo te quiero.
 No hay dinero.
+

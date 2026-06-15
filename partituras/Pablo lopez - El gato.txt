@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: El gato
+Capo: No
+Disco: 
+Afinación: 
 **Con guitarra**
 
 Se puede tocar medio tono más abajo y poner cejilla en uno para hacerla más sencilla de tocar
@@ -88,3 +93,4 @@ Ab Db
 Mi gato es mucho mejor persona que yo
 Db - Gb - F - F - Eb - A - Ab - Db
 (Final instrumental parecido a la intro)
+

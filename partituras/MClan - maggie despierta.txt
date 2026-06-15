@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: maggie despierta
+Capo: 2
+Disco: 
+Afinación: 
 capo2
 
 Intro
@@ -65,3 +70,4 @@ Me hiciste polvo Maggie pero yo te quiero igual.
 
 FINAL
 G   Am   C   G (Hasta el final)
+

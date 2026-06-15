@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Maniobras Suicidas
+Capo: 1
+Disco: Nuclear
+Afinación: 
 ALBUM: Nuclear
 AÑO: 2019
 
@@ -61,3 +66,4 @@ Saber que nada es para siempre
 
 FINAL
 C A# F G# A# C
+

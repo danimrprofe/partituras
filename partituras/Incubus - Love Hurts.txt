@@ -1,3 +1,8 @@
+Artista: Incubus
+Canción: Love Hurts
+Capo: No
+Disco: 
+Afinación: 
 
 
 INCUBUS
@@ -100,3 +105,4 @@ Em     Bm    D    Am   Em     Bm           A              C
  Love hurts oohhh ohhh, love hurts cause without love I won't survive
 Em     Bm     D         C   Em     Bm     A              C           Em
  Love hurts ahh lala lalala, love hurts without love I won't survive
+

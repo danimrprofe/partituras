@@ -1,3 +1,8 @@
+Artista: Coldplay
+Canción: lost
+Capo: No
+Disco: 
+Afinación: 
 
 
 when you get to the first D in the chorus, try to play around
@@ -128,3 +133,4 @@ E|--------------|------------------|
 
 Em7   C   G   D      |clearly two times
 Em7   C   G          |and then fading
+

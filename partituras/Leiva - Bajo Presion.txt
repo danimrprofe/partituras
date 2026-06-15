@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Bajo Presion
+Capo: 1
+Disco: Gigante
+Afinación: 
 ALBUM: Gigante
 AÑO: 2025
 
@@ -95,3 +100,4 @@ Nanananana, nanananana
 Nanananana, nanananana
       Am    G   F   C
 Nanananana, nanananana
+

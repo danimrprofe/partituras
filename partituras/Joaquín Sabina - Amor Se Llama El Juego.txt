@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Amor Se Llama El Juego
+Capo: No
+Disco: 
+Afinación: 
 JOAQUÍN SABINA
 AMOR SE LLAMA EL JUEGO
 
@@ -83,3 +88,4 @@ Em          D	               C    Am              Em
 y cada vez peor y cada vez más rotos y cada vez más tu
                G                    D
 y cada vez más yo, sin rastro de nosotros. [x3]
+

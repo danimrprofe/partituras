@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Puede Ser
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 EL CANTO DEL LOCO - PUEDE SER
@@ -80,3 +85,4 @@ Em          Emmaj7		             Em7
 Algo puede mejorar. Algo que pueda encontrar.
                  A/C#                  C
 Que me ayude a imaginar. Y yo lo quiero lograr
+

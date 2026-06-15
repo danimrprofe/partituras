@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Más De 100 Mentiras
+Capo: No
+Disco: 
+Afinación: 
 JOAQUÍN SABINA
 MÁS DE 100 MENTIRAS
 Joaquín Sabina
@@ -158,3 +163,4 @@ F#dim          Am7           D
 caminos que nunca llevaban a Roma.
 
 ESTRIBILLO X3
+

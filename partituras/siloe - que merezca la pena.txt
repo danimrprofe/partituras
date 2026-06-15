@@ -1,3 +1,8 @@
+Artista: siloe
+Canción: que merezca la pena
+Capo: No
+Disco: 
+Afinación: 
 
 INTRO
 C D Em G C
@@ -95,3 +100,4 @@ Un viaje que merezca la pena,
 una viaje que merezca la pena,
        D                        G
 siempre haces que merezca la pena.
+

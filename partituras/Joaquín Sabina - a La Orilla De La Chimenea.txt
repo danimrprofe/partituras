@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: a La Orilla De La Chimenea
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUÍN SABINA
@@ -58,3 +63,4 @@ tu miedo y tu fe tu noche y tu día
 tu rencor, tu porqué, y tu agonía.
 G       F      C	       G      F        C
 O tal vez esa sombra. O tal vez ese viento
+

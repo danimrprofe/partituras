@@ -1,3 +1,8 @@
+Artista: Pereza
+Canción: Aproximación
+Capo: No
+Disco: 
+Afinación: 
 ESTROFA
 C     G    C    F            C	       G    Em    F
 Somos dos, para que queremos más. Pensamos antes de matarnos.
@@ -43,3 +48,4 @@ ESTRIBILLO
 FINAL
 C G C F
 C G Am F (repetir todo 3 veces)
+

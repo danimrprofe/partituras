@@ -1,3 +1,8 @@
+Artista: 3 Doors Down
+Canción: Here Without You
+Capo: No
+Disco: 
+Afinación: 
 
 
 3 DOORS DOWN
@@ -71,3 +76,4 @@ I think about you, baby, and I dream about you all the time
 I'm here without you, baby but you're still with me in my dreams
         G    A                    Bm   A    Bm  G  A
 And tonight, there's only you and me, yeah
+

@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: chilaba y cachimba
+Capo: No
+Disco: 
+Afinación: 
 # Chilaba y cachimba
 
 Artista: M-Clan
@@ -101,3 +106,4 @@ colgar el batín,
 cambiar bisturí
                 E    C#
 por chilaba y cachimba.
+

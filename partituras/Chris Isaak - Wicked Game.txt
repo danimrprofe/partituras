@@ -1,3 +1,8 @@
+Artista: Chris Isaak
+Canción: Wicked Game
+Capo: No
+Disco: 
+Afinación: 
 
 
 CHRIS ISAAK
@@ -77,3 +82,4 @@ Bm  A  E
          (This world is only gonna break your heart)
 Bm      A           E
    Nobody loves no one.
+

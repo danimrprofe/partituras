@@ -1,3 +1,8 @@
+Artista: Extremoduro
+Canción: Standby
+Capo: 0
+Disco: —
+Afinación: Estándar (E A D G B E)
 # PARTITURA v1
 ================================================================================
 ARTISTA: Extremoduro

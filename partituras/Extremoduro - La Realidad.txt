@@ -1,3 +1,8 @@
+Artista: Extremoduro
+Canción: La Realidad
+Capo: No
+Disco: 
+Afinación: 
 
 
 INTRO
@@ -138,3 +143,4 @@ E A
 E A
 E A
 E A
+

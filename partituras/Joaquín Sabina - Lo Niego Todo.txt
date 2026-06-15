@@ -1,7 +1,8 @@
-
-
-JOAQUÍN SABINA
-LO NIEGO TODO
+Artista: Joaquín Sabina
+Canción: Lo Niego Todo
+Capo: No
+Disco:
+Afinación:
 
 INTRO
 | E E/G#    | A      | C#m G#m/B | Amaj7 / B   |

@@ -1,3 +1,8 @@
+Artista: Seal
+Canción: Kiss From a Rose
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 KISS FROM A ROSE
@@ -172,3 +177,4 @@ A light hits the gloom on the grey
 Now that your rose is in bloom
    C              D            E
 A light hits the gloom on the grey
+

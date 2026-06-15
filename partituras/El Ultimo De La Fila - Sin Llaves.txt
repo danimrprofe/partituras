@@ -1,3 +1,8 @@
+Artista: El Ultimo De La Fila
+Canción: Sin Llaves
+Capo: No
+Disco: 
+Afinación: 
 
 
 EL ULTIMO DE LA FILA
@@ -79,3 +84,4 @@ Am            C                    Am
 Candiles de aceite habrá que encender
                     G             D             Am
 Sin llaves, a las puertas del instante estoy...
+

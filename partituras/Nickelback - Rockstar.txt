@@ -1,3 +1,8 @@
+Artista: Nickelback
+Canción: Rockstar
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
 
 Key: Bb
@@ -140,3 +145,4 @@ Everybody's got a drug dealer on speed dial...
 Well...Hey Hey I wanna be a rock star!
      G      A                 E
 Hey hey I wanna Be a rock star!
+

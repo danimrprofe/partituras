@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: la mejor noche de mi vida
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 A | F#m | C#m | F#m
 A | F#m Bm | F#m | E
@@ -111,3 +116,4 @@ FINAL
 
 A D A/C# D
 A/E C#/F F#m E/G#
+

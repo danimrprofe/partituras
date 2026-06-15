@@ -1,3 +1,8 @@
+Artista: Pereza
+Canción: Violento Amor
+Capo: 4
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 4
 
 G        D C            G     D   C
@@ -48,3 +53,4 @@ me duermo en el portal,
 A veces voy a ver si estás
     Em     C      G             D
 siempre me da por aaah aaaha aahaahi.
+

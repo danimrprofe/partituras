@@ -1,3 +1,8 @@
+Artista: Justin Timberlake
+Canción: True Colors
+Capo: 0
+Disco: —
+Afinación: Estándar (E A D G B E)
 # PARTITURA v1
 ================================================================================
 ARTISTA: Justin Timberlake

@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Así Estoy Yo Sin Ti
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUÍN SABINA
@@ -96,3 +101,4 @@ al otro lado del telón de acero.
 
 G         Am7   Bm      C   Bm        Am7     C/G   C
 Así estoy yo, Así estoy yo. Así estoy yo, sin ti.
+

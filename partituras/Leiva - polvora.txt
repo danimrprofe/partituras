@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: polvora
+Capo: No
+Disco: Pólvora
+Afinación: 
 ALBUM: Pólvora
 AÑO: 2014
 
@@ -59,3 +64,4 @@ Esto sé que no se va a acabar
 FINAL
 C Em F G
 F
+

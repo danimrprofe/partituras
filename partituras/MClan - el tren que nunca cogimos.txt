@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: el tren que nunca cogimos
+Capo: No
+Disco: 
+Afinación: 
 # El tren que nunca cogimos
 
 
@@ -75,3 +80,4 @@ Ahora quién lo dio por perdido aquel sonido.
 El humo nos cegó ooh el humo nos cegó
              Am   C                  G
 El humo nos cegó ooh el humo nos cegó
+

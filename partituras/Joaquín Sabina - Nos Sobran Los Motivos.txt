@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Nos Sobran Los Motivos
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUÍN SABINA
@@ -100,3 +105,4 @@ F                                   E
 de saber que estos son los últimos versos que te escribo,
 Dm					          E7
 para decir 'condios' a los dos nos sobran los motivos.
+

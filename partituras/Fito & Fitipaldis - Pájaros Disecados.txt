@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Pájaros Disecados
+Capo: 1
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 1
 
 FITO & FITIPALDIS
@@ -79,3 +84,4 @@ luego volveré a brillar de nuevo.
 
 FINAL
 F | C | Bb G | Dm  x2
+

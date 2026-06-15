@@ -1,3 +1,8 @@
+Artista: Jarabe De Palo
+Canción: Misteriosamente Hoy
+Capo: No
+Disco: 
+Afinación: 
 
 
 JARABE DE PALO
@@ -62,3 +67,4 @@ D            F          A        C#m
 Solo tiempo que perder, y el corazón tranquilo
 D             Dm                     A
 Hoy me siento bien, deliciosamente bien
+

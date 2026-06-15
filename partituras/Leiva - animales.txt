@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: animales
+Capo: No
+Disco: 
+Afinación: 
 
 INTRO
 Am         C     D              Am         C    D
@@ -52,3 +57,4 @@ Am          C     D
 
 Am
 Eh, ¿Cómo vas, cómo lo ves?…
+

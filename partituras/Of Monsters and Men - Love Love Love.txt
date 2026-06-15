@@ -1,8 +1,9 @@
-CEJILLA/CAPO: Capo 0
+Artista: Of Monsters and Men
+Canción: Love Love Love
+Capo: 7
+Disco: 
+Afinación: 
 
-Key: D
-BPM:       133
-COMPÁS:    4/4
 INTRO
 Am          G         C
 Well maybe I'm a crook for stealing your heart away
@@ -58,3 +59,4 @@ You love, love, love when you know I can't love, you..
 
 FINAL
 Am  G
+

@@ -1,3 +1,8 @@
+Artista: Julieta Venegas
+Canción: Lento
+Capo: No
+Disco: 
+Afinación: 
 
 
 JULIETA VENEGAS
@@ -37,3 +42,4 @@ Bb  C           F     Am	            Bb       C		             F    Am
 Se   delicado y espera. Dame tiempo para darte todo lo que tengo
 Bb  C  F  Am  (x2)
 Bb  C  F  Am
+

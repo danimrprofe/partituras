@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: La Francesita
+Capo: No
+Disco: Pólvora
+Afinación: 
 ALBUM: Pólvora
 AÑO: 2014
 
@@ -61,3 +66,4 @@ No quiero amanecer, sin hacerlo bien
 Cómo pude haber sido tan frio
      G              C                      G
 Y no sé, no sé, no sé, si esto es lo que quiero
+

@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: El Roce De Tu Piel
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 EL ROCE DE TU PIEL
@@ -103,3 +108,4 @@ G                   C
 corriendo por mis venas
 Am         D                   G
 nada mejor que el roce de tu piel
+

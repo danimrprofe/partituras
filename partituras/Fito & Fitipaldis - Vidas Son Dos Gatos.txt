@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Vidas Son Dos Gatos
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
 
 FITO & FITIPALDIS
@@ -90,3 +95,4 @@ si catorce vidas son dos gatos aún queda mucho por vivir.
 Ah Ah Aaah, Ah Ah Aaah
 Bm      A         D
 Ah Ah Aaah, ahhh, ahhh
+

@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: hoy no me encuentro
+Capo: No
+Disco: Diciembre
+Afinación: 
 ALBUM: Diciembre
 AÑO: 2012
 
@@ -58,3 +63,4 @@ Bm | G | Gm | A
 FINAL
 G Bm F#m Em x2
 Bm
+

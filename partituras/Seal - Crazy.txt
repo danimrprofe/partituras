@@ -1,3 +1,8 @@
+Artista: Seal
+Canción: Crazy
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 e|--0---0---3---2---1---3---1---0--|
@@ -95,3 +100,4 @@ F                          C      G                   D
  But we're never gonna survive unless  we get little  crazy
 F                        C      G                     D      Am
  No we're never gonna survive unless  we are a little  crazy
+

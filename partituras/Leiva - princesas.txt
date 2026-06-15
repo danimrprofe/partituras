@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: princesas
+Capo: No
+Disco: 
+Afinación: 
 
 INTRO
 G
@@ -86,3 +91,4 @@ a los pies de su cama, eres algo que he olvidado ya
 
 OUTRO
 G
+

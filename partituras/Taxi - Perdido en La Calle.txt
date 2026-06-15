@@ -1,3 +1,8 @@
+Artista: Taxi
+Canción: Perdido en La Calle
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 G D Em C x2
 
@@ -55,3 +60,4 @@ D                     C
 
 G            D           Em C
 uh, uh, perdido en la calle (x4)
+

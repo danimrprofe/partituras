@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: inmigrante
+Capo: No
+Disco: 
+Afinación: 
 # Inmigrante
 
 
@@ -87,3 +92,4 @@ SOLO
 | G    | D    | F#   | Bm
                 rit.
 X
+

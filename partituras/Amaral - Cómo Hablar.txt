@@ -1,3 +1,8 @@
+Artista: Amaral
+Canción: Cómo Hablar
+Capo: 1
+Disco: UNA PEQUEÑA PARTE DEL MUNDO (2000)
+Afinación: Estándar (E A D G B E)
 ================================================================================
 ARTISTA: AMARAL
 CANCIÓN: CÓMO HABLAR
@@ -95,3 +100,4 @@ Bm
 poco,
          G              D     F#        - D
 tu que llegaste por casualidad, como hablar.
+

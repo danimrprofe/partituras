@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: Dos Por Dos
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 REVOLVER - DOS POR DOS
@@ -77,3 +82,4 @@ y a menudo es algo claro, y a menudo es algo gris
 y aprender a construir lo que hay en medio entre ella y tú...
         Bm          F#m          E                 A
 siempre supe que el amor era cuestión sólo de dos por dos...
+

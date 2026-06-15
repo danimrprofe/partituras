@@ -1,3 +1,8 @@
+Artista: Jarabe De Palo
+Canción: Vecina
+Capo: No
+Disco: 
+Afinación: 
 
 
 JARABE DE PALO
@@ -63,3 +68,4 @@ C       Bm  Am       D        G Bm Em C
 Gracias por tomar el sol para mi
 G       Bm  Em       C             Em
 Gracias por tomar el sol para mí   ...vecina
+

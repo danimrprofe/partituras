@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: roto por dentro
+Capo: No
+Disco: 
+Afinación: 
 Intro
 G - Bm - Em - Bm - C - D - G
 
@@ -61,3 +66,4 @@ estoy todo roto y no quiero seguir así.
 
 le modifiqué los acordes del solo
 y algunos acordes de las estrofas que estaban mal
+

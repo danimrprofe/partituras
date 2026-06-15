@@ -1,3 +1,8 @@
+Artista: Estopa
+Canción: Ya No Me Acuerdo
+Capo: No
+Disco: 
+Afinación: 
 ESTOPA
 YA NO ME ACUERDO
 
@@ -78,3 +83,4 @@ Am
   y tan eterno
 E          Am   E           Am
 ya no me acuerdo, ya no me acuerdo.
+

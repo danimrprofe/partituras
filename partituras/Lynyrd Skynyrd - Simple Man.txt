@@ -1,3 +1,8 @@
+Artista: Lynyrd Skynyrd
+Canción: Simple Man
+Capo: 4
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 4
 
 LYNYRD SKYNYRD - SIMPLE MAN
@@ -1630,3 +1635,4 @@ ESTRIBILLO
 Y es que estoy todo roto por dentro, estoy todo roto y desecho,
 D                      C            G
 estoy todo roto y no quiero seguir así.
+

@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: histericos
+Capo: 1
+Disco: 
+Afinación: 
 CEJILLA/CAPO: 1
 En algunos acústicos capo 2. 78 bpm
 
@@ -58,3 +63,4 @@ ESTRIBILLO
 No me das miedo. Lánzame hacia ti. Dame de lleno
              Am            F              C   G   G7
 Haz el esfuerzo. Déjalo fluir. Hazte con ello
+

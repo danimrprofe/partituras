@@ -1,3 +1,8 @@
+Artista: Pereza
+Canción: Yo Solo Quiero
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 YO SOLO QUIERO
@@ -84,3 +89,4 @@ Solo quiero que hoy me digas.
 Que esta noche eres sólo mía
 
 C#m  A  B  E (x4)  C#m
+

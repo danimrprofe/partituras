@@ -1,3 +1,8 @@
+Artista: Sting
+Canción: Englishman in New York
+Capo: No
+Disco: 
+Afinación: 
 ESTROFA
 Em               A          Bm          A
 I don't drink coffee I take tea my dear
@@ -90,3 +95,4 @@ Em      A    Bm
 I'm an alien   I'm a legal alien
 A        Em        A      Bm   A
 I'm an Englishman in New York
+

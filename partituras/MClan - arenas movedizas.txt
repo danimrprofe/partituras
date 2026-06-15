@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: arenas movedizas
+Capo: No
+Disco: 
+Afinación: 
 # Arenas movedizas
 
 Artista: M-Clan
@@ -75,3 +80,4 @@ olvidar la vida que soñé   eeee eeee eee eeee
 
 Gm     Am    Bb  C
 Soñé   eeee eeee eee
+

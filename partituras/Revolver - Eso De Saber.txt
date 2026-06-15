@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: Eso De Saber
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 REVOLVER - ESO DE SABER
@@ -76,3 +81,4 @@ Eso de saber que cada vello de cuerpo es más que bello
 son los anillos que rodearán mis dedos,
      B7              E    E*
 hasta que el TIempo diga se acabó
+

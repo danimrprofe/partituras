@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Acabado en A
+Capo: No
+Disco: 
+Afinación: *
 
 
 **************************************************
@@ -37,3 +42,4 @@ Bm   | G    | A  | -  (Coro)
 Bm   | G    | A  | -
 Bm   | G    | A  | -
 Bm   | G    | A  | -
+

@@ -1,3 +1,8 @@
+Artista: Elefantes
+Canción: Que Yo No Lo Sabía
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
 
 ELEFANTES
@@ -81,3 +86,4 @@ que hay tantas cosas que vivir, y yo sin ti no lo sabía.
            G     Am Em D   C C
 
 Fin en: G
+

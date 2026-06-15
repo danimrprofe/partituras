@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Entre La Espada Y La Pared
+Capo: No
+Disco: 
+Afinación: 
 
 
 FITO & FITIPALDIS
@@ -82,3 +87,4 @@ F
 Am | Am | G | G
 Dm | - | F | G
 Am
+

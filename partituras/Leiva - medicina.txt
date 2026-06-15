@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: medicina
+Capo: No
+Disco: Monstruos
+Afinación: 
 ALBUM: Monstruos
 AÑO: 2016
 
@@ -102,3 +107,4 @@ G          D
 cuando te va alcanzar
 A   G   D
 tu medicina
+

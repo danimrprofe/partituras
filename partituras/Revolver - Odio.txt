@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: Odio
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 C  G  Am  D
 C  G  D  G
@@ -143,3 +148,4 @@ Aunque tú me des la vuelta tengo el mismo corazón
 Qué le voy a hacer si con razón o sin razón
          C            G             D       G
 Y aunque tú me des la vuelta tengo el mismo corazón
+

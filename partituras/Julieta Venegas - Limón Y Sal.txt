@@ -1,3 +1,8 @@
+Artista: Julieta Venegas
+Canción: Limón Y Sal
+Capo: 4
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 4
 
 JULIETA VENEGAS
@@ -108,3 +113,4 @@ C D Em D F# A
 Con sólo tenerte cerca
 D                       G
 Siento que vuelvo a empezar.
+

@@ -1,3 +1,8 @@
+Artista: Red Hot Chili Peppers
+Canción: Scar Tissue
+Capo: No
+Disco: 
+Afinación: E A D G B E
 
 
 Afinación:
@@ -155,3 +160,4 @@ CODA
 | p   Pull-off
 
 ***********************************
+

@@ -1,3 +1,8 @@
+Artista: La Fuga
+Canción: Balada Del Despertador
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 G | C D | G | C D
 
@@ -40,3 +45,4 @@ enemigo del calor que siempre molesta en lo mejor
 como el sol, que me despierta cuando escondido estoy bajo el edredón;
          G
 pégate a mi
+

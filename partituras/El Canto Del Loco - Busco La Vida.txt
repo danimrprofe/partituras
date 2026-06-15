@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Busco La Vida
+Capo: No
+Disco: El canto del loco
+Afinación: Eb Ab Db Gb Bb Eb
 
 
 Artista:	El Canto del loco
@@ -65,3 +70,4 @@ Am              C
 Entre luz de colores,
             D
 Colores sin más
+

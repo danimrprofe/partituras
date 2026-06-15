@@ -1,3 +1,8 @@
+Artista: Morgan
+Canción: Intro
+Capo: No
+Disco: North
+Afinación: Estándar (E A D G B E)
 # PARTITURA v1
 ================================================================================
 ARTISTA: MORGAN
@@ -69,3 +74,4 @@ F               C
 Donde acaba el río
 F            Am
 Y empieza el mar
+

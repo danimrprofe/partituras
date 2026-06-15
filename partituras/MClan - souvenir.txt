@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: souvenir
+Capo: No
+Disco: 
+Afinación: 
 # Souvenir
 
 
@@ -123,3 +128,4 @@ G
 uoh oh ooh
 G
 uoh oh ooh
+

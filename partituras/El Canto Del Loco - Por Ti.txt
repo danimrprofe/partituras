@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Por Ti
+Capo: 3
+Disco: Zapatillas, 2005
+Afinación: Eb Ab Db Gb Bb Eb
 CEJILLA/CAPO: Capo 3
 
 Artista:	El Canto del loco
@@ -52,3 +57,4 @@ y por tu calor y por tanta magia me quedo contigo
 y por tu calor y por tu carisma te llevo conmigo
  Am       Asus2
 Te llevo conmigo. Te llevo conmigo
+

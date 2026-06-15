@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: No Te Preocupes Por Mi
+Capo: No
+Disco: Nuclear
+Afinación: 
 ALBUM: Nuclear
 AÑO: 2019
 
@@ -30,3 +35,4 @@ Em			               D
 Todo es tan perfecto, nadie entiende
                      G
 el movimiento de sus alas
+

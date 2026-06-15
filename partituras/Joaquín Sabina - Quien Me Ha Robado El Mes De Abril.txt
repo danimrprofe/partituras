@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Quien Me Ha Robado El Mes De Abril
+Capo: No
+Disco: 
+Afinación: 
 JOAQUÍN SABINA
 QUIEN ME HA ROBADO EL MES DE ABRIL
 
@@ -104,3 +109,4 @@ G              D                C
 ¿Quién me ha robado el mes de Abril?
     Bm             Am	       Am/G         D
 Lo guardaba en el cajón donde guardo el corazón
+

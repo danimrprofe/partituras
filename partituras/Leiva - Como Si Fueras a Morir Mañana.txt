@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Como Si Fueras a Morir Mañana
+Capo: 1
+Disco: Nuclear
+Afinación: 
 ALBUM: Nuclear
 AÑO: 2019
 
@@ -68,3 +73,4 @@ Aunque lo veas demasiado lejos ¡oh, oh!
 ¡Hazlo! Como si no supieras que se acaba.
          D         A       G
 Como si fueras a morir mañana
+

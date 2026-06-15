@@ -1,3 +1,8 @@
+Artista: Marea
+Canción: Amor temporero
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 A5 C5 G5
 A5 C5 G5
@@ -121,3 +126,4 @@ A5 F5
 Ordeñaré las ubres de la luna y en cuanto amanezca
 G5 C5 A5
 Yo, dosifico a pala y pico el sol, el sol
+

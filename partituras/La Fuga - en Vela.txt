@@ -1,3 +1,8 @@
+Artista: La Fuga
+Canción: en Vela
+Capo: No
+Disco: 
+Afinación: 
 
 
 om: A
@@ -117,3 +122,4 @@ Esrtibillo de nuevo hasta el final....
 E|E|E|E|E|---------------|E|---------------|-||||------
 
 E|---
+

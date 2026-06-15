@@ -1,3 +1,8 @@
+Artista: Maldita Nerea
+Canción: Cuando Todas Las Historias Se Acaban
+Capo: No
+Disco: 
+Afinación: 
 
 
 ESTROFA 1
@@ -136,3 +141,4 @@ Cuando todas las historias se acaban
 Solo te quedas tú
                 F#m
 Solo te quedas tú
+

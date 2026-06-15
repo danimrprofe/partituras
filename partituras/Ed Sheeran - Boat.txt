@@ -1,3 +1,8 @@
+Artista: Ed Sheeran
+Canción: Boat
+Capo: 4
+Disco: 
+Afinación: E A D G B E
 AFINACION: E A D G B E
 CEJILLA/CAPO: Capo 4
 
@@ -83,3 +88,4 @@ Maybe I won't
         C     C/D   C/E   G/B    Fadd9
 But the waves won't break my boat
 X
+

@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Fito & Fitipaldis
+Capo: 1
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 1
 
 FITO & FITIPALDIS
@@ -89,3 +94,4 @@ Fm  D#   A#  Cm X2
 Fm Cm D# A# Cm
 Fm D# A# C
 Fm D# G# Cm Fm D# A# Cm
+

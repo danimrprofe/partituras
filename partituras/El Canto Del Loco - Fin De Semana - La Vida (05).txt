@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Fin De Semana - La Vida (05)
+Capo: No
+Disco: Personas
+Afinación: Eb Ab Db Gb Bb Eb
 
 
 Artista:	El Canto del loco
@@ -84,3 +89,4 @@ E            A         B      E       A B
 siempre quedará nuestro fin de semana
 A                      B
 y llegará el domingo otra vez
+

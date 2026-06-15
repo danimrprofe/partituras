@@ -1,3 +1,8 @@
+Artista: Josep Thió
+Canción: Quan somrius
+Capo: No
+Disco: 
+Afinación: 
 Me va mejor cejilla en traste 2
 
 INTRO
@@ -85,3 +90,4 @@ Am G F C Am F G7 C (x2)
 
 [Ending]
 C FM7 C (x2)
+

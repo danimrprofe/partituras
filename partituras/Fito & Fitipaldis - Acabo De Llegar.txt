@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Acabo De Llegar
+Capo: No
+Disco: 
+Afinación: 
 
 
 ESTRIBILLO
@@ -68,3 +73,4 @@ ooh que te voy a decir, que te voy a decir
 
 FINAL
 F | C | G | Am
+

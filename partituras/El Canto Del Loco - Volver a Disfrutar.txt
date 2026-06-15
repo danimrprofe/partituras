@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Volver a Disfrutar
+Capo: No
+Disco: 
+Afinación: *
 
 
 **************************************************
@@ -62,3 +67,4 @@ A    | E    | B   | D
 -----+------+-----+--------
 
 A
+

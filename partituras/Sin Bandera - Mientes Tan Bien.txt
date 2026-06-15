@@ -1,3 +1,8 @@
+Artista: Sin Bandera
+Canción: Mientes Tan Bien
+Capo: No
+Disco: 
+Afinación: 
 G Gadd2  D/F#  (x2)
 
 Am                   D               G    D/F#
@@ -63,3 +68,4 @@ D           G
 Mientes lo se
 
 G D/F# (x2) G
+

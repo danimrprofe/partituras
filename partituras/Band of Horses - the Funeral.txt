@@ -1,3 +1,8 @@
+Artista: Band of Horses
+Canción: the Funeral
+Capo: No
+Disco: 
+Afinación: 
 
 INTRO
    F            C         G         Am
@@ -66,3 +71,4 @@ And every occasion, oh, one-billion-day funeral
 
 FINAL
 | F   | C   | G   | C   | x5
+

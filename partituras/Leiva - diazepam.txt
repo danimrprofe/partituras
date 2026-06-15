@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: diazepam
+Capo: No
+Disco: Cuando te muerdes el labio
+Afinación: 
 ALBUM: Cuando te muerdes el labio
 AÑO: 2021
 
@@ -81,3 +86,4 @@ Dm          G7        Cadd9
 Hasta que me quede sin voz
 Dm          G7        Fmaj7    G6   Fmaj7 G6 C
 Hasta que me quede sin voz, sin voz.
+

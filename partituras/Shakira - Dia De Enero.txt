@@ -1,3 +1,8 @@
+Artista: Shakira
+Canción: Dia De Enero
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 Día de enero
@@ -107,3 +112,4 @@ Ya vas a ver como va
     F           Dm   Gm     Cm*     F*        Bb*
 La misma vida a decantar la sal que sobra del mar
 X
+

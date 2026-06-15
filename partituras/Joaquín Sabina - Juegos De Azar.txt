@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Juegos De Azar
+Capo: 4
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 4
 
 JOAQUÍN SABINA
@@ -72,3 +77,4 @@ A#                        Am
 En taquilla te habían dado la fila dos
     F                C
 y a mí me dieron la tres
+

@@ -1,3 +1,8 @@
+Artista: Estopa
+Canción: a Ninguna Parte
+Capo: No
+Disco: 
+Afinación: 
 
 
 ESTOPA
@@ -95,3 +100,4 @@ A                     Bm  F#m
 lleveme a ninguna parte
 Em              A
 A ninguna parte.
+

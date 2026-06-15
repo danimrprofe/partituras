@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: te espero aqui
+Capo: No
+Disco: 
+Afinación: 
 **Guitarra**
 
 - Subiéndola un semitono es más fácil de tocar, y se puede desafinar la guitarra medio tono para coincidir con la canción
@@ -123,3 +128,4 @@ yo te espero aqui...
 FINAL (Arpegiar)
 F# Bm/D
 F# Bm/D
+

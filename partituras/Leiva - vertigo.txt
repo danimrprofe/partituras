@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: vertigo
+Capo: No
+Disco: 
+Afinación: 
 ESTROFA
 A        C#m   F#m     D
 Luces, vértigos, pequeña agonía,
@@ -39,3 +44,4 @@ porque la vida nos parte y yo me quiero soltar,
 no encuentro ni un instante de paz.
       Bm               E    D       A
 no encuentro ni un instaaanteee de paaaz
+

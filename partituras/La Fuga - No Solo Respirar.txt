@@ -1,3 +1,8 @@
+Artista: La Fuga
+Canción: No Solo Respirar
+Capo: No
+Disco: 
+Afinación: 
 
 
 Tono: Bm
@@ -81,3 +86,4 @@ Bm  G
 Y voy barriendo los rincones
 A  Bm
 De mi alma.
+

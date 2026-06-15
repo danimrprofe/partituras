@@ -1,3 +1,8 @@
+Artista: John Mayer
+Canción: Love on the Weekend
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOHN MAYER
@@ -93,3 +98,4 @@ C
 Love on the weekend
 G     C
         Love on the weekend
+

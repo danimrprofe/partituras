@@ -1,3 +1,8 @@
+Artista: Shakira
+Canción: La Pared
+Capo: No
+Disco: 
+Afinación: 
 
 ESTROFA
 Am           G       Am         G
@@ -57,3 +62,4 @@ debajo, el asfalto y más abajo estaría yo sin tí
 FINAL
 Am G Am G
 C
+

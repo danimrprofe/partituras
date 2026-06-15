@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: la estacion eterna
+Capo: No
+Disco: 
+Afinación: 
 
 INTRO
 B
@@ -58,3 +63,4 @@ FINAL
        B    E
 de verdad..     (x4)
 B
+

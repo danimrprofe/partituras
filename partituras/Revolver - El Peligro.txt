@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: El Peligro
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 REVOLVER - EL PELIGRO
@@ -110,3 +115,4 @@ Pero aquí ¿Quién no es cobarde por amor?
 Pero aquí ¿Quién no es cobarde por amor?
 
 FINAL
+

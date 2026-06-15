@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: a Ti Te Ocurre Algo
+Capo: No
+Disco: 
+Afinación: 
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
 G D-C D = G, luego D con bajo en C (D/C o transición), luego D; repetir.
@@ -83,3 +88,4 @@ Oh, oh-oh, oh-oh.
 
 FINAL
 D       G   C G
+

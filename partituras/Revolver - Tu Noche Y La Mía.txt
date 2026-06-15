@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: Tu Noche Y La Mía
+Capo: No
+Disco: 
+Afinación: 
 
 
 REVOLVER
@@ -87,3 +92,4 @@ Que no olvidaré
 Tu noche y la mía
 
 E B A
+

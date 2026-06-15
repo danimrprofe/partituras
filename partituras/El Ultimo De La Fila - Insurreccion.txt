@@ -1,3 +1,8 @@
+Artista: El Ultimo De La Fila
+Canción: Insurreccion
+Capo: 1
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 1
 
 EL ULTIMO DE LA FILA - INSURRECCIÓN
@@ -63,3 +68,4 @@ E        D               E
 Me siento hoy como un halcón
 D	   A                     D
 Llamado a las filas de la insurrección
+

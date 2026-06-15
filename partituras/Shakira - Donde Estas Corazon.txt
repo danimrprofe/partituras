@@ -1,3 +1,8 @@
+Artista: Shakira
+Canción: Donde Estas Corazon
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 ESTROFA 1
@@ -141,3 +146,4 @@ En las revistas, en la radio
                   D
 Te busqué por las calles...
 X
+

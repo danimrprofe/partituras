@@ -1,3 +1,8 @@
+Artista: Don Mclean
+Canción: American Pie
+Capo: No
+Disco: 
+Afinación: 
 
 
 DON MCLEAN
@@ -245,3 +250,4 @@ Drove my Chevy to the levee but the levee was dry
 Them good old boys were drinking whiskey and rye
         C                 D          G
 Singing this'll be the day that I die
+

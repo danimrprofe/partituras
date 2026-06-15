@@ -1,3 +1,8 @@
+Artista: Maná
+Canción: Clavado en Un Bar
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 MANÁ - CLAVADO EN UN BAR
@@ -59,3 +64,4 @@ C#m             E                B            D#m
 Déjate querer amor Quiero ser tu todo Y tu corazón
 C#m                 E                    B                    F#m  E
 Ven a rescatarme amor Yo quiero ser tu sol. Yo quiero ser tu mar Oooohhh
+

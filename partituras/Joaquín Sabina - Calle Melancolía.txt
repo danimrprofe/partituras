@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Calle Melancolía
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUÍN SABINA
@@ -83,3 +88,4 @@ Quiero mudarme hace años al barrio de la alegría
 pero siempre que lo intento ha salido ya el tranvía.
 A                   Bm       G      A      D
 En la escalera me siento a silbar mi melodía
+

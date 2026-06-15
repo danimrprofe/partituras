@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Son Sueños
+Capo: No
+Disco: 
+Afinación: 
 
 
 EL CANTO DEL LOCO - SON SUEÑOS
@@ -43,3 +48,4 @@ Bm             E          C#m                  F#*
 y te sigo esperando tanto, y tú en mí nunca te has fijado
 Bm          E               D Dm
 por eso te tengo que encontrar
+

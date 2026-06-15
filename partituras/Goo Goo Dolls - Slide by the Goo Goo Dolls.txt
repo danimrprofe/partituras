@@ -1,3 +1,8 @@
+Artista: Goo Goo Dolls
+Canción: Slide by the Goo Goo Dolls
+Capo: 1
+Disco: 
+Afinación: with open d ( E A D G B d )
 CEJILLA/CAPO: Capo 1
 
 Capo:
@@ -168,3 +173,4 @@ E------------------------------3-----2---|------------------------------3---|
 
 
 ANIMO LA SALLE!
+

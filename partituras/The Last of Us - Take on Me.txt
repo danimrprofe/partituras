@@ -1,3 +1,8 @@
+Artista: The Last of Us
+Canción: Take on Me
+Capo: No
+Disco: 
+Afinación: E A D G B E
 
 
 Afinación:
@@ -82,3 +87,4 @@ In a day or two...
             B    F#  G#m  E
 In a day or two...
 X
+

@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Cerca
+Capo: 2
+Disco: Pólvora
+Afinación: 
 ALBUM: Pólvora
 AÑO: 2014
 
@@ -66,3 +71,4 @@ No seas estúpida y ven. Volvamos a intentarlo
 
 FINAL
 C F C G   C F C G C
+

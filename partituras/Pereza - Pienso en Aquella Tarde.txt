@@ -1,3 +1,8 @@
+Artista: Pereza
+Canción: Pienso en Aquella Tarde
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 e|----------3---------------------|
 B|----3-5-3-----------------------|
@@ -78,3 +83,4 @@ G                    Cadd9       Em7               D
 Yo pienso en aquella tarde cuando me arrepentí de todo.
 G                    Cadd9       Em7               D   G
 Yo pienso en aquella tarde cuando me arrepentí de todo.
+

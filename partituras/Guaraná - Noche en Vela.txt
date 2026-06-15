@@ -1,3 +1,8 @@
+Artista: Guaraná
+Canción: Noche en Vela
+Capo: No
+Disco: 
+Afinación: 
 
 
 GUARANÁ
@@ -66,3 +71,4 @@ G       D               Em  C            G
 No quedan luces en el puerto, asi que estare atento
     D                C
 por si confundiste el mar
+

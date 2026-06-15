@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Aves De Paso
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUÍN SABINA
@@ -66,3 +71,4 @@ de un cuarto de hotel, dulce hotel
 ESTRIBILLO
 G G/C G G/A
 G G/C G G/A
+

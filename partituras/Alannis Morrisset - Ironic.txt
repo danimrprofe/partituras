@@ -1,3 +1,8 @@
+Artista: Alannis Morrisset
+Canción: Ironic
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 Alannis Morrisset
@@ -94,3 +99,4 @@ It's the good advice  that you just didn't take
 Who would've       thought... it figures
 
 ( C7M  D6(11)  C7M )
+

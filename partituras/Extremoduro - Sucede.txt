@@ -1,3 +1,8 @@
+Artista: Extremoduro
+Canción: Sucede
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 E|---0-0-0-0----------------------------------------------------------------
@@ -32,3 +37,4 @@ Quien quiere saber
 
 C F Em Dm
 C F Em
+

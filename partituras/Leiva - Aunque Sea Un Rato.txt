@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Aunque Sea Un Rato
+Capo: No
+Disco: Diciembre
+Afinación: 
 ALBUM: Diciembre
 AÑO: 2012
 
@@ -59,3 +64,4 @@ Aunque sea un rato   x2
 
 FINAL
 | F G | C   |
+

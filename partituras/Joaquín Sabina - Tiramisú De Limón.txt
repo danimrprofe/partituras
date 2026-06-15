@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Tiramisú De Limón
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUÍN SABINA - Tiramisú de limón
@@ -97,3 +102,4 @@ QUE SEPAS QUE EL FINAL NO EMPIEZA HOY
 
 FINAL
 D F#m G D F#m Bm G Gm D
+

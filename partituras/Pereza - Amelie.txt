@@ -1,3 +1,9 @@
+Artista: Pereza
+Canción: Amelie
+Capo: 2
+Disco: 
+Afinación: 
+
 ESTROFA
         Am              F                          C
 Yo sólo busco (oh oh oh ooh) que me tiemblen las piernas
@@ -54,3 +60,4 @@ F                   C           G     Am
 pequeña sonrisa de Amelie me tienes ganado
 F                   C          G     Am
 pequeña sonrisa de Amelie me tienes calado
+

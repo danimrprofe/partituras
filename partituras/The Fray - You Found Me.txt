@@ -1,3 +1,8 @@
+Artista: The Fray
+Canción: You Found Me
+Capo: 4
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 4
 
 THE FRAY
@@ -107,3 +112,4 @@ OUTRO
 
 Em                C     G          D
 Why'd you have to wait? to find me to find me
+

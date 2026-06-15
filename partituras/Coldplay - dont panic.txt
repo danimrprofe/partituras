@@ -1,3 +1,8 @@
+Artista: Coldplay
+Canción: dont panic
+Capo: No
+Disco: 
+Afinación: 
 
 
 INTRO
@@ -60,3 +65,4 @@ Oh, all that I know
 There's nothing here to run from
   Am                C                    Fmaj7
 Cos yeah, everybody here got somebody to lean on
+

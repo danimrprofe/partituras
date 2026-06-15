@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: las 1700
+Capo: No
+Disco: 
+Afinación: 
 ESTROFA
 E
 No quería dejar de llamar a la puerta de la tentación
@@ -44,3 +49,4 @@ terminar.
 Yo no quiero que me cuentes el final.
 **Outro**
 C#m A Cm Em B E
+

@@ -1,3 +1,8 @@
+Artista: Johnny Cash
+Canción: Hurt
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 Key: Em
@@ -55,3 +60,4 @@ If I could start again, a million miles away
 Am7            Fadd9  G
 I would keep myself,  I would find a way
                     (single strum)
+

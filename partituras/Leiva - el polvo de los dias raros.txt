@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: el polvo de los dias raros
+Capo: No
+Disco: Gigante
+Afinación: 
 ALBUM: Gigante
 AÑO: 2025
 
@@ -117,3 +122,4 @@ Huele Demasiado
 Huele Demasiado A Tí
  F#          B E B E B E
 Huele Demasiado
+

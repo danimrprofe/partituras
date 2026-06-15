@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: que esta pasando
+Capo: No
+Disco: sin enchufe
+Afinación: 
 # Que está pasando
 
 Versión de directo, disco sin enchufe
@@ -135,3 +140,4 @@ Cadd9      G      Cadd9
 Huhuhuuuu
 Cadd9       G      Cadd9
 huhuhuuuu
+

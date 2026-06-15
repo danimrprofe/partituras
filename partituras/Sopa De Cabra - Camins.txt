@@ -1,3 +1,8 @@
+Artista: Sopa De Cabra
+Canción: Camins
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 SOPA DE CABRA
@@ -53,3 +58,4 @@ D*                   Am*    G                       D*
  Camins que ara s'esvaeixen, camins que has de fer sol.
 D*                   Am*   G                   D
  Camins vora les estrelles, camins que ja són nous.
+

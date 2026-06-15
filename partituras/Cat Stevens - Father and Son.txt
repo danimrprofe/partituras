@@ -1,3 +1,8 @@
+Artista: Cat Stevens
+Canción: Father and Son
+Capo: No
+Disco: 
+Afinación: 
 
 
 CAT STEVENS
@@ -48,3 +53,4 @@ It's hard, but it's harder to ignore it
 If they were right, I'd agree, but it's them they know, not me
 G          Em          D       G       G/D			D      C       G
 Now there's a way, and I know that I have to go away. I know I have to go
+

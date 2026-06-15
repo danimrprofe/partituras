@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Besos
+Capo: No
+Disco: Zapatillas, 2005
+Afinación: Eb Ab Db Gb Bb Eb
 
 
 Artista:	El Canto del loco
@@ -45,3 +50,4 @@ E    | E    | F#  | F#
 B  E | B  E | B E | B  E (Y parate a ver)
 B  E | B  E | B E | B  E
 B
+

@@ -1,3 +1,8 @@
+Artista: Snow Patrol
+Canción: You Could Be Happy
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
 
 SNOW PATROL
@@ -52,3 +57,4 @@ Without me there to hold you back, don't think, just do
 More than anything I want to see you go
                 F           C         A#
 Take a glorious bite out of the whole world
+

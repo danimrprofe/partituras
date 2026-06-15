@@ -1,4 +1,9 @@
-﻿INTRO
+Artista: Corey Taylor
+Canción: snuff
+Capo: No
+Disco: 
+Afinación: 
+INTRO
 Am Em F C
 
 ESTROFA
@@ -73,3 +78,4 @@ If You Still Care, Don't Ever Let Me Know
                                Am Em F C (x2)
 If you still care, don't ever let me know
 Am
+

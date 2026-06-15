@@ -1,6 +1,9 @@
-VETUSTA MORLA
-FINISTERRE
-Para mí bajar 3 y capo 1
+Artista: Vetusta Morla
+Canción: Finisterre
+Capo: 0
+Disco: 
+Afinación: 
+Notas: Para mí bajar 3 y capo 1
 
 ESTROFA
 Gm               F               Eb              Gm
@@ -58,3 +61,4 @@ Eb        F         Bb         Eb       Cm        F         Bb         Eb
 ¿Qué más dará si la tierra es plana, si es fuego y polvo o salió del mar?
 Cm        F           Bb         Eb           Dm        Cm   F#dim
 Ya me da igual, cuando tú andas cerca yo bailo al son de tu gravedad
+

@@ -1,3 +1,8 @@
+Artista: Pereza
+Canción: Por Mi Tripa
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 POR MI TRIPA
@@ -60,3 +65,4 @@ Asus2        E               Asus2       E
 Hoy me he quedado pillado al verte  me pareces otro
 Amaj7     Esus4        Amaj7     Esus4
 pero eres el más grande  eres un terremoto.
+

@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Extasis
+Capo: No
+Disco: Diciembre
+Afinación: 
 ALBUM: Diciembre
 AÑO: 2012
 
@@ -79,3 +84,4 @@ cuando estábamos así.
 
 FINAL
 C | C F | G C
+

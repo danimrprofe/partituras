@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: lo imposible
+Capo: No
+Disco: 
+Afinación: 
 ESTROFA
 D Dsus4 D Dsus4 D Dsus4 D Dsus4
 Fue tan improbable, tan imposible, tan difícil de explicar
@@ -83,3 +88,4 @@ Gm
 Hace rato ya que estamos
 Bm A D
 Solos
+

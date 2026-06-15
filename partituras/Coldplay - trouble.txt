@@ -1,3 +1,8 @@
+Artista: Coldplay
+Canción: trouble
+Capo: No
+Disco: 
+Afinación: 
 
 
 INTRO
@@ -79,3 +84,4 @@ G  Em   Bm
 G  Em   Bm
 G  Em   Bm
 G  Em   Bm
+

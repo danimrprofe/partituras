@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Gigante
+Capo: No
+Disco: Gigante
+Afinación: 
 ALBUM: Gigante
 AÑO: 2025
 
@@ -117,3 +122,4 @@ F                         C  Bb
 Me está arrancando un rencor
 F            C     Bb F
 Un rencor gigante
+

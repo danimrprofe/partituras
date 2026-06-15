@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Pastillas Para No Soñar
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUÍN SABINA
@@ -73,3 +78,4 @@ F#m       B          D		     A               E
 y si protesta el corazón en la farmacia puedes preguntar:
 Bm            D                  G
 ¿tiene pastillas para no soñar?
+

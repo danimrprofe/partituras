@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: La Suerte De Mi Vida (alt)
+Capo: No
+Disco: 
+Afinación: 
 MEDIO  TONO ABAJO
 
 F# 244XXX
@@ -100,3 +105,4 @@ Y voy, a mirarte, a morirme y a luchar,
 llorar de alegría y quererte aún más,
                              D#      Fm
 que tú eres la suerte de mi vida.
+

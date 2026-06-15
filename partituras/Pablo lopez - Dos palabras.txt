@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: Dos palabras
+Capo: No
+Disco: 
+Afinación: 
 **Introducción**
 A A7 A6 A7
 A A7 A6 A7
@@ -71,3 +76,4 @@ ESTRIBILLO
 > > > > > > > **Final (Igual que el comienzo)**
 > > > > > > > A A7 A6 A7
 > > > > > > > A A7 A6 A7
+

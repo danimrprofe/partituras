@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: el telefono
+Capo: No
+Disco: 
+Afinación: 
 Key: D
 
 INTRO
@@ -97,3 +102,4 @@ De un teléfono apagado
 **Outro**
 A# G D A/C# Bm A
 A# A G A
+

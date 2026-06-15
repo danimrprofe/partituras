@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: He Vuelto a Caer - He Vuelto a Caer
+Capo: No
+Disco: El canto del loco
+Afinación: Eb Ab Db Gb Bb Eb
 
 
 Artista:	El Canto del loco
@@ -56,3 +61,4 @@ G           Am7         G/B   C
 tan sólo espero mantenerlo
 G           Am7         G/B   C
 tan sólo quiero y sé que puedo.
+

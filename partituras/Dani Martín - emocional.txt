@@ -1,3 +1,8 @@
+Artista: Dani Martín
+Canción: emocional
+Capo: No
+Disco: 
+Afinación: 
 
 
 ## Emocional
@@ -115,3 +120,4 @@ y no ponerle nombre
 No hace falta,
                Bm                   C     D       G
 si sientes ya está y déjame que te rondeeeehhhh.
+

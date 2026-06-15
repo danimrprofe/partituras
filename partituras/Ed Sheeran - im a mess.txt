@@ -1,3 +1,8 @@
+Artista: Ed Sheeran
+Canción: im a mess
+Capo: No
+Disco: 
+Afinación: 
 
 
 ESTROFA 1
@@ -123,3 +128,4 @@ Am  C   G          F    C  G Am
 For how long, I lo-ove my lover and now, now
 Am  C   G               F   G  Am
 For how long, long I lo-ove my lover
+

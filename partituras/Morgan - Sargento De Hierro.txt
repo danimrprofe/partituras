@@ -1,3 +1,8 @@
+Artista: Morgan
+Canción: Sargento De Hierro
+Capo: No
+Disco: 
+Afinación: 
 ESTROFA
 C               G       C                  G
 Voy a pensar en ti. A no olvidar tu nombre
@@ -35,3 +40,4 @@ D               Em          C        G                D
 Cúrame, viento, ven a mí. Llévame lejos, sácame de aquí
                Em          C            G             D
 Cúrame, tiempo, pasa para mí. Sálvalos a ellos, sálvalos a ellos
+

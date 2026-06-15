@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: las cuentas
+Capo: No
+Disco: Diciembre
+Afinación: 
 ALBUM: Diciembre
 AÑO: 2012
 
@@ -90,3 +95,4 @@ Dm              A
 nos salen las cuentas.
 
 Dm     A
+

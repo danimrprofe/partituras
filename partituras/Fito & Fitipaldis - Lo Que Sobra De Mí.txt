@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Lo Que Sobra De Mí
+Capo: 1
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 1
 
 FITO & FITIPALDIS
@@ -86,3 +91,4 @@ C                  D                 C
 Demasiado tiempo huyendo conmigo de mí.
   D          G
 ¡Ah, ah, ah, ah!
+

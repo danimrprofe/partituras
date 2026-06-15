@@ -1,3 +1,8 @@
+Artista: Morgan
+Canción: Cruel
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 MORGAN - CRUEL
@@ -130,3 +135,4 @@ Que tengo miedo
 Que ya no quiero
        Em
 Quererte
+

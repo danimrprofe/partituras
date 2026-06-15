@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: hijos del verbo amar
+Capo: No
+Disco: 
+Afinación: 
 <<<<<<< HEAD
 
 # INTRO
@@ -100,3 +105,4 @@ Que no les roben su libertad, son hijos del verbo amar
 > > > > > > > G#m | E | C#/G# |-
 > > > > > > > G#m | E/G# | C#7/G# | -
 > > > > > > > G#m
+

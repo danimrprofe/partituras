@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Quiero Ser Una Estrella
+Capo: No
+Disco: 
+Afinación: 
 
 
 FITO & FITIPALDIS
@@ -51,3 +56,4 @@ Ay ahí voy, en el camino de la fama ya estoy.
 Ay ahí voy, en el camino de la fama ya estoy.
     +     A               G                    D
 Quiero ser una estrella la más brillante de hoy
+

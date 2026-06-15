@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: EL DORADO
+Capo: No
+Disco: 
+Afinación: 
 
 
 REVOLVER - EL DORADO
@@ -144,3 +149,4 @@ lo mejor de sus vidas dónde se ha quedado oh oh oh
 Vi a mis padres correr...
    C          G             C       F
 Vi a mis padres luchar
+

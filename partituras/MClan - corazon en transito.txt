@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: corazon en transito
+Capo: No
+Disco: 
+Afinación: | Compás | Capo |
 # Corazón en tránsito
 
 | Tonalidad | Afinación | Compás | Capo |
@@ -87,3 +92,4 @@ D
 Corazón en transito a punto de embarcar
 D                           C      G      D   C G D
 No hay calor humano en el desierto donde vas
+

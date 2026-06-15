@@ -1,3 +1,8 @@
+Artista: R.E.M
+Canción: Losing My Religion
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 LOSING MY RELIGION
@@ -95,3 +100,4 @@ I heard you sing I think I thought I saw you try
 But that was just a dream,   try, cry, why, try
 F                      G      Am            G
 That was just a dream, just a dream, just a dream, Dream
+

@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: todo lo joven muere hoy
+Capo: 3
+Disco: 
+Afinación: 
 # Todo lo joven muere hoy
 
 Capo 3
@@ -51,3 +56,4 @@ D A Bm A G A# D
 
 [Final]
 D A D A
+

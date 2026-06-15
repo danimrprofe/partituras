@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: todo lo que tu quieras
+Capo: No
+Disco: Diciembre
+Afinación: 
 ALBUM: Diciembre
 AÑO: 2012
 
@@ -47,3 +52,4 @@ E        D                A      E      D               A
 Uuuh! ¡todo lo que tú quieras! Uuuh! ¡todo lo que tú quieras!
 E        D                A      E      D                A
 Uuuh! ¡todo lo que tú quieras! Uuuh! ¡todo lo que tú quieras!
+

@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Te Recuerdo
+Capo: No
+Disco: 
+Afinación: *
 
 
 **************************************************
@@ -56,3 +61,4 @@ C                F            C                           G
 en los gestos que eran nuestros que ahora  sólo no puedo tener
      Am              F                G                  C
 y me acuerdo del cariño y todos los besos que a veces no di.
+

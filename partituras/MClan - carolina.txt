@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: carolina
+Capo: No
+Disco: 
+Afinación: 
 
 INTRO
 Em C
@@ -120,3 +125,4 @@ Em C G D
 Bb F G
 Bb F G
 Bb F G
+

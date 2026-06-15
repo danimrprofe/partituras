@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: miedo
+Capo: No
+Disco: 
+Afinación: 
 Intro
 G - Em - Cm - G
 
@@ -94,3 +99,4 @@ G  F        C     Cm
    oigo tu voz.                x 2
 
 G | F | C | Cm x 4
+

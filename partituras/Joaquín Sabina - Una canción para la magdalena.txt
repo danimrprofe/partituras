@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Una canción para la magdalena
+Capo: No
+Disco: 
+Afinación: 
  Tono: C#m
 
 E B/D# C#m B A G#m
@@ -69,5 +74,6 @@ Con ese corazón, tan cinco estrellas,
 que, hasta el hijo de un Dios,  una vez que la vio, 
     F#m/A     B B/A               E   B         E
 se fue con ella,     Y nunca le cobró, la Magdalena.
+
 
 

@@ -1,4 +1,9 @@
-CEJILLA/CAPO: Capo 2
+Artista: Sidecars
+Canción: Contra Las Cuerdas
+Capo: 2
+Disco: 
+Afinación: 
+
 INTRO
 ↓ ↓ ↑ ↓ ↑
 
@@ -85,3 +90,4 @@ Déjame, no te arrepientas.
 
 FINAL
 D - G - D - G - Gm - D
+

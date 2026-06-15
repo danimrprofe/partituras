@@ -1,3 +1,8 @@
+Artista: Simple Plan
+Canción: Im Just a Kid
+Capo: No
+Disco: 
+Afinación: 
 
 
 ono: Db
@@ -105,3 +110,4 @@ F#– G#– C#– A#m– F#– G# –
 - G#– F#
 I'm all alone ...Tonight
 Nobody cares...
+

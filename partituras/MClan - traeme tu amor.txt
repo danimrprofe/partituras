@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: traeme tu amor
+Capo: No
+Disco: 
+Afinación: 
 # Tráeme tu amor
 
 
@@ -68,3 +73,4 @@ B             A               E
 Quiero soñar quiero estar contigo
 B                 A         E
 Tráeme tu amor y tápame con él
+

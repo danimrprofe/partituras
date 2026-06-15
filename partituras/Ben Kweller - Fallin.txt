@@ -1,3 +1,8 @@
+Artista: Ben Kweller
+Canción: Fallin
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 E  F#m  A  B
 E  F#m  G#m  A
@@ -131,3 +136,4 @@ i don't      feel like i'm falling
 
                       E
 just say hello to the ground
+

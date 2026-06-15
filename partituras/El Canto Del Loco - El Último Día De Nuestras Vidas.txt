@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: El Último Día De Nuestras Vidas
+Capo: No
+Disco: 
+Afinación: 
 
 
 EL CANTO DEL LOCO - EL ÚLTIMO DÍA DE NUESTRAS VIDAS
@@ -91,3 +96,4 @@ Bb5                             D5
 De nuestras vidas, de nuestras vidas
        G5                               Eb5   Bb5
 Porque hoy es el último día de nuestras vidas
+

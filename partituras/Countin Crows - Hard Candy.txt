@@ -1,3 +1,8 @@
+Artista: Countin Crows
+Canción: Hard Candy
+Capo: 2
+Disco: 
+Afinación: 
 COUNTIN CROWS
 HARD CANDY
 Capo 2
@@ -106,3 +111,4 @@ FINAL
    Go ask her    to come around   and see me late after dark
 (D)            (D/C#)            (C)            (G)
    Don't ask me    to come around   then wait to see if there's a spark
+

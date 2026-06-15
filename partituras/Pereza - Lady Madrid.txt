@@ -1,3 +1,8 @@
+Artista: Pereza
+Canción: Lady Madrid
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 LADY MADRID
@@ -56,3 +61,4 @@ y nunca hablaron los diarios de Lady Madrid...
 
 C    F      C     F      C
 Lady Madrid, Lady Madrid...
+

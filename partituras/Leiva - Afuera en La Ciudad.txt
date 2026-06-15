@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Afuera en La Ciudad
+Capo: 2
+Disco: Pólvora
+Afinación: 
 ALBUM: Pólvora
 AÑO: 2014
 
@@ -75,3 +80,4 @@ Vamos a salir durmiendo
 
 FINAL
 D     Dsus4 x2
+

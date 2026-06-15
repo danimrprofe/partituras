@@ -1,3 +1,8 @@
+Artista: El Ultimo De La Fila
+Canción: Llanto De Pasión
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
 
 EL ULTIMO DE LA FILA - LLANTO DE PASIÓN
@@ -82,3 +87,4 @@ Vuelvo a donde empecé
 
 C  D Am
 C  D Am
+

@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Eh Tu
+Capo: No
+Disco: Personas
+Afinación: Eb Ab Db Gb Bb Eb
 
 
 Artista:	El Canto del loco
@@ -95,3 +100,4 @@ No puedo más, teneis cero de criterio
                  D                 E   A D E
 llenos de resentimiento que pena me da.           Eh!tú!
                                                   Sí!tú!
+

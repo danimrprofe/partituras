@@ -1,3 +1,8 @@
+Artista: A star is born
+Canción: Shallow
+Capo: No
+Disco: 
+Afinación: 
 
 
 LADY GAGA
@@ -62,3 +67,4 @@ Am           Am/G    D/F# 	G       D/F#          Em
 In the sha-ha-sha-ha-low  In the sha-ha-sha-la-la-la-low
 Am            Am/G     D/F#        G            D/F#    Em
 In the sha-ha-sha-ha-ha-low We're far from the shallow now
+

@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Nada De Nada
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
 
 FITO & FITIPALDIS
@@ -103,3 +108,4 @@ FINAL
 D F A
 D F A
 D F F G G# A
+

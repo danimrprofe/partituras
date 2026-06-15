@@ -1,3 +1,8 @@
+Artista: Jarabe De Palo
+Canción: Grita
+Capo: No
+Disco: 
+Afinación: 
 
 
 JARABE DE PALO
@@ -76,3 +81,4 @@ Em                      Am
 
 FINAL
 C D Em Am
+

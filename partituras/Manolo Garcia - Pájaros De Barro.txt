@@ -1,3 +1,8 @@
+Artista: Manolo Garcia
+Canción: Pájaros De Barro
+Capo: No
+Disco: 
+Afinación: 
 Cejilla traste 3
 Tonalidad Fa menor
 Dm                    C      Gm7    Dm
@@ -48,3 +53,4 @@ Dm               Am7            A#         F    C     Dm
 Ahora sopla el viento, cuando el mar qued  lejos hace tiempo.
 F       Am7            A#     F
 En los valles me pierdo, en las carreteras duermo.
+

@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Personas
+Capo: No
+Disco: 
+Afinación: *
 
 
 **************************************************
@@ -96,3 +101,4 @@ G|---11---|
 D|---11---|
 A|---8----|
 E|--------|
+

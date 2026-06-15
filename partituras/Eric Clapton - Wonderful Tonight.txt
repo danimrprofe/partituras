@@ -1,3 +1,8 @@
+Artista: Eric Clapton
+Canción: Wonderful Tonight
+Capo: No
+Disco: 
+Afinación: 
 
 
 ERIC CLAPTON
@@ -46,3 +51,4 @@ And then I tell her, as I turn out the light
 I say, "My darling, you were wonderful tonight."
         C                    D            G
 Oh, "My darling, you were wonderful to-night."
+

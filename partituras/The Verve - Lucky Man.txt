@@ -1,3 +1,8 @@
+Artista: The Verve
+Canción: Lucky Man
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 Key: G
@@ -64,3 +69,4 @@ G D Dsus2  Asus2 G
 o-o-h, my my - X 2 it's just a change in me something in my liberty
 G D Dsus2  Asus2
 o-o-h, my my - X 2
+

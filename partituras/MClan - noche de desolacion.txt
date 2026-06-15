@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: noche de desolacion
+Capo: 2
+Disco: 
+Afinación: 
 # Noches de desolación
 
 capo 2
@@ -59,3 +64,4 @@ Esta noche de desolación,
 Esta noche de desolación...
  E                  Bm  D A
 Esta noche de desolacióoooooon...
+

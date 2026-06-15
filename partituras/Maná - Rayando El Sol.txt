@@ -1,3 +1,8 @@
+Artista: Maná
+Canción: Rayando El Sol
+Capo: No
+Disco: 
+Afinación: 
 E -  B -  C#m -  A
 E -  G#m -  A -  B -  C#m
 
@@ -39,3 +44,4 @@ Uuuh, rayando, rayando el sol
 Rayando Ay, ay, ay, ay, rayando el sol
              A	     G#m		      A
 Rayando por ti Rayando, Rayando
+

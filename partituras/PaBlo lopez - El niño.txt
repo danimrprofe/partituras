@@ -1,3 +1,8 @@
+Artista: PaBlo lopez
+Canción: El niño
+Capo: No
+Disco: 
+Afinación: 
 Los Em son G/E y Dm son F/D
 
 INTRO
@@ -62,3 +67,4 @@ Tu no sabes nada
 ## Final
 
 Am G# C F A# F C F
+

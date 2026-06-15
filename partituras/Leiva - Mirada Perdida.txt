@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Mirada Perdida
+Capo: 4
+Disco: Pólvora
+Afinación: 
 ALBUM: Pólvora
 AÑO: 2014
 
@@ -73,3 +78,4 @@ Llueven besos de esos que van y te quitan la vida
 y te quitan la vida. oh, y te quitan la vida
 C F C F G
 F G C
+

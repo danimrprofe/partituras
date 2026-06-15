@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: La Canción Más Hermosa Del Mundo
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUÍN SABINA
@@ -89,3 +94,4 @@ de la gota de tinta en el himno de los iracundos.
        C
 Yo quería escribir la canción más hermosa del mundo.
 G - D/F# - Em - D/F# - G - D/F# - Em - D/F# - G
+

@@ -1,3 +1,8 @@
+Artista: Lifehouse
+Canción: YOU AND ME
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 G Cadd9 Dsus4/F#
 G/B Em7 Dsus4 Cadd9
@@ -80,3 +85,4 @@ G           C  D/F#        G/B
 What day is it and in what month,
       Em7          D         C
 this clock never seemed so alive
+

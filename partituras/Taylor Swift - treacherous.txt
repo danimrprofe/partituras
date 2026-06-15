@@ -1,3 +1,8 @@
+Artista: Taylor Swift
+Canción: treacherous
+Capo: No
+Disco: 
+Afinación: 
 G      320033 or 320003
 E      xx0232
 F#m    x22000
@@ -122,3 +127,4 @@ A             E
  This slope is treacherous
 F#m   D
  I-I-I like it
+

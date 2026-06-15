@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Cada Vez Cadáver
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 FITO & FITIPALDIS
@@ -86,3 +91,4 @@ Y vas naciendo cada vez. Y cada vez cadáver
 FINAL
 C           Am            G
 Papapapapa  pa... papapapapa        pa... papapapapa    pa
+

@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: monstruos
+Capo: No
+Disco: Monstruos
+Afinación: 
 ALBUM: Monstruos
 AÑO: 2016
 
@@ -55,3 +60,4 @@ ESTRIBILLO
 Que todos esos monstruos debajo de la cama se cuelan en tus sueños tan rápido.
    G                        D                         A             G     D
 Impúlsate en mis hombros; apóyate en mi espalda; perdona si no prende la llama.
+

@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Palomas
+Capo: 1
+Disco: 
+Afinación: 
 LEIVA
 PALOMAS
 Capo 1
@@ -71,3 +76,4 @@ Bm                      G
 Es un aviso más del huracán
 
 G A Bm C#m D
+

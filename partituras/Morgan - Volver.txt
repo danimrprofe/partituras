@@ -1,3 +1,8 @@
+Artista: Morgan
+Canción: Volver
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
 INTRO
 G
@@ -39,3 +44,4 @@ Cmaj7                      Em
 Tienes algo dentro y si no paras de correr,
         G              D           G
 voy a dejarte y no voy a volver.
+

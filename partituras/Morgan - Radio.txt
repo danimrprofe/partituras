@@ -1,8 +1,9 @@
-CEJILLA/CAPO: Capo 0
+Artista: Morgan
+Canción: Radio
+Capo: 0
+Disco: 
+Afinación: 
 
-Key: B
-BPM:       131
-COMPÁS:    4/4
 INTRO
 C G C G
 C G C G
@@ -122,3 +123,4 @@ Como siempre quise ser
    D                C   D
 Cuando llega el mismo mal
 G
+

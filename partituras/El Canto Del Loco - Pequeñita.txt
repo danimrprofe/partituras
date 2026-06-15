@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Pequeñita
+Capo: No
+Disco: El Canto del Loco (2000)
+Afinación: Eb Ab Db Gb Bb Eb
 
 
 Artista:	El Canto del loco
@@ -101,3 +106,4 @@ Pequeñita donde vas pequeñita no me fio ni un pelo de tu carita bonita
 Pequeñita donde vas pequeñita no me fio ni un pelo de tu carita bonita
      A                     Bm          A                          G
 Pequeñita donde vas pequeñita no me fio ni un pelo de tu carita bonita
+

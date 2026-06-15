@@ -1,3 +1,8 @@
+Artista: Extremoduro
+Canción: La Vereda De La Puerta De Atrás
+Capo: No
+Disco: 
+Afinación: 
 
 
 EXTREMODURO
@@ -107,3 +112,4 @@ D                         E              F#m
 si entre los dedos se me escapa volando una flor
                     E
 y yo la dejo que me marque el camino
+

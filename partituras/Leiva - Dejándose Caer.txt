@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Dejándose Caer
+Capo: 1
+Disco: 
+Afinación: 
 CEJILLA/CAPO: 1
 
 ESTROFA
@@ -47,3 +52,4 @@ Dejándose caer, dejándose caer  (X3)
 FINAL
 Am | F | C | C
 Am | F | C
+

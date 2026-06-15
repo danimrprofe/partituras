@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Tal Como Eres
+Capo: No
+Disco: 
+Afinación: medio tono abajo
 
 
 EL CANTO DEL LOCO - TAL COMO ERES
@@ -94,3 +99,4 @@ F                     G                   C             Am
 Trato de darte de lo mejor. Que hace que todo se llame
 F              G              C                     E
 amor. Trato de verme como soy yo Y cambiar lo que duele
+

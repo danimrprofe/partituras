@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: No Quiero Nada - 08. No Quiero Nada
+Capo: No
+Disco: El canto del loco
+Afinación: Eb Ab Db Gb Bb Eb
 
 
 Artista:	El Canto del loco
@@ -83,3 +88,4 @@ E      D       G      A
 Na, na, na, na, na, na, na...
 E      D       G      A
 Na, na, na, na, na, na, na...
+

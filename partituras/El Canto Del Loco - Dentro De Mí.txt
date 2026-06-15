@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Dentro De Mí
+Capo: No
+Disco: 
+Afinación: *
 
 
 **************************************************
@@ -75,3 +80,4 @@ Bm
 de actuar sabes que es verdad sabes quién
      F#m      Em        F#         G
 te admira y quien te quiere de verdad
+

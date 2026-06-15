@@ -1,3 +1,8 @@
+Artista: Pereza
+Canción: Todo
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 Cmaj7 Fmaj7 x2
@@ -86,3 +91,4 @@ Cmaj7                        Fmaj7
 Vuela, vuela, vuela conmigo, cuélate dentro dime "chico",
 Cmaj7                      Fmaj7                        Dm7  G
 dame calor, sácame brillo, hazme el amor en nuestro nido.
+

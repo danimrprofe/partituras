@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: SERA
+Capo: No
+Disco: Zapatillas, 2005
+Afinación: Eb Ab Db Gb Bb Eb
 
 
 Artista:	El Canto del loco
@@ -73,3 +78,4 @@ donde se ha creado todo,
 D#m
 donde están todos mis miedos,
 donde entro si estoy solo.(F#)
+

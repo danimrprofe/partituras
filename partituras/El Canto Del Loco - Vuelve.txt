@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Vuelve
+Capo: No
+Disco: 
+Afinación: *
 
 
 **************************************************
@@ -61,3 +66,4 @@ A | G | F | D
 G | - | F | G
 
 C
+

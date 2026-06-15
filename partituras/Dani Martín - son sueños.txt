@@ -1,3 +1,8 @@
+Artista: Dani Martín
+Canción: son sueños
+Capo: No
+Disco: 
+Afinación: 
 
 
 Em C D
@@ -103,3 +108,4 @@ Te Sigo buscando tanto
 Te sigo esperando tanto
     Am            D             C Cm
 Que por eso te tento que inventar
+

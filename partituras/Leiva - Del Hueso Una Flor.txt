@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Del Hueso Una Flor
+Capo: 3
+Disco: Pólvora
+Afinación: 
 ALBUM: Pólvora
 AÑO: 2014
 
@@ -62,3 +67,4 @@ Uoooh oooh ooh Uoooh ooh Oooooooooooooh Ooooooooooooh
                 Em                  F#m			        G                  A
 Que salga del hueso una flor,  Y me salve y que no, que no puedo aguantar tu mirada
 Repite coro +1 tono
+

@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: saltamos sin mirar
+Capo: No
+Disco: 
+Afinación: 
 
 
 M-CLAN - SALTAMOS SIN MIRAR
@@ -137,3 +142,4 @@ G D G D G          G         A         G     D
                            Quememos las dudas en tu desván.
     G D Em A    D
 Sin equipaje.
+

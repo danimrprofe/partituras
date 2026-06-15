@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Pasion
+Capo: 1
+Disco: 
+Afinación: 
 EL CANTO DEL LOCO - PASION
 CEJILLA/CAPO: Capo 1
 
@@ -48,3 +53,4 @@ corazón. Me da tanto, me llena dentro, me regala una
 canción, y esa fuerza que llevas dentro
            G         D    Em    D/F# G
 Y que es pasión,  pasión  es pasión
+

@@ -1,3 +1,8 @@
+Artista: Extremoduro
+Canción: Salir
+Capo: No
+Disco: 
+Afinación: 
 
 
     G3               A3            G3             A3
@@ -681,3 +686,4 @@ llegar a la cama y ... ¡joder, que guarrada! sin tí.
 y al día siguiente...
 C          D         G
 Ya no me acuerdo de na
+

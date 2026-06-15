@@ -1,3 +1,8 @@
+Artista: John Mayer
+Canción: Slow Dancing in a Burning Room
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOHN MAYER
@@ -117,3 +122,4 @@ Don't you think we should've learned somehow
 Don't you think we oughta know by now
                              Aadd9         E
 Don't you think we should've learned somehow
+

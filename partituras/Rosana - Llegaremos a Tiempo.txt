@@ -1,3 +1,8 @@
+Artista: Rosana
+Canción: Llegaremos a Tiempo
+Capo: No
+Disco: 
+Afinación: Estándar (E A D G B E)
 ================================================================================
 ARTISTA: ROSANA
 CANCIÓN: LLEGAREMOS A TIEMPO
@@ -92,4 +97,5 @@ Llegaremos a tiempo, llegaremos a tiempo
 
 Sólo pueden contigo...
 FINAL: SG [GSUS2 GSUS4 G] C EM D G DSUS4 D
+
 

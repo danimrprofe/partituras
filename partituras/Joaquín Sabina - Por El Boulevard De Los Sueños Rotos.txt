@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Por El Boulevard De Los Sueños Rotos
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 D         A                                   G 	               	G          A         D		        A                      G
@@ -52,3 +57,4 @@ Quien supiera reír como llora Chavela
 FINAL
 D           A                 D
 Por el bulevar de los sueños rotos.
+

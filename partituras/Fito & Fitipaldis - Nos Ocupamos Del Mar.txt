@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Nos Ocupamos Del Mar
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 FITO & FITIPALDIS
@@ -46,3 +51,4 @@ B              C         D        G          G   D       Em
 Es cansado Por eso al llegar la noche Ella descansa a mi lado
         G   D         G
 Y mis manos en su costado
+

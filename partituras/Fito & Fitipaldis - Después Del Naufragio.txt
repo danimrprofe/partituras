@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Después Del Naufragio
+Capo: No
+Disco: 
+Afinación: 
 
 
 FITO & FITIPALDIS
@@ -57,3 +62,4 @@ Ven rescátame, ven rescátame otra vez.
 Ven rescátame, aunque vuelva a suceder
        Bm           Am         G
 Ven rescátame y abandóname después
+

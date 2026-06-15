@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: amelie
+Capo: No
+Disco: 
+Afinación: 
 ESTROFA
 Am              F                      C
 Yo sólo busco ooh oooh que me tiemblen las piernas
@@ -71,3 +76,4 @@ me tienes ganado
 F                     C
 pequeña sonrisa de Amelie
 E7           Am
+

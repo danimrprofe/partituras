@@ -1,3 +1,8 @@
+Artista: Vetusta Morla
+Canción: Maldita Dulzura
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 Key: D
@@ -67,3 +72,4 @@ B
 Maldita dulzura la nuestra
 
 Em
+

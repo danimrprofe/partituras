@@ -1,3 +1,8 @@
+Artista: Bon Iver
+Canción: Skinny Love
+Capo: 4
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 4
 
 BON IVER
@@ -80,3 +85,4 @@ My my my - my my my, my my my - my my my
 FINAL
 Am  F  C
 Am  F  C
+

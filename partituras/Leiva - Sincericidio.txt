@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Sincericidio
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 Am C Am C  x2
 
@@ -66,3 +71,4 @@ Te quiero como tantas cosas ,que no tienen solución
 
 FINAL
 Am C Am C E Am
+

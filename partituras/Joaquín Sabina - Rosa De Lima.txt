@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Rosa De Lima
+Capo: No
+Disco: 
+Afinación: 
 JOAQUÍN SABINA
 ROSA DE LIMA
 
@@ -86,3 +91,4 @@ Dolor de muelas, pan de centeno.
 Hasta las suelas de mis zapatos te echan de menos.
 C                  G              D
  Ropa de abrigo ven vente conmigo
+

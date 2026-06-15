@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: hoy tus ojos
+Capo: No
+Disco: Diciembre
+Afinación: 
 
 ALBUM: Diciembre
 AÑO: 2012
@@ -68,3 +73,4 @@ FINAL
 
 C  | Am | F  | C
 Am | F  | G  | C
+

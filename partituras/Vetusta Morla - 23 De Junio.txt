@@ -1,3 +1,8 @@
+Artista: Vetusta Morla
+Canción: 23 De Junio
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 VETUSTA MORLA
@@ -62,3 +67,4 @@ Dm                        G           E7                     Am
 Deja el equipaje en la ribera Para verte como quieres que te vea
 Dm                        G          Am
 Deja el equipaje en la ribera Y quémalo.
+

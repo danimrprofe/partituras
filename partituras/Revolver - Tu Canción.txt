@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: Tu Canción
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 REVOLVER
@@ -47,3 +52,4 @@ ESTRIBILLO
 C    G/B      Am     Am/G
     uooooh oooooh         ni canción x4
 C
+

@@ -1,3 +1,8 @@
+Artista: A Great Big World
+Canción: Say Something
+Capo: No
+Disco: 
+Afinación: 
 
 
 A GREAT BIG WORLD
@@ -35,3 +40,4 @@ Bm       G                    D A4 Bm             G                 D
 Anywhere, I would've followed you. Say something, I'm giving up on you
 Bm             G                 D
 Say something, I'm giving up on you
+

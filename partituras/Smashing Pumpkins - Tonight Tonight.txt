@@ -1,3 +1,8 @@
+Artista: Smashing Pumpkins
+Canción: Tonight Tonight
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 SMASHING PUMPKINS
@@ -87,3 +92,4 @@ The impossible is possible tonight (tonight)
 Believe in me as I believe in you.... tonight.
  Fig. 1            Fig.1      G   D/F#   Em
  Tonight tonight, tonight, tonight.
+

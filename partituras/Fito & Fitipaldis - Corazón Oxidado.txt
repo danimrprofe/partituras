@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Corazón Oxidado
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 FITO & FITIPALDIS
@@ -86,3 +91,4 @@ mi pobre corazón en domingo
 mi pobre corazón en pelotas,
    C                E
 mi pobre corazón en Fa sostenido
+

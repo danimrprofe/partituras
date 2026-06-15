@@ -1,3 +1,8 @@
+Artista: 3 Doors Down
+Canción: Be Like That
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 3 DOORS DOWN
@@ -49,3 +54,4 @@ If I could be like that, I would give anything
 Just to live one day, in those shoes
 G                   D				Em                C
 If I could be like that, what would I do, what would I do?
+

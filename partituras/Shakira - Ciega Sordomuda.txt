@@ -1,3 +1,8 @@
+Artista: Shakira
+Canción: Ciega Sordomuda
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 INTRO
@@ -111,3 +116,4 @@ F
 en una cosa que no hace otra cosa mas que amarte
 C
 pienso en ti dia y noche, y no se como olvidarte
+

@@ -1,3 +1,8 @@
+Artista: Dani Fernandez
+Canción: Solo Tienes Que Avisar
+Capo: No
+Disco: 
+Afinación: 
 CEJILLA/CAPO: (sin especificar)
 INTRO
 Cmaj7 → C
@@ -54,3 +59,4 @@ Que me muero por cantarte, y perderme en los detalles
 Que no quiero ser cobarde, y cuando se desarme
                     C
 Solo tienes que avisar
+

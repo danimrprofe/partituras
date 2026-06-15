@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: concierto-salvaje
+Capo: No
+Disco: 
+Afinación: 
 # Concierto salvaje
 
 
@@ -57,3 +62,4 @@ Enciendeme solo quiero arder y arder
 Vivir eternamente en esta noche salvaje
 
 A  Bm  D  A
+

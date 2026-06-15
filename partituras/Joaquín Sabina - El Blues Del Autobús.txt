@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: El Blues Del Autobús
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUIN SABINA
@@ -55,3 +60,4 @@ F 4/7    Eb7M     Dm7
 Si podemos conectar lo demás se puede olvidar     ¡Oh!........
 
 Vivo en la carretera........
+

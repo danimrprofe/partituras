@@ -1,3 +1,8 @@
+Artista: Justin Timberlake
+Canción: Perfect
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 JUSTIN TIMBERLAKE
@@ -68,3 +73,4 @@ You're no good for me, I'm no good for you
 And I hate that you're perfect, you're perfect for me
                       C    D                    G
 I hate that you're perfect, you're perfect for me
+

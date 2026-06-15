@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: El Patio
+Capo: No
+Disco: 
+Afinación: medio tono en todas las cuerdas para coincidir con la original
 Se puede subir medio tono y es más sencillo para guitarra. Habría que bajar la afinación medio tono en todas las cuerdas para coincidir con la original
 
 **Introducción**
@@ -67,3 +72,4 @@ G#m
 Siempre, siempre me castigas...
 E
 Siempre, siempre me castigas...
+

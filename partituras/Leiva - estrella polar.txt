@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: estrella polar
+Capo: No
+Disco: 
+Afinación: 
 
 Canción original del grupo **Pereza**.
 
@@ -83,3 +88,4 @@ A
 no hay sitio para los
 A                     D G D A D
 no hay sitio para los dos
+

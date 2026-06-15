@@ -1,3 +1,8 @@
+Artista: Lynyrd Skynyrd
+Canción: Free Birdtxt
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 https://en.wikipedia.org/wiki/Free_Bird
@@ -68,3 +73,4 @@ Won't you fly high free bird, yeah!
 SOLO
 
 G   Bb   C   G  . . . .
+

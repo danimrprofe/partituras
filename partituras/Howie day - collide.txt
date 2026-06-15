@@ -1,4 +1,11 @@
-Tuning: E A D G B EKey: GCapo: 4th fret
+Artista: Howie day
+Canción: collide
+Capo: 4
+Disco:
+Afinación: E A D G B E
+Key: G
+Capo: 4th fret
+
 G 32003(3)
 G5/F# 2x003(3)
 Em 02200(0)

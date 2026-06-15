@@ -1,3 +1,8 @@
+Artista: Shakira
+Canción: Estoy Aqui
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 INTRO
@@ -119,3 +124,4 @@ Entre cosas y recuerdos que
 Estoy enloqueciéndome, cambiándome un pie
 Bm                  A                    D
 por la cara mía esta noche por el día y que
+

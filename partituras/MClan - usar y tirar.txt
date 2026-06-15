@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: usar y tirar
+Capo: No
+Disco: 
+Afinación: 
 # Usar y tirar
 
 
@@ -70,3 +75,4 @@ no veo la razón,
 siempre nos gustó
 B        A
 usar y tirar
+

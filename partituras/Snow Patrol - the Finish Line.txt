@@ -1,3 +1,8 @@
+Artista: Snow Patrol
+Canción: the Finish Line
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 Snow Patrol
@@ -37,3 +42,4 @@ G                            Am                   F
 I think the finish line's a good place we could start
 G                            Am                  F
 Take a deep breath, take in all that you could want
+

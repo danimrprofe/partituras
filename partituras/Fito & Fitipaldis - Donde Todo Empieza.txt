@@ -1,3 +1,8 @@
+Artista: Fito & Fitipaldis
+Canción: Donde Todo Empieza
+Capo: 1
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 1
 
 FITO & FITIPALDIS
@@ -64,3 +69,4 @@ Donde todo empiezaaaaa. Todos los minutos que no he estao contigo.
 Donde todo empiezaaaaa. Ahora son demonios que viven conmigo.
                   E                                   F#m
 Donde todo empiezaaaaa. Puedes encontrarme cerca del final. X4
+

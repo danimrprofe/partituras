@@ -1,3 +1,8 @@
+Artista: The Script
+Canción: the Man Who Can’t Be Moved
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
 
 THE SCRIPT
@@ -65,3 +70,4 @@ You I'm the man who can't be moved I'm the man who can't be moved...
 Going back to the corner where I first saw you,
 Am                               C
 Gonna camp in my sleeping bag, no I'm not gonna move,
+

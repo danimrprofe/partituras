@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: San Pedro
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 REVOLVER - SAN PEDRO
@@ -120,3 +125,4 @@ llenamos el corazón, violencia y calma a la vez,
 él es el mismo traidor, azul o verde da igual.
                   G
 NOS PROMETIMOS EL MAR. (SE REPITE HASTA EL FINAL)
+

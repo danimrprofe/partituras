@@ -1,3 +1,8 @@
+Artista: La Fuga
+Canción: Buscando en La Basura
+Capo: No
+Disco: 
+Afinación: E A D G B E
 
 
 Afinación:
@@ -127,3 +132,4 @@ esta noche quedate
 
 [Ending]
 A    N.C.
+

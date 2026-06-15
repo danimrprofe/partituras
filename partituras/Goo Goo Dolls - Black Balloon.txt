@@ -1,3 +1,8 @@
+Artista: Goo Goo Dolls
+Canción: Black Balloon
+Capo: 1
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 1st fret
 RIFF
 
@@ -112,3 +117,4 @@ What you became to me
 
 OUTRO
 Riff over Am7
+

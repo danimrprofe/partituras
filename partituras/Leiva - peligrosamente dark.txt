@@ -1,5 +1,9 @@
-LBUM: Cuando te muerdes el labio
-AÑO: 2021
+Artista: Leiva
+Canción: peligrosamente dark
+Capo: No
+Disco: 
+Afinación: 
+Álbum: Cuando te muerdes el labio (2021)
 
 INTRO
 C Cmaj7 F G
@@ -66,3 +70,4 @@ Se me va la fuerza
 Solo me dedico a aullar, a inventar respuestas.
 Dm                  G      G7        C
 Déjame estar Peligrosamente dark
+

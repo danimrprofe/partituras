@@ -1,3 +1,8 @@
+Artista: Astola
+Canción: Cojo El Saco Y Me Retiro
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 Am F G Am G x2
 
@@ -74,3 +79,4 @@ yo no puedo prometerte que vaya a quererte
 
 F G Am G x2
 G E Am
+

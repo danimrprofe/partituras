@@ -1,3 +1,8 @@
+Artista: El Niño De La Hipoteca
+Canción: Romeo Y Julieta
+Capo: No
+Disco: 
+Afinación: 
 
 ESTROFA
 G              C*                   G        C*
@@ -119,3 +124,4 @@ G  C* G  C*  G  C* D* C*
 FINAL
 No tener el valor
 No tener el valor
+

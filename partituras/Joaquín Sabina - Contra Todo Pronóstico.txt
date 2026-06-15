@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Contra Todo Pronóstico
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 JOAQUÍN SABINA
@@ -96,3 +101,4 @@ Contra todo pronóstico aprendí a caer de pie
 Contra todo pronóstico derrapan otra vez.
         G              F          C
 Los que dicen que soy mi peor enemigo
+

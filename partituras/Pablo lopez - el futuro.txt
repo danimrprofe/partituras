@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: el futuro
+Capo: 1
+Disco: 
+Afinación: 
 Capo 1
 
 ESTROFA
@@ -48,3 +53,4 @@ Volveré
 
 G | G | G | G x4
 F Em
+

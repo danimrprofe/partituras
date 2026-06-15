@@ -1,3 +1,8 @@
+Artista: Quique Gonzalez
+Canción: De Haberlo Sabido
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 INTRO
@@ -162,3 +167,4 @@ Amadd9                    Dadd4
 
 [Repetir intro (Cantar al principio "fue volverte a ver")
 y acabar con G y Gmaj7]
+

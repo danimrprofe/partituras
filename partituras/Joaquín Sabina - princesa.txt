@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: princesa
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUÍN SABINA
@@ -90,3 +95,4 @@ Búscate a otro perro; que te ladre princesa.
 FINAL
 C G D G
 C G D G
+

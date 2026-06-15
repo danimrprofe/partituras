@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: Si Es Tan Solo Amor
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 D     Em    F#m     G   ...Bis
 
@@ -84,3 +89,4 @@ E                    C#m
 Algo tan hermoso no puede quemar
 F#m                            B
 Más que leña al fuego, si es tan solo amor
+

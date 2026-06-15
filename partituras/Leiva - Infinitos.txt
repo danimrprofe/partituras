@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Infinitos
+Capo: No
+Disco: Cuando te muerdes el labio
+Afinación: 
 ALBUM: Cuando te muerdes el labio
 AÑO: 2021
 
@@ -76,3 +81,4 @@ Como para no estar tirado en el piso
 Hay días, que se menean los cimientos
                E                F#m
 No se si escuchaste mi último aullido
+

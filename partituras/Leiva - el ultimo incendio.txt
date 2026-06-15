@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: el ultimo incendio
+Capo: No
+Disco: Monstruos
+Afinación: 
 ALBUM: Monstruos
 AÑO: 2016
 
@@ -92,3 +97,4 @@ fin dela historia oh oh oh oh oh oh oh
 Oh, ohhh oh.. Oh, ohhh oh.. Oh, ohhh oh
 
 Em D G
+

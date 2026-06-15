@@ -1,3 +1,8 @@
+Artista: Tequila
+Canción: Mucho Mejor
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 MUCHO MEJOR
@@ -99,3 +104,4 @@ G
 Huy huy hu, huy huy uh, huy huy hu, huy huy hu,
 C         D            G
 ah ah ah, ah ah ah ah, huy huy huy huy huy hua
+

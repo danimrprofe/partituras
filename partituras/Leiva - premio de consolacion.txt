@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: premio de consolacion
+Capo: 3
+Disco: Cuando te muerdes el labio
+Afinación: 
 ALBUM: Cuando te muerdes el labio
 AÑO: 2021
 Capo 3
@@ -128,3 +133,4 @@ Vino y prozack remolinos de ropa
 Hielo en las sábanas
 F#m   G
 Las sábanas
+

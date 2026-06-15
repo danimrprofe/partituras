@@ -1,3 +1,8 @@
+Artista: Paolo Nutini
+Canción: candy
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 PAOLO NUTINI
@@ -97,3 +102,4 @@ C
 All the angels and their halos
 Em
 All of them have got me waiting and waiting
+

@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: electricidad
+Capo: No
+Disco: Monstruos
+Afinación: 
 ALBUM: Monstruos
 AÑO: 2016
 
@@ -115,3 +120,4 @@ Oh oh oh oh, oh oh ohhhhhh.
 De lo que fuimos.
       A5                Em
 Oh oh oh oh, oh oh ohhhhhh
+

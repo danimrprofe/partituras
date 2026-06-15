@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: mi mejor version
+Capo: No
+Disco: Pólvora
+Afinación: 
 ALBUM: Pólvora
 AÑO: 2014
 
@@ -39,3 +44,4 @@ La furia de nuestra adicción se la ha llevado el aire
 D                     G                                D/F#
 Y en los días de autodestrucción no hay perro que me ladre
                Em        A                        D
+

@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: el incendio
+Capo: No
+Disco: 
+Afinación: 
 Notas del comienzo: C A C A C# (mano derecha)
 
 INTRO
@@ -35,3 +40,4 @@ Que bonito es este incendio el mar. El manto
 
 **Outro**
 F C# F C#
+

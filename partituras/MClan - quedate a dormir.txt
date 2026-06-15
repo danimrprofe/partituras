@@ -1,3 +1,8 @@
+Artista: MClan
+Canción: quedate a dormir
+Capo: No
+Disco: 
+Afinación: 
 # Quédate a dormir
 
 
@@ -145,3 +150,4 @@ Dm7      Em     Dm7     Em
 uh   uh,uh  uh,uh  uh,uh
 Dm7      Em     Dm7     Em
 uh   uh,uh  uh,uh  uh,uh
+

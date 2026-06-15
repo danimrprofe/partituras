@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Y Si El Miedo - 10. Y Si El Miedo
+Capo: No
+Disco: El canto del loco
+Afinación: Eb Ab Db Gb Bb Eb
 
 
 Artista:	El Canto del loco
@@ -101,3 +106,4 @@ yo doy la espalda y le digo no quiero jugar
 no quiero jugar  no quiero jugar
               Dm
 ya no quiero jugar
+

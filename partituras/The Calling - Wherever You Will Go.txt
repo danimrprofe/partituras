@@ -1,3 +1,8 @@
+Artista: The Calling
+Canción: Wherever You Will Go
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
 
 THE CALLING
@@ -56,3 +61,4 @@ C               G       Am                 F
 go, If I could make you mine, I'll go wherever you will
 C                     G                     Am   F
 goooooooo I'll go wherever you will goooooooooooooo -
+

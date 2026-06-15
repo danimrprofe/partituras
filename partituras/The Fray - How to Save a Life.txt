@@ -1,3 +1,8 @@
+Artista: The Fray
+Canción: How to Save a Life
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 INTRO
@@ -96,3 +101,4 @@ D/F#   Em7   D/F#          G
              How to save a life
 
 D/F#   Em7   D/F#   G*
+

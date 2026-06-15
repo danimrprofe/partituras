@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: El Pescao
+Capo: No
+Disco: 
+Afinación: *
 
 
 **************************************************
@@ -129,3 +134,4 @@ Fm
 Para comprenderme tienes que intentar creerme.
 D#m              Fm                   F7
 En este momento que ahora estoy dispuesto.
+

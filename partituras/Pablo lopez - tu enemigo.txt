@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: tu enemigo
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 D# Cm Gm A# Cm A# F
 
@@ -75,3 +80,4 @@ D# F Gm
 No no no no no no no no ...
 D# F Gm
 Te le le le le le... una canción
+

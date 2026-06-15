@@ -1,3 +1,8 @@
+Artista: R.E.M
+Canción: Man on the Moon
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
 
 MAN ON THE MOON
@@ -104,3 +109,4 @@ If you be - lieve ...there's nothing up his sleeve, Then nothing is cool
 |  /  /  /  /  |  /  /  /  /  |  /  /  /  /__/  |
 
 ESTRIBILLO X 3
+

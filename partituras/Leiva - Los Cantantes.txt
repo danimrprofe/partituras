@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Los Cantantes
+Capo: 1
+Disco: Pólvora
+Afinación: 
 ALBUM: Pólvora
 AÑO: 2014
 
@@ -70,3 +75,4 @@ Es todo lo que quise conquistar en la vida
 FINAL
     Am  C   F        C
 Uooooh  ooh oooh ooh ooh
+

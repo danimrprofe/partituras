@@ -1,3 +1,8 @@
+Artista: John Lenon
+Canción: Working Class Hero
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOHN LENON - WORKING CLASS HERO
@@ -98,3 +103,4 @@ A working class hero is something to be
 A working class hero is something to be
                 G       D             Am G
 A working class hero is something to be
+

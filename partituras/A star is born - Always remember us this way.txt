@@ -1,3 +1,8 @@
+Artista: A star is born
+Canción: Always remember us this way
+Capo: No
+Disco: 
+Afinación: 
 Am
 That Arizona sky
 [Verse 1]
@@ -77,3 +82,4 @@ F
 When you look
 I'll always remember us this way
 F Bb FC
+

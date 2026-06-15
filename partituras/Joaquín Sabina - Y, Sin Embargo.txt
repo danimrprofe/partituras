@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Y, Sin Embargo
+Capo: No
+Disco: 
+Afinación: 
 JOAQUÍN SABINA - Y, sin embargo
 Joaquín sabina
 Nada
@@ -96,5 +101,6 @@ Am7               C          D            Am7
 Y al cielo de tu boca el purgatorio y al dormitorio 
    C      D
 el pan de cada dia
+
 
 

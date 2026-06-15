@@ -1,3 +1,8 @@
+Artista: Los Ronaldos
+Canción: No Puedo Vivir Sin Ti
+Capo: No
+Disco: 
+Afinación: 
 
 
 LOS RONALDOS - NO PUEDO VIVIR SIN TI
@@ -53,3 +58,4 @@ Me dejaré llevar a ningún lugar.
 No puedo vivir sin ti, No hay manera,
            F                  E7   G7add13 C
 No puedo estar sin ti, No hay manera.
+

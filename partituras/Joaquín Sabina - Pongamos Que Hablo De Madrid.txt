@@ -1,3 +1,8 @@
+Artista: Joaquín Sabina
+Canción: Pongamos Que Hablo De Madrid
+Capo: No
+Disco: 
+Afinación: 
 
 
 JOAQUÍN SABINA
@@ -94,3 +99,4 @@ INSTRUMENTAL
 E A  E  F#m
 A G#m7 F#m7
 B  A  E
+

@@ -1,3 +1,8 @@
+Artista: Shakira
+Canción: Underneath Your Clothes
+Capo: 0
+Disco: 
+Afinación: Eb Ab Db Gb Bb EbCejilla: Sin cejilla
 CEJILLA/CAPO: Capo 0
 
 Inevitable
@@ -126,3 +131,4 @@ Empezar por uno mismo.
 
 G  D  Em  D  Cadd9
 X
+

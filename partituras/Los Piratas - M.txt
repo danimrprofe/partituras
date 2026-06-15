@@ -1,3 +1,8 @@
+Artista: Los Piratas
+Canción: M
+Capo: No
+Disco: "Ultrasónica".
+Afinación: Estándar (E A D G B E)
 ```
 ================================================================================
 ARTISTA: LOS PIRATAS

@@ -1,3 +1,8 @@
+Artista: Foo Fighters
+Canción: Learn to Fly
+Capo: No
+Disco: 
+Afinación: 
 
 
 INTRO
@@ -107,3 +112,4 @@ Make my way back home when I learn to, to, to...
 
 OUTRO
 A    A    A    A     A5 - Aadd4/D - Asus2/E
+

@@ -1,6 +1,11 @@
+Artista: Joaquín Sabina
+Canción: Pájaros De Portugal
+Capo: No
+Disco:
+Afinación:
+
 INTRO
-E A   E
-E
+E A E E
 
 ESTROFA
 E                            A                           B
@@ -12,7 +17,7 @@ El le dijo 'vámonos' ¿Donde? le respondió llorando ella
 G#m          C#m                F#m                    B
 Lejos del altar mayor en el velero pobretón de una botella
 
-C      D          C                  D          G
+C      D          C                               G
 despójate del añil redil del alma de largo con camisa
    F#m7                             A                  B
 Devuélveme el mes de abril Se llamaban Abelardo y Eloisa
@@ -22,7 +27,7 @@ arcángeles bastardos de la prisa
 ESTRIBILLO
 E           E/G#                   A         E               E/G#            A
 Alumbraron el amanecer muertos de frío Se arroparon con la sensatez del desvarío
-       G#m               F#m        G#m             A            E        
+       G#               F#m        G#             A            E        F#m7        E
 tuyo y mío de vuelta al hogar que vacío deja la ansiedad que vergüenza tendrán sus papas
 
 E E A B
@@ -33,7 +38,7 @@ Sin alas para volar prófugos del instituto y de la cama
 G#m          C#m               A                    B
 pájaros de Portugal apenas dos minutos, mala fama
 C                 D          C                         G           E
-luego la Guardia Civil les decomiso el sudor y la sonrisa las postales de Estoril, 
+luego la Guardia Civil les decomiso el sudor y la sonrisa las postales de Estoril,
       A                       B         A                    B
 sin posada sin escudos y sin Visa Se llamaban Abelardo y Eloisa
 

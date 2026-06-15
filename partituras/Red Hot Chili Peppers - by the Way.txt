@@ -1,3 +1,8 @@
+Artista: Red Hot Chili Peppers
+Canción: by the Way
+Capo: No
+Disco: 
+Afinación: 
 
 
 INTRO
@@ -137,3 +142,4 @@ By the way I tried to say I'd be there, waiting for
 
 
 ***play a pattern which invoves a lot of string muting
+

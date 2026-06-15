@@ -1,3 +1,8 @@
+Artista: El Canto Del Loco
+Canción: Vamonos - Dm Am
+Capo: No
+Disco: 
+Afinación: 
 
 
 Tono: C#m
@@ -65,3 +70,4 @@ Y ahora que ya estoy dentro,
 Ahora ya nos sentimos,
      E                 F  E
 Vámonos, vámonos.
+

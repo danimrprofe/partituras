@@ -1,3 +1,8 @@
+Artista: Andres Calamaro
+Canción: Flaca
+Capo: No
+Disco: 
+Afinación: 
 
 
 ANDRES CALAMARO
@@ -67,3 +72,4 @@ SOLO G  B7  EM  C
 2
 
 2
+

@@ -1,3 +1,8 @@
+Artista: Revolver
+Canción: MI RENDICIÓN
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 G C D  G C D
 G C D  G C D (eléctrica)
@@ -87,3 +92,4 @@ Ya no volveré a apostar por nadie Ya no volveré a ser como soy
 Ya no volveré a nuestra calle Ya no volveré a firmar mi rendición.
 C                D      G
 Ya no volveré a firmar mi rendición.
+

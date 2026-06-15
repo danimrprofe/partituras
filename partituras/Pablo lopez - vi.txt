@@ -1,3 +1,8 @@
+Artista: Pablo lopez
+Canción: vi
+Capo: No
+Disco: 
+Afinación: 
 **Intro (arpegiando)**
 G Eb (Bis)
 ESTROFA
@@ -49,3 +54,4 @@ Final 1
 Gm | - | Eb | - x2
 Final 2 (arpegiando)
 Gm | - | Eb | - x2
+

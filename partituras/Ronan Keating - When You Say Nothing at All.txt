@@ -1,3 +1,8 @@
+Artista: Ronan Keating
+Canción: When You Say Nothing at All
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 G  D  C  D   x2
 
@@ -69,3 +74,4 @@ G                 D         Cadd9         D
 The smile on your face, the truth in your eyes (You say it best, when you say nothing at all)
      G             D             Cadd9         D
 The touch of your hand, lets me know that you need me (You say it best, when you say nothing at all)
+

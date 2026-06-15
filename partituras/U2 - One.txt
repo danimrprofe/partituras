@@ -1,3 +1,8 @@
+Artista: U2
+Canción: One
+Capo: No
+Disco: 
+Afinación: 
 
 
 U2
@@ -92,3 +97,4 @@ C             Am
 Oooo - oooo - oooo
 Fmaj7      C
 Oooo - oooo [x2]
+

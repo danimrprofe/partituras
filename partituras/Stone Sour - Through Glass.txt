@@ -1,3 +1,8 @@
+Artista: Stone Sour
+Canción: Through Glass
+Capo: No
+Disco: 
+Afinación: 
 
 
 STONE SOUR
@@ -105,3 +110,4 @@ And it's the stars, the stars that lie for you [x2]
 And it's the stars, The stars.
 C D Em        C                    D        Em
         Who are the stars.Who are the stars they
+

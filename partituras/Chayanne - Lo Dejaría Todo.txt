@@ -1,3 +1,8 @@
+Artista: Chayanne
+Canción: Lo Dejaría Todo
+Capo: 1
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 1
 
 CHAYANNE
@@ -67,3 +72,4 @@ Y dejas en pedazos este corazón.
 Mi piel también la dejaría, Mi nombre, mi fuerza hasta mi propia vida-a.
                Am                     D			      C     G
 Y qué más da perder, si te llevas el todo, mi fe, ¿Qué no dejaría?
+

@@ -1,3 +1,8 @@
+Artista: Sidecars
+Canción: La Tormenta
+Capo: No
+Disco: 
+Afinación: 
 
 CEJILLA/CAPO: Traste 1
 ================================================================================
@@ -91,3 +96,4 @@ por última vez...
 Am D Bm Em x2
 Am D Bm C -G
 X
+

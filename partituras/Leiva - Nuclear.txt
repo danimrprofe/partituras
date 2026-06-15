@@ -1,3 +1,8 @@
+Artista: Leiva
+Canción: Nuclear
+Capo: No
+Disco: 
+Afinación: 
 C                                     G
 Tú buscabas guía espiritual Y algún motivo idiota para saltar
         Am                         E
@@ -65,3 +70,4 @@ Sobrevolabas, la zona nuclear.
 Dame un instante para pensar. Lo que soñamos ahora da igual
       Am   G             F    G            C
 Abandonaste como las águilas. La zona nuclear
+
