@@ -1,8 +1,6 @@
-Artista: Síloe
-Canción: Si Me Necesitas Llámame
-Capo: 1
-Disco: Afinación:
-Afinación: Afinación: [Verse]
+Siloé
+Si Me Necesitas Llámame
+Capo 1
 
 [Verse]
 C           G/B                   Am          Am/G           F

@@ -3,8 +3,11 @@ Canción: Romance de José Etxlarena
 Capo: No
 Disco: 
 Afinación: 
-INTRO: Em... C G
 
+INTRO
+Em... C G
+
+ESTROFA
 Em          C
 Escapé de la cama,
         G                    D                 Em     C

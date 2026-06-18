@@ -3,6 +3,7 @@ Canción: Odio
 Capo: No
 Disco: 
 Afinación: 
+
 INTRO
 C  G  Am  D
 C  G  D  G

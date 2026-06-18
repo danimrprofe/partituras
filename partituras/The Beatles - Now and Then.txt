@@ -3,17 +3,12 @@ Canción: Now and Then
 Capo: 0
 Disco: 
 Afinación: 
-CEJILLA/CAPO: Capo 0
 
-THE BEATLES
-NOW AND THEN
-BEATLES
 Am/E  00221x
 E7*   02213x
 
 INTRO
 Am   G6   Am   G6
-
 
 ESTROFA
 Am             G6

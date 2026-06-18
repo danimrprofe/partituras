@@ -1,11 +1,8 @@
-Artista: Siloe
-Canción: todos los besos
-Capo: 1
-Disco: 
-Afinación: 
-Tempo: 140
+Siloé
+Todos los besos
+Capo 1
 
-[Intro]
+INTRO
   Am      F        C        Em
 e|---------------------------------------|
 B|---------------------------------------|

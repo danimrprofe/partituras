@@ -3,10 +3,6 @@ Canción: todo lo joven muere hoy
 Capo: 3
 Disco: 
 Afinación: 
-# Todo lo joven muere hoy
-
-Capo 3
-
 
 INTRO
 D A Bm A G A# D

@@ -4,10 +4,6 @@ Capo: No
 Disco: 
 Afinación: E A D G B E
 
-
-Afinación:
-E A D G B E
-sin cejilla
 INTRO
 (drums)
 | Am G | Dm Am | Am G | Dm Am |

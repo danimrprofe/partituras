@@ -3,8 +3,6 @@ Canción: caminos secundarios
 Capo: No
 Disco: 
 Afinación: 
-# Caminos secundarios
-
 
 INTRO
 G

@@ -1,8 +1,6 @@
-Artista: siloe
-Canción: la verdad
-Capo: No
-Disco: 
-Afinación: 
+Siloé
+La verdad
+
 INTRO
 G  D2  Am7
 G  D2  Am7

@@ -3,9 +3,8 @@ Canción: maggie despierta
 Capo: 2
 Disco: 
 Afinación: 
-capo2
 
-Intro
+INTRO
 G Asus2 C G
 G Asus2 C G Am Bm
 

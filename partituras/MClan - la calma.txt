@@ -3,8 +3,6 @@ Canción: la calma
 Capo: No
 Disco: 
 Afinación: 
-# La calma
-
 
 INTRO
 

@@ -19,10 +19,6 @@ Pero el miedo pesa, más que la razón
 ```
 **Estribillo**
 ```
-<<<<<<< HEAD
-=======
-
->>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 D          E7      F#m     C#m
 Y yo, que soy un perro que no tiene dueño
 D          E7      F#m     C#m

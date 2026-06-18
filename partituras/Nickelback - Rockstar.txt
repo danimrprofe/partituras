@@ -3,11 +3,7 @@ Canción: Rockstar
 Capo: 3
 Disco: 
 Afinación: 
-CEJILLA/CAPO: Capo 3
 
-Key: Bb
-BPM:       72
-COMPÁS:    4/4
                  E
 I'm through with standing in line to clubs we'll never get in,
           A

@@ -4,12 +4,6 @@ Capo: No
 Disco: 
 Afinación: E A D G B E
 
-
-Afinación:
-E A D G B E
-Tonalidad:
-F
-sin cejilla
 INTRO
    F                          C      Dm                  C
 e|-------------------------------|----------------------------|

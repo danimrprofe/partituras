@@ -1,12 +1,8 @@
 Artista: Pereza
 Canción: Lady Madrid
-Capo: 0
+Capo: 0 Madrid Nuclear: +1
 Disco: 
 Afinación: 
-CEJILLA/CAPO: Capo 0
-
-LADY MADRID
-Madrid Nuclear: +1
 
 INTRO
 C F C G

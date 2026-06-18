@@ -3,12 +3,10 @@
 Los Em son G/E y Dm son F/D
 
 
-**Intro**
-```
+INTRO
 Cm C Cm C
-```
-**Verse**
-```
+
+ESTROFA
 Am  G# C                         G          Am      Fm            C
     Que tonta esta la vida, Que rapido se enfada, No me consiente nada
 G                        C                     G           F

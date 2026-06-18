@@ -1,13 +1,7 @@
 Artista: Matchbox Twenty
 Canción: Unwell
 Capo: 2
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 2
 
-Key: B
-BPM:       81
-COMPÁS:    4/4
 ESTROFA
 C     D     G              Em
 All day Staring at the ceiling making.

@@ -1,8 +1,6 @@
-Artista: Vetusta Morla
-Canción: Finisterre
-Capo: 0
-Disco: 
-Afinación: 
+Vetusta Morla
+Finisterre
+
 Notas: Para mí bajar 3 y capo 1
 
 ESTROFA

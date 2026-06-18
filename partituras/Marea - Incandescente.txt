@@ -1,9 +1,8 @@
-Artista: Marea
-Canción: Incandescente
-Capo: No
+Artista:      Marea
+Canción:      Incandescente
+Capo:         No
 Disco: 
 Afinación: 
-
 
 INTRO
 |---------------------|

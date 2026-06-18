@@ -3,11 +3,8 @@ Canción: Kiss From a Rose
 Capo: 0
 Disco: 
 Afinación: 
-CEJILLA/CAPO: Capo 0
 
-KISS FROM A ROSE
-CAPO: NO
-
+INTRO
 C G E
 C G E
 

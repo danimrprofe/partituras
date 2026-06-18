@@ -3,6 +3,7 @@ Canción: Pienso en Aquella Tarde
 Capo: No
 Disco: 
 Afinación: 
+
 INTRO
 e|----------3---------------------|
 B|----3-5-3-----------------------|

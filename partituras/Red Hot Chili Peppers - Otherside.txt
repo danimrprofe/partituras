@@ -4,12 +4,6 @@ Capo: No
 Disco: 
 Afinación: E A D G B E
 
-
-Afinación:
-E A D G B E
-Tonalidad:
-Am
-sin cejilla
 Strumming pattern: D DU UDU
 * = play the strumming pattern x2 on this chord
 

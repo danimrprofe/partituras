@@ -3,33 +3,26 @@ Canción: miedo
 Capo: No
 Disco: 
 Afinación: 
-Intro
+
+INTRO
 G - Em - Cm - G
 
 ESTROFA
-G         Em
-Para empezar
-  Cm              G
-diré que es el final
+G         Em    Cm              G
+Para empezar  diré que es el final
 G           Em             Cm           G
 no es un final feliz, tan sólo es un final
        Em           A                  C    (Cm)
 pero parece ser que ya no hay vuelta atrás.
 
-G        Em
-Sólo te di
-   Cm            G
-diamantes de carbón
-G         Em
-rompí tu mundo en dos
-   Cm         G
-rompí tu corazón
+G         Em    Cm            G
+Sólo te di   diamantes de carbón
+G         Em            Cm          G
+rompí tu mundo en dos rompí tu corazón
            Em            A           C      Cm
 y ahora tu mundo esta burlándose de miiiiii iiiii
 
-
 ESTRIBILLO
-
 
 Am          D             G              Em             Am
 Miedo de volver a los infiernos. miedo a que me tengas miedo

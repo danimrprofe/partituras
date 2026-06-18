@@ -1,0 +1,116 @@
+[Chords]
+B11 004440
+(Este acorde dá el matíz especial de esta canción, es como un SI pero sin la 
+cejilla)
+(Preferiblemente usar acordes abiertos en el Verse y con cejilla en el resto de 
+canción excepto el Mi)
+ 
+(riff 1 )
+e|--7-5-4-5-4-2-4-2---2--------------
+B|------------------5---5-4-2-4-5----
+G|-----------------------------------
+D|----------------------------------- x2
+A|-----------------------------------
+E|-----------------------------------
+ 
+ 
+[Intro]
+A B11 A A x4
+ 
+[Verse]
+A      B11      A        B11
+¡Ábrelo! Ábrelo despacio
+A          B11           A
+di qué ves, dime qué ves, si hay algo
+          B11            C#m            A      B (riff 1)
+un manantial, breve y fugaz, entre las manos
+ 
+A         B11      A          B11
+Toca afinar, definir el trazo
+A       B11        A
+sintonizar, reagrupar pedazos
+             B11         C#m         A      B (riff 1)
+en mi colección de medallas y de arañazos
+ 
+[Chorus]
+A            B
+Ya está aquí
+              E              A
+quien lo vio bailar como un lazo en un ventilador
+               B
+quién iba a decir
+            C#m               A     N.C.
+que sin carbón, no hay reyes magos
+ 
+[Instrumental]
+A B11 A A x2
+ 
+[Verse]
+A                                          B11        A
+Aún quedan vicios por perfeccionar en los días raros
+                          B11            C#m         A      B (riff 1)
+nos destaparemos en la intimidad con la punta del zapato
+ 
+[Chorus]
+A            B
+Ya está aquí
+              E              A
+quien lo vio bailar como un lazo en un ventilador
+               B
+quién iba a decir
+            C#m             A
+que sin borrón, no hay trato
+ 
+A        B
+El futuro
+           E             A
+se vistió con el traje nuevo del emperador
+               B
+quién iba a decir
+            C#m               A
+que sin carbón, no hay reyes magos
+ 
+[Bridge]
+B
+oh uo-oh o-o-uo-oh
+G#m
+oh uo-oh o-o-uo-oh
+A                  E
+oh uo-oh o-o-uo-oh oh
+ 
+E                  F#m
+Nos quedan muchos más
+               G#m
+regalos por abrir
+                  A
+monedas que al girar
+                 B
+descubran un perfil
+                    F#m
+que empieza en celofán
+ 
+y acaba en eco
+ 
+[Outro]
+G#m
+uo oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+A
+uo oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+E
+uo oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+F#m
+uo oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+G#m
+uo-o-o uo-o-o ou-oh-oh-oh ou-oh-oh-oh yo-oh-oh-oh-oh-oh
+A
+uo-o-o uo-o-o ou-oh-oh-oh ou-oh-oh-oh yo-oh-oh-oh-oh-oh
+B
+uo-o-o uo-o-o ou-oh-oh-oh ou-oh-oh-oh yo-oh-oh-oh-oh-oh
+F#m
+uo-o-o uo-o-o ou-oh-oh-oh ou-oh-oh-oh yo-oh-oh-oh-oh-oh
+G#m
+oh oh oh oh oh ooooh oh,  oh oh oh oh ooooh oh
+A
+oh oh oh oh oh ooooh oh,  oh oh oh oh oh ooooh
+E
+    Heeeeeeeeyaaaaaahhhhhhh

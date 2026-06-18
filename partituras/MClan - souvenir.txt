@@ -3,8 +3,6 @@ Canción: souvenir
 Capo: No
 Disco: 
 Afinación: 
-# Souvenir
-
 
 INTRO
 

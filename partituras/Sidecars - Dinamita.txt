@@ -1,10 +1,6 @@
-Artista: Sidecars
-Canción: Dinamita
-Capo: 3
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 3
-COMPÁS: 3/4
+Sidecars
+Dinamita
+Capo 3
 
 Bm7add11 x2023x
 

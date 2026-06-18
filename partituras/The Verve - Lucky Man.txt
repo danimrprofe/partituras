@@ -1,13 +1,6 @@
-Artista: The Verve
-Canción: Lucky Man
-Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
+The Verve
+Lucky Man
 
-Key: G
-BPM:       82
-COMPÁS:    4/4
 INTRO
 G D Dsus2 Asus2 x 8
 

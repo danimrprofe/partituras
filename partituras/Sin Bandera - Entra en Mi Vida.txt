@@ -1,12 +1,6 @@
-Artista: Sin Bandera
-Canción: Entra en Mi Vida
-Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
+Sin Bandera
+Entra en Mi Vida
 
-SIN BANDERA
-ENTRA EN MI VIDA
 C = Cmaj7
 
 ESTROFA

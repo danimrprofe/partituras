@@ -1,9 +1,9 @@
 Artista: Manolo Garcia
 Canción: Pájaros De Barro
-Capo: No
+Capo: 3
 Disco: 
 Afinación: 
-Cejilla traste 3
+
 Tonalidad Fa menor
 Dm                    C      Gm7    Dm
 Por si el tiempo me arrastra a playas desiertas,

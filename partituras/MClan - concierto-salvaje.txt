@@ -3,9 +3,8 @@ Canción: concierto-salvaje
 Capo: No
 Disco: 
 Afinación: 
-# Concierto salvaje
 
-
+ESTROFA
 A                      Bm
 Quemame solo quiero arder y arder
                 D                          A

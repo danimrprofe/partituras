@@ -1,19 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Simple Plan
-CANCION: I’M JUST A KID
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+﻿Artista: Simple Plan
+Canción: Im Just a Kid
+Capo: No
+Disco: 
+Afinación: 
 
-SIMPLE PLAN 
-I'M JUST A KID
-Afinación estándar
 C#- F#- G#- F#
   C#                F#   G#             F#
 I woke up, it was seven. Waited till eleven

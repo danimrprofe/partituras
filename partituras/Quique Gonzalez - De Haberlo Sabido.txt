@@ -1,9 +1,6 @@
 Artista: Quique Gonzalez
 Canción: De Haberlo Sabido
-Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
+Capo 2
 
 INTRO
 Em7 - B7/E - Em* - B7/E (x3)

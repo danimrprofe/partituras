@@ -3,10 +3,7 @@ Canción: Another Love
 Capo: 0
 Disco: 
 Afinación: 
-CEJILLA/CAPO: Capo 0
 
-TOM ODELL
-ANOTHER LOVE
 INTRO
 Em    G  C
 Em    Bm
@@ -14,9 +11,7 @@ C     Em  Am
 Em    Bm
 C     C
 
-
 ESTROFA
-
 C                  Em               Am     Em
   I wanna take you somewhere so you know I care,
             Bm                    C

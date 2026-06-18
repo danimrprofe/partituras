@@ -3,8 +3,6 @@ Canción: inmigrante
 Capo: No
 Disco: 
 Afinación: 
-# Inmigrante
-
 
 G D/F# Em D chord sequence at end of chorus parts can also be played
 as single notes, G F# E D

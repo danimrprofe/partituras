@@ -3,10 +3,7 @@ Canción: Man on the Moon
 Capo: 0
 Disco: 
 Afinación: 
-CEJILLA/CAPO: Capo 0
 
-MAN ON THE MOON
-REM
 C         = x32010    G     = 320033     D     = xx0232
  D = x54030   (G/D)  = xx0033     Bm    = x24432
  Am        = x02210   (G/E)  = xx2033    (Am/E) = xx2210

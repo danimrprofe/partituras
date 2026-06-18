@@ -3,6 +3,7 @@ Canción: Estrella Polar
 Capo: No
 Disco: 
 Afinación: 
+
 ESTROFA
         D             G      D           A A7 A        D G D A A7 A
 A la Avenida de la Estrella Polar llega primero el invierno

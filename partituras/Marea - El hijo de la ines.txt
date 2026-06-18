@@ -12,9 +12,7 @@ D|-5-5-5h7p5---5-5-5/7-7-----7---5-5-5h7p5---5-5--7-----7-------|
 A|-----------7-----------------------------7--------------------|
 E|--------------------------------------------------------------|( x2 )
 
-
-[Verso 1]
-
+ESTROFA
 C          G                  Am
 Buscaré tu jaula a tientas, pa' que otra vez me mientas
 C       G             F
@@ -26,8 +24,7 @@ Que salen astillas de mi corazón.
 
 C G Am    C G F
 
-[Verso 2]
-
+ESTROFA
 C          G            Am
 Sube conmigo a la acera, verás la tiritera
 C       G             F

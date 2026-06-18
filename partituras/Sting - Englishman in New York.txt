@@ -3,6 +3,7 @@ Canción: Englishman in New York
 Capo: No
 Disco: 
 Afinación: 
+
 ESTROFA
 Em               A          Bm          A
 I don't drink coffee I take tea my dear
@@ -21,7 +22,6 @@ Em         A               Bm   A
 I take it everywhere I walk
 Em                A       Bm   A
 I'm an Englishman in New York Woo-ooh
-
 
 ESTRIBILLO
 Em      A    Bm

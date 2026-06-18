@@ -3,6 +3,7 @@ Canción: La Noria
 Capo: No
 Disco: 
 Afinación: 
+
 ESTROFA
 F#m                      E
 Qué bueno oír tu voz hablándome tan cerca,

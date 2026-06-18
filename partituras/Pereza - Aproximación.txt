@@ -3,6 +3,7 @@ Canción: Aproximación
 Capo: No
 Disco: 
 Afinación: 
+
 ESTROFA
 C     G    C    F            C	       G    Em    F
 Somos dos, para que queremos más. Pensamos antes de matarnos.

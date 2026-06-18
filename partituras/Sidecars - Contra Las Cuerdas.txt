@@ -1,8 +1,6 @@
-Artista: Sidecars
-Canción: Contra Las Cuerdas
-Capo: 2
-Disco: 
-Afinación: 
+Sidecars
+Contra Las Cuerdas
+Capo 2
 
 INTRO
 ↓ ↓ ↑ ↓ ↑

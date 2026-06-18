@@ -1,14 +1,8 @@
 Artista: MClan
 Canción: corazon en transito
-Capo: No
+Capo: 4
 Disco: 
 Afinación: | Compás | Capo |
-# Corazón en tránsito
-
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 4    |
-
 
 INTRO
 D D D G C D

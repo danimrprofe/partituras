@@ -3,10 +3,6 @@ Canción: noche de desolacion
 Capo: 2
 Disco: 
 Afinación: 
-# Noches de desolación
-
-capo 2
-
 
 INTRO
 A

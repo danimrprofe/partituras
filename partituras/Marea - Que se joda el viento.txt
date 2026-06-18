@@ -3,13 +3,14 @@ Canción: Que se joda el viento
 Capo: No
 Disco: 
 Afinación: 
-Tom: Am
-INTRO:
+
+INTRO
 Am  Dm  G      |
             | x4 (en las 2 ultimas se ace un toke en Dm
 Am  Dm  F  G        |     y otro breve despues otra vez
  en Am)
 
+ESTROFA
 Am                    G
 Ponte el moño apretao sirena, k se joda el viento
 Am                      F    G

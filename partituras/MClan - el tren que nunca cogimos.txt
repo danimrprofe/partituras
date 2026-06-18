@@ -3,8 +3,6 @@ Canción: el tren que nunca cogimos
 Capo: No
 Disco: 
 Afinación: 
-# El tren que nunca cogimos
-
 
 INTRO
 Am B Em Em

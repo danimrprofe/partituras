@@ -3,23 +3,6 @@ Canción: Intro
 Capo: No
 Disco: North
 Afinación: Estándar (E A D G B E)
-# PARTITURA v1
-================================================================================
-ARTISTA: MORGAN
-CANCIÓN: Intro Delta
-ÁLBUM:   North
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-
-================================================================================
-TONALIDAD: Fa mayor (F)
-BPM:       68 (aprox.; rubato)
-COMPÁS:    4/4
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Pieza instrumental-vocal que abre el disco. Estilo gospel/soul; el tiempo es
-muy flexible (rubato), guiado por el piano. C/B = Do con bajo en Si.
-================================================================================
 
 ESTROFA
 C C/B     Am             G       F

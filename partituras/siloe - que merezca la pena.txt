@@ -1,14 +1,11 @@
-Artista: siloe
-Canción: que merezca la pena
-Capo: No
-Disco: 
-Afinación: 
+Siloé
+Que merezca la pena
 
 INTRO
 C D Em G C
 C D Em G C D
 
-ESTROFA 1
+ESTROFA
 C                       D                 Em
 Las jaulas no sirven de nada si las fieras,
 Em        G/B     C

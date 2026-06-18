@@ -1,12 +1,5 @@
-Artista: Vetusta Morla
-Canción: 23 De Junio
-Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
-
-VETUSTA MORLA
-23 DE JUNIO
+Vetusta Morla
+23 De Junio
 
 INTRO
 Dm E Am

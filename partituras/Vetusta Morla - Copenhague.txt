@@ -1,8 +1,6 @@
-Artista: Vetusta Morla
-Canción: Copenhague
-Capo: No
-Disco: 
-Afinación: 
+Vetusta Morla
+Copenhague
+
 Palm mute 3+3+2.
 Bm = x244xx A = x022xx A2 = x012xx
 

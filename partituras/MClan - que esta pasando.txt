@@ -1,14 +1,8 @@
 Artista: MClan
 Canción: que esta pasando
-Capo: No
+Capo: 2
 Disco: sin enchufe
 Afinación: 
-# Que está pasando
-
-Versión de directo, disco sin enchufe
-
-Capo en traste 2
-
 
 INTRO
 G Cadd9 G Cadd9 G Cadd9 G Cadd9

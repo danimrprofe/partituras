@@ -1,13 +1,6 @@
-Artista: Vetusta Morla
-Canción: Maldita Dulzura
-Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
+Vetusta Morla
+Maldita Dulzura
 
-Key: D
-BPM:       126
-COMPÁS:    4/4
 ESTROFA
 Em                  Bm      Em                  Bm
 Hablemos de ruina y espina Hablemos de polvo y herida

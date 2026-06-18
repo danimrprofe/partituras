@@ -6,8 +6,7 @@
 
 Me va mejor cejilla en traste 2
 
-```
-**Intro**
+INTRO
 C  FM7  C  (x2)
 
 C           F                 C    FM7 C

@@ -3,8 +3,6 @@ Canción: polvo de estrellas
 Capo: No
 Disco: 
 Afinación: 
-# Polvo de estrellas
-
 
 ESTROFA
 E             Am      E   G           D         E

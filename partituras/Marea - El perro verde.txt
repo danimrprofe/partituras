@@ -3,13 +3,14 @@ Canción: El perro verde
 Capo: No
 Disco: 
 Afinación: 
-º[Intro]
+
+INTRO
 B
 G5 A5 B5
 G5 A5 B5
 G5 A5 B5
 
-[Verse]
+ESTROFA
 G5            A5      B5
 Ayer puse el sol a remojo,
 G5              A5      B5
@@ -35,7 +36,7 @@ SOLO
 C#5 E5 A5 B5
 C#5 E5 A5 B5
 
-[Verse]
+ESTROFA
 G5            A5      B5
 y cuando las estrellas salen
 G5               A5      B5
