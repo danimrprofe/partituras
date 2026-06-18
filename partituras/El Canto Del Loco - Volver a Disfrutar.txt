@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: VOLVER A DISFRUTAR67
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Volver a Disfrutar
+Capo: No
+Disco: 
+Afinación: *
+
 
 **************************************************
 *                                                *
@@ -42,7 +36,7 @@ A    | E    | B   | D
 
 INSTRUMENTAL
 -----+------+-----+--------
-F#   | E    | D E | 
+F#   | E    | D E |
 -----+------+-----+--------
 
 A    | E    | D E | A

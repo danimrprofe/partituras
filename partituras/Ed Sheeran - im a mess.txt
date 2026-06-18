@@ -1,23 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Ed Sheeran
-CANCION: IM A MESS
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Ed Sheeran
+Canción: im a mess
+Capo: No
+Disco: 
+Afinación: 
 
-# I'm a mess
-
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 3    |
-
-```
 
 ESTROFA 1
           Am
@@ -37,7 +23,7 @@ Going through the motions
 F               G
 Going through us
 
-[Pre-Hook]
+PRE-ESTRIBILLO
     F                                C
 And oh I've known it for the longest time
               G            F
@@ -48,7 +34,7 @@ Are all over written on the signs
 But you're on my road walking me home
 Home, home
 
-[Hook]
+ESTRIBILLO
 Am                         G
   See the flames inside my eyes
             F                        C        Am
@@ -78,7 +64,7 @@ We're going through the motions
 F            G
 Hopin' you'd stop
 
-[Pre-Hook 2]
+PRE-ESTRIBILLO
     F
 And oh I've only caused you pain
   C                  G
@@ -91,7 +77,7 @@ Although all the lie we spoke
 When you're on my road walking me home
 Home, home, home
 
-[Hook]
+ESTRIBILLO
 Am                         G
   See the flames inside my eyes
             F                        C        Am
@@ -114,7 +100,6 @@ For how long, long I lo-ove my lover and now, now
 Am  C   G               F   C  G Am
 For how long, long I lo-ove my lover and now, now
 
-
 Am  C   G     G       G G F C  G Am      Am   Am
 For how long, long I lo-ove my lover and now, now
                                     (And I feel love)
@@ -122,7 +107,6 @@ For how long, long I lo-ove my lover and now, now
 Am  C   G     G       G G F C  G Am      Am   Am
 For how long, long I lo-ove my lover and now, now
                         (I feel it all over now, now and I feel love)
-
 
     Am  C   G     G       G G F C  G Am      Am   Am
 And for how long, long I lo-ove my lover and now, now
@@ -132,7 +116,6 @@ Am  C   G     G       G G F C  G Am      Am   Am
 For how long, long I lo-ove my lover and now, now
                         (I feel it all over now, now and I feel love)
 
-
 Am  C   G     G       G G F C  G Am      Am   Am
 For how long, long I lo-ove my lover and now, now
                         (I feel it all over now, now and I feel love)
@@ -140,10 +123,9 @@ For how long, long I lo-ove my lover and now, now
 Am  C   G     G       G G F C  G Am      Am   Am
 For how long, long I lo-ove my lover and now, now
                         (I feel it all over now, now and I feel love)
-
 
 Am  C   G          F    C  G Am
 For how long, I lo-ove my lover and now, now
 Am  C   G               F   G  Am
 For how long, long I lo-ove my lover
-```
+

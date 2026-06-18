@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Marea
-CANCION: BARNIZ
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Marea
+Canción: Barniz
+Capo: No
+Disco: 
+Afinación: 
+
 
 INTRO
 G Am F C G
@@ -32,10 +26,10 @@ A         F          C               D
 Sera por ti,k me invite la vida a rascar mi barriga
 
 ESTRIBILLO
-C                 G      
+C                 G
 Me repica el corazon por bulerias,
           Am                  G
-si me miras,si me engrasa,la garganta kn saliva 
+si me miras,si me engrasa,la garganta kn saliva
 C                  G                      Am
 mis dukelas y mis males,palmean por soleares
                    G
@@ -43,7 +37,7 @@ si me dice que me quiere to los dias
 C           D            Am
 Me apego a ti como el barniz,
 G                    C    D       Am             G
-y se me pudre la madera,1500 primaveras,sin dormir   
+y se me pudre la madera,1500 primaveras,sin dormir
 
 G Am F C G
 Am F C Dm
@@ -65,10 +59,10 @@ Y otra vez soy carcelero de unos besos sin carmín
 Será por ti que lo mío en las nubes solo es un desliz
 
 ESTRIBILLO
-C                 G      
+C                 G
 Me repica el corazon por bulerias,
           Am                   G
-si me miras,si me engrasa,la garganta con saliva 
+si me miras,si me engrasa,la garganta con saliva
 C                  G                      Am
 mis dukelas y mis males,palmean por soleares
                    G
@@ -76,7 +70,7 @@ si me dice que me quiere to los dias
 C           D            Am
 Me apego a ti como el barniz,
 G                    C    D       Am             G
-y se me pudre la madera,1500 primaveras,sin dormir 
+y se me pudre la madera,1500 primaveras,sin dormir
             C F Am G
 como el barníz
 
@@ -93,25 +87,25 @@ Seras cabron murmure al sol, con la bokita pekeña
 
 seras desgraciao,murmure a la vida,k pronto me olvidas
 
-por lo que te he dao      
+por lo que te he dao
         Am
-sere lo que no quise ser 
+sere lo que no quise ser
           C                  D
 sere tu cielo ,tu antojo,tu niño,tu mal
       F                               G
-seras hijoputa,guiñandome un ojo,me dijo la luna 
-    
-al pasar 
+seras hijoputa,guiñandome un ojo,me dijo la luna
+
+al pasar
 
 ESTRIBILLO
 C           D            Am
 Me apego a ti como el barniz,
 G                    C    D       Am             G
-y se me pudre la madera,1500 primaveras,sin dormir   
+y se me pudre la madera,1500 primaveras,sin dormir
 C           D            Am
 Me apego a ti como el barniz,
 G                    C    D       Am             G
 y se me pudre la madera,1500 primaveras,sin dormir
             G A F C
-Como el barniz   
+Como el barniz
 

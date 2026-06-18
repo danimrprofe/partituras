@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: NO VOY A PARAR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: No Voy a Parar
+Capo: No
+Disco: 
+Afinación: *
+
 
 **************************************************
 *                                                *
@@ -65,3 +59,4 @@ Ya no lo superes es tu momento y puedes
 El búscalo, lo tienes
 Que no te digan lo que tienes que oír
 Lo que tienes que hacer
+

@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: OTRA VEZ
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Otra Vez
+Capo: No
+Disco: 
+Afinación: *
+
 
 **************************************************
 *                                                *
@@ -24,12 +18,9 @@ LEYENDA / NOTAS ADICIONALES:
 *                                                *
 **************************************************
 
-CAPO EN 4TO. TRASTE
-
         e B G D A E
 Aadd9 : 0 0 2 2 0 X
 Dmaj7 : 2 2 2 0 X X
-
 
  Dmaj7      A
 Sólo quiero ver
@@ -119,3 +110,4 @@ te miro y yo soy importante para los dos
 
 D          E           F#m   E     A
 Y otra vez otra vez intento imaginar.
+

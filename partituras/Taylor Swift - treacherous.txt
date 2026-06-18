@@ -1,38 +1,17 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Taylor Swift
-CANCIÓN: treacherous
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-Treacherous by Taylor Swift
-Album: Red
-Track 3
-2012
- 
-Standard Tuning
-Capo on the 7th fret
- 
-Chords:
- 
+Artista: Taylor Swift
+Canción: treacherous
+Capo: No
+Disco: 
+Afinación: 
 G      320033 or 320003
 E      xx0232
 F#m    x22000
 D      x32010
- 
- 
+
 INTRO
- 
 A    E    F#m   D   x2
- 
- 
+
 ESTROFA
- 
 A                        E
  Put your lips close to mine
      F#m                 D
@@ -47,10 +26,9 @@ A                          E
  If you say it with your hands
 A                           E              F#m        D
  And I'd be smart to walk away but you're quicksand
- 
- 
+
 ESTRIBILLO
- 
+
 A             E
  This slope is treacherous
 F#m          D
@@ -59,10 +37,10 @@ A             E
  This slope is treacherous
 F#m       D         A
  And I-I-I like it
- 
- 
+
+
 ESTROFA
- 
+
 A                           E
  I can't decide if it's a choice
  F#m             D
@@ -79,10 +57,10 @@ A                         E
  Forever going with the flow
              F#m      D
  But you're friction
- 
- 
+
+
 ESTRIBILLO
- 
+
 A             E
  This slope is treacherous
 F#m          D
@@ -91,10 +69,10 @@ A             E
  This slope is treacherous
 F#m       D
  And I-I-I like it
- 
- 
+
+
 PUENTE
- 
+
 E                F#m                         D
  Two headlights shine through the sleepless night
              A                         E
@@ -107,10 +85,10 @@ E                F#m                         D
  That nothing safe is worth the drive and I will follow you follow you home
     F#m                   D
  I follow you follow you home
- 
- 
+
+
 ESTRIBILLO
- 
+
 A               E
  This hope is treacherous
 F#m                 D
@@ -119,10 +97,10 @@ A            E
  This hope is treacherous
 F#m    D
  I-I-I - I-I-I - I-I-I
- 
- 
+
+
 PUENTE
- 
+
 E                F#m                         D
  Two headlights shine through the sleepless night
              A                          E
@@ -141,11 +119,12 @@ E                F#m                         D
  I will follow you follow you home
     F#m                   D
  I follow you follow you home
- 
- 
+
+
 FINAL
- 
+
 A             E
  This slope is treacherous
 F#m   D
  I-I-I like it
+

@@ -1,86 +1,91 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: AMOR SE LLAMA EL JUEGO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-JOAQUÍN SABINA 
+Artista: Joaquín Sabina
+Canción: Amor Se Llama El Juego
+Capo: No
+Disco: 
+Afinación: 
+JOAQUÍN SABINA
 AMOR SE LLAMA EL JUEGO
 
 INTRO
-| E   | G#m | A   | C#m B | A
+E             G#m            A                       C#m    B       A
+E|-----0-----------|-----4----------0-------0------|--4-----2-------0---|
+B|-----0-----0-----|-----4----------2-----0---4-0--|--5-----4--5-4--2---|
+G|-----1-------1---|-----4---4-6----2---2----------|--6-----4-------2---|
+D|-2/4-2-----------|-----6----------2--------------|--6-----4-------2---|
+A|-----2-----------|-----6----------0--------------|--4-----2-------0---|
+E|-----0-----------|-----4-------------------------|--------------------|
 
+IDEA DE RITMO
+E                   A
+E|-------------------|---------------------|
+B|--------0----------|----------2----------|
+G|--------1----------|----------2----------|
+D|-------------------|------2-------2------|
+A|----2-------2------|----0----------------|
+E|--0----------------|---------------------|
 ESTROFA
-         E                      B9                                 
-hace demasiados meses que mis payasadas 
-            C#m            A             
+         E                     G#m (B9)
+hace demasiados meses que mis payasadas
+            C#m  B          A 
 no provocan tus ganas de reír
-          F#m                          G#m                          
-No es que ya no me intereses, pero el tiempo de los besos 
-       A	       F#m         B
+          F#m                          G#m
+No es que ya no me intereses, pero el tiempo de los besos
+       A	 F#m         B
 y el sudor es la hora de dormir
-        E			       B9                                      
-duele verte removiendo la cajita de cenizas 
+        E		   G#m7
+duele verte removiendo la cajita de cenizas
         C#m    B            A
 que el placer tras de sí dejo
-       F#m		      	     G#m                                  
-mal y tarde estoy cumpliendo la palabra que te di 
+       F#m		   	     G#m
+mal y tarde estoy cumpliendo la palabra que te di
          A       F#m          B
 cuando juré escribirte una canción
-           E                     
+           E                       C#m
 un dios triste y envidioso nos castigó
-       C#m	        A
+        A
 por trepar juntos al árbol
-   F#m                           A       F#m              B9
+   F#m                           A         F#m           B9
 y atracarnos con la flor de la pasión por probar aquel sabor
 
 ESTRIBILLO
-G                   D                  C	        
+G                   D                  C
 El agua apaga el fuego y al ardor los años.
 G                 C                         Em
 Amor se llama el juego en el que un par de ciegos
-                  D     
-juegan a hacerse daño 
-Em          D	               C    Am              Em
+                  D
+juegan a hacerse daño
+Em          D	               C     Am             Em
 y cada vez peor y cada vez más rotos y cada vez más tu
                G                    D
 y cada vez más yo, sin rastro de nosotros.
 
 ESTROFA
-      E			      B9                   
-Ni inocentes ni culpables corazones que 
-             C#m                 A
-desborda el temporal, carne de cañón
-       F#m			           G#m                                      
-No soy yo ni tu ni nadie son los dedos miserables 
-       A                  B
+      E			      B9
+Ni inocentes ni culpables corazones que
+             C#m        B         A
+desborda el temporal, carnes de cañón
+       F#m			 G#m
+No soy yo ni tu ni nadie son los dedos miserables
+       A       F#m         B
 que le dan  cuerda a mi reloj
 
 | E   | F#m | A   | G#m | F#m B
 
 ESTROFA
-           E                      C#m				      A
+           E                      C#m	     A
 y no hay lágrimas que valgan para volver a meternos en el coche
       F#m                       A	    F#m           B
 donde aquella noche en pleno carnaval te empecé a desnudar
 
 ESTRIBILLO
-G                   D                  C	        
+G                   D                  C
 El agua apaga el fuego y al ardor los años.
 G                 C                         Em
 Amor se llama el juego en el que un par de ciegos
-                  D     
-juegan a hacerse daño 
+                  D
+juegan a hacerse daño
 Em          D	               C    Am              Em
 y cada vez peor y cada vez más rotos y cada vez más tu
                G                    D
 y cada vez más yo, sin rastro de nosotros. [x3]
-
 

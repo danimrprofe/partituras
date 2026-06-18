@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: SIEMPRE CERCA52
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Siempre Cerca (alt)
+Capo: No
+Disco: 
+Afinación: 
+
 
 EL CANTO DEL LOCO - SIEMPRE CERCA
 EL CANTO DEL LOCO
@@ -40,7 +34,7 @@ hay que empezarse a hacer a la idea de estar solos...
       B                                   C#m
 Por querer estar siempre cerca iré donde tú decidas
             D#m                                   E
-y a la vez recordar momentos que hacen que hoy vivamos... 
+y a la vez recordar momentos que hacen que hoy vivamos...
 
 ESTROFA
 G#m              F#                                 G#m
@@ -69,5 +63,4 @@ que lo único q importa, es q no estés sólo.
 Sabes, algo va a pasar, nada vuelve a ser igual
                      E                    F#
 pero lo único q importa... es que nos importas
-
 

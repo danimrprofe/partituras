@@ -1,96 +1,54 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Shakira
-CANCIÓN: Dia especial
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-I didn't figure out these chords myself, I got them from another site but 
-they
-were for The Day and The Time, which is the English version of the song. I 
-just re-
-arranged them to fit the lyrics in Spanish.
- 
- Also, that G between two Am's sounds pretty good but kinda rushed at the 
-same
-time... I think it could just be omitted.
- 
- 
-Capo on the 1st fret
- 
- 
-  Am G  Am           C          G
-  Ya no se si es muy tarde para ti
+Artista: Shakira
+Canción: Dia Especial
+Disco: 
+Afinación: 
+CEJILLA/CAPO: Capo 1
+
+
+F       Am           C        G      
+Ya no se si es muy tarde para ti
          Dm            Am
-  Quiero desafiar la comodidad
-         C            G
-  No nos sirve mas fingir
- 
- 
- 
-  Am    C        G
-  Yo no se cuan efímero es tu error
-        Dm
-  Ya te perdoné
- 
-   Am           C               G
-  Adelante las agujas del reloj
- 
- 
- 
- 
- 
-F              Am
-  La lágrima secó
-      G            Dm
-  Se alejó el temporal
-      F            C
-  Latiendo como el sol
-         G             Dm
-  Mi corazón no tiene edad
- 
-            F
-  Para esperarte
- 
- 
- 
- 
- 
-  C          G         Dm  F
-  Este es un día especial
- 
-            C     G         Dm  F
-  Quiero creer en otra oportunidad
- 
-  C        G        Dm  F
-  Dimos un salto mortal
- 
-                 C
-  Y hoy vuelvo a ver
-     G            Dm   F
-  Un faro en la oscuridad
- 
- 
- 
- 
- 
- 
+Quiero desafiar la comodidad
+         C          G
+No nos sirve mas fingir
+
+F     Am        C           G           
+Yo no se cuan efímero es tu error
+        Dm        Am          C          G
+Ya te perdoné Adelante las agujas del reloj
+
+
+F            Am        G          F
+Mi lágrima secó  Se aleja el temporal
+   F             Am
+Latiendo como el sol
+         G             Dm             F
+ Mi corazón no tiene edad   Para esperarte
+
+
+ C          A#         Dm F
+Este es un día especial
+          Am    G         Em  F
+Quiero creer en otra oportunidad
+ C          A#         Dm F
+Dimos un salto mortal
+                 Am     G            D       
+Y hoy vuelvo a ver Un faro en la oscuridad
+
+F
+
+
   Am G    Am         C          G
   Ya no estoy tan confusa como ayer
        Dm                Am
   Solo la ilusión trae desilusión
- 
+
            C            G
   Y es tan fácil decaer
- 
- 
- 
- 
+
+
+
+
 F                    Am
   El mundo en que creí
       G             Dm
@@ -99,47 +57,48 @@ F                    Am
   Prefiero darle fin
             G            Dm           F
   A que me ocultes la verdad más vulnerable
- 
- 
- 
- 
+
+
+
+
   C          G         Dm  F
   Este es un día especial
- 
+
             C     G         Dm  F
   Quiero creer en otra oportunidad
- 
+
   C        G        Dm  F
   Dimos un salto mortal
- 
+
                  C
   Y hoy vuelvo a ver
      G            Dm  F
   Un faro en la oscuridad
- 
- 
- 
+
+
+
 Dm    F             C
   Latiendo como el sol
- 
+
          G             Dm    F
   Mi corazón no tiene edad
- 
- 
- 
- 
- 
+
+
+
+
+
   C          G         Dm  F
   Este es un día especial
- 
+
             C     G         Dm  F
   Quiero creer en otra oportunidad
- 
+
   C        G        Dm  F
   Dimos un salto mortal
- 
+
                  C
   Y hoy vuelvo a ver
      G            Dm   F
   Un faro en la oscuridad
 X
+

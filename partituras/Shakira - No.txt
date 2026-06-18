@@ -1,29 +1,18 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Shakira
-CANCIÓN: No
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Shakira
+Canción: No
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-Cejilla traste 1
-
- 
 
 INTRO
-CAPO I
 E--2-2-2-5-2---------------------------------------I
 B------------3--3--7-5-3-5--5-5-5-5----------------I
 G------------------------------------2-4-----------I
 D----------------------------------------5-4-------I
 A--------------------------------------------------I
 E--------------------------------------------------I (BIS)
- 
- 
+
 Em        A                     D              G
 No, no intentes disculparte no jueges a insistir
                    D             A
@@ -42,12 +31,12 @@ G             A         D          Bm
 y que a tu edad sepas bien lo que es
     G           A              Bm
 romperle el corazon a alguien asi
- 
+
 ESTRIBILLO
-A                              Em        G
+A             Em               G
 No se puede vivir con tanto veneno
         A                                        Em
-la esperanza que me dio tu amor no me la dio mas nadie 
+la esperanza que me dio tu amor no me la dio mas nadie
              G
 te juro, no miento.
 A                            Em          G
@@ -80,10 +69,11 @@ G            A          D         Bm
 y que a tu edad sepas bien lo que es
    G             A             Bm
 romperle el corazón a alguien así.
- 
+
 ESTRIBILLO
 A    G   A    G A     A G A G  AG
 NO.....NO.....NO.......NO...NO...NO
- 
+
 THAT'S ALL.....YOU HAVE TO LISTE THE SONG..
 HPO YOU ENJOY IT!
+

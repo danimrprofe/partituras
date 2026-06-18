@@ -1,25 +1,19 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: John Mayer
-CANCION: I GUESS I JUST FEEL LIKE
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: John Mayer
+Canción: I Guess I Just Feel Like
+Capo: No
+Disco: 
+Afinación: 
 
-JOHN MAYER 
+
+JOHN MAYER
 I GUESS I JUST FEEL LIKE
 
 INTRO
 A D/A
 A D/A               A
      I guess I just feel like
- 
- 
+
+
 ESTROFA 1
 D/A               A
    I guess I just feel like
@@ -29,13 +23,13 @@ D/A         F#m              D
 Everyone's lyin' to make it on through
                A        D/A                A   D/A
 I guess I just feel like   I'm the same way too
- 
- 
+
+
 [Break]
 A   D    A   D
 Ooh ooh, ooh ooh
- 
- 
+
+
 ESTROFA 2
                A        D/A                A
 I guess I just feel like   good things are gone
@@ -49,17 +43,17 @@ That love's gonna save us from a world that's gone mad
 I guess I just feel like
 D/A                 A    D/A
    What happened to that?
- 
- 
+
+
 SOLO 1
 G F#m G F#m
 E
- 
- 
+
+
 [Break]
 A D/A Amaj7
- 
- 
+
+
 ESTROFA 3
 D/A               A        D/A                   A
    I guess I just feel like   the joke's gettin' old
@@ -73,22 +67,21 @@ And I'll always let hope in wherever I'll be
 And if I go blind, I'd still find my way
                A        D/A            A  D/A
 I guess I just felt like   givin' up today
- 
- 
+
+
 [Break]
 A D/A               A D/A
      Mmm, yeah, yeah
- 
- 
+
+
 SOLO 2
 A D/A A D/A
 A D/A A D/A
 A D/A A D/A
 A D/A A D/A
- 
- 
-[Outro (Fade Out)]
-A D/A A D/A
-A D/A A D/A
 
+
+FINAL
+A D/A A D/A
+A D/A A D/A
 

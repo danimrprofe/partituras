@@ -1,26 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: VIVA LA VIDA2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Coldplay
+Canción: viva la vida
+Capo: No
+Disco: 
+Afinación: 
 
-# Viva la vida
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 1    |
-
-```
 INTRO
 C D G Em    x2
-
 
 ESTROFA 1
           C        D
@@ -32,10 +18,8 @@ Now in the morning I sleep alone
           G                 Em
 Sweep the streets I used to own
 
-
-INTERLUDIO
+INSTRUMENTAL
 C D G Em    x2
-
 
 ESTROFA 2
           C        D
@@ -55,7 +39,6 @@ And I discovered that my castles stand
      G                       Em
 Upon pillars of salt and pillars of sand
 
-
 ESTRIBILLO
   C              D
 I hear Jerusalem bells are ringing
@@ -72,10 +55,8 @@ Once you go there was never, never an honest word
          Bm               Em
 That was when I ruled the world
 
-
-INTERLUDIO
+INSTRUMENTAL
 C D G Em    x2
-
 
 ESTROFA 3
                       C    D
@@ -95,7 +76,6 @@ Just a puppet on a lonely string
    G                         Em
 Oh who would ever want to be king?
 
-
 ESTRIBILLO
   C              D
 I hear Jerusalem bells are ringing
@@ -114,8 +94,7 @@ never an honest word
              Bm               Em
 But that was when I ruled the world
 
-
-INTERLUDIO
+INSTRUMENTAL
 C  Em x3
 D  D
   C   D    G   Em
@@ -123,7 +102,6 @@ Ohhhhhh  Ohhhhhhh
   C   D    G   Em
 Ohhhhhh  Ohhhhhhh
 
-
 ESTRIBILLO
   C              D
 I hear Jerusalem bells are ringing
@@ -142,10 +120,9 @@ never an honest word
              Bm               Em
 But that was when I ruled the world
 
-
 OUTRO
 C    D  Bm   Em
 Oooooh  Ooooooh
 C    D  Bm   Em
 Oooooh  Ooooooh
-```
+

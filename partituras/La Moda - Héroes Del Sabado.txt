@@ -1,19 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: La Moda
-CANCIÓN: Héroes del sabado
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: La Moda
+Canción: Héroes Del Sabado
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-Cejilla: Traste 3
 
 [Tab - Intro]
-
 
 E|-----------------------------------------
 B|-----------------------------------------
@@ -22,12 +14,12 @@ D|2-2---2--2-2---2-2--2/4-4---4/5-5---5--5-
 A|-----------------------------------------
 E|-----------------------------------------
 
-E|---------------| 
-B|---------------| 
-G|--0----0-----0-| 
-D|5---5-5--5-5---| 
-A|---------------| 
-E|---------------| 
+E|---------------|
+B|---------------|
+G|--0----0-----0-|
+D|5---5-5--5-5---|
+A|---------------|
+E|---------------|
 
 INTRO
 Em                F# G
@@ -40,7 +32,7 @@ Em                   G
 Van a intentarlo una vez
 C
 Ya están ahí, los héroes del sábado
- 
+
 ESTROFA
 Em              D G
 Hoy me voy a levantar,
@@ -52,7 +44,7 @@ relucientes bajo el sol,
 si pudieras escalar la colina y observar
                  Em             F# G
 con perspectiva, para ganar claridad
- 
+
 PRE-ESTRIBILLO
     Em                D        G
 Imposible ser neutral sobre un tren en movimiento
@@ -60,13 +52,13 @@ Imposible ser neutral sobre un tren en movimiento
 Estas calles son distintas, de aquí no se va el invierno
 C
 Van por allí, los héroes del sábado
- 
+
 ESTRIBILLO
  D                           Em              G
 ¿Dónde están los que pueden parar el mundo solo con mirar?
 D                            Em           G
 El niño crecerá, y entenderá lo que su padre ignora
- 
+
 ESTROFA
 Em                F#  G                Em
 Llevaos la paloma blanca y traed ovejas negras
@@ -76,8 +68,8 @@ en un año se han vendido muchas almas
 Somos mirlos en los ojos de otros mirlos que se van
     Em                    D   G
 Corazón no se alimenta de las ventas
- 
- 
+
+
 PRE-ESTRIBILLO
     Em                D        G
 Imposible ser neutral sobre un tren en movimiento
@@ -85,7 +77,7 @@ Imposible ser neutral sobre un tren en movimiento
 Estas calles son distintas, de aquí no se va el invierno
 C
 Van por allí, los héroes del sábado
- 
+
 ESTRIBILLO
  D                           Em              G
 ¿Dónde están los que pueden parar el mundo solo con mirar?
@@ -95,16 +87,16 @@ El niño crecerá, y entenderá lo que su padre ignora
 ¿Dónde están los que pueden parar el mundo solo con mirar?
 D                         Em  G
 El niño crecerá, y entenderá
- 
+
 PUENTE
 Em         C    G
 No te olvides de donde vienes (x4)
- 
+
        Em     C     G           Em   C    G
 En las noches más oscuras, en las carreteras crudas,
        Em     C      G          Em        C   G
 en los golpes de la vida, no te olvidas, no te olvidas
- 
+
 ESTRIBILLO
  D                           Em              G
 ¿Dónde están los que pueden parar el mundo solo con mirar?
@@ -115,3 +107,4 @@ El niño crecerá, y entenderá lo que su padre ignora
                                 Em           E        Em
 ¿Dónde están los que pueden cambiar el mundo solo con pensar?
 X
+

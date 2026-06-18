@@ -1,26 +1,19 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: EL VENCIDO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: Fito & Fitipaldis
+Canción: El Vencido
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-FITO & FITIPALDIS 
+FITO & FITIPALDIS
 EL VENCIDO
-Capo 3
 
 A C#m F#m
 
 ESTROFA
 G    D              Em     G     D       Em
 Cada vez que estoy perdido en la noche oscura,
-C      D            Em           Am 
+C      D            Em           Am
 sé que todo lo que escribo, a veces me
            B7
 mata y a veces me cura.
@@ -30,8 +23,8 @@ C    D                Em             B      B7
 Cada vez que llega el frío, a mi verdad desnuda.
 
 ESTRIBILLO
-         Am                            Em                                                       
-Dice que estoy perdiendo el tiempo en vivir deprisa. 
+         Am                            Em
+Dice que estoy perdiendo el tiempo en vivir deprisa.
          B7
 Mi vida pasa como el viento
       Em      D      C
@@ -45,12 +38,12 @@ G D Em
 G Em
 
 ESTROFA
-                G      D        Em                                             
-Soy el gran triunfador,  soy el vencido. 
+                G      D        Em
+Soy el gran triunfador,  soy el vencido.
                      G      D     Em
 Tengo un diente de oro, y otro partido.
             G                  D             Em
-Mi sentido común, nunca lleva razón, es mi enemigo. 
+Mi sentido común, nunca lleva razón, es mi enemigo.
                  C                 B7         C    C/B  Am
 Si lo pienso mejor, si sucede otra vez, sé que estoy perdido.
 
@@ -62,8 +55,8 @@ G B C D#
 G D Em
 
 ESTRIBILLO
-         Am                            Em                                                       
-Dice que estoy perdiendo el tiempo en vivir deprisa. 
+         Am                            Em
+Dice que estoy perdiendo el tiempo en vivir deprisa.
          B7
 Mi vida pasa como el viento
       Em      D      C
@@ -73,5 +66,4 @@ Dice que estoy perdiendo el tiempo, en vivir deprisa.
 
 FINAL
 G D Em X3
-
 

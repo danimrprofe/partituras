@@ -1,28 +1,23 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: la la love you
-CANCIÓN: el principio de algo
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: La La Love You
+Canción: El Principio De Algo
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 B  | F#  | A#m  | D#m C#
-B  | F#  | A#m  | D#m C# 
+B  | F#  | A#m  | D#m C#
 B  | F#  | C#   | C# (1 str)
 
-
-B  | F#  | A#m  | D#m 
-B  | F#  | A#m   
-B  | F#  | A#m  | D#m 
+B  | F#  | A#m  | D#m
+B  | F#  | A#m
+B  | F#  | A#m  | D#m
 B  | F#  | A#m  | A#m  (1 str)
 
 PM
 
 B  | F#  | A#m  | D#m C#
-B  | F#  | C#        
+B  | F#  | C#
 B  | F#  | A#m  | D#m C#
 B  | F#  | C#
+

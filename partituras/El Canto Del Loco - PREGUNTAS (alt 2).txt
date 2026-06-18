@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: PREGUNTAS -
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: PREGUNTAS (alt 2)
+Capo: No
+Disco: 
+Afinación: 
+
 
 PREGUNTAS
 =========
@@ -20,7 +14,7 @@ D    | B    | E   | G A
 D    | B    | E   | G A (Mirame)
 D    | B    | E   | G A
 -----+------+-----+--------
-D    | B    | E   | G A 
+D    | B    | E   | G A
 D    | B    | E   | G A G A
 -----+------+-----+--------
 D    | B    | G   | A (est)

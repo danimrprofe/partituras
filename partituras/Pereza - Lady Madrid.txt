@@ -1,17 +1,11 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Pereza
-CANCIÓN: LADY MADRID
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Pereza
+Canción: Lady Madrid
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 LADY MADRID
-Sin capo. Tonalidad: Do Mayor 
 Madrid Nuclear: +1
 
 INTRO
@@ -52,7 +46,7 @@ los gatos andábamos colgados, Lady Madrid...
 Pitillos ajustados, era The Burning, Ronaldos y Lou Reed,
    C                    G                Dm
 y nunca hablaron los diarios de Lady Madrid...
- 
+
 Dm G Dm G G7 G7sus4 G7
 
 ESTRIBILLO
@@ -64,7 +58,7 @@ los gatos andábamos colgados, Lady Madrid...
 Pitillos ajustados, era The Burning, Ronaldos y Lou Reed,
    C                    G                C
 y nunca hablaron los diarios de Lady Madrid...
- 
 
 C    F      C     F      C
 Lady Madrid, Lady Madrid...
+

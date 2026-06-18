@@ -1,119 +1,115 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Shakira
-CANCIÓN: Dia de enero
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Shakira
+Canción: Dia De Enero
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 Día de enero
- 
+
 INTRO
 Bb Dm Gm Eb
- 
+
 ESTROFA
        Bb            Dm
-Te conocí un día de enero, 
+Te conocí un día de enero,
        Gm            Eb
-con la luna en mi nariz 
+con la luna en mi nariz
        Bb             Dm
-Y como ví que eras sincero 
+Y como ví que eras sincero
        Gm          C
-En tus ojos me perdí 
+En tus ojos me perdí
           Eb
-Que torpe distracción 
+Que torpe distracción
             F
-Y que dulce sensación 
- 
- 
+Y que dulce sensación
+
+
 ESTROFA
               Bb           Dm
-Y ahora que andamos por el mundo 
+Y ahora que andamos por el mundo
       Gm          Eb
-Como Eneas y Benitin 
+Como Eneas y Benitin
            Bb            Dm
-Ya te encontré varios rasguños 
+Ya te encontré varios rasguños
           Gm          C
-Que te hicieron por ahí 
+Que te hicieron por ahí
         Eb
-Pero mi loco amor 
+Pero mi loco amor
          F
-Es tu mejor doctor 
- 
- 
+Es tu mejor doctor
+
+
 PRE-ESTRIBILLO
     Eb           Bb
-Voy a curarte el alma en duelo 
+Voy a curarte el alma en duelo
     Eb        Bb
-Voy a dejarte como nuevo 
+Voy a dejarte como nuevo
   Eb           D
-Y todo va a pasar 
+Y todo va a pasar
          Gm              C
-Pronto verás el sol brillar 
+Pronto verás el sol brillar
            Cm    F
-Tú más que nadie merece ser feliz 
- 
- 
+Tú más que nadie merece ser feliz
+
+
 ESTRIBILLO
 Bb       Dm       Eb
-Ya vas a ver como van sanando 
+Ya vas a ver como van sanando
        F
-Poco a poco tus heridas 
+Poco a poco tus heridas
 Bb       Dm       Eb
-Ya vas a ver como va 
+Ya vas a ver como va
     F           Dm   Gm     Cm      F
-La misma vida a decantar la sal que sobra del mar 
- 
- 
+La misma vida a decantar la sal que sobra del mar
+
+
 INSTRUMENTAL
 Bb Dm Eb F
 Bb Dm Eb F Dm Gm Cm F
- 
- 
+
+
 ESTROFA
                Bb            Dm
-Y aunque hayas sido un extranjero 
+Y aunque hayas sido un extranjero
          Gm          Eb
-hasta en tu propio país 
+hasta en tu propio país
          Bb         Dm
-Si yo te digo ¿qué dices tu? 
+Si yo te digo ¿qué dices tu?
        Gm            C
-Tu aún dices ¿que decís? 
+Tu aún dices ¿que decís?
          Eb                   F
-Y lloras de emoción oyendo un bandoneón 
- 
- 
+Y lloras de emoción oyendo un bandoneón
+
+
 PRE-ESTRIBILLO
       Eb          Bb             Eb      Bb
-Y aunque parezcas despistado con ese caminar pausado 
+Y aunque parezcas despistado con ese caminar pausado
   Eb          D             Gm          C
-Conozco la razón que hace doler tu corazón 
+Conozco la razón que hace doler tu corazón
         Cm      F
-Por eso quise hacerte esta canción 
- 
- 
+Por eso quise hacerte esta canción
+
+
 ESTRIBILLO
 Bb       Dm       Eb
-Ya vas a ver como van sanando 
+Ya vas a ver como van sanando
        F
-Poco a poco tus heridas 
+Poco a poco tus heridas
 Bb       Dm       Eb
-Ya vas a ver como va 
+Ya vas a ver como va
     F           Dm   Gm     Cm      F
-La misma vida a decantar la sal que sobra del mar 
- 
- 
+La misma vida a decantar la sal que sobra del mar
+
+
 [Repeat Chorus]
 Bb       Dm       Eb
-Ya vas a ver como van sanando 
+Ya vas a ver como van sanando
        F
-Poco a poco tus heridas 
+Poco a poco tus heridas
 Bb       Dm       Eb
-Ya vas a ver como va 
+Ya vas a ver como va
     F           Dm   Gm     Cm*     F*        Bb*
-La misma vida a decantar la sal que sobra del mar 
+La misma vida a decantar la sal que sobra del mar
 X
+

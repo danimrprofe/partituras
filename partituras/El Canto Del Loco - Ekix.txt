@@ -1,28 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: EKIX
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Capo 4
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Ekix
+Capo: 4
+Disco: 
+Afinación: 
 
-**************************************************
-*                                                *
-*            El Canto del Loco                  *
-*          Estados de Ánimo                      *
-*                                                *
-*                   Canción:                     *
-*                   Ekix	                 *
-*                                                *
-*              Afinación:                       *
-*        E  A  D  G  B  E                        *
-*                                                *
-**************************************************
 
 Capo 4
 
@@ -47,7 +28,7 @@ No tengo prisa por oir un sí
 C    G     D                  Cmaj7 B
 que diga ahora ya no nos separamos oooh
 Em   C      B  Em   C      B
-No tengo prisa por verte aquí 
+No tengo prisa por verte aquí
 C    G     D                      Cmaj7    B   Cmaj7 B
 Prefiero sólo pensar que algo ha nacido en mi
 
@@ -65,6 +46,7 @@ No tengo prisa por oir un sí
 C         G     D                 Cmaj7 B
       que diga ahora ya no nos separamos
 Em   C      B  Em   C      B
-No tengo prisa por verte aquí 
+No tengo prisa por verte aquí
 C         G     D                 Cmaj7 B   Cmaj7 B
 Prefiero sólo pensar que algo ha nacido en mi
+

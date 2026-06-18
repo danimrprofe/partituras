@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: ZAPATILLAS73
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Zapatillas
+Capo: No
+Disco: Zapatillas, 2005
+Afinación: Eb Ab Db Gb Bb Eb
+
 
 Artista:	El Canto del loco
 Disco:		Zapatillas, 2005
@@ -24,7 +18,7 @@ A    | E    | F   | E (Estoy cansado)
 -----+------+-----+--------
 A    | E    | F   | E (Rasgueo)
 A    | E    | F   | E
-A    | E    | F   | E Palm mute 
+A    | E    | F   | E Palm mute
 A    | E    | F   | E
 -----+------+-----+--------
 C    | G    | A   | G (Yo quiero entrar)
@@ -43,9 +37,9 @@ C    | G    | A   | G
 C    | G    | E   | E
 -----+------+-----+--------
 A    | E    | F   | E INST
-A    | E    | F   | E 
-A    | E    | F   | E 
-A    | E    | F   | E 
+A    | E    | F   | E
+A    | E    | F   | E
+A    | E    | F   | E
 -----+------+-----+--------
 A    | E    | F   | E (Y has aparcado...)
 A    | E    | F   | G
@@ -60,3 +54,4 @@ C    | G    | A   | G
 C    | G    | E   | E
 -----+------+-----+--------
 A
+

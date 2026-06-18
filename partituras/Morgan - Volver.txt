@@ -1,16 +1,9 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: MORGAN
-CANCIÓN: Volver
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Morgan
+Canción: Volver
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-D/F# = Re con bajo en fa sostenido. Cmaj7 según tu posición cómoda en el mástil.
-================================================================================
-
 INTRO
 G
 
@@ -51,3 +44,4 @@ Cmaj7                      Em
 Tienes algo dentro y si no paras de correr,
         G              D           G
 voy a dejarte y no voy a volver.
+

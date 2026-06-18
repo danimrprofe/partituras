@@ -1,48 +1,42 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: ERES TONTO22
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Eres Tonto
+Capo: No
+Disco: 
+Afinación: Eb Ab Db Gb Bb Eb
+
 
 ERES TONTO
 ==========
-Afinación: Eb Ab Db Gb Bb Eb
+Afinación: 	Eb Ab Db Gb Bb Eb
 
 -----+------+-----+--------
-F#m  | C#m     | F#m    | C#m 
-Bm   | C#m     | Bm C#m | F#m 
-F#m  | C#m     | F#m    | C#m 
-Bm   | C#m     | Bm C#m | F#m 
+F#m  | C#m     | F#m    | C#m
+Bm   | C#m     | Bm C#m | F#m
+F#m  | C#m     | F#m    | C#m
+Bm   | C#m     | Bm C#m | F#m
 -----+------+-----+--------
-Bm   | C#m     | Bm     | C#m 
+Bm   | C#m     | Bm     | C#m
 -----+------+-----+--------
 F#m  | Bm      | C#m    | -
 F#m  | Bm      | C#m    | -
-A E  | F#m C#m | D      | - 
+A E  | F#m C#m | D      | -
 A E  | F#m C#m | D      | C#
 -----+------+-----+--------
-F#m  | C#m     | F#m    | C#m 
+F#m  | C#m     | F#m    | C#m
 Bm   | C#m     | F#m    | C#m F#m
 -----+------+-----+--------
-Bm   | C#m     | Bm     | C#m 
+Bm   | C#m     | Bm     | C#m
 -----+------+-----+--------
 F#m  | Bm      | C#m    | -
 F#m  | Bm      | C#m    | -
-A E  | F#m C#m | D      | - 
+A E  | F#m C#m | D      | -
 A E  | F#m C#m | D      | E
 -----+------+-----+--------
-F#m  | A       | D      | Bm 
+F#m  | A       | D      | Bm
 F#m  | A       | D      | C# E
 -----+------+-----+--------
-A E  | F#m C   | D      | - 
+A E  | F#m C   | D      | -
 A E  | F#m C#m | D      | C#
 -----+------+-----+--------
-F#m  | C#m     | F#m    | C#m 
+F#m  | C#m     | F#m    | C#m
 

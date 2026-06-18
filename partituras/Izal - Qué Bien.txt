@@ -1,16 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: IZAL
-CANCIÓN: Qué bien
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-A [X07655]   Bmaj7 [X07604]
-D* = acorde con variante / acento (opcional)
-================================================================================
+Artista: Izal
+Canción: Qué Bien
+Capo: 1
+Disco:
+Afinación: Estándar
 
 INTRO
 A  Bmaj7 D Dsus2
@@ -24,9 +16,11 @@ Qué bien que en mi cerebro se produzcan intercambios de información
        D
 Y a tiempo te pusiste en medio.
 
+INSTRUMENTAL
 A Bmaj7 D Dsus2
 A Bmaj7 D Dsus2
 
+ESTROFA
       A              Bmaj7         D      Dsus2
 Qué bien que con mis dedos note frío y tu calor
       A               Bmaj7            D
@@ -53,6 +47,7 @@ Sólo quedará sin probar un sentido,
 A           Amaj7              D         Bm Bm
 el del ridículo por sentirnos libres y vivos.
 
+INSTRUMENTAL
 A Bmaj7 D Dsus2
 A Bmaj7 D Dsus2
 
@@ -95,4 +90,3 @@ el del ridículo por sentirnos libres y vivos.
 
 FINAL
 A  Bmaj7 Bm  D (Fade)
-

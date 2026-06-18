@@ -1,15 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Shakira
-CANCIÓN: Pies descalzos sueños blancos
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Shakira
+Canción: Pies Descalzos Sueños Blancos
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 Chords Used:
 E     022100
 F#m   244222
@@ -21,17 +16,17 @@ A5    x022xx
 B5    x244xx
 C#m   x46654
 Dsus2 xx0230
- 
+
 ESTRIBILLO
 E       F#m          A
  Perteneciste a una raza antigua
     B                          E
-de pies descalzos y de suenos blancos.
+de pies descalzos y de sueños blancos.
          F#m         A
 Fuiste polvo, polvo eres piensa
        B                          A
 que el hierro siempre al calor es blando.
- 
+
    E
 e|----------------------------------------------|
 B|--4h5-5-5-5-5-5--4h5-5-5-5-5-5--4h5-5-5-5-5-5-|
@@ -39,23 +34,23 @@ G|--4-4-4-4-4-4-4--4-4-4-4-4-4-4--4-4-4-4-4-4-4-|
 D|----------------------------------------------|
 A|----------------------------------------------|
 E|----------------------------------------------|
- 
+
 e|-------------------|
 B|-10-10-10-9--------|
 G|-9--9--9--9-11-8-9-|
 D|-------------------|
 A|-------------------|
 E|-------------------|
- 
+
 ESTROFA
 E5     E5/D#       C#m
 Tu mordiste la manzana
                      A5
-y renunciaste al paraiso
+y renunciaste al paraíso
                        B5
 y condenaste a una serpiente
                           E5
-siendo tu el que asi lo quiso.
+siendo tu el que así lo quiso.
       E5/D#        C#m
 Por milenios y milenios
                  A5
@@ -64,27 +59,27 @@ permaneciste desnudo
 y te enfrentaste a dinosaurios
                        C#m
 bajo un techo y sin escudo.
- 
+
 PRE-ESTRIBILLO
            E
-Y ahora estas aqui
+Y ahora estas aquí
 C#m       E
 queriendo ser feliz,
 C#m              E
 cuando no te importo
       A    E    B
 un pepino tu destino.
- 
+
 ESTRIBILLO
 E       F#m          A
  Perteneciste a una raza antigua
     B                          E
-de pies descalzos y de suenos blancos.
+de pies descalzos y de sueños blancos.
          F#m         A
 Fuiste polvo, polvo eres piensa
        B                          A      E B
 que el hierro siempre al calor es blando.
- 
+
 ESTROFA
 E5     E5/D#          C#m
 Construiste un mundo exacto
@@ -102,22 +97,22 @@ las entradas, las salidas,
 los nombres y las medidas
                    C#m
 no me caben en los sesos.
- 
+
 PRE-ESTRIBILLO
           E
-Y ahora estas aqui
+Y ahora estas aquí
 C#m       E
 queriendo ser feliz,
 C#m              E
 cuando no te importo
       A    E    B
 un pepino tu destino.
- 
+
 ESTRIBILLO
 E       F#m          A
  Perteneciste a una raza antigua
     B                          E
-de pies descalzos y de suenos blancos.
+de pies descalzos y de sueños blancos.
          F#m         A
 Fuiste polvo, polvo eres piensa
        B
@@ -125,17 +120,17 @@ que el hierro siempre al calor es...
 E       F#m          A
  Perteneciste a una raza antigua
     B                          E
-de pies descalzos y de suenos blancos.
+de pies descalzos y de sueños blancos.
          F#m         A
 Fuiste polvo, polvo eres piensa
        B
 que el hierro siempre al calor es blando.
- 
+
 [Refrain]
 Dsus2
 Saludar al vecino
                   E
-acostarse a una hora, trabajar cada dia
+acostarse a una hora, trabajar cada día
                   Dsus2
 para vivir en la vida, contestar solo aquello
               B5
@@ -147,7 +142,7 @@ Cumplir con las tareas,
               A
 asistir al colegio.
                 B
-Que diria la familia
+Que diría la familia
                  E
 si eres un fracasado?
                 F#m
@@ -163,9 +158,9 @@ Las mujeres se casan
                  A
 siempre antes de treinta
                B
-si no vestiran santos
+si no vestirán santos
                        E
-y aunque asi no lo quieran
+y aunque í no lo quieran
                   F#m
 y en la fiesta de quince
                 A
@@ -173,6 +168,7 @@ es mejor no olvidar
              B
 una fina champaña
                      A E B
-y bailar bien el vals 
+y bailar bien el vals
                      A B E
 y bailar bien el vals.
+

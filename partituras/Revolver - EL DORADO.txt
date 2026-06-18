@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Revolver
-CANCION: EL DORADO -
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Revolver
+Canción: EL DORADO
+Capo: No
+Disco: 
+Afinación: 
+
 
 REVOLVER - EL DORADO
 REVOLVER
@@ -29,7 +23,7 @@ trabajaba y llegaba a casa siempre tarde
 una vez y otra vez treinta días al mes.
        C                Em7
 Cada noche después de estar ya acostado
-  Fmaj7                  C   C/B      
+  Fmaj7                  C   C/B
 la sentía abrir la puerta de mi cuarto
           Am                 G             F Em Dm7 C
 cambió el verme crecer por comer a diario
@@ -155,5 +149,4 @@ lo mejor de sus vidas dónde se ha quedado oh oh oh
 Vi a mis padres correr...
    C          G             C       F
 Vi a mis padres luchar
-
 

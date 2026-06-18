@@ -1,19 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Michelle Branch
-CANCION: IT'S YOU
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Michelle Branch
+Canción: It's You
+Capo: No
+Disco: 
+Afinación: 
+
 
 MICHELLE BRANCH - It's you
 Michelle Branch
-Capo on 4th fret
 
 ESTROFA
       D    D/F#            G6
@@ -44,8 +37,4 @@ i would want just thing
 to kiss your quiet mouth
    D     D/F#              G6
 trace it's steps with my fingertips
-
-
-
-
 

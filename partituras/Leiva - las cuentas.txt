@@ -1,30 +1,16 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: LAS CUENTAS2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-# Las cuentas
+Artista: Leiva
+Canción: las cuentas
+Capo: No
+Disco: Diciembre
+Afinación: 
+ALBUM: Diciembre
+AÑO: 2012
 
 **Información**
 
-| Tonalidad | Tempo | Compás | Capo |
-| --------- | ----- | ------ | ---- |
-| La Mayor  | X bpm | 4/4    | No   |
-
 INTRO
-```
 A      Asus  A     Asus  A
-```
 ESTROFA
-```
 A
 Ya sólo quedan los demonios,
         D
@@ -42,9 +28,7 @@ Prenderé fuego al colchón,
        F#m         E      D
 que reventó nuestros otoños.
 
-```
 ESTRIBILLO
-```
 
            A          E          D   (D*)
 ¿Por qué no existen tumbas de dos?,
@@ -57,14 +41,9 @@ queremos lo que envenena.
          E                    A
 Y así nunca, nos salen las cuentas.
 
-```
-
 SOLO
-```
 A
-```
 ESTROFA
-```
 A
 Ya no nos saca nadie a hombros,
          D
@@ -82,9 +61,7 @@ Me agarré a la inspiración,
          F#m     E       D
 que me dejó nuestros demonios.
 
-```
 ESTRIBILLO
-```
 
            A          E          D   (D*)
 ¿Por qué no existen tumbas de dos?,
@@ -97,14 +74,10 @@ queremos lo que envenena.
          E                    A
 Y así nunca, nos salen las cuentas.
 
-```
 SOLO 2
-```
 F       C       Bm       E
 
-```
 ESTRIBILLO
-```
 
            A          E          D   (D*)
 ¿Por qué no existen tumbas de dos?,
@@ -122,5 +95,4 @@ Dm              A
 nos salen las cuentas.
 
 Dm     A
-```
 

@@ -1,28 +1,21 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: The Fray
-CANCION: YOU FOUND ME
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: The Fray
+Canción: You Found Me
+Capo: 4
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 4
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
 THE FRAY
 YOU FOUND ME
-CAPO 4
 INTRO
- 
+
 Em C  D  x2
- 
+
 (Start "I found God" at the end of C)
- 
- 
+
+
 ESTROFA
- 
+
 C              Em        D                    C
       I found God on the corner of First and Amistad
           Em        D       C
@@ -30,8 +23,8 @@ Where the west was all but won
 Em         D                C
 All alone, smoking his last cigarette
                  Em            D      C
-I said where you been, he said ask anything         
- 
+I said where you been, he said ask anything
+
            Em
 Where were you?
      D              C
@@ -46,10 +39,10 @@ And all I needed was a call
 That never came
        D                   C
 To the corner of First and Amistad
- 
- 
+
+
 ESTRIBILLO
- 
+
 Em         C      G             D
 Lost and insecure You found me, you found me
 Em       C         G           D
@@ -58,10 +51,10 @@ Em                C     G               D
 Why'd you have to wait? Where were you? Where were you?
 Em            C    G             D
 Just a little late You found me, you found me
- 
- 
+
+
 ESTROFA
- 
+
        Em  D                C
 In the end everyone ends up alone
        Em   D                      C
@@ -70,10 +63,10 @@ Losing her, the only one who's ever known
 Who I am, who I'm not, who I want to be
           Em       D                C
 No way to know how long she will be next to me
- 
- 
+
+
 ESTRIBILLO
- 
+
 Em         C      G             D
 Lost and insecure You found me, you found me
 Em       C         G           D
@@ -82,10 +75,10 @@ Em                C     G               D
 Why'd you have to wait? Where were you? Where were you?
 Em            C    G             D
 Just a little late You found me, you found me
- 
- 
+
+
 PUENTE
- 
+
 D         C                 D
 For early morning, the city breaks
               C
@@ -96,15 +89,15 @@ And you never left me no messages
 You never send me no letters
                          D               C
 You got some kind of nerve, taking all I want
- 
- 
+
+
 ESTRIBILLO
- 
+
 Em         C      G             D
 Lost and insecure You found me, you found me
 Em       C         G               D
 Lying on the floor Where were you, Where were you
- 
+
 Em         C      G             D
 Lost and insecure You found me, you found me
 Em       C         G           D
@@ -113,11 +106,10 @@ Em                C     G               D
 Why'd you have to wait? Where were you? Where were you?
 Em            C    G             D
 Just a little late You found me, you found me
- 
- 
+
+
 OUTRO
- 
+
 Em                C     G          D
 Why'd you have to wait? to find me to find me
-
 

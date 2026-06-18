@@ -1,19 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Simple Plan
-CANCION: IM JUST A KID
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Simple Plan
+Canción: Im Just a Kid
+Capo: No
+Disco: 
+Afinación: 
+
 
 ono: Db
 C#– F#– G#– F#
-
 
 ESTROFA
   C#                F#
@@ -33,7 +26,6 @@ When you're spending every day on your own
 
 And here it goes ..
 
-
 ESTRIBILLO
 C#          F#        G#
 I'm just a kid and life is a nightmare
@@ -46,10 +38,8 @@ Is havin' more fun than me
 
 Tonight
 
-
 INTERLUDIO
 C#– F#– G#– F#
-
 
 ESTROFA
             C#               F#
@@ -69,7 +59,6 @@ And they're gonna leave me here on my own
 
 And here it goes
 
-
 ESTRIBILLO
 C#          F#        G#
 I'm just a kid and life is a nightmare
@@ -80,22 +69,20 @@ Nobody cares  cause I'm alone and the world
 D#m             F#      G#
 Is havin' more fun than me
 
-
 PUENTE
 F#
 What the fuck is wrong with me?
-  G#               
+  G#
 Dont fit in with anybody
 C#                  G# C#    F#– C#
 How did this happen to me?
-F#                           G#          C#  
+F#                           G#          C#
 Wide awake, I'm bored and I can't fall asleep
     D#m                                  G#
 And every night is the worst night ever
 
 C#– F#– G#– F#
 I'm just a kid (just a kid) x5
-
 
 ESTRIBILLO
 C#           F#      G#
@@ -123,3 +110,4 @@ F#– G#– C#– A#m– F#– G# –
 - G#– F#
 I'm all alone ...Tonight
 Nobody cares...
+

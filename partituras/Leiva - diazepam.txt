@@ -1,23 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: DIAZEPAM2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: diazepam
+Capo: No
+Disco: Cuando te muerdes el labio
+Afinación: 
+ALBUM: Cuando te muerdes el labio
+AÑO: 2021
 
-# Diazepam
-
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 4    |
-
-```
 INTRO
 | C | Dm7 | G7sus4 | Cadd9 |
 
@@ -98,6 +86,4 @@ Dm          G7        Cadd9
 Hasta que me quede sin voz
 Dm          G7        Fmaj7    G6   Fmaj7 G6 C
 Hasta que me quede sin voz, sin voz.
-
-```
 

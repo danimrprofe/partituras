@@ -1,24 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: QUECAROESELTIEMPO2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-# Que caro es el tiempo
-
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-| Mi mayor  | Estándar  | 4/4    | 4    |
+Artista: Dani Martín
+Canción: quecaroeseltiempo
+Capo: No
+Disco: 
+Afinación: 
 
 
-```
 ESTROFA
 C                        G           D
 Hoy miro vuestras caras veo que la vida pasa
@@ -63,4 +49,3 @@ C        D               Em              G
 C        D                  G         D                  Em   D
  Un niño,  sin miedo, que regala su cariño y no sabe porqué
 
-```

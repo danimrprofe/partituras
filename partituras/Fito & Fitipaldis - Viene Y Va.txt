@@ -1,17 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: VIENE Y VA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Fito & Fitipaldis
+Canción: Viene Y Va
+Capo: No
+Disco: 
+Afinación: 
 
-FITO & FITIPALDIS 
+
+FITO & FITIPALDIS
 VIENE Y VA
 
 ESTROFA
@@ -28,23 +22,23 @@ Buscar la música entre tanto ruido
 F                       G            C
 No puedo escuchar, no puedo escuchar...
 
-F                                                                    
-Un día la suerte entro por mi ventana. 
-Am                 C  
+F
+Un día la suerte entro por mi ventana.
+Am                 C
 Vino una noche se fue una mañana
 G           F                  C
 Quizás solamente me vino a enseñar
 
 ESTRIBILLO
-     F      G						      
-Que viene y va, como las olas con el mar se mueven.  
+     F      G
+Que viene y va, como las olas con el mar se mueven.
       F     C
 Que viene y va, como una idea como el Estribillo...
-     F      G						           
-Que viene y va, como un recuerdo como un espejismo. 
+     F      G
+Que viene y va, como un recuerdo como un espejismo.
       F     C
-Que viene y va, igual que los problemas por la noche. 
-G                 F                   Am                     
+Que viene y va, igual que los problemas por la noche.
+G                 F                   Am
 que todos pueden tener y nadie puede guardar.
 F            G        C
 Que viene y va...
@@ -53,7 +47,7 @@ ESTROFA
 C
 De tanto hacerlo sin parar
 G
-Me acostumbré a respirar 
+Me acostumbré a respirar
 F          G              C
  Y a derrochar el aire fresco.
 C                                      G
@@ -63,23 +57,23 @@ Y cada vez que estás que te echaré de menos
      G                 C
 Y  vuelvo a respirar, vuelvo a respirar.
 
-F                                                                    
-Un día la suerte entro por mi ventana. 
-Am                 C  
+F
+Un día la suerte entro por mi ventana.
+Am                 C
 Vino una noche se fue una mañana
 G           F                  C
 Quizás solamente me vino a enseñar
 
 ESTRIBILLO
-     F      G						      
-Que viene y va, como las olas con el mar se mueven.  
+     F      G
+Que viene y va, como las olas con el mar se mueven.
       Am     G
 Que viene y va, como una idea como el Estribillo...
-     F      C						           
-Que viene y va, como un recuerdo como un espejismo. 
+     F      C
+Que viene y va, como un recuerdo como un espejismo.
       Am     G
-Que viene y va, igual que los problemas por la noche. 
-G                 F                   Am                     
+Que viene y va, igual que los problemas por la noche.
+G                 F                   Am
 que todos pueden tener y nadie puede guardar.
 F            G        C
 Que viene y va...
@@ -88,28 +82,27 @@ INSTRUMENTAL
 
 G C G C x2
 
-F                                                                    
-Un día la suerte entro por mi ventana. 
+F
+Un día la suerte entro por mi ventana.
 Am                  C
 Vino una noche se fue una mañana
 G           F                  C
 Quizás solamente me vino a enseñar
 
 ESTRIBILLO
-     F      G						      
-Que viene y va, como las olas con el mar se mueven.  
+     F      G
+Que viene y va, como las olas con el mar se mueven.
       Am     G
 Que viene y va, como una idea como el Estribillo...
-     F      C						           
-Que viene y va, como un recuerdo como un espejismo. 
+     F      C
+Que viene y va, como un recuerdo como un espejismo.
       Am     G
-Que viene y va, igual que los problemas por la noche. 
-G                 F                   Am                     
+Que viene y va, igual que los problemas por la noche.
+G                 F                   Am
 que todos pueden tener y nadie puede guardar.
 F            G        C
 Que viene y va...
 
 FINAL
 G C G C x2
-
 

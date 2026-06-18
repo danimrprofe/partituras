@@ -1,19 +1,8 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: ICEBERG
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Estándar (E A D G B E)
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: ICEBERG
-================================================================================
+Artista: Leiva
+Canción: Iceberg
+Capo: No
+Disco:
+Afinación:
 
 ESTROFA
 D         G                     D                G
@@ -32,9 +21,9 @@ Limpias todas las huellas Después de un nuevo asesinato
 ESTRIBILLO
 Bm        A        G    Bm        A            G
 Y luego sales a bailar Lo pienso todo el puto rato
-F#m        Em                     A            D
-Quién te habrá robado un beso detràs De la fuente de los patos
-Bm G                  D       Bm G             D    
+F#m                             Em             A            D
+Quién te habrá robado un beso detrás De la fuente de los patos
+Bm G                  D       Bm G             D
 Ohh Oooh Todo está por empezar  Te he querido tanto
 Bm G          D      Bm G          D
 No he sabido calibrar Todos tus encantos

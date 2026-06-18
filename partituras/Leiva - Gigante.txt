@@ -1,21 +1,15 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: GIGANTE
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: Gigante
+Capo: No
+Disco: Gigante
+Afinación: 
+ALBUM: Gigante
+AÑO: 2025
 
 INTRO
 C Bb F x2
 
 ESTROFA
- 
          C                      Bb F
 Otro agujero más en el cinturón
         C                                     Bb F
@@ -32,7 +26,7 @@ A descifrar sueños pasajeros y extraños
 Creo que ahora entendí que nuestra historia de amor
            C                          Bb F
 Es lo que todos pasan una vida buscando
- 
+
                      C   Bb
 A veces noto un temblor
 F             C    Bb
@@ -69,7 +63,7 @@ Soy un lobo solitario
 Si sigo hablando de ti
                       Bb             F
 me meteré en un baño y me acabaré tocando
- 
+
                      C   Bb
 A veces noto un temblor
 F             C    Bb
@@ -78,7 +72,7 @@ F                         C  Bb
 Me está arrancando un rencor
 F            C     Bb F
 Un rencor gigante
- 
+
 C
 Chupando cuarzo
                      Bb                   F
@@ -111,7 +105,7 @@ Solo necesitan un iPhone
 En el peor subsuelo emocional a veces
    Bb                   F
 Encuentras el impulso exacto
- 
+
                      C   Bb
 A veces noto un temblor
 F             C    Bb
@@ -128,3 +122,4 @@ F                         C  Bb
 Me está arrancando un rencor
 F            C     Bb F
 Un rencor gigante
+

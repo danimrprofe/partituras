@@ -1,21 +1,15 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Extremoduro
-CANCION: LA REALIDAD
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Extremoduro
+Canción: La Realidad
+Capo: No
+Disco: 
+Afinación: 
+
 
 INTRO
 C D
 G Em Bm C D
 G Em Bm D
- 
+
 ESTROFA
 G                   Em         Bm
 Agazapado, espero, como un arraclán,
@@ -25,7 +19,7 @@ G                         Em         Bm
 porque a la vida era lo único que le da
    D
 sentido.
- 
+
 G                      Em         Bm
 Acostumbrado a escapar de la realidad,
                   C       D
@@ -34,7 +28,7 @@ G                    Em             Bm
 y envejecí cien años más de tanto andar
    D
 perdido.
- 
+
       G            F#m         Em
 Y me busco en la memoria el rincón
          D       C  D
@@ -43,11 +37,11 @@ donde perdí la razón.
 Y la encuentro donde se me perdió,
            D        C D
 cuando dijiste que no.
- 
+
 [Instrmental]
 G Em Bm C D
 G Em Bm D
- 
+
 ESTROFA
 G                    Em               Bm
 Hice un barquito de papel para irte a ver.
@@ -57,7 +51,7 @@ G                     Em       Bm
 No me preguntes cómo vamos a cruzar
     D
 el río.
- 
+
       G            F#m         Em
 Y me busco en la memoria el rincón
          D       C  D
@@ -66,7 +60,7 @@ donde perdí la razón.
 Y la encuentro donde se me perdió,
            D        C D
 cuando dijiste que no.
- 
+
      G
 Sin ser,
      F#m                 Em
@@ -85,7 +79,7 @@ ni dar
 la parte de dar que a mí me toca.
      D                    C
 Por eso no he dejado de andar
- 
+
 ESTRIBILLO
     G
 buscando mi destino,
@@ -99,11 +93,11 @@ Y a cobro revertido
 quisiera hablar contigo,
     Em     Bm   Am
 y, así, sintonizar.
- 
+
 [Instrmental]
 G Em Bm C D
 G Em Bm D
- 
+
 ESTROFA
          G
 Para contarte
@@ -121,11 +115,11 @@ si vengativos dioses nos condenarán,
 si, por Tutatis,
           Em                      Bm C D
 el cielo sobre nuestras cabezas caerá.
- 
+
 [Instrmental]
 G Em Bm C D
 G Em Bm C D
- 
+
 ESTRIBILLO
     G
 buscando mi destino,
@@ -139,7 +133,7 @@ Y a cobro revertido
 quisiera hablar contigo,
     Em     Bm   Am
 y, así, sintonizar.
- 
+
 [Instrmental]
 G Em Bm C D
 G Em Bm C D
@@ -149,3 +143,4 @@ E A
 E A
 E A
 E A
+

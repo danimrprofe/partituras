@@ -1,31 +1,23 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: PARA SIEMPRE35
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: El Canto Del Loco
+Canción: Para Siempre
+Capo: 1
+Disco: 
+Afinación: estándar
 CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
 Afinación estándar
 
-Capo 1
-
  C            Am      F                   G
 
- C                     Am                 Dm7                  
+ C                     Am                 Dm7
 Hoy estoy llorando y sé que mientras tanto tu
                           F
 ya no piensas en ser la niña
                  Fm
 que hace tiempo fuiste
-        G          
+        G
 y que hiciste este
- C                  Am                 Dm7                  
+ C                  Am                 Dm7
 Dolor solo quiero volver a ver esa ilusión
                   F                        Fm
 en esos ojos que antes me enseñaban y me muestran
@@ -40,11 +32,10 @@ Am                         F     C         Dm7
 Vuelve a estar conmigo, vuelve a sonreír. vuelve a este camino,
 F      G                Am                     F          C
 vuelve para vivir y pienso en lo que perdido y siento lo que es sentir
-    Dm7                        F           G          
+    Dm7                        F           G
 que sepas que estoy dolido y  ya no voy a saber de ti.
 
-
- C                     Am                 Dm7    
+ C                     Am                 Dm7
 Hoy estoy tan solo y sé que sólo faltas tú
                 F                            Fm
 solo pienso en ser la causa que haga que te rías
@@ -61,9 +52,8 @@ Am                         F     C         Dm7
 Vuelve a estar conmigo, vuelve a sonreír. vuelve a este camino,
 F      G                Am                     F          C
 vuelve para vivir y pienso en lo que perdido y siento lo que es sentir
-    Dm7                        F           G          
+    Dm7                        F           G
 que sepas que estoy dolido y  ya no voy a saber de ti.
-
 
 C        A#        F
  Estoy llorando y se...
@@ -75,3 +65,4 @@ Estoy tan solo y sé...
 Ya no voy a saber de ti.
 C    A#   F    Fm
 Solo faltas tu.
+

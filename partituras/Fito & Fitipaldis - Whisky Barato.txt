@@ -1,18 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: WHISKY BARATO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-FITO & FITIPALDIS 
-WHISKY BARATO
+Artista: Fito & Fitipaldis
+Canción: Whisky Barato
+Capo: No
+Disco:
+Afinación:
 
 INTRO
 G G C G D G
@@ -57,7 +47,7 @@ Cada cual que baile su canción
 Tu destino dices ya está escrito
                             G
 El mío tengo que escribirlo yo
- 
+
 
 ESTROFA
           G
@@ -84,6 +74,3 @@ G G C G D G
 G G C G D G
 G G C G D G
 G G C G D G
-
-
-

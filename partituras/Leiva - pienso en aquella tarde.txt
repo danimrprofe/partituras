@@ -1,23 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: PIENSO EN AQUELLA TARDE2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: pienso en aquella tarde
+Capo: No
+Disco: 
+Afinación: 
 
-# Pienso en aquella tarde
-
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 2    |
-
-```
 INTRO
 e|----------3---------------------|
 B|----3-5-3-----------------------|
@@ -100,6 +86,4 @@ C                    Fmaj7       Am7               G
 Yo pienso en aquella tarde cuando me arrepentí de todo.
 C                    Fmaj7       Am7               G   C
 Yo pienso en aquella tarde cuando me arrepentí de todo.
-
-```
 

@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: CANCIONES -
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: CANCIONES
+Capo: No
+Disco: Zapatillas, 2005
+Afinación: Eb Ab Db Gb Bb Eb
+
 
 Artista:	El Canto del loco
 Disco:		Zapatillas, 2005
@@ -25,10 +19,10 @@ A    | B    | C#  | D
 A    | B    | F  | D
 A    | B    | C#  | D
 -----+------+-----+--------
-F#m  |      | Bm  | 
-D    |      | E   | 
-F#m  |      | Bm  | 
-D    |      | E   | 
+F#m  |      | Bm  |
+D    |      | E   |
+F#m  |      | Bm  |
+D    |      | E   |
 -----+------+-----+--------
 A    | E    | D   | E (Estribillo)
 A    | E    | D   | -
@@ -43,7 +37,7 @@ A    | B    | C#  | D (PM)
 A    | B    | C#  | D
 -----+------+-----+--------
 F#m  |      | Bm  | -
-D    |      | E   | - 
+D    |      | E   | -
 F#m  |      | Bm  | -
 D    |      | E   | -
 -----+------+-----+--------
@@ -61,3 +55,4 @@ A    | E    | D   | E (Estribillo)
 A    | E    | D   | -
 A    | E    | D   | E
 A    | E    | D   | -
+

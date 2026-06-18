@@ -1,28 +1,15 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: LOST2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Coldplay
+Canción: lost
+Capo: No
+Disco: 
+Afinación: 
 
-# Lost
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-| Sol Mayor | Estándar  | 4/4    | No   |
-
-```
 when you get to the first D in the chorus, try to play around
 with Dsus4(x00233) and Dsus?(x00235).
 Em7 can be replaced with Em.(022000)
 
-CHORUS RIFF:
+CHORUS RIFF
 This riff is played over the C and G at the end of the chorus.
 ("Oh and I'm just waiting til the shine wears off).
 
@@ -33,12 +20,9 @@ D|--------------|------------------|
 A|--------------|------------------|
 E|--------------|------------------|
 
-
-
 INTRO
 
  Em7   C   G   D     x2
-
 
 ESTROFA 1
 
@@ -51,7 +35,6 @@ Doesn't mean I'll stop
         D            Em7     C   G  D
 Doesn't mean I would cross
 
-
 ESTROFA 2
 
 Em7              C         G
@@ -62,7 +45,6 @@ Doesn't mean I'm hurt
 Doesn't mean I didn't get what I deserved
    D             Em7     C   G
 No better and no worse
-
 
 ESTRIBILLO
 
@@ -84,7 +66,6 @@ D|--------------|------------------|
 A|--------------|------------------|
 E|--------------|------------------|
 
-
 ESTROFA 3
 
 Em7             C         G
@@ -95,7 +76,6 @@ In a little pond
 Doesn't mean you've won
         C        G      D      Em7     C      G
 'Cause along may come a bigger one
-
 
 ESTRIBILLO
 
@@ -121,7 +101,6 @@ D|--------------|------------------|
 A|--------------|------------------|
 E|--------------|------------------|
 
-
 SOLO
 
 Em7+   C+   D+   Bm+     x4
@@ -132,7 +111,6 @@ G|-9-9-9-----------------------------------------------|
 D|-----------------------------------------------------|    x4
 A|-----------------------------------------------------|
 E|-----------------------------------------------------|
-
 
 OUTRO
 
@@ -153,7 +131,6 @@ D|--------------|------------------|
 A|--------------|------------------|
 E|--------------|------------------|
 
-
 Em7   C   G   D      |clearly two times
 Em7   C   G          |and then fading
-```
+

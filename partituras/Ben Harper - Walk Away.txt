@@ -1,18 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Ben Harper
-CANCION: WALK AWAY
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Ben Harper
+Canción: Walk Away
+Capo: No
+Disco: 
+Afinación: 
 
-BEN HARPER
-WALK AWAY
 G5    (3 X X 0 3 X)
 G5/F# (2 X X 0 3 X)
 G5/E  (0 X X 0 3 X)
@@ -69,7 +60,7 @@ We've tried the goodbye so many days
 We walk in the same direction, so that we could never stray
       Am                  Em                  G5              D/F#
 They say if you love somebody, then you have got to set them free
-    Am                 Em                 D/F#                     G5 G5/F# G5/E 
+    Am                 Em                 D/F#                     G5 G5/F# G5/E
 But I would rather be locked to you, than live in this pain and misery
 G5/F#
 
@@ -100,6 +91,4 @@ Walk away
 Just walk on, walk on, turn and head for the door
             G5 G5/F# G5/E G5/F#
 Just walk away
- 
-
 

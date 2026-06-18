@@ -1,16 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Rosana
-CANCION: LLEGAREMOS A TIEMPO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla (o según comodidad para el transporte)
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
+Artista: Rosana
+Canción: Llegaremos a Tiempo
+Capo: No
+Disco: 
+Afinación: Estándar (E A D G B E)
 ================================================================================
 ARTISTA: ROSANA
 CANCIÓN: LLEGAREMOS A TIEMPO

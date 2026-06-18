@@ -1,32 +1,26 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: PARA TODA LA VIDA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Fito & Fitipaldis
+Canción: Para Toda La Vida
+Capo: No
+Disco: 
+Afinación: 
 
-FITO & FITIPALDIS 
+
+FITO & FITIPALDIS
 PARA TODA LA VIDA
-G                            C			                                                     
-Cuando estuviste conmigo, jamás te dije mentira, 
+G                            C
+Cuando estuviste conmigo, jamás te dije mentira,
 G                                C
-quería tenerte en mis brazos. pero por toda la vida. 
- F                        C	
-Y tú querías aventura, tomaste muy mal camino 
+quería tenerte en mis brazos. pero por toda la vida.
+ F                        C
+Y tú querías aventura, tomaste muy mal camino
          G           C
 ibas buscando basura en un terreno barrido.
 
 ESTRIBILLO
-       F                            C		                	
-Yo le doy mi querer al querer y lo doy para toda la vida. 
-       G                           C                            
-Si quisiera vivir de placer me buscaba un amor de cantina. 
+       F                            C
+Yo le doy mi querer al querer y lo doy para toda la vida.
+       G                           C
+Si quisiera vivir de placer me buscaba un amor de cantina.
        F                            C
 Yo le doy mi querer al querer y lo doy para toda la vida.
 
@@ -40,23 +34,22 @@ Tendrás el mundo en tus manos, tendrás montones de besos
 si a todos tienes llorando, conmigo tocaste hueso.
 
 ESTRIBILLO
-       F                            C		                	
-Yo le doy mi querer al querer y lo doy para toda la vida. 
-       G                           C                            
-Si quisiera vivir de placer me buscaba un amor de cantina. 
+       F                            C
+Yo le doy mi querer al querer y lo doy para toda la vida.
+       G                           C
+Si quisiera vivir de placer me buscaba un amor de cantina.
        F                            C
 Yo le doy mi querer al querer y lo doy para toda la vida.
 
 C G x 8
 
 ESTRIBILLO
-       F                            C		                	
-Yo le doy mi querer al querer y lo doy para toda la vida. 
+       F                            C
+Yo le doy mi querer al querer y lo doy para toda la vida.
        G                           C                             F
-Si quisiera vivir de placer me buscaba un amor de cantina. Yo le doy mi 
+Si quisiera vivir de placer me buscaba un amor de cantina. Yo le doy mi
                        C
 querer al querer y lo doy para toda la vida.
     G                          G F C
-Si quisiera vivir de placer ¡ay! para toda la vida... 
-
+Si quisiera vivir de placer ¡ay! para toda la vida...
 

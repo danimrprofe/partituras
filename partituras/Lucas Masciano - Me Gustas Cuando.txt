@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Lucas Masciano
-CANCION: ME GUSTAS CUANDO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Lucas Masciano
+Canción: Me Gustas Cuando
+Capo: No
+Disco: 
+Afinación: 
+
 
 LUCAS MASCIANO - ME GUSTAS CUANDO
 lucas MASCIANO
@@ -49,7 +43,4 @@ Si me gustas cuando estás tan cansada de estar en mi cabeza no quiero que te pi
 Maldito corazón salvaje maldito corazón herido quiero vivir estando tan feliz contigo.
                        C           G                        B7      Em                       C                     G                  D
 Maldito corazón salvaje maldito corazón herido quiero vivir estando tan feliz contigo.
-
-
-
 

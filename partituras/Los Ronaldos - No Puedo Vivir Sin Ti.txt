@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Los Ronaldos
-CANCION: NO PUEDO VIVIR SIN TI
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Los Ronaldos
+Canción: No Puedo Vivir Sin Ti
+Capo: No
+Disco: 
+Afinación: 
+
 
 LOS RONALDOS - NO PUEDO VIVIR SIN TI
 Los Ronaldos
@@ -28,8 +22,8 @@ Debería estar cansado de tus manos, De tu pelo, de tus rarezas,
 Pero quiero más, yo quiero más.
 
 ESTRIBILLO
-           C                     E7                            
-No puedo vivir sin ti, No hay manera, 
+           C                     E7
+No puedo vivir sin ti, No hay manera,
            F                  E7   G7add13 C
 No puedo estar sin ti, No hay manera.
 C  C  E7  E7  F  F  E7  G7add13
@@ -45,13 +39,13 @@ Has colgado tu bandera, traspasado la frontera, Eres la reina,
 Siempre reinarás, siempre reinarás.
 
 ESTRIBILLO
-           C                     E7                            
-No puedo vivir sin ti, No hay manera, 
+           C                     E7
+No puedo vivir sin ti, No hay manera,
            F                  E7   G7add13 C
 No puedo estar sin ti, No hay manera.
 C  C  E7  E7  F  F  E7  G7add13
-           C					               
-Y ahora estoy aquí esperando a que vengan a buscarme, 
+           C
+Y ahora estoy aquí esperando a que vengan a buscarme,
 E7
 tú no te muevas,
          F                 E7    G7add13
@@ -60,9 +54,8 @@ NC
 Yo me quedo para siempre con mi reina y su bandera, Ya no hay fronteras,
 NC
 Me dejaré llevar a ningún lugar.
-           C                     E7                            
-No puedo vivir sin ti, No hay manera, 
+           C                     E7
+No puedo vivir sin ti, No hay manera,
            F                  E7   G7add13 C
 No puedo estar sin ti, No hay manera.
-
 

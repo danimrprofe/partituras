@@ -1,24 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: PORTALES2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-# Portales
-
-| Tonalidad | Tempo | Compás | Capo |
-| --------- | ----- | ------ | ---- |
-|           | bpm   | 4/4    | No   |
-
-INTRO
-```
+Artista: Dani Martín
+Canción: portales
+Capo: 2
+Disco: 
+Afinación: 
+CEJILLA/CAPO: Capo 2
 
 INTRO
 G
@@ -80,4 +65,4 @@ Y acabar nuestro domingo follando como animales
 OUTRO
         G            D           G
 Y que queden tantas cosas que decir
-```
+

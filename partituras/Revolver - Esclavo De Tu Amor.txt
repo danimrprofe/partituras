@@ -1,22 +1,16 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Revolver
-CANCIÓN: ESCLAVO DE TU AMOR
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Revolver
+Canción: Esclavo De Tu Amor
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 REVOLVER - ESCLAVO DE TU AMOR
 REVÓLVER
-SIN CAPO
 
 INTRO
 G  C  Am  D
- 
+
 
 ESTROFA
 G                    Cadd9         G Cadd9
@@ -29,9 +23,9 @@ me la juego a cada instante ganador o perdedor
 por seguir siendo el esclavo de tu amor
         Am            D          G
 por seguir siendo el esclavo de tu amor.
- 
+
 G  C  Am  D
- 
+
 
 ESTROFA
 G                    Cadd9         G Cadd9
@@ -44,7 +38,7 @@ me la juego a cada instante ganador o perdedor
 por seguir siendo el esclavo de tu amor
         Am            D          G
 por seguir siendo el esclavo de tu amor.
- 
+
 
 ESTRIBILLO
 G              Cadd9       G Cadd9
@@ -57,7 +51,7 @@ no daré nada más bello ni mas dulce al corazón
 que seguir siendo el esclavo de tu amor
     Am             D            G     G D
 que seguir siendo el esclavo de tu amor
- 
+
 Em                                 G
 Y en la noche mientras duermes me despierto
 Em                              G  G7
@@ -68,12 +62,12 @@ y la vida se me escapa hasta tu cuerpo
 y le digo a dios que no hay nada mejor
     Am                D          G
 que seguir siendo el esclavo de tu amor
- 
+
 Instrumental
 
 G  C  Am  D
 G  C  Am  D
- 
+
 
 ESTRIBILLO
 Em                                 G
@@ -88,3 +82,4 @@ y le digo a dios que no hay nada mejor
 que seguir siendo el esclavo de tu amor
       Am               D           G Cadd9 G
 que seguir siendo el esclavo de tu amor
+

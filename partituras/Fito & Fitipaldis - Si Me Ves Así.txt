@@ -1,19 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: SI ME VES ASÍ
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: Fito & Fitipaldis
+Canción: Si Me Ves Así
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-FITO & FITIPALDIS 
+FITO & FITIPALDIS
 SI ME VES ASÍ
-Capo 3
 
 INTRO
 C G F C C G F
@@ -34,20 +27,20 @@ Que nos separe para evitar otra explosión
 
 ESTRIBILLO
                G             F       C
-Vuelvo a aquel bar donde te vi Para cantar el "pobre de mí".             G      	   	  F	 
-Ese es mi lugar. Allí soy feliz. 
-         C		                   G   C  G  
+Vuelvo a aquel bar donde te vi Para cantar el "pobre de mí".             G      	   	  F
+Ese es mi lugar. Allí soy feliz.
+         C		                   G   C  G
 Qué pensarías si me ves. Si me ves así. Oh-Oh
 
 ESTROFA
-           C                                                                  
+           C
 Nada funcionaba y me dejaba llevar
                   G
 Siempre que el demonio me obligaba a rezar
                       F               G                Am
-Algo que suena y se arrastra. Debo llevar colgando ilusión 
-         F				             
-Ríe todo lo que puedo no llorar 
+Algo que suena y se arrastra. Debo llevar colgando ilusión
+         F
+Ríe todo lo que puedo no llorar
               C
 Porque nada acaba, solo vuelve a empezar
               G
@@ -61,5 +54,4 @@ A# F C C Dm G C
 
 REPITE ESTRIBILLO
 FINAL: F C F AM
-
 

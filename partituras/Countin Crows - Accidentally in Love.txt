@@ -1,17 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Countin Crows
-CANCION: ACCIDENTALLY IN LOVE
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Countin Crows
+Canción: Accidentally in Love
+Capo: No
+Disco: 
+Afinación: 
 
-COUNTIN CROWS 
+
+COUNTIN CROWS
 ACCIDENTALLY IN LOVE
 
 INTRO
@@ -24,7 +18,7 @@ So she said what's the problem baby What's the problem I don't know
                    Em                           A
 Well maybe I'm in love (love) Think about it everytime I think about it
 C
-Can't stop thinking 'bout it 
+Can't stop thinking 'bout it
 G                         C
   How much longer will it take to cure this?
 G                          C                       Em
@@ -59,10 +53,10 @@ never ever end of all this love
 Well I didn't mean to do it
            D                C
 But there's no escaping your love   ahhhhh
- 
+
 Em              C                    G            Am
 These line of lightning mean we're never alone, never alone no no
- 
+
 c
 
 G        Am       C             D
@@ -89,7 +83,7 @@ Accidentally in love Accidentally in love
              G      C                Em D
 Accidentally in love Accidentally in love
              G      C                Em D
-Accidentally in love Accidentally in love 
+Accidentally in love Accidentally in love
              G                     C
 Accidentally, I'm in love, I'm in love
                      Em
@@ -102,7 +96,7 @@ Accidentally, I'm in love, I'm in love
 I'm in love, I'm in love
                      D
 I'm in love, I'm in love, accidentally
- 
+
 
 ESTRIBILLO
 G        Am         C             D
@@ -113,5 +107,4 @@ G        Am
 Come on, come on
      C              D        Em    D             G
 Just get yourself inside her love.....I'm in love
-
 

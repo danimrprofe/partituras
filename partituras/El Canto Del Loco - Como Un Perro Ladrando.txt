@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: COMO UN PERRO LADRANDO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Como Un Perro Ladrando
+Capo: No
+Disco: 
+Afinación: *
+
 
 **************************************************
 *                                                *
@@ -96,3 +90,4 @@ A
 perro ladrando
 D
 Guau uau uau uau uau
+

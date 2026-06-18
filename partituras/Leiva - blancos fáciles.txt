@@ -1,31 +1,18 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: BLANCOS FÁCILES2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: LEIVA feat. Nina de Juan
+Canción: blancos fáciles
+Capo: No
+Disco: Cuando te muerdes el labio
+Afinación: Estándar (E A D G B E)
+ALBUM: Cuando te muerdes el labio
+AÑO: 2021
 
-# Blancos fáciles
-
-Leiva ft. Nina de Juan
-
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | No    |
-
-```
+ESTROFA
 C
 Títeres en manos del nuevo poder
   G/B
 Esclavos de ladrones de datos
   Am
-Voyeur recluidos, fantasmas de la red
+Voyeur recluidos fantasmas de la red
  G
 Yonkis del placer inmediato
           F
@@ -41,6 +28,7 @@ Todos con el rifle cargado
         G  Am G/B     C
 Todo el mundo va armado
 
+ESTRIBILLO
  C              Em
 Hay un abismo detrás
                 Am       G           F
@@ -52,8 +40,9 @@ Mientras el mundo está normalizándolo
                       G              Am        Bm
 Me he vuelto a preguntar: son los demás o seré yo
 
-INSTRUMENTAL: C      F
+C      F
 
+ESTROFA
 C
 Zombies viviendo tres vidas a la vez
 G/B
@@ -74,6 +63,7 @@ Todos con el rifle cargado
         G  Am G/B     C
 Todo el mundo va armado
 
+ESTRIBILLO
 C                 Em
 Hay un abismo detrás
                   Am    G           F
@@ -85,14 +75,13 @@ Mientras el mundo está normalizándolo
                       G              Am       G/B
 Me he vuelto a preguntar: son los demás o seré yo
 
-INSTRUMENTAL: F  Am  G  G (x3)
-              F  Am  G  C
+INSTRUMENTAL
+F  Am  G  G (x3)
+F  Am  G  C
 
+OUTRO
 C                 Em
 Hay un abismo detrás
                   Am     G           C
 De los egos salvajes y blancos fáciles
-
-```
-
-
+X

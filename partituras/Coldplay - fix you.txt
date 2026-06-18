@@ -1,23 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: FIX YOU2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Coldplay
+Canción: fix you
+Capo: No
+Disco: 
+Afinación: 
 
-# Fixc you
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 3    |
-
-```
 INTRO
 C  Em  Am7  G  x2
 
@@ -90,11 +77,11 @@ I promise you I will learn from my mistakes.
 Am7          F                  C   G
 Tears stream, down your face and I (hold).
 
-**Estribillo** (single strumming)
+ESTRIBILLO (single strumming)
 F       C    G           F
 Lights will guide you home,
 F   C  G            F
 And ignite your bones,
 F      C   G               C
 And I will try to fix you.
-```
+

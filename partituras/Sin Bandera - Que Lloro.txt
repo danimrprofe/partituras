@@ -1,97 +1,64 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Sin Bandera
-CANCIÓN: QUE LLORO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-SIN BANDERA 
-QUE LLORO
-  D
-Quédate un momento así...
-                A
-no mires hacia mi, que no podré aguantar,
-                    F#m
-si clavas tu mirada, que me hiela el cuerpo,
-             E
-me ha pasado antes... que no puedo hablar.
- 
- D
-Tal vez pienses que estoy loco,
-                   A
-y es verdad un poco tengo que aceptar,
-                     F#m
-pero si no te explico lo que siento dentro,
-                 E
-no vas a entender cuando me veas llorar.
- 
- D
-Nunca me sentí tan solo,
-                  A
-como cuando ayer... de pronto lo entendí mientras callaba,
- F#m
-la vida me dijo a gritos...
-                 E
-que nunca te tuve y nunca te perdí,
-                     D
-y me explicaba... que el amor es una cosa,
-                   A
-que se da de pronto en forma natural, lleno de fuego,
-  F#m                                          E
-si lo fuerza se marchita, y sin tener principio llega a su FINAL.
- 
+Artista: Sin Bandera
+Canción: Que Lloro
+Capo: No
+Disco: 
+Afinación: Estandar
+
+  D                                    A                   Asus2
+Quédate un momento así no mires hacia mi, que no podré aguantar,
+                     F#m              F#m7                Esus4                    E
+si clavas tu mirada, que me hiela el cuerpo, me ha pasado antes... que no puedo hablar.
+  D                                          A                   Asus2
+Tal vez pienses que estoy loco, y es verdad un poco tengo que aceptar,
+                     F#m              F#m7              Esus4                    E
+pero si no te explico lo que siento dentro, no vas a entender cuando me veas llorar.
+
+  D                                     A                   Asus2
+Nunca me sentí tan solo, como cuando ayer... de pronto lo entendí mientras callaba,
+F#m               F#m7                Esus4               E
+la vida me dijo a gritos que nunca te tuve y nunca te perdí,
+  D                                                    A                   Asus2
+y me explicaba... que el amor es una cosa,que se da de pronto en forma natural, lleno de fuego,
+                     F#m              F#m7              Esus4                    E
+si lo fuerza se marchita, y sin tener principio llega a su final.
            D                                 E
 Ahora tal vez lo puedas entender, que si me tocas se quema mi piel,
           F#m                               E
 Ahora tal vez lo puedas entender, y no te vuelvas si no quieres ver...
 
 ESTRIBILLO
- 
-      D       E        Bm       E       D         E  
-Que lloro por ti, que lloro sin ti, que ya lo entendí... que no eras para 
+
+      D       E        Bm       E       D         E
+Que lloro por ti, que lloro sin ti, que ya lo entendí... que no eras para
         D
 mi, y lloro.
- 
-
-ESTROFA
- 
-      D       E        Bm       E       D         E  
-Que lloro por ti, que lloro sin ti, que ya lo entendí... que no eras para 
+      D       E        Bm       E       D         E
+Que lloro por ti, que lloro sin ti, que ya lo entendí... que no eras para
         D
 mi, y lloro.
 
-D
-Nunca me sentí tan solo,
-                  A
-como cuando ayer... de pronto lo entendí mientras callaba,
- F#m
-la vida me dijo a gritos...
-                 E
-que nunca te tuve y nunca te perdí,
-                     D
-y me explicaba... que el amor es una cosa,
-                   A
-que se da de pronto en forma natural, lleno de fuego,
-  F#m                                          E
-si lo fuerza se marchita, y sin tener principio llega a su FINAL.
- 
+  D                                    A                   Asus2
+Nunca me sentí tan solo, como cuando ayer... de pronto lo entendí mientras callaba,
+F#m               F#m7                Esus4                 E
+la vida me dijo a gritos...que nunca te tuve y nunca te perdí, y me explicaba... 
+  D                                    A                   Asus2
+Que el amor es una cosa, que se da de pronto en forma natural, lleno de fuego,
+F#m               F#m7                Esus4                   E
+si lo fuerza se marchita, y sin tener principio llega a su final.
+
            D                                 E
 Ahora tal vez lo puedas entender, que si me tocas se quema mi piel,
           F#m                               E
 Ahora tal vez lo puedas entender, y no te vuelvas si no quieres ver...
 
 ESTRIBILLO
- 
-      D       E        Bm       E       D         E  
-Que lloro por ti, que lloro sin ti, que ya lo entendí... que no eras para 
+
+      D       E        Bm       E       D         E
+Que lloro por ti, que lloro sin ti, que ya lo entendí... que no eras para
         D
 mi, y lloro.
-      D       E        Bm       E       D         E  
-Que lloro por ti, que lloro sin ti, que ya lo entendí... que no eras para 
+      D       E        Bm       E       D         E
+Que lloro por ti, que lloro sin ti, que ya lo entendí... que no eras para
         D
 mi, y lloro.
+

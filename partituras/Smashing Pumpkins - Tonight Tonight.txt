@@ -1,19 +1,13 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Smashing Pumpkins
-CANCIÓN: TONIGHT TONIGHT
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Smashing Pumpkins
+Canción: Tonight Tonight
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-SMASHING PUMPKINS 
+
+SMASHING PUMPKINS
 TONIGHT TONIGHT
 Smashing pumpkins
-Capo 4
  eb|---------------------------------|
  Bb|--0-----0---------0-----0--------|
  Gb|----0-----0---0-----0-----0---0--|
@@ -35,22 +29,22 @@ Capo 4
  C  G  D X2 C  G  D  G
 
 ESTROFA
-Fig. 1               Fig. 1			    Fig. 1                 
-Time is never time at all. You can never ever leave 
+Fig. 1               Fig. 1			    Fig. 1
+Time is never time at all. You can never ever leave
                           Fig. 2
 without leaving a piece of youth.
-Fig. 1               Fig. 1			    Fig. 1                                      
-And our lives are forever changed, we will never be the same; 
+Fig. 1               Fig. 1			    Fig. 1
+And our lives are forever changed, we will never be the same;
                         Fig. 2
 The more you change the less you feel.
 
 ESTRIBILLO
-Fig. 1    Fig.1         Fig.1       G  D/F#    Em          
-Believe, believe in me, believe (believe). 
+Fig. 1    Fig.1         Fig.1       G  D/F#    Em
+Believe, believe in me, believe (believe).
        Am                     C                 G D/F# Em
 That life can change, that you're not stuck in vain
-       Am                    C        
-We're not the same, we're different 
+       Am                    C
+We're not the same, we're different
  Cadd9 G/B D             Em                    Am
  ToniiiiiiiiiiiIIIight. Tonight, tonight, so bright
  Cadd9   G/B  D   Cadd9 G/B D     G
@@ -58,14 +52,14 @@ We're not the same, we're different
  G  Em G E
 
 ESTROFA
-G					                                          
-And you know you're never sure. 
+G
+And you know you're never sure.
                 Em
 But you're sure you could be right
 
 If you held yourself up to the light
 G                                             Em
-And the embers never fade in your city by the lake.  
+And the embers never fade in your city by the lake.
 
 The place where you were born.
 
@@ -74,9 +68,9 @@ Fig. 1    Fig.1         Fig.1       G  D/F#    Em
  Believe, believe in me, believe (believe)
          Am        C         G D/F# Em
  In the resolute urgency of now
-         Am                  C           
- And if you believe there's not a chance 
-C G D         C G D       C G D     
+         Am                  C
+ And if you believe there's not a chance
+C G D         C G D       C G D
 ToniiiiiiiiiiiIIIight. ToniiiiiiiiiiiIIIight
 Em             Am
 Tonight, so bright
@@ -98,3 +92,4 @@ The impossible is possible tonight (tonight)
 Believe in me as I believe in you.... tonight.
  Fig. 1            Fig.1      G   D/F#   Em
  Tonight tonight, tonight, tonight.
+

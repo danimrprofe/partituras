@@ -1,17 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: A Great Big World
-CANCION: SAY SOMETHING
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: A Great Big World
+Canción: Say Something
+Capo: No
+Disco: 
+Afinación: 
 
-A GREAT BIG WORLD 
+
+A GREAT BIG WORLD
 SAY SOMETHING
 
 INTRO
@@ -20,7 +14,7 @@ Asus4
 
 ESTROFA
 Bm              G                D A4  Bm           G                D Say something, I'm giving up on you. I'll be the one, if you want me to
- Asus4 
+ Asus4
 Bm        G                    D A4 Bm             G                 D A4
 Anywhere, I would've followed you.  Say something, I'm giving up on you
 
@@ -46,5 +40,4 @@ Bm       G                    D A4 Bm             G                 D
 Anywhere, I would've followed you. Say something, I'm giving up on you
 Bm             G                 D
 Say something, I'm giving up on you
-
 

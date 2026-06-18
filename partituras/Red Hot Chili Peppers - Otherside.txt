@@ -1,28 +1,21 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Red Hot Chili Peppers
-CANCION: OTHERSIDE
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Red Hot Chili Peppers
+Canción: Otherside
+Capo: No
+Disco: 
+Afinación: E A D G B E
+
 
 Afinación:
 E A D G B E
 Tonalidad:
 Am
-Cejilla:
 sin cejilla
 Strumming pattern: D DU UDU
 * = play the strumming pattern x2 on this chord
- 
+
 INTRO
 Am   F   C   G
- 
+
 ESTRIBILLO
 Am             F           C
  How long, how long will I slide?
@@ -32,7 +25,7 @@ Separate my siiii-iiide
 I don't, don't believe it's baaa-aaad
 C                       G
 Slittin' my throat it's all I ever
- 
+
 ESTROFA 1
 Am                              Em
    I heard your voice through a photograph
@@ -42,7 +35,7 @@ Am                       Em
    Once you know you can never go back
             G              A*
 I've got to take it on the otherside
- 
+
 ESTROFA 2
 Am                      Em
   Centuries are what it meant to me
@@ -58,7 +51,7 @@ G*
 Take it on
 A*
 Take it on
- 
+
 ESTRIBILLO
 Am             F           C
  How long, how long will I slide?
@@ -68,7 +61,7 @@ Separate my siiii-iiide
 I don't, don't believe it's baaa-aaad
 C                       G
 Slittin' my throat it's all I ever
- 
+
 ESTROFA 3
 Am                    Em
   Pour my life into a paper cup
@@ -78,7 +71,7 @@ Am                       Em
   She wants to know am I still a slut
             G              A*
 I've got to take it on the otherside
- 
+
 ESTROFA 4
 Am                          Em
   Scarlet starlet and she's in my bed
@@ -94,7 +87,7 @@ G*
 Take it on
 A*
 Take it on
- 
+
 ESTRIBILLO
 Am             F           C
  How long, how long will I slide?
@@ -104,11 +97,11 @@ Separate my siiii-iiide
 I don't, don't believe it's baaa-aaad
 C                       G
 Slittin' my throat it's all I ever
- 
+
 INSTRUMENTAL
 Em* - C*
 Em* - C*
- 
+
 PUENTE
 Em*
   Turn me on take me for a hard ride
@@ -118,10 +111,10 @@ Em*
   I yell and tell it that it's not my friend
 C*
   I tear it down I tear it down, and then it's born again
- 
+
 [Guitar Solo]
 Am   F   C   G
- 
+
 ESTRIBILLO
 Am              F           C
   How long, how long will I slide?
@@ -131,8 +124,9 @@ Separate my siiii-iiide
 I don't, don't believe it's baaa-aaad
 C                       G
 Slittin' my throat it's all I ever
- 
+
 Am   F       C      G                  Am    F
 Haaa-aaad, I don't, don't believe it's saaa-aaad
 C                        G          Am
 Slitting my throat, it's all I ever
+

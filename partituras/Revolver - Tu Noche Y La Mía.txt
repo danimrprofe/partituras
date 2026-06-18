@@ -1,25 +1,18 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Revolver
-CANCION: TU NOCHE Y LA MÍA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Revolver
+Canción: Tu Noche Y La Mía
+Capo: No
+Disco: 
+Afinación: 
 
-REVOLVER 
+
+REVOLVER
 TU NOCHE Y LA MÍA
-SIN CAPO
 
 INTRO
 D A G
 
 ESTROFA
- 
+
    D                A                  G
 Quizás sea mejor que deje de buscar en el aire la razón
            D                    A                    G
@@ -40,7 +33,7 @@ Y mientras pasen los días teñidos de azul,
 y queme mi cara el viento del sur,
 Em                  A                   D  A  G
 siempre será aquella noche tu noche y la mía.
- 
+
 
 ESTROFA
          D            A                 G
@@ -55,7 +48,7 @@ soy de esa clase de hombres que suelen llorar
 Y aunque vivo hasta el FINAL, nunca encuentro mi mitad
 
 ESTRIBILLO
- 
+
 D                   A               G
 Quiero que sea esta noche tu noche y la mía
 D                   A                 G   F#m
@@ -66,7 +59,7 @@ Y mientras pasen los días teñidos de azul,
 y queme mi cara el viento del sur,
 Em                  A                   D  A
 siempre será aquella noche tu noche y la mía.
- 
+
 Em                  G                D   A
 Hoy me despierto borracho de celos por ti
 Em                      G             A               D A G
@@ -75,7 +68,7 @@ hoy miro el cielo y el cielo mi amor se sigue riendo de mí...
 INSTRUMENTAL
 D A G
 Em A G A Em A D A
- 
+
 Em                  G                D   A
 Hoy me despierto borracho de celos por ti
 Em                      G             A              B
@@ -92,13 +85,11 @@ Y mientras pasen los días teñidos de azul,
 y queme mi cara el viento del sur,
 F#m                 B                  E  B A
 siempre será aquella noche tu noche y la mía.
- 
+
                  E B A
 Que no olvidaré
                   E B A
 Tu noche y la mía
- 
+
 E B A
-
-
 

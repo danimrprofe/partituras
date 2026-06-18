@@ -1,17 +1,8 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: SINCERICIDIO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-LEIVA - SINCERICIDIO
-
+Artista: Leiva
+Canción: Sincericidio
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 Am C Am C  x2
 
@@ -25,7 +16,7 @@ Sólo me sale a mí, nunca lo dije en alto
 Dm              G
 Pero basta de fingir
 
-Dm             F  
+Dm             F
 Te quiero, te quiero
 
 ESTRIBILLO
@@ -37,9 +28,8 @@ Te quiero con las alas rotas, aunque no haya explicación
 Te quiero a reventar la boca, te quiero aunque no vuelvas hoy
      Am                                G
 Te quiero como tantas cosas ,que no tienen solución
- 
+
 Am C F E
- 
 
 ESTROFA
 Am             E            F               C
@@ -50,10 +40,9 @@ G              Am     F                C
 Quiero dejarlo así, nunca lo dije en alto
 Dm              G
 Pero basta de fingir
- 
+
 Dm             F  G
 Te quiero, te quiero
- 
 
 ESTRIBILLO
      C                             Em
@@ -69,7 +58,6 @@ Instrumental
 
 F Dm Am G F
 Dm F G
- 
 
 ESTRIBILLO
      C                             Em
@@ -83,3 +71,4 @@ Te quiero como tantas cosas ,que no tienen solución
 
 FINAL
 Am C Am C E Am
+

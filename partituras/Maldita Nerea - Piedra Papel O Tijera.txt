@@ -1,20 +1,13 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Maldita Nerea
-CANCION: PIEDRA PAPEL O TIJERA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Maldita Nerea
+Canción: Piedra Papel O Tijera
+Capo: No
+Disco: 
+Afinación: 
+
 
 C D Em D
 C D Em D
 C D Em D
-
 
 G           D            C            D          Em
 Ya ves? yo enciendo la puerta, tú me cierras la luz
@@ -108,15 +101,16 @@ Y le damos mil vueltas, y siempre sale cruz.
 
 G D C D Em Bm C D
 Billo, ¿sabes?...¿sabes qué te digo? Si no la llenas tú, no?
-G D C D 
+G D C D
 si no la llenas tú no la llena cualquiera.
 Em Bm C D
 Y yo? yo, me he pasado buscándote una vida entera.
-G D C D 
+G D C D
 Cansadito estaba de tener que buscar.
 Em Bm C D
 Por las calles, los sueños, la tierra el mar?
-G D C D 
+G D C D
 si no la llenas tú, no? si no la llenas tú no la llena cualquiera.
 Em Bm C D
 Y no quiero más piedra, papel o tijera.
+

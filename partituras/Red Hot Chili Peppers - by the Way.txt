@@ -1,19 +1,13 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Red Hot Chili Peppers
-CANCION: BY THE WAY
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Red Hot Chili Peppers
+Canción: by the Way
+Capo: No
+Disco: 
+Afinación: 
+
 
 INTRO
 F C Am
- 
+
 ESTRIBILLO
 F                           C
 Standing in line to see the show tonight
@@ -25,8 +19,8 @@ F                        C
 Dani the girl is singing songs to me
             Am
 Beneath the marquee, overload
- 
-[Verse 1]***
+
+ESTROFA 1***
 Dm
 Steak knife
 Dm
@@ -35,7 +29,7 @@ Dm
 Con job
 Dm
 Boot cut
- 
+
 Dm
 Skin that flick, she's such a little DJ
 Dm
@@ -44,7 +38,7 @@ Dm
 Turn that trick to make a little leeway
 Dm
 Beat that nic but not the way that we play
- 
+
 Dm
 Dog town
 Dm
@@ -53,7 +47,7 @@ Dm
 Rib cage
 Dm
 Soft tail
- 
+
 ESTRIBILLO
 F                           C
 Standing in line to see the show tonight
@@ -62,8 +56,8 @@ And there's a light on, heavy glow
 F            C                Am        Bb
 By the way I tried to say I'd be there, waiting for
 Page 1/3
- 
-[Verse 2]***
+
+ESTROFA 2***
 Dm
 Black jack
 Dm
@@ -72,7 +66,7 @@ Dm
 Pawn shop
 Dm
 Quick pick
- 
+
 Dm
 Kiss that dyke, I know you want to hold one
 Dm
@@ -81,7 +75,7 @@ Dm
 Bite that mic, I know you never stole one
 Dm
 Girls that like a story so I told one
- 
+
 Dm
 Song bird
 Dm
@@ -90,7 +84,7 @@ Dm
 Cash back
 Dm
 Hard top
- 
+
 ESTRIBILLO
 F                           C
 Standing in line to see the show tonight
@@ -104,7 +98,7 @@ Dani the girl is singing songs to me
 Beneath the marquee... of her soul
 F            C                Am
 By the way I tried to say I'd be there, waiting for
- 
+
 [Interlude]***
 Dm
 Ooh ahh, 'guess you never meant it
@@ -123,7 +117,7 @@ Dm
 Ooh ahh, 'guess you never meant it
 Dm
 Ohh ahh
- 
+
 ESTRIBILLO
 F                           C
 Standing in line to see the show tonight
@@ -137,7 +131,7 @@ Dani the girl is singing songs to me
 Beneath the marquee, of her soul
 F            C              Am        Bb
 By the way I tried to say I know you, from before
- 
+
 OUTRO
 F                           C
 Standing in line to see the show tonight
@@ -145,6 +139,7 @@ Standing in line to see the show tonight
 And there's a light on, heavy glow
 F            C                Am        Bb         Dm
 By the way I tried to say I'd be there, waiting for
- 
- 
+
+
 ***play a pattern which invoves a lot of string muting
+

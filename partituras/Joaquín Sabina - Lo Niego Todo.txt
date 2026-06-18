@@ -1,47 +1,37 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: LO NIEGO TODO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-JOAQUÍN SABINA
-LO NIEGO TODO
+Artista: Joaquín Sabina
+Canción: Lo Niego Todo
+Capo: No
+Disco:
+Afinación:
 
 INTRO
 | E E/G#    | A      | C#m G#m/B | Amaj7 / B   |
 | Cdimm C#m | F# / A | Bsus B    | E Bsus7/E E |
 
 ESTROFA
-E                  E/G#       A                          		
-Ni ángel con alas negras, ni profeta del vicio. 
+E                  E/G#       A
+Ni ángel con alas negras, ni profeta del vicio.
 C#m                 G#m/B      A             A6 A
 Ni héroe en las barricadas, ni ocupa, ni esquirol
-B                           Cdimm      C#m			
-Ni rey de los suburbios, ni flor del precipicio. 
+B                           Cdimm      C#m
+Ni rey de los suburbios, ni flor del precipicio.
 A                Bsus          E
 Ni cantante de orquesta, ni el Dylan español.
-E                   E/G#  A				
-Ni el abajo firmante, ni vendedor de humo.   
+E                   E/G#  A
+Ni el abajo firmante, ni vendedor de humo.
 C#m            G#m/B       A             A6 A
 Ni juglar del asfalto, ni rojo de salón
-B                   Cdimm C#m		
-Ni escondo la pasión,  ni la perfumo. 
+B                   Cdimm C#m
+Ni escondo la pasión,  ni la perfumo.
 A                  Bsus     E
 Ni he quemado mis naves, ni sé pedir perdón
 
 ESTRIBILLO
-         C#m   A                 E			
-Lo niego todo, aquellos polvos y estos lodos. 
+         C#m   A                 E
+Lo niego todo, aquellos polvos y estos lodos.
 E/D#      C#m A              B
 Lo niego todo, incluso la verdad
-     C#m        Caug      E/B           F#7      
+     C#m        Caug      E/B           F#7
 La leyenda del suicida, y la del bala perdida.
 F#m7		   Am                                    E
 La del santo beodo. si me cuentas mi vida, lo niego todo
@@ -70,11 +60,11 @@ A              B           E
  y una venus latina me dio la extremaunción
 
 ESTRIBILLO
-         C#m   A                 E			
-Lo niego todo, aquellos polvos y estos lodos. 
+         C#m   A                 E
+Lo niego todo, aquellos polvos y estos lodos.
 E/D#      C#m A              B
 Lo niego todo, incluso la verdad
-     C#m        Caug      E/B           F#7      
+     C#m        Caug      E/B           F#7
 La leyenda del suicida, y la del bala perdida.
 F#m7		   Am                                    E
 La del santo beodo. si me cuentas mi vida, lo niego todo
@@ -84,7 +74,3 @@ La del santo beodo. si me cuentas mi vida, lo niego todo
 
 FINAL
 E E/G# A C#m G#m/B / Amaj7 Bsus B E
-
-
-
-

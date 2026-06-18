@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: LA MADRE DE JOSÉ
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: La Madre De José
+Capo: No
+Disco: 
+Afinación: *
+
 
 .**************************************************
 *                                                *
@@ -62,5 +56,4 @@ E    | E    |     |
 E    | D    | A   | B
 E    | D    | A   | B
 -----+------+-----+--------
-
 

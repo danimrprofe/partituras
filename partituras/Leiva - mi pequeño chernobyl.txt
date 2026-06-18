@@ -1,25 +1,14 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: MI PEQUEÑO CHERNOBYL2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-# Mi pequeño Chernóbil
+Artista: Leiva
+Canción: mi pequeño chernobyl
+Capo: No
+Disco: más maduro
+Afinación: 
 
 INTRO
-```
 G | Bm | Em | Em
 G | Bm | Em | Em
-```
+
 ESTROFA
-```
 G           Bm              Em
 Soñaba con dar un bocado al mundo
 G              Bm         Em
@@ -33,9 +22,8 @@ C                         A
 Reírnos a morir, hasta agotar los argumentos
      G            G/F          C
 Desafiando los manuales de la fama y los excesos
-```
+
 PRE-ESTRIBILLO
-```
      Cm
 Solo es humo y nada más
       Cm                        D
@@ -49,10 +37,7 @@ La gloria enferma de los que quieren reinar, reinar
     D       Em
 Reinar el cielo…
 
-```
 ESTRIBILLO
-```
-
 G          D            Am          C
 Y no me da tregua mi Pequeño Chernóbil
 G          D             Am    C
@@ -78,9 +63,7 @@ Durmiendo con Rubén
 En las pensiones más inmundas
      G            G/F           C
 Rebañamos los manjares de la euforia y las burbujas
-```
 PRE-ESTRIBILLO
-```
      Cm
 Solo asumo y nada más
       Cm                        D
@@ -94,9 +77,7 @@ La gloria enferma de los que quieren reinar, reinar
     D       Em
 Reinar el cielo…
 
-```
 ESTRIBILLO
-```
 
 G          D            Am          C
 Y no me da tregua mi Pequeño Chernóbil
@@ -112,13 +93,9 @@ Ya no me deslumbra el efecto
 Solo pretendo aprender a vivir con ello
                             D      G     Bm  Em
 Solo pretendo aprender a vivir con ello
-```
 FINAL
-```
 G        Bm     Em           C           G        Bm     Em
-¿Qué vendrá después? De los años muertos ¿Que vendrá después?
+¿Qué vendrá después? De los años muertos ¿Qué vendrá después?
 G        Bm     Em           C           G        Bm     Em
-¿Qué vendrá después? De los años muertos ¿Que vendrá después?
-```
-
+¿Qué vendrá después? De los años muertos ¿Qué vendrá después?
 

@@ -1,21 +1,13 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: Afuera en la ciudad
-ÁLBUM:   Pólvora (2014)
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 2 (para subir un tono; versión acústica)
-================================================================================
-TONALIDAD: Fa# menor (F#m) sin capo; con capo 2 ≈ Sol#m (G#m)
-BPM:       75–79
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Versión acústica con capo en 2: suena aproximadamente en Sol#m; formas de
-acordes cómodas y cambios típicos de esta balada rock/pop. Tempo moderado
-(~75–79 BPM): rasgueos tranquilos, dinámica expresiva y acompañamiento delicado.
-A# en el instrumental: en guitarra suele sonar más claro como Bb (mismo traste).
-================================================================================
+Artista: Leiva
+Canción: Afuera en La Ciudad
+Capo: 2
+Disco: Pólvora
+Afinación: 
+ALBUM: Pólvora
+AÑO: 2014
+
+CEJILLA/CAPO: 2
+En acústico capo 2 y subir un tono
 
 INTRO
 D Dsus4 D Dsus4
@@ -88,3 +80,4 @@ Vamos a salir durmiendo
 
 FINAL
 D     Dsus4 x2
+

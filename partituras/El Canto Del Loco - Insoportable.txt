@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: INSOPORTABLE
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: El Canto Del Loco
+Canción: Insoportable
+Capo: 3
+Disco: 
+Afinación: *
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
 **************************************************
 *                                                *
@@ -42,7 +36,7 @@ A    | A#   | C   | C
 F    | G    | C   | C
 A    | A#   | C   | C
 F    | G    | C   | C
-A    | A#   | C A#| A  G 
+A    | A#   | C A#| A  G
 C  A#| A  G |
 -----+------+-----+--------
 F    | A#   | C   | C
@@ -68,7 +62,8 @@ A    | A#   | C   | C
 F    | G    | C   | C
 A    | A#   | C   | C
 F    | G    | C   | C
-A    | A#   | C A#| A  G 
+A    | A#   | C A#| A  G
 C  A#| A  G |
 
 F
+

@@ -1,18 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Extremoduro
-CANCION: LA VEREDA DE LA PUERTA DE ATRÁS
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Extremoduro
+Canción: La Vereda De La Puerta De Atrás
+Capo: No
+Disco: 
+Afinación: 
 
-EXTREMODURO 
-LA VEREDA DE LA PUERTA DE ATRÁS 
+
+EXTREMODURO
+LA VEREDA DE LA PUERTA DE ATRÁS
 ESTROFA 1
      F#m
 Si no fuera
@@ -26,7 +20,7 @@ E  F#m     E          D
 condenado a mirarte desde fuera
     E            F#m     E  D  E
 y dejar que te tocara el sol
- 
+
 ESTROFA 2
      F#m
 Y si fuera
@@ -40,7 +34,7 @@ E   F#m        E        D
 convencido que estás en el tejado
     E              F#m   E  D  E
 esperando a ver si llego yo
- 
+
 
 ESTRIBILLO
 A                   F#m                   C#m
@@ -51,7 +45,7 @@ por donde te vi pasar
 como una regadera que la hierba hace que vuelva a brotar
         D
 y ahora todo es campo ya
- 
+
 ESTROFA 3
        F#m
 Sus soldados
@@ -65,7 +59,7 @@ E  F#m     E         D
 condenado a vivir entre malezas
    E              F#m   E  D  E
 sembrando flores de algodón
- 
+
 ESTROFA 4
         F#m
 Si me espera
@@ -79,7 +73,7 @@ E      F#m        E          D
 que me entierren con la picha por fuera
     E           F#m     E  D  E
 pa' que se la coma un ratón
- 
+
 
 ESTRIBILLO
   A                        F#m               C#m
@@ -90,7 +84,7 @@ quiero oir alguna canción
 que no hable de sandeces y que diga que no sobra el amor
         D
 y que empiece en si y no en no
- 
+
 A                   F#m                   C#m
 Y dejar de lado la vereda de la puerta de atrás
        D
@@ -99,7 +93,7 @@ por donde te vi marchar
 como una regadera que la hierba hace que vuelva a brotar
         D
 y ahora todo es campo ya
- 
+
 
 D                      E                 F#m
 Dices que a veces no comprendes que dice mi voz
@@ -109,7 +103,7 @@ D                         E              F#m
 si entre los dedos se me escapa volando una flor
                     E
 y ella solita va marcando el camino
- 
+
 D                      E                 F#m
 Dices que a veces no comprendes que dice mi voz
                       E
@@ -118,5 +112,4 @@ D                         E              F#m
 si entre los dedos se me escapa volando una flor
                     E
 y yo la dejo que me marque el camino
-
 

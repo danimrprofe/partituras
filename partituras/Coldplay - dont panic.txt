@@ -1,24 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: DONT PANIC2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-# Don't panic
-
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | No   |
+Artista: Coldplay
+Canción: dont panic
+Capo: No
+Disco: 
+Afinación: 
 
 
-```
 INTRO
 Fmaj7 Fmaj9
 
@@ -58,7 +44,7 @@ Dm                 Dm6               Am
 Dm                 Dm6          Fmaj7
   We live in a beautiful world
 
-INTERLUDIO
+INSTRUMENTAL
 | Am    | C     | Fmaj7 | Fmaj7 | x2
 
 ESTRIBILLO
@@ -69,7 +55,7 @@ Dm                 Dm6               Am
 Dm                 Dm6          Fmaj7
   We live in a beautiful world
 
-INTERLUDIO
+INSTRUMENTAL
 | Am    | C     | Fmaj7 | Fmaj7 | x2
 
 OUTRO
@@ -79,4 +65,4 @@ Oh, all that I know
 There's nothing here to run from
   Am                C                    Fmaj7
 Cos yeah, everybody here got somebody to lean on
-```
+

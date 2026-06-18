@@ -1,18 +1,8 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Pereza
-CANCIÓN: PIENSO EN AQUELLA TARDE
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-PIENSO EN AQUELLA TARDE
-Capo 3. Original en sol mayor.
-
+Artista: Pereza
+Canción: Pienso en Aquella Tarde
+Capo: No
+Disco: 
+Afinación: 
 INTRO
 e|----------3---------------------|
 B|----3-5-3-----------------------|
@@ -30,7 +20,7 @@ G           Cadd9              Em7
 Te tuve cien días dentro de mi cama
                D   Cadd9   G
 y no te supe apro - ve - char.
- 
+
 G      Cadd9                Em7
 Ando perdido pensando que estás sola
               D           G
@@ -39,41 +29,40 @@ G           Cadd9                Em7
 Cuelgo de un hilo, rebaño las sobras
                D         D
 que aún quedan de tu cariño.
- 
+
 Bm                    Em7
 Yo, que me quiero aliviar
                  Cadd9            G  D/F#  Em7
 escribiéndote un tema, diciéndote la ver - dad.
- 
+
 Em7       Bm               Cadd9
 Cumplo condena por ese mal día
           D               D
 haberte dejao marchar...
 
 ESTRIBILLO
- 
+
 G                    Cadd9       Em7               D
 Yo pienso en aquella tarde cuando me arrepentí de todo.
 G               Cadd9             Em7                 D
 Daría, todo lo daría por estar contigo y no sentirme solo...
- 
 
 ESTROFA
    G                  Cadd9
 A ti, que te supo tan mal
                 Em7             D  Cadd9  G
 que yo me encariñara con esa faci - li - dad,
- 
+
 G            Cadd9
 y me emborrachara los días
     Em7               D   Cadd9  G
 que tú no tenías que tra - ba - jar...
- 
+
 G          Cadd9
 Era un domingo,
             Em7                  D              G
 llegaba después de tres días comiéndome el mundo.
- 
+
 G        Cadd9            Em7
 Todo se acaba, dijiste mirándome,
              D         Cadd9   D
@@ -84,13 +73,14 @@ G                    Cadd9       Em7               D
 Yo pienso en aquella tarde cuando me arrepentí de todo.
 G               Cadd9             Em7                 D
 Daría, todo lo daría por estar contigo y no sentirme solo...
- 
+
 G                    Cadd9       Em7               D
 Yo pienso en aquella tarde cuando me arrepentí de todo.
 G               Cadd9             Em7                 D
 Daría, todo lo daría por estar contigo y no sentirme solo...
- 
+
 G                    Cadd9       Em7               D
 Yo pienso en aquella tarde cuando me arrepentí de todo.
 G                    Cadd9       Em7               D   G
 Yo pienso en aquella tarde cuando me arrepentí de todo.
+

@@ -1,23 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: PELIGROSAMENTE DARK2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: peligrosamente dark
+Capo: No
+Disco: 
+Afinación: 
+Álbum: Cuando te muerdes el labio (2021)
 
-# Peligrosamente dark
-
-LEIVA FT. SILVANA ESTRADA
-
-capo 2
-
-```
+INTRO
 C Cmaj7 F G
 C Cmaj7 F G
 
@@ -28,34 +16,37 @@ ESTROFA
             C		  Cmaj7           F                 G
 ¿Qué harías tú? ¿Si te ahogaras y no supieras cómo se expresa?
 
-            F            C/E           Am                      
-¿Qué harías tú? Yo me empiezo A acostumbrar 
-   Am/G         F 
+            F            C/E           Am
+¿Qué harías tú? Yo me empiezo A acostumbrar
+   Am/G         F
 Se me va la fuerza
-      G           C              C7                               
-Solo me dedico a aullar, a inventar respuestas. 
-Dm                  G      G7        C        
+      G           C              C7
+Solo me dedico a aullar, a inventar respuestas.
+Dm                  G      G7        C
 Déjame estar Peligrosamente dark
+
+INSTRUMENTAL
 C Cmaj7 F G
 
 ESTROFA
-
              C	        Cmaj7          F           G
 ¿Qué harías tú? ¿Si sintieras enfermedades misteriosas?
             C		  Cmaj7           F                G
 ¿Qué harías tú?¿Si olvidaras por un instante lo que te importa?
 
-            F            C/E           Am                      
-¿Qué harías tú? Yo me empiezo A acostumbrar 
+            F            C/E           Am
+¿Qué harías tú? Yo me empiezo A acostumbrar
    Am/G         F
 Se me va la fuerza
-      G           C              C7                               
-Solo me dedico a aullar, a inventar respuestas. 
-Dm                  G      G7        C        
+      G           C              C7
+Solo me dedico a aullar, a inventar respuestas.
+Dm                  G      G7        C
 Déjame estar Peligrosamente dark
 
+INSTRUMENTAL
 C Cmaj7 F G
 
+PUENTE
           Am                F
 La vida está tan de nuestro lado
       G                   C
@@ -71,14 +62,12 @@ Porque siempre hay uno que quiere
      G         G7      Am F C Am F C
 Y otro que se deja querer
 
-            F            C/E           Am                      
-¿Qué harías tú? Yo me empiezo A acostumbrar 
+            F            C/E           Am
+¿Qué harías tú? Yo me empiezo A acostumbrar
    Am/G         F
 Se me va la fuerza
-      G           C              C7                               
-Solo me dedico a aullar, a inventar respuestas. 
-Dm                  G      G7        C        
+      G           C              C7
+Solo me dedico a aullar, a inventar respuestas.
+Dm                  G      G7        C
 Déjame estar Peligrosamente dark
-
-```
 

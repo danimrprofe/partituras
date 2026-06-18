@@ -1,6 +1,4 @@
-# End times
 
-```
 Capo: 2nd fret
 SONG : End times
 BAND : Eels
@@ -14,7 +12,7 @@ TUNING & CHORDS:
  Drop D tuning
  
  
-INTRO & VERSE:
+INTRO & VERSE
          C     F       C
  e -||-----0-0-----1-------0----|-
  B -||-----1-1-----1-------1----|-
@@ -35,7 +33,7 @@ Shouting out "end times are near"
 And nobody noticed him
  
  
-CHORUS:
+CHORUS
  
         Bb    F          C     F         C
  e -||----1-----1---|------0-0-----1-------0----|-
@@ -98,4 +96,3 @@ A#           Dm     Am              A#
 The world is ending, and what do I care?
 A#         F               C   F  C
 She's gone, end times are here
-```

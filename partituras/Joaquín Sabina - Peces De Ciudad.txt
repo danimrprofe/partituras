@@ -1,127 +1,115 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: PECES DE CIUDAD
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-JOAQUÍN SABINA 
-PECES DE CIUDAD
+Artista: Joaquín Sabina
+Canción: Peces De Ciudad
+Capo: No
+Disco: 
+Afinación: 
+Joaquín Sabina
+Peces de ciudad
+Cejilla traste 2
 
 INTRO
 G D A
 
 ESTROFA
-                    A        F#m                  D                                       
-Se peinaba a lo garçon la viajera que quiso enseñarme a besar 
-            A                F#m
-en la Gare d'Austerlitz.  Primavera de un amor 
-D                        Bm                E
+                    G        Em                   C
+Se peinaba a lo garçon la viajera que quiso enseñarme a besar
+            G                Em
+en la Gare d'Austerlitz.  Primavera de un amor
+C                        Am                D
 amarillo y frugal como el sol del veranillo de San Martín.
-            D                   C#m
+            C                   Bm
 Hay quien dice que fui yo el primero en olvidar
-           G                       D                   E
+           F                       C                   D
 cuando en un si bemol de Jacques Brel conocí a "mademoiselle Amsterdam".
 
-      A                        F#m                D                           
-En la fatua Nueva York da más sombra que los limoneros 
-              A
-la estatua de la libertad. 
-            F#m                D                 Bm                            
-Pero en "Desolation Row" las sirenas de los petroleros 
-           E
+      G                        Em                C
+En la fatua Nueva York da más sombra que los limoneros
+              G
+la estatua de la libertad.
+            Em                  C    C/B            Am
+Pero en "Desolation Row" las sirenas de los petroleros
+    Am/G   D
 no dejan reír ni volar.
-          D                C#m                                                 
-Y en el coro de Babel desafina un español. 
-             G                    D                    A
-No hay más ley que la fiebre del oro en las minas del rey Salomón. 
+          C               Bm
+Y en el coro de Babel desafina un español.
+             F                    C                   G
+No hay más ley que la fiebre del oro en las minas del rey Salomón.
 
 ESTRIBILLO
-       E                    D                                           
-Y desafiando el oleaje sin timón ni timonel 
-         C#m                   Bm                                                             
+       D                    C
+Y desafiando el oleaje sin timón ni timonel
+         Bm                    Am
 por mis sueños va ligero de equipaje sobre un
-                       A                  E
-Sobre un cascarón de nuez mi corazón de viaje, 
-                F#m                   D  
-luciendo los tatuajes de un pasado bucanero 
-                 A                 G     D    A
+                       G         Em        D
+Sobre un cascarón de nuez mi corazón de viaje,
+                Em                   C
+luciendo los tatuajes de un pasado bucanero
+                 G         F        C       G
 de un velero al abordaje de un liguero de mujer.
 
-        E                      D		
-Y como huir cuando no quedan islas para naufragar 
-   C#m                        Bm
+        D                      C
+Y como huir cuando no quedan islas para naufragar
+   Bm                        Am
 al país donde los sabios se retiran
-                  A                          E
+                  G          Em                D
 del agravio de buscar labios que sacan de quicio,
 
-                      F#m                         D                                       
-mentiras que ganan juicios tan sumarios que envilecen 
-                    A               G D         A
+                      Em                         C
+mentiras que ganan juicios tan sumarios que envilecen
+                    G       F      C           G
 el cristal de los acuarios de los peces de ciudad
-G         D        A       E                    D                                       
-que mordieron el anzuelo, que bucean a ras del suelo, 
-                 A
+F        C        G       Dm                    C
+que mordieron el anzuelo, que bucean a ras del suelo,
+                 G
 que no merecen nadar.
 
 INSTRUMENTAL
 G  D  A
 
 ESTROFA
-A                    F#m                 
-El dorado era un champú, 
-                           D                  A
+                   G                    
+El dorado era un champú,
+    Em                     C                   G
 la virtud unos brazos en cruz, el pecado una página web.
-    F#m                     D                                 
-En Comala comprendí que al lugar donde has sido 
-Bm                   E
+    Em                     C
+En Comala comprendí que al lugar donde has sido
+Am                   D
 feliz no debieras tratar de volver.
-           D                     C#m    
-Cuando en vuelo regular pisé el cielo de Madrid 
+           D                     C#m
+Cuando en vuelo regular pisé el cielo de Madrid
     G                      D                A
 me esperaba una recién casada que no se acordaba de mí.
 
 ESTRIBILLO
-        E                     D                       
-Y desafiando el oleaje sin timón ni timonel 
-         C#m                   Bm                          
-por mis sueños va ligero de equipaje 
-                       A                 E     
-sobre un cascarón de nuez mi corazón de viaje, 
-                F#m                     D                 
-Luciendo los tatuajes de un pasado bucanero, 
-                   A         G    D          A
+       D                    C
+Y desafiando el oleaje sin timón ni timonel
+         Bm                    Am
+por mis sueños va ligero de equipaje sobre un
+                       G         Em        D
+Sobre un cascarón de nuez mi corazón de viaje,
+                Em                   C
+luciendo los tatuajes de un pasado bucanero
+                 G         F        C       G
 de un velero al abordaje de un liguero de mujer.
 
-        E                      D		
-Y como huir cuando no quedan islas para naufragar 
-   C#m                        Bm
+        D                      C
+Y como huir cuando no quedan islas para naufragar
+   Bm                        Am
 al país donde los sabios se retiran
-                  A                          E
- del agravio de buscar labios que sacan de quicio,
-                      F#m                         D                                       
- mentiras que ganan juicios tan sumarios que envilecen 
-                    A               G D         A
-el cristal de los acuarios de los peces de ciudad
-G         D        A       E                    D                                       
-que mordieron el anzuelo, que bucean a ras del suelo, 
-                 A
-que no merecen nadar.
+                  G          Em                D
+del agravio de buscar labios que sacan de quicio,
 
-G         D           A     
-que perdieron las agallas   
-E                 D                        
-en un banco de morralla, 
-                 A
+                      Em                         C
+mentiras que ganan juicios tan sumarios que envilecen
+                    G       F      C           G
+el cristal de los acuarios de los peces de ciudad
+G         D           A
+que perdieron las agallas
+D                 C
+en un banco de morralla,
+                 G
 en una playa sin mar.
 
 FINAL
-G D A
-
+F C G
 

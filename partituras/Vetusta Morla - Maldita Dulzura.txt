@@ -1,24 +1,13 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Vetusta Morla
-CANCIÓN: MALDITA DULZURA
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Vetusta Morla
+Canción: Maldita Dulzura
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Sin cejilla
-TONALIDAD: Re Mayor (D Major)
+
+Key: D
 BPM:       126
 COMPÁS:    4/4
-================================================================================
-NOTAS ADICIONALES: La canción se basa en un arpegio constante. 
-Mantener la intensidad contenida hasta el estribillo final.
-================================================================================
-
 ESTROFA
 Em                  Bm      Em                  Bm
 Hablemos de ruina y espina Hablemos de polvo y herida
@@ -56,12 +45,12 @@ C                   Em              B           Em
 Me culpas de las alturas Que ves desde tus zapatos
 C                   G               B           Em
 No quieres hablar del tiempo Aunque esté de nuestro lado
- 
- 
+
+
 Em        B       Em      Em        B       Em
 Y hablas para no oírme Y bebes para no verme
- 
- 
+
+
 C                   Em              B         Em
 Y yo callo y río y bebo No doy tregua ni consuelo
 C                   G               B               Em
@@ -81,5 +70,6 @@ C G B Em C G B
 FINAL
 B
 Maldita dulzura la nuestra
- 
+
 Em
+

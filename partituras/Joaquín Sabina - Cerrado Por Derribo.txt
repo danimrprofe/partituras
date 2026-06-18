@@ -1,19 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: CERRADO POR DERRIBO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: Joaquín Sabina
+Canción: Cerrado Por Derribo
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-JOAQUÍN SABINA 
+JOAQUÍN SABINA
 CERRADO POR DERRIBO
-Capo 3
 INTRO: EM-C-B
 Em                    C                   B         Em                  C                    B
 Este bálsamo no cura cicatrices, esta rumbita no sabe enamorar,
@@ -55,5 +48,4 @@ G                               D                        C                      
 estos huesos que vuelven de la oficina, dentro de una gabardina con manchas de soledad.
 
 ESTRIBILLO
-
 

@@ -43,7 +43,25 @@ partituras-txt-app
 - Atajos: `Alt + Flecha Arriba` y `Alt + Flecha Abajo` para transponer rapido.
 - El ejemplo de Vetusta Morla esta incluido en `partituras/Vetusta Morla - De Junio.txt`.
 
-## Pagina unica
+## Sincronizar datos entre ordenadores
+
+Todos tus perfiles (instrumentos, ratings, favoritas, historial de búsqueda) se guardan en el navegador (`localStorage`). Para usar la misma configuración en varios ordenadores:
+
+1. **En el ordenador actual**:
+   - Abre la aplicación y personaliza tus canciones (marca instrumentos, rate, favoritas, etc.)
+   - Haz clic en el botón **"📥 Exportar"** 
+   - Se descargará un archivo JSON con todos tus datos
+
+2. **Comparte los datos**:
+   - Puedes subir el JSON a GitHub editando `partituras/song-profiles.json`
+   - O simplemente pasar el archivo al otro ordenador
+
+3. **En el otro ordenador**:
+   - Haz clic en el botón **"📤 Importar"**
+   - Selecciona el archivo JSON descargado
+   - Tus datos se cargarán automáticamente
+
+**Nota**: La aplicación carga automáticamente `partituras/song-profiles.json` desde el repositorio al iniciar, así que si subes el archivo a GitHub, todos tus dispositivos lo cargarán.
 
 - La app se usa en `index.html`.
 - `songs.html` redirige automaticamente a `index.html` para mantener enlaces antiguos.
@@ -105,6 +123,9 @@ $songs | ConvertTo-Json -Depth 3 | Set-Content -Path "partituras/index.json" -En
 - Se creo y ejecuto normalizacion masiva de catalogo en `normalize-partitura-txt.ps1` para:
   - anadir cabecera canonica `# PARTITURA v1` en archivos `.txt` sin cabecera,
   - unificar etiquetas de secciones (por ejemplo `Verse` -> `ESTROFA`, `Chorus` -> `ESTRIBILLO`, `Bridge` -> `PUENTE`).
+- **[1 de abril] BUG ARREGLADO**: Typo en `js/parser.js` linea 13 - variable `titleArtistArtistLine` (variable replicada) corregida a `titleArtistLine`. Este bug impedia que el parser extrajera correctamente el artista del archivo de partitura.
+- **[1 de abril] FEATURE NOVA**: Detector automático de acordes - Ahora cada canción muestra sus acordes principales (C#m, G#m, etc) en forma de badges en la lista. Esto permite ver de un vistazo qué acordes tiene cada canción antes de abrirla. Los acordes se ordenan por frequencia (más tocados primero) y se normalizan (AM → Am, F#M → F#m).
+- **[1 de abril] BUG ARREGLADO**: Capo value validation - La función `parseCapoValue` ahora solo acepta capo entre 1-12 (rango válido de guitarra). Evita valores inválidos como "capo 23" que aparecían por error en la detección. Se agregó reset de `activeSongCapo` al cargar nueva canción para limpiar valores anteriores.
 
 ### Estado del catalogo tras la normalizacion
 
@@ -148,6 +169,7 @@ powershell -ExecutionPolicy Bypass -File ./normalize-partitura-txt.ps1 -WhatIf
 - Rellenar o eliminar los 4 `.txt` vacios para evitar ruido en busqueda e indice.
 - Revisar nombres de archivo anomales (`Artista -.txt`, sufijos numericos, duplicados) y estandarizar.
 - Actualizar la tarea de VS Code `Actualizar indice de partituras` para no depender de `pwsh`.
+- **[MEJORA]: Rastrear partituras más accedidas** - Registrar cada apertura de canción en localStorage con timestamp y mostrar sugerencias (top 5-10) de canciones más consultadas recientemente en la página principal. Util para acceder rapido a las canciones que tocas habitualmente.
 
 ## Contribuciones
 

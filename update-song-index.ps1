@@ -114,6 +114,57 @@ function Get-SongBpm {
     return $null
 }
 
+function Get-FeaturingArtist {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$Title
+    )
+
+    # Buscar patrones como "feat. Nombre" o "ft. Nombre"
+    $featPattern = "(?i)(?:feat|ft)\.?\s+(.+?)(?:\)|$)"
+    $match = [regex]::Match($Title, $featPattern)
+    
+    if ($match.Success) {
+        return $match.Groups[1].Value.Trim() -replace "[().]$"
+    }
+    
+    return $null
+}
+
+function Get-SongAlbum {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$FileContent
+    )
+
+    # Buscar patrón "ALBUM: Nombre del álbum"
+    $albumPattern = "(?im)^ALBUM\s*:\s*(.+?)\s*$"
+    $match = [regex]::Match($FileContent, $albumPattern)
+    
+    if ($match.Success) {
+        return $match.Groups[1].Value.Trim()
+    }
+    
+    return $null
+}
+
+function Get-SongYear {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$FileContent
+    )
+
+    # Buscar patrón "AÑO: 2012" o "YEAR: 2012"
+    $yearPattern = "(?im)^(?:A[Ñ]O|YEAR)\s*:\s*(\d{4})\s*$"
+    $match = [regex]::Match($FileContent, $yearPattern)
+    
+    if ($match.Success) {
+        return [int]$match.Groups[1].Value
+    }
+    
+    return $null
+}
+
 function Get-SongCapo {
     param(
         [Parameter(Mandatory = $true)]
@@ -124,7 +175,7 @@ function Get-SongCapo {
 
     $candidates = [System.Collections.Generic.List[int]]::new()
 
-    $capoPattern = "(?im)(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(?:TRASTE\s+)?([0-9]+)|\bcapo\s+([0-9]+)"
+    $capoPattern = "(?im)(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(?:TRASTE\s+)?(-?[0-9]+)|\bcapo\s+(-?[0-9]+)"
     $matches = [regex]::Matches($normalizedContent, $capoPattern)
     foreach ($match in $matches) {
         $rawValue = if (-not [string]::IsNullOrWhiteSpace($match.Groups[1].Value)) {
@@ -136,6 +187,36 @@ function Get-SongCapo {
 
         if (-not [string]::IsNullOrWhiteSpace($rawValue)) {
             [void]$candidates.Add([int]$rawValue)
+        }
+    }
+
+    # Patrón para números directos: "Cejilla en traste 4" y "Cejilla: Traste 3"
+    $numericCapoPattern = "(?im)(?:cejilla|capo)(?:\s+en)?\s+traste\s+(-?[0-9]+)"
+    $numericMatches = [regex]::Matches($normalizedContent, $numericCapoPattern)
+    foreach ($numericMatch in $numericMatches) {
+        $capoValue = [int]$numericMatch.Groups[1].Value
+        if ($capoValue -ne 0) {
+            [void]$candidates.Add($capoValue)
+        }
+    }
+
+    # Patrón para números ordinales: "Cejilla: 4o traste"
+    $ordinalNumericCapoPattern = "(?im)(?:cejilla|capo).*?(-?[0-9]+)o\s+traste"
+    $ordinalNumericMatches = [regex]::Matches($normalizedContent, $ordinalNumericCapoPattern)
+    foreach ($ordinalNumericMatch in $ordinalNumericMatches) {
+        $capoValue = [int]$ordinalNumericMatch.Groups[1].Value
+        if ($capoValue -ne 0) {
+            [void]$candidates.Add($capoValue)
+        }
+    }
+
+    # Patrón para "Cejilla: X" o "Capo: X" (solo números)
+    $simpleCapoPattern = "(?im)^(?:CEJILLA|CAPO)\s*:\s*(-?[0-9]+)"
+    $simpleMatches = [regex]::Matches($normalizedContent, $simpleCapoPattern)
+    foreach ($simpleMatch in $simpleMatches) {
+        $capoValue = [int]$simpleMatch.Groups[1].Value
+        if ($capoValue -ne 0) {
+            [void]$candidates.Add($capoValue)
         }
     }
 
@@ -205,6 +286,9 @@ function Get-SongHeaderMetadata {
             if ($normalizedTuning -match "\bestandar\b|\bstandard\b") {
                 $result.tuningSlug = "estandar"
             }
+            elseif ($normalizedTuning -match "eb\W*ab\W*db\W*gb\W*bb\W*eb") {
+                $result.tuningSlug = "medio-tono-abajo"
+            }
             elseif ($normalizedTuning -match "medio\s*tono\s*abajo") {
                 $result.tuningSlug = "medio-tono-abajo"
             }
@@ -224,9 +308,13 @@ function Get-SongHeaderMetadata {
     if (-not $result.tuningSlug) {
         $hasStandardLabel = $normalizedContent -match "(?im)\b(?:AFINACION|TUNING)\s*[:\-]?\s*(?:ESTANDAR|STANDARD)\b"
         $hasEadgbePattern = $normalizedContent -match "(?im)\bE\W*A\W*D\W*G\W*B\W*E\b"
+        $hasEbPattern = $normalizedContent -match "(?im)\beb\W*ab\W*db\W*gb\W*bb\W*eb\b"
 
         if ($hasStandardLabel -or $hasEadgbePattern) {
             $result.tuningSlug = "estandar"
+        }
+        elseif ($hasEbPattern) {
+            $result.tuningSlug = "medio-tono-abajo"
         }
     }
 
@@ -373,6 +461,12 @@ function Get-SongKeyAndTimeFromTable {
     $lines = $FileContent -split "`n"
     for ($i = 0; $i -lt $lines.Count - 2; $i++) {
         $currentLine = $lines[$i]
+        
+        # Verificar si la línea está vacía antes de procesar
+        if ([string]::IsNullOrWhiteSpace($currentLine)) {
+            continue
+        }
+        
         $normalizedHeaderLine = Remove-Diacritics $currentLine
         
         # Buscar línea de encabezado con tabla markdown
@@ -743,6 +837,24 @@ ForEach-Object {
     if ($null -ne $capo) {
         $song | Add-Member -NotePropertyName "capo" -NotePropertyValue $capo
     }
+    
+    # Extraer artista feat. del título
+    $featuring = Get-FeaturingArtist -Title $metadata.Title
+    if ($featuring) {
+        $song | Add-Member -NotePropertyName "featuring" -NotePropertyValue $featuring
+    }
+    
+    # Extraer álbum del contenido del archivo
+    $album = if ($fileContent) { Get-SongAlbum -FileContent $fileContent } else { $null }
+    if ($album) {
+        $song | Add-Member -NotePropertyName "album" -NotePropertyValue $album
+    }
+    
+    # Extraer año del contenido del archivo
+    $year = if ($fileContent) { Get-SongYear -FileContent $fileContent } else { $null }
+    if ($year) {
+        $song | Add-Member -NotePropertyName "year" -NotePropertyValue $year
+    }
         
     if ($sections -and $sections.Length -gt 0) {
         $song | Add-Member -NotePropertyName "sections" -NotePropertyValue @($sections)
@@ -759,6 +871,11 @@ ForEach-Object {
     if ($timeValue) {
         $song | Add-Member -NotePropertyName "timeSignature" -NotePropertyValue $timeValue
     }
+    
+    # Agregar URL de búsqueda de YouTube
+    $searchQuery = "$($metadata.Artist) $($metadata.Title)"
+    $encodedQuery = [Uri]::EscapeDataString($searchQuery)
+    $song | Add-Member -NotePropertyName "youtubeUrl" -NotePropertyValue "https://www.youtube.com/results?search_query=$encodedQuery"
         
     $song
 }

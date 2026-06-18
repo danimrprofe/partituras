@@ -1,17 +1,10 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: Aunque sea un rato
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Versión acústica “un tono arriba” sin cejilla: ajusta según tu afinación o
-transposición si quieres casar con el estudio (mismas posiciones, otro tono).
-Compases del intro/instrumental en barras | … | para guiar el bucle.
-================================================================================
+Artista: Leiva
+Canción: Aunque Sea Un Rato
+Capo: No
+Disco: Diciembre
+Afinación: 
+ALBUM: Diciembre
+AÑO: 2012
 
 INTRO
 | C   | Em  | F   | C   |
@@ -62,7 +55,7 @@ Am          Em     F     G          C
 Ponte en mi lugar, aunque sea un rato
 
 PUENTE
-G               Am    Em           F
+G               Am    E7           F
 Y mientras por aquí llueve a todo trapo pero
 G         E             Am   G    D
 Siempre afloja el temporal
@@ -71,3 +64,4 @@ Aunque sea un rato   x2
 
 FINAL
 | F G | C   |
+

@@ -1,19 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Enrique Urquijo
-CANCION: AUNQUE TÚ NO LO SEPAS
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Enrique Urquijo
+Canción: Aunque Tú No Lo Sepas
+Capo: No
+Disco: 
+Afinación: 
 
-ENRIQUE URQUIJO 
+
+ENRIQUE URQUIJO
 AUNQUE TÚ NO LO SEPAS
-Sin capo
 
 INTRO
 C D C D C D
@@ -51,6 +44,4 @@ C       D          C    D
           El mar en tus labios
 
 C       D       G
-
-
 

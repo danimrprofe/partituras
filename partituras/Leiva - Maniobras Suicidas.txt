@@ -1,25 +1,22 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: MANIOBRAS SUICIDAS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: Maniobras Suicidas
+Capo: 1
+Disco: Nuclear
+Afinación: 
+ALBUM: Nuclear
+AÑO: 2019
+
+CEJILLA/CAPO: 1
 
 ESTROFA
-C               A#                  F		                  
-Tú volverás a salvarme la vida A hacerme consciente. 
+C               A#                  F
+Tú volverás a salvarme la vida A hacerme consciente.
     Fm          G#           C
 De que era una increíble señal
                 A#              F                    G
 Plantearás maniobras suicidas. Y quién te lo puede negar
 
-                 F                      G		               
+                 F                      G
 Y te da un poco igual Cómo voy A reaccionar.
            Fm        G#           A#       C
 Tú sabes exactamente, Todo lo que puedo pensar
@@ -31,14 +28,14 @@ C  F          Am       G             C  F             Am     G
 Dejarlo a la mitad, hacerme fuerte. Saber que nada es para siempre
 
 ESTROFA
-C                A#                  F		            
-Tu volverás a salvarme la vida, a hacerme valiente 
+C                A#                  F
+Tu volverás a salvarme la vida, a hacerme valiente
   Fm            G#       C
 a concederme un último vals
                   A#                  F               G
 Lograrás que me muera de envidia de verte dejarme escapar
 
-                 F                      G		               
+                 F                      G
 Y te da un poco igual Cómo voy A reaccionar.
            Fm        G#           A#       C
 Tú sabes exactamente, Todo lo que puedo pensar
@@ -55,7 +52,7 @@ Dm Db C G
 A# C G
 
 ESTROFA
-C                 A#                 F		         
+C                 A#                 F
 Tú volverás a salvarme la vida. A hacerme consciente
     Fm            G#       C
 De que era una increíble señal
@@ -69,3 +66,4 @@ Saber que nada es para siempre
 
 FINAL
 C A# F G# A# C
+

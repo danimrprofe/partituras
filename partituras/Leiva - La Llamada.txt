@@ -1,18 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: LA LLAMADA
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: La Llamada
+Capo: 2
+Disco: 
+Afinación: 
+CEJILLA/CAPO: 2
 
 INTRO
-
 C
 
 ESTROFA
@@ -54,3 +47,4 @@ ESTRIBILLO
 Hoy he sentido la llamada Con toda la fuerza
      Am   F     C G        F       G   C
 Las luces apagadas Y las piernas abiertas
+

@@ -1,19 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: PREMIO DE CONSOLACION2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: premio de consolacion
+Capo: 3
+Disco: Cuando te muerdes el labio
+Afinación: 
+ALBUM: Cuando te muerdes el labio
+AÑO: 2021
+Capo 3
 
-# Premio de consolación
-
-```
   Bm
 Peor para ti
                              A
@@ -27,13 +20,13 @@ Peor para ti
                            A
 Que ya no no se te acelera casi el corazón
               A
-Que te has quitado el Exatim
+Que te has quitado el Lexatin
                          Em
 Y separas vidrio de los plásticos
 
 PRE-ESTRIBILLO
         G                   D
-Vino y prozack remolinos de ropa
+Vino y prozac remolinos de ropa
              Em
 Hielo en las sábanas
 F#m   G
@@ -140,6 +133,4 @@ Vino y prozack remolinos de ropa
 Hielo en las sábanas
 F#m   G
 Las sábanas
-```
-
 

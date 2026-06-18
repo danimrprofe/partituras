@@ -1,24 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: AMELIE2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-# Amelie
-
-| Tonalidad | Tempo  | Compás | Capo |
-| --------- | ------ | ------ | ---- |
-| Si menor  | 85 bpm |        | 2    |
-
+Artista: Leiva
+Canción: amelie
+Capo: No
+Disco: 
+Afinación: 
 ESTROFA
-```
 Am              F                      C
 Yo sólo busco ooh oooh que me tiemblen las piernas
 G         Am  E7          Am
@@ -29,27 +14,21 @@ G                     Am
 que nos rajen por la espalda al pasar
 E7           Am
 y nos siga la prensa
-```
 PRE-ESTRIBILLO
-```
 F          C           G            Am
 Encendernos con las manos fue más de la cuenta
 F          C          G
 y yo que creía que estaba
                         G7
 ... que estaba de vueltaaaaah
-```
 ESTRIBILLO
-```
 F                    C    E7          Am
 Aviones a punto de salir, pasiones de gitanos
 F                     C
 pequeña sonrisa de Amelie
 E7           Am
 me tienes calado
-```
 ESTROFA
-```
 
 Am                F                      C
 Yo sólo busco ooh oooh que me tiemblen las piernas
@@ -62,9 +41,7 @@ Pero cuando este roto a escuchar
 E7           Am
 Que merece la pena
 
-```
 PRE-ESTRIBILLO
-```
 F           C           G             Am
 Encendernos con las manos fue más de la cuenta
 F                     G
@@ -72,9 +49,7 @@ y yo que creía que estaba
                          G7
 ... que estaba de vueltaaaah
 
-```
 ESTRIBILLO
-```
 F                     C     E7           Am
 Aviones a punto de salir, pasiones de gitanos
 F                     C
@@ -88,14 +63,10 @@ F                     C
 pequeña sonrisa de Amelie
 E7         Am
 me tienes cagado
-```
 INSTRUMENTAL
-```
 C F C E7
 Am E7 Am E7
-```
 ESTRIBILLO
-```
 F                     C     E7           Am
 Aviones a punto de salir, pasiones de gitanos
 F                     C
@@ -105,5 +76,4 @@ me tienes ganado
 F                     C
 pequeña sonrisa de Amelie
 E7           Am
-```
 

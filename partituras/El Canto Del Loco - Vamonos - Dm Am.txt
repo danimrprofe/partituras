@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: VAMONOS - DM AM
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Vamonos - Dm Am
+Capo: No
+Disco: 
+Afinación: 
+
 
 Tono: C#m
 Intro:
@@ -76,3 +70,4 @@ Y ahora que ya estoy dentro,
 Ahora ya nos sentimos,
      E                 F  E
 Vámonos, vámonos.
+

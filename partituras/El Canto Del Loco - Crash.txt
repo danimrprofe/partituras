@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: CRASH
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Crash
+Capo: No
+Disco: 
+Afinación: *
+
 
 **************************************************
 *                                                *
@@ -25,11 +19,11 @@ LEYENDA / NOTAS ADICIONALES:
 **************************************************
 
       B         E
-Dale más velocidad, 
+Dale más velocidad,
     F#                      B
 en menos de tres horas podemos llegar
   B               E
-Súbeme la radio más 
+Súbeme la radio más
       F#                      B
 Enciéndete un cigarro y dale caña ya
      B         E      F#                    B
@@ -39,7 +33,7 @@ Ha llegado el momento crucial
      F#                            A
 Nos vamos a la playa y nadie va a parar
   E        F#                  B
-Sólo yo tengo el poder, el volante en mis manos, 
+Sólo yo tengo el poder, el volante en mis manos,
          G#m
 yo controlaré
     E             F#
@@ -48,7 +42,7 @@ No me digas qué tengo que hacer
 Iremos a doscientos y si no bájate
 B           E       F#
 Na, na, na, na, na, ...
- 
+
            B           E
 Fue en el tramo más difícil
          F#                      B
@@ -73,7 +67,7 @@ Si esto es forma de divertirse
 Sal corriendo ahora mismo
  B                          E              F#
 Te vamos a matar que fue lo que quisiste hacer tú
- 
+
  B        E       F#
 Na, na, na, na, na, ... vuelvete loco ya.
 B          E       F#
@@ -82,3 +76,4 @@ A        D      E
 Na , na, na, na, na ... vuelvete loco ya.
 A        D      E
 na , na ,na,na, na tan solo un poco mas.
+

@@ -1,15 +1,10 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Revolver
-CANCIÓN: EL ROCE DE TU PIEL
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Revolver
+Canción: El Roce De Tu Piel
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 EL ROCE DE TU PIEL
 REVÓLVER
 
@@ -17,7 +12,7 @@ INTRO
 G    C    Em    D  C Em Am (x2)
 
 ESTROFA
- 
+
     G
 Un vaso de whisky un hotel diferente
          Em
@@ -38,11 +33,11 @@ no consigo sacarte de mi ni olvidarme de ti
 
 ESTRIBILLO
                   G            D                 Am   C
-Y es que no hay droga más dura que el amor sin medida 
+Y es que no hay droga más dura que el amor sin medida
                G          D                     C  D
 Es que no hay droga más dura que el roce de tu piel
-                  Em                 D                 
-Y es que no hay nada mejor que tener tu sabor 
+                  Em                 D
+Y es que no hay nada mejor que tener tu sabor
 G                   C
 corriendo por mis venas
 Am         D                   G
@@ -73,43 +68,44 @@ mejor cojo mis cosas nena mejor me voy
 
 ESTRIBILLO
                   G            D                 Am   C
-Y es que no hay droga más dura que el amor sin medida 
+Y es que no hay droga más dura que el amor sin medida
                G          D                     C  D
 Es que no hay droga más dura que el roce de tu piel
-                  Em                 D                 
-Y es que no hay nada mejor que tener tu sabor 
+                  Em                 D
+Y es que no hay nada mejor que tener tu sabor
 G                   C
 corriendo por mis venas
 Am         D                   G
 nada mejor que el roce de tu piel
 
 PUENTE
-      Em                 C	      
-Hoy lucho y pierdo el sentido 
+      Em                 C
+Hoy lucho y pierdo el sentido
        G         D             Em
 Por dormir esta noche en tus brazos
-                     C		      
-Hoy se perdió el equilibrio 
+                     C
+Hoy se perdió el equilibrio
       Am          C                D
 Y la balanza cayó de tu lado, mi amor.
 G    C    Em    D  (x2)
-      Em                 C	      
-Hoy lucho y pierdo el sentido 
+      Em                 C
+Hoy lucho y pierdo el sentido
        G         D             Em
 Por dormir esta noche en tus brazos
-                     C		      
-Hoy se perdió el equilibrio 
+                     C
+Hoy se perdió el equilibrio
       Am          C                D
 Y la balanza cayó de tu lado, mi amor.
 
 ESTRIBILLO
                   G            D                 Am   C
-Y es que no hay droga más dura que el amor sin medida 
+Y es que no hay droga más dura que el amor sin medida
                G          D                     C  D
 Es que no hay droga más dura que el roce de tu piel
-                  Em                 D                 
-Y es que no hay nada mejor que tener tu sabor 
+                  Em                 D
+Y es que no hay nada mejor que tener tu sabor
 G                   C
 corriendo por mis venas
 Am         D                   G
 nada mejor que el roce de tu piel
+

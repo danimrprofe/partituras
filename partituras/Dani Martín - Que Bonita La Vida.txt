@@ -1,17 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: QUE BONITA LA VIDA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Dani Martín
+Canción: Que Bonita La Vida
+Capo: No
+Disco: 
+Afinación: 
 
-DANI MARTÍN 
+
+DANI MARTÍN
 QUE BONITA LA VIDA
 
 INTRO
@@ -26,7 +20,7 @@ Y luego te lo quita te hace sentir culpable
 A veces cuenta contigo a veces ni te mira
               C     D
 Que bonita la vida.
- 
+
                G
 Que bonita la vida cuando baila su baile
                  B7
@@ -39,7 +33,7 @@ ESTRIBILLO
 Y tan bonita es que a veces se despista
         C                    D
 Y yo me dejo ser y tan bonita es
- 
+
            G                B7
 Es vida lo que me das vida tu caminar
           Em                  G
@@ -52,7 +46,7 @@ Vida que vuelve a dar vida que sola estas
 Vida repleta de gente que nace que vive
     C      D
 Que viene y va
- 
+
              G
 Que bonita la vida tantas veces enorme
                  B7
@@ -73,7 +67,7 @@ ESTRIBILLO
 Y tan bonita es que a veces se despista
         C                    D
 Y yo me dejo ser y tan bonita es
- 
+
            G                B7
 Es vida lo que me das vida tu caminar
           Em                  G
@@ -84,8 +78,8 @@ Que sueña que perderás
 Vida que vuelve a dar vida que sola estas
        Em                G                     C      D
 Vida repleta de gente que nace que vive. Que viene y va
- 
- 
+
+
 Solo: G B7 Em G C Em C Dsus4 D
 
 ESTRIBILLO
@@ -93,7 +87,7 @@ ESTRIBILLO
 Y tan bonita es que a veces se despista
         C                    D
 Y yo me dejo ser y tan bonita es
- 
+
            G                B7
 Es vida lo que me das vida tu caminar
           Em                  G
@@ -106,7 +100,7 @@ Vida que vuelve a dar vida que sola estas
 Vida repleta de gente que nace que vive
     C      D    G          B7        Em G C D
 Que viene y va Vida, vida, vida, vida
- 
+
               G
 Que bonita la vida que te mece con arte
                 B7
@@ -115,5 +109,4 @@ Que te trata de usted para luego arroparte
 Te hace sentir valiente otras tantas don nadie
                C   D
 Que bonita la vida.
-
 

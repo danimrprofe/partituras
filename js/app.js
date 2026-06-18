@@ -58,6 +58,20 @@ document.addEventListener("DOMContentLoaded", () => {
     const clearSearchHistoryBtn = document.getElementById("clearSearchHistory");
     const protocolNotice = document.getElementById("protocolNotice");
 
+    const exportProfilesBtn = document.getElementById("exportProfilesBtn");
+    const importProfilesBtn = document.getElementById("importProfilesBtn");
+    const importProfilesFile = document.getElementById("importProfilesFile");
+
+    const editSongBtn = document.getElementById("editSongBtn");
+    const youtubeBtn = document.getElementById("youtubeBtn");
+    const songViewMode = document.getElementById("songViewMode");
+    const songEditMode = document.getElementById("songEditMode");
+    const editArtist = document.getElementById("editArtist");
+    const editTitle = document.getElementById("editTitle");
+    const editCapo = document.getElementById("editCapo");
+    const saveEditBtn = document.getElementById("saveEditBtn");
+    const cancelEditBtn = document.getElementById("cancelEditBtn");
+
     if (
         !songList ||
         !searchInput ||
@@ -104,7 +118,18 @@ document.addEventListener("DOMContentLoaded", () => {
         !songInstrumentGroup ||
         songInstrumentInputs.length === 0 ||
         !songRating ||
-        !songRatingLabel
+        !songRatingLabel ||
+        !exportProfilesBtn ||
+        !importProfilesBtn ||
+        !importProfilesFile ||
+        !editSongBtn ||
+        !songViewMode ||
+        !songEditMode ||
+        !editArtist ||
+        !editTitle ||
+        !editCapo ||
+        !saveEditBtn ||
+        !cancelEditBtn
     ) {
         return;
     }
@@ -126,11 +151,12 @@ document.addEventListener("DOMContentLoaded", () => {
         sortDirection: "partituras:sort-direction"
     };
 
-    const SEED_PROFILES_URL = "partituras/song-profiles.seed.json";
+    const SEED_PROFILES_URL = "./partituras/song-profiles.seed.json";
 
     const INSTRUMENT_LABELS = {
         "sin-definir": "Sin definir",
         "guitarra-electrica": "Guitarra electrica",
+        "guitarra-acustica": "Guitarra acustica",
         piano: "Piano"
     };
 
@@ -251,13 +277,30 @@ document.addEventListener("DOMContentLoaded", () => {
             const trimmed = line.trim();
             const normalizedTrimmed = normalize(trimmed);
             const upperTrimmed = trimmed.toUpperCase();
+            
+            // Filtrar metadatos (ALBUM, AÑO, AFINACION, etc)
+            const isMetadata = /^(?:ALBUM|A[ÑN]O|YEAR|AFINACION|TUNING|BPM|TEMPO|KEY|CLAVE|COMPAS|TIME)\s*:/i.test(trimmed);
+            
             const hasCapoPrefix = upperTrimmed.startsWith("CEJILLA/CAPO:") ||
                                   upperTrimmed.startsWith("CEJILLA:") ||
                                   upperTrimmed.startsWith("CAPO:");
             const hasCapoKeyword = /\bcapo\s+[0-9]/i.test(trimmed);
             const hasCapoOrdinal = /\b(?:con\s+)?(?:cejilla|capo)\s+en\s+el\s+(primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|septimo|octavo|noveno|decimo|undecimo|duodecimo)\s+traste\b/i.test(normalizedTrimmed);
 
-            if (hasCapoPrefix || hasCapoKeyword || hasCapoOrdinal) {
+            if (isMetadata) {
+                // Extraer capo si es una línea de metadatos
+                if ((hasCapoPrefix || hasCapoKeyword || hasCapoOrdinal) && !trimmed.match(/^(?:ALBUM|A[ÑN]O|YEAR|AFINACION|TUNING)\s*:/i)) {
+                    let candidate = "";
+                    const match = trimmed.match(/(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(.+)/i);
+                    if (match) {
+                        candidate = match[1].trim();
+                    }
+                    if (candidate) {
+                        capoCandidates.push(candidate);
+                    }
+                }
+                // No agregar líneas de metadatos al texto limpio
+            } else if (hasCapoPrefix || hasCapoKeyword || hasCapoOrdinal) {
                 let candidate = "";
 
                 const match = trimmed.match(/(?:CEJILLA\/CAPO|CEJILLA|CAPO)\s*:\s*(.+)/i) ||
@@ -316,7 +359,7 @@ document.addEventListener("DOMContentLoaded", () => {
         return `${path}${separator}${CACHE_BUSTER}`;
     };
 
-    const fileUrl = (filename) => withCacheBuster(`partituras/${encodeURIComponent(filename)}`);
+    const fileUrl = (filename) => withCacheBuster(`./partituras/${encodeURIComponent(filename)}`);
 
     function loadFavoriteIds() {
         try {
@@ -352,10 +395,23 @@ document.addEventListener("DOMContentLoaded", () => {
     function normalizeProfileData(profile) {
         const normalizedProfile = profile && typeof profile === "object" ? profile : {};
         const rawTuning = normalizedProfile.tuning ?? "";
+        const capo = normalizedProfile.capo ?? "";
+        const bpm = normalizedProfile.bpm ?? "";
+        const key = normalizedProfile.key ?? "";
+        const timeSignature = normalizedProfile.timeSignature ?? "";
+        const techniques = Array.isArray(normalizedProfile.techniques) ? normalizedProfile.techniques.filter(Boolean) : [];
+        const chords = Array.isArray(normalizedProfile.chords) ? normalizedProfile.chords.filter(Boolean) : [];
+        
         return {
             instruments: normalizeInstrumentList(normalizedProfile.instruments ?? normalizedProfile.instrument),
             rating: Number.isInteger(normalizedProfile.rating) ? Math.max(0, Math.min(5, normalizedProfile.rating)) : 0,
-            tuning: Object.prototype.hasOwnProperty.call(TUNING_LABELS, rawTuning) ? rawTuning : ""
+            tuning: Object.prototype.hasOwnProperty.call(TUNING_LABELS, rawTuning) ? rawTuning : "",
+            capo: String(capo).trim(),
+            bpm: String(bpm).trim(),
+            key: String(key).trim(),
+            timeSignature: String(timeSignature).trim(),
+            techniques: techniques,
+            chords: chords
         };
     }
 
@@ -381,6 +437,96 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function saveSongProfiles() {
         localStorage.setItem(STORAGE_KEYS.songProfiles, JSON.stringify(songProfiles));
+    }
+
+    async function loadSharedProfiles() {
+        try {
+            const response = await fetch("./partituras/song-profiles.json");
+            if (response.ok) {
+                const data = await response.json();
+                if (data && typeof data === "object") {
+                    seedSongProfiles = Object.fromEntries(
+                        Object.entries(data).map(([songId, profile]) => [
+                            songId,
+                            normalizeProfileData(profile)
+                        ])
+                    );
+                }
+            }
+        } catch {
+            // Si no existe el archivo, simplemente no cargamos nada
+        }
+    }
+
+    function exportProfilesToJson() {
+        const exportData = {
+            songProfiles,
+            favorites: Array.from(favoriteIds),
+            fontSize: fontSizeRem,
+            searchHistory: loadSearchHistory(),
+            exportDate: new Date().toISOString()
+        };
+        return JSON.stringify(exportData, null, 2);
+    }
+
+    function downloadJSON(filename, jsonContent) {
+        const element = document.createElement("a");
+        element.setAttribute("href", "data:application/json;charset=utf-8," + encodeURIComponent(jsonContent));
+        element.setAttribute("download", filename);
+        element.style.display = "none";
+        document.body.appendChild(element);
+        element.click();
+        document.body.removeChild(element);
+    }
+
+    function importProfilesFromJson(jsonContent) {
+        try {
+            const data = JSON.parse(jsonContent);
+            if (!data || typeof data !== "object") {
+                alert("Formato de archivo inválido.");
+                return false;
+            }
+
+            // Restaurar perfiles de canciones
+            if (data.songProfiles && typeof data.songProfiles === "object") {
+                Object.entries(data.songProfiles).forEach(([songId, profile]) => {
+                    songProfiles[songId] = normalizeProfileData(profile);
+                });
+                saveSongProfiles();
+            }
+
+            // Mensaje informativo sobre nuevo formato
+            if (data.songProfiles && Object.keys(data.songProfiles).length > 0) {
+                console.log("Perfiles importados con soporte para: capo, BPM, técnicas, clave y compás");
+            }
+
+            // Restaurar favoritas
+            if (Array.isArray(data.favorites)) {
+                favoriteIds.clear();
+                data.favorites.forEach((id) => favoriteIds.add(id));
+                saveFavoriteIds();
+            }
+
+            // Restaurar historial de búsqueda
+            if (Array.isArray(data.searchHistory)) {
+                try {
+                    localStorage.setItem(STORAGE_KEYS.searchHistory, JSON.stringify(data.searchHistory));
+                } catch {
+                    // Ignorar si no se puede guardar
+                }
+            }
+
+            // Actualizar UI
+            updateProfileBadge();
+            updateFavoritesBadge();
+            renderSongList(searchInput.value);
+
+            alert("Datos importados correctamente.");
+            return true;
+        } catch (error) {
+            alert("Error al importar: " + error.message);
+            return false;
+        }
     }
 
     function loadFilterMode() {
@@ -541,16 +687,50 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         if (typeof rawCapo === "number" && Number.isFinite(rawCapo)) {
-            return Math.max(0, Math.round(rawCapo));
+            const val = Math.round(rawCapo);
+            // Aceptar capo negativo (-1) o positivos (1-12)
+            return (val < 0 && val >= -12) || (val > 0 && val <= 12) ? val : null;
         }
 
-        const match = String(rawCapo).match(/\d+/);
+        const match = String(rawCapo).match(/-?\d+/);
         if (!match) {
             return null;
         }
 
         const parsed = Number(match[0]);
-        return Number.isFinite(parsed) ? Math.max(0, parsed) : null;
+        if (!Number.isFinite(parsed)) return null;
+        
+        // Aceptar capo negativo (-1 a -12) o positivo (1-12)
+        return (parsed < 0 && parsed >= -12) || (parsed > 0 && parsed <= 12) ? parsed : null;
+    }
+
+    function extractChords(rawText) {
+        if (!rawText) return [];
+        
+        // Regex para detectar acordes: A, C#m, Bb7, Dm7/G, etc
+        const chordPattern = /\b([A-G](?:[#b])?(?:maj|min|m|M|7|9|sus|add|dim|aug)?[0-9]*(?:\/[A-G](?:[#b])?)?)\b/g;
+        const matches = rawText.match(chordPattern) || [];
+        
+        // Excluir palabras que podrían ser falsas positivas
+        const excludeWords = /^(and|add|but|lab|mag|meg|the|may|ban|bad|bad|bag|bar|bat|bed|ben|bit|bob|bog|boy|bus|but|dam|dan|dec|del|den|dig|div|doc|dog|don|due|duh|dud|feb|fed|few|fig|fin|fit|fog|for|gap|gas|gay|get|god|got|gum|gun|gym|had|ham|has|hat|hay|hem|her|hid|him|hip|his|hit|hog|hot|how|how|hub|hue|hug|hum|i'm|icy|ill|ink|inn|ion|its|jab|jam|jar|jaw|jay|jet|job|jog|joy|jug|key|kid|kin|kit|lab|lad|lag|lap|law|lay|leg|let|lid|lie|lip|lit|log|lot|low|mac|mad|mag|man|map|mar|mat|max|may|men|met|mid|mix|mob|mom|mop|mud|mug|nag|nap|net|new|nod|nor|not|now|nut|oak|oar|odd|off|oil|old|one|ore|our|out|owe|owl|own|pad|pal|pan|par|pat|paw|pay|pea|peg|pen|per|pet|pie|pig|pin|pit|pod|pop|pot|pow|pry|pub|pup|put|rad|rag|ram|ran|rap|rat|raw|ray|red|rid|rig|rim|rip|rob|rod|roe|rot|row|rub|rug|run|rut|sad|sag|sat|saw|say|sea|see|set|sex|she|shy|sin|sip|sir|sis|sit|six|ski|sky|sly|sob|sop|spa|spy|sub|sum|sun|tab|tad|tag|tan|tap|tar|tat|tax|tea|ten|the|tie|tin|tip|tmp|toe|ton|too|tow|toy|try|tub|tug|two|urn|use|van|vet|vow|wad|wag|war|was|wax|way|web|wed|wee|wet|who|why|wig|win|wit|woe|won|woo|yes|yet|you|zip|zoo)$/i;
+        
+        // Contar frequencia de cada acorde (normalizado)
+        const chordFrequency = {};
+        matches.forEach(chord => {
+            if (!chord.match(excludeWords)) {
+                // Normalizar: AM -> Am, FM -> Fm, CM7 -> Cm7, etc
+                const normalized = chord.replace(/M/g, 'm');
+                
+                chordFrequency[normalized] = (chordFrequency[normalized] || 0) + 1;
+            }
+        });
+        
+        // Ordenar por frequencia (más repetidos primero)
+        const sortedChords = Object.entries(chordFrequency)
+            .sort((a, b) => b[1] - a[1])  // Orden descendente por frequencia
+            .map(entry => entry[0]);      // Extraer solo los acordes
+        
+        return sortedChords;
     }
 
     function populateDynamicFilters() {
@@ -801,12 +981,30 @@ document.addEventListener("DOMContentLoaded", () => {
         return normalizeProfileData(seedSongProfiles[songId]);
     }
 
+    function saveSongProfileWithDetectedChords(songId, nextProfile) {
+        const currentSong = findSongById(songId);
+        const detectedChords = (currentSong && currentSong.detectedChords) ? currentSong.detectedChords : [];
+        
+        const profileToSave = {
+            ...nextProfile,
+            chords: nextProfile.chords || detectedChords
+        };
+        
+        saveSongProfile(songId, profileToSave);
+    }
+
     function saveSongProfile(songId, nextProfile) {
         const rawTuning = nextProfile.tuning ?? "";
         songProfiles[songId] = {
             instruments: normalizeInstrumentList(nextProfile.instruments),
             rating: Number.isInteger(nextProfile.rating) ? Math.max(0, Math.min(5, nextProfile.rating)) : 0,
-            tuning: Object.prototype.hasOwnProperty.call(TUNING_LABELS, rawTuning) ? rawTuning : ""
+            tuning: Object.prototype.hasOwnProperty.call(TUNING_LABELS, rawTuning) ? rawTuning : "",
+            capo: String(nextProfile.capo ?? "").trim(),
+            bpm: String(nextProfile.bpm ?? "").trim(),
+            key: String(nextProfile.key ?? "").trim(),
+            timeSignature: String(nextProfile.timeSignature ?? "").trim(),
+            techniques: Array.isArray(nextProfile.techniques) ? nextProfile.techniques.filter(Boolean) : [],
+            chords: Array.isArray(nextProfile.chords) ? nextProfile.chords.filter(Boolean) : []
         };
 
         saveSongProfiles();
@@ -856,9 +1054,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 const profile = getSongProfile(activeSongId);
                 const nextRating = profile.rating === value ? 0 : value;
-                saveSongProfile(activeSongId, {
+                saveSongProfileWithDetectedChords(activeSongId, {
                     instruments: profile.instruments,
-                    rating: nextRating
+                    rating: nextRating,
+                    tuning: profile.tuning,
+                    capo: profile.capo,
+                    bpm: profile.bpm,
+                    key: profile.key,
+                    timeSignature: profile.timeSignature,
+                    techniques: profile.techniques
                 });
                 renderActiveSongProfile();
                 renderSongList(searchInput.value);
@@ -910,6 +1114,31 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
             } else if (profile.tuning !== tuningFilterValue) {
                 return false;
+            }
+        }
+
+        if (capoFilterValue !== "all") {
+            // Usar capo del perfil si existe, sino del índice
+            const profileCapo = profile.capo ? Number(profile.capo) : null;
+            const songCapoNum = profileCapo !== null ? profileCapo : (song.capo ? Number(song.capo) : 0);
+            
+            if (capoFilterValue === "sin-cejilla") {
+                if (songCapoNum !== 0) {
+                    return false;
+                }
+            } else if (capoFilterValue === "1-2") {
+                if (songCapoNum < 1 || songCapoNum > 2) {
+                    return false;
+                }
+            } else if (capoFilterValue === "3-plus") {
+                if (songCapoNum < 3) {
+                    return false;
+                }
+            } else if (capoFilterValue === "sin-definir") {
+                // Sin definir = que no tenga capo ni en perfil ni en canción
+                if (profileCapo !== null || (song.capo && song.capo > 0)) {
+                    return false;
+                }
             }
         }
 
@@ -966,6 +1195,15 @@ document.addEventListener("DOMContentLoaded", () => {
                     return `<span class="${badgeClass}">${label}</span>`;
                 }).join("")
                 : "";
+            
+            // Mostrar acordes detectados (limitados a 4 principales)
+            const detectedChords = song.detectedChords && Array.isArray(song.detectedChords) 
+                ? song.detectedChords.slice(0, 4).join(", ") 
+                : "";
+            const chordTag = detectedChords 
+                ? `<span class="song-tag chord-tag" title="Acordes: ${song.detectedChords.join(', ')}">${detectedChords}</span>`
+                : "";
+            
             const row = document.createElement("div");
             row.className = "song-row";
 
@@ -977,14 +1215,17 @@ document.addEventListener("DOMContentLoaded", () => {
                 button.classList.add("active");
             }
 
+            const capoValue = parseCapoValue(song.capo);
+            const capoBadgeClass = capoValue < 0 ? "text-bg-danger" : "text-bg-warning";
+            const capoBadge = capoValue ? `<span class="badge ${capoBadgeClass} ms-2" style="font-size: 0.75rem; font-weight: 700;">Capo ${capoValue}</span>` : "";
+            
             button.innerHTML = `
                 <div class="song-item-main">
-                    <div class="fw-semibold">${song.title}</div>
-                    <div class="song-meta">${song.artist}</div>
-                    <div class="song-tags">
+                    <div class="fw-semibold small" style="line-height: 1.2; display: flex; align-items: center; flex-wrap: wrap;">${song.artist} - ${song.title}${capoBadge}</div>
+                    <div class="song-tags" style="font-size: 0.7rem; gap: 0.3rem;">
+                        ${chordTag}
                         ${instrumentTags.join("")}
                         ${tuningTag}
-                        ${techniqueTags}
                         <span class="song-tag rating-tag">${formatRatingStars(profile.rating)}</span>
                     </div>
                 </div>
@@ -1144,7 +1385,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const speed = Number(autoscrollSpeed.value);
         autoscrollTimer = window.setInterval(() => {
             songBody.scrollTop += speed;
-        }, 80);
+        }, 200);
 
         autoscrollToggle.textContent = "Parar";
         autoscrollToggle.classList.remove("btn-outline-secondary");
@@ -1379,17 +1620,34 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             activeSongRawText = await response.text();
+            
+            // Detectar acordes del texto
+            song.detectedChords = extractChords(activeSongRawText);
+            
+            // Reset capo ANTES d'extraer
+            activeSongCapo = "";
+            
             const { capo } = extractCapoInfo(activeSongRawText);
             const resolvedCapoValue = parseCapoValue(capo || song.capo);
-            activeSongCapo = resolvedCapoValue && resolvedCapoValue > 0 ? String(resolvedCapoValue) : "";
+            activeSongCapo = resolvedCapoValue ? String(resolvedCapoValue) : "";
             activeSongId = song.id;
             activeSongFilename = song.filename;
 
             songTitle.textContent = song.title;
-            songMeta.textContent = song.artist;
+            let metaText = song.artist;
+            if (song.year) {
+                metaText += ` (${song.year})`;
+            }
+            if (song.album) {
+                metaText += ` - ${song.album}`;
+            }
+            songMeta.textContent = metaText;
             
             // Mostrar u ocultar la cejilla
             if (activeSongCapo) {
+                const capoNumValue = parseInt(activeSongCapo, 10);
+                const capoDisplayClass = capoNumValue < 0 ? "text-bg-danger" : "text-bg-warning";
+                songCapo.className = `badge ${capoDisplayClass}`;
                 songCapo.textContent = `Cejilla: ${activeSongCapo}`;
                 capoContainer.classList.remove("d-none");
             } else {
@@ -1404,12 +1662,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 bpmContainer.classList.add("d-none");
             }
             
-            // Mostrar técnicas si existen
-            if (song.techniques && song.techniques.length > 0) {
-                songTechniques.innerHTML = song.techniques
+            // Mostrar técnicas si existen (excluyendo barre-chords que se muestra en cejilla)
+            const otherTechniques = song.techniques && song.techniques.filter(tech => tech !== "barre-chords") || [];
+            if (otherTechniques.length > 0) {
+                songTechniques.innerHTML = otherTechniques
                     .map((tech) => {
                         const label = TECHNIQUE_LABELS[tech] || tech;
-                        const badgeClass = tech === "barre-chords" ? "text-bg-danger" : "text-bg-secondary";
+                        const badgeClass = "text-bg-secondary";
                         return `<span class="badge ${badgeClass}">${label}</span>`;
                     })
                     .join("");
@@ -1445,6 +1704,10 @@ document.addEventListener("DOMContentLoaded", () => {
             renderSongBody();
             renderActiveSongProfile();
 
+            // Restaurar modo lectura
+            songViewMode.classList.remove("d-none");
+            songEditMode.classList.add("d-none");
+
             emptyState.classList.add("d-none");
             songView.classList.remove("d-none");
             songBody.scrollTop = 0;
@@ -1468,7 +1731,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     async function loadSongsIndex() {
-        const response = await fetch(withCacheBuster("partituras/index.json"));
+        const response = await fetch(withCacheBuster("./partituras/index.json"));
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}`);
         }
@@ -1609,6 +1872,118 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         }
 
+        exportProfilesBtn.addEventListener("click", () => {
+            const jsonContent = exportProfilesToJson();
+            const filename = `partituras-perfiles-${new Date().toISOString().split("T")[0]}.json`;
+            downloadJSON(filename, jsonContent);
+        });
+
+        importProfilesBtn.addEventListener("click", () => {
+            importProfilesFile.click();
+        });
+
+        importProfilesFile.addEventListener("change", (event) => {
+            const file = event.target.files?.[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                const content = e.target?.result;
+                if (typeof content === "string") {
+                    importProfilesFromJson(content);
+                }
+                // Reset el input para permitir seleccionar el mismo archivo de nuevo
+                importProfilesFile.value = "";
+            };
+            reader.readAsText(file);
+        });
+
+        // Editar artista, canción y capo
+        editSongBtn.addEventListener("click", () => {
+            const activeSong = songs.find(s => s.id === activeSongId);
+            if (!activeSong) return;
+
+            const profile = songProfiles[activeSongId] || {};
+            
+            editArtist.value = profile.artist || activeSong.artist || "";
+            editTitle.value = profile.title || activeSong.title || "";
+            editCapo.value = profile.capo || activeSongCapo || "";
+
+            songViewMode.classList.add("d-none");
+            songEditMode.classList.remove("d-none");
+            editArtist.focus();
+        });
+
+        // Abrir YouTube
+        youtubeBtn.addEventListener("click", () => {
+            const activeSong = songs.find(s => s.id === activeSongId);
+            if (!activeSong || !activeSong.youtubeUrl) return;
+            window.open(activeSong.youtubeUrl, "youtube_video", "width=1280,height=720,resizable=yes,scrollbars=yes");
+        });
+
+        saveEditBtn.addEventListener("click", () => {
+            const newArtist = editArtist.value.trim();
+            const newTitle = editTitle.value.trim();
+            const newCapo = editCapo.value ? parseInt(editCapo.value, 10) : null;
+
+            if (!newArtist || !newTitle) {
+                alert("Artista y canción son requeridos");
+                return;
+            }
+
+            // Guardar en perfil
+            const profile = songProfiles[activeSongId] || {};
+            if (newArtist) profile.artist = newArtist;
+            if (newTitle) profile.title = newTitle;
+            if (newCapo !== null && newCapo > 0) {
+                profile.capo = newCapo;
+            } else {
+                delete profile.capo;
+            }
+            
+            songProfiles[activeSongId] = profile;
+            saveSongProfiles();
+
+            // Actualizar en songs (para que se refleje en la lista)
+            const songIndex = songs.findIndex(s => s.id === activeSongId);
+            if (songIndex >= 0) {
+                if (newArtist) songs[songIndex].artist = newArtist;
+                if (newTitle) songs[songIndex].title = newTitle;
+                if (newCapo !== null && newCapo > 0) {
+                    songs[songIndex].capo = newCapo;
+                } else {
+                    delete songs[songIndex].capo;
+                }
+            }
+
+            // Actualizar vista
+            songMeta.textContent = newArtist;
+            songTitle.textContent = newTitle;
+            if (newCapo) {
+                const capoNumValue = parseInt(newCapo, 10);
+                const capoDisplayClass = capoNumValue < 0 ? "text-bg-danger" : "text-bg-warning";
+                songCapo.className = `badge ${capoDisplayClass}`;
+                songCapo.textContent = `Cejilla: ${newCapo}`;
+                capoContainer.classList.remove("d-none");
+                activeSongCapo = String(newCapo);
+            } else {
+                capoContainer.classList.add("d-none");
+                activeSongCapo = "";
+            }
+
+            // Volver a modo lectura
+            songViewMode.classList.remove("d-none");
+            songEditMode.classList.add("d-none");
+            
+            // Refrescar la lista para mostrar cambios
+            renderSongList(searchInput.value);
+        });
+
+        cancelEditBtn.addEventListener("click", () => {
+            songViewMode.classList.remove("d-none");
+            songEditMode.classList.add("d-none");
+        });
+
         searchInput.addEventListener("input", (event) => {
             renderSongList(event.target.value);
             renderSearchSuggestions(event.target.value);
@@ -1684,6 +2059,18 @@ document.addEventListener("DOMContentLoaded", () => {
             resetAllFilters();
         });
 
+        // Event listeners para botones de artistas frecuentes
+        document.querySelectorAll("[data-artist]").forEach((button) => {
+            button.addEventListener("click", () => {
+                const artist = button.dataset.artist;
+                searchInput.value = artist;
+                searchInput.focus();
+                const event = new Event("input", { bubbles: true });
+                searchInput.dispatchEvent(event);
+                saveSearchHistory(artist);
+            });
+        });
+
         instrumentFilter.addEventListener("change", (event) => {
             instrumentFilterValue = event.target.value;
             saveInstrumentFilter();
@@ -1738,9 +2125,15 @@ document.addEventListener("DOMContentLoaded", () => {
                 .filter((input) => input.checked)
                 .map((input) => input.value);
 
-            saveSongProfile(activeSongId, {
+            saveSongProfileWithDetectedChords(activeSongId, {
                 instruments,
-                rating: profile.rating
+                rating: profile.rating,
+                tuning: profile.tuning,
+                capo: profile.capo,
+                bpm: profile.bpm,
+                key: profile.key,
+                timeSignature: profile.timeSignature,
+                techniques: profile.techniques
             });
             renderActiveSongProfile();
             renderSongList(searchInput.value);
@@ -1752,10 +2145,15 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             const profile = getSongProfile(activeSongId);
-            saveSongProfile(activeSongId, {
+            saveSongProfileWithDetectedChords(activeSongId, {
                 instruments: profile.instruments,
                 rating: profile.rating,
-                tuning: songTuning.value
+                tuning: songTuning.value,
+                capo: profile.capo,
+                bpm: profile.bpm,
+                key: profile.key,
+                timeSignature: profile.timeSignature,
+                techniques: profile.techniques
             });
             renderSongList(searchInput.value);
         });
@@ -1836,6 +2234,7 @@ document.addEventListener("DOMContentLoaded", () => {
             updateProtocolNotice();
             await loadSongsIndex();
             await loadSeedSongProfiles();
+            await loadSharedProfiles();
             populateDynamicFilters();
             fontSizeRem = loadFontSize();
             saveSongProfiles();

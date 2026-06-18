@@ -1,15 +1,8 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: EL GIGANTE DE BIG FISH
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: El Gigante De Big Fish
+Capo: 1
+Disco:
+Afinación:
 
 ESTROFA
 D                          Dsus4  D                 Dsus4

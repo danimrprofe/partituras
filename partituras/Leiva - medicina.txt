@@ -1,26 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: MEDICINA2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: medicina
+Capo: No
+Disco: Monstruos
+Afinación: 
+ALBUM: Monstruos
+AÑO: 2016
 
-# Medicina
-
-<<<<<<< HEAD
-=======
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | No   |
-
->>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
-```
 ESTROFA 1
 D          F#m
 Quería contarte
@@ -30,7 +15,6 @@ G
 los arboles ardían
 A                 D
 y tu ibas a callártelo
-
 
 ESTROFA 2
 D           F#m
@@ -42,12 +26,7 @@ no eras lo que vendías
 A                D
 y voy a recordártelo
 
-
-<<<<<<< HEAD
 ESTRIBILLO
-=======
-ESTRIBILLO
->>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G               D
 y hoy , hoy vas a despertar
 A              Bm
@@ -63,7 +42,6 @@ tu medicina
 
 D
 
-
 ESTROFA 3
 D          F#m
 quería aclararte
@@ -74,12 +52,7 @@ había expectativas
 A           D
 y te venia grande
 
-
-<<<<<<< HEAD
 ESTRIBILLO
-=======
-ESTRIBILLO
->>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G                 D
 y hoy , hoy vas a despertar
 A          Bm
@@ -102,7 +75,6 @@ cuando vas a probar
 A   G   D
 tu medicina
 
-
 ESTROFA 4
 D          F#m
 quería aclararte
@@ -113,12 +85,7 @@ había expectativas
 A             D
 y te venia grande
 
-
-<<<<<<< HEAD
 ESTRIBILLO
-=======
-ESTRIBILLO
->>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
 G                 D
 y hoy , hoy vas a despertar
 A          Bm
@@ -140,10 +107,4 @@ G          D
 cuando te va alcanzar
 A   G   D
 tu medicina
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> 608d296a14ecfaf1541fd5073a0179bbaa6c6cc5
-
 

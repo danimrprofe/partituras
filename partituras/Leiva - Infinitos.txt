@@ -1,15 +1,10 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: INFINITOS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: Infinitos
+Capo: No
+Disco: Cuando te muerdes el labio
+Afinación: 
+ALBUM: Cuando te muerdes el labio
+AÑO: 2021
 
 ESTROFA
 A
@@ -20,7 +15,7 @@ A
 He bajado a convencer a alguien
 F#m                             C#m       E
 No he encontrado ni un lugar abierto, abierto
- 
+
       D
 No me hables de energías
           E
@@ -61,7 +56,7 @@ Como para no estar tirado en el piso
 Hay días, que se menean los cimientos
                E                F#m
 No se si escuchaste mi último aullido
- 
+
 Instrumental
 
 A Dm A F#m  F E A
@@ -77,7 +72,7 @@ D                        Bm            E
 Yo sigo generando infinitos es lo que hago mejor
 
 ESTRIBILLO
- 
+
         D                    A
 No hay pila y demasiado movimiento
            C#7                 F#m
@@ -86,3 +81,4 @@ Como para no estar tirado en el piso
 Hay días, que se menean los cimientos
                E                F#m
 No se si escuchaste mi último aullido
+

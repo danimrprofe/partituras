@@ -1,23 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Coldplay
-CANCION: CLOCKS2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Coldplay
+Canción: clocks
+Capo: No
+Disco: 
+Afinación: 
 
-# Clocks
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 1    |
-
-```
 INTRO
 D  Am  Am  Em  x4
 
@@ -31,7 +18,7 @@ D                 Am                            Em
 D              Am                             Em
   Trouble that can't be named, tigers waiting to be tamed - singing
 
-[Hook]
+ESTRIBILLO
 (Piano Riff)
 D      Am      Am      Em      D      Am      Am      Em
      You              are           You              are
@@ -49,7 +36,7 @@ D           Am                             Em
 D        Am                             Em
   A part of the cure, or am I a part of the disease? - singing
 
-[Hook]
+ESTRIBILLO
 (w/Piano Riff)
 D      Am      Am      Em      D      Am      Am      Em
      You              are           You              are
@@ -71,7 +58,7 @@ Fmaj7                  C     G
 Fmaj7                  C     G    Fmaj7
       And nothing else compares
 
-[Hook]
+ESTRIBILLO
 (Piano Riff)
 D  Am  Am  Em  x2
 
@@ -98,4 +85,4 @@ Home, home, where I wanted to go
 (w/High Piano Riff)
 D  Am  Am  Em  x3
 (fade out)
-```
+

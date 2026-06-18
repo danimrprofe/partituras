@@ -1,19 +1,13 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Los Piratas
-CANCION: TE ECHARE DE MENOS
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Los Piratas
+Canción: Te Echare De Menos
+Capo: No
+Disco: 
+Afinación: 
 
-Tom: Bm
-Intro:
+INTRO
 (G)(D)(G)(D)
+
+ESTROFA
 G        D                     G               D
 Con cuidado se levanta de mi lado. Llámame mañana
                  G     D    G
@@ -32,7 +26,7 @@ no tienes porqué sentirte mal
       D
 Te echaré de menos hoy
 
-(Estribillo)
+ESTRIBILLO
        Em
 Te echaré tanto de menos
      F#/D                       G
@@ -74,7 +68,6 @@ Me gusta cuando duermes y odio madrugar
 no tienes porqué sentirte mal
 Te echaré de menos hoy
 
-
 Te echaré tanto de menos
 Cerraré fuerte los ojos hasta verte
 Sólo tengo que esperar
@@ -82,8 +75,8 @@ Yo te echaré tanto de menos
 que aunque busque una palabra
 no habrá nada que me cure de verdad
 
-
 Te echaré tanto de menos
 que las manos se me duermen
 Te echaré tanto de menos
 que no sé cómo parar esta canción
+

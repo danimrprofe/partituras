@@ -1,16 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Estopa
-CANCION: ESCÚCHAME PRINCESA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
+Artista: Estopa
+Canción: Escúchame Princesa
+Capo: No
+Disco: 
+Afinación: 
 ESTOPA 
 ESCÚCHAME PRINCESA
 Sin capo
@@ -36,10 +28,9 @@ Am7                  D7sus2
 Escuchame princesa, olvidare tu ultimo beso
       Fmaj7                   Am7
 solo dame algo de tiempo solo eso
-Am7       D7sus2
+     Am7                     D7sus2
 no intentes consolarme con tu amistad eterna
-
-Fmaj7        Am7
+        Fmaj7                    Am7
 no te inventes mas historias de novelas
 REPITE  ESTRIBILLO
 Am                          Em7

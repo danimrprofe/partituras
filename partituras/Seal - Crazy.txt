@@ -1,30 +1,25 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Seal
-CANCIÓN: crazy
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Seal
+Canción: Crazy
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 e|--0---0---3---2---1---3---1---0--|
 B|--1---1---3---3---1---3---3---0--|
 G|--2---0---2---2---2---0---2---0--|
 D|--2---2---0---0---3---0---0---2--|
 A|--0---3---x---x---3---2---x---2--|
 E|--x---x---x---x---1---3---x---0--|
- 
- 
+
+
 INTRO
- 
+
 Am C D4 D
- 
- 
+
+
 ESTROFA
- 
+
 Am                    C
  A man decides after seventy years
               D4                    D
@@ -34,21 +29,21 @@ Am                            C               D4     D
 Am                            C
   And through a fractal  on a breaking  wall
       D4                                 D
-I see you my friend and touch your face again 
+I see you my friend and touch your face again
 Am                     C          D4  D
-  Miracles will happen as we dream 
- 
- 
+  Miracles will happen as we dream
+
+
 ESTRIBILLO
- 
+
 F                         C       G                   D
- But we're never gonna survive  unless  we get little  crazy 
+ But we're never gonna survive  unless  we get little  crazy
 F                         C      G                      D
- No we're never gonna  survive unless  we are a little    crazy 
- 
- 
+ No we're never gonna  survive unless  we are a little    crazy
+
+
 ESTROFA
- 
+
 Am                    C
   As the people walking through my head
               D4                      D
@@ -63,45 +58,46 @@ Am                               C
 them maybe, them maybe, them maybe, them maybe
 Am                     C           D4     D
   Miracles will happen as we speak
- 
+
 Page 2/3
- 
+
 ESTRIBILLO
- 
+
 F                      C          G                      D
- But we're never gonna  survive unless  we get little  crazy 
+ But we're never gonna  survive unless  we get little  crazy
 F                      C          G                        D
- No  we're never gonna  survive unless  we are a little  crazy 
+ No  we're never gonna  survive unless  we are a little  crazy
 F                      C          G                        D          Am
- No  we're never gonna  survive unless  we get a little  crazy 
- 
- 
+ No  we're never gonna  survive unless  we get a little  crazy
+
+
 PUENTE
- 
+
      Dm7                     Em7
 In a sky full of people only some want to fly
            Fmaj7    G
 isn't that crazy
- 
+
      Dm7                       Em7
 In a world full of people only some want to fly
            Fmaj7         G                G
 Isn't that crazy, crazy, crazy, crazy
- 
+
      Am                      C
 In a heaven of people only some want to fly
            D4       D
 isn't that crazy
- 
+
      Am                                C
 In a world full of people there's only some want to fly
            D4             D                D
 Isn't that crazy, crazy, crazy, crazy
- 
- 
+
+
 ESTRIBILLO
- 
+
 F                          C      G                   D
- But we're never gonna survive unless  we get little  crazy 
+ But we're never gonna survive unless  we get little  crazy
 F                        C      G                     D      Am
  No we're never gonna survive unless  we are a little  crazy
+

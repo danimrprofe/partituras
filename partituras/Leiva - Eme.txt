@@ -1,15 +1,12 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: EME
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: Eme
+Capo: 2
+Disco: Diciembre
+Afinación: 
+ALBUM: Diciembre
+AÑO: 2012
+
+CEJILLA/CAPO: 2
 
 ESTROFA
 C                              G              Dm                  Am       F                        G7                   Am
@@ -19,9 +16,9 @@ Eme cuando se ponga el sol voy a destruirlo. Borrarme la señal de tus colmillos
 
 ESTRIBILLO
       F                C    E              Am
-Me dejaste el cuerpo fuera, y la cabeza entera       
-               F           C           G7             
-guardada seca entre tus trofeos y tus medias. 
+Me dejaste el cuerpo fuera, y la cabeza entera
+               F           C           G7
+guardada seca entre tus trofeos y tus medias.
 F          G                C
 ¡Hey, te espero fuera!
 
@@ -33,9 +30,9 @@ Ooooh Eme Cuando se acabe este rock, cuando cometa un crimen
 Dm                  G7               Am
 Cuando nos queme la ambición
             F                            C    E                         Am
-Me dejaste el cuerpo fuera, y la cabeza entera       
-                              F                   C                 G7             
-guardada seca entre tus trofeos y tus medias. 
+Me dejaste el cuerpo fuera, y la cabeza entera
+                              F                   C                 G7
+guardada seca entre tus trofeos y tus medias.
              F                  C      E                       Am
 Meneaste las caderas y me clavé la sierra que se colaba
 F                    C                        G7     F               G     Am

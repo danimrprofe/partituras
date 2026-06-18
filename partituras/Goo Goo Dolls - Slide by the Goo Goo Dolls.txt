@@ -1,43 +1,36 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Goo Goo Dolls
-CANCION: SLIDE BY THE GOO GOO DOLLS
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: Goo Goo Dolls
+Canción: Slide by the Goo Goo Dolls
+Capo: 1
+Disco: 
+Afinación: with open d ( E A D G B d )
 CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
 Capo:
 1st fret
 SLIDE by THE GOO GOO DOLLS
- 
+
 Guitar transcription by Nathan Gilera Hayag, RRT
- 
+
 For comments, suggestions & violent reactions, Email me at nathanhayag@gmail.com
- 
+
 STANDARD TUNING with open d ( E A D G B d )
-CAPO ON 1ST FRET
- 
- 
+
+
 CHORDS :   Em - 022030   D   - xx0230   C9 - x32030
            G  - 320030   G/B - x20030
- 
+
 *** We all know The Goo Goo Dolls used a weird alternate tuning of D# A# D# G# G#
 d# for this song--something which is tedious to do & very time-consuming. You
 might also break a couple of strings in the process.  In short, it's a headache to
 play!  So I came up with this tab to make our lives a whole lot easier. Just drop
 the 1st (e) string to D and you're good to go.
- 
+
 If you love the song so much but too lazy to dabble with the machine heads then I
 guess you should opt for my version.
- 
- 
- 
-[INTRO]                                     2x
+
+
+
+INTRO                                     2x
 e||-----------------------------------------||
 B||*-----3--------3----------3-------3---3-*||
 G||----0---0----0---0------0---0---0--------||
@@ -45,7 +38,7 @@ D||--2--------0-------0---------------------||
 A||*---------------------3-----------------*||
 E||------------------------------3-----2----||
                                 *T     T    *thumb
- 
+
 ESTROFA
 Em                        D
   Could you whisper in my ear
@@ -53,7 +46,7 @@ Em                        D
   The things you wanna feel?
                   (C9)
   I'll give you anythin'
- 
+
   To feel it coming'
 Em                       D
   Do you wake up on your own
@@ -61,21 +54,21 @@ Em                       D
   And wonder where you are?
                         (C9)
   You live with all your faults.
- 
- 
+
+
 [PRE-CHORUS 1]                                       Riff 1 :       let ring
 *Riff 1                                             e-----------------------|
   I wanna wake up where you are,                    B--------3------(3)-----|
 *Riff 1                                             G------0---0-----0------|
   I won't say anything at all.                      D--0H2-----------2------|
                                                     A------------2---3------|
-[CHORUS 1]                                          E-----------------------|
+ESTRIBILLO                                          E-----------------------|
      D             C9   G   C9   G   C9   G    D
   So why don't you slide.
        (D)               C9   G   C9   G   C9  G   D
   Yeah, I'm gonna let it slide.
- 
- 
+
+
 [VERSE :]
 Em                            D
   Don't you love the life you killed?
@@ -83,7 +76,7 @@ Em                            D
   The priest is on the phone,
                      (C9)
   Your father hit the wall,
- 
+
   Your ma disowned you.
 Em                        D
   Don't suppose I'll ever know
@@ -91,24 +84,24 @@ Em                        D
   What it means to be a man.
                               C9
   It's somethin' that i can't change,
- 
+
   I'll live around it.
- 
- 
+
+
 [PRE-CHORUS 2 :]
 C9 (pause)
   I wanna wake up where you are.
 *Riff 1
   I won't say anything at all.
- 
- 
+
+
 [CHORUS 2 :]
      D             C9   G   C9   G   C9   G   D
   So why don't you slide.
    (D)  C9   G   C9   G   C9   G   D
   Mmmm, slide.
- 
- 
+
+
 [BRIDGE :]
       C9         G              C9               G
   And I'll do anythin' you ever dreamed to be complete,
@@ -122,11 +115,11 @@ C9 (pause)
   And what you are is beautiful.
      Em                    D               C9
   Oh May, do you wanna get married or run away?
- 
- 
-[INSTRUMENTAL :]
+
+
+SOLO
      C9- G- C9- G- C9- G- D--
- 
+
       C9         G              C9               G
   And I'll do anythin' you ever dreamed to be complete,
          C9        G            D
@@ -139,16 +132,16 @@ C9 (pause)
   And what you are is beautiful.
      Em                    D               C9
   Oh May, do you wanna get married or run away?
- 
- 
+
+
 [PRE-CHORUS 3 :]
 *Riff 1
   I wanna wake up where you are.
 *Riff 1
   I won't say anything at all.
- 
+
 D (break)
- 
+
       C9         G              C9               G
   And I'll do anythin' you ever dreamed to be complete,
          C9        G            D
@@ -157,7 +150,7 @@ D (break)
   And I'll do anythin' you ever dreamed to be complete,
          C9        G            D
   Little pieces of nothing that fall.
- 
+
             C9                G                 C9              G
   Oh oh oh, slide between the sheets of all the beds you never knew.
                 C9            G
@@ -166,7 +159,7 @@ D (break)
   Just slide into my room.
 OUTRO
   Oh, we'll run away, run away, run away.___
- 
+
 OUTRO :                                                             let ring
 e----------------------------------------|-----------------------------(0)--|
 B------3--------3----------3-------3---3-|-----3--------3----------3---(3)--|
@@ -175,8 +168,9 @@ D--2--------0-------0--------------------|-2--------0-------0-----------0---|
 A----------------------3-----------------|---------------------3--------2---|
 E------------------------------3-----2---|------------------------------3---|
                                T     T
- 
- 
- 
- 
+
+
+
+
 ANIMO LA SALLE!
+

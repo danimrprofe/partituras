@@ -1,23 +1,16 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: TIRAMISÚ DE LIMÓN
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Joaquín Sabina
+Canción: Tiramisú De Limón
+Capo: No
+Disco: 
+Afinación: 
+
 
 JOAQUÍN SABINA - Tiramisú de limón
 Joaquín Sabina
-Sin capo
 
 INTRO
 D G D Em  A
- 
+
 
 ESTROFA
         D          F#m
@@ -28,7 +21,7 @@ A                  Bm
 Las verbenas del pasado
    G              A
 Gangrenan el corazón
- 
+
   D               F#m
 Acórtate la falda nueva
     G                D
@@ -37,18 +30,18 @@ A                       Bm
 Túmbate al sol cuando llueva
 F#m                 G
 No desordenes mi taller
- 
+
 
 ESTRIBILLO
    A           D   D#dim7           G
 Tiramisú de limón. Helado de aguardiente
 A              Bm    G               D
 Muñequita de salón. Tanguita de serpiente
- 
-INTERLUDIO
+
+INSTRUMENTAL
 
 D F#m G D F#m Bm G D
- 
+
 
 ESTROFA
         D                          F#m
@@ -59,8 +52,6 @@ A                 Bm
 Al borde del precipicio
    G                    A
 Jugábamos a Thelma y Louise
- 
-
 
 
           D                         F#m
@@ -69,14 +60,14 @@ G                      D
 Desde que no eres mi juez
      A                 Bm      F#m                   G
 Tu vudú ya pincha en hueso. Tu saque se enredó en mi red
- 
+
 
 ESTRIBILLO
    A           D   D#dim7           G
 Tiramisú de limón. Helado de aguardiente
 A              Bm    G               D
 Muñequita de salón. Tanguita de serpiente
- 
+
 
 PUENTE
 G               D    A                   Bm
@@ -87,11 +78,11 @@ G               D    A                   Bm
 Dónde crees que vas. Quién te parece que soy
 G           D               A
 No mires atrás. Que ya no estoy
- 
+
 SOLO
 
 Em
- 
+
 
 PUENTE
 G               D    A                   Bm
@@ -102,14 +93,13 @@ G               D    A                   Bm
 Dónde crees que vas. Quién te parece que soy
 G           D               A
 No mires atrás. Que ya no estoy
- 
+
 F                  Em              D
 QUE SEPAS QUE EL FINAL NO EMPIEZA HOY
 F                  Em              D
 QUE SEPAS QUE EL FINAL NO EMPIEZA HOY
- 
+
 
 FINAL
 D F#m G D F#m Bm G Gm D
-
 

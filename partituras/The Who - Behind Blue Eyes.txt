@@ -1,15 +1,10 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: The Who
-CANCIÓN: BEHIND BLUE EYES
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: The Who
+Canción: Behind Blue Eyes
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 BEHIND BLUE EYES
 The who
 
@@ -58,3 +53,4 @@ Em                     G              D        Dsus4 D
 No one knows what it's like to be the bad man
           Cadd9      A
 To be the sad man, behind blue eyes
+

@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: TRAIDORA - MEDIO TONO MENOS ELÉCTRICA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Traidora - Medio Tono Menos Eléctrica
+Capo: No
+Disco: 
+Afinación: 
+
 
 Medio tono menos eléctrica
 Acústica normal
@@ -29,7 +23,6 @@ y le digo a tu padre que salgas y no me hace caso
 y es que tenemos asuntos pendientes y urgentes que hacer
            Am                            Am
 y es que tengo un atraso y no puedo con él.
-
 
 Am                                        Am
 Desde luego no tienes ni idea de lo que te amé
@@ -67,3 +60,4 @@ déjame que te bese la ultima vez mi traidora.
 Ay traidora ay si tu me abandonas
            F               E                  Am
 déjame que me muera tranquilo, tranquilo y a solas
+

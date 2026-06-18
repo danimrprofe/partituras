@@ -1,17 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Eric Clapton
-CANCION: WONDERFUL TONIGHT
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Eric Clapton
+Canción: Wonderful Tonight
+Capo: No
+Disco: 
+Afinación: 
 
-ERIC CLAPTON 
+
+ERIC CLAPTON
 WONDERFUL TONIGHT
 
 ESTROFA
@@ -57,5 +51,4 @@ And then I tell her, as I turn out the light
 I say, "My darling, you were wonderful tonight."
         C                    D            G
 Oh, "My darling, you were wonderful to-night."
-
 

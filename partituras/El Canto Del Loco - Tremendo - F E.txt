@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: TREMENDO - F E
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Tremendo - F E
+Capo: No
+Disco: 
+Afinación: 
+
 
                   Am
 (Eres un tio tremendo y todo lo que haces te sale
@@ -62,3 +56,4 @@ El resto de la canción sigue con los mismos acordes.
 P.D
 Esta canción va dedicada a mi colega J. Altozano
 que me a ayudado con esta canción ( Eres un tio tremendo)
+

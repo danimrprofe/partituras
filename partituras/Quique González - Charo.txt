@@ -1,20 +1,9 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Quique Gonzalez
-CANCIÓN: CHARO
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Quique González
+Canción: Charo
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-CEJILLA/CAPO: Traste 5
-================================================================================
-NOTAS ADICIONALES: Cantada originalmente a dúo con Nina de Morgan. 
-El Capo 5 le da ese sonido agudo y melódico tan característico de este tema.
-================================================================================
 
 INTRO
 G  C  G  C  G  C  G  C
@@ -58,8 +47,8 @@ Fmaj7  Em  Fmaj7/C  C  Fmaj7  G  Fmaj7  C
 Fmaj7  Em  Fmaj7/C  C  Fmaj7
 
 PUENTE
-G         Am             G     C     Fmaj7          
-Si tienes prisa Si se te hace raro Vete de aquí 
+G         Am             G     C     Fmaj7
+Si tienes prisa Si se te hace raro Vete de aquí
    Am       G             C                           Fmaj7
 Si vas con los cristales empañados ¿cuándo vienes a por mi?
 
@@ -68,3 +57,4 @@ ESTRIBILLO
 Charo No sé lo que viste en mi
       Am        G        C    G          C
 He pensado en llamarte mil veces Ya sabes que sí
+

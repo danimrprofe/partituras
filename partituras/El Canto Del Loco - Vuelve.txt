@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: VUELVE69
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: Vuelve
+Capo: No
+Disco: 
+Afinación: *
+
 
 **************************************************
 *                                                *
@@ -32,7 +26,7 @@ A | - | F  | -
 C | - | G  | -
 A | - | F  | -
 
-D | - | G | - 
+D | - | G | -
 E | - | A | -
 F | - | G | -
 
@@ -40,7 +34,7 @@ ESTRIBILLO
 C  | G  | F | G
 C  | G  | F | G
 A  | G  | F | D
-G  | -  | F | G 
+G  | -  | F | G
 
 ESTROFA
 C | - | G  | -
@@ -48,7 +42,7 @@ A | - | F  | -
 C | - | G  | -
 A | - | F  | -
 
-D | - | G | - 
+D | - | G | -
 E | - | A | -
 F | - | G | -
 
@@ -56,12 +50,12 @@ ESTRIBILLO
 C  | G  | F  | G
 C  | G  | F  | G
 A | G | F|  D
-G | - |F | G 
+G | - |F | G
 
-C - - - 
+C - - -
 E - B -
 
-D | - | G | - 
+D | - | G | -
 E | - | A | -
 F | - | G | -
 
@@ -69,7 +63,7 @@ ESTRIBILLO
 C | G | F | G
 C | G | F | G
 A | G | F | D
-G | - | F | G 
+G | - | F | G
 
 C
 

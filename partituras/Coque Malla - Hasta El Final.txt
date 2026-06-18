@@ -1,18 +1,9 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Coque Malla ft. Leiva
-CANCIÓN: Hasta el final
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Coque Malla
+Canción: Hasta El Final
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-Dsus = XX0233 · D/C# = X40232 · Bm7(b5) = X2323X · Bm/A = X04432
-(En el cifrado aparece Am7b5 en algunas líneas; contrasta con la posición que uses.)
-Rasgueo / pausa según indicación entre paréntesis en el cuerpo.
-================================================================================
-
 INTRO
 C    Csus   C    Csus
 
@@ -95,3 +86,4 @@ TENGO GANAS DE ABRAZARTE, TENGO GANAS DE LLEGAR AL FINAL... AL FINAL
 
 FINAL
 C  Csus   C
+

@@ -1,24 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: TAL-COMO-ERES2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
-# Tal como eres
-
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | No   |
+Artista: Dani Martín
+Canción: tal-como-eres
+Capo: No
+Disco: 
+Afinación: 
 
 
-```
 INTRO
 Am  Dm  F   G  Am  G  Am
 
@@ -117,4 +103,4 @@ Y cambiar lo que duele
 
 OUTRO
 E
-```
+

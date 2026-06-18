@@ -1,19 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: NADA DE NADA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: Fito & Fitipaldis
+Canción: Nada De Nada
+Capo: 3
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-FITO & FITIPALDIS 
+FITO & FITIPALDIS
 NADA DE NADA
-Capo 3
 
 INTRO
 A
@@ -27,7 +20,7 @@ Y queda tanto por beber
 La gente deja de fumar
           A                   E
 Porque no tiene tiempo de toser
- 
+
        A
 Cuando pase ya la tempestad
       E
@@ -38,7 +31,7 @@ Nos vendieron tanto bienestar
 Que no hay manera de poder estar bien
 
 ESTRIBILLO
- 
+
 D                                           A
 Mientras todos dicen "nadie es culpable de nada"
 F#m                                E
@@ -49,7 +42,7 @@ Tiempo de ladrones, de cerrar las persianas
 De lo que me digas, nada de nada
 
 ESTROFA
- 
+
 A
 ¿Cómo voy a entrar en razón?
           E
@@ -58,7 +51,7 @@ Si nunca salgo de mi asombro
 Si cada vez que buscas la solución
            A                    E
 Es para cargarla sobre nuestros hombros
- 
+
            A
 Conozco un perro que no dice mentiras
        E
@@ -67,7 +60,7 @@ Hay un juez que está aprendiendo a ladrar
 Cuando la boca se te llena de ruido
         A                 E
 Luego está condenada a gritar
- 
+
 
 ESTRIBILLO
 D                                           A
@@ -85,7 +78,7 @@ A E D A E
 A E D F A
 
 ESTRIBILLO
- 
+
 D                                           A
 Mientras todos dicen "nadie es culpable de nada"
 F#m                                E
@@ -98,7 +91,7 @@ De lo que me digas, nada de nada
 Nada de nada
 
 PUENTE
- 
+
       D           F        A
 De lo que me digas, nada de nada
         D    F       A
@@ -111,9 +104,8 @@ Nada de nada, nada de nada
 Nada de nada, nada de nada
 
 FINAL
- 
+
 D F A
 D F A
 D F F G G# A
-
 

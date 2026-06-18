@@ -1,31 +1,24 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: NOS OCUPAMOS DEL MAR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: Fito & Fitipaldis
+Canción: Nos Ocupamos Del Mar
+Capo: 2
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-FITO & FITIPALDIS 
+FITO & FITIPALDIS
 NOS OCUPAMOS DEL MAR
 Fito & Fitipaldis
-Capo 2
-[INTRO PIANO]
+INTRO
 G D
 G C
-Em D 
+Em D
 C G/B Am G
- 
-[INTRO GUITARS]
+
+INTRO
 G D
 G C
 Em D G
- 
+
 G                D        B                   C
 Nos ocupamos del mar Y tenemos dividida la tarea
                   G                   D
@@ -58,5 +51,4 @@ B              C         D        G          G   D       Em
 Es cansado Por eso al llegar la noche Ella descansa a mi lado
         G   D         G
 Y mis manos en su costado
-
 

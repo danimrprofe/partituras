@@ -1,32 +1,25 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Fito & Fitipaldis
-CANCION: SIEMPRE ESTOY SOÑANDO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Fito & Fitipaldis
+Canción: Siempre Estoy Soñando
+Capo: No
+Disco: 
+Afinación: 
 
-FITO & FITIPALDIS 
+
+FITO & FITIPALDIS
 SIEMPRE ESTOY SOÑANDO
-Sin capo. Mejor con quintas y palm mute
  C  x4
 C                                                    G
-Mientras me aguanten los huesos yo quiero seguir cantando   
+Mientras me aguanten los huesos yo quiero seguir cantando
                                                  C
 quiero estar cerca de ti, lo más lejos... a tu lado
-F                             G              C			
-Tu mirada es un balcón, tú te asomas yo te canto 
+F                             G              C
+Tu mirada es un balcón, tú te asomas yo te canto
                                            G
 He pintao mi corazón con el rojo de tus labios
 
-F                                   G             C		 
-Se que no puedo dormir... porque siempre estoy soñando 
-                           G                                          
+F                                   G             C
+Se que no puedo dormir... porque siempre estoy soñando
+                           G
 En invierno con el sol... con las nubes en verano.
 
 C                                              G
@@ -36,11 +29,11 @@ y acabé buscando versos en el fondo de mi vaso
 F                        G                 C
 todo lo que no aprendí nunca se me ha olvidado
     Am        G     C                        G
-No he perdido la razón y tampoco la he encontrado 
+No he perdido la razón y tampoco la he encontrado
 
-F                                   G             C		 
-Se que no puedo dormir... porque siempre estoy soñando 
-                           G                                          
+F                                   G             C
+Se que no puedo dormir... porque siempre estoy soñando
+                           G
 En invierno con el sol... con las nubes en verano.
 C | C G | G | G C
 F | F C | C G | G C
@@ -56,8 +49,7 @@ Sé que no puedo dormir... porque siempre estoy soñando
 Am                   G  F        G          C
 en invierno con el sol, con las nubes en verano!!
 F                   G    Dm           G
-en invierno con el sol, con las nubes en 
+en invierno con el sol, con las nubes en
 C              D            G      C               G           C
 mientras me aguanten los huesos... mientras me aguanten los huesos.
-
 

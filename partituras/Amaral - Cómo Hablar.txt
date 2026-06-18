@@ -1,16 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Amaral
-CANCION: CÓMO HABLAR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
+Artista: Amaral
+Canción: Cómo Hablar
+Capo: 1
+Disco: UNA PEQUEÑA PARTE DEL MUNDO (2000)
+Afinación: Estándar (E A D G B E)
 ================================================================================
 ARTISTA: AMARAL
 CANCIÓN: CÓMO HABLAR
@@ -21,8 +13,8 @@ CEJILLA/CAPO: Capo 1 (para mi capo 3 mas facil tocar)
 ================================================================================
 VALORACIÓN: 8.13/10 (84)
 ================================================================================
-NOTAS ADICIONALES: Uno de los temas más emblemáticos de la banda. 
-Se recomienda prestar atención a los arpegios de la introducción y al 
+NOTAS ADICIONALES: Uno de los temas más emblemáticos de la banda.
+Se recomienda prestar atención a los arpegios de la introducción y al
 rasgueo creciente hacia el estribillo.
 ================================================================================
 e|----0-----|-0------0------0-----|
@@ -31,7 +23,6 @@ G|--2-----2-|-----2------2------2-|
 D|----------|---------------------|
 A|----------|---------------------|
 E|----------|---------------------|
-
 
 A                          G
 Si volviera a nacer, si empezara de nuevo,
@@ -103,12 +94,10 @@ tu que llegaste por casualidad - dad...
 Como Hablar si cada parte de mi mente es tuya,
          G                 D    F#
 si no encuentro la palabra exacta - a
-                    D                  F#             
-Porque no se como decirte que me has ganado poquito a 
+                    D                  F#
+Porque no se como decirte que me has ganado poquito a
 Bm
 poco,
          G              D     F#        - D
 tu que llegaste por casualidad, como hablar.
-
-
 

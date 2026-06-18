@@ -1,30 +1,23 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: siloe
-CANCION: QUE MEREZCA LA PENA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: siloe
+Canción: que merezca la pena
+Capo: No
+Disco: 
+Afinación: 
 
 INTRO
 C D Em G C
 C D Em G C D
- 
+
 ESTROFA 1
 C                       D                 Em
 Las jaulas no sirven de nada si las fieras,
 Em        G/B     C
 no tienen apetito.
-C                            D   
+C                            D
 Es la intención la que nos mueve a ser más grandes,
-Em        G      C      
+Em        G      C
 a mí a soñar contigo.
- 
+
 ESTRIBILLO
 C                 D
 Vamos a subir más alto,
@@ -36,18 +29,18 @@ vamos a comernos todo
 si tú te vienes conmigo,
    C        D/F#     G
 si tú te vienes conmigo.
- 
+
 INSTRUMENTAL
 G C G C
- 
+
 ESTROFA 2
 C                       D                 Em
 No somos más que un microscópico lunar,
-Em        G        C
+Em        G/B     C
 en el culo del mundo,
 C                           D
 pues hoy quiero que brille lejos con mis versos
-Em        G      C     
+Em        G      C
 desde lo más profundo.
 C                 D
 Vamos a subir más alto,
@@ -61,10 +54,10 @@ si tú te vienes conmigo,
 si tú te vienes conmigo,
    Em       D/F#    G
 si tú te vienes conmigo.
- 
+
 INSTRUMENTAL
 G C G C
- 
+
 ESTROFA 3
 G                        C
 Siempre soñamos con los pies lejos del suelo,
@@ -94,12 +87,12 @@ Un viaje que merezca la pena,
 una viaje que merezca la pena,
        D                        G
 siempre haces que merezca la pena.
- 
+
 INSTRUMENTAL
- 
+
 G C
 Em C
- 
+
 OUTRO
     Em         G          C
 Un viaje que merezca la pena,
@@ -107,3 +100,4 @@ Un viaje que merezca la pena,
 una viaje que merezca la pena,
        D                        G
 siempre haces que merezca la pena.
+

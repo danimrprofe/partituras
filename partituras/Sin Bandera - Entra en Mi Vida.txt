@@ -1,16 +1,11 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Sin Bandera
-CANCIÓN: ENTRA EN MI VIDA
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Sin Bandera
+Canción: Entra en Mi Vida
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-SIN BANDERA 
+
+SIN BANDERA
 ENTRA EN MI VIDA
 C = Cmaj7
 
@@ -23,7 +18,7 @@ Am7                           Bm7          Bm
 Sin hablarme, sin tocarme, algo dentro se encendió
 Am7                                   D
 En tus ojos, se hacia tarde y me olvidaba del reloj..
- 
+
 G                           C
 Estos días a tu lado me enseñaron que en verdad
 G                              C
@@ -78,3 +73,4 @@ Sé que en tus brazos ya no habrá noches desiertas
 Entra en mi vida, yo te lo ruego
         Bm           A/C#           D           E*        A
 Te comencé, por extrañar, pero empecé a necesitar.. -te luego
+

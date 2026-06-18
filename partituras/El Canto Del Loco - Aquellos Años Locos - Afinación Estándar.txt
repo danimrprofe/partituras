@@ -1,19 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: AQUELLOS AÑOS LOCOS - AFINACIÓN ESTÁNDAR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: El Canto Del Loco
+Canción: Aquellos Años Locos - Afinación Estándar
+Capo: 3
+Disco: 
+Afinación: estándar
 CEJILLA/CAPO: Capo 3
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
 Afinación estándar
-
-Capo 3
 
      C     G
 Acuerdate de tus tardes de recreo
@@ -37,8 +29,8 @@ Una peli que tenia mil efectos especiales
 Actuaba un tal Darth Vader
   G                          F
 Y venian de un planeta sideral
- 
- 
+
+
 F   G       Am               F
 Tenias tanta ilusion por ser mayor
       G        Em           F
@@ -49,8 +41,8 @@ Querias ser un goleador en el '82
 Ser princesa de aquel principe
              F    G
 Que no aparecio    ooo
- 
- 
+
+
           C       G
 Recuerda bien tus cabañas construias
          Am
@@ -61,7 +53,7 @@ Y tu madre te decia "no esta bien
 Que inventes mil fantasias
       F                   G
 Y que vivas en tu mundo de baldosas amarillas"
- 
+
          C      G
 Recuerda hoy esa bici que querias
        Am               G                       F
@@ -70,3 +62,4 @@ La de Elliot parecia que nunca conseguirias para volar
 Conquistando aquella luna devolvienndo una fortuna
            G                 F
 Siendo un miembro del Equipo A
+

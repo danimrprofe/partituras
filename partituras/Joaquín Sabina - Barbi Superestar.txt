@@ -1,18 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: BARBI SUPERESTAR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Joaquín Sabina
+Canción: Barbi Superestar
+Capo: No
+Disco: 
+Afinación: 
 
-JOAQUÍN SABINA 
-BARBI SUPERESTAR          
+
+JOAQUÍN SABINA
+BARBI SUPERESTAR
  G-F-C
 
 ESTROFA
@@ -44,11 +38,11 @@ había futuro, en las pupilas hambrientas de los hombres maduros,
 enamorarse, un poco más de la cuenta, era una mala inversión.
 
 ESTRIBILLO
-   D                F                   C                       
-Debutó de fulana de tal en un vil melodrama. 
+   D                F                   C
+Debutó de fulana de tal en un vil melodrama.
         D                  F                  C
 Con sus veinte minutos de fama retiró a su mamá,
-     D                    F                  C	         
+     D                    F                  C
 el guion le exigía, cada vez, más escenas de cama,
 Bb                          F                G-F-C
 todavía, por Vallecas, la llaman: Barbi Superestar.
@@ -81,14 +75,12 @@ Se masticaba, en los billares, que, el Rayo, había bajado a segunda,
 por la M-30, derrapaba el caballo de la desilusión.
 
 ESTRIBILLO
-   D                F                   C                       
-Debutó de fulana de tal en un vil melodrama. 
+   D                F                   C
+Debutó de fulana de tal en un vil melodrama.
         D                  F                  C
 Con sus veinte minutos de fama retiró a su mamá,
-     D                    F                  C	         
+     D                    F                  C
 el guion le exigía, cada vez, más escenas de cama,
 Bb                          F                G-F-C
 todavía, por Vallecas, la llaman: Barbi Superestar.
-
-
 

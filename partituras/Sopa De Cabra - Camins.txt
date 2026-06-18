@@ -1,22 +1,16 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: Sopa de Cabra
-CANCIÓN: CAMINS
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Sopa De Cabra
+Canción: Camins
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-SOPA DE CABRA 
+
+SOPA DE CABRA
 CAMINS
 SOPA DE CABRA
-Cejilla en traste 4
 
 INTRO
-D Dsus2 D Dsus2 
+D Dsus2 D Dsus2
 
 ESTRIBILLO
 D*                     Am*    D*                       Am*
@@ -33,7 +27,7 @@ D*                                 Am*
 Érem dos ocells de foc sembrant tempestes;
 G                                      D*
 ara som dos fills del sol en aquest desert.
- 
+
 
 PUENTE
 Am                C           G          D*
@@ -64,3 +58,4 @@ D*                   Am*    G                       D*
  Camins que ara s'esvaeixen, camins que has de fer sol.
 D*                   Am*   G                   D
  Camins vora les estrelles, camins que ja són nous.
+

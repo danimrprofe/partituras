@@ -1,17 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Hombres G
-CANCION: LA CARRETERA
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Hombres G
+Canción: La Carretera
+Capo: No
+Disco: 
+Afinación: 
 
-HOMBRES G 
+
+HOMBRES G
 LA CARRETERA
 
 ESTROFA
@@ -59,6 +53,4 @@ intentando que la voz
 ME AGUANTE HASTA EL FINAL
      C              D
 tocaremos "sufre mamon".
-
-
 

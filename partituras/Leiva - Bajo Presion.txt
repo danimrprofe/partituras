@@ -1,16 +1,12 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: Bajo presión
-ÁLBUM:   Gigante (2024)
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Traste 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-C/B = Do con bajo en Si. Estructura tipo [ESTROFA] original sustituida por
-secciones en español (ESTROFA, INSTRUMENTAL, PUENTE, FINAL).
-================================================================================
+Artista: Leiva
+Canción: Bajo Presion
+Capo: 1
+Disco: Gigante
+Afinación: 
+ALBUM: Gigante
+AÑO: 2025
+
+CEJILLA/CAPO: 1
 
 ESTROFA
                      F              G
@@ -104,3 +100,4 @@ Nanananana, nanananana
 Nanananana, nanananana
       Am    G   F   C
 Nanananana, nanananana
+

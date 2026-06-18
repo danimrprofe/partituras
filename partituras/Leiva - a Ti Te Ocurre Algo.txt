@@ -1,12 +1,8 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: A ti te ocurre algo
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: (sin especificar)
-TONALIDAD: Sol mayor (G)
+Artista: Leiva
+Canción: a Ti Te Ocurre Algo
+Capo: No
+Disco: 
+Afinación: 
 ================================================================================
 LEYENDA / NOTAS ADICIONALES:
 G D-C D = G, luego D con bajo en C (D/C o transición), luego D; repetir.
@@ -92,3 +88,4 @@ Oh, oh-oh, oh-oh.
 
 FINAL
 D       G   C G
+

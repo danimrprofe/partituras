@@ -1,22 +1,17 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Van Morrison
-CANCIÓN: BROWN EYED GIRL
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Van Morrison
+Canción: Brown Eyed Girl
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-VAN MORRISON 
+
+VAN MORRISON
 BROWN EYED GIRL
 Van Morrison
 INTRO
 G   C   G   D
 G   C   G   D
- 
+
 ESTROFA
 G                C      G               D
    Hey where did we go,   days when the rains came
@@ -28,7 +23,7 @@ G               C                 G         D                    C
    In the misty mornin' fog with,   ah, our hearts thumpin' and you
 D                G     Em   C          D           G      D7
    My brown-eyed girl,        you're my brown-eyed girl
- 
+
 ESTROFA
 G                  C     G                 D
    And whatever happened,  to Tuesday and so slow
@@ -40,7 +35,7 @@ G                 C       G               D                C
    Slippin' and a-slidin'   all along the waterfall with you
 D                G     Em   C          D           G
    My brown-eyed girl,        you're my brown-eyed girl
- 
+
 ESTRIBILLO
 D7
    Do you remember when we used to sing
@@ -48,10 +43,10 @@ G          C           G              D
  Sha la la la la la la la la la la te da (just like that)
 G           C           G              D         G
   Sha la la la la la la la la la la te da, la te da
- 
+
 [Bass Solo]
 G   C   G   D
- 
+
 ESTROFA
 G               C          G                 D
    So hard to find my way,   now that I'm all on my own
@@ -63,7 +58,7 @@ G                     C            G            D            C
    Makin' love in the green grass,   behind the stadium with you
 D                G     Em   C            D           G
    My brown-eyed girl,        a-you're my brown-eyed girl
- 
+
 ESTRIBILLO
 D7
    Do you remember when we used to sing
@@ -75,3 +70,4 @@ G           C           G              D
   Sha la la la la la la la la la la te da
 G           C           G              D
   Sha la la la la la la la la la la te da
+

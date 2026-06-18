@@ -11,7 +11,7 @@ function parseSongFile(fileContent) {
     const titleArtistLine = lines[0].split(' - ');
     if (titleArtistLine.length === 2) {
         songData.title = titleArtistLine[1].trim();
-        songData.artist = titleArtistArtistLine[0].trim();
+        songData.artist = titleArtistLine[0].trim();
     }
 
     // Process the remaining lines for chords and lyrics

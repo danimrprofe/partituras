@@ -1,16 +1,8 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: Y, SIN EMBARGO
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
-
+Artista: Joaquín Sabina
+Canción: Y, Sin Embargo
+Capo: No
+Disco: 
+Afinación: 
 JOAQUÍN SABINA - Y, sin embargo
 Joaquín sabina
 Nada
@@ -46,7 +38,7 @@ B7                            Em
 el pasillo de un tren de madrugada
        C                     C#dim   
 Un laberinto sin luz  ni vino tinto, 
-   Am7                       D
+   Am7          C             D
 un velo de alquitrán en la mirada
 
 ESTRIBILLO
@@ -54,9 +46,9 @@ ESTRIBILLO
 Y me envenenan los besos que voy dando
     C9          G                G7      C
 Y sin embargo cuando duermo sin ti  contigo sueño
-Am7                          D
+Am7              Am/G         D
 Y con todas si duermes a mi lado
-   Am7           Em            G                     C
+   Am7           Em            G                     C  C/B
 Y si te vas  me voy por los tejados como un gato sin dueño
  Am7             C             D      
 Perdido en el pañuelo de amargura 

@@ -1,15 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Seal
-CANCIÓN: kiss from a rose
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
+Artista: Seal
+Canción: Kiss From a Rose
+Capo: 0
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+
 KISS FROM A ROSE
 CAPO: NO
 
@@ -182,3 +177,4 @@ A light hits the gloom on the grey
 Now that your rose is in bloom
    C              D            E
 A light hits the gloom on the grey
+

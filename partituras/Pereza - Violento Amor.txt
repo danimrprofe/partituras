@@ -1,25 +1,16 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Pereza
-CANCION: VIOLENTO AMOR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: Pereza
+Canción: Violento Amor
+Capo: 4
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 4
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
-PEREZA 
-VIOLENTO AMOR
-Capo 4
-G        D C            G     D   C		
-Violento amor, semanas rotas en dos,  
+G        D C            G     D   C
+Violento amor, semanas rotas en dos,
 G       D  C      G        D         C
 cielo y sudor, trocito de rock and roll.
-G       D    C        G     D  C         
-Fuiste un putón, pero eras "my love", 
+G       D    C        G     D  C
+Fuiste un putón, pero eras "my love",
 G     D  C        Am          D
 de lo mejor, que había visto ooh.
 
@@ -37,8 +28,8 @@ G     D   C		      G    D   C
 Violento amor champagne, anfetas y adiós
 G         D  C	     Am           D
 Fue de un tirón no estaba listo ooh.
-G                    D             Em				 
-Cerró las piernas, suenan sirenas, era una estrella, 
+G                    D             Em
+Cerró las piernas, suenan sirenas, era una estrella,
 Em       C        D G D
 ya se largaba de aquí.
 
@@ -47,14 +38,12 @@ No sigo tu velocidad. siempre me quedo atrá aaha aaaas.
     Em  C    G      D      Em    D/F#    G          D
 A veces voy A ver si estás siempre me da por aaah aaaha aahaahi.
 
-Am                C		  G          D	 
-Apretó el detonador, volamos alto ooh   
-Am                  C		Em       D    C         Cm
-se coló en mi habitación, amor de verano     oooh
+Am           C		 G          D
+Apretó el detonador, volamos alto ooh
+Am              C   	  Em        D     C        Cm
+se coló en mi habitación, amor de verano  oooh
 G
 Em C D G D
-
-
 
   Em     C     G   D
 Estoy bastante regular
@@ -64,5 +53,4 @@ me duermo en el portal,
 A veces voy a ver si estás
     Em     C      G             D
 siempre me da por aaah aaaha aahaahi.
-
 

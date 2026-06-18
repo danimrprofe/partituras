@@ -1,126 +1,101 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: CERO2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Dani Martín
+Canción: cero
+Capo: 2
+Disco: 
+Afinación: 
 
-## Cero
+DANI MARTÍN
+CERO
+Capo 2
 
-```
+INTRO
+A Bm7 E A
 
-B                       C#m7
+ESTROFA
+A                       Bm7
 Todo lo que vimos se nos fue
-F#                         B
+E                         A -A/G#
 Soñé que siempre iría al lado
-B                        C#m7
+A                        Bm7
 Eso que inventamos ya no es
-F#                     B              D#m
+E                     A  - A/G#
 Ahora solo existe el pasado
 
-G#m             E
-Y me toca entender
-F#                    B
-Qué hacer con tus abrazos
-G#m              E
-Ahora toca aprender
-F#                B
-Como dejar de querer
-F#             G#m
+
+F#m             D   E                    A - A/G#
+Y me toca entender Qué hacer con tus abrazos
+F#m              D         E         A
+Ahora toca aprender. Como dejar de querer
+A/G#            F#m
 Saber borrarlo bien
-F#                   E
-Que igual que vino fue
-              F#
-Que hoy es CERO
+E                   D               E
+Que igual que vino fue. Que hoy es cero
 
-B
-Quiero
-                       F#
-Que todo vuelva a empezar
-                      C#m
-Que todo vuelva a girar
-                     E
-Que todo venga de cero
-          F#
-De cero...
+ESTRIBILLO
+A                          E                        Bm7
+Quiero Que todo vuelva a empezar. Que todo vuelva a girar
+                     D      E
+Que todo venga de cero. De cero...
+       A                     E                        Bm7
+Y quiero que todo vuelva a sonar. Que todo vuelva a brillar
+                   D         E
+Que todo venga de cero. De cero...
 
+A Bm7 E A
 
-       B                     F#
-Y quiero que todo vuelva a sonar
-                      C#m
-Que todo vuelva a brillar
-                     E
-Que todo venga de cero
-          F#
-De cero...
-
-B                       C#m7
+A                       Bm7
 Eso, desaparece y no lo ves
-F#                               B
+E                               A
 Ese regalo que la vida pone al lado
-B                         C#m7
+A                        Bm7
 Dura lo que dura y ya se fue
-F#                        B       D#m
+E                     A  - A/G#
 Ni tu ni yo lo hemos cuidado
 
-G#m                E
-Y ahora toca entender
-F#                     B
-Qué hacer con tanto daño
-G#m                E
-Y ahora toca aprender
-F#                B
-Como dejar de querer
-F#               G#m
+F#m             D     E                    A - A/G#
+Y ahora toca entender. Qué hacer con tanto daño
+F#m              D         E         A
+Ahora toca aprender. Como dejar de querer
+A/G#            F#m
 Saber borrarlo bien
-F#                  E
-Que igual que vino fue
+E                   D               E
+Que igual que vino fue. Que hoy es cero
            F#
 Y es tan feo
 
-B
-Quiero
-                       F#
-Que todo vuelva a empezar
-                     C#m
-Que todo vuelva a girar
-                    E
-Que todo venga de cero
-      F#
-De cero...
+ESTRIBILLO
+A                          E                        Bm7
+Quiero Que todo vuelva a empezar. Que todo vuelva a girar
+                     D      E
+Que todo venga de cero. De cero...
+       A                     E                        Bm7
+Y quiero que todo vuelva a sonar. Que todo vuelva a brillar
+                   D         E
+Que todo venga de cero. De cero...
 
+SOLO
+A E Bm7 D E
+A E Bm7 D E
 
-
-      B                      F#
-Y quiero que todo vuelva a sonar
-                      C#m
-Que todo vuelva a brillar
-                    E
-Que todo venga de cero
-      F#
-De cero...
-
-SOLO: B  F#   C#m   E   F#  B   C#m  F#  C#m  E   F#
-
-      B                        F#
+PUENTE
+      A*                       E*
 Y siento que todo lo malo es pensar
-                     C#m
+                     Bm7*
 Que todo lo que viene va
-                        E
+                        D(PM)
 Que todo se va consumiendo
-                        F#
+                        E(PM)
 Y el silencio manda hoy más
 
+ESTRIBILLO
+  A                          E                        Bm7
+y Quiero Que todo vuelva a empezar. Que todo vuelva a girar
+                     D      E
+Que todo venga de cero. De cero...
+       A                     E                        Bm7
+Y quiero que todo vuelva a sonar. Que todo vuelva a brillar
+                   D         E
+Que todo venga de cero. De cero...
 
-ESTRIBILLO      (termina en B)
+A
 
-Con cejilla en el segundo traste:
-B : A // F# : E // C#m : Bm // E : D // G#m : F#m
-
-```

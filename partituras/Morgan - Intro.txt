@@ -1,3 +1,8 @@
+Artista: Morgan
+Canción: Intro
+Capo: No
+Disco: North
+Afinación: Estándar (E A D G B E)
 # PARTITURA v1
 ================================================================================
 ARTISTA: MORGAN
@@ -5,7 +10,7 @@ CANCIÓN: Intro Delta
 ÁLBUM:   North
 ================================================================================
 AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
+
 ================================================================================
 TONALIDAD: Fa mayor (F)
 BPM:       68 (aprox.; rubato)
@@ -69,3 +74,4 @@ F               C
 Donde acaba el río
 F            Am
 Y empieza el mar
+

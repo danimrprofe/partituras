@@ -1,19 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Ultimo De La Fila
-CANCION: SIN LLAVES
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Ultimo De La Fila
+Canción: Sin Llaves
+Capo: No
+Disco: 
+Afinación: 
 
-EL ULTIMO DE LA FILA 
+
+EL ULTIMO DE LA FILA
 SIN LLAVES
-Sin capo
 
 INTRO
 Am C Am G
@@ -21,7 +14,7 @@ Am C Am G
 Am C Am G D
 
 ESTROFA
-    Am                  C          
+    Am                  C
 La vida que espero y esperaré
 Am                   G              Am
 a la sombra en el oasis que me inventé.
@@ -91,6 +84,4 @@ Am            C                    Am
 Candiles de aceite habrá que encender
                     G             D             Am
 Sin llaves, a las puertas del instante estoy...
-
-
 

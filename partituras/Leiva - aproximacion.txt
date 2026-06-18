@@ -1,23 +1,10 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: APROXIMACION2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: aproximacion
+Capo: No
+Disco: 
+Afinación: 
 
-# Aproximación
 
-| Tonalidad | Afinación | Compás | Capo |
-| --------- | --------- | ------ | ---- |
-|           | Estándar  | 4/4    | 2    |
-
-```
 ESTROFA
   C     G  C       F          C
 Somos dos, para que queremos más.
@@ -117,5 +104,4 @@ C G C F
 C G Am F
 C G C F
 C G Am F
-```
 

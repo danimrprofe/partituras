@@ -1,21 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: LA-SUERTE-DE-MI-VIDA2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Dani Martín
+Canción: la-suerte-de-mi-vida
+Capo: No
+Disco: 
+Afinación: medio tono bajo
 
-# La suerte de mi vida
 
 Afinación medio tono bajo
 
-```
 ESTROFA 1
             F#m            E                      D
 No sé si pensar, si eres el ángel que cuida mi camino..
@@ -33,7 +24,6 @@ Te quiero pensar, quiero sentirte siempre muy cerca mío
              F#m              E                       D
 Y quiero pensar, que eres la suerte que me arropa del frío
 
-
 PRE-ESTRIBILLO
                 F#m           E                    D
 Que has visto en mí, que me regalas tu verdad y tu cielo,
@@ -41,7 +31,6 @@ Que has visto en mí, que me regalas tu verdad y tu cielo,
 que en esta vida ya no quiero otros besos
                            D    E
 y cada dia tu me das tu total.
-
 
 ESTRIBILLO
      A                            Bm
@@ -74,7 +63,6 @@ que en esta vida ya no quiero otros besos
                           D     E
 y cada día tu me das tu total.
 
-
 ESTRIBILLO
      A                            Bm
 Y pienso que si no existes yo me muero,
@@ -94,7 +82,6 @@ Db|--------------------------------------------7777777---|
 Ab|------------------------------------------------------|
 Eb|------------------------------------------------------|
 
-
 ESTRIBILLO
   A                            Bm
 Y voy, a darte mi alma y mi verdad,
@@ -107,4 +94,4 @@ Y voy, a mirarte, a morirme y a luchar,
 llorar de alegria y quererte aún más,
                              E       F#m
 que tu eres la suerte de mi vida.
-```
+

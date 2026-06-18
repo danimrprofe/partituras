@@ -1,17 +1,11 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Joaquín Sabina
-CANCION: PONGAMOS QUE HABLO DE MADRID
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Joaquín Sabina
+Canción: Pongamos Que Hablo De Madrid
+Capo: No
+Disco: 
+Afinación: 
 
-JOAQUÍN SABINA 
+
+JOAQUÍN SABINA
 PONGAMOS QUE HABLO DE MADRID
 Aadd4   x00220
 
@@ -29,7 +23,7 @@ A             G#m7           F#m7
 Donde regresa siempre el fugitivo.
          B              A    E
 Pongamos que hablo de Madrid.
- 
+
 E              A             E
 Donde el deseo viaja en ascensores.
                     F#m
@@ -38,7 +32,7 @@ A           G#m7           F#m7
 Que dejo la vida en sus rincones.
          B              A    E
 Pongamos que hablo de Madrid.
- 
+
 E               Aadd4           E
 Las niñas ya no quieren ser princesas.
                               F#m
@@ -47,7 +41,7 @@ A                G#m7         F#m7
 El mar dentro de un vaso de ginebra.
          B              A    E
 Pongamos que hablo de Madrid.
- 
+
 INSTRUMENTAL
 
 E A  E  F#m
@@ -63,7 +57,7 @@ A                  G#m7           F#m7
 La muerte viaja en ambulancias blancas.
          B              A    E
 Pongamos que hablo de Madrid.
- 
+
 ESTROFA 5
 E               Aadd4      E
 El sol es una estufa de butano.
@@ -73,7 +67,7 @@ A            G#m7             F#m7
 Hay una jeringuilla en el lavabo.
          B              A    E
 Pongamos que hablo de Madrid.
- 
+
 ESTROFA 6
 E                Aadd4        E
 Cuando la muerte venga a visitarme.
@@ -83,7 +77,7 @@ A             G#m7         F#m7
 Aquí no queda sitio para nadie.
          B              A    E
 Pongamos que hablo de Madrid.
- 
+
 (Alternate)
 ESTROFA 6
 E                Aadd4        E
@@ -94,16 +88,15 @@ A               G#m7           F#m7
 Aqui he vivido, aqui quiero quedarme.
          B              A    E
 Pongamos que hablo de Madrid.
- 
+
 OUTRO
 
 A       E  A       E  A       E
 De Madrid, de Madrid, de Madrid
- 
+
 INSTRUMENTAL
 
 E A  E  F#m
 A G#m7 F#m7
 B  A  E
-
 

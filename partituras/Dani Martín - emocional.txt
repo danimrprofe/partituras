@@ -1,20 +1,13 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Dani Martín
-CANCION: EMOCIONAL2
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: Dani Martín
+Canción: emocional
+Capo: No
+Disco: 
+Afinación: 
+
 
 ## Emocional
 
-```
-Intro:
+Intro
 G    C    Am    D
 
                G
@@ -40,7 +33,6 @@ los que por miedo a amar
                  D
 viven no siendo ellos.
 
-
             C  Bm
 Y te quiero más,
                   Em  Bm
@@ -49,7 +41,6 @@ que este tiempo atrás,
 quiero cubrir
             Am     D
 tu cuerpo enterooooouuuo...
-
 
     G                Bm
 Y dejar a las cosas pasar
@@ -67,7 +58,6 @@ y no ponerle nombre
 No hace falta,
                Bm                   C     D
 si sientes ya está y déjame que te rondeeeehhhh.
-
 
            G
 Esperarte bajar siempre tarde,
@@ -86,7 +76,6 @@ Y yo quiero inventar esa frase
                          D
 acorde a todo esto que siento.
 
-
             C  Bm
 Y te quiero más,
                   Em  Bm
@@ -95,7 +84,6 @@ que este tiempo atrás,
 quiero cubrir
             Am     D
 tu cuerpo enterooooouuuo...
-
 
     G                Bm
 Y dejar a las cosas pasar
@@ -114,9 +102,7 @@ No hace falta,
                Bm                   C     D
 si sientes ya está y déjame que te rondeeeehhhh.
 
-
 G  D  Em Bm  C   Bm  Am  D ...
-
 
     G                Bm
 Y dejar a las cosas pasar
@@ -135,5 +121,3 @@ No hace falta,
                Bm                   C     D       G
 si sientes ya está y déjame que te rondeeeehhhh.
 
-
-```

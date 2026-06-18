@@ -1,25 +1,17 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: John Mayer
-CANCIÓN: IN THE BLOOD
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: John Mayer
+Canción: in the Blood
+Capo: 1
+Disco: 
+Afinación: 
 John Mayer – In the Blood
 -------------------------
- 
-Capo 1
- 
+CAPO 1
+
 INTRO
 G     G/F# Em7    Em7/B Cadd9    C/B G
 G     G/F# Em7    Em7/B Cadd9    C/B G
- 
- 
+
+
 ESTROFA
  G             Em7          Cadd9           G
 How much of my mother has my mother left in me
@@ -29,8 +21,8 @@ How much of my love will be insane to some degree
 And what about this feeling that I'm never good enough
         Em7              G               D             G    G   G   G
 Will it wash out in the water or is it always in the blood
- 
- 
+
+
 ESTROFA
  G              Em7         Cadd9         G
 How much of my father am I destined to become
@@ -40,8 +32,8 @@ Will I dim the lights inside me just to satisfy someone
 Will I let this woman kill me or do away with jealous love
         Em7              G               D             G     G
 Will it wash out in the water or is it always in the blood
- 
- 
+
+
 ESTRIBILLO
        Em7              G          Cadd9               G
 I can feel the love I want, I can feel the love I need
@@ -51,8 +43,8 @@ But it's never gonna come the way I am
 Could I change it if I wanted, can I rise above the flood
         Em7              G               D             G     G    G    G
 Will it wash out in the water or is it always in the blood
- 
- 
+
+
 ESTROFA
  G                Em7            Cadd9            G
 How much like my brothers do my brothers wanna be
@@ -62,8 +54,8 @@ Does a broken home become another broken family
 Or will we be there for each other like nobody ever could
          Em7              G              D             G     G
 Will it wash out in the water or is it always in the blood
- 
- 
+
+
 ESTRIBILLO
        Em7             G          Cadd9              G
 I can feel the love I want, I can feel the love I need
@@ -73,13 +65,13 @@ But it's never gonna come the way I am
 Could I change it if I wanted, can I rise above the flood
         Em7              G               D             G     G
 Will it wash out in the water or is it always in the blood
- 
- 
-INTERLUDIO
+
+
+INSTRUMENTAL
 Em7     Cadd9 G  Em7      Cadd9 G
 Em7     Cadd9 G  Em7  G   D     G
- 
- 
+
+
 ESTRIBILLO
       Em7              G          Cadd9            G
 I can feel the love I want, I can feel the love I need
@@ -89,8 +81,8 @@ But it's never gonna come the way I am
 Could I change it if I wanted, can I rise above the flood
          Em7             G               D             G
 Will it wash out in the water or is it always in the blood
- 
- 
+
+
 FINAL
     Em7   G     Cadd9   G
     Oh,     oh, oh
@@ -100,6 +92,7 @@ Oh, oh,     oh, oh wo
     Oh,     oh, oh
     Em7   G     D      (G)
 Oh, oh,     oh, oh      oh
- 
+
 G       D G         D
 G       D G         D G
+

@@ -1,15 +1,9 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: El Canto Del Loco
-CANCION: HE VUELTO A CAER - HE VUELTO A CAER
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
+Artista: El Canto Del Loco
+Canción: He Vuelto a Caer - He Vuelto a Caer
+Capo: No
+Disco: El canto del loco
+Afinación: Eb Ab Db Gb Bb Eb
+
 
 Artista:	El Canto del loco
 Disco:		El canto del loco
@@ -67,3 +61,4 @@ G           Am7         G/B   C
 tan sólo espero mantenerlo
 G           Am7         G/B   C
 tan sólo quiero y sé que puedo.
+

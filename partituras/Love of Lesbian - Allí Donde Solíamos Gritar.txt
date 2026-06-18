@@ -1,19 +1,12 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Love of Lesbian
-CANCION: ALLÍ DONDE SOLÍAMOS GRITAR
-ALBUM:   -
-================================================================================
-AFINACION: Estandar (E A D G B E)
+Artista: Love of Lesbian
+Canción: Allí Donde Solíamos Gritar
+Capo: 1
+Disco: 
+Afinación: 
 CEJILLA/CAPO: Capo 1
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e informacion adicional)
-================================================================================
 
 LOVE OF LESBIAN - ALLÍ DONDE SOLÍAMOS GRITAR
 Love of lesbian
-Capo 1
 
 INTRO
 E  Bm  D  C#m E  Bm  D  A
@@ -45,13 +38,13 @@ Soy grito y soy cristal
             D
 Justo el punto medio
                A
-El que tanto odiabas cuando tú me repetías 
+El que tanto odiabas cuando tú me repetías
 que
 E
 Te hundirá y me hundirá
  Bm                         D
 Y solamente el grito nos servirá
-              A                    
+              A
 Decías "es fácil" y solías empezar
 
 INSTRUMENTAL
@@ -108,6 +101,4 @@ Lo sé, tú no
 No preguntabas
            A
 Tú nunca, no
-
-
 

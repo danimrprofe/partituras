@@ -1,64 +1,55 @@
-﻿# PARTITURA v1
-================================================================================
-ARTISTA: Leiva
-CANCIÓN: TODO LO QUE TU QUIERAS2
-ÁLBUM:   -
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Sin cejilla
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
+Artista: Leiva
+Canción: todo lo que tu quieras
+Capo: No
+Disco: Diciembre
+Afinación: 
+ALBUM: Diciembre
+AÑO: 2012
 
-# Todo Lo Que Tú Quieras
-
-**Información**
-
-| Tonalidad | Tempo | Compás | Capo |
-| --------- | ----- | ------ | ---- |
-| Sol Mayor | X bpm | 4/4    | No   |
-
-INTRO
-```
-G C G D
-```
 ESTROFA
-```
 G
 Hace ya tiempo del huracán, de los puñales y los vuelos,
-      C                                C-D
+   C                                C D
 y no sé cómo hacerlo, no sé cómo hacerlo.
 G
 Sube la fiebre, sube el pan, el descosido de tus vaqueros,
-      C                                C-D
+  C                                C D
 y no sé cómo hacerlo, no sé cómo hacerlo.
-```
-PRE-ESTRIBILLO
-```
-Em               C            D                   G         Em
-Dos vidas sin saber quien eres, dos tragos por el ultimo bay bay
+Em             C                D                 G            Em
+Dos vidas sin saber quién eres, dos tragos por el ultimo "Bye, bye  "
                 A
-Ya sabes que seráaaaa
+Ya sabes que será.
 
-```
 ESTRIBILLO
-```
+D       C                G      D      C                 G
+Uuuh! ¡todo lo que tú quieras! Uuuh! ¡todo lo que tú quieras!
 
-D     C             G         D     C             G
-Uuuh! todo lo que tu quieras! Uuuh! todo lo que tu quieras!
-```
+G C G C
+
 ESTROFA
-```
-G                             C                                 C-D
-De los fracasos y los celos, y no sé como verlo, No sé como verlo.
+D-G
+Hace ya tiempo de la señal
+                             C                                 C D
+De los fracasos y los celos, y no sé cómo verlo, No sé cómo verlo.
 G
 No queda hueco para más No tengo aliento ni en los sueños
   C                 C-D C
-Y no sé como hacerlo    No sé como hacerlo
-```
-**Repite pre-estribillo**
+Y no sé cómo hacerlo    No sé cómo hacerlo
+Em             C                D                 G            Em
+Dos vidas sin saber quién eres, dos tragos por el ultimo "Bye, bye  "
+                A
+Ya sabes que será.
 
-**Repite estribillo**
+ESTRIBILLO
+D       C                G      D      C                 G
+Uuuh! ¡todo lo que tú quieras! Uuuh! ¡todo lo que tú quieras!
+D       C                G      D      C                 G
+Uuuh! ¡todo lo que tú quieras! Uuuh! ¡todo lo que tú quieras!
 
+A D A D
+
+E        D                A      E      D               A
+Uuuh! ¡todo lo que tú quieras! Uuuh! ¡todo lo que tú quieras!
+E        D                A      E      D                A
+Uuuh! ¡todo lo que tú quieras! Uuuh! ¡todo lo que tú quieras!
 
