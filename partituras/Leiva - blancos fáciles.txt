@@ -1,18 +1,10 @@
-Artista: Leiva
+Artista: LEIVA feat. Nina de Juan
 Canción: blancos fáciles
 Capo: No
 Disco: Cuando te muerdes el labio
-Afinación: 
+Afinación: Estándar (E A D G B E)
 ALBUM: Cuando te muerdes el labio
 AÑO: 2021
-
-CEJILLA/CAPO: Estándar (E A D G B E)
-
-======================================
-ARTISTA: LEIVA feat. Nina de Juan
-CANCIÓN: Blancos Fáciles
-ÁLBUM: Cuando te muerdes el labio (2021)
-======================================
 
 ESTROFA
 C
@@ -93,4 +85,3 @@ Hay un abismo detrás
                   Am     G           C
 De los egos salvajes y blancos fáciles
 X
-

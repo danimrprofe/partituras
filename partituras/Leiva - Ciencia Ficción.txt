@@ -1,8 +1,7 @@
 Artista: Leiva
 Canción: Ciencia Ficción
 Capo: No
-Disco: Pólvora
-Afinación: 
+Afinación:
 ALBUM: Pólvora
 AÑO: 2014
 
@@ -78,4 +77,3 @@ pero ahí estoy, dejándome enredar
 Y te sorprenderás soy tan peliculero. Y cada día lo soy más,
                     G
 pero ahí estoy, dejándome llevar
-

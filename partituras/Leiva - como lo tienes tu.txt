@@ -1,13 +1,14 @@
 Artista: Leiva
 Canción: como lo tienes tu
 Capo: No
-Disco: 
-Afinación: 
+Disco:
+Afinación:
 
 Esta es la versión de Pereza
 
 INTRO
 G | C | G | D
+
 ESTROFA
 G                                       C
 Soy como tú estás, soy como te sientas, soy Satanás, soy la Cenicienta.
@@ -17,6 +18,7 @@ G                                         C
 Soy un aprensivo, me sigue la enfermedad, soy un tío vivo, soy un tipo de verdad.
     Am                         D
 Soy caro cuando hay vicio, soy igual desde el principio
+
 PRE-ESTRIBILLO
              C    Em                        B        C
 y hasta el finaaaaaaal, es lo que tengo, es lo que hay,
@@ -99,4 +101,3 @@ Como lo tienes tu, como lo tienes tu, como quisiera tenerlo tan claro como lo ti
 Como lo tienes tu, como lo tienes tu, como quisiera tenerlo tan claro
           C
 Como lo tienes tuuuuuuuuuuu
-

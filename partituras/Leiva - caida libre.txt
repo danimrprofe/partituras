@@ -1,12 +1,9 @@
 Artista: Leiva
 Canción: caida libre
 Capo: 5
-Disco: Gigante
-Afinación: 
+Afinación:
 ALBUM: Gigante
 AÑO: 2025
-
-CEJILLA/CAPO: 5
 
 INTRO
 C Dm Gsus4 G  x2
@@ -102,4 +99,3 @@ C           C/B            Am  G
 En cuanto me dé un rayo de Sol
                   F      G         C
 Voy a hacerme una foto en un fotomatón
-

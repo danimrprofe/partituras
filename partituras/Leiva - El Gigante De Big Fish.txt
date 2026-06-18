@@ -1,9 +1,8 @@
 Artista: Leiva
 Canción: El Gigante De Big Fish
 Capo: 1
-Disco: 
-Afinación: 
-CEJILLA/CAPO: 1
+Disco:
+Afinación:
 
 ESTROFA
 D                          Dsus4  D                 Dsus4

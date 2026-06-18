@@ -1,8 +1,9 @@
 Artista: Leiva
 Canción: Iceberg
 Capo: No
-Disco: 
-Afinación: 
+Disco:
+Afinación:
+
 ESTROFA
 D         G                     D                G
 Tú estás más o menos bien Y no hay nada malo en ello

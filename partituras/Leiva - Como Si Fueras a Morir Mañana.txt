@@ -1,13 +1,11 @@
 Artista: Leiva
 Canción: Como Si Fueras a Morir Mañana
-Capo: 1
-Disco: Nuclear
-Afinación: 
 ALBUM: Nuclear
 AÑO: 2019
-
-CEJILLA/CAPO: 1
-Tonalidad Mi b mayor
+Capo: 1
+Disco: Nuclear
+Tonalidad: Mi b mayor
+Afinación:
 
 INTRO
 D Dsus4 x2
@@ -73,4 +71,3 @@ Aunque lo veas demasiado lejos ¡oh, oh!
 ¡Hazlo! Como si no supieras que se acaba.
          D         A       G
 Como si fueras a morir mañana
-

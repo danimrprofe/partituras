@@ -1,12 +1,9 @@
 Artista: Leiva
 Canción: Costa De Oaxaca
-Capo: No
-Disco: Nuclear
-Afinación: 
+Capo: -1
+Afinación:
 ALBUM: Nuclear
 AÑO: 2019
-
-CEJILLA/CAPO: -1
 
 ESTROFA
 

@@ -1,8 +1,8 @@
 Artista: Leiva
 Canción: histericos
 Capo: 1
-Disco: 
-Afinación: 
+Disco:
+Afinación:
 CEJILLA/CAPO: 1
 En algunos acústicos capo 2. 78 bpm
 
@@ -16,7 +16,7 @@ Te llovían las marcas. Era tan "Black Mirror"
       G                      C
 Yo sabía que no ibas a aguantar
 
-      C                             F
+ C                                F
 Yonqui de la velocidad. Se te afilaban las garras
           Am                     G
 Cuando estábamos a punto de avanzar
@@ -27,7 +27,7 @@ Y abrazarte a todo lo que da
 
 ESTRIBILLO
 
-           Am                 F             C    Em   G
+           Am                   F             C    Em   G
 No me das miedo. Lánzame hacia ti. Dame de lleno
              Am            F              C   G   G7
 Haz el esfuerzo. Déjalo fluir. Hazte con ello
@@ -63,4 +63,3 @@ ESTRIBILLO
 No me das miedo. Lánzame hacia ti. Dame de lleno
              Am            F              C   G   G7
 Haz el esfuerzo. Déjalo fluir. Hazte con ello
-
