@@ -1,20 +1,10 @@
-# PARTITURA v1
-================================================================================
-ARTISTA: LEIVA
-CANCIÓN: PELIGROSAMENTE DARK
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 2
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-================================================================================
-ARTISTA: LEIVA FT. SILVANA ESTRADA
-CANCIÓN: PELIGROSAMENTE DARK
-ÁLBUM:   CUANDO TE MORDIAS LOS LABIOS (2021)
-================================================================================
+Leiva
+Peligrosamente dark
+Capo 2
+
+INTRO
+C   Cmaj7 F G
+C   Cmaj7 F G
 
 ESTROFA
             C           Cmaj7          F           G
@@ -23,13 +13,13 @@ ESTROFA
 ¿Qué harías tú? ¿Si te ahogaras y no supieras cómo se expresa?
 
 ESTRIBILLO
-            F            C/E           Am                      
-¿Qué harías tú? Yo me empiezo A acostumbrar 
+            F            C/E           Am
+¿Qué harías tú? Yo me empiezo A acostumbrar
    Am/G         F
 Se me va la fuerza
-      G           C              C7                               
-Solo me dedico a aullar, a inventar respuestas. 
-Dm                  G      G7        C        
+      G           C              C7
+Solo me dedico a aullar, a inventar respuestas.
+Dm                  G      G7        C
 Déjame estar Peligrosamente dark
 
 C Cmaj7 F G

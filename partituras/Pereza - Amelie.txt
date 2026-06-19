@@ -1,8 +1,6 @@
-Artista: Pereza
-Canción: Amelie
+Pereza
+Amelie
 Capo: 2
-Disco: 
-Afinación: 
 
 ESTROFA
         Am              F                          C
@@ -60,4 +58,3 @@ F                   C           G     Am
 pequeña sonrisa de Amelie me tienes ganado
 F                   C          G     Am
 pequeña sonrisa de Amelie me tienes calado
-

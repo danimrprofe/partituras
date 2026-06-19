@@ -1,10 +1,7 @@
-Artista: Melon Diesel
-Canción: Quiero Un Camino
-Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
+Melon Diesel
+Quiero Un Camino
 
+INTRO
 F - E7 - Am7 - D7
 F - E7 - Am7 - D7
 
@@ -67,4 +64,3 @@ muéstrame el lugar donde debo. ir si el lugar
 oh siempre ella oh siempre ella oh siempre ella oh siempre ella
            F   C   G
 oh tu llamada     ohhh yeah
-

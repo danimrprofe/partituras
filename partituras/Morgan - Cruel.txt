@@ -1,8 +1,6 @@
 Artista: Morgan
 Canción: Cruel
 Capo: 2
-Disco: 
-Afinación: 
 
 ESTROFA 1
                 Em
@@ -131,4 +129,3 @@ Que tengo miedo
 Que ya no quiero
        Em
 Quererte
-

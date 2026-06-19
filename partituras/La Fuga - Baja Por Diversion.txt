@@ -1,9 +1,5 @@
 Artista: La Fuga
 Canción: Baja Por Diversion
-Capo: No
-Disco: 
-Afinación: 
-
 
 Intro: Dm  C  Bb  (x2)
 
@@ -63,4 +59,3 @@ F                        C
 con el camión de la basura a casa a volver
 Bb                  Dm           C
 cuando el madrugador ya se deje ver
-

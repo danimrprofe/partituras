@@ -1,8 +1,5 @@
 Artista: Pereza
 Canción: La Noria
-Capo: No
-Disco: 
-Afinación: 
 
 ESTROFA
 F#m                      E
@@ -75,4 +72,3 @@ A             F#m           E
 la vida va pasando y tú no estás...
 A             F#m           E
 los días van pasando y tú no estás.
-

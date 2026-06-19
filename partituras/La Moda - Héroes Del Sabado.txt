@@ -1,9 +1,5 @@
 Artista: La Moda
-Canción: Héroes Del Sabado
-Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
+Canción: Héroes Del Sábado
 
 [Tab - Intro]
 
@@ -107,4 +103,3 @@ El niño crecerá, y entenderá lo que su padre ignora
                                 Em           E        Em
 ¿Dónde están los que pueden cambiar el mundo solo con pensar?
 X
-

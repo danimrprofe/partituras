@@ -1,8 +1,5 @@
 Artista: Marea
 Canción: La rueca
-Capo: No
-Disco: 
-Afinación: 
 
 B
 
@@ -22,7 +19,6 @@ B G                   D                 A
      Se cansó de esperar a su sueño despierto.
 
 ESTRIBILLO
-
 G                     A
 ¿mi sueño donde está?, durmiendo la tajá
 B
@@ -41,7 +37,6 @@ Me bastan cuarenta duros de felicidad
 B A G A
 B A G
 B
-
 
 ESTROFA 2
 

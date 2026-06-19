@@ -1,12 +1,5 @@
 Artista: MClan
 Canción: viaje al sur
-Capo: No
-Disco: 
-Afinación: 
-# Viaje al sur
-
-Mi mayor
-
 
 INTRO
 E D A
@@ -69,4 +62,3 @@ Sera nuestra película, recuerdos de un viaje hacia el sur
 
 E D A
 E D A
-
