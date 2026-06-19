@@ -1,16 +1,8 @@
 Artista: Countin Crows
 Canción: Colorblind
-Capo: No
-Disco: This Desert Life
-Afinación: Estándar (E A D G B E)
-================================================================================
-ARTISTA: Counting Crows
-CANCIÓN: Colorblind
-ÁLBUM: This Desert Life
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: No
-LEYENDA / NOTAS ADICIONALES:
-A#maj7 [X13231] C6 [X32210]
+
+A#maj7 [X13231]
+C6 [X32210]
 
 INTRO
 Am  A#maj7 F   (x2)
@@ -53,4 +45,3 @@ Am   A#maj7       F          C6
 I am ready. I am ready. I am ready, I am... fine
 Am  A#maj7 F Am  A#maj7 F
 I am fine.    I am fine
-

@@ -1,9 +1,5 @@
-Artista: Dani Martín
-Canción: quecaroeseltiempo
-Capo: No
-Disco: 
-Afinación: 
-
+Dani Martín
+Que caro es el tiempo
 
 ESTROFA
 C                        G           D
@@ -48,4 +44,3 @@ C        D               Em              G
  Perdona,  si digo , que quiero seguir siendo lo de ayer
 C        D                  G         D                  Em   D
  Un niño,  sin miedo, que regala su cariño y no sabe porqué
-

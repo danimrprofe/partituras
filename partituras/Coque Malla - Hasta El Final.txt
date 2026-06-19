@@ -1,9 +1,7 @@
-Artista: Coque Malla
-Canción: Hasta El Final
-Capo: 2
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 2
+Coque Malla
+Hasta El Final
+Capo 2
+
 INTRO
 C    Csus   C    Csus
 
@@ -86,4 +84,3 @@ TENGO GANAS DE ABRAZARTE, TENGO GANAS DE LLEGAR AL FINAL... AL FINAL
 
 FINAL
 C  Csus   C
-

@@ -1,11 +1,6 @@
 Artista: Dani Martín
 Canción: contigo
-Capo: No
-Disco: 
-Afinación: 
 
-
-## Contigo
 Am                    Dm
 Contigo, quiero estar contigo
     G                               F    E
@@ -75,4 +70,3 @@ Dm               Em          F              Em
 Siento cuando estás, y tú me das tu voz con esa fuerza
 Dm          Em          F
 Quiero oírte más tu voz gritar.
-

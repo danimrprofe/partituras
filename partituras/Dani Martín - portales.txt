@@ -1,9 +1,6 @@
 Artista: Dani Martín
 Canción: portales
 Capo: 2
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 2
 
 INTRO
 G
@@ -65,4 +62,3 @@ Y acabar nuestro domingo follando como animales
 OUTRO
         G            D           G
 Y que queden tantas cosas que decir
-

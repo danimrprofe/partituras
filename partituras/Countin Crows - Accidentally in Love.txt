@@ -1,12 +1,5 @@
-Artista: Countin Crows
-Canción: Accidentally in Love
-Capo: No
-Disco: 
-Afinación: 
-
-
-COUNTIN CROWS
-ACCIDENTALLY IN LOVE
+Countin Crows
+Accidentally in Love
 
 INTRO
 G   C   G   D
@@ -107,4 +100,3 @@ G        Am
 Come on, come on
      C              D        Em    D             G
 Just get yourself inside her love.....I'm in love
-

@@ -1,9 +1,5 @@
-Artista: Coldplay
-Canción: clocks
-Capo: No
-Disco: 
-Afinación: 
-
+Coldplay
+Clocks
 
 INTRO
 D  Am  Am  Em  x4
@@ -85,4 +81,3 @@ Home, home, where I wanted to go
 (w/High Piano Riff)
 D  Am  Am  Em  x3
 (fade out)
-

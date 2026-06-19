@@ -1,13 +1,3 @@
-Artista: Dani Martín
-Canción: Me Vuelves Puto Loco
-Capo: No
-Disco: Afinación:
-Afinación: Dani Martín
-Artista: Dani Martín
-Canción: Me Vuelves Puto Loco
-Capo: No
-Disco: 
-Afinación: 
 Dani Martín
 Me Vuelves Puto Loco
 
@@ -112,5 +102,3 @@ D              Bm   F#m  A
 Me vuelves puto loco (Cariño)
 D              Bm   F#m  A D
 Me vuelves puto loco (loquillo)
-
-

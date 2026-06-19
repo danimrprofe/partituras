@@ -1,9 +1,5 @@
 Artista: Coldplay
 Canción: scientist
-Capo: No
-Disco: 
-Afinación: 
-
 
 Intro
 Am7 - F Fadd9 - C - Csus2
@@ -69,4 +65,3 @@ Am7    F            C Csus2
 Oh - ooo-oo-oo-oo-ooo
 Am7    F            C Csus2
 Oh - ooo-oo-oo-oo-ooo
-

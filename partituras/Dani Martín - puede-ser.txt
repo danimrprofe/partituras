@@ -1,11 +1,5 @@
-Artista: Dani Martín
-Canción: puede-ser
-Capo: No
-Disco: 
-Afinación: 
-
-
-## Puede ser
+Dani Martín
+Puede ser
 
 INTRO
 G D/F# Em7 Dsus4 C D
@@ -102,4 +96,3 @@ Algo que pueda encontrar
 Que me ayude a imaginar
                   C
 Y yo lo quiero lograr
-

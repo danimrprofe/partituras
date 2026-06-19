@@ -1,9 +1,7 @@
-Artista: Coque Malla
-Canción: Berlín
-Capo: 6
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 6
+Coque Malla
+Berlín
+Capo 6
+
 INTRO
 G G/F# Em C G G/F# Em Em x2
 
@@ -46,4 +44,3 @@ G       G/F#           Em          C
 voy a recorrer esta ciudad, voy a quedarme
        G       G/F#    Em
 en Berlín para toda la vida.
-

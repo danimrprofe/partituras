@@ -1,8 +1,6 @@
-Artista: Coti
-Canción: Nada Fue Un Error
-Capo: No
-Disco: 
-Afinación: 
+Coti
+Nada Fue Un Error
+
 INTRO
 A - E - D - E
 

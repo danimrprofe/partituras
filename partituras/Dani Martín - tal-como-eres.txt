@@ -1,9 +1,6 @@
 Artista: Dani Martín
 Canción: tal-como-eres
-Capo: No
-Disco: 
-Afinación: 
-
+Capo 4
 
 INTRO
 Am  Dm  F   G  Am  G  Am
@@ -103,4 +100,3 @@ Y cambiar lo que duele
 
 OUTRO
 E
-

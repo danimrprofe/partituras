@@ -1,14 +1,10 @@
-Artista: Coldplay
-Canción: dont panic
-Capo: No
-Disco: 
-Afinación: 
-
+Coldplay
+Dont panic
 
 INTRO
 Fmaj7 Fmaj9
 
-ESTROFA 1
+ESTROFA
 Am                  C
 Bones, sinking like stones
              Fmaj7
@@ -65,4 +61,3 @@ Oh, all that I know
 There's nothing here to run from
   Am                C                    Fmaj7
 Cos yeah, everybody here got somebody to lean on
-

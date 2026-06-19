@@ -1,12 +1,6 @@
 Artista: Damien Rice
 Canción: Cannonball
-Capo: No
-Disco: 
-Afinación: 
-
-
-DAMIEN RICE
-CANNONBALL
+Capo 6
 
 ESTROFA
 Em7                   Cadd9         G       G/F#
@@ -53,4 +47,3 @@ It's not hard to fall, and I don't wanna lose
           Am7                   Cadd9          D              Em7
 It's not hard to grow, when you know that you just don't know
 Em7  Cadd9  G   G/F#
-

@@ -1,9 +1,5 @@
 Artista: Coldplay
 Canción: fix you
-Capo: No
-Disco: 
-Afinación: 
-
 
 INTRO
 C  Em  Am7  G  x2
@@ -84,4 +80,3 @@ F   C  G            F
 And ignite your bones,
 F      C   G               C
 And I will try to fix you.
-

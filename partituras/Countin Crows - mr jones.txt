@@ -1,15 +1,5 @@
 Artista: Countin Crows
 Canción: mr jones
-Capo: No
-Disco: Afinación:
-Afinación: Countin Crows
-Artista: Countin Crows
-Canción: mr jones
-Capo: No
-Disco: 
-Afinación: 
-Countin Crows
-mr jones
 
 ESTROFA 1
 Am                     F         Dm               G
@@ -20,7 +10,7 @@ Mr. Jones strikes up a conversation with this black-haired flamenco dancer
 You know she dances while his father plays guitar.  She's suddenly beautiful
    Am                 F         G
 We all want something beautiful,  man, I wish I was beautiful
- 
+
         Am                 F                        Dm
 So come dance this silence down through the morning
           G              Am      F   G
@@ -33,8 +23,8 @@ Am           F   Dm                  G
   Believe in me.  Help me believe in anything
        Am           F             G
 'Cause I want to be someone who believes, yeah
- 
- 
+
+
 ESTRIBILLO
 C    F           G
  Mr. Jones and me, tell each other fairy tales
@@ -46,11 +36,11 @@ and we stare at the beautiful women
 Smiling in the bright lights, coming through in stereo
      C              F    G
 When everybody loves you, you can never be lonely
- 
+
 ESTROFA 2
- 
+
       Am              F       Dm                G
-Well, I will paint my picture.  Paint myself in blue and red and black and 
+Well, I will paint my picture.  Paint myself in blue and red and black and
 gray
 Am                    F                    G
  All of the beautiful colors are very, very meaningful (yeah, well you know)
@@ -58,10 +48,10 @@ Am                   F       Dm           G
 Gray is my favorite color  I-I felt so symbolic yesterday
 Am           F             G
  If I knew Picasso I would buy myself a gray guitar and play
- 
- 
+
+
 ESTRIBILLO
- 
+
 C    F            G
  Mr. Jones and me, look into the future
         C                      F
@@ -72,7 +62,7 @@ C               F         G
 Standing in the spotlight, I bought myself a gray guitar
      C           F       G                        Am
 When everybody lo-ves me,  I will never be lo-one-ly
- 
+
 PUENTE
                 Fmaj7
 I will never be lonely
@@ -86,10 +76,10 @@ Am                       F
  Believe in me because I don't believe in anything
     Am                              G
 And I want to be someone to believe, to believe, to believe.
- 
- 
+
+
 ESTRIBILLO
- 
+
 C    F            G
  Mr. Jones and me, stumbling through the barrio
         C                      F
@@ -102,7 +92,7 @@ I want to be Bob Dylan
 Mr. Jones wishes he was someone just a little more funky
     C           F            G
 When everybody loves you, ah son, that's just about as funky as you can be.
- 
+
 C    F            G
  Mr. Jones and me, staring at the video
        C               F                 G
@@ -111,8 +101,6 @@ C                 F                 G
 We all want to be big stars, but we don't know why, and we don't know how.
          C               F                G
 But when everybody loves me, I'm going to be just about as happy as I can be.
- 
+
 C   F            G
 Mr. Jones and me, we're gonna be big stars.....
-
-

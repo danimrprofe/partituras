@@ -1,13 +1,5 @@
-Artista: Countin Crows
-Canción: a Long December
-Capo: No
-Disco: 
-Afinación: 
-
-
-COUNTIN CROWS
-A LONG DECEMBER
-Piano
+Countin Crows
+A Long December
 
 INTRO
 F  A# Gm A#
@@ -79,4 +71,3 @@ And it's one more night in Hollywood
 If you think you might come to California...
               F	  A#   Gm  A#   F   A#   Gm
 I think you should nanananananananana. Yeah
-

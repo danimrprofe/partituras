@@ -1,11 +1,6 @@
 Artista: Dani Martín
 Canción: no-vuelven
-Capo: No
-Disco: 
-Afinación: 
 
-
-## No vuelven
 INTRO
 Em C7 G D
 
@@ -110,4 +105,3 @@ no vuelve, no
 no vuelve, no
 Cadd9
      y sólo queda la canción.
-
