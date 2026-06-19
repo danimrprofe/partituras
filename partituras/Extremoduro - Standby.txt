@@ -1,34 +1,5 @@
 Artista: Extremoduro
 Canción: Standby
-Capo: 0
-Disco: —
-Afinación: Estándar (E A D G B E)
-# PARTITURA v1
-================================================================================
-ARTISTA: Extremoduro
-CANCIÓN: standby
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-
-================================================================================
-LEYENDA DE TÉCNICAS:
-s ---> slide
-h ---> hammer on
-p ---> pull off
-x ---> palm mute
-b ---> bending
-r ---> release bending
-================================================================================
-NOTAS ADICIONALES: Tema fundamental del rock español. La introducción limpia
-es icónica; asegúrate de marcar bien los silencios y las dinámicas antes de
-entrar con la distorsión.
-================================================================================
 
 RIFF 1  (X2)
 Este es el acompañamiento que suena en casi toda la canción

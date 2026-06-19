@@ -1,20 +1,8 @@
 Artista: eels
 Canción: end times
 Capo: 2
-Disco: End Times
 Afinación: Drop D tuning
-Artista: eels
-Canción: end times
-Capo: 2
-Disco: End Times
-Afinación: Drop D tuning
-eels
-end times
-Capo 2
-Disco: : End Times
-Afinación: 
- Drop D tuning
- 
+
  
 INTRO & VERSE
          C     F       C

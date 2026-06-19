@@ -1,17 +1,6 @@
-# PARTITURA v1
-================================================================================
 ARTISTA: RISE AGAINST
 CANCIÓN: HERO OF WAR
-ÁLBUM:   —
-================================================================================
-AFINACIÓN: Estándar (E A D G B E)
-CEJILLA/CAPO: Capo 0
-================================================================================
-LEYENDA / NOTAS ADICIONALES:
-(Acordes e información adicional)
-================================================================================
-RISE AGAINST - HERO OF WAR
-Rise against
+
 Fsus2 G
          	C                         		Em                                              Fmaj7		         C	
 He said "Son, have you seen the world? Well, what would you say if I said that you could?

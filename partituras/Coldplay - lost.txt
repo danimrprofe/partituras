@@ -1,9 +1,5 @@
 Artista: Coldplay
 Canción: lost
-Capo: No
-Disco: 
-Afinación: 
-
 
 when you get to the first D in the chorus, try to play around
 with Dsus4(x00233) and Dsus?(x00235).

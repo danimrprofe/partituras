@@ -1,8 +1,6 @@
 Artista: Shakira
 Canción: Te Dejo Madrid
-Capo: No
-Disco: 
-Afinación: 
+ 
 Intro
 
 F#5 - Em - B5 - F#5 (bis)

@@ -1,9 +1,6 @@
 Artista: Shakira
 Canción: Estoy Aqui
 Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
 
 INTRO
 D                 A

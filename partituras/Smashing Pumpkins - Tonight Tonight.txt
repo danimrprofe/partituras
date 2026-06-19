@@ -1,20 +1,14 @@
 Artista: Smashing Pumpkins
 Canción: Tonight Tonight
 Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
 
-SMASHING PUMPKINS
-TONIGHT TONIGHT
-Smashing pumpkins
+INTRO
  eb|---------------------------------|
  Bb|--0-----0---------0-----0--------|
  Gb|----0-----0---0-----0-----0---0--|
  Db|---------------------------------|
  Ab|-3----3-----3----5-----5----5----|
  Eb|---------------------------------|
-[Fig. 2]
 
  eb|---------------------------------|
  Bb|--0-----0---------0-----0--------|

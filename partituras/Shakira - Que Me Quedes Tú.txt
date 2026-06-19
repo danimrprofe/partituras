@@ -1,8 +1,6 @@
 Artista: Shakira
 Canción: Que Me Quedes Tú
-Capo: No
-Disco: 
-Afinación: 
+ 
 ESTROFA 1
 E                      Bm
 Que se arruinen los canales de noticias

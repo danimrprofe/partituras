@@ -1,8 +1,6 @@
 Artista: Shakira
 Canción: Si Te Vas
-Capo: No
-Disco: 
-Afinación: 
+
 INTRO
 D A Em Em
 D A Em

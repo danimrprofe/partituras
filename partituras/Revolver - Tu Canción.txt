@@ -1,8 +1,6 @@
 Artista: Revolver
 Canción: Tu Canción
 Capo: 2
-Disco: 
-Afinación: 
 
 ESTROFA
         C           G/B              Am     Am/G

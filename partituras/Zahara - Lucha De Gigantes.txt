@@ -1,11 +1,10 @@
 Artista: Nacha Pop
 Canción: Lucha De Gigantes
-Capo: No
-Disco: 
-Afinación: 
 
+INTRO
 C9 - Dsus - Em7 - A7 (X2)
 
+ESTROFA
 C9          Dsus			 Em7                A7
 Lucha de gigantes convierte el aire en gas natural
 C9        Dsus	  		Em7                    A7

@@ -1,8 +1,5 @@
 Artista: Revolver
 Canción: San Pedro
-Capo: 0
-Disco: 
-Afinación: 
 
 INTRO
 G C G C

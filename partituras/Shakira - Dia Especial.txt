@@ -1,9 +1,6 @@
 Artista: Shakira
 Canción: Dia Especial
-Disco: 
-Afinación: 
 CEJILLA/CAPO: Capo 1
-
 
 F       Am           C        G      
 Ya no se si es muy tarde para ti

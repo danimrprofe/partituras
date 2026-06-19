@@ -1,12 +1,6 @@
 Artista: Shakira
 Canción: Underneath Your Clothes
-Capo: 0
-Disco: 
-Afinación: Eb Ab Db Gb Bb EbCejilla: Sin cejilla
-CEJILLA/CAPO: Capo 0
-
-Inevitable
-Afinación: 	Eb Ab Db Gb Bb EbCejilla: Sin cejilla
+Afinación: 	Eb Ab Db Gb Bb Eb
 
 ESTROFA
 G                       Cadd9

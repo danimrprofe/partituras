@@ -1,12 +1,7 @@
 Artista: Paolo Nutini
 Canción: candy
-Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
 
-PAOLO NUTINI
-CANDY
+INTRO
 Am     Em
 
 ESTROFA

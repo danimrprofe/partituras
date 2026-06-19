@@ -1,9 +1,5 @@
 Artista: Coldplay
 Canción: viva la vida
-Capo: No
-Disco: 
-Afinación: 
-
 
 INTRO
 C D G Em    x2

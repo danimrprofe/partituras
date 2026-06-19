@@ -1,9 +1,6 @@
 Artista: Snow Patrol
 Canción: the Finish Line
 Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
 
 ESTROFA
 C          Am       G              F

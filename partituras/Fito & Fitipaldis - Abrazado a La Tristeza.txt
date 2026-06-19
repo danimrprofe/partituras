@@ -1,13 +1,7 @@
 Artista: Fito & Fitipaldis
 Canción: Abrazado a La Tristeza
-Capo: No
-Disco: 
-Afinación: 
 
-
-FITO & FITIPALDIS
-ABRAZADO A LA TRISTEZA
-No capo
+INTRO
 Am Am Em Em
 Am Am Em Em
 C D Em Em
