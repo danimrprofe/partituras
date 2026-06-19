@@ -1,9 +1,6 @@
 Artista: Pereza
 Canción: Violento Amor
 Capo: 4
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 4
 
 G        D C            G     D   C
 Violento amor, semanas rotas en dos,

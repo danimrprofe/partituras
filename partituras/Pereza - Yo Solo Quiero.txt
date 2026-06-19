@@ -1,14 +1,12 @@
 Artista: Pereza
 Canción: Yo Solo Quiero
 Capo: 0
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 0
 
-YO SOLO QUIERO
+INTRO
 C#m A E B
 C#m A E B
 
+ESTROFA
         C#m        A           E        B        C#m       A      E    B
 Aunque nunca supe cómo empezar esto Tú eres la cosita que yo más quiero
           C#m    A       E   B            G#m            A
