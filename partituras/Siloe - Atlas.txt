@@ -1,6 +1,9 @@
 Siloé
 Atlas
-Capo 4
+Capo 4 original, en directo capo 2
+
+INTRO
+C F C F
 
 ESTROFA
 C                                      F
@@ -18,31 +21,42 @@ Para intentar convencerme de que esto es España
 Am
 Esto es España
 
-        F.         G.                            Am
+ESTRIBILLO
+    F             G                        Am
 No hay nadie como tú, no hay nada que nos haga arder
-        F.         G.                            Am
+ F                  G                     Am
 Soy tan frágil como tú, soy incapaz de hacerlo bien
 
+ESTROFA
 C.                                        F
-Espera sin riesgos. Maestros que no saben nada
+Entrega sin riesgos. Maestros que no saben nada
     G.                  F.                Am
 Pupilas abiertas con drogas que alegran el alma
 C.                                        F
 Caminos de rosas. Fervientes capillas de santas
       G.               F.                   Am
 Que apuran el último céntimo en velas y estampas
-Am
+              Am
 En velas y estampas
 
-       F.         G.                             Am
+ESTRIBILLO
+    F             G                        Am
 No hay nadie como tú, no hay nada que nos haga arder
-       F.         G.                            Am
+ F                  G                     Am
 Soy tan frágil como tú, soy incapaz de hacerlo bien
-       F.         G.                            Am
+   F                     G                    Am
 Tú sígueme, aquí no hay luz, ya son las ocho menos diez
-       F.         G.                             Am
+ F                   G                    Am
 Soy tan frágil como tú, soy incapaz de hacerlo bien
-Am
+   Am                Am
 De hacerlo bien, de hacerlo bien
 
-Oh. (F G Am)
+FINAL
+    F          G        Am  Am
+o o oooh  o o oooh o o oooh
+    F          G        Am  Am
+o o oooh  o o oooh o o oooh
+    F          G        Am  Am
+o o oooh  o o oooh o o oooh
+    F          G        Am  Am
+o o oooh  o o oooh o o oooh
