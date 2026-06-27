@@ -1,13 +1,7 @@
 Artista: Carlos Sadness
 Canción: Soñé Contigo
 Capo: 4
-Disco: 
-Afinación: 
-CEJILLA/CAPO: Capo 4
-
-CARLOS SADNESS
-SOÑÉ CONTIGO
-Para mí capo 4 bajando
+Tocar 2 tonos abajo (E = C)
 
 ESTROFA
      E                      E7         F#m7
